@@ -1,0 +1,3061 @@
+{
+  "cluster_id": 66,
+  "papers": [
+    {
+      "id": "iclr24_ptXo0epLQo",
+      "paper_id": "ptXo0epLQo",
+      "title": "$\\alpha$TC-VAE: On the relationship between Disentanglement and Diversity",
+      "authors": "Cristian Meo, Louis Mahon, Anirudh Goyal, Justin Dauwels",
+      "paper_url": "https://openreview.net/pdf?id=ptXo0epLQo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_c1Ng0f8ivn",
+      "paper_id": "c1Ng0f8ivn",
+      "title": "$\\mathbb{X}$-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs",
+      "authors": "Vlad Sobal, Mark Ibrahim, Randall Balestriero, Vivien Cabannes, Diane Bouchacourt, Pietro Astolfi, Kyunghyun Cho, Yann LeCun",
+      "paper_url": "https://openreview.net/pdf?id=c1Ng0f8ivn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_FOyuZ26emy",
+      "paper_id": "FOyuZ26emy",
+      "title": "A Critique of Self-Expressive Deep Subspace Clustering",
+      "authors": "Benjamin David Haeffele, Chong You, Rene Vidal",
+      "paper_url": "https://openreview.net/pdf/b695594106c11bb76d5334e21cd6ae28728ec857.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_RQ428ZptQfU",
+      "paper_id": "RQ428ZptQfU",
+      "title": "A Deep Variational Approach to Clustering Survival Data",
+      "authors": "Laura Manduchi, Ričards Marcinkevičs, Michela C. Massi, Thomas Weikert, Alexander Sauter, Verena Gotta, Timothy Müller, Flavio Vasella, Marian C. Neidert, Marc Pfister, Bram Stieltjes, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/4e7d71ca800835719ffc2ca92d89f481f7c33f71.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_KiN7g8mf9N",
+      "paper_id": "KiN7g8mf9N",
+      "title": "A Differentiable Rank-Based Objective for Better Feature Learning",
+      "authors": "Krunoslav Lehman Pavasovic, Giulio Biroli, Levent Sagun",
+      "paper_url": "https://openreview.net/pdf?id=KiN7g8mf9N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_W2tCmRrj7H",
+      "paper_id": "W2tCmRrj7H",
+      "title": "A Flexible Generative Model for Heterogeneous Tabular EHR with Missing Modality",
+      "authors": "Huan He, William hao, Yuanzhe Xi, Yong Chen, Bradley Malin, Joyce Ho",
+      "paper_url": "https://openreview.net/pdf?id=W2tCmRrj7H",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_VBTJqqWjxMv",
+      "paper_id": "VBTJqqWjxMv",
+      "title": "A Message Passing Perspective on Learning Dynamics of Contrastive Learning",
+      "authors": "Yifei Wang, Qi Zhang, Tianqi Du, Jiansheng Yang, Zhouchen Lin, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf/2fc5d0468a10ff4c201bd357964c545383fa6b3d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_AuEgNlEAmed",
+      "paper_id": "AuEgNlEAmed",
+      "title": "A theoretical study of inductive biases in contrastive learning",
+      "authors": "Jeff Z. HaoChen, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/c0e1dd5361d9fbb78aee85364df2ab49854653b4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_XhF2VOMRHS",
+      "paper_id": "XhF2VOMRHS",
+      "title": "A Unified Contrastive Energy-based Model for Understanding the Generative Ability of Adversarial Training",
+      "authors": "Yifei Wang, Yisen Wang, Jiansheng Yang, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf/d2b73abba174f5c4a4f7a8236fccc58a742e0bc5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_mMaInr0r0c",
+      "paper_id": "mMaInr0r0c",
+      "title": "A View From Somewhere: Human-Centric Face Representations",
+      "authors": "Jerone Theodore Alexander Andrews, Przemyslaw Joniak, Alice Xiang",
+      "paper_url": "https://openreview.net/pdf/7019bd91860aa4ff9335d9253a623609a6a8d4a4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_OMizHuea_HB",
+      "paper_id": "OMizHuea_HB",
+      "title": "Active Contrastive Learning of Audio-Visual Video Representations",
+      "authors": "Shuang Ma, Zhaoyang Zeng, Daniel McDuff, Yale Song",
+      "paper_url": "https://openreview.net/pdf/a696a70ba651de1c50d0a72fea6dc1c20d8bb37a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_QJWVP4CTmW4",
+      "paper_id": "QJWVP4CTmW4",
+      "title": "Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space",
+      "authors": "Yaohua Wang, Yaobin Zhang, Fangyi Zhang, Senzhang Wang, Ming Lin, YuQi Zhang, Xiuyu Sun",
+      "paper_url": "https://openreview.net/pdf/651a49b1013956d42280a94b59d7b13aa23e2f72.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_ahAUv8TI2Mz",
+      "paper_id": "ahAUv8TI2Mz",
+      "title": "Adaptive and Generative Zero-Shot Learning",
+      "authors": "Yu-Ying Chou, Hsuan-Tien Lin, Tyng-Luh Liu",
+      "paper_url": "https://openreview.net/pdf/c95de71bec56a004df30033ab55061c714367261.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_wgRQ2WAORJ",
+      "paper_id": "wgRQ2WAORJ",
+      "title": "Aligning Visual Contrastive learning models via Preference Optimization",
+      "authors": "Amirabbas Afzali, Borna khodabandeh, Ali Rasekh, Mahyar JafariNodeh, Sepehr Kazemi Ranjbar, Simon Gottschalk",
+      "paper_url": "https://openreview.net/pdf?id=wgRQ2WAORJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_nXOhmfFu5n",
+      "paper_id": "nXOhmfFu5n",
+      "title": "Amortised Invariance Learning for Contrastive Self-Supervision",
+      "authors": "Ruchika Chavhan, Jan Stuehmer, Calum Heggan, Mehrdad Yaghoobi, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf/62b125792eabd26dabe695ba7886d7df4261dfa1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_3n4RY25UWP",
+      "paper_id": "3n4RY25UWP",
+      "title": "An Information Criterion for Controlled Disentanglement of Multimodal Data",
+      "authors": "Chenyu Wang, Sharut Gupta, Xinyi Zhang, Sana Tonekaboni, Stefanie Jegelka, Tommi Jaakkola, Caroline Uhler",
+      "paper_url": "https://openreview.net/pdf?id=3n4RY25UWP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_q4SiDyYQbo",
+      "paper_id": "q4SiDyYQbo",
+      "title": "An Investigation of Representation and Allocation Harms in Contrastive Learning",
+      "authors": "Subha Maity, Mayank Agarwal, Mikhail Yurochkin, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf?id=q4SiDyYQbo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_n0Pb9T5kmb",
+      "paper_id": "n0Pb9T5kmb",
+      "title": "ArCL: Enhancing Contrastive Learning with Augmentation-Robust Representations",
+      "authors": "Xuyang Zhao, Tianqi Du, Yisen Wang, Jun Yao, Weiran Huang",
+      "paper_url": "https://openreview.net/pdf/a1cdcd4e932e905af2e155c4da607a152a588623.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_YgMdDQB09U",
+      "paper_id": "YgMdDQB09U",
+      "title": "AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning",
+      "authors": "Rohan Sharma, Kaiyi Ji, zhiqiang xu, Changyou Chen",
+      "paper_url": "https://openreview.net/pdf?id=YgMdDQB09U",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_5vM51iamNeL",
+      "paper_id": "5vM51iamNeL",
+      "title": "Augmentation Component Analysis: Modeling Similarity via the Augmentation Overlaps",
+      "authors": "Lu Han, Han-Jia Ye, De-Chuan Zhan",
+      "paper_url": "https://openreview.net/pdf/7b2fdf9a5f1f475782b119a0d0275eb0392c1f05.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_MJAqnaC2vO1",
+      "paper_id": "MJAqnaC2vO1",
+      "title": "Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation",
+      "authors": "Hao Li, Chenxin Tao, Xizhou Zhu, Xiaogang Wang, Gao Huang, Jifeng Dai",
+      "paper_url": "https://openreview.net/pdf/c95e4fe3eeed14d6b9ea3a3421f111e68f1ba477.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_SIKV0_MrZlr",
+      "paper_id": "SIKV0_MrZlr",
+      "title": "Auto-Transfer: Learning to Route Transferable Representations",
+      "authors": "Keerthiram Murugesan, Vijay Sadashivaiah, Ronny Luss, Karthikeyan Shanmugam, Pin-Yu Chen, Amit Dhurandhar",
+      "paper_url": "https://openreview.net/pdf/18eb4920f959a323535f04fc7cd7b4509a3dfa40.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_8Oun8ZUVe8N",
+      "paper_id": "8Oun8ZUVe8N",
+      "title": "Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?",
+      "authors": "Runpei Dong, Zekun Qi, Linfeng Zhang, Junbo Zhang, Jianjian Sun, Zheng Ge, Li Yi, Kaisheng Ma",
+      "paper_url": "https://openreview.net/pdf/79fadd685bdeb6df98bf287dbb0824d4b1885bb9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_TqNsv1TuCX9",
+      "paper_id": "TqNsv1TuCX9",
+      "title": "Axiomatic Explanations for Visual Search, Retrieval, and Similarity Learning",
+      "authors": "Mark Hamilton, Scott Lundberg, Stephanie Fu, Lei Zhang, William T. Freeman",
+      "paper_url": "https://openreview.net/pdf/75f834484ec638f9880a1bd687ced6d577076921.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23__geIwiOyUhZ",
+      "paper_id": "_geIwiOyUhZ",
+      "title": "Bayes-MIL: A New Probabilistic Perspective on Attention-based Multiple Instance Learning for Whole Slide Images",
+      "authors": "Yufei CUI, Ziquan Liu, Xiangyu Liu, Xue Liu, Cong Wang, Tei-Wei Kuo, Chun Jason Xue, Antoni B. Chan",
+      "paper_url": "https://openreview.net/pdf/2fc22942117b5645f3be532399184ac1fdedaa89.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_AK1C55o4r7",
+      "paper_id": "AK1C55o4r7",
+      "title": "Beyond Random Augmentations: Pretraining with Hard Views",
+      "authors": "Fabio Ferreira, Ivo Rapant, Jörg K.H. Franke, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf?id=AK1C55o4r7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YH4M1Tbxfz",
+      "paper_id": "YH4M1Tbxfz",
+      "title": "BoneMet: An Open Large-Scale Multi-Modal Murine Dataset for Breast Cancer Bone Metastasis Diagnosis and Prognosis",
+      "authors": "Tiankuo Chu, Fudong Lin, Shubo Wang, Jason Jiang, Wiley Jia-Wei Gong, Xu Yuan, Liyun Wang",
+      "paper_url": "https://openreview.net/pdf?id=YH4M1Tbxfz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_6u6N8WWwYSM",
+      "paper_id": "6u6N8WWwYSM",
+      "title": "Bootstrapping Semantic Segmentation with Regional Contrast",
+      "authors": "Shikun Liu, Shuaifeng Zhi, Edward Johns, Andrew Davison",
+      "paper_url": "https://openreview.net/pdf/c13a05eb5dbd64c9e46b0245f88f170e7f974da4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_lmM4Ecm4HJ",
+      "paper_id": "lmM4Ecm4HJ",
+      "title": "Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments",
+      "authors": "Yang Yang, Wenhai Wang, Zhe Chen, Jifeng Dai, Liang Zheng",
+      "paper_url": "https://openreview.net/pdf?id=lmM4Ecm4HJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_ESG-DMKQKsD",
+      "paper_id": "ESG-DMKQKsD",
+      "title": "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis",
+      "authors": "Zhipeng Bao, Yu-Xiong Wang, Martial Hebert",
+      "paper_url": "https://openreview.net/pdf/7991edacbb1e82b6f57da8010cb4bbb939dd5461.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_r01fcKhzT5",
+      "paper_id": "r01fcKhzT5",
+      "title": "Breaking the Reclustering Barrier in Centroid-based Deep Clustering",
+      "authors": "Lukas Miklautz, Timo Klein, Kevin Sidak, Collin Leiber, Thomas Lang, Andrii Shkabrii, Sebastian Tschiatschek, Claudia Plant",
+      "paper_url": "https://openreview.net/pdf?id=r01fcKhzT5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uqxBTcWRnj",
+      "paper_id": "uqxBTcWRnj",
+      "title": "Bridging Neural and Symbolic Representations with Transitional Dictionary Learning",
+      "authors": "Junyan Cheng, Peter Chin",
+      "paper_url": "https://openreview.net/pdf?id=uqxBTcWRnj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_b9tUk-f_aG",
+      "paper_id": "b9tUk-f_aG",
+      "title": "Bridging the Gap to Real-World Object-Centric Learning",
+      "authors": "Maximilian Seitzer, Max Horn, Andrii Zadaianchuk, Dominik Zietlow, Tianjun Xiao, Carl-Johann Simon-Gabriel, Tong He, Zheng Zhang, Bernhard Schölkopf, Thomas Brox, Francesco Locatello",
+      "paper_url": "https://openreview.net/pdf/f096a67fb404ac53b5cfb318060e743c96050b25.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rzBskAEmoc",
+      "paper_id": "rzBskAEmoc",
+      "title": "CAMIL: Context-Aware Multiple Instance Learning for Cancer Detection and Subtyping in Whole Slide Images",
+      "authors": "Olga Fourkioti, Matt De Vries, Chris Bakal",
+      "paper_url": "https://openreview.net/pdf?id=rzBskAEmoc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_wQRlSUZ5V7B",
+      "paper_id": "wQRlSUZ5V7B",
+      "title": "Capturing Label Characteristics in VAEs",
+      "authors": "Tom Joy, Sebastian Schmon, Philip Torr, Siddharth N, Tom Rainforth",
+      "paper_url": "https://openreview.net/pdf/f58d5a4d19e174d578190ec9687a1904e52596b6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_E78OaH2s3f",
+      "paper_id": "E78OaH2s3f",
+      "title": "CAS: A Probability-Based Approach for Universal Condition Alignment Score",
+      "authors": "Chunsan Hong, ByungHee Cha, Tae-Hyun Oh",
+      "paper_url": "https://openreview.net/pdf?id=E78OaH2s3f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_ECvgmYVyeUz",
+      "paper_id": "ECvgmYVyeUz",
+      "title": "Chaos is a Ladder: A New Theoretical Understanding of Contrastive Learning via Augmentation Overlap",
+      "authors": "Yifei Wang, Qi Zhang, Yisen Wang, Jiansheng Yang, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf/69ce3c69488d43f1e8d28d5759b1cd8a9c731519.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_7pgFL2Dkyyy",
+      "paper_id": "7pgFL2Dkyyy",
+      "title": "Class Normalization for (Continual)? Generalized Zero-Shot Learning",
+      "authors": "Ivan Skorokhodov, Mohamed Elhoseiny",
+      "paper_url": "https://openreview.net/pdf/08846e7d24687d94ea8f98091ccf05e3f001d22a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_ljxWpdBl4V",
+      "paper_id": "ljxWpdBl4V",
+      "title": "Closed-form Sample Probing for Learning Generative Models in Zero-shot Learning",
+      "authors": "Samet Cetin, Orhun Buğra Baran, Ramazan Gokberk Cinbis",
+      "paper_url": "https://openreview.net/pdf/991863550ac668773c180067c71b28b180a005d0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_e12NDM7wkEY",
+      "paper_id": "e12NDM7wkEY",
+      "title": "Clustering-friendly Representation Learning via Instance Discrimination and Feature Decorrelation",
+      "authors": "Yaling Tao, Kentaro Takagi, Kouta Nakata",
+      "paper_url": "https://openreview.net/pdf/a66aec8c00bfa723a6c8e4690bd00cf755e17e8f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_AAJLBoGt0XM",
+      "paper_id": "AAJLBoGt0XM",
+      "title": "Conditional Contrastive Learning with Kernel",
+      "authors": "Yao-Hung Hubert Tsai, Tianqin Li, Martin Q. Ma, Han Zhao, Kun Zhang, Louis-Philippe Morency, Ruslan Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf/b1faf52b79128f7491658b68cc175c78d5313668.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_VJnrYcnRc6",
+      "paper_id": "VJnrYcnRc6",
+      "title": "Conditional Generative Modeling via Learning the Latent Space",
+      "authors": "Sameera Ramasinghe, Kanchana Nisal Ranasinghe, Salman Khan, Nick Barnes, Stephen Gould",
+      "paper_url": "https://openreview.net/pdf/ad10b1238b8c96783d156228bbe0a955123a991c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_v8b3e5jN66j",
+      "paper_id": "v8b3e5jN66j",
+      "title": "Conditional Negative Sampling for Contrastive Learning of Visual Representations",
+      "authors": "Mike Wu, Milan Mosse, Chengxu Zhuang, Daniel Yamins, Noah Goodman",
+      "paper_url": "https://openreview.net/pdf/4198b5cda9f9be5f974d70d54ad518d2c6893b99.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_RIuevDSK5V",
+      "paper_id": "RIuevDSK5V",
+      "title": "ConR: Contrastive Regularizer for Deep Imbalanced Regression",
+      "authors": "Mahsa Keramati, Lili Meng, R. David Evans",
+      "paper_url": "https://openreview.net/pdf?id=RIuevDSK5V",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_p60Y6o85Cj",
+      "paper_id": "p60Y6o85Cj",
+      "title": "Content-Style Learning from Unaligned Domains: Identifiability under Unknown Latent Dimensions",
+      "authors": "Sagar Shrestha, Xiao Fu",
+      "paper_url": "https://openreview.net/pdf?id=p60Y6o85Cj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ih0uFRFhaZZ",
+      "paper_id": "ih0uFRFhaZZ",
+      "title": "Continual Unsupervised Disentangling of Self-Organizing Representations",
+      "authors": "Zhiyuan Li, Xiajun Jiang, Ryan Missel, Prashnna Kumar Gyawali, Nilesh Kumar, Linwei Wang",
+      "paper_url": "https://openreview.net/pdf/fdb507165ec3efc7233824c93b345e73bef5cd31.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_QPtoBPn4lZ",
+      "paper_id": "QPtoBPn4lZ",
+      "title": "Continuous Diffusion for Mixed-Type Tabular Data",
+      "authors": "Markus Mueller, Kathrin Gruber, Dennis Fok",
+      "paper_url": "https://openreview.net/pdf?id=QPtoBPn4lZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_70IgE3tRbu",
+      "paper_id": "70IgE3tRbu",
+      "title": "Continuous Invariance Learning",
+      "authors": "LIN Yong, Fan Zhou, Lu Tan, Lintao Ma, Jianmeng Liu, Yansu HE, Yuan Yuan, Yu Liu, James Y. Zhang, Yujiu Yang, Hao Wang",
+      "paper_url": "https://openreview.net/pdf?id=70IgE3tRbu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_pN1JOdrSY9",
+      "paper_id": "pN1JOdrSY9",
+      "title": "Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation",
+      "authors": "Xuan-Phi Nguyen, Hongyu Gong, Yun Tang, Changhan Wang, Philipp Koehn, Shafiq Joty",
+      "paper_url": "https://openreview.net/pdf/eaf9a294ad1f34490a07fd0b42916f9dce419572.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_XWODe7ZLn8f",
+      "paper_id": "XWODe7ZLn8f",
+      "title": "Contrastive Fine-grained Class Clustering via Generative Adversarial Networks",
+      "authors": "Yunji Kim, Jung-Woo Ha",
+      "paper_url": "https://openreview.net/pdf/e0f34f45a561d5470192a2a430af4c5ad2ade5d9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_AjC0KBjiMu",
+      "paper_id": "AjC0KBjiMu",
+      "title": "Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions",
+      "authors": "Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison",
+      "paper_url": "https://openreview.net/pdf/470d0d377fbd21359685cd8abe602339d5f71751.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_hLZQTFGToA",
+      "paper_id": "hLZQTFGToA",
+      "title": "Contrastive Learning is Spectral Clustering on Similarity Graph",
+      "authors": "Zhiquan Tan, Yifan Zhang, Jingqin Yang, Yang Yuan",
+      "paper_url": "https://openreview.net/pdf?id=hLZQTFGToA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_CR1XOQ0UTh-",
+      "paper_id": "CR1XOQ0UTh-",
+      "title": "Contrastive Learning with Hard Negative Samples",
+      "authors": "Joshua David Robinson, Ching-Yao Chuang, Suvrit Sra, Stefanie Jegelka",
+      "paper_url": "https://openreview.net/pdf/abbdb606c8b0133d5a3f1cb9b239cb75f5530c20.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_pPQPQ7Yd58",
+      "paper_id": "pPQPQ7Yd58",
+      "title": "Control-oriented Clustering of Visual Latent Representation",
+      "authors": "Han Qi, Haocheng Yin, Heng Yang",
+      "paper_url": "https://openreview.net/pdf?id=pPQPQ7Yd58",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5ZEbpBYGwH",
+      "paper_id": "5ZEbpBYGwH",
+      "title": "COPER: Correlation-based Permutations for Multi-View Clustering",
+      "authors": "Ran Eisenberg, Jonathan Svirsky, Ofir Lindenbaum",
+      "paper_url": "https://openreview.net/pdf?id=5ZEbpBYGwH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_gwnoVHIES05",
+      "paper_id": "gwnoVHIES05",
+      "title": "Creative Sketch Generation",
+      "authors": "Songwei Ge, Vedanuj Goswami, Larry Zitnick, Devi Parikh",
+      "paper_url": "https://openreview.net/pdf/373ac60cbcad73b611ba4a2ec2c15fd2747b84ea.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3M0GXoUEzP",
+      "paper_id": "3M0GXoUEzP",
+      "title": "CrIBo: Self-Supervised Learning via Cross-Image Object-Level Bootstrapping",
+      "authors": "Tim Lebailly, Thomas Stegmüller, Behzad Bozorgtabar, Jean-Philippe Thiran, Tinne Tuytelaars",
+      "paper_url": "https://openreview.net/pdf?id=3M0GXoUEzP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6Mg7pjG7Sw",
+      "paper_id": "6Mg7pjG7Sw",
+      "title": "CSA: Data-efficient Mapping of Unimodal Features to Multimodal Features",
+      "authors": "Po-han Li, Sandeep P. Chinchali, ufuk topcu",
+      "paper_url": "https://openreview.net/pdf?id=6Mg7pjG7Sw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_f1xnBr4WD6",
+      "paper_id": "f1xnBr4WD6",
+      "title": "Cycle Consistency Driven Object Discovery",
+      "authors": "Aniket Rajiv Didolkar, Anirudh Goyal, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=f1xnBr4WD6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_NkJOhtNKX91",
+      "paper_id": "NkJOhtNKX91",
+      "title": "DamoFD: Digging into Backbone Design on Face Detection",
+      "authors": "Yang Liu, Jiankang Deng, Fei Wang, Lei Shang, Xuansong Xie, Baigui Sun",
+      "paper_url": "https://openreview.net/pdf/de07bb8709651bf73dcec7308c3610ce657af47a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_G89-1yZLFHk",
+      "paper_id": "G89-1yZLFHk",
+      "title": "Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation",
+      "authors": "Bichen Wu, Ruizhe Cheng, Peizhao Zhang, Tianren Gao, Joseph E. Gonzalez, Peter Vajda",
+      "paper_url": "https://openreview.net/pdf/4692c27fcf85afed7f22e02ea4a1c14104fce2a4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_CW6KmU5wPh",
+      "paper_id": "CW6KmU5wPh",
+      "title": "DAVA: Disentangling Adversarial Variational Autoencoder",
+      "authors": "Benjamin Estermann, Roger Wattenhofer",
+      "paper_url": "https://openreview.net/pdf/07d715b5b76a65700cb1d1a0b7e6ee53d4a4264e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_462z-gLgSht",
+      "paper_id": "462z-gLgSht",
+      "title": "DCI-ES: An Extended Disentanglement Framework with Connections to Identifiability",
+      "authors": "Cian Eastwood, Andrei Liviu Nicolicioiu, Julius Von Kügelgen, Armin Kekić, Frederik Träuble, Andrea Dittadi, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/df1d40b1c077f27e1bc6b520a058ce60018e288e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_QLoepRnoue",
+      "paper_id": "QLoepRnoue",
+      "title": "Decodable and Sample Invariant Continuous Object Encoder",
+      "authors": "Dehao Yuan, Furong Huang, Cornelia Fermuller, Yiannis Aloimonos",
+      "paper_url": "https://openreview.net/pdf?id=QLoepRnoue",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_VNqaB1g9393",
+      "paper_id": "VNqaB1g9393",
+      "title": "Decoupled Adaptation for Cross-Domain Object Detection",
+      "authors": "Junguang Jiang, Baixu Chen, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf/88ba4a7c16c8aa0fe22280dd84bf63ff1eccdbee.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_qZEdmyqCHF",
+      "paper_id": "qZEdmyqCHF",
+      "title": "Decoupled Finetuning for Domain Generalizable Semantic Segmentation",
+      "authors": "Jaehyun Pahk, Donghyeon Kwon, Seong Joon Oh, Suha Kwak",
+      "paper_url": "https://openreview.net/pdf?id=qZEdmyqCHF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_k5THrhXDV3",
+      "paper_id": "k5THrhXDV3",
+      "title": "Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders",
+      "authors": "Emanuele Palumbo, Laura Manduchi, Sonia Laguna, Daphné Chopard, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf?id=k5THrhXDV3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_s4MwstmB8o",
+      "paper_id": "s4MwstmB8o",
+      "title": "Deep Incomplete Multi-view Learning via Cyclic Permutation of VAEs",
+      "authors": "Xin Gao, Jian Pu",
+      "paper_url": "https://openreview.net/pdf?id=s4MwstmB8o",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Yz-XtK5RBxB",
+      "paper_id": "Yz-XtK5RBxB",
+      "title": "Deep Repulsive Clustering of Ordered Data Based on Order-Identity Decomposition",
+      "authors": "Seon-Ho Lee, Chang-Su Kim",
+      "paper_url": "https://openreview.net/pdf/6ef111b17ac724c39a9b25c8b3761363cc5e0bd3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Gg7cXo3S8l",
+      "paper_id": "Gg7cXo3S8l",
+      "title": "Dictionary Contrastive Learning for Efficient Local Supervision without Auxiliary Networks",
+      "authors": "Suhwan Choi, Myeongho Jeon, Yeonjung Hwang, Jeonglyul Oh, Sungjun Lim, Joonseok Lee, Myungjoo Kang",
+      "paper_url": "https://openreview.net/pdf?id=Gg7cXo3S8l",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_MXdFBmHT4C",
+      "paper_id": "MXdFBmHT4C",
+      "title": "Differentiable Expectation-Maximization for Set Representation Learning",
+      "authors": "Minyoung Kim",
+      "paper_url": "https://openreview.net/pdf/7042a234575b76e9959702f6b853e880419fa525.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_1J-ZTr7aypY",
+      "paper_id": "1J-ZTr7aypY",
+      "title": "Differentiable Mathematical Programming for Object-Centric Representation Learning",
+      "authors": "Adeel Pervez, Phillip Lippe, Efstratios Gavves",
+      "paper_url": "https://openreview.net/pdf/df6cd5a64bf37cec562c59143c37962f0245daab.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Tz8Li6G2xU",
+      "paper_id": "Tz8Li6G2xU",
+      "title": "Discovering Group Structures via Unitary Representation Learning",
+      "authors": "Dongsung Huh",
+      "paper_url": "https://openreview.net/pdf?id=Tz8Li6G2xU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ugXGFCS6HK",
+      "paper_id": "ugXGFCS6HK",
+      "title": "Discriminating image representations with principal distortions",
+      "authors": "Jenelle Feather, David Lipshutz, Sarah E Harvey, Alex H Williams, Eero P Simoncelli",
+      "paper_url": "https://openreview.net/pdf?id=ugXGFCS6HK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_kj0_45Y4r9i",
+      "paper_id": "kj0_45Y4r9i",
+      "title": "Discriminative Similarity for Data Clustering",
+      "authors": "Yingzhen Yang, Ping Li",
+      "paper_url": "https://openreview.net/pdf/b159fb24355dd1bf64f74a757973bbc8cc96d57e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_O7ms4LFdsX",
+      "paper_id": "O7ms4LFdsX",
+      "title": "Disentangled Recurrent Wasserstein Autoencoder",
+      "authors": "Jun Han, Martin Renqiang Min, Ligong Han, Li Erran Li, Xuan Zhang",
+      "paper_url": "https://openreview.net/pdf/e8de83dfa5c5849037a74c858c899119d1dc5f33.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ehr4oTe6XI",
+      "paper_id": "ehr4oTe6XI",
+      "title": "Disentangled Representation Learning with the Gromov-Monge Gap",
+      "authors": "Théo Uscidda, Luca Eyring, Karsten Roth, Fabian J Theis, Zeynep Akata, marco cuturi",
+      "paper_url": "https://openreview.net/pdf?id=ehr4oTe6XI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_pETy-HVvGtt",
+      "paper_id": "pETy-HVvGtt",
+      "title": "Disentanglement Analysis with Partial Information Decomposition",
+      "authors": "Seiya Tokui, Issei Sato",
+      "paper_url": "https://openreview.net/pdf/9951cc9e8f5ebea47555522be7bf51da71054709.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_OKcJhpQiGiX",
+      "paper_id": "OKcJhpQiGiX",
+      "title": "Disentanglement of Correlated Factors via Hausdorff Factorized Support",
+      "authors": "Karsten Roth, Mark Ibrahim, Zeynep Akata, Pascal Vincent, Diane Bouchacourt",
+      "paper_url": "https://openreview.net/pdf/f1f46edad3b1c36e9c46c00c16e8592cfd1e4df6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_-Lr-u0b42he",
+      "paper_id": "-Lr-u0b42he",
+      "title": "Disentangling 3D Prototypical Networks for Few-Shot Concept Learning",
+      "authors": "Mihir Prabhudesai, Shamit Lal, Darshan Patil, Hsiao-Yu Tung, Adam W Harley, Katerina Fragkiadaki",
+      "paper_url": "https://openreview.net/pdf/b42e4e31403f7d4fdb789fb870cace1f71e6bb86.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_EMvG1Jdhw_8",
+      "paper_id": "EMvG1Jdhw_8",
+      "title": "Disentangling Learning Representations with Density Estimation",
+      "authors": "Eric Yeats, Frank Y Liu, Hai Li",
+      "paper_url": "https://openreview.net/pdf/9bb8225a142376adea18d8a72dc2531bc22d89e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_yVGGtsOgc7",
+      "paper_id": "yVGGtsOgc7",
+      "title": "Disentangling Representations through Multi-task Learning",
+      "authors": "Pantelis Vafidis, Aman Bhargava, Antonio Rangel",
+      "paper_url": "https://openreview.net/pdf?id=yVGGtsOgc7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YeSxbRrDRl",
+      "paper_id": "YeSxbRrDRl",
+      "title": "Dist Loss: Enhancing Regression in Few-Shot Region through Distribution Distance Constraint",
+      "authors": "Guangkun Nie, Gongzheng Tang, Shenda Hong",
+      "paper_url": "https://openreview.net/pdf?id=YeSxbRrDRl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_vHVcB-ak3Si",
+      "paper_id": "vHVcB-ak3Si",
+      "title": "Dive Deeper Into Integral Pose Regression",
+      "authors": "Kerui Gu, Linlin Yang, Angela Yao",
+      "paper_url": "https://openreview.net/pdf/1c30c07fe0d8b037287227beefbc0d1263b462f5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_J_F_qqCE3Z5",
+      "paper_id": "J_F_qqCE3Z5",
+      "title": "DKM: Differentiable k-Means Clustering Layer for Neural Network Compression",
+      "authors": "Minsik Cho, Keivan Alizadeh-Vahid, Saurabh Adya, Mohammad Rastegari",
+      "paper_url": "https://openreview.net/pdf/32e93d22db59833cad75b3a81ec8d15aa537a574.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_S5EqslEHnz",
+      "paper_id": "S5EqslEHnz",
+      "title": "Do Generated Data Always Help Contrastive Learning?",
+      "authors": "Yifei Wang, Jizhe Zhang, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf?id=S5EqslEHnz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_2L9gzS80tA4",
+      "paper_id": "2L9gzS80tA4",
+      "title": "Does Learning from Decentralized Non-IID Unlabeled Data Benefit from Self Supervision?",
+      "authors": "Lirui Wang, Kaiqing Zhang, Yunzhu Li, Yonglong Tian, Russ Tedrake",
+      "paper_url": "https://openreview.net/pdf/2eb5f4a351bec1c6159b8b5a9c19fde25dad2511.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rhaQbS3K3R",
+      "paper_id": "rhaQbS3K3R",
+      "title": "Does Progress On Object Recognition Benchmarks Improve Generalization on Crowdsourced, Global Data?",
+      "authors": "Megan Richards, Polina Kirichenko, Diane Bouchacourt, Mark Ibrahim",
+      "paper_url": "https://openreview.net/pdf?id=rhaQbS3K3R",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_C8niXBHjfO",
+      "paper_id": "C8niXBHjfO",
+      "title": "Does Training with Synthetic Data Truly Protect Privacy?",
+      "authors": "Yunpeng Zhao, Jie Zhang",
+      "paper_url": "https://openreview.net/pdf?id=C8niXBHjfO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dNe1T0Ahby",
+      "paper_id": "dNe1T0Ahby",
+      "title": "Dual-Encoders for Extreme Multi-label Classification",
+      "authors": "Nilesh Gupta, Fnu Devvrit, Ankit Singh Rawat, Srinadh Bhojanapalli, Prateek Jain, Inderjit S Dhillon",
+      "paper_url": "https://openreview.net/pdf?id=dNe1T0Ahby",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_IdAyXxBud7",
+      "paper_id": "IdAyXxBud7",
+      "title": "DynAlign: Unsupervised Dynamic Taxonomy Alignment for Cross-Domain Segmentation",
+      "authors": "Han Sun, Rui Gong, Ismail Nejjar, Olga Fink",
+      "paper_url": "https://openreview.net/pdf?id=IdAyXxBud7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NJxCpMt0sf",
+      "paper_id": "NJxCpMt0sf",
+      "title": "Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts",
+      "authors": "Chenwei Wu, Zitao Shuai, Zhengxu Tang, Luning Wang, Liyue Shen",
+      "paper_url": "https://openreview.net/pdf?id=NJxCpMt0sf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_g1GnnCI1OrC",
+      "paper_id": "g1GnnCI1OrC",
+      "title": "E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation",
+      "authors": "Jie Zhu, Huabin Huang, Banghuai Li, Leye Wang",
+      "paper_url": "https://openreview.net/pdf/b721483faa1628cd8fd142a2df262b396c292ccf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_szRmEM8Kx5",
+      "paper_id": "szRmEM8Kx5",
+      "title": "Effective post-training embedding compression via temperature control in contrastive training",
+      "authors": "Georgiana Dinu, Corey D Barrett, Yi Xiang, Miguel Romero Calvo, Anna Currey, Xing Niu",
+      "paper_url": "https://openreview.net/pdf?id=szRmEM8Kx5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dJruFeSRym1",
+      "paper_id": "dJruFeSRym1",
+      "title": "Efficient Conditionally Invariant Representation Learning",
+      "authors": "Roman Pogodin, Namrata Deka, Yazhe Li, Danica J. Sutherland, Victor Veitch, Arthur Gretton",
+      "paper_url": "https://openreview.net/pdf/59fb48f35c3ae783e6d4bb6e29843529e56a0305.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_k2ZVAzVeMP",
+      "paper_id": "k2ZVAzVeMP",
+      "title": "Efficient Dictionary Learning with Switch Sparse Autoencoders",
+      "authors": "Anish Mudide, Joshua Engels, Eric J Michaud, Max Tegmark, Christian Schroeder de Witt",
+      "paper_url": "https://openreview.net/pdf?id=k2ZVAzVeMP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mAmCdASmJ5",
+      "paper_id": "mAmCdASmJ5",
+      "title": "Efficient Distribution Matching of Representations via Noise-Injected Deep InfoMax",
+      "authors": "Ivan Butakov, Alexander Semenenko, Alexander Tolmachev, Andrey Gladkov, Marina Munkhoeva, Alexey Frolov",
+      "paper_url": "https://openreview.net/pdf?id=mAmCdASmJ5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_t1J2CnDFwj",
+      "paper_id": "t1J2CnDFwj",
+      "title": "Enhance Multi-View Classification Through Multi-Scale Alignment and Expanded Boundary",
+      "authors": "Yuena Lin, Yiyuan Wang, Gengyu Lyu, Yongjian Deng, Haichun Cai, Huibin Lin, Haobo Wang, Zhen Yang",
+      "paper_url": "https://openreview.net/pdf?id=t1J2CnDFwj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uELjxVbrqG",
+      "paper_id": "uELjxVbrqG",
+      "title": "Enhanced Face Recognition using Intra-class Incoherence Constraint",
+      "authors": "Yuanqing Huang, Yinggui Wang, Le Yang, Lei Wang",
+      "paper_url": "https://openreview.net/pdf?id=uELjxVbrqG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_kx2XZlmgB1",
+      "paper_id": "kx2XZlmgB1",
+      "title": "Enhancing Contrastive Learning for Ordinal Regression via  Ordinal Content Preserved Data Augmentation",
+      "authors": "Jiyang Zheng, Yu Yao, Bo Han, Dadong Wang, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=kx2XZlmgB1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_AZW3qlCGTe",
+      "paper_id": "AZW3qlCGTe",
+      "title": "Enhancing Instance-Level Image Classification with Set-Level Labels",
+      "authors": "Renyu Zhang, Aly A Khan, Yuxin Chen, Robert L. Grossman",
+      "paper_url": "https://openreview.net/pdf?id=AZW3qlCGTe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_SLz5sZjacp",
+      "paper_id": "SLz5sZjacp",
+      "title": "Evaluating Disentanglement of Structured Representations",
+      "authors": "Raphaël Dang-Nhu",
+      "paper_url": "https://openreview.net/pdf/c64b7f2fadb664b509c8b2e80def8ea967bb95a3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Fsd-6ax4T1m",
+      "paper_id": "Fsd-6ax4T1m",
+      "title": "Evaluating Representations with Readout Model Switching",
+      "authors": "Yazhe Li, Jorg Bornschein, Marcus Hutter",
+      "paper_url": "https://openreview.net/pdf/e6852d6a9b749e54b195047d6910e5c27fa9474a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_djwS0m4Ft_A",
+      "paper_id": "djwS0m4Ft_A",
+      "title": "Evaluating the Disentanglement of Deep Generative Models through Manifold Topology",
+      "authors": "Sharon Zhou, Eric Zelikman, Fred Lu, Andrew Y. Ng, Gunnar E. Carlsson, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/1a87763ff698ed701fa9648dad3eeb0fee6bb67b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_7psWohxvxp",
+      "paper_id": "7psWohxvxp",
+      "title": "Exploring a Principled Framework for Deep Subspace Clustering",
+      "authors": "Xianghan Meng, Zhiyuan Huang, Wei He, Xianbiao Qi, Rong Xiao, Chun-Guang Li",
+      "paper_url": "https://openreview.net/pdf?id=7psWohxvxp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_01KmhBsEPFO",
+      "paper_id": "01KmhBsEPFO",
+      "title": "Exploring Low-Rank Property in Multiple Instance Learning for Whole Slide Image Classification",
+      "authors": "Jinxi Xiang, Jun Zhang",
+      "paper_url": "https://openreview.net/pdf/d0eda3d45dbc986243ff39276e4dd535fc40aa9a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_sCYXJr3QJM8",
+      "paper_id": "sCYXJr3QJM8",
+      "title": "Few-shot Cross-domain Image Generation via Inference-time Latent-code Learning",
+      "authors": "Arnab Kumar Mondal, Piyush Tiwary, Parag Singla, Prathosh AP",
+      "paper_url": "https://openreview.net/pdf/acc5eab2f3488d4a16e1e9bdc1b8836b5ebccdfe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_4F1gvduDeL",
+      "paper_id": "4F1gvduDeL",
+      "title": "Few-Shot Domain Adaptation For End-to-End Communication",
+      "authors": "Jayaram Raghuram, Yijing Zeng, Dolores Garcia, Rafael Ruiz, Somesh Jha, Joerg Widmer, Suman Banerjee",
+      "paper_url": "https://openreview.net/pdf/502da8335c25f515d1b0a7b57057ac446ce9f67b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_FE2e8664Sl",
+      "paper_id": "FE2e8664Sl",
+      "title": "Few-shot Hybrid Domain Adaptation of Image Generator",
+      "authors": "Hengjia Li, Yang Liu, Linxuan Xia, Yuqi Lin, Wenxiao Wang, Tu Zheng, Zheng Yang, Xiaohui Zhong, Xiaobo Ren, Xiaofei He",
+      "paper_url": "https://openreview.net/pdf?id=FE2e8664Sl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Ug-bgjgSlKV",
+      "paper_id": "Ug-bgjgSlKV",
+      "title": "Finding an Unsupervised Image Segmenter in each of your Deep Generative Models",
+      "authors": "Luke Melas-Kyriazi, Christian Rupprecht, Iro Laina, Andrea Vedaldi",
+      "paper_url": "https://openreview.net/pdf/f19aff475bf4c294325c50324fea58c92aaa4cb3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_PDrUPTXJI_A",
+      "paper_id": "PDrUPTXJI_A",
+      "title": "FreeMatch: Self-adaptive Thresholding for Semi-supervised Learning",
+      "authors": "Yidong Wang, Hao Chen, Qiang Heng, Wenxin Hou, Yue Fan, Zhen Wu, Jindong Wang, Marios Savvides, Takahiro Shinozaki, Bhiksha Raj, Bernt Schiele, Xing Xie",
+      "paper_url": "https://openreview.net/pdf/759017e171fccb1d81f8a521cd4babf7b0d0c16b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_B8a1FcY0vi",
+      "paper_id": "B8a1FcY0vi",
+      "title": "From $t$-SNE to UMAP with contrastive learning",
+      "authors": "Sebastian Damrich, Niklas Böhm, Fred A Hamprecht, Dmitry Kobak",
+      "paper_url": "https://openreview.net/pdf/5fb70ac87069a4216afdf8eae1647285dbff46cc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_vngVydDWft",
+      "paper_id": "vngVydDWft",
+      "title": "From Bricks to Bridges: Product of Invariances to Enhance Latent Space Communication",
+      "authors": "Irene Cannistraci, Luca Moschella, Marco Fumero, Valentino Maiorca, Emanuele Rodolà",
+      "paper_url": "https://openreview.net/pdf?id=vngVydDWft",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WwmtcGr4lP",
+      "paper_id": "WwmtcGr4lP",
+      "title": "GANDALF: Generative AttentioN based Data Augmentation and predictive modeLing Framework for personalized cancer treatment",
+      "authors": "Aishwarya Jayagopal, Yanrong Zhang, Robert John Walsh, Tuan Zea Tan, Anand D Jeyasekharan, Vaibhav Rajan",
+      "paper_url": "https://openreview.net/pdf?id=WwmtcGr4lP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WoGnnggVCZ",
+      "paper_id": "WoGnnggVCZ",
+      "title": "GenDataAgent: On-the-fly Dataset Augmentation with Synthetic Data",
+      "authors": "Zhiteng Li, Lele Chen, Jerone Andrews, Yunhao Ba, Yulun Zhang, Alice Xiang",
+      "paper_url": "https://openreview.net/pdf?id=WoGnnggVCZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_5Y21V0RDBV",
+      "paper_id": "5Y21V0RDBV",
+      "title": "Generalized Multimodal ELBO",
+      "authors": "Thomas M. Sutter, Imant Daunhawer, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/2cfd5fea6a35d4586487da796743d75dacc7118c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_M88oFvqp_9",
+      "paper_id": "M88oFvqp_9",
+      "title": "Generating Furry Cars: Disentangling Object Shape and Appearance across Multiple Domains",
+      "authors": "Utkarsh Ojha, Krishna Kumar Singh, Yong Jae Lee",
+      "paper_url": "https://openreview.net/pdf/b8b31818deaaa37925dbeb6143231cd0ef62b630.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3tM1l5tSbv",
+      "paper_id": "3tM1l5tSbv",
+      "title": "Generative Learning for Solving Non-Convex Problem with Multi-Valued Input-Solution Mapping",
+      "authors": "Enming Liang, Minghua Chen",
+      "paper_url": "https://openreview.net/pdf?id=3tM1l5tSbv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_qhAeZjs7dCL",
+      "paper_id": "qhAeZjs7dCL",
+      "title": "Generative Models as a Data Source for Multiview Representation Learning",
+      "authors": "Ali Jahanian, Xavier Puig, Yonglong Tian, Phillip Isola",
+      "paper_url": "https://openreview.net/pdf/c520635a84953747f1435603e72a866d4b28bac7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_RmcPm9m3tnk",
+      "paper_id": "RmcPm9m3tnk",
+      "title": "Generative Scene Graph Networks",
+      "authors": "Fei Deng, Zhuo Zhi, Donghun Lee, Sungjin Ahn",
+      "paper_url": "https://openreview.net/pdf/4972f3189bc1990cd88f0c12abbe7111acfe3c15.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Pd7IOswRUZ",
+      "paper_id": "Pd7IOswRUZ",
+      "title": "GenVP: Generating Visual Puzzles with Contrastive Hierarchical VAEs",
+      "authors": "Kalliopi Basioti, Pritish Sahu, Tony Qingze Liu, Zihao Xu, Hao Wang, Vladimir Pavlovic",
+      "paper_url": "https://openreview.net/pdf?id=Pd7IOswRUZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9-Rfew334N",
+      "paper_id": "9-Rfew334N",
+      "title": "Givens Coordinate Descent Methods for Rotation Matrix Learning in Trainable Embedding Indexes",
+      "authors": "Yunjiang Jiang, Han Zhang, Yiming Qiu, Yun Xiao, Bo Long, Wen-Yun Yang",
+      "paper_url": "https://openreview.net/pdf/8b198d22f6cd67d27c168c61da339c81ac7d363d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_U0SijGsCHJ",
+      "paper_id": "U0SijGsCHJ",
+      "title": "GPS: A Probabilistic Distributional Similarity with Gumbel Priors for Set-to-Set Matching",
+      "authors": "Ziming Zhang, Fangzhou Lin, Haotian Liu, Jose Morales, Haichong Zhang, Kazunori Yamada, Vijaya B Kolachalama, Venkatesh Saligrama",
+      "paper_url": "https://openreview.net/pdf?id=U0SijGsCHJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ftGnpZrW7P",
+      "paper_id": "ftGnpZrW7P",
+      "title": "Gramian Multimodal Representation Learning and Alignment",
+      "authors": "Giordano Cicchetti, Eleonora Grassucci, Luigi Sigillo, Danilo Comminiello",
+      "paper_url": "https://openreview.net/pdf?id=ftGnpZrW7P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_pBxeZ6pVUD",
+      "paper_id": "pBxeZ6pVUD",
+      "title": "Grounded Object-Centric Learning",
+      "authors": "Avinash Kori, Francesco Locatello, Fabio De Sousa Ribeiro, Francesca Toni, Ben Glocker",
+      "paper_url": "https://openreview.net/pdf?id=pBxeZ6pVUD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2eFq6S35iB",
+      "paper_id": "2eFq6S35iB",
+      "title": "HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts",
+      "authors": "Hongjun Wang, Sagar Vaze, Kai Han",
+      "paper_url": "https://openreview.net/pdf?id=2eFq6S35iB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_bwq6O4Cwdl",
+      "paper_id": "bwq6O4Cwdl",
+      "title": "How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning",
+      "authors": "Chaoning Zhang, Kang Zhang, Chenshuang Zhang, Trung X. Pham, Chang D. Yoo, In So Kweon",
+      "paper_url": "https://openreview.net/pdf/83121a24e1afcc8d9cc5b1489f38d0c54a411bf7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_tBROYsEz9G",
+      "paper_id": "tBROYsEz9G",
+      "title": "How Realistic Is Your Synthetic Data? Constraining Deep Generative Models for Tabular Data",
+      "authors": "Mihaela C Stoian, Salijona Dyrmishi, Maxime Cordy, Thomas Lukasiewicz, Eleonora Giunchiglia",
+      "paper_url": "https://openreview.net/pdf?id=tBROYsEz9G",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_AhizIPytk4",
+      "paper_id": "AhizIPytk4",
+      "title": "How Well Do Supervised 3D Models Transfer to Medical Imaging Tasks?",
+      "authors": "Wenxuan Li, Alan Yuille, Zongwei Zhou",
+      "paper_url": "https://openreview.net/pdf?id=AhizIPytk4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_yVJd8lKyVX",
+      "paper_id": "yVJd8lKyVX",
+      "title": "Hybrid Sharing for Multi-Label Image Classification",
+      "authors": "Zihao Yin, Chen Gan, Kelei He, Yang Gao, Junfeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=yVJd8lKyVX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WfaQrKCr4X",
+      "paper_id": "WfaQrKCr4X",
+      "title": "I-Con: A Unifying Framework for Representation Learning",
+      "authors": "Shaden Naif Alshammari, John R. Hershey, Axel Feldmann, William T. Freeman, Mark Hamilton",
+      "paper_url": "https://openreview.net/pdf?id=WfaQrKCr4X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_U_2kuqoTcB",
+      "paper_id": "U_2kuqoTcB",
+      "title": "Identifiability Results for Multimodal Contrastive Learning",
+      "authors": "Imant Daunhawer, Alice Bizeul, Emanuele Palumbo, Alexander Marx, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/5aa78fe66dfb42e06ee2ff4f83753a0161bedc84.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ptCIlV24YZ",
+      "paper_id": "ptCIlV24YZ",
+      "title": "Image Clustering via the Principle of Rate Reduction in the Age of Pretrained Models",
+      "authors": "Tianzhe Chu, Shengbang Tong, Tianjiao Ding, Xili Dai, Benjamin David Haeffele, Rene Vidal, Yi Ma",
+      "paper_url": "https://openreview.net/pdf?id=ptCIlV24YZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ddad0PNUvV",
+      "paper_id": "ddad0PNUvV",
+      "title": "Images as Weight Matrices: Sequential Image Generation Through Synaptic Learning Rules",
+      "authors": "Kazuki Irie, Jürgen Schmidhuber",
+      "paper_url": "https://openreview.net/pdf/aa76486a805137c091d1ab926caf23997d179f30.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_9MbhFHqrti9",
+      "paper_id": "9MbhFHqrti9",
+      "title": "ImaginaryNet: Learning Object Detectors without Real Images and Annotations",
+      "authors": "Minheng Ni, Zitong Huang, Kailai Feng, Wangmeng Zuo",
+      "paper_url": "https://openreview.net/pdf/871b8a661c3de03ebac23389dedd92af1f741b4c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_raU07GpP0P",
+      "paper_id": "raU07GpP0P",
+      "title": "Improving Deep Regression with Ordinal Entropy",
+      "authors": "Shihao Zhang, Linlin Yang, Michael Bi Mi, Xiaoxu Zheng, Angela Yao",
+      "paper_url": "https://openreview.net/pdf/3fa28db76e89d4a3ce4e48a57a415e706ad74b51.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_FYKVPOHCpE",
+      "paper_id": "FYKVPOHCpE",
+      "title": "Improving Non-Transferable Representation Learning by Harnessing Content and Style",
+      "authors": "Ziming Hong, Zhenyi Wang, Li Shen, Yu Yao, Zhuo Huang, Shiming Chen, Chuanwu Yang, Mingming Gong, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=FYKVPOHCpE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23__-FN9mJsgg",
+      "paper_id": "_-FN9mJsgg",
+      "title": "Improving Object-centric Learning with Query Optimization",
+      "authors": "Baoxiong Jia, Yu Liu, Siyuan Huang",
+      "paper_url": "https://openreview.net/pdf/d5ec9ca4a9c3d9b9a0b66373194a2f787d2e515c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_NomEDgIEBwE",
+      "paper_id": "NomEDgIEBwE",
+      "title": "Improving Transformation Invariance in Contrastive Representation Learning",
+      "authors": "Adam Foster, Rattana Pukdee, Tom Rainforth",
+      "paper_url": "https://openreview.net/pdf/401efbc12f590198cf9a4094f6a0ce66e21be5e9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_dDjSKKA5TP1",
+      "paper_id": "dDjSKKA5TP1",
+      "title": "Incremental False Negative Detection for Contrastive Learning",
+      "authors": "Tsai-Shien Chen, Wei-Chih Hung, Hung-Yu Tseng, Shao-Yi Chien, Ming-Hsuan Yang",
+      "paper_url": "https://openreview.net/pdf/bb320db0548af9f9dda16d602425fa7632befbb0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_g6eCbercEc",
+      "paper_id": "g6eCbercEc",
+      "title": "InfoCon: Concept Discovery with Generative and Discriminative Informativeness",
+      "authors": "Ruizhe Liu, Qian Luo, Yanchao Yang",
+      "paper_url": "https://openreview.net/pdf?id=g6eCbercEc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_trj2Jq8riA",
+      "paper_id": "trj2Jq8riA",
+      "title": "Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology",
+      "authors": "Pei Liu, Luping Ji, Jiaxiang Gou, Bo Fu, Mao Ye",
+      "paper_url": "https://openreview.net/pdf?id=trj2Jq8riA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Qj1KwBZaEI",
+      "paper_id": "Qj1KwBZaEI",
+      "title": "Intrinsic Dimension Correlation: uncovering nonlinear connections in multimodal representations",
+      "authors": "Lorenzo Basile, Santiago Acevedo, Luca Bortolussi, Fabio Anselmi, Alex Rodriguez",
+      "paper_url": "https://openreview.net/pdf?id=Qj1KwBZaEI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_GgEAdqYPNA",
+      "paper_id": "GgEAdqYPNA",
+      "title": "Investigating the Benefits of Projection Head for Representation Learning",
+      "authors": "Yihao Xue, Eric Gan, Jiayi Ni, Siddharth Joshi, Baharan Mirzasoleiman",
+      "paper_url": "https://openreview.net/pdf?id=GgEAdqYPNA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_nUmCcZ5RKF",
+      "paper_id": "nUmCcZ5RKF",
+      "title": "IS SYNTHETIC DATA FROM GENERATIVE MODELS READY FOR IMAGE RECOGNITION?",
+      "authors": "Ruifei He, Shuyang Sun, Xin Yu, Chuhui Xue, Wenqing Zhang, Philip Torr, Song Bai, XIAOJUAN QI",
+      "paper_url": "https://openreview.net/pdf/530478d6bc03dbd80ae4d0e00c93647edd522adc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_-mWcQVLPSPy",
+      "paper_id": "-mWcQVLPSPy",
+      "title": "Isometric Propagation Network for Generalized Zero-shot Learning",
+      "authors": "Lu Liu, Tianyi Zhou, Guodong Long, Jing Jiang, Xuanyi Dong, Chengqi Zhang",
+      "paper_url": "https://openreview.net/pdf/da2fc73fa15eb07f35399aa7799e950e718cb61e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_ZKy2X3dgPA",
+      "paper_id": "ZKy2X3dgPA",
+      "title": "It Takes Two to Tango: Mixup for Deep Metric Learning",
+      "authors": "Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, laurent amsaleg, Konstantinos Karantzalos, Yannis Avrithis",
+      "paper_url": "https://openreview.net/pdf/1b4683c706bc39fb7b56b3982f8c10166b29773d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_QCrw0u9LQ7",
+      "paper_id": "QCrw0u9LQ7",
+      "title": "Iterative Patch Selection for High-Resolution Image Recognition",
+      "authors": "Benjamin Bergner, Christoph Lippert, Aravindh Mahendran",
+      "paper_url": "https://openreview.net/pdf/a52c85bb29a8881da5948c29b7f308d4e586cb7d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_te2IdORabL",
+      "paper_id": "te2IdORabL",
+      "title": "JPEG Inspired Deep Learning",
+      "authors": "Ahmed H. Salamah, Kaixiang Zheng, Yiwen Liu, EN-HUI YANG",
+      "paper_url": "https://openreview.net/pdf?id=te2IdORabL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mMPaQzgzAN",
+      "paper_id": "mMPaQzgzAN",
+      "title": "Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders",
+      "authors": "Senthooran Rajamanoharan, Tom Lieberum, Nicolas Sonnerat, Arthur Conmy, Vikrant Varma, Janos Kramar, Neel Nanda",
+      "paper_url": "https://openreview.net/pdf?id=mMPaQzgzAN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AoIKgHu9Si",
+      "paper_id": "AoIKgHu9Si",
+      "title": "L-WISE: Boosting Human Visual Category Learning Through Model-Based Image Selection and Enhancement",
+      "authors": "Morgan Bruce Talbot, Gabriel Kreiman, James J. DiCarlo, Guy Gaziv",
+      "paper_url": "https://openreview.net/pdf?id=AoIKgHu9Si",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_8WawVDdKqlL",
+      "paper_id": "8WawVDdKqlL",
+      "title": "Label Encoding for Regression Networks",
+      "authors": "Deval Shah, Zi Yu Xue, Tor Aamodt",
+      "paper_url": "https://openreview.net/pdf/f9f19a0a8f967030ba6a2061f7e7c78524762ef7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_cH3oufN8Pl",
+      "paper_id": "cH3oufN8Pl",
+      "title": "Label-Focused Inductive Bias over Latent Object Features in Visual Classification",
+      "authors": "Ilmin Kang, HyounYoung Bae, Kangil Kim",
+      "paper_url": "https://openreview.net/pdf?id=cH3oufN8Pl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_oZyAqjAjJW",
+      "paper_id": "oZyAqjAjJW",
+      "title": "LDReg: Local Dimensionality Regularized Self-Supervised Learning",
+      "authors": "Hanxun Huang, Ricardo J. G. B. Campello, Sarah Monazam Erfani, Xingjun Ma, Michael E. Houle, James Bailey",
+      "paper_url": "https://openreview.net/pdf?id=oZyAqjAjJW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eE2PXlNydB",
+      "paper_id": "eE2PXlNydB",
+      "title": "Learning Clustering-based Prototypes for Compositional Zero-Shot Learning",
+      "authors": "Hongyu Qu, Jianan Wei, Xiangbo Shu, Wenguan Wang",
+      "paper_url": "https://openreview.net/pdf?id=eE2PXlNydB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_j-63FSNcO5a",
+      "paper_id": "j-63FSNcO5a",
+      "title": "Learning Disentangled Representation by Exploiting Pretrained Generative Models:  A Contrastive Learning View",
+      "authors": "Xuanchi Ren, Tao Yang, Yuwang Wang, Wenjun Zeng",
+      "paper_url": "https://openreview.net/pdf/e69c1d9f39564cc023d156cc675d4675ad2da583.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_-HHJZlRpGb",
+      "paper_id": "-HHJZlRpGb",
+      "title": "Learning Domain-Agnostic Representation for Disease Diagnosis",
+      "authors": "Churan Wang, Jing  Li, Xinwei Sun, Fandong Zhang, Yizhou Yu, Yizhou Wang",
+      "paper_url": "https://openreview.net/pdf/04225040cdc5b044ca6f8a49e174e32a0bff4196.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_xOmC5LiVuN",
+      "paper_id": "xOmC5LiVuN",
+      "title": "Learning General-purpose Biomedical Volume Representations using Randomized Synthesis",
+      "authors": "Neel Dey, Benjamin Billot, Hallee E. Wong, Clinton Wang, Mengwei Ren, Ellen Grant, Adrian V Dalca, Polina Golland",
+      "paper_url": "https://openreview.net/pdf?id=xOmC5LiVuN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IRcv4yFX6z",
+      "paper_id": "IRcv4yFX6z",
+      "title": "Learning Hierarchical Image Segmentation For Recognition and By Recognition",
+      "authors": "Tsung-Wei Ke, Sangwoo Mo, Stella X. Yu",
+      "paper_url": "https://openreview.net/pdf?id=IRcv4yFX6z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_k60XE_b0Ix6",
+      "paper_id": "k60XE_b0Ix6",
+      "title": "Learning Label Encodings for Deep Regression",
+      "authors": "Deval Shah, Tor M. Aamodt",
+      "paper_url": "https://openreview.net/pdf/3af8d03ffcf4536fc86a2416e751d3d4282af4d0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_VZX2I_VVJKH",
+      "paper_id": "VZX2I_VVJKH",
+      "title": "Learning multi-scale local conditional probability models of images",
+      "authors": "Zahra Kadkhodaie, Florentin Guth, Stéphane Mallat, Eero P Simoncelli",
+      "paper_url": "https://openreview.net/pdf/df0e89dd7728d64bf15f64a0771ede4c857aad7c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_1xXvPrAshao",
+      "paper_id": "1xXvPrAshao",
+      "title": "Learning Multimodal VAEs through Mutual Supervision",
+      "authors": "Tom Joy, Yuge Shi, Philip Torr, Tom Rainforth, Sebastian M Schmon, Siddharth N",
+      "paper_url": "https://openreview.net/pdf/6e3f8005627ed71e89af82b1e6d063771b707c3e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_7J-30ilaUZM",
+      "paper_id": "7J-30ilaUZM",
+      "title": "Learning Structured Representations by Embedding Class Hierarchy",
+      "authors": "Siqi Zeng, Remi Tachet des Combes, Han Zhao",
+      "paper_url": "https://openreview.net/pdf/415e4e3c2bf538db1f22fe01a021e0e56edef7b9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_qzBUIzq5XR2",
+      "paper_id": "qzBUIzq5XR2",
+      "title": "Learning Task-General Representations with Generative Neuro-Symbolic Modeling",
+      "authors": "Reuben Feinman, Brenden M. Lake",
+      "paper_url": "https://openreview.net/pdf/6431925bd616a25a9a413f303a0b0d9302b580eb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_zNR43c03lRy",
+      "paper_id": "zNR43c03lRy",
+      "title": "Learning to Annotate Part Segmentation with Gradient Matching",
+      "authors": "Yu Yang, Xiaotian Cheng, Hakan Bilen, Xiangyang Ji",
+      "paper_url": "https://openreview.net/pdf/ad3311cb0430eae8c6960121482e58765c803178.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_HT2dAhh4uV",
+      "paper_id": "HT2dAhh4uV",
+      "title": "Learning to Compose: Improving Object Centric Learning by Injecting Compositionality",
+      "authors": "Whie Jung, Jaehoon Yoo, Sungjin Ahn, Seunghoon Hong",
+      "paper_url": "https://openreview.net/pdf?id=HT2dAhh4uV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_HndgQudNb91",
+      "paper_id": "HndgQudNb91",
+      "title": "Learning to Downsample for Segmentation of Ultra-High Resolution Images",
+      "authors": "Chen Jin, Ryutaro Tanno, Thomy Mertzanidou, Eleftheria Panagiotaki, Daniel C. Alexander",
+      "paper_url": "https://openreview.net/pdf/d2ade7120315e0521c4b97b593c4a2ebd44b0652.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Qc_OopMEBnC",
+      "paper_id": "Qc_OopMEBnC",
+      "title": "Learning to Segment from Noisy Annotations: A Spatial Correction Approach",
+      "authors": "Jiachen Yao, Yikai Zhang, Songzhu Zheng, Mayank Goswami, Prateek Prasanna, Chao Chen",
+      "paper_url": "https://openreview.net/pdf/3a19f70c903f3d5336ce11a5aa6ac1f5f12152af.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_92tYQiil17",
+      "paper_id": "92tYQiil17",
+      "title": "Learning Transferable Reward for Query Object Localization with Policy Adaptation",
+      "authors": "Tingfeng Li, Shaobo Han, Martin Renqiang Min, Dimitris N. Metaxas",
+      "paper_url": "https://openreview.net/pdf/5b72a5cbe8d019baa19ccef469da73414589de18.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_MSwEFaztwkE",
+      "paper_id": "MSwEFaztwkE",
+      "title": "Learning Weakly-supervised Contrastive Representations",
+      "authors": "Yao-Hung Hubert Tsai, Tianqin Li, Weixin Liu, Peiyuan Liao, Ruslan Salakhutdinov, Louis-Philippe Morency",
+      "paper_url": "https://openreview.net/pdf/08e660baa5f1b4d95675e564853ce70378ebe5fd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_NeDc-Ak-H_",
+      "paper_id": "NeDc-Ak-H_",
+      "title": "Learning What and Where: Disentangling Location and Identity Tracking Without Supervision",
+      "authors": "Manuel Traub, Sebastian Otte, Tobias Menge, Matthias Karlbauer, Jannik Thuemmel, Martin V. Butz",
+      "paper_url": "https://openreview.net/pdf/6b48752e87eb85e35fe0dc79498e9bf30671acde.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_WHlt5tLz12T",
+      "paper_id": "WHlt5tLz12T",
+      "title": "LiftedCL: Lifting Contrastive Learning for Human-Centric Perception",
+      "authors": "Ziwei Chen, Qiang Li, Xiaofeng Wang, Wankou Yang",
+      "paper_url": "https://openreview.net/pdf/004de323e98dfc211dd5355353b56d5ead9d130b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_BM9qfolt6p",
+      "paper_id": "BM9qfolt6p",
+      "title": "LucidPPN: Unambiguous Prototypical Parts Network for User-centric Interpretable Computer Vision",
+      "authors": "Mateusz Pach, Koryna Lewandowska, Jacek Tabor, Bartosz Michał Zieliński, Dawid Damian Rymarczyk",
+      "paper_url": "https://openreview.net/pdf?id=BM9qfolt6p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KI45uDnmzv",
+      "paper_id": "KI45uDnmzv",
+      "title": "MambaQuant: Quantizing the Mamba Family with Variance Aligned Rotation Methods",
+      "authors": "Zukang Xu, Yuxuan Yue, Xing Hu, Dawei Yang, Zhihang Yuan, Zixu Jiang, Zhixuan Chen, JiangyongYu, XUCHEN, Sifan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=KI45uDnmzv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7gGl6HB5Zd",
+      "paper_id": "7gGl6HB5Zd",
+      "title": "Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images",
+      "authors": "Jonathan Brokman, Amit Giloni, Omer Hofman, Roman Vainshtein, Hisashi Kojima, Guy Gilboa",
+      "paper_url": "https://openreview.net/pdf?id=7gGl6HB5Zd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_lcSfirnflpW",
+      "paper_id": "lcSfirnflpW",
+      "title": "ManyDG: Many-domain Generalization for Healthcare Applications",
+      "authors": "Chaoqi Yang, M Brandon Westover, Jimeng Sun",
+      "paper_url": "https://openreview.net/pdf/c38e48e8ca3abaebf91a325e0a5fff3a67fe7eb6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_WAgXmT8BeRj",
+      "paper_id": "WAgXmT8BeRj",
+      "title": "MARS: Meta-learning as Score Matching in the Function Space",
+      "authors": "Krunoslav Lehman Pavasovic, Jonas Rothfuss, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf/1844049a3a5915d7c96f3e7a03be2fe5f82a0e4b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1VwWi6zbxs",
+      "paper_id": "1VwWi6zbxs",
+      "title": "Mastering Task Arithmetic: $\\tau$Jp as a Key Indicator for Weight Disentanglement",
+      "authors": "Kotaro Yoshida, Yuji Naraki, Takafumi Horie, Ryosuke Yamaki, Ryotaro Shimizu, Yuki Saito, Julian McAuley, Hiroki Naganuma",
+      "paper_url": "https://openreview.net/pdf?id=1VwWi6zbxs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_udO3k28bEw",
+      "paper_id": "udO3k28bEw",
+      "title": "Mathematical Justification of Hard Negative Mining via Isometric Approximation Theorem",
+      "authors": "Albert Xu, Jhih-Yi Hsieh, Bhaskar Vundurthy, Nithya Kemp, Eliana Cohen, Lu Li, Howie Choset",
+      "paper_url": "https://openreview.net/pdf?id=udO3k28bEw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZPdZLlNXSm",
+      "paper_id": "ZPdZLlNXSm",
+      "title": "Mean Field Theory in Deep Metric Learning",
+      "authors": "Takuya Furusawa",
+      "paper_url": "https://openreview.net/pdf?id=ZPdZLlNXSm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_KSjPaXtxP8",
+      "paper_id": "KSjPaXtxP8",
+      "title": "Memorization in Self-Supervised Learning Improves Downstream Generalization",
+      "authors": "Wenhao Wang, Muhammad Ahmad Kaleem, Adam Dziedzic, Michael Backes, Nicolas Papernot, Franziska Boenisch",
+      "paper_url": "https://openreview.net/pdf?id=KSjPaXtxP8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_sVbFE6xz82",
+      "paper_id": "sVbFE6xz82",
+      "title": "MFN: Metadata-Free Real-World Noisy Image Generation",
+      "authors": "Jaekyun Ko, Dongjin Kim, Guanghui Wang, Tae Hyun Kim",
+      "paper_url": "https://openreview.net/pdf?id=sVbFE6xz82",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_gV3wdEOGy_V",
+      "paper_id": "gV3wdEOGy_V",
+      "title": "MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering",
+      "authors": "Tsung Wei Tsai, Chongxuan Li, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf/44a32c550457ebb4f9a6863753563e1f3b2740db.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_WQYHbr36Fo",
+      "paper_id": "WQYHbr36Fo",
+      "title": "Mind Your Augmentation: The Key to Decoupling Dense Self-Supervised Learning",
+      "authors": "Congpei Qiu, Tong Zhang, Yanhao Wu, Wei Ke, Mathieu Salzmann, Sabine Süsstrunk",
+      "paper_url": "https://openreview.net/pdf?id=WQYHbr36Fo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_nN_nBVKAhhD",
+      "paper_id": "nN_nBVKAhhD",
+      "title": "Minimalistic Unsupervised Representation Learning with the Sparse Manifold Transform",
+      "authors": "Yubei Chen, Zeyu Yun, Yi Ma, Bruno Olshausen, Yann LeCun",
+      "paper_url": "https://openreview.net/pdf/ad011e948fd7b2e72ff6dd869898255569519076.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_l-LGlk4Yl6G",
+      "paper_id": "l-LGlk4Yl6G",
+      "title": "Mixed-Features Vectors and Subspace Splitting",
+      "authors": "Alejandro Pimentel-Alarcón, Daniel L. Pimentel-Alarcón",
+      "paper_url": "https://openreview.net/pdf/5d2183584013a66871a20dd3988dc4e8acf94ea4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_4Ay23yeuz0",
+      "paper_id": "4Ay23yeuz0",
+      "title": "Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space",
+      "authors": "Hengrui Zhang, Jiani Zhang, Zhengyuan Shen, Balasubramaniam Srinivasan, Xiao Qin, Christos Faloutsos, Huzefa Rangwala, George Karypis",
+      "paper_url": "https://openreview.net/pdf?id=4Ay23yeuz0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_sdQGxouELX",
+      "paper_id": "sdQGxouELX",
+      "title": "MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises",
+      "authors": "Emanuele Palumbo, Imant Daunhawer, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/629389d94e1def86f254ed563a21b9df2af23304.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_tyTH9kOxcvh",
+      "paper_id": "tyTH9kOxcvh",
+      "title": "Modeling Label Space Interactions in Multi-label Classification using Box Embeddings",
+      "authors": "Dhruvesh Patel, Pavitra Dangati, Jay-Yoon Lee, Michael Boratko, Andrew McCallum",
+      "paper_url": "https://openreview.net/pdf/f5671d43125692a6533d9c7a1996335b8a1cd482.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_KE_wJD2RK4",
+      "paper_id": "KE_wJD2RK4",
+      "title": "Modeling Multimodal Aleatoric Uncertainty in Segmentation with Mixture of Stochastic Experts",
+      "authors": "Zhitong Gao, Yucong Chen, Chuyu Zhang, Xuming He",
+      "paper_url": "https://openreview.net/pdf/a6592dd089cd504236b41eb25f4594b99c263305.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_TKqMmKlmA7",
+      "paper_id": "TKqMmKlmA7",
+      "title": "Modulate Your Spectrum in Self-Supervised Learning",
+      "authors": "Xi Weng, Yunhao Ni, Tengwei Song, Jie Luo, Rao Muhammad Anwer, Salman Khan, Fahad Khan, Lei Huang",
+      "paper_url": "https://openreview.net/pdf?id=TKqMmKlmA7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gHAr7ZA1OL",
+      "paper_id": "gHAr7ZA1OL",
+      "title": "Modulated Phase Diffusor: Content-Oriented Feature Synthesis for Detecting Unknown Objects",
+      "authors": "Aming WU, Cheng Deng",
+      "paper_url": "https://openreview.net/pdf?id=gHAr7ZA1OL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_U2g8OGONA_V",
+      "paper_id": "U2g8OGONA_V",
+      "title": "Multi-domain image generation and translation with identifiability guarantees",
+      "authors": "Shaoan Xie, Lingjing Kong, Mingming Gong, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf/51f8278f376fd961504ae802f4d2f35deeb936d7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_nobDw4d1k7",
+      "paper_id": "nobDw4d1k7",
+      "title": "Multi-Scale Fusion for Object Representation",
+      "authors": "Rongzhen Zhao, Vivienne Huiling Wang, Juho Kannala, Joni Pajarinen",
+      "paper_url": "https://openreview.net/pdf?id=nobDw4d1k7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BrjLHbqiYs",
+      "paper_id": "BrjLHbqiYs",
+      "title": "Multimodal Learning Without Labeled Multimodal Data: Guarantees and Applications",
+      "authors": "Paul Pu Liang, Chun Kai Ling, Yun Cheng, Alexander Obolenskiy, Yudong Liu, Rohan Pandey, Alex Wilf, Louis-Philippe Morency, Russ Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf?id=BrjLHbqiYs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pH543jrbe8",
+      "paper_id": "pH543jrbe8",
+      "title": "Multimodal Lego: Model Merging and Fine-Tuning Across Topologies and Modalities in Biomedicine",
+      "authors": "Konstantin Hemker, Nikola Simidjievski, Mateja Jamnik",
+      "paper_url": "https://openreview.net/pdf?id=pH543jrbe8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Je5SHCKpPa",
+      "paper_id": "Je5SHCKpPa",
+      "title": "Multimodal Patient Representation Learning with Missing Modalities and Labels",
+      "authors": "Zhenbang Wu, Anant Dadu, Nicholas Tustison, Brian Avants, Mike Nalls, Jimeng Sun, Faraz Faghri",
+      "paper_url": "https://openreview.net/pdf?id=Je5SHCKpPa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_UB03wcP8RH",
+      "paper_id": "UB03wcP8RH",
+      "title": "Multitask Contrastive Learning",
+      "authors": "Emily Mu, John Guttag, Maggie Makar",
+      "paper_url": "https://openreview.net/pdf?id=UB03wcP8RH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9NqC72m31m",
+      "paper_id": "9NqC72m31m",
+      "title": "Neural Field Classifiers via Target Encoding and Classification Loss",
+      "authors": "Xindi Yang, Zeke Xie, Xiong Zhou, Boyu Liu, Buhua Liu, Yi Liu, Haoran Wang, YUNFENG CAI, Mingming Sun",
+      "paper_url": "https://openreview.net/pdf?id=9NqC72m31m",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_2DbVeuoa6a",
+      "paper_id": "2DbVeuoa6a",
+      "title": "Neural Spectral Methods: Self-supervised learning in the spectral domain",
+      "authors": "Yiheng Du, Nithin Chalapathi, Aditi S. Krishnapriyan",
+      "paper_url": "https://openreview.net/pdf?id=2DbVeuoa6a",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_bAz2DBS35i",
+      "paper_id": "bAz2DBS35i",
+      "title": "Noise-Robust De-Duplication at Scale",
+      "authors": "Emily Silcock, Luca D'Amico-Wong, Jinglin Yang, Melissa Dell",
+      "paper_url": "https://openreview.net/pdf/8b9428278fecebbf54dd7baa215439f4ffb8f5f8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_lNCnZwcH5Z",
+      "paper_id": "lNCnZwcH5Z",
+      "title": "Non-negative Contrastive Learning",
+      "authors": "Yifei Wang, Qi Zhang, Yaoyu Guo, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf?id=lNCnZwcH5Z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_-TSe5o7STVR",
+      "paper_id": "-TSe5o7STVR",
+      "title": "Non-Parallel Text Style Transfer with Self-Parallel Supervision",
+      "authors": "Ruibo Liu, Chongyang Gao, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi",
+      "paper_url": "https://openreview.net/pdf/7858e341aa92c11991455a43e9a78c35ee4655a2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_AMpki9kp8Cn",
+      "paper_id": "AMpki9kp8Cn",
+      "title": "Nonlinear ICA Using Volume-Preserving Transformations",
+      "authors": "Xiaojiang Yang, Yi Wang, Jiacheng Sun, Xing Zhang, Shifeng Zhang, Zhenguo Li, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf/3a5f3218a8dcb5454a7f2124915513a251c47534.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_KGV-GBh8fb",
+      "paper_id": "KGV-GBh8fb",
+      "title": "Not All Tasks Are Born Equal: Understanding Zero-Shot Generalization",
+      "authors": "Jing Zhou, Zongyu Lin, Yanan Zheng, Jian Li, Zhilin Yang",
+      "paper_url": "https://openreview.net/pdf/1919d0fcb91288c02556462ba37d25845db2452f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_r9FsiXZxZt",
+      "paper_id": "r9FsiXZxZt",
+      "title": "Object centric architectures enable efficient causal representation learning",
+      "authors": "Amin Mansouri, Jason Hartford, Yan Zhang, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=r9FsiXZxZt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_lbauk6wK2-y",
+      "paper_id": "lbauk6wK2-y",
+      "title": "Object Pursuit: Building a Space of Objects via Discriminative Weight Generation",
+      "authors": "Chuanyu Pan, Yanchao Yang, Kaichun Mo, Yueqi Duan, Leonidas Guibas",
+      "paper_url": "https://openreview.net/pdf/32d3902cb1f5cf70159185cfd64ffb5c9089be73.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_aBUidW4Nkd",
+      "paper_id": "aBUidW4Nkd",
+      "title": "Object-Centric Learning with Slot Mixture Module",
+      "authors": "Daniil Kirilenko, Vitaliy Vorobyov, Alexey Kovalev, Aleksandr Panov",
+      "paper_url": "https://openreview.net/pdf?id=aBUidW4Nkd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7d2JwGbxhA",
+      "paper_id": "7d2JwGbxhA",
+      "title": "Object-Centric Pretraining via Target Encoder Bootstrapping",
+      "authors": "Nikola Đukić, Tim Lebailly, Tinne Tuytelaars",
+      "paper_url": "https://openreview.net/pdf?id=7d2JwGbxhA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_s15HrqCqbr",
+      "paper_id": "s15HrqCqbr",
+      "title": "On Discriminative Probabilistic Modeling for Self-Supervised Representation Learning",
+      "authors": "Bokun Wang, Yunwen Lei, Yiming Ying, Tianbao Yang",
+      "paper_url": "https://openreview.net/pdf?id=s15HrqCqbr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_NeRdBeTionN",
+      "paper_id": "NeRdBeTionN",
+      "title": "On Self-Supervised Image Representations for GAN Evaluation",
+      "authors": "Stanislav Morozov, Andrey Voynov, Artem Babenko",
+      "paper_url": "https://openreview.net/pdf/7d26090fe6996493b7239c99e76e0f1929984b96.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_kDEL91Dufpa",
+      "paper_id": "kDEL91Dufpa",
+      "title": "On the duality between contrastive and non-contrastive self-supervised learning",
+      "authors": "Quentin Garrido, Yubei Chen, Adrien Bardes, Laurent Najman, Yann LeCun",
+      "paper_url": "https://openreview.net/pdf/b65a5392645765469baab2e39bb691bf22a9e6fd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_MxvHVNukama",
+      "paper_id": "MxvHVNukama",
+      "title": "On The Inadequacy of Optimizing Alignment and Uniformity in Contrastive Learning of Sentence Representations",
+      "authors": "Zhijie Nie, Richong Zhang, Yongyi Mao",
+      "paper_url": "https://openreview.net/pdf/a53c92c02df6e929732ff69807a56941d547b1e9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_w-CPUXXrAj",
+      "paper_id": "w-CPUXXrAj",
+      "title": "On the Limitations of Multimodal VAEs",
+      "authors": "Imant Daunhawer, Thomas M. Sutter, Kieran Chin-Cheong, Emanuele Palumbo, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/e25daec9628954edce262e1cda172567415510fc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_zXM0b4hi5_B",
+      "paper_id": "zXM0b4hi5_B",
+      "title": "On the relation between statistical learning and perceptual distances",
+      "authors": "Alexander Hepburn, Valero Laparra, Raul Santos-Rodriguez, Johannes Ballé, Jesus Malo",
+      "paper_url": "https://openreview.net/pdf/12c717193deff83fed4cdbbc207d6c4ffebad63e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_8VXvj1QNRl1",
+      "paper_id": "8VXvj1QNRl1",
+      "title": "On the Transfer of Disentangled Representations in Realistic Settings",
+      "authors": "Andrea Dittadi, Frederik Träuble, Francesco Locatello, Manuel Wuthrich, Vaibhav Agrawal, Ole Winther, Stefan Bauer, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/bd4ae699aba426a89c027ef66f9f0cc2dcb0e187.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_bSq0XGS3kW",
+      "paper_id": "bSq0XGS3kW",
+      "title": "On the Transfer of Object-Centric Representation Learning",
+      "authors": "Aniket Rajiv Didolkar, Andrii Zadaianchuk, Anirudh Goyal, Michael Curtis Mozer, Yoshua Bengio, Georg Martius, Maximilian Seitzer",
+      "paper_url": "https://openreview.net/pdf?id=bSq0XGS3kW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_O-r8LOR-CCA",
+      "paper_id": "O-r8LOR-CCA",
+      "title": "Open-World Semi-Supervised Learning",
+      "authors": "Kaidi Cao, Maria Brbic, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf/e5ffbb438b307d601bd7794c87fae3c23950a63f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_NU9AYHJvYe",
+      "paper_id": "NU9AYHJvYe",
+      "title": "Optimal Sample Complexity of Contrastive Learning",
+      "authors": "Noga Alon, Dmitrii Avdiukhin, Dor Elboim, Orr Fischer, Grigory Yaroslavtsev",
+      "paper_url": "https://openreview.net/pdf?id=NU9AYHJvYe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hD3sGVqPsr",
+      "paper_id": "hD3sGVqPsr",
+      "title": "P$^2$OT: Progressive Partial Optimal Transport for Deep Imbalanced Clustering",
+      "authors": "Chuyu Zhang, Hui Ren, Xuming He",
+      "paper_url": "https://openreview.net/pdf?id=hD3sGVqPsr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_B4vzu2aokv",
+      "paper_id": "B4vzu2aokv",
+      "title": "P2Seg: Pointly-supervised Segmentation via Mutual Distillation",
+      "authors": "Zipeng Wang, Xuehui Yu, Xumeng Han, Wenwen Yu, Zhixun Huang, Jianbin Jiao, Zhenjun Han",
+      "paper_url": "https://openreview.net/pdf?id=B4vzu2aokv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_iUdSB2kK9GY",
+      "paper_id": "iUdSB2kK9GY",
+      "title": "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs",
+      "authors": "James Oldfield, Christos Tzelepis, Yannis Panagakis, Mihalis Nicolaou, Ioannis Patras",
+      "paper_url": "https://openreview.net/pdf/1e15e7a7290cdf00f79a4bd1f9f99eeb32082bf5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_10R_bcjFwJ",
+      "paper_id": "10R_bcjFwJ",
+      "title": "Patch-Level Contrasting without Patch Correspondence for Accurate and Dense Contrastive Representation Learning",
+      "authors": "Shaofeng Zhang, Feng Zhu, Rui Zhao, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf/2827ac68856f272d96ac55b06f6692f5bd6b1eff.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_t9Zd7Oi5JPl",
+      "paper_id": "t9Zd7Oi5JPl",
+      "title": "PatchDCT: Patch Refinement for High Quality Instance Segmentation",
+      "authors": "Qinrou Wen, Jirui Yang, Xue Yang, Kewei Liang",
+      "paper_url": "https://openreview.net/pdf/2f7aeac3d7d77bb1af67bdb17bee0bf2b83cfacb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_M6M8BEmd6dq",
+      "paper_id": "M6M8BEmd6dq",
+      "title": "PEARL: Data Synthesis via Private Embeddings and Adversarial Reconstruction Learning",
+      "authors": "Seng Pei Liew, Tsubasa Takahashi, Michihiko Ueno",
+      "paper_url": "https://openreview.net/pdf/3efedef6ce8396ae22861cd7154606c25bd31e95.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_z7K2faBrDG",
+      "paper_id": "z7K2faBrDG",
+      "title": "Perceptual Scales Predicted by Fisher Information Metrics",
+      "authors": "Jonathan Vacher, Pascal Mamassian",
+      "paper_url": "https://openreview.net/pdf?id=z7K2faBrDG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5tjdRyqnSn",
+      "paper_id": "5tjdRyqnSn",
+      "title": "PhiNets: Brain-inspired Non-contrastive Learning Based on Temporal Prediction Hypothesis",
+      "authors": "Satoki Ishikawa, Makoto Yamada, Han Bao, Yuki Takezawa",
+      "paper_url": "https://openreview.net/pdf?id=5tjdRyqnSn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Pia70sP2Oi1",
+      "paper_id": "Pia70sP2Oi1",
+      "title": "Planckian Jitter: countering the color-crippling effects of color jitter on self-supervised training",
+      "authors": "Simone Zini, Alex Gomez-Villa, Marco Buzzelli, Bartłomiej Twardowski, Andrew D. Bagdanov, Joost van de weijer",
+      "paper_url": "https://openreview.net/pdf/14392e7c217114a74674c714c248cd648e9b92d3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_iHcTLIor0m",
+      "paper_id": "iHcTLIor0m",
+      "title": "Poly-View Contrastive Learning",
+      "authors": "Amitis Shidani, R Devon Hjelm, Jason Ramapuram, Russell Webb, Eeshan Gunesh Dhekane, Dan Busbridge",
+      "paper_url": "https://openreview.net/pdf?id=iHcTLIor0m",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_dEg5SdGaiq",
+      "paper_id": "dEg5SdGaiq",
+      "title": "PooDLe🐩: Pooled and dense self-supervised learning from naturalistic videos",
+      "authors": "Alex N Wang, Christopher Hoang, Yuwen Xiong, Yann LeCun, Mengye Ren",
+      "paper_url": "https://openreview.net/pdf?id=dEg5SdGaiq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_z4Hcegjzph",
+      "paper_id": "z4Hcegjzph",
+      "title": "Pre-training with Random Orthogonal Projection Image Modeling",
+      "authors": "Maryam Haghighat, Peyman Moghadam, Shaheer Mohamed, Piotr Koniusz",
+      "paper_url": "https://openreview.net/pdf?id=z4Hcegjzph",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_k3y0oyK7sn",
+      "paper_id": "k3y0oyK7sn",
+      "title": "Predictive Uncertainty Quantification for Bird's Eye View Segmentation: A Benchmark and Novel Loss Function",
+      "authors": "Linlin Yu, Bowen Yang, Tianhao Wang, Kangshuo Li, Feng Chen",
+      "paper_url": "https://openreview.net/pdf?id=k3y0oyK7sn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_skcTCdJz0f",
+      "paper_id": "skcTCdJz0f",
+      "title": "Probabilistic Self-supervised Representation Learning via Scoring Rules Minimization",
+      "authors": "Amirhossein Vahidi, Simon Schosser, Lisa Wimmer, Yawei Li, Bernd Bischl, Eyke Hüllermeier, Mina Rezaei",
+      "paper_url": "https://openreview.net/pdf?id=skcTCdJz0f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_YNbLUGDAX5",
+      "paper_id": "YNbLUGDAX5",
+      "title": "Progressive Parameter Efficient Transfer Learning for Semantic Segmentation",
+      "authors": "Nan Zhou, Huiqun Wang, Yaoyan Zheng, Di Huang",
+      "paper_url": "https://openreview.net/pdf?id=YNbLUGDAX5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8T4qmZbTkW7",
+      "paper_id": "8T4qmZbTkW7",
+      "title": "Progressively Compressed Auto-Encoder for Self-supervised Representation Learning",
+      "authors": "Jin Li, Yaoming Wang, XIAOPENG ZHANG, Yabo Chen, Dongsheng Jiang, Wenrui Dai, Chenglin Li, Hongkai Xiong, Qi Tian",
+      "paper_url": "https://openreview.net/pdf/216b76a14f9bcf830842688219297d41c90a0935.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_tYxG_OMs9WE",
+      "paper_id": "tYxG_OMs9WE",
+      "title": "Property Controllable Variational Autoencoder via Invertible Mutual Dependence",
+      "authors": "Xiaojie Guo, Yuanqi Du, Liang Zhao",
+      "paper_url": "https://openreview.net/pdf/7a243ac1776d6ff97e3e45e24a68cc1d897b9b36.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_oGDKSt9JrZi",
+      "paper_id": "oGDKSt9JrZi",
+      "title": "Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks",
+      "authors": "Jesse Farebrother, Joshua Greaves, Rishabh Agarwal, Charline Le Lan, Ross Goroshin, Pablo Samuel Castro, Marc G Bellemare",
+      "paper_url": "https://openreview.net/pdf/53dd973b091c37ecf6340230fe3534cbd485e01c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_lY0-7bj0Vfz",
+      "paper_id": "lY0-7bj0Vfz",
+      "title": "Prototype memory and attention mechanisms for few shot image generation",
+      "authors": "Tianqin Li, Zijie Li, Andrew Luo, Harold Rockwell, Amir Barati Farimani, Tai Sing Lee",
+      "paper_url": "https://openreview.net/pdf/c2a4a72f1bd5890c4beeb93de11cac4746eae2c1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_KmykpuSrjcq",
+      "paper_id": "KmykpuSrjcq",
+      "title": "Prototypical Contrastive Learning of Unsupervised Representations",
+      "authors": "Junnan Li, Pan Zhou, Caiming Xiong, Steven Hoi",
+      "paper_url": "https://openreview.net/pdf/601011be0933cda056049e8fd0b25a10bcfd4515.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_otHZ8JAIgh",
+      "paper_id": "otHZ8JAIgh",
+      "title": "Prototypical Information Bottlenecking and Disentangling for Multimodal Cancer Survival Prediction",
+      "authors": "Yilan Zhang, Yingxue Xu, Jianqi Chen, Fengying Xie, Hao Chen",
+      "paper_url": "https://openreview.net/pdf?id=otHZ8JAIgh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_7VPTUWkiDQ",
+      "paper_id": "7VPTUWkiDQ",
+      "title": "Provable Compositional Generalization for Object-Centric Learning",
+      "authors": "Thaddäus Wiedemer, Jack Brady, Alexander Panfilov, Attila Juhos, Matthias Bethge, Wieland Brendel",
+      "paper_url": "https://openreview.net/pdf?id=7VPTUWkiDQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7p8CcxP1Xc",
+      "paper_id": "7p8CcxP1Xc",
+      "title": "Proximal Mapping Loss: Understanding Loss Functions in Crowd Counting & Localization",
+      "authors": "Wei Lin, Jia Wan, Antoni B. Chan",
+      "paper_url": "https://openreview.net/pdf?id=7p8CcxP1Xc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2zMHHZ569S",
+      "paper_id": "2zMHHZ569S",
+      "title": "Qinco2: Vector Compression and Search with Improved  Implicit Neural Codebooks",
+      "authors": "Théophane Vallaeys, Matthew J. Muckley, Jakob Verbeek, Matthijs Douze",
+      "paper_url": "https://openreview.net/pdf?id=2zMHHZ569S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GlAeL0I8LX",
+      "paper_id": "GlAeL0I8LX",
+      "title": "QPM: Discrete Optimization for Globally Interpretable Image Classification",
+      "authors": "Thomas Norrenbrock, Timo Kaiser, Sovan Biswas, Ramesh Manuvinakurike, Bodo Rosenhahn",
+      "paper_url": "https://openreview.net/pdf?id=GlAeL0I8LX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_svIdLLZpsA",
+      "paper_id": "svIdLLZpsA",
+      "title": "Real-Fake: Effective Training Data Synthesis Through Distribution Matching",
+      "authors": "Jianhao Yuan, Jie Zhang, Shuyang Sun, Philip Torr, Bo Zhao",
+      "paper_url": "https://openreview.net/pdf?id=svIdLLZpsA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_mQxt8l7JL04",
+      "paper_id": "mQxt8l7JL04",
+      "title": "Regularized Autoencoders for Isometric Representation Learning",
+      "authors": "Yonghyeon Lee, Sangwoong Yoon, MinJun Son, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf/a3c7c1d2d5e61bde51506a5b40b5a02f66d0d8e3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_vhKe9UFbrJo",
+      "paper_id": "vhKe9UFbrJo",
+      "title": "Relating by Contrasting: A Data-efficient Framework for Multimodal Generative Models",
+      "authors": "Yuge Shi, Brooks Paige, Philip Torr, Siddharth N",
+      "paper_url": "https://openreview.net/pdf/9f989526ad09a1935c06a52631aac027c4f90633.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_8Py-W8lSUgy",
+      "paper_id": "8Py-W8lSUgy",
+      "title": "Relational Multi-Task Learning: Modeling Relations between Data and Tasks",
+      "authors": "Kaidi Cao, Jiaxuan You, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf/2fc25baa1e108a6b1e91d4388bfae9d417400e3f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_dZPgfwaTaXv",
+      "paper_id": "dZPgfwaTaXv",
+      "title": "Relational Surrogate Loss Learning",
+      "authors": "Tao Huang, Zekang Li, Hua Lu, Yong Shan, Shusheng Yang, Yang Feng, Fei Wang, Shan You, Chang Xu",
+      "paper_url": "https://openreview.net/pdf/da75d64e0685a0086938d2d63a0b5ef70e48324a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_SrC-nwieGJ",
+      "paper_id": "SrC-nwieGJ",
+      "title": "Relative representations enable zero-shot latent space communication",
+      "authors": "Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà",
+      "paper_url": "https://openreview.net/pdf/2d9f62e22019d0d53476f0c4a9d760c6cc7895e2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_8HRvyxc606",
+      "paper_id": "8HRvyxc606",
+      "title": "Reliability of CKA as a Similarity Measure in Deep Learning",
+      "authors": "MohammadReza Davari, Stefan Horoi, Amine Natik, Guillaume Lajoie, Guy Wolf, Eugene Belilovsky",
+      "paper_url": "https://openreview.net/pdf/402c531d6593a053e759e45ba18de2f2cc84dd23.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_Naqw7EHIfrv",
+      "paper_id": "Naqw7EHIfrv",
+      "title": "Representation Learning for Sequence Data with Deep Autoencoding Predictive Components",
+      "authors": "Junwen Bai, Weiran Wang, Yingbo Zhou, Caiming Xiong",
+      "paper_url": "https://openreview.net/pdf/1d9efef224111e20fa66c34f1102165be8afc889.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ih3BJmIZbC",
+      "paper_id": "ih3BJmIZbC",
+      "title": "Representational Similarity via Interpretable Visual Concepts",
+      "authors": "Neehar Kondapaneni, Oisin Mac Aodha, Pietro Perona",
+      "paper_url": "https://openreview.net/pdf?id=ih3BJmIZbC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PRvdO3nfFi",
+      "paper_id": "PRvdO3nfFi",
+      "title": "ReSi: A Comprehensive Benchmark for Representational Similarity Measures",
+      "authors": "Max Klabunde, Tassilo Wald, Tobias Schumacher, Klaus Maier-Hein, Markus Strohmaier, Florian Lemmerich",
+      "paper_url": "https://openreview.net/pdf?id=PRvdO3nfFi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GMwRl2e9Y1",
+      "paper_id": "GMwRl2e9Y1",
+      "title": "Restructuring Vector Quantization with the Rotation Trick",
+      "authors": "Christopher Fifty, Ronald Guenther Junkins, Dennis Duan, Aniketh Iyengar, Jerry Weihong Liu, Ehsan Amid, Sebastian Thrun, Christopher Re",
+      "paper_url": "https://openreview.net/pdf?id=GMwRl2e9Y1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CexatBp6rx",
+      "paper_id": "CexatBp6rx",
+      "title": "Restyling Unsupervised Concept Based Interpretable Networks with Generative Models",
+      "authors": "Jayneel Parekh, Quentin Bouniot, Pavlo Mozharovskyi, Alasdair Newson, Florence d'Alché-Buc",
+      "paper_url": "https://openreview.net/pdf?id=CexatBp6rx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HpUs2EXjOl",
+      "paper_id": "HpUs2EXjOl",
+      "title": "Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words",
+      "authors": "Gouki Minegishi, Hiroki Furuta, Yusuke Iwasawa, Yutaka Matsuo",
+      "paper_url": "https://openreview.net/pdf?id=HpUs2EXjOl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_torbeUlslS",
+      "paper_id": "torbeUlslS",
+      "title": "Rethinking Multiple-Instance Learning From Feature Space to Probability Space",
+      "authors": "Zhaolong Du, Shasha Mao, Xuequan Lu, Mengnan Qi, Yimeng Zhang, Jing Gu, Licheng Jiao",
+      "paper_url": "https://openreview.net/pdf?id=torbeUlslS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_0qmwFNJyxCL",
+      "paper_id": "0qmwFNJyxCL",
+      "title": "Rethinking the Effect of Data Augmentation in Adversarial Contrastive Learning",
+      "authors": "Rundong Luo, Yifei Wang, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf/0674733fd56c180a9e32157d194ad9d1fb37d85f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_3pf2hEdu8B",
+      "paper_id": "3pf2hEdu8B",
+      "title": "Rethinking the Uniformity Metric in Self-Supervised Learning",
+      "authors": "Xianghong Fang, Jian Li, Qiang Sun, Benyou Wang",
+      "paper_url": "https://openreview.net/pdf?id=3pf2hEdu8B",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_z3dfuRcGAK",
+      "paper_id": "z3dfuRcGAK",
+      "title": "Revisit and Outstrip Entity Alignment: A Perspective of Generative Models",
+      "authors": "Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=z3dfuRcGAK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_wcNtbEtcGIC",
+      "paper_id": "wcNtbEtcGIC",
+      "title": "Robust and Controllable Object-Centric Learning through Energy-based Models",
+      "authors": "Ruixiang ZHANG, Tong Che, Boris Ivanovic, Renhao Wang, Marco Pavone, Yoshua Bengio, Liam Paull",
+      "paper_url": "https://openreview.net/pdf/e1dc654960581d47d9f3d978a44b2de25897d983.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_armbJRJdrH",
+      "paper_id": "armbJRJdrH",
+      "title": "Robust Representation Consistency Model via Contrastive Denoising",
+      "authors": "Jiachen Lei, Julius Berner, Jiongxiao Wang, Zhongzhu Chen, Chaowei Xiao, Zhongjie Ba, Kui Ren, Jun Zhu, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=armbJRJdrH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_K9V7ugVuUz",
+      "paper_id": "K9V7ugVuUz",
+      "title": "Robust Similarity Learning with Difference Alignment Regularization",
+      "authors": "Shuo Chen, Gang Niu, Chen Gong, Okan Koc, Jian Yang, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf?id=K9V7ugVuUz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_G1H4NSATlr",
+      "paper_id": "G1H4NSATlr",
+      "title": "RoPAWS: Robust Semi-supervised Representation Learning from Uncurated Data",
+      "authors": "Sangwoo Mo, Jong-Chyi Su, Chih-Yao Ma, Mido Assran, Ishan Misra, Licheng Yu, Sean Bell",
+      "paper_url": "https://openreview.net/pdf/c586bb7922f76665c6cafd577bdef3f4b80b6830.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_RhB1AdoFfGE",
+      "paper_id": "RhB1AdoFfGE",
+      "title": "Sample and Computation Redistribution for Efficient Face Detection",
+      "authors": "Jia Guo, Jiankang Deng, Alexandros Lattas, Stefanos Zafeiriou",
+      "paper_url": "https://openreview.net/pdf/d7b9dd38011f418b1c66bb378aef38a25d8c9bf5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Tr3fZocrI6",
+      "paper_id": "Tr3fZocrI6",
+      "title": "Sample-Efficient Linear Representation Learning from Non-IID Non-Isotropic Data",
+      "authors": "Thomas TCK Zhang, Leonardo Felipe Toso, James Anderson, Nikolai Matni",
+      "paper_url": "https://openreview.net/pdf?id=Tr3fZocrI6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HNOo4UNPBF",
+      "paper_id": "HNOo4UNPBF",
+      "title": "Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection",
+      "authors": "Chunlei Li, Yilei Shi, Jingliang Hu, Xiao Xiang Zhu, Lichao Mou",
+      "paper_url": "https://openreview.net/pdf?id=HNOo4UNPBF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tcsZt9ZNKD",
+      "paper_id": "tcsZt9ZNKD",
+      "title": "Scaling and evaluating sparse autoencoders",
+      "authors": "Leo Gao, Tom Dupre la Tour, Henk Tillman, Gabriel Goh, Rajan Troll, Alec Radford, Ilya Sutskever, Jan Leike, Jeffrey Wu",
+      "paper_url": "https://openreview.net/pdf?id=tcsZt9ZNKD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_CuV_qYkmKb3",
+      "paper_id": "CuV_qYkmKb3",
+      "title": "Scarf: Self-Supervised Contrastive Learning using Random Feature Corruption",
+      "authors": "Dara Bahri, Heinrich Jiang, Yi Tay, Donald Metzler",
+      "paper_url": "https://openreview.net/pdf/b63986fb73f0b81b950ec3c4c84a0977ad6bdee1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_VGI9dSmTgPF",
+      "paper_id": "VGI9dSmTgPF",
+      "title": "Schema Inference for Interpretable Image Classification",
+      "authors": "Haofei Zhang, Mengqi Xue, Xiaokang Liu, Kaixuan Chen, Jie Song, Mingli Song",
+      "paper_url": "https://openreview.net/pdf/321e87c3baaa037520c81e22acdc69f4803572a6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_zSHoaTNlmA",
+      "paper_id": "zSHoaTNlmA",
+      "title": "Segmentation using efficient residual networks with attention-fusion modules",
+      "authors": "Serdar Erisen",
+      "paper_url": "https://openreview.net/pdf?id=zSHoaTNlmA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_h5OpjGd_lo6",
+      "paper_id": "h5OpjGd_lo6",
+      "title": "Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning",
+      "authors": "Jiahui Gao, Renjie Pi, LIN Yong, Hang Xu, Jiacheng Ye, Zhiyong Wu, WEIZHONG ZHANG, Xiaodan Liang, Zhenguo Li, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf/82812310fbf1dff5ce1f72fe99e2d46523ca8d5a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_zuqcmNVK4c2",
+      "paper_id": "zuqcmNVK4c2",
+      "title": "Self-Joint Supervised Learning",
+      "authors": "Navid Kardan, Mubarak Shah, Mitch Hill",
+      "paper_url": "https://openreview.net/pdf/960211bfb6a9d646a3fe04a45ebc7a4670bbe0ec.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ONfWFluZBI",
+      "paper_id": "ONfWFluZBI",
+      "title": "Self-supervised contrastive learning performs non-linear system identification",
+      "authors": "Rodrigo González Laiz, Tobias Schmidt, Steffen Schneider",
+      "paper_url": "https://openreview.net/pdf?id=ONfWFluZBI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_-bdp_8Itjwp",
+      "paper_id": "-bdp_8Itjwp",
+      "title": "Self-supervised Learning from a Multi-view Perspective",
+      "authors": "Yao-Hung Hubert Tsai, Yue Wu, Ruslan Salakhutdinov, Louis-Philippe Morency",
+      "paper_url": "https://openreview.net/pdf/07896a10dbc5362cc803196d61c5ce639ef2bceb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_8uu6JStuYm",
+      "paper_id": "8uu6JStuYm",
+      "title": "Self-supervised learning with rotation-invariant kernels",
+      "authors": "Léon Zheng, Gilles Puy, Elisa Riccietti, Patrick Perez, Rémi Gribonval",
+      "paper_url": "https://openreview.net/pdf/ef737455df9ff0ef5ebc958acb84991ccf4647e6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EpYnZpDpsQ",
+      "paper_id": "EpYnZpDpsQ",
+      "title": "Self-supervised Representation Learning from Random Data Projectors",
+      "authors": "Yi Sui, Tongzi Wu, Jesse C. Cresswell, Ga Wu, George Stein, Xiao Shi Huang, Xiaochen Zhang, Maksims Volkovs",
+      "paper_url": "https://openreview.net/pdf?id=EpYnZpDpsQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_068E_JSq9O",
+      "paper_id": "068E_JSq9O",
+      "title": "Self-supervised Representation Learning with Relative Predictive Coding",
+      "authors": "Yao-Hung Hubert Tsai, Martin Q. Ma, Muqiao Yang, Han Zhao, Louis-Philippe Morency, Ruslan Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf/282575516141216df413ed34796271b6b81c1ac1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_oDFvtxzPOx",
+      "paper_id": "oDFvtxzPOx",
+      "title": "Self-Supervision Enhanced Feature Selection with Correlated Gates",
+      "authors": "Changhee Lee, Fergus Imrie, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/eeb0bd632ffa4f23e0076ad9369b3943bbf31efc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Ubc74gTVo3",
+      "paper_id": "Ubc74gTVo3",
+      "title": "Self-supervision through Random Segments with Autoregressive Coding (RandSAC)",
+      "authors": "Tianyu Hua, Yonglong Tian, Sucheng Ren, Michalis Raptis, Hang Zhao, Leonid Sigal",
+      "paper_url": "https://openreview.net/pdf/4e53d24d80bcf1d31e7eea1d99a647f689b2bf87.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_si37wk8U5D",
+      "paper_id": "si37wk8U5D",
+      "title": "Semantix: An Energy-guided Sampler for Semantic Style Transfer",
+      "authors": "Huiang He, Minghui Hu, Chuanxia Zheng, Chaoyue Wang, Tat-Jen Cham",
+      "paper_url": "https://openreview.net/pdf?id=si37wk8U5D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_TAVBJ4aHsWt",
+      "paper_id": "TAVBJ4aHsWt",
+      "title": "SemPPL: Predicting Pseudo-Labels for Better Contrastive Representations",
+      "authors": "Matko Bošnjak, Pierre Harvey Richemond, Nenad Tomasev, Florian Strub, Jacob C Walker, Felix Hill, Lars Holger Buesing, Razvan Pascanu, Charles Blundell, Jovana Mitrovic",
+      "paper_url": "https://openreview.net/pdf/d50c85ce057666d1d57860e1bd9919146f56b21f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_30N3bNAiw3",
+      "paper_id": "30N3bNAiw3",
+      "title": "Separating common from salient patterns with Contrastive Representation Learning",
+      "authors": "Robin Louiset, Edouard Duchesnay, Antoine Grigis, Pietro Gori",
+      "paper_url": "https://openreview.net/pdf?id=30N3bNAiw3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_zEHGSN8Hy8",
+      "paper_id": "zEHGSN8Hy8",
+      "title": "SetCSE: Set Operations using Contrastive Learning of Sentence Embeddings",
+      "authors": "Kang Liu",
+      "paper_url": "https://openreview.net/pdf?id=zEHGSN8Hy8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KijslFbfOL",
+      "paper_id": "KijslFbfOL",
+      "title": "Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction",
+      "authors": "Shengju Yu, Zhibin Dong, Siwei Wang, Pei Zhang, Yi Zhang, Xinwang Liu, Naiyang Guan, Tiejun Li, Yiu-ming Cheung",
+      "paper_url": "https://openreview.net/pdf?id=KijslFbfOL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_RWtGreRpovS",
+      "paper_id": "RWtGreRpovS",
+      "title": "Simplicial Embeddings in Self-Supervised Learning and Downstream Classification",
+      "authors": "Samuel Lavoie, Christos Tsirigotis, Max Schwarzer, Ankit Vani, Michael Noukhovitch, Kenji Kawaguchi, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/fadb3c6b6bc3ec01fc5bf271cf08a4eb1e0f6fc1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_CHLhSw9pSw8",
+      "paper_id": "CHLhSw9pSw8",
+      "title": "Single-Photon Image Classification",
+      "authors": "Thomas Fischbacher, Luciano Sbaiz",
+      "paper_url": "https://openreview.net/pdf/d7978e041131e45cff5b7c28261bcb70fb3b1655.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_l9vM_PaUKz",
+      "paper_id": "l9vM_PaUKz",
+      "title": "Soft Neighbors are Positive Supporters in Contrastive Visual Representation Learning",
+      "authors": "Chongjian GE, Jiangliu Wang, Zhan Tong, Shoufa Chen, Yibing Song, Ping Luo",
+      "paper_url": "https://openreview.net/pdf/fcf2bcabecc2de6a0abb518daa6c6bb2c960aa82.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_PiZtlzMWUj",
+      "paper_id": "PiZtlzMWUj",
+      "title": "SoftCVI: Contrastive variational inference with self-generated soft labels",
+      "authors": "Daniel Ward, Mark Beaumont, Matteo Fasiolo",
+      "paper_url": "https://openreview.net/pdf?id=PiZtlzMWUj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ymt1zQXBDiF",
+      "paper_id": "ymt1zQXBDiF",
+      "title": "SoftMatch: Addressing the Quantity-Quality Tradeoff in Semi-supervised Learning",
+      "authors": "Hao Chen, Ran Tao, Yue Fan, Yidong Wang, Jindong Wang, Bernt Schiele, Xing Xie, Bhiksha Raj, Marios Savvides",
+      "paper_url": "https://openreview.net/pdf/2d1c30475b7e47aaec4402b7ffd940072d10b35d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_9ca9eHNrdH",
+      "paper_id": "9ca9eHNrdH",
+      "title": "Sparse Autoencoders Do Not Find Canonical Units of Analysis",
+      "authors": "Patrick Leask, Bart Bussmann, Michael T Pearce, Joseph Isaac Bloom, Curt Tigges, Noura Al Moubayed, Lee Sharkey, Neel Nanda",
+      "paper_url": "https://openreview.net/pdf?id=9ca9eHNrdH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_D_KeYoqCYC",
+      "paper_id": "D_KeYoqCYC",
+      "title": "Sparse encoding for more-interpretable feature-selecting representations in probabilistic matrix factorization",
+      "authors": "Joshua C Chang, Patrick Fletcher, Jungmin Han, Ted L Chang, Shashaank Vattikuti, Bart Desmet, Ayah Zirikly, Carson C Chow",
+      "paper_url": "https://openreview.net/pdf/8dec97cd769e293780630c02e65abf11b85674b1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_l3SDgUh7qZO",
+      "paper_id": "l3SDgUh7qZO",
+      "title": "SphereFace2: Binary Classification is All You Need for Deep Face Recognition",
+      "authors": "Yandong Wen, Weiyang Liu, Adrian Weller, Bhiksha Raj, Rita Singh",
+      "paper_url": "https://openreview.net/pdf/32df823cca80df310924963131f7d3535aa80a57.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_zBgiCWCxJB",
+      "paper_id": "zBgiCWCxJB",
+      "title": "SSOLE: Rethinking Orthogonal Low-rank Embedding for Self-Supervised Learning",
+      "authors": "Lun Huang, Qiang Qiu, Guillermo Sapiro",
+      "paper_url": "https://openreview.net/pdf?id=zBgiCWCxJB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_6tmjoym9LR6",
+      "paper_id": "6tmjoym9LR6",
+      "title": "Stability Regularization for Discrete Representation Learning",
+      "authors": "Adeel Pervez, Efstratios Gavves",
+      "paper_url": "https://openreview.net/pdf/599ab5c6c8513865531af017802b3e9a891d86b0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_cWdAYDLmPa",
+      "paper_id": "cWdAYDLmPa",
+      "title": "State Representation Learning Using an Unbalanced Atlas",
+      "authors": "Li Meng, Morten Goodwin, Anis Yazidi, Paal E. Engelstad",
+      "paper_url": "https://openreview.net/pdf?id=cWdAYDLmPa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hywpSoHwgX",
+      "paper_id": "hywpSoHwgX",
+      "title": "Strategic Preys Make Acute Predators: Enhancing Camouflaged Object Detectors by Generating Camouflaged Objects",
+      "authors": "Chunming He, Kai Li, Yachao Zhang, Yulun Zhang, Chenyu You, Zhenhua Guo, Xiu Li, Martin Danelljan, Fisher Yu",
+      "paper_url": "https://openreview.net/pdf?id=hywpSoHwgX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_lgaFMvZHSJ",
+      "paper_id": "lgaFMvZHSJ",
+      "title": "Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning",
+      "authors": "Sharut Gupta, Joshua Robinson, Derek Lim, Soledad Villar, Stefanie Jegelka",
+      "paper_url": "https://openreview.net/pdf?id=lgaFMvZHSJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xIHi5nxu9P",
+      "paper_id": "xIHi5nxu9P",
+      "title": "Subtractive Mixture Models via Squaring: Representation and Learning",
+      "authors": "Lorenzo Loconte, Aleksanteri Mikulus Sladek, Stefan Mengel, Martin Trapp, Arno Solin, Nicolas Gillis, Antonio Vergari",
+      "paper_url": "https://openreview.net/pdf?id=xIHi5nxu9P",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_vds4SNooOe",
+      "paper_id": "vds4SNooOe",
+      "title": "Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings",
+      "authors": "Jingchao Ni, Wei Cheng, Zhengzhang Chen, Takayoshi Asakura, Tomoya Soma, Sho Kato, Haifeng Chen",
+      "paper_url": "https://openreview.net/pdf/6eed00839e8f02de0ecba5b42ac5ce892def5ac0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_CGuvK3U09LH",
+      "paper_id": "CGuvK3U09LH",
+      "title": "Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation",
+      "authors": "Zhengdong Hu, Yifan Sun, Yi Yang",
+      "paper_url": "https://openreview.net/pdf/41a97d1a38e6c62bc037998a39c3201184ec1317.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_nf3A0WZsXS5",
+      "paper_id": "nf3A0WZsXS5",
+      "title": "Surreal-GAN:Semi-Supervised Representation Learning via GAN for uncovering heterogeneous disease-related imaging patterns",
+      "authors": "Zhijian Yang, Junhao Wen, Christos Davatzikos",
+      "paper_url": "https://openreview.net/pdf/169e0c29b5ff15ab03db77fc148c513fa8a71257.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_AyXIDfvYg8",
+      "paper_id": "AyXIDfvYg8",
+      "title": "Symmetric Neural-Collapse Representations with Supervised Contrastive Loss: The Impact of ReLU and Batching",
+      "authors": "Ganesh Ramachandra Kini, Vala Vakilian, Tina Behnia, Jaidev Gill, Christos Thrampoulidis",
+      "paper_url": "https://openreview.net/pdf?id=AyXIDfvYg8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_e1vqloonRy",
+      "paper_id": "e1vqloonRy",
+      "title": "Symmetric Single Index Learning",
+      "authors": "Aaron Zweig, Joan Bruna",
+      "paper_url": "https://openreview.net/pdf?id=e1vqloonRy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_G1r2rBkUdu",
+      "paper_id": "G1r2rBkUdu",
+      "title": "Synergy Between Sufficient Changes and Sparse Mixing Procedure for Disentangled Representation Learning",
+      "authors": "Zijian Li, Shunxing Fan, Yujia Zheng, Ignavier Ng, Shaoan Xie, Guangyi Chen, Xinshuai Dong, Ruichu Cai, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=G1r2rBkUdu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_OzyXtIZAzFv",
+      "paper_id": "OzyXtIZAzFv",
+      "title": "Task-Induced Representation Learning",
+      "authors": "Jun Yamada, Karl Pertsch, Anisha Gunjal, Joseph J Lim",
+      "paper_url": "https://openreview.net/pdf/6ffc4d2e51676a89b8a8dc75c13ac8b37bc4d6ad.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_ejHUr4nfHhD",
+      "paper_id": "ejHUr4nfHhD",
+      "title": "Temperature Schedules for self-supervised contrastive methods on long-tail data",
+      "authors": "Anna Kukleva, Moritz Böhle, Bernt Schiele, Hilde Kuehne, Christian Rupprecht",
+      "paper_url": "https://openreview.net/pdf/46efcd340650eebe5c97e48b313eef76bd5609fc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_wZ2SVhOTzBX",
+      "paper_id": "wZ2SVhOTzBX",
+      "title": "That Label's got Style: Handling Label Style Bias for Uncertain Image Segmentation",
+      "authors": "Kilian Zepf, Eike Petersen, Jes Frellsen, Aasa Feragen",
+      "paper_url": "https://openreview.net/pdf/2095aea917a5ab1180ad6c7df2fde2fb4cb2f676.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_DsIOUoZkVk",
+      "paper_id": "DsIOUoZkVk",
+      "title": "The \"Law'' of the Unconscious Contrastive Learner: Probabilistic Alignment of Unpaired Modalities",
+      "authors": "Yongwei Che, Benjamin Eysenbach",
+      "paper_url": "https://openreview.net/pdf?id=DsIOUoZkVk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_6kxApT2r2i",
+      "paper_id": "6kxApT2r2i",
+      "title": "The Augmented Image Prior: Distilling 1000 Classes by Extrapolating from a Single Image",
+      "authors": "Yuki M Asano, Aaqib Saeed",
+      "paper_url": "https://openreview.net/pdf/50fe7bfa8213c9e0ffde22b5d39aec2fb7c77b89.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_gICys3ITSmj",
+      "paper_id": "gICys3ITSmj",
+      "title": "The Close Relationship Between Contrastive Learning and Meta-Learning",
+      "authors": "Renkun Ni, Manli Shu, Hossein Souri, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/50e04918f102be63b77173d7b13e7c3a95d4d4b7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ixP76Y33y1",
+      "paper_id": "ixP76Y33y1",
+      "title": "The Effect of Intrinsic Dataset Properties on Generalization: Unraveling Learning Differences Between Natural and Medical Images",
+      "authors": "Nicholas Konz, Maciej A Mazurowski",
+      "paper_url": "https://openreview.net/pdf?id=ixP76Y33y1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_04K3PMtMckp",
+      "paper_id": "04K3PMtMckp",
+      "title": "The hidden uniform cluster prior in self-supervised learning",
+      "authors": "Mido Assran, Randall Balestriero, Quentin Duval, Florian Bordes, Ishan Misra, Piotr Bojanowski, Pascal Vincent, Michael Rabbat, Nicolas Ballas",
+      "paper_url": "https://openreview.net/pdf/a96a1f9b1547d4f0c5db1e0faf80244de4de3293.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_w0QXrZ3N-s",
+      "paper_id": "w0QXrZ3N-s",
+      "title": "The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation",
+      "authors": "Zihui Xue, Zhengqi Gao, Sucheng Ren, Hang Zhao",
+      "paper_url": "https://openreview.net/pdf/741eead42fe714d67fac001285243a76fd4ad259.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_qbH974jKUVy",
+      "paper_id": "qbH974jKUVy",
+      "title": "The role of Disentanglement in Generalisation",
+      "authors": "Milton Llera Montero, Casimir JH Ludwig, Rui Ponte Costa, Gaurav Malhotra, Jeffrey Bowers",
+      "paper_url": "https://openreview.net/pdf/b2891a422f7bcfc82a95c0587ba5da7e42c473db.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_4oXTQ6m_ws8",
+      "paper_id": "4oXTQ6m_ws8",
+      "title": "The Role of ImageNet Classes in Fréchet Inception Distance",
+      "authors": "Tuomas Kynkäänniemi, Tero Karras, Miika Aittala, Timo Aila, Jaakko Lehtinen",
+      "paper_url": "https://openreview.net/pdf/0e0f4c80c56d0d57f3f758fa07e6f2226ddefea8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_rvsbw2YthH_",
+      "paper_id": "rvsbw2YthH_",
+      "title": "The Trade-off between Universality and Label Efficiency of Representations from Contrastive Learning",
+      "authors": "Zhenmei Shi, Jiefeng Chen, Kunyang Li, Jayaram Raghuram, Xi Wu, Yingyu Liang, Somesh Jha",
+      "paper_url": "https://openreview.net/pdf/043603199adc5b3a50a0bd4a9a36f0faea6f3b13.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_lh-HRYxuoRr",
+      "paper_id": "lh-HRYxuoRr",
+      "title": "This Looks Like It Rather Than That: ProtoKNN For Similarity-Based Classifiers",
+      "authors": "Yuki Ukai, Tsubasa Hirakawa, Takayoshi Yamashita, Hironobu Fujiyoshi",
+      "paper_url": "https://openreview.net/pdf/9fb74e940b18078991abb7c89252e49c252562c1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_vE5MyzpP92",
+      "paper_id": "vE5MyzpP92",
+      "title": "Threshold-Consistent Margin Loss for Open-World Deep Metric Learning",
+      "authors": "Qin ZHANG, Linghan Xu, Jun Fang, Qingming Tang, Ying Nian Wu, Joseph Tighe, Yifan Xing",
+      "paper_url": "https://openreview.net/pdf?id=vE5MyzpP92",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_o8xdgmwCP8l",
+      "paper_id": "o8xdgmwCP8l",
+      "title": "Time to augment self-supervised visual representation learning",
+      "authors": "Arthur Aubret, Markus R. Ernst, Céline Teulière, Jochen Triesch",
+      "paper_url": "https://openreview.net/pdf/cc6a431132a9180908d245cfa70d30cd097b3152.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_zcTLpIfj9u",
+      "paper_id": "zcTLpIfj9u",
+      "title": "Time-to-Event Pretraining for 3D Medical Imaging",
+      "authors": "Zepeng Frazier Huo, Jason Alan Fries, Alejandro Lozano, Jeya Maria Jose Valanarasu, Ethan Steinberg, Louis Blankemeier, Akshay S Chaudhari, Curtis Langlotz, Nigam Shah",
+      "paper_url": "https://openreview.net/pdf?id=zcTLpIfj9u",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HdAoLSBYXj",
+      "paper_id": "HdAoLSBYXj",
+      "title": "Topic Modeling as Multi-Objective Contrastive Optimization",
+      "authors": "Thong Thanh Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy T Nguyen, See-Kiong Ng, Anh Tuan Luu",
+      "paper_url": "https://openreview.net/pdf?id=HdAoLSBYXj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_cIbjyd2Vcy",
+      "paper_id": "cIbjyd2Vcy",
+      "title": "Towards a Unified Theoretical Understanding of Non-contrastive Learning via Rank Differential Mechanism",
+      "authors": "Zhijian Zhuo, Yifei Wang, Jinwen Ma, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf/d78a9396a992c6bf48a5cd9022ddf6e3bbc3cfd7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_kQ2SOflIOVC",
+      "paper_id": "kQ2SOflIOVC",
+      "title": "Towards Better Understanding and Better Generalization of Low-shot Classification in Histology Images with Contrastive Learning",
+      "authors": "Jiawei Yang, Hanbo Chen, Jiangpeng Yan, Xiaoyu Chen, Jianhua Yao",
+      "paper_url": "https://openreview.net/pdf/e31401d33fda8d1009bf242636e6aa638632482a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_YgPqNctmyd",
+      "paper_id": "YgPqNctmyd",
+      "title": "Towards Building A Group-based Unsupervised Representation Disentanglement Framework",
+      "authors": "Tao Yang, Xuanchi Ren, Yuwang Wang, Wenjun Zeng, Nanning Zheng",
+      "paper_url": "https://openreview.net/pdf/5394844d0eb50251cdb0af3ec98822f39236eb03.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_JvH4jDDcG3",
+      "paper_id": "JvH4jDDcG3",
+      "title": "Towards Calibrated Deep Clustering Network",
+      "authors": "Yuheng Jia, Jianhong Cheng, Hui LIU, Junhui Hou",
+      "paper_url": "https://openreview.net/pdf?id=JvH4jDDcG3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qtE9K23ISq",
+      "paper_id": "qtE9K23ISq",
+      "title": "Towards domain-invariant Self-Supervised Learning with Batch Styles Standardization",
+      "authors": "Marin Scalbert, Maria Vakalopoulou, Florent Couzinie-Devy",
+      "paper_url": "https://openreview.net/pdf?id=qtE9K23ISq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_EbIDjBynYJ8",
+      "paper_id": "EbIDjBynYJ8",
+      "title": "Towards Nonlinear Disentanglement in Natural Data with Temporal Sparse Coding",
+      "authors": "David A. Klindt, Lukas Schott, Yash Sharma, Ivan Ustyuzhaninov, Wieland Brendel, Matthias Bethge, Dylan Paiton",
+      "paper_url": "https://openreview.net/pdf/70b2f88dcd46ac3a433a562c71a9d82d8dffb042.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_1Njl73JKjB",
+      "paper_id": "1Njl73JKjB",
+      "title": "Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control",
+      "authors": "Aleksandar Makelov, Georg Lange, Neel Nanda",
+      "paper_url": "https://openreview.net/pdf?id=1Njl73JKjB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_vqSyt8D3ny",
+      "paper_id": "vqSyt8D3ny",
+      "title": "Towards Robust Object Detection Invariant to Real-World Domain Shifts",
+      "authors": "Qi Fan, Mattia Segu, Yu-Wing Tai, Fisher Yu, Chi-Keung Tang, Bernt Schiele, Dengxin Dai",
+      "paper_url": "https://openreview.net/pdf/2bcffe27e982ea323f59ee62f175ae43573b76f7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Q1kPHLUbhi",
+      "paper_id": "Q1kPHLUbhi",
+      "title": "Towards Self-Supervised Covariance Estimation in Deep Heteroscedastic Regression",
+      "authors": "Megh Shukla, Aziz Shameem, Mathieu Salzmann, Alexandre Alahi",
+      "paper_url": "https://openreview.net/pdf?id=Q1kPHLUbhi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XDJwuEYHhme",
+      "paper_id": "XDJwuEYHhme",
+      "title": "Towards the Generalization of Contrastive Self-Supervised Learning",
+      "authors": "Weiran Huang, Mingyang Yi, Xuyang Zhao, Zihao Jiang",
+      "paper_url": "https://openreview.net/pdf/1976cb32977735bb4ba6638db6e9254ec826ead0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_85G2t3yklD",
+      "paper_id": "85G2t3yklD",
+      "title": "Towards Unbiased Learning in Semi-Supervised Semantic Segmentation",
+      "authors": "Rui Sun, Huayu Mai, Wangkai Li, Tianzhu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=85G2t3yklD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_25kAzqzTrz",
+      "paper_id": "25kAzqzTrz",
+      "title": "Towards Understanding Why FixMatch Generalizes Better Than Supervised Learning",
+      "authors": "Jingyang Li, Jiachun Pan, Vincent Y. F. Tan, Kim-chuan Toh, Pan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=25kAzqzTrz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vVxeFSR4fU",
+      "paper_id": "vVxeFSR4fU",
+      "title": "Tracing Representation Progression: Analyzing and Enhancing Layer-Wise Similarity",
+      "authors": "Jiachen Jiang, Jinxin Zhou, Zhihui Zhu",
+      "paper_url": "https://openreview.net/pdf?id=vVxeFSR4fU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_eo6U4CAwVmg",
+      "paper_id": "eo6U4CAwVmg",
+      "title": "Training GANs with Stronger Augmentations via Contrastive Discriminator",
+      "authors": "Jongheon Jeong, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/2d308c93802630f8c000471788307eb87a9027fd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ChHx5ORqF0",
+      "paper_id": "ChHx5ORqF0",
+      "title": "Transferring Labels to Solve Annotation Mismatches Across Object Detection Datasets",
+      "authors": "Yuan-Hong Liao, David Acuna, Rafid Mahmood, James Lucas, Viraj Uday Prabhu, Sanja Fidler",
+      "paper_url": "https://openreview.net/pdf?id=ChHx5ORqF0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Ph5cJSfD2XN",
+      "paper_id": "Ph5cJSfD2XN",
+      "title": "Unbiased Supervised Contrastive Learning",
+      "authors": "Carlo Alberto Barbano, Benoit Dufumier, Enzo Tartaglione, Marco Grangetto, Pietro Gori",
+      "paper_url": "https://openreview.net/pdf/ff766cfc1a877867aca2bc5286066fd2b5d4e625.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_AQqOC3FKPO",
+      "paper_id": "AQqOC3FKPO",
+      "title": "Unconstrained Salient and Camouflaged Object Detection",
+      "authors": "Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, He Tang",
+      "paper_url": "https://openreview.net/pdf?id=AQqOC3FKPO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PHLVmV88Zy",
+      "paper_id": "PHLVmV88Zy",
+      "title": "Unconstrained Stochastic CCA: Unifying Multiview and Self-Supervised Learning",
+      "authors": "James Chapman, Lennie Wells, Ana Lawry Aguila",
+      "paper_url": "https://openreview.net/pdf?id=PHLVmV88Zy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Ax2yRhCQr1",
+      "paper_id": "Ax2yRhCQr1",
+      "title": "Understanding Augmentation-based Self-Supervised Representation Learning via RKHS Approximation and Regression",
+      "authors": "Runtian Zhai, Bingbin Liu, Andrej Risteski, J Zico Kolter, Pradeep Kumar Ravikumar",
+      "paper_url": "https://openreview.net/pdf?id=Ax2yRhCQr1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_YevsQ05DEN7",
+      "paper_id": "YevsQ05DEN7",
+      "title": "Understanding Dimensional Collapse in Contrastive Self-supervised Learning",
+      "authors": "Li Jing, Pascal Vincent, Yann LeCun, Yuandong Tian",
+      "paper_url": "https://openreview.net/pdf/29c47b5da8f299ffc2b636c45a4854bc2a62e102.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_5FUq05QRc5b",
+      "paper_id": "5FUq05QRc5b",
+      "title": "Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective",
+      "authors": "Qi Lyu, Xiao Fu, Weiran Wang, Songtao Lu",
+      "paper_url": "https://openreview.net/pdf/a4489765925696bd54b9091ab12640cebd4b76ce.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_rtl4XnJYBh",
+      "paper_id": "rtl4XnJYBh",
+      "title": "Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift",
+      "authors": "Yihao Xue, Siddharth Joshi, Dang Nguyen, Baharan Mirzasoleiman",
+      "paper_url": "https://openreview.net/pdf?id=rtl4XnJYBh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_7Cb7Faxa1OB",
+      "paper_id": "7Cb7Faxa1OB",
+      "title": "Understanding The Robustness of Self-supervised Learning Through Topic Modeling",
+      "authors": "Zeping Luo, Shiyou Wu, Cindy Weng, Mo Zhou, Rong Ge",
+      "paper_url": "https://openreview.net/pdf/ada89296b5e384fadedbe9e99767fccba63b6ee5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_s130rTE3U_X",
+      "paper_id": "s130rTE3U_X",
+      "title": "Understanding the Role of Nonlinearity in Training Dynamics of Contrastive Learning",
+      "authors": "Yuandong Tian",
+      "paper_url": "https://openreview.net/pdf/935ac2fd5682275bff54081dde2d671b9cd5cb3f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_HqLHY4TzGj",
+      "paper_id": "HqLHY4TzGj",
+      "title": "Union-over-Intersections: Object Detection beyond Winner-Takes-All",
+      "authors": "Aritra Bhowmik, Pascal Mettes, Martin R. Oswald, Cees G. M. Snoek",
+      "paper_url": "https://openreview.net/pdf?id=HqLHY4TzGj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_N33d7wjgzde",
+      "paper_id": "N33d7wjgzde",
+      "title": "Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning",
+      "authors": "Tsung-Wei Ke, Jyh-Jing Hwang, Stella Yu",
+      "paper_url": "https://openreview.net/pdf/4e7e3f71b7b4a72b0db3a1576e17b7acb8f9e435.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Lut5t3qElA",
+      "paper_id": "Lut5t3qElA",
+      "title": "Unsupervised Disentanglement of Content and Style via Variance-Invariance Constraints",
+      "authors": "Yuxuan Wu, Ziyu Wang, Bhiksha Raj, Gus Xia",
+      "paper_url": "https://openreview.net/pdf?id=Lut5t3qElA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_neqU3HWDgE",
+      "paper_id": "neqU3HWDgE",
+      "title": "Unsupervised Disentanglement with Tensor Product Representations on the Torus",
+      "authors": "Michael Rotman, Amit Dekel, Shir Gur, Yaron Oz, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf/c3d91cb3b118da4fa03135f118cc0fdc619e5210.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_lUpjsrKItz4",
+      "paper_id": "lUpjsrKItz4",
+      "title": "Unsupervised Manifold Alignment with Joint Multidimensional Scaling",
+      "authors": "Dexiong Chen, Bowen Fan, Carlos Oliver, Karsten Borgwardt",
+      "paper_url": "https://openreview.net/pdf/f1e8bf06d06e0c512322b10870de591375cd9834.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_SaKO6z6Hl0c",
+      "paper_id": "SaKO6z6Hl0c",
+      "title": "Unsupervised Semantic Segmentation by Distilling Feature Correspondences",
+      "authors": "Mark Hamilton, Zhoutong Zhang, Bharath Hariharan, Noah Snavely, William T. Freeman",
+      "paper_url": "https://openreview.net/pdf/585b6a94cde1c9886c51fbaa17688846d5729b69.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_1_jFneF07YC",
+      "paper_id": "1_jFneF07YC",
+      "title": "Unsupervised Semantic Segmentation with Self-supervised Object-centric Representations",
+      "authors": "Andrii Zadaianchuk, Matthaeus Kleindessner, Yi Zhu, Francesco Locatello, Thomas Brox",
+      "paper_url": "https://openreview.net/pdf/7b1fa6ddb8a0a13864f94d60cd015ca2274147b9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_nI2HmVA0hvt",
+      "paper_id": "nI2HmVA0hvt",
+      "title": "Unsupervised visualization of image datasets using contrastive learning",
+      "authors": "Niklas Böhm, Philipp Berens, Dmitry Kobak",
+      "paper_url": "https://openreview.net/pdf/db7ad4f645b2457507e0e9aaa85e2ab8d0fc9cb1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ScVnYBaSEw",
+      "paper_id": "ScVnYBaSEw",
+      "title": "UNSURE: self-supervised learning with Unknown Noise level  and Stein's Unbiased Risk Estimate",
+      "authors": "Julián Tachella, Mike Davies, Laurent Jacques",
+      "paper_url": "https://openreview.net/pdf?id=ScVnYBaSEw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4VgBjsOC8k",
+      "paper_id": "4VgBjsOC8k",
+      "title": "Unveiling the Unseen: Identifiable Clusters in Trained Depthwise Convolutional Kernels",
+      "authors": "Zahra Babaiee, Peyman Kiasari, Daniela Rus, Radu Grosu",
+      "paper_url": "https://openreview.net/pdf?id=4VgBjsOC8k",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_MBBRHDuiwM",
+      "paper_id": "MBBRHDuiwM",
+      "title": "URLOST: Unsupervised Representation Learning without Stationarity or Topology",
+      "authors": "Zeyu Yun, Juexiao Zhang, Yann LeCun, Yubei Chen",
+      "paper_url": "https://openreview.net/pdf?id=MBBRHDuiwM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_yV6fD7LYkF",
+      "paper_id": "yV6fD7LYkF",
+      "title": "ValUES: A Framework for Systematic Validation of Uncertainty Estimation in Semantic Segmentation",
+      "authors": "Kim-Celine Kahl, Carsten T. Lüth, Maximilian Zenk, Klaus Maier-Hein, Paul F Jaeger",
+      "paper_url": "https://openreview.net/pdf?id=yV6fD7LYkF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Rvee9CAX4fi",
+      "paper_id": "Rvee9CAX4fi",
+      "title": "Verifying the Union of Manifolds Hypothesis for Image Data",
+      "authors": "Bradley CA Brown, Anthony L. Caterini, Brendan Leigh Ross, Jesse C Cresswell, Gabriel Loaiza-Ganem",
+      "paper_url": "https://openreview.net/pdf/f6ede6f446eb6a74ef9b335623e27b10682272ea.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_xm6YD62D1Ub",
+      "paper_id": "xm6YD62D1Ub",
+      "title": "VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning",
+      "authors": "Adrien Bardes, Jean Ponce, Yann LeCun",
+      "paper_url": "https://openreview.net/pdf/25a14f6fde1bb9ddf5881d141f200e0c3aaa0ccb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_CsKwavjr7A",
+      "paper_id": "CsKwavjr7A",
+      "title": "Visual Recognition with Deep Nearest Centroids",
+      "authors": "Wenguan Wang, Cheng Han, Tianfei Zhou, Dongfang Liu",
+      "paper_url": "https://openreview.net/pdf/cda95db26061bc6fad92b050d82b6ff54e19d475.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_9RUHPlladgh",
+      "paper_id": "9RUHPlladgh",
+      "title": "Visual Representation Learning Does Not Generalize Strongly Within the Same Domain",
+      "authors": "Lukas Schott, Julius Von Kügelgen, Frederik Träuble, Peter Vincent Gehler, Chris Russell, Matthias Bethge, Bernhard Schölkopf, Francesco Locatello, Wieland Brendel",
+      "paper_url": "https://openreview.net/pdf/775e024ab2e9ce40e6b2f7608d5b1eb2c1136e75.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_kG0AtPi6JI1",
+      "paper_id": "kG0AtPi6JI1",
+      "title": "Visual Representation Learning over Latent Domains",
+      "authors": "Lucas Deecke, Timothy Hospedales, Hakan Bilen",
+      "paper_url": "https://openreview.net/pdf/c43020f29d1ac17488c3b808196c9b0243182218.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_7HEMpBTb3R",
+      "paper_id": "7HEMpBTb3R",
+      "title": "Visually Consistent Hierarchical Image Classification",
+      "authors": "Seulki Park, Youren Zhang, Stella X. Yu, Sara Beery, Jonathan Huang",
+      "paper_url": "https://openreview.net/pdf?id=7HEMpBTb3R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TilcG5C8bN",
+      "paper_id": "TilcG5C8bN",
+      "title": "Waxing-and-Waning: a Generic Similarity-based Framework for Efficient Self-Supervised Learning",
+      "authors": "Sheng Li, Chao Wu, Ao Li, Yanzhi Wang, Xulong Tang, Geng Yuan",
+      "paper_url": "https://openreview.net/pdf?id=TilcG5C8bN",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_RJDjSXNuAZ",
+      "paper_id": "RJDjSXNuAZ",
+      "title": "Weakly Supervised Virus Capsid Detection with Image-Level Annotations in Electron Microscopy Images",
+      "authors": "Hannah Kniesel, Leon Sick, Tristan Payer, Tim Bergner, Kavitha Shaga Devan, Clarissa Read, Paul Walther, Timo Ropinski, Pedro Hermosilla",
+      "paper_url": "https://openreview.net/pdf?id=RJDjSXNuAZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_CL-sVR9pvF",
+      "paper_id": "CL-sVR9pvF",
+      "title": "Weighted Ensemble Self-Supervised Learning",
+      "authors": "Yangjun Ruan, Saurabh Singh, Warren Richard Morningstar, Alexander A Alemi, Sergey Ioffe, Ian Fischer, Joshua V. Dillon",
+      "paper_url": "https://openreview.net/pdf/c3bd68473e3729fbbb9b7485d2dfe3af068d28c4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_uSz2K30RRd",
+      "paper_id": "uSz2K30RRd",
+      "title": "Weighted Point Set Embedding for Multimodal Contrastive Learning Toward Optimal Similarity Metric",
+      "authors": "Toshimitsu Uesaka, Taiji Suzuki, Yuhta Takida, Chieh-Hsin Lai, Naoki Murata, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=uSz2K30RRd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ltM1RMZntpu",
+      "paper_id": "ltM1RMZntpu",
+      "title": "Weighted Training for Cross-Task Learning",
+      "authors": "Shuxiao Chen, Koby Crammer, Hangfeng He, Dan Roth, Weijie J Su",
+      "paper_url": "https://openreview.net/pdf/579ed2f74ecc130396039eae33e13de66b8de08b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_3zSn48RUO8M",
+      "paper_id": "3zSn48RUO8M",
+      "title": "What shapes the loss landscape of self supervised learning?",
+      "authors": "Liu Ziyin, Ekdeep Singh Lubana, Masahito Ueda, Hidenori Tanaka",
+      "paper_url": "https://openreview.net/pdf/9fe0d11856705a878971e0912c12bf584b1f2f3a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_CZ8Y3NzuVzO",
+      "paper_id": "CZ8Y3NzuVzO",
+      "title": "What Should Not Be Contrastive in Contrastive Learning",
+      "authors": "Tete Xiao, Xiaolong Wang, Alexei A Efros, Trevor Darrell",
+      "paper_url": "https://openreview.net/pdf/2b5543cc1e932e02f5311e6077b7743dd8c446f5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Pe3AxLq6Wf",
+      "paper_id": "Pe3AxLq6Wf",
+      "title": "What to align in multimodal contrastive learning?",
+      "authors": "Benoit Dufumier, Javiera Castillo Navarro, Devis Tuia, Jean-Philippe Thiran",
+      "paper_url": "https://openreview.net/pdf?id=Pe3AxLq6Wf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IZDiRbVSVN",
+      "paper_id": "IZDiRbVSVN",
+      "title": "What's New in My Data? Novelty Exploration via Contrastive Generation",
+      "authors": "Masaru Isonuma, Ivan Titov",
+      "paper_url": "https://openreview.net/pdf?id=IZDiRbVSVN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nUH5liW3c1",
+      "paper_id": "nUH5liW3c1",
+      "title": "When Hard Negative Sampling Meets Supervised Contrastive Learning",
+      "authors": "ZIJUN LONG, George Killick, Richard McCreadie, Gerardo Aragon-Camarasa",
+      "paper_url": "https://openreview.net/pdf?id=nUH5liW3c1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SYBdkHcXXK",
+      "paper_id": "SYBdkHcXXK",
+      "title": "When Semantic Segmentation Meets Frequency Aliasing",
+      "authors": "Linwei Chen, Lin Gu, Ying Fu",
+      "paper_url": "https://openreview.net/pdf?id=SYBdkHcXXK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_4Ycr8oeCoIh",
+      "paper_id": "4Ycr8oeCoIh",
+      "title": "When, Why, and Which Pretrained GANs Are Useful?",
+      "authors": "Timofey Grigoryev, Andrey Voynov, Artem Babenko",
+      "paper_url": "https://openreview.net/pdf/9895b4007914d217311fed6ca5a856553aa4384f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_x33vSZUg0A",
+      "paper_id": "x33vSZUg0A",
+      "title": "Which Tasks Should Be Compressed Together? A Causal Discovery Approach for Efficient Multi-Task Representation Compression",
+      "authors": "Sha Guo, Jing Chen, Zixuan Hu, Zhuo Chen, Wenhan Yang, Yu Lin, Xing Jiang, LINGYU DUAN",
+      "paper_url": "https://openreview.net/pdf?id=x33vSZUg0A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XFSCKELP3bp",
+      "paper_id": "XFSCKELP3bp",
+      "title": "Your Contrastive Learning Is Secretly Doing Stochastic Neighbor Embedding",
+      "authors": "Tianyang Hu, Zhili LIU, Fengwei Zhou, Wenjia Wang, Weiran Huang",
+      "paper_url": "https://openreview.net/pdf/700ae8a1919a130b30d9e4f33b1e5929b970e5c7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_RAW9tCdVxLj",
+      "paper_id": "RAW9tCdVxLj",
+      "title": "Zero-CL: Instance and Feature decorrelation for negative-free symmetric contrastive learning",
+      "authors": "Shaofeng Zhang, Feng Zhu, Junchi Yan, Rui Zhao, Xiaokang Yang",
+      "paper_url": "https://openreview.net/pdf/545b532dc138dbfc098e9384dbc805e96fceed40.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_8wqCDnBmnrT",
+      "paper_id": "8wqCDnBmnrT",
+      "title": "Zero-shot Synthesis with Group-Supervised Learning",
+      "authors": "Yunhao Ge, Sami Abu-El-Haija, Gan Xin, Laurent Itti",
+      "paper_url": "https://openreview.net/pdf/5cc8c0d37d4aa9db1645e1181b60428d215c25b4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_4JBEpP6eRS",
+      "paper_id": "4JBEpP6eRS",
+      "title": "ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment",
+      "authors": "Elyas Obbad, Iddah Mlauzi, Brando Miranda, Kamal Obbad, Rylan Schaeffer, Suhana Bedi, Sanmi Koyejo",
+      "paper_url": "https://openreview.net/pdf?id=4JBEpP6eRS",
+      "venue": "iclr25"
+    }
+  ]
+}

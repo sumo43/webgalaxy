@@ -1,0 +1,105 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Autonomous-driving & Mobile-vehicle scenes",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "On-road urban / suburban / rural driving",
+                    "what_is_covered": "Real or simulated road networks with traffic, road rules, and weather variation.",
+                    "typical_examples": "urban roads; highways; intersections; traffic lights/signs; ...",
+                    "cluster": "1, 2, 6, 9, 12, 13, 19"
+                },
+                {
+                    "id": "1.2",
+                    "name": "Off-road, cross-country & planetary terrain",
+                    "what_is_covered": "Structured or unstructured natural terrains requiring ground-robot locomotion.",
+                    "typical_examples": "uneven ground; sand; gravel; snow; ...",
+                    "cluster": "11"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Manipulation workspaces",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Basic household tabletop",
+                    "what_is_covered": "Small cluttered indoor bench for reach-scale manipulation.",
+                    "typical_examples": "cluttered tabletop; household objects; articulated fixtures; ...",
+                    "cluster": "0"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Kitchen & household benchmark suites",
+                    "what_is_covered": "Standardised kitchen/tabletop scenes from RLBench, Meta-World, FrankaKitchen, Habitat, Ravens, etc.",
+                    "typical_examples": "kitchen counters; RLBench station; FrankaKitchen; ...",
+                    "cluster": "14, 17"
+                },
+                {
+                    "id": "2.3",
+                    "name": "Assembly & insertion tables",
+                    "what_is_covered": "Contact-rich assembly surfaces with precisely shaped parts.",
+                    "typical_examples": "assembly workspace; peg-hole joints; plug-socket joints; ...",
+                    "cluster": "18"
+                },
+                {
+                    "id": "2.4",
+                    "name": "Shared lab / industrial workcells",
+                    "what_is_covered": "Planar or 3-D manipulation bays in labs or factories, often human-robot shared.",
+                    "typical_examples": "lab work surfaces; human-robot zones; static & dynamic obstacles; ...",
+                    "cluster": "10"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Embodied navigation & Scene-understanding worlds",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Multi-room home / office interiors",
+                    "what_is_covered": "Photorealistic or simulated domestic & office floorplans for navigation and light manipulation.",
+                    "typical_examples": "apartments; offices; corridors; dynamic changes; ...",
+                    "cluster": "7"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Large-scale mixed indoor-outdoor simulators",
+                    "what_is_covered": "Dynamic 3-D worlds with physics for point-goal, exploration, or social-navigation tasks.",
+                    "typical_examples": "rooms; mazes; multiple agents; partial observability; ...",
+                    "cluster": "15"
+                },
+                {
+                    "id": "3.3",
+                    "name": "Object-rich mixed-reality scene sets",
+                    "what_is_covered": "Real + synthetic household, lab, or industrial spaces emphasising clutter & diversity.",
+                    "typical_examples": "household rooms; industrial floors; cluttered indoor scenes; ...",
+                    "cluster": "4, 5, 8"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Physics-centric control benchmarks",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Classic locomotion & manipulation suites",
+                    "what_is_covered": "Widely-used control benchmarks with domain-randomised dynamics.",
+                    "typical_examples": "MuJoCo tasks; IsaacGym walkers; Robotarium arena; ...",
+                    "cluster": "3"
+                },
+                {
+                    "id": "4.2",
+                    "name": "High-fidelity multi-physics platforms",
+                    "what_is_covered": "Environments that model contact, fluids, deformables & human interaction in indoor/outdoor scenes.",
+                    "typical_examples": "rigid-body scenes; deformable objects; fluid interaction; humans; ...",
+                    "cluster": "16"
+                }
+            ]
+        }
+    ]
+}

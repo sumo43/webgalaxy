@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Combined Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    html, body { height: 100%; margin: 0; background:#000; }
+
+    /* Page as a column; viewer takes remaining height */
+    body { display:flex; flex-direction:column; min-height:100dvh; }
+
+    /* Tabs */
+    .tabs { display:none; gap:8px; padding:8px; background:#0b0c10; flex:0 0 auto; }
+    .tabs button{
+      color:#eee; background:#1a1d24; border:1px solid #2b2f3a; padding:8px 12px;
+      border-radius:8px; cursor:pointer; transition:filter .15s, box-shadow .15s, transform .02s;
+    }
+    .tabs button:hover{ filter:brightness(1.05); }
+    .tabs button:active{ transform:translateY(1px); }
+    .tabs button.active{ background:#585e6a; color:#ffffff; }
+    .tabs button.attn:not(.active){
+      background:#ec624d; color:#fff; border-color:#f87171;
+      box-shadow:0 0 0 1px #f87171 inset, 0 0 10px rgba(185,28,28,.4);
+    }
+    /* Prefix all INACTIVE tabs with ">> " (no need to hard-code in HTML) */
+    .tabs button.attn:not(.active)::before{
+      content: ">> ";
+      font-weight: 700;
+    }
+
+    /* Viewer fills the rest of the screen */
+    .viewer { position:relative; flex:1 1 auto; min-height:0; }
+
+    /* Iframes fill the viewer */
+    .viewer iframe{
+      position:absolute; inset:0; width:100%; height:100%;
+      border:0; background:#000;
+    }
+
+    /* Optional split mode (kept for reference) */
+    .split{
+      display:grid; grid-template-columns:1fr 1fr; gap:0; height:100%;
+    }
+    @media (max-width:900px){
+      .split{ grid-template-columns:1fr; grid-template-rows:50% 50%; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="tabs" role="tablist" aria-label="View switcher">
+    <!-- Give all tabs the 'attn' class so they're red when inactive.
+         Leave labels WITHOUT ">>"; CSS adds it automatically for inactive tabs. -->
+    <button id="show1" class="active attn" role="tab" aria-selected="true">Galaxy</button>
+    <button id="show2" class="attn" role="tab" aria-selected="false">Survey</button>
+    <button id="show3" class="attn" role="tab" aria-selected="false">Trend</button>
+  </div>
+
+  <!-- Viewer holds the three parts -->
+  <div class="viewer">
+    <iframe id="frame1" src="part1.html" title="Galaxy" style="display:block;"></iframe>
+    <iframe id="frame2" src="part2.html" title="Survey" style="display:none;"></iframe>
+    <iframe id="frame3" src="part3.html" title="Trend"  style="display:none;"></iframe>
+  </div>
+
+  <script>
+    const b1 = document.getElementById('show1');
+    const b2 = document.getElementById('show2');
+    const b3 = document.getElementById('show3');
+    const buttons = [b1, b2, b3];
+
+    const f1 = document.getElementById('frame1');
+    const f2 = document.getElementById('frame2');
+    const f3 = document.getElementById('frame3');
+    const frames = [f1, f2, f3];
+
+    function activate(which){
+      // which is 1-based (1=Galaxy, 2=Survey, 3=Trend)
+      buttons.forEach((btn, i) => {
+        const active = (i + 1) === which;
+        btn.classList.toggle('active', active);
+        btn.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+      frames.forEach((fr, i) => {
+        fr.style.display = (i + 1) === which ? 'block' : 'none';
+      });
+    }
+
+    b1.addEventListener('click', () => activate(1));
+    b2.addEventListener('click', () => activate(2));
+    b3.addEventListener('click', () => activate(3));
+
+    // Show the tab bar and remove split view if present
+    const tabs = document.querySelector('.tabs');
+    if (tabs) tabs.style.display = 'flex';
+    document.querySelector('.split')?.remove();
+  </script>
+</body>
+</html>

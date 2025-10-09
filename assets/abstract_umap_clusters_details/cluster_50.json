@@ -1,0 +1,421 @@
+{
+  "cluster_id": 50,
+  "papers": [
+    {
+      "id": "corl21_zv3NYgRZ7Qo",
+      "paper_id": "zv3NYgRZ7Qo",
+      "title": "3D Neural Scene Representations for Visuomotor Control",
+      "authors": "Yunzhu Li, Shuang Li, Vincent Sitzmann, Pulkit Agrawal, Antonio Torralba",
+      "paper_url": "https://openreview.net/pdf?id=zv3NYgRZ7Qo",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_f7KaqYLO3iE",
+      "paper_id": "f7KaqYLO3iE",
+      "title": "A Differentiable Recipe for Learning Visual Non-Prehensile Planar Manipulation",
+      "authors": "Bernardo Aceituno, Alberto Rodriguez, Shubham Tulsiani, Abhinav Gupta, Mustafa Mukadam",
+      "paper_url": "https://openreview.net/pdf?id=f7KaqYLO3iE",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_71",
+      "paper_id": "71",
+      "title": "Ab Initio Particle-based Object Manipulation",
+      "authors": "Siwei Chen (National University of Singapore), Xiao Ma (National University of Singapore), Yunfan Lu (National University of Singapore), David Hsu (National University of Singapore)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p071.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss22_1",
+      "paper_id": "1",
+      "title": "ACID: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation",
+      "authors": "Bokui Shen (Stanford University), Zhenyu Jiang (University of Texas at Austin), Christopher Choy (NVIDIA), Leonidas Guibas (Stanford University), Silvio Savarese (Stanford University), Anima Anandkumar (NVIDIA/Caltech), Yuke Zhu (University of Texas - Austin)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p001.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_10",
+      "paper_id": "10",
+      "title": "AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation",
+      "authors": "Kaifeng Zhang, Baoyu Li, Kris Hauser, Yunzhu LiKaifeng Zhang, Baoyu Li, Kris Hauser, Yunzhu Li",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p010.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss22_74",
+      "paper_id": "74",
+      "title": "Adaptive Manipulation of Conductive, Nonmagnetic Objects via a Continuous Model of Magnetically Induced Force and Torque",
+      "authors": "Griffin Tabor (University of Utah), Lan Pham (Relativity Space), Jake Abbott (University of Utah), Tucker Hermans (University of Utah)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p074.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss22_34",
+      "paper_id": "34",
+      "title": "Autonomously Untangling Long Cables",
+      "authors": "Kaushik Shivakumar, Vainavi Viswanath, Justin Kerr, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael Laskey, Alejandro Escontrela (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p034.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl22_QSUsBMuw0uV",
+      "paper_id": "QSUsBMuw0uV",
+      "title": "Bayesian Object Models for Robotic Interaction with Differentiable Probabilistic Programming",
+      "authors": "Krishna Murthy Jatavallabhula, Miles Macklin, Dieter Fox, Animesh Garg, Fabio Ramos",
+      "paper_url": "https://openreview.net/pdf?id=QSUsBMuw0uV",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_Nii0_rRJwN",
+      "paper_id": "Nii0_rRJwN",
+      "title": "CALAMARI: Contact-Aware and Language conditioned spatial Action MApping for contact-RIch manipulation",
+      "authors": "Youngsun Wi, Mark Van der Merwe, Pete Florence, Andy Zeng, Nima Fazeli",
+      "paper_url": "https://openreview.net/pdf?id=Nii0_rRJwN",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_WmWbswjTsi",
+      "paper_id": "WmWbswjTsi",
+      "title": "Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision",
+      "authors": "Alberta Longhini, Marcel Büsching, Bardienus Pieter Duisterhof, Jens Lundell, Jeffrey Ichnowski, Mårten Björkman, Danica Kragic",
+      "paper_url": "https://openreview.net/pdf?id=WmWbswjTsi",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_17",
+      "paper_id": "17",
+      "title": "DextAIRity: Deformable Manipulation Can be a Breeze",
+      "authors": "Zhenjia Xu (Columbia University), Cheng Chi (Columbia University), Benjamin CM Burchfiel (Toyota Research Institute), Eric Cousineau (Toyota Research Institute), Siyuan Feng (Toyota Research Institute), Shuran Song (Columbia University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p017.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_V5x0m6XDSV",
+      "paper_id": "V5x0m6XDSV",
+      "title": "Differentiable Discrete Elastic Rods for Real-Time Modeling of Deformable Linear Objects",
+      "authors": "Yizhou Chen, Yiting Zhang, Zachary Brei, Tiancheng Zhang, Yuzhen Chen, Julie Wu, Ram Vasudevan",
+      "paper_url": "https://openreview.net/pdf?id=V5x0m6XDSV",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_H1-uwiTbY9z",
+      "paper_id": "H1-uwiTbY9z",
+      "title": "Distributional Depth-Based Estimation of Object Articulation Models",
+      "authors": "Ajinkya Jain, Stephen Giguere, Rudolf Lioutikov, Scott Niekum",
+      "paper_url": "https://openreview.net/pdf?id=H1-uwiTbY9z",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_itKJ5uu1gW",
+      "paper_id": "itKJ5uu1gW",
+      "title": "Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling",
+      "authors": "Mingtong Zhang, Kaifeng Zhang, Yunzhu Li",
+      "paper_url": "https://openreview.net/pdf?id=itKJ5uu1gW",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_12",
+      "paper_id": "12",
+      "title": "Dynamic On-Palm Manipulation via Controlled Sliding",
+      "authors": "William Yang, Michael PosaWilliam Yang, Michael Posa",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p012.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_47",
+      "paper_id": "47",
+      "title": "Dynamic-Resolution Model Learning for Object Pile Manipulation",
+      "authors": "Yixuan Wang (University of Illinois at Urbana-Champaign), Yunzhu Li (Stanford University & University of Illinois at Urbana-Champaign)*, Katherine Driggs-Campbell (University of Illinois at Urbana-Champaign), Li Fei-Fei (Stanford University), Jiajun Wu (Stanford University)Yixuan Wang (University of Illinois at Urbana-Champaign), Yunzhu Li (Stanford University & University of Illinois at Urbana-Champaign)*, Katherine Driggs-Campbell (University of Illinois at Urbana-Champaign), Li Fei-Fei (Stanford University), Jiajun Wu (Stanford University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p047.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl21_TsqkJJMgHkk",
+      "paper_id": "TsqkJJMgHkk",
+      "title": "FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy",
+      "authors": "Thomas Weng, Sujay Man Bajracharya, Yufei Wang, Khush Agrawal, David Held",
+      "paper_url": "https://openreview.net/pdf?id=TsqkJJMgHkk",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_0QJeE5hkyFZ",
+      "paper_id": "0QJeE5hkyFZ",
+      "title": "FlingBot: The Unreasonable Effectiveness of Dynamic Manipulation for Cloth Unfolding",
+      "authors": "Huy Ha, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=0QJeE5hkyFZ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_zr2GPi3DSb",
+      "paper_id": "zr2GPi3DSb",
+      "title": "Gentle Manipulation of Tree Branches: A Contact-Aware Policy Learning Approach",
+      "authors": "Jay Jacob, Shizhe Cai, Paulo Vinicius Koerich Borges, Tirthankar Bandyopadhyay, Fabio Ramos",
+      "paper_url": "https://openreview.net/pdf?id=zr2GPi3DSb",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_rbIzq-I84i_",
+      "paper_id": "rbIzq-I84i_",
+      "title": "Graph network simulators can learn discontinuous, rigid contact dynamics",
+      "authors": "Kelsey R Allen, Tatiana Lopez Guevara, Yulia Rubanova, Kim Stachenfeld, Alvaro Sanchez-Gonzalez, Peter Battaglia, Tobias Pfaff",
+      "paper_url": "https://openreview.net/pdf?id=rbIzq-I84i_",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_WWiKBdcpNd",
+      "paper_id": "WWiKBdcpNd",
+      "title": "HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation",
+      "authors": "Vainavi Viswanath, Kaushik Shivakumar, Mallika Parulekar, Jainil Ajmera, Justin Kerr, Jeffrey Ichnowski, Richard Cheng, Thomas Kollar, Ken Goldberg",
+      "paper_url": "https://openreview.net/pdf?id=WWiKBdcpNd",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_g_PPHV_GkX",
+      "paper_id": "g_PPHV_GkX",
+      "title": "Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model",
+      "authors": "Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas",
+      "paper_url": "https://openreview.net/pdf?id=g_PPHV_GkX",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_KDuBFXyRuE-",
+      "paper_id": "KDuBFXyRuE-",
+      "title": "Iterative Interactive Modeling for Knotting Plastic Bags",
+      "authors": "Chongkai Gao, Zekun Li, Haichuan Gao, Feng Chen",
+      "paper_url": "https://openreview.net/pdf?id=KDuBFXyRuE-",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss22_16",
+      "paper_id": "16",
+      "title": "Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects",
+      "authors": "Cheng Chi (Columbia University), Benjamin CM Burchfiel (Toyota Research Institute), Eric Cousineau (Toyota Research Institute), Siyuan Feng (Toyota Research Institute), Shuran Song (Columbia University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p016.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_SW8ntpJl0E",
+      "paper_id": "SW8ntpJl0E",
+      "title": "JA-TN: Pick-and-Place Towel Shaping from Crumpled States based on TransporterNet with Joint-Probability Action Inference",
+      "authors": "Halid Abdulrahim Kadi, Kasim Terzić",
+      "paper_url": "https://openreview.net/pdf?id=SW8ntpJl0E",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_7",
+      "paper_id": "7",
+      "title": "JIGGLE: An Active Sensing Framework for Boundary Parameters Estimation in Deformable Surgical Environments",
+      "authors": "Nikhil Uday Shinde, Xiao Liang, Fei Liu, Yutong Zhang, Florian Richter, Sylvia Lee Herbert, Michael C. YipNikhil Uday Shinde, Xiao Liang, Fei Liu, Yutong Zhang, Florian Richter, Sylvia Lee Herbert, Michael C. Yip",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p007.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_9bK38pUBzU",
+      "paper_id": "9bK38pUBzU",
+      "title": "Language-Conditioned Path Planning",
+      "authors": "Amber Xie, Youngwoon Lee, Pieter Abbeel, Stephen James",
+      "paper_url": "https://openreview.net/pdf?id=9bK38pUBzU",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_5Awumz1VKU",
+      "paper_id": "5Awumz1VKU",
+      "title": "Learning Differentiable Tensegrity Dynamics using Graph Neural Networks",
+      "authors": "Nelson Chen, Kun Wang, William R. Johson III, Rebecca Kramer-Bottiglio, Kostas Bekris, Mridul Aanjaneya",
+      "paper_url": "https://openreview.net/pdf?id=5Awumz1VKU",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_FS30JeiGG3h",
+      "paper_id": "FS30JeiGG3h",
+      "title": "Learning Models as Functionals of Signed-Distance Fields for Manipulation Planning",
+      "authors": "Danny Driess, Jung-Su Ha, Marc Toussaint, Russ Tedrake",
+      "paper_url": "https://openreview.net/pdf?id=FS30JeiGG3h",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_qUvTmyGpnm7",
+      "paper_id": "qUvTmyGpnm7",
+      "title": "Learning Multi-Object Dynamics with Compositional Neural Radiance Fields",
+      "authors": "Danny Driess, Zhiao Huang, Yunzhu Li, Russ Tedrake, Marc Toussaint",
+      "paper_url": "https://openreview.net/pdf?id=qUvTmyGpnm7",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_n1hDe9iK6ms",
+      "paper_id": "n1hDe9iK6ms",
+      "title": "Learning Visible Connectivity Dynamics for Cloth Smoothing",
+      "authors": "Xingyu Lin, Yufei Wang, Zixuan Huang, David Held",
+      "paper_url": "https://openreview.net/pdf?id=n1hDe9iK6ms",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_oSU7M7MK6B",
+      "paper_id": "oSU7M7MK6B",
+      "title": "Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions",
+      "authors": "Juan Del Aguila Ferrandis, Joao Moura, Sethu Vijayakumar",
+      "paper_url": "https://openreview.net/pdf?id=oSU7M7MK6B",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_11",
+      "paper_id": "11",
+      "title": "Mesh-based Dynamics with Occlusion Reasoning for Cloth Manipulation",
+      "authors": "Zixuan Huang, Xingyu Lin, David Held (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p011.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_pcPSGZFaCH",
+      "paper_id": "pcPSGZFaCH",
+      "title": "Modeling the Real World with High-Density Visual Particle Dynamics",
+      "authors": "William F Whitney, Jake Varley, Deepali Jain, Krzysztof Marcin Choromanski, Sumeet Singh, Vikas Sindhwani",
+      "paper_url": "https://openreview.net/pdf?id=pcPSGZFaCH",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_K8cGp8rVLIP",
+      "paper_id": "K8cGp8rVLIP",
+      "title": "Neural Field Dynamics Model for Granular Object Piles Manipulation",
+      "authors": "Shangjie Xue, Shuo Cheng, Pujith Kachana, Danfei Xu",
+      "paper_url": "https://openreview.net/pdf?id=K8cGp8rVLIP",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_BmvUg1FIWC",
+      "paper_id": "BmvUg1FIWC",
+      "title": "Neural Inverse Source Problem",
+      "authors": "Youngsun Wi, Jayjun Lee, Miquel Oller, Nima Fazeli",
+      "paper_url": "https://openreview.net/pdf?id=BmvUg1FIWC",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_8",
+      "paper_id": "8",
+      "title": "One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments",
+      "authors": "Yufei Wang (Carnegie Mellon University)*, Zhanyi Sun (Carnegie Mellon University), Zackory Erickson (Carnegie Mellon University), David Held (Carnegie Mellon University)Yufei Wang (Carnegie Mellon University)*, Zhanyi Sun (Carnegie Mellon University), Zackory Erickson (Carnegie Mellon University), David Held (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p008.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss23_106",
+      "paper_id": "106",
+      "title": "Path Planning for Multiple Tethered Robots Using Topological Braids",
+      "authors": "Muqing Cao (Nanyang Technological University    ), Kun Cao (Nanyang Technological University    ), Shenghai Yuan (Nanyang Technological University    ), Kangcheng Liu (Nanyang Technological University), Yan Loi Wong (National University of Singapore), Lihua Xie (Nanyang Technological University    )*Muqing Cao (Nanyang Technological University    ), Kun Cao (Nanyang Technological University    ), Shenghai Yuan (Nanyang Technological University    ), Kangcheng Liu (Nanyang Technological University), Yan Loi Wong (National University of Singapore), Lihua Xie (Nanyang Technological University    )*",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p106.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_AEq0onGrN2",
+      "paper_id": "AEq0onGrN2",
+      "title": "Physically Embodied Gaussian Splatting: A Visually Learnt and Physically Grounded 3D Representation for Robotics",
+      "authors": "Jad Abou-Chakra, Krishan Rana, Feras Dayoub, Niko Suenderhauf",
+      "paper_url": "https://openreview.net/pdf?id=AEq0onGrN2",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_45",
+      "paper_id": "45",
+      "title": "Precise Object Sliding with Top Contact via Asymmetric Dual Limit Surfaces",
+      "authors": "Xili Yi (University of Michigan)*, Nima Fazeli (University of Michigan)Xili Yi (University of Michigan)*, Nima Fazeli (University of Michigan)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p045.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_8asqEWO479I",
+      "paper_id": "8asqEWO479I",
+      "title": "Push Past Green: Learning to Look Behind Plant Foliage by Moving It",
+      "authors": "Xiaoyu Zhang, Saurabh Gupta",
+      "paper_url": "https://openreview.net/pdf?id=8asqEWO479I",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_r-w9Wh-QVnH",
+      "paper_id": "r-w9Wh-QVnH",
+      "title": "Real-time Mapping of Physical Scene Properties with an Autonomous Robot Experimenter",
+      "authors": "Iain Haughton, Edgar Sucar, Andre Mouton, Edward Johns, Andrew Davison",
+      "paper_url": "https://openreview.net/pdf?id=r-w9Wh-QVnH",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_69y5fzvaAT",
+      "paper_id": "69y5fzvaAT",
+      "title": "RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools",
+      "authors": "Haochen Shi, Huazhe Xu, Samuel Clarke, Yunzhu Li, Jiajun Wu",
+      "paper_url": "https://openreview.net/pdf?id=69y5fzvaAT",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss22_8",
+      "paper_id": "8",
+      "title": "RoboCraft: Learning to See, Simulate, and Shape Elasto-Plastic Objects with Graph Networks",
+      "authors": "Haochen Shi (Stanford University), Huazhe Xu (Stanford University), Zhiao Huang (University of California San Diego), Yunzhu Li (Massachusetts Institute of Technology), Jiajun Wu (Stanford University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p008.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss23_46",
+      "paper_id": "46",
+      "title": "RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects",
+      "authors": "Zhenjia Xu (Columbia University)*, Zhou Xian (Carnegie Mellon University), Xingyu Lin (University of California, Berkeley), Cheng Chi (Columbia University), Zhiao Huang (University of California San Diego), Chuang Gan (MIT-IBM Watson AI Lab), Shuran Song (Columbia University)Zhenjia Xu (Columbia University)*, Zhou Xian (Carnegie Mellon University), Xingyu Lin (University of California, Berkeley), Cheng Chi (Columbia University), Zhiao Huang (University of California San Diego), Chuang Gan (MIT-IBM Watson AI Lab), Shuran Song (Columbia University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p046.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_-3G6_D66Aua",
+      "paper_id": "-3G6_D66Aua",
+      "title": "Simultaneous Learning of Contact and Continuous Dynamics",
+      "authors": "Bibit Bianchini, Mathew Halm, Michael Posa",
+      "paper_url": "https://openreview.net/pdf?id=-3G6_D66Aua",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_44",
+      "paper_id": "44",
+      "title": "Simultaneous Trajectory Optimization and Contact Selection for Multi-Modal Manipulation Planning",
+      "authors": "Mengchao Zhang (University of Illinois at Urbana-Champaign)*, Devesh K Jha (MERL), Arvind U Raghunathan (MERL), Kris Hauser (University of Illinois)Mengchao Zhang (University of Illinois at Urbana-Champaign)*, Devesh K Jha (MERL), Arvind U Raghunathan (MERL), Kris Hauser (University of Illinois)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p044.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_135",
+      "paper_id": "135",
+      "title": "Tactile-Driven Non-Prehensile Object Manipulation via Extrinsic Contact Mode Control",
+      "authors": "Miquel Oller, Dmitry Berenson, Nima FazeliMiquel Oller, Dmitry Berenson, Nima Fazeli",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p135.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_ANJuNDFdvP",
+      "paper_id": "ANJuNDFdvP",
+      "title": "UniFolding: Towards Sample-efficient, Scalable, and Generalizable Robotic Garment Folding",
+      "authors": "Han Xue, Yutong Li, Wenqiang Xu, Huanyu Li, Dongzhe Zheng, Cewu Lu",
+      "paper_url": "https://openreview.net/pdf?id=ANJuNDFdvP",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_13",
+      "paper_id": "13",
+      "title": "Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies",
+      "authors": "Priya Sundaresan (UC Berkeley), Jennifer Grannen (UC Berkeley), Brijen Thananjeyan (UC Berkeley), Ashwin Balakrishna (UC Berkeley), Jeffrey Ichnowski (UC Berkeley), Ellen Novoseller (UC Berkeley), Minho Hwang (UC Berkeley), Michael Laskey (Toyota Research Institute), Joseph Gonzalez (UC Berkeley), Ken Goldberg (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p013.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_s6NEzqZKaP-",
+      "paper_id": "s6NEzqZKaP-",
+      "title": "Visuotactile Affordances for Cloth Manipulation with Local Control",
+      "authors": "Neha Sunil, Shaoxiong Wang, Yu She, Edward Adelson, Alberto Rodriguez Garcia",
+      "paper_url": "https://openreview.net/pdf?id=s6NEzqZKaP-",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss24_83",
+      "paper_id": "83",
+      "title": "You’ve Got to Feel It To Believe It: Multi-Modal Bayesian Inference for Semantic and Property Prediction",
+      "authors": "Parker Ewen, Hao Chen, Yuzhen Chen, Anran Li, Anup Bagali, Gitesh Gunjal, Ram VasudevanParker Ewen, Hao Chen, Yuzhen Chen, Anran Li, Anup Bagali, Gitesh Gunjal, Ram Vasudevan",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p083.pdf",
+      "venue": "rss24"
+    }
+  ]
+}

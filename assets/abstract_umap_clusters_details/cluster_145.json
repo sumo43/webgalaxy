@@ -1,0 +1,477 @@
+{
+  "cluster_id": 145,
+  "papers": [
+    {
+      "id": "siggraph25_f507c1075e",
+      "paper_id": "f507c1075e",
+      "title": "3DGH: 3D Head Generation with Composable Hair and Face",
+      "authors": "Chengan He, Junxuan Li, Tobias Kirschstein, Artem Sevastopolskiy, Shunsuke Saito, Qingyang Tan, Javier Romero, Chen Cao, Holly Rushmeier, Giljoo Nam",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_833",
+      "paper_id": "papers_833",
+      "title": "A Hybrid Generator Architecture for Controllable Face Synthesis",
+      "authors": "Dann Mensah, Nam Hee Kim, Miika Aittala, Samuli Laine, Jaakko Lehtinen",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_225",
+      "paper_id": "papers_225",
+      "title": "AgileGAN: Stylizing Portraits by Inversion-consistent Transfer Learning",
+      "authors": "Guoxian Song, Linjie Luo, Jing Liu, Wan Chun Ma, Chunpong Lai, Chuanxia Zheng, Tat Jen Cham",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_727",
+      "paper_id": "papers_727",
+      "title": "AniFaceDrawing: Anime Portrait Exploration During Your Sketching",
+      "authors": "Zhengyu Huang, Haoran Xie, Tsukasa Fukusato, Kazunori Miyata",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_411",
+      "paper_id": "papers_411",
+      "title": "Animating Portrait Line Drawings From a Single Face Photo and a Speech Signal",
+      "authors": "Ran Yi, Zipeng Ye, Ruoyu Fan, Yezhi Shu, Yong-Jin Liu, Yu-Kun Lai, Paul Rosin",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_3791129549",
+      "paper_id": "3791129549",
+      "title": "Anime Colorization Using Segment Matching With Candidate Colors",
+      "authors": "Yu Takano, Akinobu Maejima, Shugo Yamaguchi, Shigeo Morishima",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_297",
+      "paper_id": "papers_297",
+      "title": "AvatarCLIP: Zero-shot Text-driven Generation and Animation of 3D Avatars",
+      "authors": "Fangzhou Hong, Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_pos_143",
+      "paper_id": "pos_143",
+      "title": "Caricature Creation With Conformal Mapping in Complex Domain",
+      "authors": "Ergun Akleman, Tevfik Akgun",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_916",
+      "paper_id": "papers_916",
+      "title": "CharacterGen: Efficient 3D Character Generation From Single Images With Multi-view Pose Canonicalization",
+      "authors": "Hao-Yang Peng, Jia-Peng Zhang, Meng-Hao Guo, Yan-Pei Cao, Shi-Min Hu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_566",
+      "paper_id": "papers_566",
+      "title": "CLIP-PAE: Projection-Augmentation Embedding to Extract Relevant Features for a Disentangled, Interpretable and Controllable Text-Guided Face Manipulation",
+      "authors": "Chenliang Zhou, Fangcheng Zhong, Cengiz Oztireli",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_745",
+      "paper_id": "papers_745",
+      "title": "CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions",
+      "authors": "Rameen Abdal, Peihao Zhu, John Femiani, Niloy Mitra, Peter Wonka",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_875",
+      "paper_id": "papers_875",
+      "title": "ClipFace: Text-guided Editing of Textured 3D Morphable Models",
+      "authors": "Shivangi Aneja, Justus Thies, Angela Dai, Matthias Niessner",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_320",
+      "paper_id": "papers_320",
+      "title": "Coarse-to-fine: Facial Structure Editing of Portrait Images via Latent Space Classifications",
+      "authors": "Yiqian Wu, Yongliang Yang, Qinjie Xiao, Xiaogang Jin",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_57f45bdd90",
+      "paper_id": "57f45bdd90",
+      "title": "ColorSurge: Bringing Vibrancy and Efficiency to Automatic Video Colorization via Dual-Branch Fusion",
+      "authors": "Hongbo Zhao, Jiaxing Li, Peiyi Zhang, Peng Xiao, Jianxin Lin, Yijun Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_55cf9ee60d",
+      "paper_id": "55cf9ee60d",
+      "title": "Confidence Estimation of Few-Shot Patch-Based Learning for Anime-Style Colorization",
+      "authors": "Yuexiang Ji, Akinobu Maejima, Yotam Sechayk, Yuki Koyama, Takeo Igarashi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_pos_206",
+      "paper_id": "pos_206",
+      "title": "Cross Sample Similarity for Stable Training of GAN",
+      "authors": "Jung Eun Lee, Seungkyu Lee",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_594",
+      "paper_id": "papers_594",
+      "title": "DCT-Net: Domain-calibrated Translation for Portrait Stylization",
+      "authors": "Yifang Men, Yuan Yao, Miaomiao Cui, Zhouhui Lian, Xuansong Xie",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_755",
+      "paper_id": "papers_755",
+      "title": "Deep Deformable 3D Caricatures With Learned Shape Control",
+      "authors": "Yucheol Jung, Wonjong Jang, Soongjin Kim, Jiaolong Yang, Xin Tong, Seungyong Lee",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_188",
+      "paper_id": "papers_188",
+      "title": "DeepFaceEditing: Deep Face Generation and Editing With Disentangled Geometry and Appearance Control",
+      "authors": "Shu-Yu Chen, Feng-Lin Liu, Yu-Kun Lai, Paul Rosin, Chun-Peng Li, Hongbo Fu, Lin Gao",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_116",
+      "paper_id": "papers_116",
+      "title": "DeepVideoFaceEditing: Sketch-based Deep Editing of Face Videos",
+      "authors": "Feng-Lin Liu, Shu-Yu Chen, Yu-Kun Lai, Chun-Peng Li, Yue-Ren Jiang, Hongbo Fu, Lin Gao",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_399",
+      "paper_id": "papers_399",
+      "title": "Designing an Encoder for StyleGAN Image Manipulation",
+      "authors": "Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_593",
+      "paper_id": "papers_593",
+      "title": "Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning",
+      "authors": "Yuxin Zhang, Fan Tang, Weiming Dong, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Changsheng Xu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_316",
+      "paper_id": "papers_316",
+      "title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold",
+      "authors": "Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_120",
+      "paper_id": "papers_120",
+      "title": "DreamFace: Progressive Generation of Animatable 3D Faces Under Text Guidance",
+      "authors": "Longwen Zhang, Qiwei Qiu, Hongyang Lin, Qixuan Zhang, Cheng Shi, Wei Yang, Ye Shi, Sibei Yang, Lan Xu, Jingyi Yu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_604",
+      "paper_id": "papers_604",
+      "title": "FactorMatte: Redefining Video Matting for Re-composition Tasks",
+      "authors": "Zeqi Gu, Wenqi Xian, Noah Snavely, Abe Davis",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_pos_119",
+      "paper_id": "pos_119",
+      "title": "GAN Applied to Wave Function Collapse for Procedural Map Generation",
+      "authors": "Alain Lioret, Nicolas Ruche, Etienne Gibiat, Cédric Chopin",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_pos_175",
+      "paper_id": "pos_175",
+      "title": "Generation of Traditional Japanese Patterns From Natural Patterns With StyleGAN",
+      "authors": "Asahi Adachi, Lana Sinapayen, Jun Rekimoto",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_5f3f91c4c7",
+      "paper_id": "5f3f91c4c7",
+      "title": "Generative Video Matting",
+      "authors": "Yongtao Ge, Kangyang Xie, Guangkai Xu, Mingyu Liu, Li Ke, Longtao Huang, Hui Xue, Hao Chen, Chunhua Shen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_pos_167",
+      "paper_id": "pos_167",
+      "title": "Goshuin 2.0: Construction of the World's Largest Goshuin Dataset and Automatic Generation System of Goshuin by Neural Style Transfer",
+      "authors": "Shuma Shimizu, Tatsuya Minagawa, James Harry Morris, Xanat Vargas Meza, Yoichi Ochiai",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_1092",
+      "paper_id": "papers_1092",
+      "title": "HeadArtist: Text-conditioned 3D Head Generation With Self Score Distillation",
+      "authors": "Hongyu Liu, Xuan Wang, Ziyu Wan, Yujun Shen, Yibing Song, Jing Liao, Qifeng Chen",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_paperstog_118",
+      "paper_id": "paperstog_118",
+      "title": "HiGAN+: Handwriting Imitation GAN With Disentangled Representations",
+      "authors": "Ji Gan, Weiqiang Wang, Jiaxu Leng, Xinbo Gao, Weiqiang Wang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_pos_125",
+      "paper_id": "pos_125",
+      "title": "Inclusive Character Creator: A Showcase of Inclusive Design for 3D Character Creators",
+      "authors": "Michelle Ma",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_pos_157",
+      "paper_id": "pos_157",
+      "title": "Learning a Personalized Generative Prior for Face Images",
+      "authors": "Yotam Nitzan, Kfir Aberman, Orly Liba, Qiurui He, Michal Yarom, Yossi Gandelsman, Inbar Mosseri, Yael Pritch, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_1160",
+      "paper_id": "papers_1160",
+      "title": "Matting by Generation",
+      "authors": "Zhixiang Wang, Baiang Li, Jian Wang, Yu-Lun Liu, Jinwei Gu, Yung-Yu Chuang, Shin'ichi Satoh",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_177ebdf3fb",
+      "paper_id": "177ebdf3fb",
+      "title": "MyTimeMachine: Personalized Facial Age Transformation",
+      "authors": "Luchao Qi, Jiaye Wu, Bang Gong, Annie Wang, David Jacobs, Roni Sengupta",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_307",
+      "paper_id": "papers_307",
+      "title": "Only a Matter of Style: Age Transformation Using a Style-based Regression Model",
+      "authors": "Yuval Alaluf, Or Patashnik, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_paperstog_117",
+      "paper_id": "paperstog_117",
+      "title": "Parsing-conditioned Anime Translation: A New Dataset and Method",
+      "authors": "Zhansheng Li, Yangyang Xu, Nanxuan Zhao, Yang Zhou, Yongtuo Liu, Dahua Lin, Shengfeng He, Nanxuan Zhao",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_b3d31b8bed",
+      "paper_id": "b3d31b8bed",
+      "title": "pOps: Photo-Inspired Diffusion Operators",
+      "authors": "Elad Richardson, Yuval Alaluf, Ali Mahdavi-Amiri, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_376",
+      "paper_id": "papers_376",
+      "title": "Portrait3D: Text-guided High-quality 3D Portrait Generation Using Pyramid Representation and GANs Prior",
+      "authors": "Yiqian Wu, Hao Xu, Xiangjun Tang, Xien Chen, Siyu Tang, Zhebin Zhang, Chen Li, Xiaogang Jin",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_76ce8d383e",
+      "paper_id": "76ce8d383e",
+      "title": "Predicting Colors in Unpainted Gaps for Anime-Style Illustration",
+      "authors": "Masahiro Kono, Akinobu Maejima, Yuki Koyama, Takeo Igarashi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_af555bd0b9",
+      "paper_id": "af555bd0b9",
+      "title": "QRBTF - AI QR Code Generator",
+      "authors": "Hao Ni, Baiyu Chen, Zhaohan Wang, Zhiyong Chen, Wanyi Miao, Lyu Xin, Nan Cao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_171",
+      "paper_id": "papers_171",
+      "title": "Rewriting Geometric Rules of a GAN",
+      "authors": "Sheng-Yu Wang, David Bau, Jun-Yan Zhu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_337",
+      "paper_id": "papers_337",
+      "title": "Seamless Manga Inpainting With Semantics Awareness",
+      "authors": "Minshan Xie, Menghan Xia, Xueting Liu, Chengze Li, Tien-Tsin Wong",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_178",
+      "paper_id": "papers_178",
+      "title": "Self-conditioned Generative Adversarial Networks for Image Editing",
+      "authors": "Yunzhe Liu, Rinon Gal, Amit H. Bermano, Baoquan Chen, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_289",
+      "paper_id": "papers_289",
+      "title": "Self-distilled StyleGAN: Towards Generation From Internet Photos",
+      "authors": "Ron Mokady, Omer Tov, Michal Yarom, Oran Lang, Inbar Mosseri, Tali Dekel, Daniel Cohen-Or, Michal Irani",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_479",
+      "paper_id": "papers_479",
+      "title": "Semi-supervised Reference-based Sketch Extraction Using a Contrastive Learning Framework",
+      "authors": "Chang Wook Seo, Amirsaman Ashtari, Junyong Noh",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_a8dfb5c9b9",
+      "paper_id": "a8dfb5c9b9",
+      "title": "Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing",
+      "authors": "Feng-Lin Liu, Shi-Yang Li, Yan-Pei Cao, Hongbo Fu, Lin Gao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_186",
+      "paper_id": "papers_186",
+      "title": "SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields",
+      "authors": "Lin Gao, Feng-Lin Liu, Shu-Yu Chen, Kaiwen Jiang, Chun-Peng Li, Yu-Kun Lai, Hongbo Fu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_7dbfb31587",
+      "paper_id": "7dbfb31587",
+      "title": "SOAP: Style-Omniscient Animatable Portraits",
+      "authors": "Tingting Liao, Yujian Zheng, Yuliang Xiu, Adilbek Karmanov, Liwen Hu, Leyang Jin, Hao Li",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_134",
+      "paper_id": "paperstog_134",
+      "title": "SofGAN: A Portrait Image Generator With Dynamic Styling",
+      "authors": "Anpei Chen, Ruiyang Liu, Ling Xie, Zhang Chen, Hao Su, Jingyi Yu, Ruiyang Liu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_454",
+      "paper_id": "papers_454",
+      "title": "StyleAvatar: Real-time Photo-realistic Neural Portrait Avatar From a Single Video",
+      "authors": "Lizhen Wang, Xiaochen Zhao, Jingxiang Sun, Yuxiang Zhang, Hongwen Zhang, Tao Yu, Yebin Liu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_503",
+      "paper_id": "papers_503",
+      "title": "StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation",
+      "authors": "Wonjong Jang, Gwangjin Ju, Yucheol Jung, Jiaolong Yang, Xin Tong, Seungyong Lee",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_paperstog_106",
+      "paper_id": "paperstog_106",
+      "title": "StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images Using Conditional Continuous Normalizing Flows",
+      "authors": "Rameen Abdal, Peihao Zhu, Niloy Mitra, Peter Wonka",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_paperstog_152",
+      "paper_id": "paperstog_152",
+      "title": "StyleFusion: Disentangling Spatial Segments in StyleGAN-generated Images",
+      "authors": "Omer Kafri, Or Patashnik, Yuval Alaluf, Daniel Cohen-Or, Omer Kafri",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_634",
+      "paper_id": "papers_634",
+      "title": "StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets",
+      "authors": "Axel Sauer, Katja Schwarz, Andreas Geiger",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_393",
+      "paper_id": "papers_393",
+      "title": "SWAGAN: A Style-based Wavelet-driven Generative Model",
+      "authors": "Rinon Gal, Dana Cohen Hochberg, Amit Bermano, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_50666ca6f7",
+      "paper_id": "50666ca6f7",
+      "title": "Text-based Animatable 3D Avatars with Morphable Model Alignment",
+      "authors": "Yiqian Wu, Malte Prinzler, Xiaogang Jin, Siyu Tang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_753",
+      "paper_id": "papers_753",
+      "title": "TextDeformer: Geometry Manipulation Using Text Guidance",
+      "authors": "William Gao, Noam Aigerman, Thibault Groueix, Vova Kim, Rana Hanocka",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_870",
+      "paper_id": "papers_870",
+      "title": "Toonify3D: StyleGAN-based 3D Stylized Face Generator",
+      "authors": "Wonjong Jang, Yucheol Jung, Hyomin Kim, Gwangjin Ju, Chaewon Son, Jooeun Son, Seungyong Lee",
+      "paper_url": "",
+      "venue": "siggraph24"
+    }
+  ]
+}

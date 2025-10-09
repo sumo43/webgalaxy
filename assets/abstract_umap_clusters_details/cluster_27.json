@@ -1,0 +1,2461 @@
+{
+  "cluster_id": 27,
+  "papers": [
+    {
+      "id": "cvpr23_1145",
+      "paper_id": "",
+      "title": "\"Seeing\" Electric Network Frequency From Events",
+      "authors": "Lexuan Xu, Guang Hua, Haijian Zhang, Lei Yu, Ning Qiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Seeing_Electric_Network_Frequency_From_Events_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2215",
+      "paper_id": "",
+      "title": "1000 FPS HDR Video With a Spike-RGB Hybrid Camera",
+      "authors": "Yakun Chang, Chu Zhou, Yuchen Hong, Liwen Hu, Chao Xu, Tiejun Huang, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_1000_FPS_HDR_Video_With_a_Spike-RGB_Hybrid_Camera_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_453",
+      "paper_id": "",
+      "title": "3D Feature Tracking via Event Camera",
+      "authors": "Siqi Li, Zhikuan Zhou, Zhou Xue, Yipeng Li, Shaoyi Du, Yue Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_3D_Feature_Tracking_via_Event_Camera_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1995",
+      "paper_id": "",
+      "title": "3D Multi-frame Fusion for Video Stabilization",
+      "authors": "Zhan Peng, Xinyi Ye, Weiyue Zhao, Tianqi Liu, Huiqiang Sun, Baopu Li, Zhiguo Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_3D_Multi-frame_Fusion_for_Video_Stabilization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_665",
+      "paper_id": "",
+      "title": "3D Video Stabilization With Depth Estimation by CNN-Based Optimization",
+      "authors": "Yao-Chih Lee, Kuan-Wei Tseng, Yu-Ta Chen, Chien-Cheng Chen, Chu-Song Chen, Yi-Ping Hung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_3D_Video_Stabilization_With_Depth_Estimation_by_CNN-Based_Optimization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1570",
+      "paper_id": "",
+      "title": "A Multi-Task Network for Joint Specular Highlight Detection and Removal",
+      "authors": "Gang Fu, Qing Zhang, Lei Zhu, Ping Li, Chunxia Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2196",
+      "paper_id": "",
+      "title": "A Physics-informed Low-rank Deep Neural Network for Blind and Universal Lens Aberration Correction",
+      "authors": "Jin Gong, Runzhao Yang, Weihang Zhang, Jinli Suo, Qionghai Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_A_Physics-informed_Low-rank_Deep_Neural_Network_for_Blind_and_Universal_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1880",
+      "paper_id": "",
+      "title": "A Simple and Effective Point-based Network for Event Camera 6-DOFs Pose Relocalization",
+      "authors": "Hongwei Ren, Jiadong Zhu, Yue Zhou, Haotian Fu, Yulong Huang, Bojun Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_A_Simple_and_Effective_Point-based_Network_for_Event_Camera_6-DOFs_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1994",
+      "paper_id": "",
+      "title": "A Structured Dictionary Perspective on Implicit Neural Representations",
+      "authors": "Gizem Yüce, Guillermo Ortiz-Jiménez, Beril Besbinar, Pascal Frossard",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yuce_A_Structured_Dictionary_Perspective_on_Implicit_Neural_Representations_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_627",
+      "paper_id": "",
+      "title": "A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning",
+      "authors": "Yuelin Zhang, Pengyu Zheng, Wanquan Yan, Chengyu Fang, Shing Shin Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_A_Unified_Framework_for_Microscopy_Defocus_Deblur_with_Multi-Pyramid_Transformer_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2330",
+      "paper_id": "",
+      "title": "A Unified HDR Imaging Method With Pixel and Patch Level",
+      "authors": "Qingsen Yan, Weiye Chen, Song Zhang, Yu Zhu, Jinqiu Sun, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_A_Unified_HDR_Imaging_Method_With_Pixel_and_Patch_Level_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_331",
+      "paper_id": "",
+      "title": "A Unified Spatial-Angular Structured Light for Single-View Acquisition of Shape and Reflectance",
+      "authors": "Xianmin Xu, Yuxin Lin, Haoyang Zhou, Chong Zeng, Yaxin Yu, Kun Zhou, Hongzhi Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_A_Unified_Spatial-Angular_Structured_Light_for_Single-View_Acquisition_of_Shape_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1578",
+      "paper_id": "",
+      "title": "A Voxel Graph CNN for Object Classification With Event Cameras",
+      "authors": "Yongjian Deng, Hao Chen, Hai Liu, Youfu Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_A_Voxel_Graph_CNN_for_Object_Classification_With_Event_Cameras_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2806",
+      "paper_id": "",
+      "title": "ABC-Former: Auxiliary Bimodal Cross-domain Transformer with Interactive Channel Attention for White Balance",
+      "authors": "Yu-Cheng Chiu, Guan-Rong Chen, Zihao Chen, Yan-Tsung Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chiu_ABC-Former_Auxiliary_Bimodal_Cross-domain_Transformer_with_Interactive_Channel_Attention_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1172",
+      "paper_id": "",
+      "title": "Acquiring a Dynamic Light Field Through a Single-Shot Coded Image",
+      "authors": "Ryoya Mizuno, Keita Takahashi, Michitaka Yoshida, Chihiro Tsutake, Toshiaki Fujii, Hajime Nagahara",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mizuno_Acquiring_a_Dynamic_Light_Field_Through_a_Single-Shot_Coded_Image_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1060",
+      "paper_id": "",
+      "title": "Active Event-based Stereo Vision",
+      "authors": "Jianing Li, Yunjian Zhang, Haiqian Han, Xiangyang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2785",
+      "paper_id": "",
+      "title": "Active Hyperspectral Imaging Using an Event Camera",
+      "authors": "Bohan Yu, Jinxiu Liang, Zhuofeng Wang, Bin Fan, Art Subpa-asa, Boxin Shi, Imari Sato",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Active_Hyperspectral_Imaging_Using_an_Event_Camera_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_488",
+      "paper_id": "",
+      "title": "Adaptive Gating for Single-Photon 3D Imaging",
+      "authors": "Ryan Po, Adithya Pediredla, Ioannis Gkioulekas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Po_Adaptive_Gating_for_Single-Photon_3D_Imaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_52",
+      "paper_id": "",
+      "title": "Adaptive Global Decay Process for Event Cameras",
+      "authors": "Urbano Miguel Nunes, Ryad Benosman, Sio-Hoi Ieng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nunes_Adaptive_Global_Decay_Process_for_Event_Cameras_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_385",
+      "paper_id": "",
+      "title": "AEGNN: Asynchronous Event-Based Graph Neural Networks",
+      "authors": "Simon Schaefer, Daniel Gehrig, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Schaefer_AEGNN_Asynchronous_Event-Based_Graph_Neural_Networks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_531",
+      "paper_id": "",
+      "title": "All-directional Disparity Estimation for Real-world QPD Images",
+      "authors": "Hongtao Yu, Shaohui Song, Lihu Sun, Wenkai Su, Xiaodong Yang, Chengming Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_All-directional_Disparity_Estimation_for_Real-world_QPD_Images_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1890",
+      "paper_id": "",
+      "title": "All-in-Focus Imaging From Event Focal Stack",
+      "authors": "Hanyue Lou, Minggui Teng, Yixin Yang, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lou_All-in-Focus_Imaging_From_Event_Focal_Stack_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_524",
+      "paper_id": "",
+      "title": "All-Photon Polarimetric Time-of-Flight Imaging",
+      "authors": "Seung-Hwan Baek, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Baek_All-Photon_Polarimetric_Time-of-Flight_Imaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2231",
+      "paper_id": "",
+      "title": "An N-Point Linear Solver for Line and Motion Estimation with Event Cameras",
+      "authors": "Ling Gao, Daniel Gehrig, Hang Su, Davide Scaramuzza, Laurent Kneip",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_An_N-Point_Linear_Solver_for_Line_and_Motion_Estimation_with_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_56",
+      "paper_id": "",
+      "title": "Analyzing Physical Impacts Using Transient Surface Wave Imaging",
+      "authors": "Tianyuan Zhang, Mark Sheinin, Dorian Chan, Mark Rau, Matthew O’Toole, Srinivasa G. Narasimhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Analyzing_Physical_Impacts_Using_Transient_Surface_Wave_Imaging_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2322",
+      "paper_id": "",
+      "title": "Asynchronous Collaborative Graph Representation for Frames and Events",
+      "authors": "Dianze Li, Jianing Li, Xu Liu, Xiaopeng Fan, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Asynchronous_Collaborative_Graph_Representation_for_Frames_and_Events_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1755",
+      "paper_id": "",
+      "title": "Attentive Illumination Decomposition Model for Multi-Illuminant White Balancing",
+      "authors": "Dongyoung Kim, Jinwoo Kim, Junsang Yu, Seon Joo Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Attentive_Illumination_Decomposition_Model_for_Multi-Illuminant_White_Balancing_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1621",
+      "paper_id": "",
+      "title": "Autofocus for Event Cameras",
+      "authors": "Shijie Lin, Yinqiang Zhang, Lei Yu, Bin Zhou, Xiaowei Luo, Jia Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Autofocus_for_Event_Cameras_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_216",
+      "paper_id": "",
+      "title": "Back to Event Basics: Self-Supervised Learning of Image Reconstruction for Event Cameras via Photometric Constancy",
+      "authors": "Federico Paredes-Valles, Guido C. H. E. de Croon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1808",
+      "paper_id": "",
+      "title": "Batch Normalization Alleviates the Spectral Bias in Coordinate Networks",
+      "authors": "Zhicheng Cai, Hao Zhu, Qiu Shen, Xinran Wang, Xun Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Batch_Normalization_Alleviates_the_Spectral_Bias_in_Coordinate_Networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2506",
+      "paper_id": "",
+      "title": "Bilateral Event Mining and Complementary for Event Stream Super-Resolution",
+      "authors": "Zhilin Huang, Quanmin Liang, Yijie Yu, Chujun Qin, Xiawu Zheng, Kai Huang, Zikun Zhou, Wenming Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Bilateral_Event_Mining_and_Complementary_for_Event_Stream_Super-Resolution_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_394",
+      "paper_id": "",
+      "title": "Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries",
+      "authors": "Wei Xu, Charles James Wagner, Junjie Luo, Qi Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Blurry-Edges_Photon-Limited_Depth_Estimation_from_Defocused_Boundaries_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_727",
+      "paper_id": "",
+      "title": "Boosting Spike Camera Image Reconstruction from a Perspective of Dealing with Spike Fluctuations",
+      "authors": "Rui Zhao, Ruiqin Xiong, Jing Zhao, Jian Zhang, Xiaopeng Fan, Zhaofei Yu, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Boosting_Spike_Camera_Image_Reconstruction_from_a_Perspective_of_Dealing_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1513",
+      "paper_id": "",
+      "title": "Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow",
+      "authors": "Hanyu Zhou, Haonan Wang, Haoyue Liu, Yuxing Duan, Yi Chang, Luxin Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Bridge_Frame_and_Event_Common_Spatiotemporal_Fusion_for_High-Dynamic_Scene_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1237",
+      "paper_id": "",
+      "title": "CLCC: Contrastive Learning for Color Constancy",
+      "authors": "Yi-Chen Lo, Chia-Che Chang, Hsuan-Chao Chiu, Yu-Hao Huang, Chia-Ping Chen, Yu-Lin Chang, Kevin Jou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lo_CLCC_Contrastive_Learning_for_Color_Constancy_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_704",
+      "paper_id": "",
+      "title": "CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras",
+      "authors": "Sachin Shah, Matthew A. Chan, Haoming Cai, Jingxi Chen, Sakshum Kulshrestha, Chahat Deep Singh, Yiannis Aloimonos, Christopher A. Metzler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shah_CodedEvents_Optimal_Point-Spread-Function_Engineering_for_3D-Tracking_with_Event_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_408",
+      "paper_id": "",
+      "title": "CodedStereo: Learned Phase Masks for Large Depth-of-Field Stereo",
+      "authors": "Shiyu Tan, Yicheng Wu, Shoou-I Yu, Ashok Veeraraghavan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_CodedStereo_Learned_Phase_Masks_for_Large_Depth-of-Field_Stereo_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1392",
+      "paper_id": "",
+      "title": "Coherence As Texture - Passive Textureless 3D Reconstruction by Self-interference",
+      "authors": "Wei-Yu Chen, Aswin C. Sankaranarayanan, Anat Levin, Matthew O'Toole",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Coherence_As_Texture_-_Passive_Textureless_3D_Reconstruction_by_Self-interference_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_113",
+      "paper_id": "",
+      "title": "Color Shift Estimation-and-Correction for Image Enhancement",
+      "authors": "Yiyu Li, Ke Xu, Gerhard Petrus Hancke, Rynson W.H. Lau",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Color_Shift_Estimation-and-Correction_for_Image_Enhancement_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_973",
+      "paper_id": "",
+      "title": "Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction",
+      "authors": "Jianping Jiang, Xinyu Zhou, Bingxuan Wang, Xiaoming Deng, Chao Xu, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Complementing_Event_Streams_and_RGB_Frames_for_Hand_Mesh_Reconstruction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1153",
+      "paper_id": "",
+      "title": "Compressive Single-Photon 3D Cameras",
+      "authors": "Felipe Gutierrez-Barragan, Atul Ingle, Trevor Seets, Mohit Gupta, Andreas Velten",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gutierrez-Barragan_Compressive_Single-Photon_3D_Cameras_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1461",
+      "paper_id": "",
+      "title": "Computational Flash Photography Through Intrinsics",
+      "authors": "Sepideh Sarajian Maralan, Chris Careaga, Yagiz Aksoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Maralan_Computational_Flash_Photography_Through_Intrinsics_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1017",
+      "paper_id": "",
+      "title": "Context-Aware Video Reconstruction for Rolling Shutter Cameras",
+      "authors": "Bin Fan, Yuchao Dai, Zhiyuan Zhang, Qi Liu, Mingyi He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Context-Aware_Video_Reconstruction_for_Rolling_Shutter_Cameras_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2330",
+      "paper_id": "",
+      "title": "Cross-spectral Gated-RGB Stereo Depth Estimation",
+      "authors": "Samuel Brucker, Stefanie Walz, Mario Bijelic, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Brucker_Cross-spectral_Gated-RGB_Stereo_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2019",
+      "paper_id": "",
+      "title": "Data-Driven Feature Tracking for Event Cameras",
+      "authors": "Nico Messikommer, Carter Fang, Mathias Gehrig, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Messikommer_Data-Driven_Feature_Tracking_for_Event_Cameras_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1157",
+      "paper_id": "",
+      "title": "DC2: Dual-Camera Defocus Control by Learning To Refocus",
+      "authors": "Hadi Alzayer, Abdullah Abuolaim, Leung Chun Chan, Yang Yang, Ying Chen Lou, Jia-Bin Huang, Abhishek Kar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Alzayer_DC2_Dual-Camera_Defocus_Control_by_Learning_To_Refocus_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_10",
+      "paper_id": "",
+      "title": "Decoupling-and-Aggregating for Image Exposure Correction",
+      "authors": "Yang Wang, Long Peng, Liang Li, Yang Cao, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Decoupling-and-Aggregating_for_Image_Exposure_Correction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1770",
+      "paper_id": "",
+      "title": "Deep Depth From Focus With Differential Focus Volume",
+      "authors": "Fengting Yang, Xiaolei Huang, Zihan Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Deep_Depth_From_Focus_With_Differential_Focus_Volume_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1423",
+      "paper_id": "",
+      "title": "Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection",
+      "authors": "Chunyu Li, Yusuke Monno, Masatoshi Okutomi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Deep_Hyperspectral-Depth_Reconstruction_Using_Single_Color-Dot_Projection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1027",
+      "paper_id": "",
+      "title": "Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition",
+      "authors": "Valentin Deschaintre, Yiming Lin, Abhijeet Ghosh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Deschaintre_Deep_Polarization_Imaging_for_3D_Shape_and_SVBRDF_Acquisition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1353",
+      "paper_id": "",
+      "title": "Deep Polarization Reconstruction With PDAVIS Events",
+      "authors": "Haiyang Mei, Zuowen Wang, Xin Yang, Xiaopeng Wei, Tobi Delbruck",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Deep_Polarization_Reconstruction_With_PDAVIS_Events_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1023",
+      "paper_id": "",
+      "title": "Deep Video Inverse Tone Mapping Based on Temporal Clues",
+      "authors": "Yuyao Ye, Ning Zhang, Yang Zhao, Hongbin Cao, Ronggang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Deep_Video_Inverse_Tone_Mapping_Based_on_Temporal_Clues_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1133",
+      "paper_id": "",
+      "title": "DeFMO: Deblurring and Shape Recovery of Fast Moving Objects",
+      "authors": "Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Rozumnyi_DeFMO_Deblurring_and_Shape_Recovery_of_Fast_Moving_Objects_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1577",
+      "paper_id": "",
+      "title": "Degree-of-Linear-Polarization-Based Color Constancy",
+      "authors": "Taishi Ono, Yuhi Kondo, Legong Sun, Teppei Kurita, Yusuke Moriuchi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ono_Degree-of-Linear-Polarization-Based_Color_Constancy_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1816",
+      "paper_id": "",
+      "title": "Dense Dispersed Structured Light for Hyperspectral 3D Imaging of Dynamic Scenes",
+      "authors": "Suhyun Shin, Seungwoo Yoon, Ryota Maeda, Seung-Hwan Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shin_Dense_Dispersed_Structured_Light_for_Hyperspectral_3D_Imaging_of_Dynamic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1255",
+      "paper_id": "",
+      "title": "Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light",
+      "authors": "Yuhua Xu, Xiaoli Yang, Yushan Yu, Wei Jia, Zhaobi Chu, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Depth_Estimation_by_Combining_Binocular_Stereo_and_Monocular_Structured-Light_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_545",
+      "paper_id": "",
+      "title": "Descriptor-In-Pixel : Point-Feature Tracking For Pixel Processor Arrays",
+      "authors": "Laurie Bose, Jianing Chen, Piotr Dudek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bose_Descriptor-In-Pixel__Point-Feature_Tracking_For_Pixel_Processor_Arrays_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1481",
+      "paper_id": "",
+      "title": "DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting",
+      "authors": "Seungjun Lee, Gim Hee Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DiET-GS_Diffusion_Prior_and_Event_Stream-Assisted_Motion_Deblurring_3D_Gaussian_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2860",
+      "paper_id": "",
+      "title": "Diffusion-based Event Generation for High-Quality Image Deblurring",
+      "authors": "Xinan Xie, Qing Zhang, Wei-Shi Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Diffusion-based_Event_Generation_for_High-Quality_Image_Deblurring_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_261",
+      "paper_id": "",
+      "title": "Digital Gimbal: End-to-End Deep Image Stabilization With Learnable Exposure Times",
+      "authors": "Omer Dahary, Matan Jacoby, Alex M. Bronstein",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dahary_Digital_Gimbal_End-to-End_Deep_Image_Stabilization_With_Learnable_Exposure_Times_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1245",
+      "paper_id": "",
+      "title": "DINER: Disorder-Invariant Implicit Neural Representation",
+      "authors": "Shaowen Xie, Hao Zhu, Zhen Liu, Qi Zhang, You Zhou, Xun Cao, Zhan Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_DINER_Disorder-Invariant_Implicit_Neural_Representation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1601",
+      "paper_id": "",
+      "title": "Discrete Time Convolution for Fast Event-Based Stereo",
+      "authors": "Kaixuan Zhang, Kaiwei Che, Jianguo Zhang, Jie Cheng, Ziyang Zhang, Qinghai Guo, Luziwei Leng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Discrete_Time_Convolution_for_Fast_Event-Based_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1096",
+      "paper_id": "",
+      "title": "Dispersed Structured Light for Hyperspectral 3D Imaging",
+      "authors": "Suhyun Shin, Seokjun Choi, Felix Heide, Seung-Hwan Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shin_Dispersed_Structured_Light_for_Hyperspectral_3D_Imaging_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2561",
+      "paper_id": "",
+      "title": "DL2G: Degradation-guided Local-to-Global Restoration for Eyeglass Reflection Removal",
+      "authors": "Zhilv Yi, Xiao Lu, Hong Ding, Jingbo Hu, Zhi Jiang, Chunxia Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yi_DL2G_Degradation-guided_Local-to-Global_Restoration_for_Eyeglass_Reflection_Removal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_77",
+      "paper_id": "",
+      "title": "DMR: Decomposed Multi-Modality Representations for Frames and Events Fusion in Visual Reinforcement Learning",
+      "authors": "Haoran Xu, Peixi Peng, Guang Tan, Yuan Li, Xinhai Xu, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_DMR_Decomposed_Multi-Modality_Representations_for_Frames_and_Events_Fusion_in_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1029",
+      "paper_id": "",
+      "title": "Dual Exposure Stereo for Extended Dynamic Range 3D Imaging",
+      "authors": "Juhyung Choi, Jinnyeong Kim, Seokjun Choi, Jinwoo Lee, Samuel Brucker, Mario Bijelic, Felix Heide, Seung-Hwan Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Choi_Dual_Exposure_Stereo_for_Extended_Dynamic_Range_3D_Imaging_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1089",
+      "paper_id": "",
+      "title": "Dual Pixel Exploration: Simultaneous Depth Estimation and Image Restoration",
+      "authors": "Liyuan Pan, Shah Chowdhury, Richard Hartley, Miaomiao Liu, Hongguang Zhang, Hongdong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Dual_Pixel_Exploration_Simultaneous_Depth_Estimation_and_Image_Restoration_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1761",
+      "paper_id": "",
+      "title": "Dual-Shutter Optical Vibration Sensing",
+      "authors": "Mark Sheinin, Dorian Chan, Matthew O'Toole, Srinivasa G. Narasimhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_444",
+      "paper_id": "",
+      "title": "E-CIR: Event-Enhanced Continuous Intensity Recovery",
+      "authors": "Chen Song, Qixing Huang, Chandrajit Bajaj",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Song_E-CIR_Event-Enhanced_Continuous_Intensity_Recovery_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1333",
+      "paper_id": "",
+      "title": "E2(GO)MOTION: Motion Augmented Event Stream for Egocentric Action Recognition",
+      "authors": "Chiara Plizzari, Mirco Planamente, Gabriele Goletto, Marco Cannici, Emanuele Gusso, Matteo Matteucci, Barbara Caputo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Plizzari_E2GOMOTION_Motion_Augmented_Event_Stream_for_Egocentric_Action_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1141",
+      "paper_id": "",
+      "title": "EBS-EKF: Accurate and High Frequency Event-based Star Tracking",
+      "authors": "Albert W. Reed, Connor Hashemi, Dennis Melamed, Nitesh Menon, Keigo Hirakawa, Scott McCloskey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Reed_EBS-EKF_Accurate_and_High_Frequency_Event-based_Star_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_470",
+      "paper_id": "",
+      "title": "EDCFlow: Exploring Temporally Dense Difference Maps for Event-based Optical Flow Estimation",
+      "authors": "Daikun Liu, Lei Cheng, Teng Wang, Changyin Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EDCFlow_Exploring_Temporally_Dense_Difference_Maps_for_Event-based_Optical_Flow_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2047",
+      "paper_id": "",
+      "title": "Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention",
+      "authors": "Soikat Hasan Ahmed, Jan Finkbeiner, Emre Neftci",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ahmed_Efficient_Event-Based_Object_Detection_A_Hybrid_Neural_Network_with_Spatial_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1533",
+      "paper_id": "",
+      "title": "Efficient Meshflow and Optical Flow Estimation from Event Cameras",
+      "authors": "Xinglong Luo, Ao Luo, Zhengning Wang, Chunyu Lin, Bing Zeng, Shuaicheng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Efficient_Meshflow_and_Optical_Flow_Estimation_from_Event_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_527",
+      "paper_id": "",
+      "title": "End-to-End High Dynamic Range Camera Pipeline Optimization",
+      "authors": "Nicolas Robidoux, Luis E. Garcia Capel, Dong-eun Seo, Avinash Sharma, Federico Ariza, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Robidoux_End-to-End_High_Dynamic_Range_Camera_Pipeline_Optimization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1528",
+      "paper_id": "",
+      "title": "End-to-End Implicit Neural Representations for Classification",
+      "authors": "Alexander Gielisse, Jan van Gemert",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gielisse_End-to-End_Implicit_Neural_Representations_for_Classification_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_630",
+      "paper_id": "",
+      "title": "Energy-Efficient Adaptive 3D Sensing",
+      "authors": "Brevin Tilmon, Zhanghao Sun, Sanjeev J. Koppal, Yicheng Wu, Georgios Evangelidis, Ramzi Zahreddine, Gurunandan Krishnan, Sizhuo Ma, Jian Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tilmon_Energy-Efficient_Adaptive_3D_Sensing_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1620",
+      "paper_id": "",
+      "title": "ETAP: Event-based Tracking of Any Point",
+      "authors": "Friedhelm Hamann, Daniel Gehrig, Filbert Febryanto, Kostas Daniilidis, Guillermo Gallego",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hamann_ETAP_Event-based_Tracking_of_Any_Point_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_876",
+      "paper_id": "",
+      "title": "eTraM: Event-based Traffic Monitoring Dataset",
+      "authors": "Aayush Atul Verma, Bharatesh Chakravarthi, Arpitsinh Vaghela, Hua Wei, Yezhou Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1096",
+      "paper_id": "",
+      "title": "Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras",
+      "authors": "Hoonhee Cho, Jae-Young Kang, Youngho Kim, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_Ev-3DOD_Pushing_the_Temporal_Boundaries_of_3D_Object_Detection_with_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_785",
+      "paper_id": "",
+      "title": "Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition",
+      "authors": "Junho Kim, Inwoo Hwang, Young Min Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Ev-TTA_Test-Time_Adaptation_for_Event-Based_Object_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2604",
+      "paper_id": "",
+      "title": "EvDiG: Event-guided Direct and Global Components Separation",
+      "authors": "Xinyu Zhou, Peiqi Duan, Boyu Li, Chu Zhou, Chao Xu, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_EvDiG_Event-guided_Direct_and_Global_Components_Separation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1408",
+      "paper_id": "",
+      "title": "EvDistill: Asynchronous Events To End-Task Learning via Bidirectional Reconstruction-Guided Cross-Modal Knowledge Distillation",
+      "authors": "Lin Wang, Yujeong Chae, Sung-Hoon Yoon, Tae-Kyun Kim, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_EvDistill_Asynchronous_Events_To_End-Task_Learning_via_Bidirectional_Reconstruction-Guided_Cross-Modal_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1451",
+      "paper_id": "",
+      "title": "EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events",
+      "authors": "Shuoyan Wei, Feng Li, Shengeng Tang, Yao Zhao, Huihui Bai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_EvEnhancer_Empowering_Effectiveness_Efficiency_and_Generalizability_for_Continuous_Space-Time_Video_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_125",
+      "paper_id": "",
+      "title": "Event Ellipsometer: Event-based Mueller-Matrix Video Imaging",
+      "authors": "Ryota Maeda, Yunseong Moon, Seung-Hwan Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Maeda_Event_Ellipsometer_Event-based_Mueller-Matrix_Video_Imaging_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1923",
+      "paper_id": "",
+      "title": "Event Fields: Capturing Light Fields at High Speed, Resolution, and Dynamic Range",
+      "authors": "Ziyuan Qu, Zihao Zou, Vivek Boominathan, Praneeth Chakravarthula, Adithya Pediredla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qu_Event_Fields_Capturing_Light_Fields_at_High_Speed_Resolution_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_529",
+      "paper_id": "",
+      "title": "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline",
+      "authors": "Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Event_Stream-based_Visual_Object_Tracking_A_High-Resolution_Benchmark_Dataset_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1961",
+      "paper_id": "",
+      "title": "Event-Aided Direct Sparse Odometry",
+      "authors": "Javier Hidalgo-Carrió, Guillermo Gallego, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hidalgo-Carrio_Event-Aided_Direct_Sparse_Odometry_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1062",
+      "paper_id": "",
+      "title": "Event-assisted Low-Light Video Object Segmentation",
+      "authors": "Hebei Li, Jin Wang, Jiahui Yuan, Yue Li, Wenming Weng, Yansong Peng, Yueyi Zhang, Zhiwei Xiong, Xiaoyan Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Event-assisted_Low-Light_Video_Object_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_792",
+      "paper_id": "",
+      "title": "Event-Based Bispectral Photometry Using Temporally Modulated Illumination",
+      "authors": "Tsuyoshi Takatani, Yuzuha Ito, Ayaka Ebisu, Yinqiang Zheng, Takahito Aoto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Takatani_Event-Based_Bispectral_Photometry_Using_Temporally_Modulated_Illumination_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2000",
+      "paper_id": "",
+      "title": "Event-Based Blurry Frame Interpolation Under Blind Exposure",
+      "authors": "Wenming Weng, Yueyi Zhang, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Weng_Event-Based_Blurry_Frame_Interpolation_Under_Blind_Exposure_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1424",
+      "paper_id": "",
+      "title": "Event-Based Frame Interpolation With Ad-Hoc Deblurring",
+      "authors": "Lei Sun, Christos Sakaridis, Jingyun Liang, Peng Sun, Jiezhang Cao, Kai Zhang, Qi Jiang, Kaiwei Wang, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Event-Based_Frame_Interpolation_With_Ad-Hoc_Deblurring_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1003",
+      "paper_id": "",
+      "title": "Event-Based Shape From Polarization",
+      "authors": "Manasi Muglikar, Leonard Bauersfeld, Diederik Paul Moeys, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Muglikar_Event-Based_Shape_From_Polarization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_27",
+      "paper_id": "",
+      "title": "Event-based Structure-from-Orbit",
+      "authors": "Ethan Elms, Yasir Latif, Tae Ha Park, Tat-Jun Chin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Elms_Event-based_Structure-from-Orbit_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1302",
+      "paper_id": "",
+      "title": "Event-Based Synthetic Aperture Imaging With a Hybrid Network",
+      "authors": "Xiang Zhang, Wei Liao, Lei Yu, Wen Yang, Gui-Song Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Event-Based_Synthetic_Aperture_Imaging_With_a_Hybrid_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_616",
+      "paper_id": "",
+      "title": "Event-Based Video Frame Interpolation With Cross-Modal Asymmetric Bidirectional Motion Fields",
+      "authors": "Taewoo Kim, Yujeong Chae, Hyun-Kurl Jang, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1876",
+      "paper_id": "",
+      "title": "Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network",
+      "authors": "Lin Zhu, Xiao Wang, Yi Chang, Jianing Li, Tiejun Huang, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_513",
+      "paper_id": "",
+      "title": "Event-based Video Super-Resolution via State Space Models",
+      "authors": "Zeyu Xiao, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Event-based_Video_Super-Resolution_via_State_Space_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_504",
+      "paper_id": "",
+      "title": "Event-based Visible and Infrared Fusion via Multi-task Collaboration",
+      "authors": "Mengyue Geng, Lin Zhu, Lizhi Wang, Wei Zhang, Ruiqin Xiong, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Geng_Event-based_Visible_and_Infrared_Fusion_via_Multi-task_Collaboration_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_94",
+      "paper_id": "",
+      "title": "EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition",
+      "authors": "Xu Zheng, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_EventDance_Unsupervised_Source-free_Cross-modal_Adaptation_for_Event-based_Object_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2400",
+      "paper_id": "",
+      "title": "EventFly: Event Camera Perception from Ground to the Sky",
+      "authors": "Lingdong Kong, Dongyue Lu, Xiang Xu, Lai Xing Ng, Wei Tsang Ooi, Benoit R. Cottereau",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kong_EventFly_Event_Camera_Perception_from_Ground_to_the_Sky_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_984",
+      "paper_id": "",
+      "title": "EventNeRF: Neural Radiance Fields From a Single Colour Event Camera",
+      "authors": "Viktor Rudnev, Mohamed Elgharib, Christian Theobalt, Vladislav Golyanik",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Rudnev_EventNeRF_Neural_Radiance_Fields_From_a_Single_Colour_Event_Camera_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1146",
+      "paper_id": "",
+      "title": "EventPS: Real-Time Photometric Stereo Using an Event Camera",
+      "authors": "Bohan Yu, Jieji Ren, Jin Han, Feishi Wang, Jinxiu Liang, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2181",
+      "paper_id": "",
+      "title": "EventPSR: Surface Normal and Reflectance Estimation from Photometric Stereo Using an Event Camera",
+      "authors": "Bohan Yu, Jin Han, Boxin Shi, Imari Sato",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_EventPSR_Surface_Normal_and_Reflectance_Estimation_from_Photometric_Stereo_Using_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_724",
+      "paper_id": "",
+      "title": "EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering",
+      "authors": "Toshiya Yura, Ashkan Mirzaei, Igor Gilitschenski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yura_EventSplat_3D_Gaussian_Splatting_from_Moving_Event_Cameras_for_Real-time_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_981",
+      "paper_id": "",
+      "title": "EventZoom: Learning To Denoise and Super Resolve Neuromorphic Events",
+      "authors": "Peiqi Duan, Zihao W. Wang, Xinyu Zhou, Yi Ma, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_EventZoom_Learning_To_Denoise_and_Super_Resolve_Neuromorphic_Events_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1516",
+      "paper_id": "",
+      "title": "EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling",
+      "authors": "Rui Jiang, Fangwen Tu, Yixuan Long, Aabhaas Vaish, Bowen Zhou, Qinyi Wang, Wei Zhang, Yuntan Fang, Luis Eduardo Garcia Capel, Bo Mu, Tiejun Dai, Andreas Suess",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_EVS-assisted_Joint_Deblurring_Rolling-Shutter_Correction_and_Video_Frame_Interpolation_through_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_140",
+      "paper_id": "",
+      "title": "EvShutter: Transforming Events for Unconstrained Rolling Shutter Correction",
+      "authors": "Julius Erbach, Stepan Tulyakov, Patricia Vitoria, Alfredo Bochicchio, Yuanyou Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Erbach_EvShutter_Transforming_Events_for_Unconstrained_Rolling_Shutter_Correction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_420",
+      "paper_id": "",
+      "title": "EvUnroll: Neuromorphic Events Based Rolling Shutter Image Correction",
+      "authors": "Xinyu Zhou, Peiqi Duan, Yi Ma, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_EvUnroll_Neuromorphic_Events_Based_Rolling_Shutter_Image_Correction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_112",
+      "paper_id": "",
+      "title": "ExACT: Language-guided Conceptual Reasoning and Uncertainty Estimation for Event-based Action Recognition and More",
+      "authors": "Jiazhou Zhou, Xu Zheng, Yuanhuiyi Lyu, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_ExACT_Language-guided_Conceptual_Reasoning_and_Uncertainty_Estimation_for_Event-based_Action_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_607",
+      "paper_id": "",
+      "title": "Explaining the Implicit Neural Canvas: Connecting Pixels to Neurons by Tracing their Contributions",
+      "authors": "Namitha Padmanabhan, Matthew Gwilliam, Pulkit Kumar, Shishira R Maiya, Max Ehrlich, Abhinav Shrivastava",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Padmanabhan_Explaining_the_Implicit_Neural_Canvas_Connecting_Pixels_to_Neurons_by_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_831",
+      "paper_id": "",
+      "title": "Exploiting & Refining Depth Distributions With Triangulation Light Curtains",
+      "authors": "Yaadhav Raaj, Siddharth Ancha, Robert Tamburo, David Held, Srinivasa G. Narasimhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Raaj_Exploiting__Refining_Depth_Distributions_With_Triangulation_Light_Curtains_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1920",
+      "paper_id": "",
+      "title": "Exposure Normalization and Compensation for Multiple-Exposure Correction",
+      "authors": "Jie Huang, Yajing Liu, Xueyang Fu, Man Zhou, Yang Wang, Feng Zhao, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Exposure_Normalization_and_Compensation_for_Multiple-Exposure_Correction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2122",
+      "paper_id": "",
+      "title": "Exposure-slot: Exposure-centric Representations Learning with Slot-in-Slot Attention for Region-aware Exposure Correction",
+      "authors": "Donggoo Jung, Daehyun Kim, Guanghui Wang, Tae Hyun Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_Exposure-slot_Exposure-centric_Representations_Learning_with_Slot-in-Slot_Attention_for_Region-aware_Exposure_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1878",
+      "paper_id": "",
+      "title": "EZSR: Event-based Zero-Shot Recognition",
+      "authors": "Yan Yang, Liyuan Pan, Dongxu Li, Liu Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_EZSR_Event-based_Zero-Shot_Recognition_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1721",
+      "paper_id": "",
+      "title": "Few-shot Implicit Function Generation via Equivariance",
+      "authors": "Suizhi Huang, Xingyi Yang, Hongtao Lu, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Few-shot_Implicit_Function_Generation_via_Equivariance_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1505",
+      "paper_id": "",
+      "title": "Few-Shot Non-Line-of-Sight Imaging With Signal-Surface Collaborative Regularization",
+      "authors": "Xintong Liu, Jianyu Wang, Leping Xiao, Xing Fu, Lingyun Qiu, Zuoqiang Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Few-Shot_Non-Line-of-Sight_Imaging_With_Signal-Surface_Collaborative_Regularization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1279",
+      "paper_id": "",
+      "title": "FINER: Flexible Spectral-bias Tuning in Implicit NEural Representation by Variable-periodic Activation Functions",
+      "authors": "Zhen Liu, Hao Zhu, Qi Zhang, Jingde Fu, Weibing Deng, Zhan Ma, Yanwen Guo, Xun Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_FINER_Flexible_Spectral-bias_Tuning_in_Implicit_NEural_Representation_by_Variable-periodic_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1780",
+      "paper_id": "",
+      "title": "Fisher Information Guidance for Learned Time-of-Flight Imaging",
+      "authors": "Jiaqu Li, Tao Yue, Sijie Zhao, Xuemei Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Fisher_Information_Guidance_for_Learned_Time-of-Flight_Imaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1655",
+      "paper_id": "",
+      "title": "Flash-Split: 2D Reflection Removal with Flash Cues and Latent Diffusion Separation",
+      "authors": "Tianfu Wang, Mingyang Xie, Haoming Cai, Sachin Shah, Christopher A. Metzler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Flash-Split_2D_Reflection_Removal_with_Flash_Cues_and_Latent_Diffusion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_839",
+      "paper_id": "",
+      "title": "Focal Split: Untethered Snapshot Depth from Differential Defocus",
+      "authors": "Junjie Luo, John Mamish, Alan Fu, Thomas Concannon, Josiah Hester, Emma Alexander, Qi Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Focal_Split_Untethered_Snapshot_Depth_from_Differential_Defocus_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1570",
+      "paper_id": "",
+      "title": "Fooling Polarization-Based Vision using Locally Controllable Polarizing Projection",
+      "authors": "Zhuoxiao Li, Zhihang Zhong, Shohei Nobuhara, Ko Nishino, Yinqiang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_590",
+      "paper_id": "",
+      "title": "Frame-Event Alignment and Fusion Network for High Frame Rate Tracking",
+      "authors": "Jiqing Zhang, Yuanchen Wang, Wenxi Liu, Meng Li, Jinpeng Bai, Baocai Yin, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Frame-Event_Alignment_and_Fusion_Network_for_High_Frame_Rate_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2446",
+      "paper_id": "",
+      "title": "Frequency-aware Event-based Video Deblurring for Real-World Motion Blur",
+      "authors": "Taewoo Kim, Hoonhee Cho, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Frequency-aware_Event-based_Video_Deblurring_for_Real-World_Motion_Blur_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_626",
+      "paper_id": "",
+      "title": "Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers",
+      "authors": "Ji Zhao, Banglei Guan, Zibin Liu, Laurent Kneip",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Full-DoF_Egomotion_Estimation_for_Event_Cameras_Using_Geometric_Solvers_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_282",
+      "paper_id": "",
+      "title": "Fully Self-Supervised Depth Estimation From Defocus Clue",
+      "authors": "Haozhe Si, Bin Zhao, Dong Wang, Yunpeng Gao, Mulin Chen, Zhigang Wang, Xuelong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Fully_Self-Supervised_Depth_Estimation_From_Defocus_Clue_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2030",
+      "paper_id": "",
+      "title": "Gated Stereo: Joint Depth Estimation From Gated and Wide-Baseline Active Stereo Cues",
+      "authors": "Stefanie Walz, Mario Bijelic, Andrea Ramazzina, Amanpreet Walia, Fahim Mannan, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Walz_Gated_Stereo_Joint_Depth_Estimation_From_Gated_and_Wide-Baseline_Active_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2343",
+      "paper_id": "",
+      "title": "GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping",
+      "authors": "Jinfeng Liu, Lingtong Kong, Bo Li, Dan Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_GaussHDR_High_Dynamic_Range_Gaussian_Splatting_via_Learning_Unified_3D_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_699",
+      "paper_id": "",
+      "title": "GCC: Generative Color Constancy via Diffusing a Color Checker",
+      "authors": "Chen-Wei Chang, Cheng-De Fan, Chia-Che Chang, Yi-Chen Lo, Yu-Chee Tseng, Jiun-Long Huang, Yu-Lun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_GCC_Generative_Color_Constancy_via_Diffusing_a_Color_Checker_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_874",
+      "paper_id": "",
+      "title": "Generalizable Implicit Neural Representations via Instance Pattern Composers",
+      "authors": "Chiheon Kim, Doyup Lee, Saehoon Kim, Minsu Cho, Wook-Shin Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Generalizable_Implicit_Neural_Representations_via_Instance_Pattern_Composers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2039",
+      "paper_id": "",
+      "title": "Generalized Event Cameras",
+      "authors": "Varun Sundar, Matthew Dutson, Andrei Ardelean, Claudio Bruschini, Edoardo Charbon, Mohit Gupta",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sundar_Generalized_Event_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_527",
+      "paper_id": "",
+      "title": "Generating Content for HDR Deghosting from Frequency View",
+      "authors": "Tao Hu, Qingsen Yan, Yuankai Qi, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Generating_Content_for_HDR_Deghosting_from_Frequency_View_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2687",
+      "paper_id": "",
+      "title": "Generative Quanta Color Imaging",
+      "authors": "Vishal Purohit, Junjie Luo, Yiheng Chi, Qi Guo, Stanley H. Chan, Qiang Qiu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Purohit_Generative_Quanta_Color_Imaging_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1552",
+      "paper_id": "",
+      "title": "Graph Neural Network Combining Event Stream and Periodic Aggregation for Low-Latency Event-based Vision",
+      "authors": "Manon Dampfhoffer, Thomas Mesquida, Damien Joubert, Thomas Dalgaty, Pascal Vivet, Christoph Posch",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dampfhoffer_Graph_Neural_Network_Combining_Event_Stream_and_Periodic_Aggregation_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2375",
+      "paper_id": "",
+      "title": "Gyro-based Neural Single Image Deblurring",
+      "authors": "Heemin Yang, Jaesung Rim, Seungyong Lee, Seung-Hwan Baek, Sunghyun Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Gyro-based_Neural_Single_Image_Deblurring_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2290",
+      "paper_id": "",
+      "title": "Harnessing Meta-Learning for Improving Full-Frame Video Stabilization",
+      "authors": "Muhammad Kashif Ali, Eun Woo Im, Dongjin Kim, Tae Hyun Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ali_Harnessing_Meta-Learning_for_Improving_Full-Frame_Video_Stabilization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1637",
+      "paper_id": "",
+      "title": "HDR Imaging With Spatially Varying Signal-to-Noise Ratios",
+      "authors": "Yiheng Chi, Xingguang Zhang, Stanley H. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chi_HDR_Imaging_With_Spatially_Varying_Signal-to-Noise_Ratios_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1487",
+      "paper_id": "",
+      "title": "HDR-NeRF: High Dynamic Range Neural Radiance Fields",
+      "authors": "Xin Huang, Qi Zhang, Ying Feng, Hongdong Li, Xuan Wang, Qing Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_HDR-NeRF_High_Dynamic_Range_Neural_Radiance_Fields_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_223",
+      "paper_id": "",
+      "title": "HDRFlow: Real-Time HDR Video Reconstruction with Large Motions",
+      "authors": "Gangwei Xu, Yujin Wang, Jinwei Gu, Tianfan Xue, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_HDRFlow_Real-Time_HDR_Video_Reconstruction_with_Large_Motions_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2270",
+      "paper_id": "",
+      "title": "Hierarchical Adaptive Filtering Network for Text Image Specular Highlight Removal",
+      "authors": "Zhi Jiang, Jingbo Hu, Ling Zhang, Gang Fu, Chunxia Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Hierarchical_Adaptive_Filtering_Network_for_Text_Image_Specular_Highlight_Removal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_153",
+      "paper_id": "",
+      "title": "Hierarchical Neural Memory Network for Low Latency Event Processing",
+      "authors": "Ryuhei Hamaguchi, Yasutaka Furukawa, Masaki Onishi, Ken Sakurada",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hamaguchi_Hierarchical_Neural_Memory_Network_for_Low_Latency_Event_Processing_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_191",
+      "paper_id": "",
+      "title": "High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm",
+      "authors": "Zhaoyi Tian, Feifeng Wang, Shiwei Wang, Zihao Zhou, Yao Zhu, Liquan Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_High_Dynamic_Range_Video_Compression_A_Large-Scale_Benchmark_Dataset_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_743",
+      "paper_id": "",
+      "title": "High-Fidelity Event-Radiance Recovery via Transient Event Frequency",
+      "authors": "Jin Han, Yuta Asano, Boxin Shi, Yinqiang Zheng, Imari Sato",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Han_High-Fidelity_Event-Radiance_Recovery_via_Transient_Event_Frequency_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1401",
+      "paper_id": "",
+      "title": "High-Quality Stereo Image Restoration From Double Refraction",
+      "authors": "Hakyeong Kim, Andreas Meuleman, Daniel S. Jeon, Min H. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_High-Quality_Stereo_Image_Restoration_From_Double_Refraction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_531",
+      "paper_id": "",
+      "title": "High-Speed Image Reconstruction Through Short-Term Plasticity for Spiking Cameras",
+      "authors": "Yajing Zheng, Lingxiao Zheng, Zhaofei Yu, Boxin Shi, Yonghong Tian, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_High-Speed_Image_Reconstruction_Through_Short-Term_Plasticity_for_Spiking_Cameras_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_9",
+      "paper_id": "",
+      "title": "Holocurtains: Programming Light Curtains via Binary Holography",
+      "authors": "Dorian Chan, Srinivasa G. Narasimhan, Matthew O'Toole",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_Holocurtains_Programming_Light_Curtains_via_Binary_Holography_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1337",
+      "paper_id": "",
+      "title": "Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation",
+      "authors": "Hyejin Oh, Woo-Shik Kim, Sangyoon Lee, YungKyung Park, Je-Won Kang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Oh_Illumination_Spectrum_Estimation_for_Multispectral_Images_via_Surface_Reflectance_Modeling_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2599",
+      "paper_id": "",
+      "title": "Image Reconstruction from Readout-Multiplexed Single-Photon Detector Arrays",
+      "authors": "Shashwath Bharadwaj, Ruangrawee Kitichotkul, Akshay Agarwal, Vivek K Goyal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bharadwaj_Image_Reconstruction_from_Readout-Multiplexed_Single-Photon_Detector_Arrays_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_649",
+      "paper_id": "",
+      "title": "Image Super-Resolution Using T-Tetromino Pixels",
+      "authors": "Simon Grosche, Andy Regensky, Jürgen Seiler, André Kaup",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Grosche_Image_Super-Resolution_Using_T-Tetromino_Pixels_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2375",
+      "paper_id": "",
+      "title": "Improved Implicit Neural Representation with Fourier Reparameterized Training",
+      "authors": "Kexuan Shi, Xingyu Zhou, Shuhang Gu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_Improved_Implicit_Neural_Representation_with_Fourier_Reparameterized_Training_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1405",
+      "paper_id": "",
+      "title": "IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera",
+      "authors": "Jian Huang, Chengrui Dong, Xuanhua Chen, Peidong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_IncEventGS_Pose-Free_Gaussian_Splatting_from_a_Single_Event_Camera_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1474",
+      "paper_id": "",
+      "title": "Indoor Lighting Estimation Using an Event Camera",
+      "authors": "Zehao Chen, Qian Zheng, Peisong Niu, Huajin Tang, Gang Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Indoor_Lighting_Estimation_Using_an_Event_Camera_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_854",
+      "paper_id": "",
+      "title": "Integral Fast Fourier Color Constancy",
+      "authors": "Wenjun Wei, Yanlin Qian, Huaian Chen, Junkang Dai, Yi Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Integral_Fast_Fourier_Color_Constancy_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1161",
+      "paper_id": "",
+      "title": "Intensity-Robust Autofocus for Spike Camera",
+      "authors": "Changqing Su, Zhiyuan Ye, Yongsheng Xiao, You Zhou, Zhen Cheng, Bo Xiong, Zhaofei Yu, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Su_Intensity-Robust_Autofocus_for_Spike_Camera_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1974",
+      "paper_id": "",
+      "title": "Inverting the Imaging Process by Learning an Implicit Camera Model",
+      "authors": "Xin Huang, Qi Zhang, Ying Feng, Hongdong Li, Qing Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Inverting_the_Imaging_Process_by_Learning_an_Implicit_Camera_Model_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_299",
+      "paper_id": "",
+      "title": "Iterative Filter Adaptive Network for Single Image Defocus Deblurring",
+      "authors": "Junyong Lee, Hyeongseok Son, Jaesung Rim, Sunghyun Cho, Seungyong Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Iterative_Filter_Adaptive_Network_for_Single_Image_Defocus_Deblurring_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_826",
+      "paper_id": "",
+      "title": "iToF-flow-based High Frame Rate Depth Imaging",
+      "authors": "Yu Meng, Zhou Xue, Xu Chang, Xuemei Hu, Tao Yue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Meng_iToF-flow-based_High_Frame_Rate_Depth_Imaging_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2281",
+      "paper_id": "",
+      "title": "Joint Appearance and Motion Learning for Efficient Rolling Shutter Correction",
+      "authors": "Bin Fan, Yuxin Mao, Yuchao Dai, Zhexiong Wan, Qi Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_Joint_Appearance_and_Motion_Learning_for_Efficient_Rolling_Shutter_Correction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1607",
+      "paper_id": "",
+      "title": "Joint HDR Denoising and Fusion: A Real-World Mobile HDR Image Dataset",
+      "authors": "Shuaizheng Liu, Xindong Zhang, Lingchen Sun, Zhetong Liang, Hui Zeng, Lei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Joint_HDR_Denoising_and_Fusion_A_Real-World_Mobile_HDR_Image_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1227",
+      "paper_id": "",
+      "title": "Joint Video Multi-Frame Interpolation and Deblurring Under Unknown Exposure Time",
+      "authors": "Wei Shang, Dongwei Ren, Yi Yang, Hongzhi Zhang, Kede Ma, Wangmeng Zuo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Joint_Video_Multi-Frame_Interpolation_and_Deblurring_Under_Unknown_Exposure_Time_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1429",
+      "paper_id": "",
+      "title": "K3DN: Disparity-Aware Kernel Estimation for Dual-Pixel Defocus Deblurring",
+      "authors": "Yan Yang, Liyuan Pan, Liu Liu, Miaomiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_K3DN_Disparity-Aware_Kernel_Estimation_for_Dual-Pixel_Defocus_Deblurring_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1343",
+      "paper_id": "",
+      "title": "Labeled From Unlabeled: Exploiting Unlabeled Data for Few-Shot Deep HDR Deghosting",
+      "authors": "K. Ram Prabhakar, Gowtham Senthil, Susmit Agrawal, R. Venkatesh Babu, Rama Krishna Sai S Gorthi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2398",
+      "paper_id": "",
+      "title": "Language-guided Image Reflection Separation",
+      "authors": "Haofeng Zhong, Yuchen Hong, Shuchen Weng, Jinxiu Liang, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhong_Language-guided_Image_Reflection_Separation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2319",
+      "paper_id": "",
+      "title": "Latency Correction for Event-guided Deblurring and Frame Interpolation",
+      "authors": "Yixin Yang, Jinxiu Liang, Bohan Yu, Yan Chen, Jimmy S. Ren, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Latency_Correction_for_Event-guided_Deblurring_and_Frame_Interpolation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_146",
+      "paper_id": "",
+      "title": "Latent Space Imaging",
+      "authors": "Matheus Souza, Yidan Zheng, Kaizhang Kang, Yogeshwar Nath Mishra, Qiang Fu, Wolfgang Heidrich",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Souza_Latent_Space_Imaging_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2391",
+      "paper_id": "",
+      "title": "LDP: Language-driven Dual-Pixel Image Defocus Deblurring Network",
+      "authors": "Hao Yang, Liyuan Pan, Yan Yang, Richard Hartley, Miaomiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_LDP_Language-driven_Dual-Pixel_Image_Defocus_Deblurring_Network_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2823",
+      "paper_id": "",
+      "title": "Learned Binocular-Encoding Optics for RGBD Imaging Using Joint Stereo and Focus Cues",
+      "authors": "Yuhui Liu, Liangxun Ou, Qiang Fu, Hadi Amata, Wolfgang Heidrich, Yifan Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Learned_Binocular-Encoding_Optics_for_RGBD_Imaging_Using_Joint_Stereo_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_893",
+      "paper_id": "",
+      "title": "Learned Initializations for Optimizing Coordinate-Based Neural Representations",
+      "authors": "Matthew Tancik, Ben Mildenhall, Terrance Wang, Divi Schmidt, Pratul P. Srinivasan, Jonathan T. Barron, Ren Ng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tancik_Learned_Initializations_for_Optimizing_Coordinate-Based_Neural_Representations_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2214",
+      "paper_id": "",
+      "title": "Learning a Deep Color Difference Metric for Photographic Images",
+      "authors": "Haoyu Chen, Zhihua Wang, Yang Yang, Qilin Sun, Kede Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_a_Deep_Color_Difference_Metric_for_Photographic_Images_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2229",
+      "paper_id": "",
+      "title": "Learning a Practical SDR-to-HDRTV Up-Conversion Using New Dataset and Degradation Models",
+      "authors": "Cheng Guo, Leidong Fan, Ziyu Xue, Xiuhua Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Learning_a_Practical_SDR-to-HDRTV_Up-Conversion_Using_New_Dataset_and_Degradation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_206",
+      "paper_id": "",
+      "title": "Learning Accurate 3D Shape Based on Stereo Polarimetric Imaging",
+      "authors": "Tianyu Huang, Haoang Li, Kejing He, Congying Sui, Bin Li, Yun-Hui Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Learning_Accurate_3D_Shape_Based_on_Stereo_Polarimetric_Imaging_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_314",
+      "paper_id": "",
+      "title": "Learning Adaptive Dense Event Stereo From the Image Domain",
+      "authors": "Hoonhee Cho, Jegyeong Cho, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Learning_Adaptive_Dense_Event_Stereo_From_the_Image_Domain_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_17",
+      "paper_id": "",
+      "title": "Learning Adaptive Warping for Real-World Rolling Shutter Correction",
+      "authors": "Mingdeng Cao, Zhihang Zhong, Jiahao Wang, Yinqiang Zheng, Yujiu Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Learning_Adaptive_Warping_for_Real-World_Rolling_Shutter_Correction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1517",
+      "paper_id": "",
+      "title": "Learning Event Guided High Dynamic Range Video Reconstruction",
+      "authors": "Yixin Yang, Jin Han, Jinxiu Liang, Imari Sato, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Learning_Event_Guided_High_Dynamic_Range_Video_Reconstruction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_230",
+      "paper_id": "",
+      "title": "Learning Multi-Scale Photo Exposure Correction",
+      "authors": "Mahmoud Afifi, Konstantinos G. Derpanis, Bjorn Ommer, Michael S. Brown",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Afifi_Learning_Multi-Scale_Photo_Exposure_Correction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1070",
+      "paper_id": "",
+      "title": "Learning Sample Relationship for Exposure Correction",
+      "authors": "Jie Huang, Feng Zhao, Man Zhou, Jie Xiao, Naishan Zheng, Kaiwen Zheng, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Learning_Sample_Relationship_for_Exposure_Correction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1920",
+      "paper_id": "",
+      "title": "Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution",
+      "authors": "Yunfan Lu, Zipeng Wang, Minjie Liu, Hongjian Wang, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Learning_Spatial-Temporal_Implicit_Neural_Representations_for_Event-Guided_Video_Super-Resolution_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_301",
+      "paper_id": "",
+      "title": "Learning to Control Camera Exposure via Reinforcement Learning",
+      "authors": "Kyunghyun Lee, Ukcheol Shin, Byeong-Uk Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Learning_to_Control_Camera_Exposure_via_Reinforcement_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_179",
+      "paper_id": "",
+      "title": "Learning to Deblur Using Light Field Generated and Real Defocus Images",
+      "authors": "Lingyan Ruan, Bin Chen, Jizhou Li, Miuling Lam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ruan_Learning_to_Deblur_Using_Light_Field_Generated_and_Real_Defocus_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1424",
+      "paper_id": "",
+      "title": "Learning To Reconstruct High Speed and High Dynamic Range Videos From Events",
+      "authors": "Yunhao Zou, Yinqiang Zheng, Tsuyoshi Takatani, Ying Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zou_Learning_To_Reconstruct_High_Speed_and_High_Dynamic_Range_Videos_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2184",
+      "paper_id": "",
+      "title": "Learning to Remove Wrinkled Transparent Film with Polarized Prior",
+      "authors": "Jiaqi Tang, Ruizheng Wu, Xiaogang Xu, Sixing Hu, Ying-Cong Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Learning_to_Remove_Wrinkled_Transparent_Film_with_Polarized_Prior_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_28",
+      "paper_id": "",
+      "title": "LED: A Large-scale Real-world Paired Dataset for Event Camera Denoising",
+      "authors": "Yuxing Duan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Duan_LED_A_Large-scale_Real-world_Paired_Dataset_for_Event_Camera_Denoising_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_718",
+      "paper_id": "",
+      "title": "LEDiff: Latent Exposure Diffusion for HDR Generation",
+      "authors": "Chao Wang, Zhihao Xia, Thomas Leimkuhler, Karol Myszkowski, Xuaner Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_LEDiff_Latent_Exposure_Diffusion_for_HDR_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1568",
+      "paper_id": "",
+      "title": "LEOD: Label-Efficient Object Detection for Event Cameras",
+      "authors": "Ziyi Wu, Mathias Gehrig, Qing Lyu, Xudong Liu, Igor Gilitschenski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_LEOD_Label-Efficient_Object_Detection_for_Event_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_766",
+      "paper_id": "",
+      "title": "Leveraging the Availability of Two Cameras for Illuminant Estimation",
+      "authors": "Abdelrahman Abdelhamed, Abhijith Punnappurath, Michael S. Brown",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Abdelhamed_Leveraging_the_Availability_of_Two_Cameras_for_Illuminant_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1093",
+      "paper_id": "",
+      "title": "Low-power Continuous Remote Behavioral Localization with Event Cameras",
+      "authors": "Friedhelm Hamann, Suman Ghosh, Ignacio Juarez Martinez, Tom Hart, Alex Kacelnik, Guillermo Gallego",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hamann_Low-power_Continuous_Remote_Behavioral_Localization_with_Event_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_496",
+      "paper_id": "",
+      "title": "Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging",
+      "authors": "Ilya Chugunov, Seung-Hwan Baek, Qiang Fu, Wolfgang Heidrich, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chugunov_Mask-ToF_Learning_Microlens_Masks_for_Flying_Pixel_Correction_in_Time-of-Flight_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_511",
+      "paper_id": "",
+      "title": "Megahertz Light Steering Without Moving Parts",
+      "authors": "Adithya Pediredla, Srinivasa G. Narasimhan, Maysamreza Chamanzar, Ioannis Gkioulekas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pediredla_Megahertz_Light_Steering_Without_Moving_Parts_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1820",
+      "paper_id": "",
+      "title": "MIRE: Matched Implicit Neural Representations",
+      "authors": "Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jayasundara_MIRE_Matched_Implicit_Neural_Representations_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2148",
+      "paper_id": "",
+      "title": "Motion Blur Decomposition with Cross-shutter Guidance",
+      "authors": "Xiang Ji, Haiyang Jiang, Yinqiang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ji_Motion_Blur_Decomposition_with_Cross-shutter_Guidance_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1437",
+      "paper_id": "",
+      "title": "Multi-Grained Spatio-Temporal Features Perceived Network for Event-Based Lip-Reading",
+      "authors": "Ganchao Tan, Yang Wang, Han Han, Yang Cao, Feng Wu, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tan_Multi-Grained_Spatio-Temporal_Features_Perceived_Network_for_Event-Based_Lip-Reading_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2079",
+      "paper_id": "",
+      "title": "Neumann Network With Recursive Kernels for Single Image Defocus Deblurring",
+      "authors": "Yuhui Quan, Zicong Wu, Hui Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Quan_Neumann_Network_With_Recursive_Kernels_for_Single_Image_Defocus_Deblurring_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1600",
+      "paper_id": "",
+      "title": "Neural Auto-Exposure for High-Dynamic Range Object Detection",
+      "authors": "Emmanuel Onzon, Fahim Mannan, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Onzon_Neural_Auto-Exposure_for_High-Dynamic_Range_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2175",
+      "paper_id": "",
+      "title": "Neural Exposure Fusion for High-Dynamic Range Object Detection",
+      "authors": "Emmanuel Onzon, Maximilian Bömer, Fahim Mannan, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Onzon_Neural_Exposure_Fusion_for_High-Dynamic_Range_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1869",
+      "paper_id": "",
+      "title": "Neural Global Shutter: Learn To Restore Video From a Rolling Shutter Camera With Global Reset Feature",
+      "authors": "Zhixiang Wang, Xiang Ji, Jia-Bin Huang, Shin'ichi Satoh, Xiao Zhou, Yinqiang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Neural_Global_Shutter_Learn_To_Restore_Video_From_a_Rolling_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_425",
+      "paper_id": "",
+      "title": "Nighttime Smartphone Reflective Flare Removal Using Optical Center Symmetry Prior",
+      "authors": "Yuekun Dai, Yihang Luo, Shangchen Zhou, Chongyi Li, Chen Change Loy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Nighttime_Smartphone_Reflective_Flare_Removal_Using_Optical_Center_Symmetry_Prior_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1961",
+      "paper_id": "",
+      "title": "NLOST: Non-Line-of-Sight Imaging With Transformer",
+      "authors": "Yue Li, Jiayong Peng, Juntian Ye, Yueyi Zhang, Feihu Xu, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_NLOST_Non-Line-of-Sight_Imaging_With_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1564",
+      "paper_id": "",
+      "title": "Non-Line-of-Sight Imaging With Signal Superresolution Network",
+      "authors": "Jianyu Wang, Xintong Liu, Leping Xiao, Zuoqiang Shi, Lingyun Qiu, Xing Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Non-Line-of-Sight_Imaging_With_Signal_Superresolution_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1668",
+      "paper_id": "",
+      "title": "Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset",
+      "authors": "Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Object_Detection_using_Event_Camera_A_MoE_Heat_Conduction_based_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1775",
+      "paper_id": "",
+      "title": "On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events",
+      "authors": "Jesse J. Hagenaars, Yilun Wu, Federico Paredes-Valles, Stein Stroobants, Guido C.H.E. de Croon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hagenaars_On-Device_Self-Supervised_Learning_of_Low-Latency_Monocular_Depth_from_Only_Events_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2497",
+      "paper_id": "",
+      "title": "One-Step Event-Driven High-Speed Autofocus",
+      "authors": "Yuhan Bao, Shaohua Gao, Wenyong Li, Kaiwei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bao_One-Step_Event-Driven_High-Speed_Autofocus_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1232",
+      "paper_id": "",
+      "title": "OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies",
+      "authors": "Lingdong Kong, Youquan Liu, Lai Xing Ng, Benoit R. Cottereau, Wei Tsang Ooi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kong_OpenESS_Event-based_Semantic_Scene_Understanding_with_Open_Vocabularies_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1557",
+      "paper_id": "",
+      "title": "Opportunistic Single-Photon Time of Flight",
+      "authors": "Sotiris Nousias, Mian Wei, Howard Xiao, Maxx Wu, Shahmeer Athar, Kevin J. Wang, Anagh Malik, David A. Barmherzig, David B. Lindell, Kyros N. Kutulakos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Nousias_Opportunistic_Single-Photon_Time_of_Flight_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_644",
+      "paper_id": "",
+      "title": "Optical Flow Estimation for Spiking Camera",
+      "authors": "Liwen Hu, Rui Zhao, Ziluo Ding, Lei Ma, Boxin Shi, Ruiqin Xiong, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Optical_Flow_Estimation_for_Spiking_Camera_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_358",
+      "paper_id": "",
+      "title": "Order-One Rolling Shutter Cameras",
+      "authors": "Marvin Anas Hahn, Kathlén Kohn, Orlando Marigliano, Tomas Pajdla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hahn_Order-One_Rolling_Shutter_Cameras_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2504",
+      "paper_id": "",
+      "title": "OSMamba: Omnidirectional Spectral Mamba with Dual-Domain Prior Generator for Exposure Correction",
+      "authors": "Gehui Li, Bin Chen, Chen Zhao, Lei Zhang, Jian Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_OSMamba_Omnidirectional_Spectral_Mamba_with_Dual-Domain_Prior_Generator_for_Exposure_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_866",
+      "paper_id": "",
+      "title": "Panoramic Image Reflection Removal",
+      "authors": "Yuchen Hong, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_467",
+      "paper_id": "",
+      "title": "Parametric Scattering Networks",
+      "authors": "Shanel Gauthier, Benjamin Thérien, Laurent Alsène-Racicot, Muawiz Chaudhary, Irina Rish, Eugene Belilovsky, Michael Eickenberg, Guy Wolf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gauthier_Parametric_Scattering_Networks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_274",
+      "paper_id": "",
+      "title": "Passive Inter-Photon Imaging",
+      "authors": "Atul Ingle, Trevor Seets, Mauro Buttafava, Shantanu Gupta, Alberto Tosi, Mohit Gupta, Andreas Velten",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ingle_Passive_Inter-Photon_Imaging_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_884",
+      "paper_id": "",
+      "title": "Passive Micron-Scale Time-of-Flight With Sunlight Interferometry",
+      "authors": "Alankar Kotwal, Anat Levin, Ioannis Gkioulekas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kotwal_Passive_Micron-Scale_Time-of-Flight_With_Sunlight_Interferometry_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1965",
+      "paper_id": "",
+      "title": "Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging",
+      "authors": "Bhargav Ghanekar, Salman Siddique Khan, Pranav Sharma, Shreyas Singh, Vivek Boominathan, Kaushik Mitra, Ashok Veeraraghavan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ghanekar_Passive_Snapshot_Coded_Aperture_Dual-Pixel_RGB-D_Imaging_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2011",
+      "paper_id": "",
+      "title": "Perceptual Assessment and Optimization of HDR Image Rendering",
+      "authors": "Peibei Cao, Rafal K. Mantiuk, Kede Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Perceptual_Assessment_and_Optimization_of_HDR_Image_Rendering_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1651",
+      "paper_id": "",
+      "title": "PIDSR: Complementary Polarized Image Demosaicing and Super-Resolution",
+      "authors": "Shuangfan Zhou, Chu Zhou, Youwei Lyu, Heng Guo, Zhanyu Ma, Boxin Shi, Imari Sato",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_PIDSR_Complementary_Polarized_Image_Demosaicing_and_Super-Resolution_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_744",
+      "paper_id": "",
+      "title": "PixelRNN: In-pixel Recurrent Neural Networks for End-to-end-optimized Perception with Neural Sensors",
+      "authors": "Haley M. So, Laurie Bose, Piotr Dudek, Gordon Wetzstein",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/So_PixelRNN_In-pixel_Recurrent_Neural_Networks_for_End-to-end-optimized_Perception_with_Neural_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1095",
+      "paper_id": "",
+      "title": "Point Cloud Color Constancy",
+      "authors": "Xiaoyan Xing, Yanlin Qian, Sibo Feng, Yuhan Dong, Jiří Matas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xing_Point_Cloud_Color_Constancy_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_911",
+      "paper_id": "",
+      "title": "PolarFree: Polarization-based Reflection-Free Imaging",
+      "authors": "Mingde Yao, Menglu Wang, King-Man Tam, Lingen Li, Tianfan Xue, Jinwei Gu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yao_PolarFree_Polarization-based_Reflection-Free_Imaging_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_458",
+      "paper_id": "",
+      "title": "Polarimetric iToF: Measuring High-Fidelity Depth Through Scattering Media",
+      "authors": "Daniel S. Jeon, Andréas Meuleman, Seung-Hwan Baek, Min H. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jeon_Polarimetric_iToF_Measuring_High-Fidelity_Depth_Through_Scattering_Media_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1287",
+      "paper_id": "",
+      "title": "Polarimetric Normal Stereo",
+      "authors": "Yoshiki Fukao, Ryo Kawahara, Shohei Nobuhara, Ko Nishino",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fukao_Polarimetric_Normal_Stereo_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1298",
+      "paper_id": "",
+      "title": "Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts",
+      "authors": "Dominik Scheuble, Chenyang Lei, Seung-Hwan Baek, Mario Bijelic, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Scheuble_Polarization_Wavefront_Lidar_Learning_Large_Scene_Reconstruction_from_Polarized_Wavefronts_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2313",
+      "paper_id": "",
+      "title": "Polarized Color Image Denoising",
+      "authors": "Zhuoxiao Li, Haiyang Jiang, Mingdeng Cao, Yinqiang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Polarized_Color_Image_Denoising_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_5",
+      "paper_id": "",
+      "title": "Polka Lines: Learning Structured Illumination and Reconstruction for Active Stereo",
+      "authors": "Seung-Hwan Baek, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1335",
+      "paper_id": "",
+      "title": "Polynomial Implicit Neural Representations for Large Diverse Datasets",
+      "authors": "Rajhans Singh, Ankita Shukla, Pavan Turaga",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_Polynomial_Implicit_Neural_Representations_for_Large_Diverse_Datasets_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_76",
+      "paper_id": "",
+      "title": "Portrait Eyeglasses and Shadow Removal by Leveraging 3D Synthetic Data",
+      "authors": "Junfeng Lyu, Zhibo Wang, Feng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Portrait_Eyeglasses_and_Shadow_Removal_by_Leveraging_3D_Synthetic_Data_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_988",
+      "paper_id": "",
+      "title": "Progressive Spatio-Temporal Alignment for Efficient Event-Based Motion Estimation",
+      "authors": "Xueyan Huang, Yueyi Zhang, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Progressive_Spatio-Temporal_Alignment_for_Efficient_Event-Based_Motion_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2074",
+      "paper_id": "",
+      "title": "PS-EIP: Robust Photometric Stereo Based on Event Interval Profile",
+      "authors": "Kazuma Kitazawa, Takahito Aoto, Satoshi Ikehata, Tsuyoshi Takatani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kitazawa_PS-EIP_Robust_Photometric_Stereo_Based_on_Event_Interval_Profile_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1261",
+      "paper_id": "",
+      "title": "Quad-Pixel Image Defocus Deblurring: A New Benchmark and Model",
+      "authors": "Hang Chen, Yin Xie, Xiaoxiu Peng, Lihu Sun, Wenkai Su, Xiaodong Yang, Chengming Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Quad-Pixel_Image_Defocus_Deblurring_A_New_Benchmark_and_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_465",
+      "paper_id": "",
+      "title": "Quantization-Aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging",
+      "authors": "Lingen Li, Lizhi Wang, Weitao Song, Lei Zhang, Zhiwei Xiong, Hua Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Quantization-Aware_Deep_Optics_for_Diffractive_Snapshot_Hyperspectral_Imaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_994",
+      "paper_id": "",
+      "title": "RADU: Ray-Aligned Depth Update Convolutions for ToF Data Denoising",
+      "authors": "Michael Schelling, Pedro Hermosilla, Timo Ropinski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Schelling_RADU_Ray-Aligned_Depth_Update_Convolutions_for_ToF_Data_Denoising_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1994",
+      "paper_id": "",
+      "title": "Real-time Acquisition and Reconstruction of Dynamic Volumes with Neural Structured Illumination",
+      "authors": "Yixin Zeng, Zoubin Bi, Mingrui Yin, Xiang Feng, Kun Zhou, Hongzhi Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_Real-time_Acquisition_and_Reconstruction_of_Dynamic_Volumes_with_Neural_Structured_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1044",
+      "paper_id": "",
+      "title": "Real-Time Exposure Correction via Collaborative Transformations and Adaptive Sampling",
+      "authors": "Ziwen Li, Feng Zhang, Meng Cao, Jinpu Zhang, Yuanjie Shao, Yuehuan Wang, Nong Sang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Real-Time_Exposure_Correction_via_Collaborative_Transformations_and_Adaptive_Sampling_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1924",
+      "paper_id": "",
+      "title": "Real-Time Hyperspectral Imaging in Hardware via Trained Metasurface Encoders",
+      "authors": "Maksim Makarenko, Arturo Burguete-Lopez, Qizhou Wang, Fedor Getman, Silvio Giancola, Bernard Ghanem, Andrea Fratalocchi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Makarenko_Real-Time_Hyperspectral_Imaging_in_Hardware_via_Trained_Metasurface_Encoders_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_855",
+      "paper_id": "",
+      "title": "Real-Time Selfie Video Stabilization",
+      "authors": "Jiyang Yu, Ravi Ramamoorthi, Keli Cheng, Michel Sarkis, Ning Bi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Real-Time_Selfie_Video_Stabilization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1128",
+      "paper_id": "",
+      "title": "Recurrent Vision Transformers for Object Detection With Event Cameras",
+      "authors": "Mathias Gehrig, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gehrig_Recurrent_Vision_Transformers_for_Object_Detection_With_Event_Cameras_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1585",
+      "paper_id": "",
+      "title": "Regularize Implicit Neural Representation by Itself",
+      "authors": "Zhemin Li, Hongxia Wang, Deyu Meng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Regularize_Implicit_Neural_Representation_by_Itself_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_385",
+      "paper_id": "",
+      "title": "Removing Reflections from RAW Photos",
+      "authors": "Eric Kee, Adam Pikielny, Kevin Blackburn-Matzen, Marc Levoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kee_Removing_Reflections_from_RAW_Photos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2584",
+      "paper_id": "",
+      "title": "Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation",
+      "authors": "Jingxi Chen, Brandon Y. Feng, Haoming Cai, Tianfu Wang, Levi Burner, Dehao Yuan, Cornelia Fermuller, Christopher A. Metzler, Yiannis Aloimonos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Repurposing_Pre-trained_Video_Diffusion_Models_for_Event-based_Video_Interpolation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1432",
+      "paper_id": "",
+      "title": "Resolution Limit of Single-Photon LiDAR",
+      "authors": "Stanley H. Chan, Hashan K. Weerasooriya, Weijian Zhang, Pamela Abshire, Istvan Gyongy, Robert K. Henderson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chan_Resolution_Limit_of_Single-Photon_LiDAR_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1606",
+      "paper_id": "",
+      "title": "Reversible Decoupling Network for Single Image Reflection Removal",
+      "authors": "Hao Zhao, Mingjia Li, Qiming Hu, Xiaojie Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Reversible_Decoupling_Network_for_Single_Image_Reflection_Removal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_951",
+      "paper_id": "",
+      "title": "Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution",
+      "authors": "Bangyan Liao, Delin Qu, Yifei Xue, Huiqing Zhang, Yizhen Lao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_Revisiting_Rolling_Shutter_Bundle_Adjustment_Toward_Accurate_and_Fast_Solution_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_440",
+      "paper_id": "",
+      "title": "Revisiting Single Image Reflection Removal In the Wild",
+      "authors": "Yurui Zhu, Xueyang Fu, Peng-Tao Jiang, Hao Zhang, Qibin Sun, Jinwei Chen, Zheng-Jun Zha, Bo Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Revisiting_Single_Image_Reflection_Removal_In_the_Wild_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_229",
+      "paper_id": "",
+      "title": "Revisiting the Stack-Based Inverse Tone Mapping",
+      "authors": "Ning Zhang, Yuyao Ye, Yang Zhao, Ronggang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_the_Stack-Based_Inverse_Tone_Mapping_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_854",
+      "paper_id": "",
+      "title": "Robust Reflection Removal With Reflection-Free Flash-Only Cues",
+      "authors": "Chenyang Lei, Qifeng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Robust_Reflection_Removal_With_Reflection-Free_Flash-Only_Cues_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1058",
+      "paper_id": "",
+      "title": "Robust Single Image Reflection Removal Against Adversarial Attacks",
+      "authors": "Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, Zhaoxin Fan, Wenqi Ren, Jianfeng Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_958",
+      "paper_id": "",
+      "title": "Role of Transients in Two-Bounce Non-Line-of-Sight Imaging",
+      "authors": "Siddharth Somasundaram, Akshat Dave, Connor Henley, Ashok Veeraraghavan, Ramesh Raskar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Somasundaram_Role_of_Transients_in_Two-Bounce_Non-Line-of-Sight_Imaging_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2522",
+      "paper_id": "",
+      "title": "Rolling Shutter Correction with Intermediate Distortion Flow Estimation",
+      "authors": "Mingdeng Cao, Sidi Yang, Yujiu Yang, Yinqiang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Rolling_Shutter_Correction_with_Intermediate_Distortion_Flow_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1961",
+      "paper_id": "",
+      "title": "S2D-LFE: Sparse-to-Dense Light Field Event Generation",
+      "authors": "Yutong Liu, Wenming Weng, Yueyi Zhang, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_S2D-LFE_Sparse-to-Dense_Light_Field_Event_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_682",
+      "paper_id": "",
+      "title": "Scanline Homographies for Rolling-Shutter Plane Absolute Pose",
+      "authors": "Fang Bai, Agniva Sengupta, Adrien Bartoli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_Scanline_Homographies_for_Rolling-Shutter_Plane_Absolute_Pose_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1902",
+      "paper_id": "",
+      "title": "Scene Adaptive Sparse Transformer for Event-based Object Detection",
+      "authors": "Yansong Peng, Hebei Li, Yueyi Zhang, Xiaoyan Sun, Feng Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Scene_Adaptive_Sparse_Transformer_for_Event-based_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_460",
+      "paper_id": "",
+      "title": "SD2Event:Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras",
+      "authors": "Yuan Gao, Yuqing Zhu, Xinjun Li, Yimin Du, Tianzhu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_SD2EventSelf-supervised_Learning_of_Dynamic_Detectors_and_Contextual_Descriptors_for_Event_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_940",
+      "paper_id": "",
+      "title": "Seeing Motion at Nighttime with an Event Camera",
+      "authors": "Haoyue Liu, Shihan Peng, Lin Zhu, Yi Chang, Hanyu Zhou, Luxin Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Seeing_Motion_at_Nighttime_with_an_Event_Camera_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2682",
+      "paper_id": "",
+      "title": "Selective Nonlinearities Removal from Digital Signals",
+      "authors": "Krzysztof A. Maliszewski, Magdalena A. Urba?ska, Varvara Vetrova, Sylwia M. Kolenderska",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Maliszewski_Selective_Nonlinearities_Removal_from_Digital_Signals_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_843",
+      "paper_id": "",
+      "title": "Self-Generated Defocus Blur Detection via Dual Adversarial Discriminators",
+      "authors": "Wenda Zhao, Cai Shang, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Self-Generated_Defocus_Blur_Detection_via_Dual_Adversarial_Discriminators_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_258",
+      "paper_id": "",
+      "title": "Self-Supervised Learning for Color Spike Camera Reconstruction",
+      "authors": "Yanchen Dong, Ruiqin Xiong, Xiaopeng Fan, Zhaofei Yu, Yonghong Tian, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Self-Supervised_Learning_for_Color_Spike_Camera_Reconstruction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2179",
+      "paper_id": "",
+      "title": "SFOD: Spiking Fusion Object Detector",
+      "authors": "Yimeng Fan, Wei Zhang, Changsong Liu, Mingyang Li, Wenrui Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_SFOD_Spiking_Fusion_Object_Detector_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1542",
+      "paper_id": "",
+      "title": "Shakes on a Plane: Unsupervised Depth Estimation From Unstabilized Photography",
+      "authors": "Ilya Chugunov, Yuxuan Zhang, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chugunov_Shakes_on_a_Plane_Unsupervised_Depth_Estimation_From_Unstabilized_Photography_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_160",
+      "paper_id": "",
+      "title": "Shape From Polarization for Complex Scenes in the Wild",
+      "authors": "Chenyang Lei, Chenyang Qi, Jiaxin Xie, Na Fan, Vladlen Koltun, Qifeng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_Shape_From_Polarization_for_Complex_Scenes_in_the_Wild_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_970",
+      "paper_id": "",
+      "title": "Shape From Sky: Polarimetric Normal Recovery Under the Sky",
+      "authors": "Tomoki Ichikawa, Matthew Purri, Ryo Kawahara, Shohei Nobuhara, Kristin Dana, Ko Nishino",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ichikawa_Shape_From_Sky_Polarimetric_Normal_Recovery_Under_the_Sky_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1741",
+      "paper_id": "",
+      "title": "Shape From Thermal Radiation: Passive Ranging Using Multi-Spectral LWIR Measurements",
+      "authors": "Yasuto Nagase, Takahiro Kushida, Kenichiro Tanaka, Takuya Funatomi, Yasuhiro Mukaigawa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Nagase_Shape_From_Thermal_Radiation_Passive_Ranging_Using_Multi-Spectral_LWIR_Measurements_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_168",
+      "paper_id": "",
+      "title": "Single Image Reflection Removal With Absorption Effect",
+      "authors": "Qian Zheng, Boxin Shi, Jinnan Chen, Xudong Jiang, Ling-Yu Duan, Alex C. Kot",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Single_Image_Reflection_Removal_With_Absorption_Effect_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_104",
+      "paper_id": "",
+      "title": "Single-Photon Structured Light",
+      "authors": "Varun Sundar, Sizhuo Ma, Aswin C. Sankaranarayanan, Mohit Gupta",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sundar_Single-Photon_Structured_Light_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_350",
+      "paper_id": "",
+      "title": "SINR: Sparsity Driven Compressed Implicit Neural Representations",
+      "authors": "Dhananjaya Jayasundara, Sudarshan Rajagopalan, Yasiru Ranasinghe, Trac D. Tran, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jayasundara_SINR_Sparsity_Driven_Compressed_Implicit_Neural_Representations_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_297",
+      "paper_id": "",
+      "title": "SMAE: Few-Shot Learning for HDR Deghosting With Saturation-Aware Masked Autoencoders",
+      "authors": "Qingsen Yan, Song Zhang, Weiye Chen, Hao Tang, Yu Zhu, Jinqiu Sun, Luc Van Gool, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_SMAE_Few-Shot_Learning_for_HDR_Deghosting_With_Saturation-Aware_Masked_Autoencoders_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_285",
+      "paper_id": "",
+      "title": "Snapshot Lidar: Fourier Embedding of Amplitude and Phase for Single-Image Depth Reconstruction",
+      "authors": "Sarah Friday, Yunzi Shi, Yaswanth Cherivirala, Vishwanath Saragadam, Adithya Pediredla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Friday_Snapshot_Lidar_Fourier_Embedding_of_Amplitude_and_Phase_for_Single-Image_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_443",
+      "paper_id": "",
+      "title": "Sparse Multi-Path Corrections in Fringe Projection Profilometry",
+      "authors": "Yu Zhang, Daniel Lau, David Wipf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Sparse_Multi-Path_Corrections_in_Fringe_Projection_Profilometry_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2139",
+      "paper_id": "",
+      "title": "Spatio-Focal Bidirectional Disparity Estimation From a Dual-Pixel Image",
+      "authors": "Donggun Kim, Hyeonjoong Jang, Inchul Kim, Min H. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Spatio-Focal_Bidirectional_Disparity_Estimation_From_a_Dual-Pixel_Image_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1091",
+      "paper_id": "",
+      "title": "Spatiotemporal Registration for Event-Based Visual Odometry",
+      "authors": "Daqi Liu, Alvaro Parra, Tat-Jun Chin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Spatiotemporal_Registration_for_Event-Based_Visual_Odometry_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_465",
+      "paper_id": "",
+      "title": "Spectral and Polarization Vision: Spectro-polarimetric Real-world Dataset",
+      "authors": "Yujin Jeon, Eunsue Choi, Youngchan Kim, Yunseong Moon, Khalid Omer, Felix Heide, Seung-Hwan Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jeon_Spectral_and_Polarization_Vision_Spectro-polarimetric_Real-world_Dataset_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_224",
+      "paper_id": "",
+      "title": "SPIDeRS: Structured Polarization for Invisible Depth and Reflectance Sensing",
+      "authors": "Tomoki Ichikawa, Shohei Nobuhara, Ko Nishino",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ichikawa_SPIDeRS_Structured_Polarization_for_Invisible_Depth_and_Reflectance_Sensing_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1218",
+      "paper_id": "",
+      "title": "Spike-guided Motion Deblurring with Unknown Modal Spatiotemporal Alignment",
+      "authors": "Jiyuan Zhang, Shiyan Chen, Yajing Zheng, Zhaofei Yu, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Spike-guided_Motion_Deblurring_with_Unknown_Modal_Spatiotemporal_Alignment_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1560",
+      "paper_id": "",
+      "title": "SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream",
+      "authors": "Lin Zhu, Kangmin Jia, Yifan Zhao, Yunshan Qi, Lizhi Wang, Hua Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SpikeNeRF_Learning_Neural_Radiance_Fields_from_Continuous_Spike_Stream_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_737",
+      "paper_id": "",
+      "title": "Spiking Transformers for Event-Based Single Object Tracking",
+      "authors": "Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_648",
+      "paper_id": "",
+      "title": "Spk2ImgNet: Learning To Reconstruct Dynamic Scene From Continuous Spike Stream",
+      "authors": "Jing Zhao, Ruiqin Xiong, Hangfan Liu, Jian Zhang, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Spk2ImgNet_Learning_To_Reconstruct_Dynamic_Scene_From_Continuous_Spike_Stream_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1801",
+      "paper_id": "",
+      "title": "Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering",
+      "authors": "Yuanlin Wang, Yiyang Zhang, Ruiqin Xiong, Jing Zhao, Jian Zhang, Xiaopeng Fan, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Spk2SRImgNet_Super-Resolve_Dynamic_Scene_from_Spike_Stream_via_Motion_Aligned_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1446",
+      "paper_id": "",
+      "title": "Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning",
+      "authors": "Shouhang Zhu, Chenglin Li, Yuankun Jiang, Li Wei, Nuowen Kan, Ziyang Zheng, Wenrui Dai, Junni Zou, Hongkai Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Stabilizing_and_Accelerating_Autofocus_with_Expert_Trajectory_Regularized_Deep_Reinforcement_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1053",
+      "paper_id": "",
+      "title": "State Space Models for Event Cameras",
+      "authors": "Nikola Zubic, Mathias Gehrig, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1161",
+      "paper_id": "",
+      "title": "Stereo Depth From Events Cameras: Concentrate and Focus on the Future",
+      "authors": "Yeongwoo Nam, Mohammad Mostafavi, Kuk-Jin Yoon, Jonghyun Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Nam_Stereo_Depth_From_Events_Cameras_Concentrate_and_Focus_on_the_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1737",
+      "paper_id": "",
+      "title": "Super-Resolution Reconstruction from Bayer-Pattern Spike Streams",
+      "authors": "Yanchen Dong, Ruiqin Xiong, Jian Zhang, Zhaofei Yu, Xiaopeng Fan, Shuyuan Zhu, Tiejun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_Super-Resolution_Reconstruction_from_Bayer-Pattern_Spike_Streams_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_49",
+      "paper_id": "",
+      "title": "Swept-Angle Synthetic Wavelength Interferometry",
+      "authors": "Alankar Kotwal, Anat Levin, Ioannis Gkioulekas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kotwal_Swept-Angle_Synthetic_Wavelength_Interferometry_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_2002",
+      "paper_id": "",
+      "title": "Synthetic Aperture Imaging With Events and Frames",
+      "authors": "Wei Liao, Xiang Zhang, Lei Yu, Shijie Lin, Wen Yang, Ning Qiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liao_Synthetic_Aperture_Imaging_With_Events_and_Frames_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_276",
+      "paper_id": "",
+      "title": "Tangentially Elongated Gaussian Belief Propagation for Event-Based Incremental Optical Flow Estimation",
+      "authors": "Jun Nagata, Yusuke Sekikawa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nagata_Tangentially_Elongated_Gaussian_Belief_Propagation_for_Event-Based_Incremental_Optical_Flow_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1991",
+      "paper_id": "",
+      "title": "The Differentiable Lens: Compound Lens Search Over Glass Surfaces and Materials for Object Detection",
+      "authors": "Geoffroi Côté, Fahim Mannan, Simon Thibault, Jean-François Lalonde, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cote_The_Differentiable_Lens_Compound_Lens_Search_Over_Glass_Surfaces_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1854",
+      "paper_id": "",
+      "title": "Time Lens++: Event-Based Frame Interpolation With Parametric Non-Linear Flow and Multi-Scale Fusion",
+      "authors": "Stepan Tulyakov, Alfredo Bochicchio, Daniel Gehrig, Stamatios Georgoulis, Yuanyou Li, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tulyakov_Time_Lens_Event-Based_Frame_Interpolation_With_Parametric_Non-Linear_Flow_and_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1582",
+      "paper_id": "",
+      "title": "Time Lens: Event-Based Video Frame Interpolation",
+      "authors": "Stepan Tulyakov, Daniel Gehrig, Stamatios Georgoulis, Julius Erbach, Mathias Gehrig, Yuanyou Li, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tulyakov_Time_Lens_Event-Based_Video_Frame_Interpolation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1515",
+      "paper_id": "",
+      "title": "Time-Efficient Light-Field Acquisition Using Coded Aperture and Events",
+      "authors": "Shuji Habuchi, Keita Takahashi, Chihiro Tsutake, Toshiaki Fujii, Hajime Nagahara",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Habuchi_Time-Efficient_Light-Field_Acquisition_Using_Coded_Aperture_and_Events_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_623",
+      "paper_id": "",
+      "title": "TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation",
+      "authors": "Weihua He, Kaichao You, Zhendong Qiao, Xu Jia, Ziyang Zhang, Wenhui Wang, Huchuan Lu, Yaoyuan Wang, Jianxing Liao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/He_TimeReplayer_Unlocking_the_Potential_of_Event_Cameras_for_Video_Interpolation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_200",
+      "paper_id": "",
+      "title": "TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion",
+      "authors": "Haoyue Liu, Jinghan Xu, Yi Chang, Hanyu Zhou, Haozhi Zhao, Lin Wang, Luxin Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_TimeTracker_Event-based_Continuous_Point_Tracking_for_Video_Frame_Interpolation_with_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1551",
+      "paper_id": "",
+      "title": "TINC: Tree-Structured Implicit Neural Compression",
+      "authors": "Runzhao Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_TINC_Tree-Structured_Implicit_Neural_Compression_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1803",
+      "paper_id": "",
+      "title": "Toward RAW Object Detection: A New Benchmark and a New Model",
+      "authors": "Ruikang Xu, Chang Chen, Jingyang Peng, Cheng Li, Yibin Huang, Fenglong Song, Youliang Yan, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Toward_RAW_Object_Detection_A_New_Benchmark_and_a_New_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_721",
+      "paper_id": "",
+      "title": "Towards 3D Vision with Low-Cost Single-Photon Cameras",
+      "authors": "Fangzhou Mu, Carter Sifferman, Sacha Jungerman, Yiquan Li, Mark Han, Michael Gleicher, Mohit Gupta, Yin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mu_Towards_3D_Vision_with_Low-Cost_Single-Photon_Cameras_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_57",
+      "paper_id": "",
+      "title": "Towards HDR and HFR Video from Rolling-Mixed-Bit Spikings",
+      "authors": "Yakun Chang, Yeliduosi Xiaokaiti, Yujia Liu, Bin Fan, Zhaojun Huang, Tiejun Huang, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chang_Towards_HDR_and_HFR_Video_from_Rolling-Mixed-Bit_Spikings_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_268",
+      "paper_id": "",
+      "title": "Towards Lossless Implicit Neural Representation via Bit Plane Decomposition",
+      "authors": "Woo Kyoung Han, Byeonghun Lee, Hyunmin Cho, Sunghoon Im, Kyong Hwan Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Towards_Lossless_Implicit_Neural_Representation_via_Bit_Plane_Decomposition_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1246",
+      "paper_id": "",
+      "title": "Towards Real-World HDR Video Reconstruction: A Large-Scale Benchmark Dataset and A Two-Stage Alignment Network",
+      "authors": "Yong Shu, Liquan Shen, Xiangyu Hu, Mengyao Li, Zihao Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shu_Towards_Real-World_HDR_Video_Reconstruction_A_Large-Scale_Benchmark_Dataset_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_162",
+      "paper_id": "",
+      "title": "Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach",
+      "authors": "Guoqiang Liang, Kanghao Chen, Hangyu Li, Yunfan Lu, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1196",
+      "paper_id": "",
+      "title": "Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes",
+      "authors": "Zhihang Zhong, Yinqiang Zheng, Imari Sato",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Towards_Rolling_Shutter_Correction_and_Deblurring_in_Dynamic_Scenes_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1718",
+      "paper_id": "",
+      "title": "TTA-EVF: Test-Time Adaptation for Event-based Video Frame Interpolation via Reliable Pixel and Sample Estimation",
+      "authors": "Hoonhee Cho, Taewoo Kim, Yuhwan Jeong, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_TTA-EVF_Test-Time_Adaptation_for_Event-based_Video_Frame_Interpolation_via_Reliable_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1550",
+      "paper_id": "",
+      "title": "Tuning IR-Cut Filter for Illumination-Aware Spectral Reconstruction From RGB",
+      "authors": "Bo Sun, Junchi Yan, Xiao Zhou, Yinqiang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Tuning_IR-Cut_Filter_for_Illumination-Aware_Spectral_Reconstruction_From_RGB_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_679",
+      "paper_id": "",
+      "title": "Tuning the Frequencies: Robust Training for Sinusoidal Neural Networks",
+      "authors": "Tiago Novello, Diana Aldana, Andre Araujo, Luiz Velho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Novello_Tuning_the_Frequencies_Robust_Training_for_Sinusoidal_Neural_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2352",
+      "paper_id": "",
+      "title": "TurboSL: Dense Accurate and Fast 3D by Neural Inverse Structured Light",
+      "authors": "Parsa Mirdehghan, Maxx Wu, Wenzheng Chen, David B. Lindell, Kiriakos N. Kutulakos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mirdehghan_TurboSL_Dense_Accurate_and_Fast_3D_by_Neural_Inverse_Structured_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1131",
+      "paper_id": "",
+      "title": "Turning Frequency to Resolution: Video Super-Resolution via Event Cameras",
+      "authors": "Yongcheng Jing, Yiding Yang, Xinchao Wang, Mingli Song, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Turning_Frequency_to_Resolution_Video_Super-Resolution_via_Event_Cameras_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2727",
+      "paper_id": "",
+      "title": "UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion",
+      "authors": "Zixuan Chen, Yujin Wang, Xin Cai, Zhiyuan You, Zheming Lu, Fan Zhang, Shi Guo, Tianfan Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_UltraFusion_Ultra_High_Dynamic_Imaging_using_Exposure_Fusion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2280",
+      "paper_id": "",
+      "title": "Unified Reconstruction of Static and Dynamic Scenes from Events",
+      "authors": "Qiyao Gao, Peiqi Duan, Hanyue Lou, Minggui Teng, Ziqi Cai, Xu Chen, Boxin Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_Unified_Reconstruction_of_Static_and_Dynamic_Scenes_from_Events_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1217",
+      "paper_id": "",
+      "title": "Unifying Motion Deblurring and Frame Interpolation With Events",
+      "authors": "Xiang Zhang, Lei Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Unifying_Motion_Deblurring_and_Frame_Interpolation_With_Events_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2002",
+      "paper_id": "",
+      "title": "USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting",
+      "authors": "Kang Chen, Jiyuan Zhang, Zecheng Hao, Yajing Zheng, Tiejun Huang, Zhaofei Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_USP-Gaussian_Unifying_Spike-based_Image_Reconstruction_Pose_Correction_and_Gaussian_Splatting_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1156",
+      "paper_id": "",
+      "title": "VI^3NR: Variance Informed Initialization for Implicit Neural Representations",
+      "authors": "Chamin Hewa Koneputugodage, Yizhak Ben-Shabat, Sameera Ramasinghe, Stephen Gould",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Koneputugodage_VI3NR_Variance_Informed_Initialization_for_Implicit_Neural_Representations_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2250",
+      "paper_id": "",
+      "title": "Video Frame Interpolation via Direct Synthesis with the Event-based Reference",
+      "authors": "Yuhan Liu, Yongjian Deng, Hao Chen, Zhen Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video_Frame_Interpolation_via_Direct_Synthesis_with_the_Event-based_Reference_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1040",
+      "paper_id": "",
+      "title": "WIRE: Wavelet Implicit Neural Representations",
+      "authors": "Vishwanath Saragadam, Daniel LeJeune, Jasper Tan, Guha Balakrishnan, Ashok Veeraraghavan, Richard G. Baraniuk",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Saragadam_WIRE_Wavelet_Implicit_Neural_Representations_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1238",
+      "paper_id": "",
+      "title": "Zero-Shot Structure-Preserving Diffusion Model for High Dynamic Range Tone Mapping",
+      "authors": "Ruoxi Zhu, Shusong Xu, Peiye Liu, Sicheng Li, Yanheng Lu, Dimin Niu, Zihao Liu, Zihao Meng, Zhiyong Li, Xinhua Chen, Yibo Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Zero-Shot_Structure-Preserving_Diffusion_Model_for_High_Dynamic_Range_Tone_Mapping_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    }
+  ]
+}

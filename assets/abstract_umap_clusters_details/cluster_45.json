@@ -1,0 +1,517 @@
+{
+  "cluster_id": 45,
+  "papers": [
+    {
+      "id": "corl24_lyhS75loxe",
+      "paper_id": "lyhS75loxe",
+      "title": "A3VLM: Actionable Articulation-Aware Vision Language Model",
+      "authors": "Siyuan Huang, Haonan Chang, Yuhan Liu, Yimeng Zhu, Hao Dong, Abdeslam Boularias, Peng Gao, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=lyhS75loxe",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_-HFJuX1uqs",
+      "paper_id": "-HFJuX1uqs",
+      "title": "Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation",
+      "authors": "Theophile Gervet, Zhou Xian, Nikolaos Gkanatsios, Katerina Fragkiadaki",
+      "paper_url": "https://openreview.net/pdf?id=-HFJuX1uqs",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_a0mFRgadGO",
+      "paper_id": "a0mFRgadGO",
+      "title": "Bootstrap Your Own Skills: Learning to Solve New Tasks with Large Language Model Guidance",
+      "authors": "Jesse Zhang, Jiahui Zhang, Karl Pertsch, Ziyi Liu, Xiang Ren, Minsuk Chang, Shao-Hua Sun, Joseph J Lim",
+      "paper_url": "https://openreview.net/pdf?id=a0mFRgadGO",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_9uFiX_HRsIL",
+      "paper_id": "9uFiX_HRsIL",
+      "title": "CLIPort: What and Where Pathways for Robotic Manipulation",
+      "authors": "Mohit Shridhar, Lucas Manuelli, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=9uFiX_HRsIL",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_dXSGw7Cy55",
+      "paper_id": "dXSGw7Cy55",
+      "title": "Contrast Sets for Evaluating Language-Guided Robot Policies",
+      "authors": "Abrar Anwar, Rohan Gupta, Jesse Thomason",
+      "paper_url": "https://openreview.net/pdf?id=dXSGw7Cy55",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_9HkElMlPbU",
+      "paper_id": "9HkElMlPbU",
+      "title": "Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation",
+      "authors": "Teli Ma, Jiaming Zhou, Zifan Wang, Ronghe Qiu, Junwei Liang",
+      "paper_url": "https://openreview.net/pdf?id=9HkElMlPbU",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_91",
+      "paper_id": "91",
+      "title": "Demonstrating OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics",
+      "authors": "Peiqi Liu, Yaswanth Orru, Jay Vakil, Chris Paxton, Nur Muhammad Mahi Shafiullah, Lerrel PintoPeiqi Liu, Yaswanth Orru, Jay Vakil, Chris Paxton, Nur Muhammad Mahi Shafiullah, Lerrel Pinto",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p091.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_94",
+      "paper_id": "94",
+      "title": "DrEureka: Language Model Guided Sim-To-Real Transfer",
+      "authors": "Yecheng Jason Ma, William Liang, Hung-Ju Wang, Yuke Zhu, Linxi Fan, Osbert Bastani, Dinesh JayaramanYecheng Jason Ma, William Liang, Hung-Ju Wang, Yuke Zhu, Linxi Fan, Osbert Bastani, Dinesh Jayaraman",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p094.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_yPJ9A0GWLg0",
+      "paper_id": "yPJ9A0GWLg0",
+      "title": "Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following",
+      "authors": "Mingyu Ding, Yan Xu, Zhenfang Chen, David Daniel Cox, Ping Luo, Joshua B. Tenenbaum, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=yPJ9A0GWLg0",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_30",
+      "paper_id": "30",
+      "title": "Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement",
+      "authors": "Nikolaos Gkanatsios (Carnegie Mellon University)*, Ayush Jain (Carnegie Mellon University), Zhou Xian (Carnegie Mellon University), Yunchu Zhang (Carnegie Mellon University), Christopher G Atkeson (Carnegie Mellon University), Katerina Fragkiadaki (Carnegie Mellon University)Nikolaos Gkanatsios (Carnegie Mellon University)*, Ayush Jain (Carnegie Mellon University), Zhou Xian (Carnegie Mellon University), Yunchu Zhang (Carnegie Mellon University), Christopher G Atkeson (Carnegie Mellon University), Katerina Fragkiadaki (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p030.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_F0rWEID2gb",
+      "paper_id": "F0rWEID2gb",
+      "title": "Environment Curriculum Generation via Large Language Models",
+      "authors": "William Liang, Sam Wang, Hung-Ju Wang, Osbert Bastani, Dinesh Jayaraman, Yecheng Jason Ma",
+      "paper_url": "https://openreview.net/pdf?id=F0rWEID2gb",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_Ffn8Z4Q-zU",
+      "paper_id": "Ffn8Z4Q-zU",
+      "title": "Gesture-Informed Robot Assistance via Foundation Models",
+      "authors": "Li-Heng Lin, Yuchen Cui, Yilun Hao, Fei Xia, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=Ffn8Z4Q-zU",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_0bZaUfELuW",
+      "paper_id": "0bZaUfELuW",
+      "title": "Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control",
+      "authors": "Vivek Myers, Andre Wang He, Kuan Fang, Homer Rich Walke, Philippe Hansen-Estruch, Ching-An Cheng, Mihai Jalobeanu, Andrey Kolobov, Anca Dragan, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=0bZaUfELuW",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_pPhTsonbXq",
+      "paper_id": "pPhTsonbXq",
+      "title": "GraspSplats: Efficient Manipulation with 3D Feature Splatting",
+      "authors": "Mazeyu Ji, Ri-Zhao Qiu, Xueyan Zou, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=pPhTsonbXq",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_-QJ__aPUTN2",
+      "paper_id": "-QJ__aPUTN2",
+      "title": "Guiding Multi-Step Rearrangement Tasks with Natural Language Instructions",
+      "authors": "Elias Stengel-Eskin, Andrew Hundt, Zhuohong He, Aditya Murali, Nakul Gopalan, Matthew Gombolay, Gregory D. Hager",
+      "paper_url": "https://openreview.net/pdf?id=-QJ__aPUTN2",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_wTKJge0PTq",
+      "paper_id": "wTKJge0PTq",
+      "title": "HiRT: Enhancing Robotic Control with Hierarchical  Robot Transformers",
+      "authors": "Jianke Zhang, Yanjiang Guo, Xiaoyu Chen, Yen-Jen Wang, Yucheng Hu, Chengming Shi, Jianyu Chen",
+      "paper_url": "https://openreview.net/pdf?id=wTKJge0PTq",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_h0Yb0U_-Tki",
+      "paper_id": "h0Yb0U_-Tki",
+      "title": "Instruction-driven history-aware policies for robotic manipulations",
+      "authors": "Pierre-Louis Guhur, Shizhe Chen, Ricardo Garcia Pinel, Makarand Tapaswi, Ivan Laptev, Cordelia Schmid",
+      "paper_url": "https://openreview.net/pdf?id=h0Yb0U_-Tki",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_20",
+      "paper_id": "20",
+      "title": "INVIGORATE: Interactive Visual Grounding and Grasping in Clutter",
+      "authors": "Hanbo Zhang (Xi'an Jiaotong University), Yunfan Lu (National University of Singapore), Cunjun Yu (National University of Singapore), David Hsu (National University of Singapore), Xuguang Lan (Xi'an Jiaotong University), Nanning Zheng (Xi'an Jiaotong University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p020.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_veGdf4L4Xz",
+      "paper_id": "veGdf4L4Xz",
+      "title": "KITE: Keypoint-Conditioned Policies for Semantic Manipulation",
+      "authors": "Priya Sundaresan, Suneel Belkhale, Dorsa Sadigh, Jeannette Bohg",
+      "paper_url": "https://openreview.net/pdf?id=veGdf4L4Xz",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_47",
+      "paper_id": "47",
+      "title": "Language Conditioned Imitation Learning Over Unstructured Data",
+      "authors": "Corey Lynch (Google), Pierre Sermanet (Google)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p047.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_k-Fg8JDQmc",
+      "paper_id": "k-Fg8JDQmc",
+      "title": "Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping",
+      "authors": "Adam Rashid, Satvik Sharma, Chung Min Kim, Justin Kerr, Lawrence Yunliang Chen, Angjoo Kanazawa, Ken Goldberg",
+      "paper_url": "https://openreview.net/pdf?id=k-Fg8JDQmc",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_U1GhcnR4jNI",
+      "paper_id": "U1GhcnR4jNI",
+      "title": "Language Grounding with 3D Objects",
+      "authors": "Jesse Thomason, Mohit Shridhar, Yonatan Bisk, Chris Paxton, Luke Zettlemoyer",
+      "paper_url": "https://openreview.net/pdf?id=U1GhcnR4jNI",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_j2AQ-WJ_ze",
+      "paper_id": "j2AQ-WJ_ze",
+      "title": "Language-guided Robot Grasping: CLIP-based Referring Grasp Synthesis in Clutter",
+      "authors": "Georgios Tziafas, Yucheng XU, Arushi Goel, Mohammadreza Kasaei, Zhibin Li, Hamidreza Kasaei",
+      "paper_url": "https://openreview.net/pdf?id=j2AQ-WJ_ze",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_dgQdvPZnH-t",
+      "paper_id": "dgQdvPZnH-t",
+      "title": "LanguageRefer: Spatial-Language Model for 3D Visual Grounding",
+      "authors": "Junha Roh, Karthik Desingh, Ali Farhadi, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=dgQdvPZnH-t",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_tfLu5W6SW5J",
+      "paper_id": "tfLu5W6SW5J",
+      "title": "Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation",
+      "authors": "Suraj Nair, Eric Mitchell, Kevin Chen, brian ichter, Silvio Savarese, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf?id=tfLu5W6SW5J",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_nPw7jaGBrCG",
+      "paper_id": "nPw7jaGBrCG",
+      "title": "Leveraging Language for Accelerated Learning of Tool Manipulation",
+      "authors": "Allen Z. Ren, Bharat Govil, Tsung-Yen Yang, Karthik R Narasimhan, Anirudha Majumdar",
+      "paper_url": "https://openreview.net/pdf?id=nPw7jaGBrCG",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21__lkBGOctkip",
+      "paper_id": "_lkBGOctkip",
+      "title": "LILA: Language-Informed Latent Actions",
+      "authors": "Siddharth Karamcheti, Megha Srivastava, Percy Liang, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=_lkBGOctkip",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_Q2lGXMZCv8",
+      "paper_id": "Q2lGXMZCv8",
+      "title": "LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning",
+      "authors": "Dantong Niu, Yuvan Sharma, Giscard Biamby, Jerome Quenum, Yutong Bai, Baifeng Shi, Trevor Darrell, Roei Herzig",
+      "paper_url": "https://openreview.net/pdf?id=Q2lGXMZCv8",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_6zGpfOBImD",
+      "paper_id": "6zGpfOBImD",
+      "title": "M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place",
+      "authors": "Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=6zGpfOBImD",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_uCaNr6_dQB0",
+      "paper_id": "uCaNr6_dQB0",
+      "title": "Modularity through Attention: Efficient Training and Transfer of Language-Conditioned Policies for Robot Manipulation",
+      "authors": "Yifan Zhou, Shubham Sonawani, Mariano Phielipp, Simon Stepputtis, Heni Amor",
+      "paper_url": "https://openreview.net/pdf?id=uCaNr6_dQB0",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss24_62",
+      "paper_id": "62",
+      "title": "MOKA: Open-World Robotic Manipulation through Mark-Based Visual Prompting",
+      "authors": "Kuan Fang, Fangchen Liu, Pieter Abbeel, Sergey LevineKuan Fang, Fangchen Liu, Pieter Abbeel, Sergey Levine",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p062.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_dUo6j3YURS",
+      "paper_id": "dUo6j3YURS",
+      "title": "MOSAIC: Modular Foundation Models for Assistive and Interactive Cooking",
+      "authors": "Huaxiaoyue Wang, Kushal Kedia, Juntao Ren, Rahma Abdullah, Atiksh Bhardwaj, Angela Chao, Kelly Y Chen, Nathaniel Chin, Prithwish Dan, Xinyi Fan, Gonzalo Gonzalez-Pumariega, Aditya Kompella, Maximus Adrian Pace, Yash Sharma, Xiangwan Sun, Neha Sunkara, Sanjiban Choudhury",
+      "paper_url": "https://openreview.net/pdf?id=dUo6j3YURS",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_WuBv9-IGDUA",
+      "paper_id": "WuBv9-IGDUA",
+      "title": "Multi-Resolution Sensing for Real-Time Control with Vision-Language Models",
+      "authors": "Saumya Saxena, Mohit Sharma, Oliver Kroemer",
+      "paper_url": "https://openreview.net/pdf?id=WuBv9-IGDUA",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_PwqiqaaEzJ",
+      "paper_id": "PwqiqaaEzJ",
+      "title": "MUTEX: Learning Unified Policies from Multimodal Task Specifications",
+      "authors": "Rutav Shah, Roberto Martín-Martín, Yuke Zhu",
+      "paper_url": "https://openreview.net/pdf?id=PwqiqaaEzJ",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_126",
+      "paper_id": "126",
+      "title": "Natural Language Can Help Bridge the Sim2Real Gap",
+      "authors": "Albert Yu, Adeline Foote, Ray Mooney, Roberto Martín-MartínAlbert Yu, Adeline Foote, Ray Mooney, Roberto Martín-Martín",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p126.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_9al6taqfTzr",
+      "paper_id": "9al6taqfTzr",
+      "title": "Open-World Object Manipulation using Pre-Trained Vision-Language Models",
+      "authors": "Austin Stone, Ted Xiao, Yao Lu, Keerthana Gopalakrishnan, Kuang-Huei Lee, Quan Vuong, Paul Wohlhart, Sean Kirmani, Brianna Zitkovich, Fei Xia, Chelsea Finn, Karol Hausman",
+      "paper_url": "https://openreview.net/pdf?id=9al6taqfTzr",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_ZMnD6QZAE6",
+      "paper_id": "ZMnD6QZAE6",
+      "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+      "authors": "Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, Suraj Nair, Rafael Rafailov, Ethan P Foster, Pannag R Sanketi, Quan Vuong, Thomas Kollar, Benjamin Burchfiel, Russ Tedrake, Dorsa Sadigh, Sergey Levine, Percy Liang, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf?id=ZMnD6QZAE6",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_PS_eCS_WCvD",
+      "paper_id": "PS_eCS_WCvD",
+      "title": "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation",
+      "authors": "Mohit Shridhar, Lucas Manuelli, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=PS_eCS_WCvD",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_3jNEz3kUSl",
+      "paper_id": "3jNEz3kUSl",
+      "title": "PointPatchRL - Masked Reconstruction Improves Reinforcement Learning on Point Clouds",
+      "authors": "Balazs Gyenes, Nikolai Franke, Philipp Becker, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf?id=3jNEz3kUSl",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_efaE7iJ2GJv",
+      "paper_id": "efaE7iJ2GJv",
+      "title": "PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation",
+      "authors": "Shizhe Chen, Ricardo Garcia Pinel, Cordelia Schmid, Ivan Laptev",
+      "paper_url": "https://openreview.net/pdf?id=efaE7iJ2GJv",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_qUSa3F79am",
+      "paper_id": "qUSa3F79am",
+      "title": "Policy Adaptation via Language Optimization: Decomposing Tasks for Few-Shot Imitation",
+      "authors": "Vivek Myers, Chunyuan Zheng, Oier Mees, Kuan Fang, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=qUSa3F79am",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_KdVLK0Wo5z",
+      "paper_id": "KdVLK0Wo5z",
+      "title": "PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators",
+      "authors": "Kuo-Hao Zeng, Zichen Zhang, Kiana Ehsani, Rose Hendrix, Jordi Salvador, Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs",
+      "paper_url": "https://openreview.net/pdf?id=KdVLK0Wo5z",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_KPcX4jetMw",
+      "paper_id": "KPcX4jetMw",
+      "title": "Reasoning Grasping via Multimodal Large Language Model",
+      "authors": "Shiyu Jin, JINXUAN XU, Yutian Lei, Liangjun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=KPcX4jetMw",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_GVX6jpZOhU",
+      "paper_id": "GVX6jpZOhU",
+      "title": "RoboPoint: A Vision-Language Model for Spatial Affordance Prediction in Robotics",
+      "authors": "Wentao Yuan, Jiafei Duan, Valts Blukis, Wilbert Pumacay, Ranjay Krishna, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=GVX6jpZOhU",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_3gh9hf3R6x",
+      "paper_id": "3gh9hf3R6x",
+      "title": "Robot Learning with Sensorimotor Pre-training",
+      "authors": "Ilija Radosavovic, Baifeng Shi, Letian Fu, Ken Goldberg, Trevor Darrell, Jitendra Malik",
+      "paper_url": "https://openreview.net/pdf?id=3gh9hf3R6x",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_S70MgnIA0v",
+      "paper_id": "S70MgnIA0v",
+      "title": "Robotic Control via Embodied Chain-of-Thought Reasoning",
+      "authors": "Michał Zawalski, William Chen, Karl Pertsch, Oier Mees, Chelsea Finn, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=S70MgnIA0v",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_29",
+      "paper_id": "29",
+      "title": "Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models",
+      "authors": "Ted Xiao (Google Inc)*, Harris Chan (University of Toronto), Pierre Sermanet (Google Inc), Ayzaan Wahid (Google Inc), Anthony Brohan (Google Research), Karol Hausman (Google Brain), Sergey Levine (Google Inc), Jonathan Tompson (Google Inc)Ted Xiao (Google Inc)*, Harris Chan (University of Toronto), Pierre Sermanet (Google Inc), Ayzaan Wahid (Google Inc), Anthony Brohan (Google Research), Karol Hausman (Google Brain), Sergey Levine (Google Inc), Jonathan Tompson (Google Inc)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p029.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_XMQgwiJ7KSX",
+      "paper_id": "XMQgwiJ7KSX",
+      "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+      "authors": "Brianna Zitkovich, Tianhe Yu, Sichun Xu, Peng Xu, Ted Xiao, Fei Xia, Jialin Wu, Paul Wohlhart, Stefan Welker, Ayzaan Wahid, Quan Vuong, Vincent Vanhoucke, Huong Tran, Radu Soricut, Anikait Singh, Jaspiar Singh, Pierre Sermanet, Pannag R Sanketi, Grecia Salazar, Michael S Ryoo, Krista Reymann, Kanishka Rao, Karl Pertsch, Igor Mordatch, Henryk Michalewski, Yao Lu, Sergey Levine, Lisa Lee, Tsang-Wei Edward Lee, Isabel Leal, Yuheng Kuang, Dmitry Kalashnikov, Ryan Julian, Nikhil J Joshi, Alex Irpan, brian ichter, Jasmine Hsu, Alexander Herzog, Karol Hausman, Keerthana Gopalakrishnan, Chuyuan Fu, Pete Florence, Chelsea Finn, Kumar Avinava Dubey, Danny Driess, Tianli Ding, Krzysztof Marcin Choromanski, Xi Chen, Yevgen Chebotar, Justice Carbajal, Noah Brown, Anthony Brohan, Montserrat Gonzalez Arenas, Kehang Han",
+      "paper_url": "https://openreview.net/pdf?id=XMQgwiJ7KSX",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_49",
+      "paper_id": "49",
+      "title": "RT-H: Action Hierarchies using Language",
+      "authors": "Suneel Belkhale, Tianli Ding, Ted Xiao, Pierre Sermanet, Quan Vuong, Jonathan Tompson, Yevgen Chebotar, Debidatta Dwibedi, Dorsa SadighSuneel Belkhale, Tianli Ding, Ted Xiao, Pierre Sermanet, Quan Vuong, Jonathan Tompson, Yevgen Chebotar, Debidatta Dwibedi, Dorsa Sadigh",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p049.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_ty1cqzTtUv",
+      "paper_id": "ty1cqzTtUv",
+      "title": "RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches",
+      "authors": "Priya Sundaresan, Quan Vuong, Jiayuan Gu, Peng Xu, Ted Xiao, Sean Kirmani, Tianhe Yu, Michael Stark, Ajinkya Jain, Karol Hausman, Dorsa Sadigh, Jeannette Bohg, Stefan Schaal",
+      "paper_url": "https://openreview.net/pdf?id=ty1cqzTtUv",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_55",
+      "paper_id": "55",
+      "title": "RVT-2: Learning Precise Manipulation from Few Demonstrations",
+      "authors": "Ankit Goyal, Valts Blukis, Jie Xu, Yijie Guo, Yu-Wei Chao, Dieter FoxAnkit Goyal, Valts Blukis, Jie Xu, Yijie Guo, Yu-Wei Chao, Dieter Fox",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p055.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_0hPkttoGAf",
+      "paper_id": "0hPkttoGAf",
+      "title": "RVT: Robotic View Transformer for 3D Object Manipulation",
+      "authors": "Ankit Goyal, Jie Xu, Yijie Guo, Valts Blukis, Yu-Wei Chao, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=0hPkttoGAf",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_16",
+      "paper_id": "16",
+      "title": "SAGE: Bridging Semantic and Actionable Parts for GEneralizable Articulated-Object Manipulation under Language Instructions",
+      "authors": "Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas GuibasHaoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p016.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_Yw5QGNBkEN",
+      "paper_id": "Yw5QGNBkEN",
+      "title": "Scaling Manipulation Learning with Visual Kinematic Chain Prediction",
+      "authors": "Xinyu Zhang, Yuhan Liu, Haonan Chang, Abdeslam Boularias",
+      "paper_url": "https://openreview.net/pdf?id=Yw5QGNBkEN",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_EdVNB2kHv1",
+      "paper_id": "EdVNB2kHv1",
+      "title": "Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models",
+      "authors": "Nils Blank, Moritz Reuss, Marcel Rühle, Ömer Erdinç Yağmurlu, Fabian Wenzel, Oier Mees, Rudolf Lioutikov",
+      "paper_url": "https://openreview.net/pdf?id=EdVNB2kHv1",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_3uwj8QZROL",
+      "paper_id": "3uwj8QZROL",
+      "title": "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition",
+      "authors": "Huy Ha, Pete Florence, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=3uwj8QZROL",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_lV-rNbXVSaO",
+      "paper_id": "lV-rNbXVSaO",
+      "title": "Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models",
+      "authors": "Huy Ha, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=lV-rNbXVSaO",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_7Pkzm2FgUmq",
+      "paper_id": "7Pkzm2FgUmq",
+      "title": "SLAP: Spatial-Language Attention Policies",
+      "authors": "Priyam Parashar, Vidhi Jain, Xiaohan Zhang, Jay Vakil, Sam Powers, Yonatan Bisk, Chris Paxton",
+      "paper_url": "https://openreview.net/pdf?id=7Pkzm2FgUmq",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_QtCtY8zl2T",
+      "paper_id": "QtCtY8zl2T",
+      "title": "Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations",
+      "authors": "Miyu Goko, Motonari Kambara, Daichi Saito, Seitaro Otsuki, Komei Sugiura",
+      "paper_url": "https://openreview.net/pdf?id=QtCtY8zl2T",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_MsCbbIqHRA",
+      "paper_id": "MsCbbIqHRA",
+      "title": "ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter",
+      "authors": "Yaoyao Qian, Xupeng Zhu, Ondrej Biza, Shuo Jiang, Linfeng Zhao, Haojie Huang, Yu Qi, Robert Platt",
+      "paper_url": "https://openreview.net/pdf?id=MsCbbIqHRA",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_QUzwHYJ9Hf",
+      "paper_id": "QUzwHYJ9Hf",
+      "title": "Towards Open-World Grasping with Large Vision-Language Models",
+      "authors": "Georgios Tziafas, Hamidreza Kasaei",
+      "paper_url": "https://openreview.net/pdf?id=QUzwHYJ9Hf",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_Eal_lL08v_l",
+      "paper_id": "Eal_lL08v_l",
+      "title": "Transformers Are Adaptable Task Planners",
+      "authors": "Vidhi Jain, Yixin Lin, Eric Undersander, Yonatan Bisk, Akshara Rai",
+      "paper_url": "https://openreview.net/pdf?id=Eal_lL08v_l",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_IcOrwlXzMi",
+      "paper_id": "IcOrwlXzMi",
+      "title": "VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding",
+      "authors": "Runsen Xu, Zhiwei Huang, Tai Wang, Yilun Chen, Jiangmiao Pang, Dahua Lin",
+      "paper_url": "https://openreview.net/pdf?id=IcOrwlXzMi",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_106",
+      "paper_id": "106",
+      "title": "VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation",
+      "authors": "Wentao Zhao, Jiaming Chen, Ziyu Meng, DonghuiMao, Ran Song, Wei ZhangWentao Zhao, Jiaming Chen, Ziyu Meng, DonghuiMao, Ran Song, Wei Zhang",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p106.pdf",
+      "venue": "rss24"
+    }
+  ]
+}

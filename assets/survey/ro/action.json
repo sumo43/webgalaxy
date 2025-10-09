@@ -1,0 +1,71 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Continuous Low-Level Actuation",
+        "subcategories": [
+          {
+            "id": "1.1",
+            "name": "Joint-space commands",
+            "what_is_covered": "Direct numerical inputs to individual joints or actuators, bounded by hardware limits.",
+            "typical_examples": "joint torques/positions/velocities; high-dimensional joint commands; bounded control inputs; finger-joint configs; parametrised joint trajectories",
+            "cluster": "0, 4, 6, 10, 12, 14, 18"
+          },
+          {
+            "id": "1.2",
+            "name": "Vehicle / body dynamics commands",
+            "what_is_covered": "Low-level controls that change a mobile base, ground-vehicle or aerial body state.",
+            "typical_examples": "steering angle; throttle / acceleration; braking; linear & angular velocity; body-rate thrust; speed/direction for locomotion; lane-keeping",
+            "cluster": "0, 1, 7, 10, 12, 13, 15"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Mid-Level Pose & Trajectory Control",
+        "subcategories": [
+          {
+            "id": "2.1",
+            "name": "End-effector & gripper pose",
+            "what_is_covered": "6-DoF goals and time-parameterised trajectories for arms, grippers or aerial manipulators.",
+            "typical_examples": "continuous 6-DoF poses; pose deltas (Δx, Δy, Δz, Δroll, Δpitch, Δyaw); gripper open/close; gripper width/force; grasp trajectories",
+            "cluster": "2, 6, 9, 10, 12, 14, 18"
+          },
+          {
+            "id": "2.2",
+            "name": "Base / waypoint trajectories",
+            "what_is_covered": "Desired paths, way-points or velocity profiles for the robot body or ego vehicle.",
+            "typical_examples": "waypoint/path-goal selection; future trajectory sequences; base linear & angular velocity commands; lane-change/merge trajectories",
+            "cluster": "0, 1, 7, 10, 15, 19"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "High-Level Discrete Skills & Behaviour Primitives",
+        "subcategories": [
+          {
+            "id": "3.1",
+            "name": "Manipulation skills",
+            "what_is_covered": "Object-centred primitives that parameterise targets, forces or object states.",
+            "typical_examples": "grasp/pick; place/drop; push/pull; rotate/open/close; part deformation",
+            "cluster": "0, 10, 18, 19"
+          },
+          {
+            "id": "3.2",
+            "name": "Locomotion & navigation skills",
+            "what_is_covered": "Discrete moves or gait switches for repositioning the whole robot.",
+            "typical_examples": "move_forward/stop; turn_left/turn_right; gait switch; lane keeping/change; overtaking/merging; \"go to X\"",
+            "cluster": "0, 1, 10, 15, 19"
+          },
+          {
+            "id": "3.3",
+            "name": "Interaction & instruction skills",
+            "what_is_covered": "Multimodal actions expressed through gesture, speech or scene edits.",
+            "typical_examples": "gesture actions; speech actions; instructional guidance; scene editing commands",
+            "cluster": "0"
+          }
+        ]
+      }
+    ]
+  }

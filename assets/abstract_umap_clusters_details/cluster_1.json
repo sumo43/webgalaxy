@@ -1,0 +1,2077 @@
+{
+  "cluster_id": 1,
+  "papers": [
+    {
+      "id": "cvpr23_1729",
+      "paper_id": "",
+      "title": "A-La-Carte Prompt Tuning (APT): Combining Distinct Data via Composable Prompting",
+      "authors": "Benjamin Bowman, Alessandro Achille, Luca Zancato, Matthew Trager, Pramuditha Perera, Giovanni Paolini, Stefano Soatto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bowman_A-La-Carte_Prompt_Tuning_APT_Combining_Distinct_Data_via_Composable_Prompting_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_223",
+      "paper_id": "",
+      "title": "Accurate Few-Shot Object Detection With Support-Query Mutual Guidance and Hybrid Loss",
+      "authors": "Lu Zhang, Shuigeng Zhou, Jihong Guan, Ji Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Accurate_Few-Shot_Object_Detection_With_Support-Query_Mutual_Guidance_and_Hybrid_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_24",
+      "paper_id": "",
+      "title": "Achieving a Better Stability-Plasticity Trade-Off via Auxiliary Networks in Continual Learning",
+      "authors": "Sanghwan Kim, Lorenzo Noci, Antonio Orvieto, Thomas Hofmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Achieving_a_Better_Stability-Plasticity_Trade-Off_via_Auxiliary_Networks_in_Continual_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2103",
+      "paper_id": "",
+      "title": "Activating Sparse Part Concepts for 3D Class Incremental Learning",
+      "authors": "Zhenya Tian, Jun Xiao, Lupeng Liu, Haiyong Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_Activating_Sparse_Part_Concepts_for_3D_Class_Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1975",
+      "paper_id": "",
+      "title": "Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning",
+      "authors": "Takuma Fukuda, Hiroshi Kera, Kazuhiko Kawamoto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fukuda_Adapter_Merging_with_Centroid_Prototype_Mapping_for_Scalable_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1361",
+      "paper_id": "",
+      "title": "Adaptive Aggregation Networks for Class-Incremental Learning",
+      "authors": "Yaoyao Liu, Bernt Schiele, Qianru Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Aggregation_Networks_for_Class-Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1568",
+      "paper_id": "",
+      "title": "Adaptive Image Transformer for One-Shot Object Detection",
+      "authors": "Ding-Jie Chen, He-Yen Hsieh, Tyng-Luh Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_350",
+      "paper_id": "",
+      "title": "Adaptive Plasticity Improvement for Continual Learning",
+      "authors": "Yan-Shuo Liang, Wu-Jun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liang_Adaptive_Plasticity_Improvement_for_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_605",
+      "paper_id": "",
+      "title": "Adversarially Robust Few-shot Learning via Parameter Co-distillation of Similarity and Class Concept Learners",
+      "authors": "Junhao Dong, Piotr Koniusz, Junxi Chen, Xiaohua Xie, Yew-Soon Ong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_Adversarially_Robust_Few-shot_Learning_via_Parameter_Co-distillation_of_Similarity_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_65",
+      "paper_id": "",
+      "title": "Annealing-Based Label-Transfer Learning for Open World Object Detection",
+      "authors": "Yuqing Ma, Hainan Li, Zhange Zhang, Jinyang Guo, Shanghang Zhang, Ruihao Gong, Xianglong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Annealing-Based_Label-Transfer_Learning_for_Open_World_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1206",
+      "paper_id": "",
+      "title": "Attraction Diminishing and Distributing for Few-Shot Class-Incremental Learning",
+      "authors": "Li-Jun Zhao, Zhen-Duo Chen, Yongxin Wang, Xin Luo, Xin-Shun Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Attraction_Diminishing_and_Distributing_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_531",
+      "paper_id": "",
+      "title": "AttriCLIP: A Non-Incremental Learner for Incremental Knowledge Learning",
+      "authors": "Runqi Wang, Xiaoyue Duan, Guoliang Kang, Jianzhuang Liu, Shaohui Lin, Songcen Xu, Jinhu Lü, Baochang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_AttriCLIP_A_Non-Incremental_Learner_for_Incremental_Knowledge_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1654",
+      "paper_id": "",
+      "title": "AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning",
+      "authors": "Kaixuan Wu, Xinde Li, Xinling Li, Chuanfei Hu, Guoliang Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_AVQACL_A_Novel_Benchmark_for_Audio-Visual_Question_Answering_Continual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_33",
+      "paper_id": "",
+      "title": "Balanced and Hierarchical Relation Learning for One-Shot Object Detection",
+      "authors": "Hanqing Yang, Sijia Cai, Hualian Sheng, Bing Deng, Jianqiang Huang, Xian-Sheng Hua, Yong Tang, Yu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Balanced_and_Hierarchical_Relation_Learning_for_One-Shot_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1205",
+      "paper_id": "",
+      "title": "Batch Model Consolidation: A Multi-Task Model Consolidation Framework",
+      "authors": "Iordanis Fostiropoulos, Jiaye Zhu, Laurent Itti",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fostiropoulos_Batch_Model_Consolidation_A_Multi-Task_Model_Consolidation_Framework_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1778",
+      "paper_id": "",
+      "title": "Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation",
+      "authors": "Hongmei Yin, Tingliang Feng, Fan Lyu, Fanhua Shang, Hongying Liu, Wei Feng, Liang Wan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_Beyond_Background_Shift_Rethinking_Instance_Replay_in_Continual_Semantic_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1523",
+      "paper_id": "",
+      "title": "Beyond Max-Margin: Class Margin Equilibrium for Few-Shot Object Detection",
+      "authors": "Bohao Li, Boyu Yang, Chang Liu, Feng Liu, Rongrong Ji, Qixiang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1643",
+      "paper_id": "",
+      "title": "Bi-Level Meta-Learning for Few-Shot Domain Generalization",
+      "authors": "Xiaorong Qin, Xinhang Song, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Bi-Level_Meta-Learning_for_Few-Shot_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_165",
+      "paper_id": "",
+      "title": "Bilateral Memory Consolidation for Continual Learning",
+      "authors": "Xing Nie, Shixiong Xu, Xiyan Liu, Gaofeng Meng, Chunlei Huo, Shiming Xiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nie_Bilateral_Memory_Consolidation_for_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2030",
+      "paper_id": "",
+      "title": "BiLoRA: Almost-Orthogonal Parameter Spaces for Continual Learning",
+      "authors": "Hao Zhu, Yifei Zhang, Junhao Dong, Piotr Koniusz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_BiLoRA_Almost-Orthogonal_Parameter_Spaces_for_Continual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1623",
+      "paper_id": "",
+      "title": "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters",
+      "authors": "Jiazuo Yu, Yunzhi Zhuge, Lu Zhang, Ping Hu, Dong Wang, Huchuan Lu, You He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Boosting_Continual_Learning_of_Vision-Language_Models_via_Mixture-of-Experts_Adapters_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2369",
+      "paper_id": "",
+      "title": "Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need",
+      "authors": "Qiang Wang, Xiang Song, Yuhang He, Jizhou Han, Chenhao Ding, Xinyuan Gao, Yihong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Boosting_Domain_Incremental_Learning_Selecting_the_Optimal_Parameters_is_All_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1841",
+      "paper_id": "",
+      "title": "Boosting Transductive Few-Shot Fine-Tuning With Margin-Based Uncertainty Weighting and Probability Regularization",
+      "authors": "Ran Tao, Hao Chen, Marios Savvides",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_Boosting_Transductive_Few-Shot_Fine-Tuning_With_Margin-Based_Uncertainty_Weighting_and_Probability_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2673",
+      "paper_id": "",
+      "title": "BrainWash: A Poisoning Attack to Forget in Continual Learning",
+      "authors": "Ali Abbasi, Parsa Nooralinejad, Hamed Pirsiavash, Soheil Kolouri",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Abbasi_BrainWash_A_Poisoning_Attack_to_Forget_in_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_982",
+      "paper_id": "",
+      "title": "Bring Evanescent Representations to Life in Lifelong Class Incremental Learning",
+      "authors": "Marco Toldo, Mete Ozay",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Toldo_Bring_Evanescent_Representations_to_Life_in_Lifelong_Class_Incremental_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_474",
+      "paper_id": "",
+      "title": "CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification",
+      "authors": "Philip Chikontwe, Soopil Kim, Sang Hyun Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chikontwe_CAD_Co-Adapting_Discriminative_Features_for_Improved_Few-Shot_Classification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1728",
+      "paper_id": "",
+      "title": "CafeBoost: Causal Feature Boost To Eliminate Task-Induced Bias for Class Incremental Learning",
+      "authors": "Benliu Qiu, Hongliang Li, Haitao Wen, Heqian Qiu, Lanxiao Wang, Fanman Meng, Qingbo Wu, Lili Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qiu_CafeBoost_Causal_Feature_Boost_To_Eliminate_Task-Induced_Bias_for_Class_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1086",
+      "paper_id": "",
+      "title": "CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection",
+      "authors": "Shuailei Ma, Yuefeng Wang, Ying Wei, Jiaqi Fan, Thomas H. Li, Hongli Liu, Fanbing Lv",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_CAT_LoCalization_and_IdentificAtion_Cascade_Detection_Transformer_for_Open-World_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2214",
+      "paper_id": "",
+      "title": "CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning",
+      "authors": "Jiangpeng He, Zhihao Duan, Fengqing Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/He_CL-LoRA_Continual_Low-Rank_Adaptation_for_Rehearsal-Free_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2241",
+      "paper_id": "",
+      "title": "CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering",
+      "authors": "Tianyu Huai, Jie Zhou, Xingjiao Wu, Qin Chen, Qingchun Bai, Ze Zhou, Liang He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huai_CL-MoE_Enhancing_Multimodal_Large_Language_Model_with_Dual_Momentum_Mixture-of-Experts_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1555",
+      "paper_id": "",
+      "title": "Class Incremental Learning with Multi-Teacher Distillation",
+      "authors": "Haitao Wen, Lili Pan, Yu Dai, Heqian Qiu, Lanxiao Wang, Qingbo Wu, Hongliang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_Class_Incremental_Learning_with_Multi-Teacher_Distillation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1648",
+      "paper_id": "",
+      "title": "Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation",
+      "authors": "Minh Hieu Phan, The-Anh Ta, Son Lam Phung, Long Tran-Thanh, Abdesselam Bouzerdoum",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_158",
+      "paper_id": "",
+      "title": "Class-Incremental Exemplar Compression for Class-Incremental Learning",
+      "authors": "Zilin Luo, Yaoyao Liu, Bernt Schiele, Qianru Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Class-Incremental_Exemplar_Compression_for_Class-Incremental_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_890",
+      "paper_id": "",
+      "title": "Class-Incremental Learning by Knowledge Distillation With Adaptive Feature Consolidation",
+      "authors": "Minsoo Kang, Jaeyoo Park, Bohyung Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Class-Incremental_Learning_by_Knowledge_Distillation_With_Adaptive_Feature_Consolidation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_186",
+      "paper_id": "",
+      "title": "Class-Incremental Learning With Strong Pre-Trained Models",
+      "authors": "Tz-Ying Wu, Gurumurthy Swaminathan, Zhizhong Li, Avinash Ravichandran, Nuno Vasconcelos, Rahul Bhotika, Stefano Soatto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Class-Incremental_Learning_With_Strong_Pre-Trained_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_851",
+      "paper_id": "",
+      "title": "CODA-Prompt: COntinual Decomposed Attention-Based Prompting for Rehearsal-Free Continual Learning",
+      "authors": "James Seale Smith, Leonid Karlinsky, Vyshnavi Gutta, Paola Cascante-Bonilla, Donghyun Kim, Assaf Arbelle, Rameswar Panda, Rogerio Feris, Zsolt Kira",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_CODA-Prompt_COntinual_Decomposed_Attention-Based_Prompting_for_Rehearsal-Free_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_67",
+      "paper_id": "",
+      "title": "Coherent Temporal Synthesis for Incremental Action Segmentation",
+      "authors": "Guodong Ding, Hans Golong, Angela Yao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Coherent_Temporal_Synthesis_for_Incremental_Action_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1009",
+      "paper_id": "",
+      "title": "CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation",
+      "authors": "Kai Fang, Anqi Zhang, Guangyu Gao, Jianbo Jiao, Chi Harold Liu, Yunchao Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_CoMBO_Conflict_Mitigation_via_Branched_Optimization_for_Class_Incremental_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1536",
+      "paper_id": "",
+      "title": "CoMFormer: Continual Learning in Semantic and Panoptic Segmentation",
+      "authors": "Fabio Cermelli, Matthieu Cord, Arthur Douillard",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cermelli_CoMFormer_Continual_Learning_in_Semantic_and_Panoptic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1750",
+      "paper_id": "",
+      "title": "Computationally Budgeted Continual Learning: What Does Matter?",
+      "authors": "Ameya Prabhu, Hasan Abed Al Kader Hammoud, Puneet K. Dokania, Philip H.S. Torr, Ser-Nam Lim, Bernard Ghanem, Adel Bibi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Prabhu_Computationally_Budgeted_Continual_Learning_What_Does_Matter_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1437",
+      "paper_id": "",
+      "title": "Consistent Prompting for Rehearsal-Free Continual Learning",
+      "authors": "Zhanxin Gao, Jun Cen, Xiaobin Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Consistent_Prompting_for_Rehearsal-Free_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1184",
+      "paper_id": "",
+      "title": "Constrained Few-Shot Class-Incremental Learning",
+      "authors": "Michael Hersche, Geethan Karunaratne, Giovanni Cherubini, Luca Benini, Abu Sebastian, Abbas Rahimi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hersche_Constrained_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2278",
+      "paper_id": "",
+      "title": "ConStruct-VL: Data-Free Continual Structured VL Concepts Learning",
+      "authors": "James Seale Smith, Paola Cascante-Bonilla, Assaf Arbelle, Donghyun Kim, Rameswar Panda, David Cox, Diyi Yang, Zsolt Kira, Rogerio Feris, Leonid Karlinsky",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_ConStruct-VL_Data-Free_Continual_Structured_VL_Concepts_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_121",
+      "paper_id": "",
+      "title": "Continual Adaptation of Visual Representations via Domain Randomization and Meta-Learning",
+      "authors": "Riccardo Volpi, Diane Larlus, Gregory Rogez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Volpi_Continual_Adaptation_of_Visual_Representations_via_Domain_Randomization_and_Meta-Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1693",
+      "paper_id": "",
+      "title": "Continual Detection Transformer for Incremental Object Detection",
+      "authors": "Yaoyao Liu, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Continual_Detection_Transformer_for_Incremental_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1194",
+      "paper_id": "",
+      "title": "Continual Learning for Visual Search With Backward Consistent Feature Embedding",
+      "authors": "Timmy S. T. Wan, Jun-Cheng Chen, Tzer-Yi Wu, Chu-Song Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wan_Continual_Learning_for_Visual_Search_With_Backward_Consistent_Feature_Embedding_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1052",
+      "paper_id": "",
+      "title": "Continual Learning via Bit-Level Information Preserving",
+      "authors": "Yujun Shi, Li Yuan, Yunpeng Chen, Jiashi Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Continual_Learning_via_Bit-Level_Information_Preserving_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1967",
+      "paper_id": "",
+      "title": "Continual Learning With Lifelong Vision Transformer",
+      "authors": "Zhen Wang, Liu Liu, Yiqun Duan, Yajing Kong, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Learning_With_Lifelong_Vision_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_13",
+      "paper_id": "",
+      "title": "Continual Object Detection via Prototypical Task Correlation Guided Gating Mechanism",
+      "authors": "Binbin Yang, Xinchi Deng, Han Shi, Changlin Li, Gengwei Zhang, Hang Xu, Shen Zhao, Liang Lin, Xiaodan Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Continual_Object_Detection_via_Prototypical_Task_Correlation_Guided_Gating_Mechanism_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1439",
+      "paper_id": "",
+      "title": "Continual Predictive Learning From Videos",
+      "authors": "Geng Chen, Wendong Zhang, Han Lu, Siyu Gao, Yunbo Wang, Mingsheng Long, Xiaokang Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Continual_Predictive_Learning_From_Videos_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1949",
+      "paper_id": "",
+      "title": "Continual Segmentation with Disentangled Objectness Learning and Class Recognition",
+      "authors": "Yizheng Gong, Siyue Yu, Xiaoyang Wang, Jimin Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_276",
+      "paper_id": "",
+      "title": "Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations",
+      "authors": "Umberto Michieli, Pietro Zanuttigh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Michieli_Continual_Semantic_Segmentation_via_Repulsion-Attraction_of_Sparse_and_Disentangled_Latent_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_66",
+      "paper_id": "",
+      "title": "Continual Semantic Segmentation With Automatic Memory Sample Selection",
+      "authors": "Lanyun Zhu, Tianrun Chen, Jianxiong Yin, Simon See, Jun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Continual_Semantic_Segmentation_With_Automatic_Memory_Sample_Selection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_286",
+      "paper_id": "",
+      "title": "Convolutional Prompting meets Language Models for Continual Learning",
+      "authors": "Anurag Roy, Riddhiman Moulick, Vinay K. Verma, Saptarshi Ghosh, Abir Das",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Roy_Convolutional_Prompting_meets_Language_Models_for_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1294",
+      "paper_id": "",
+      "title": "Cross-Domain Few-Shot Learning With Task-Specific Adapters",
+      "authors": "Wei-Hong Li, Xialei Liu, Hakan Bilen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Few-Shot_Learning_With_Task-Specific_Adapters_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_699",
+      "paper_id": "",
+      "title": "Cross-Iteration Batch Normalization",
+      "authors": "Zhuliang Yao, Yue Cao, Shuxin Zheng, Gao Huang, Stephen Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_Cross-Iteration_Batch_Normalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1712",
+      "paper_id": "",
+      "title": "Dealing With Cross-Task Class Discrimination in Online Continual Learning",
+      "authors": "Yiduo Guo, Bing Liu, Dongyan Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Dealing_With_Cross-Task_Class_Discrimination_in_Online_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1944",
+      "paper_id": "",
+      "title": "Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning",
+      "authors": "Wenju Sun, Qingyong Li, Jing Zhang, Wen Wang, Yangli-ao Geng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Decoupling_Learning_and_Remembering_A_Bilevel_Memory_Framework_With_Knowledge_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1297",
+      "paper_id": "",
+      "title": "Delving Into the Estimation Shift of Batch Normalization in a Network",
+      "authors": "Lei Huang, Yi Zhou, Tian Wang, Jie Luo, Xianglong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Delving_Into_the_Estimation_Shift_of_Batch_Normalization_in_a_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1583",
+      "paper_id": "",
+      "title": "Dense Network Expansion for Class Incremental Learning",
+      "authors": "Zhiyuan Hu, Yunsheng Li, Jiancheng Lyu, Dashan Gao, Nuno Vasconcelos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Dense_Network_Expansion_for_Class_Incremental_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1044",
+      "paper_id": "",
+      "title": "Dense Relation Distillation With Context-Aware Aggregation for Few-Shot Object Detection",
+      "authors": "Hanzhe Hu, Shuai Bai, Aoxue Li, Jinshi Cui, Liwei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Dense_Relation_Distillation_With_Context-Aware_Aggregation_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1285",
+      "paper_id": "",
+      "title": "DER: Dynamically Expandable Representation for Class Incremental Learning",
+      "authors": "Shipeng Yan, Jiangwei Xie, Xuming He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_DER_Dynamically_Expandable_Representation_for_Class_Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1407",
+      "paper_id": "",
+      "title": "Detecting Open World Objects via Partial Attribute Assignment",
+      "authors": "Muli Yang, Gabriel James Goenawan, Huaiyuan Qin, Kai Han, Xi Peng, Yanhua Yang, Hongyuan Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Detecting_Open_World_Objects_via_Partial_Attribute_Assignment_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1131",
+      "paper_id": "",
+      "title": "DiGeo: Discriminative Geometry-Aware Learning for Generalized Few-Shot Object Detection",
+      "authors": "Jiawei Ma, Yulei Niu, Jincheng Xu, Shiyuan Huang, Guangxing Han, Shih-Fu Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_DiGeo_Discriminative_Geometry-Aware_Learning_for_Generalized_Few-Shot_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1819",
+      "paper_id": "",
+      "title": "Discriminating Known From Unknown Objects via Structure-Enhanced Recurrent Variational AutoEncoder",
+      "authors": "Aming Wu, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Discriminating_Known_From_Unknown_Objects_via_Structure-Enhanced_Recurrent_Variational_AutoEncoder_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2173",
+      "paper_id": "",
+      "title": "Discriminative Sample-Guided and Parameter-Efficient Feature Space Adaptation for Cross-Domain Few-Shot Learning",
+      "authors": "Rashindrie Perera, Saman Halgamuge",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Perera_Discriminative_Sample-Guided_and_Parameter-Efficient_Feature_Space_Adaptation_for_Cross-Domain_Few-Shot_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_324",
+      "paper_id": "",
+      "title": "Distilling Causal Effect of Data in Class-Incremental Learning",
+      "authors": "Xinting Hu, Kaihua Tang, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Distilling_Causal_Effect_of_Data_in_Class-Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1438",
+      "paper_id": "",
+      "title": "DKT: Diverse Knowledge Transfer Transformer for Class Incremental Learning",
+      "authors": "Xinyuan Gao, Yuhang He, Songlin Dong, Jie Cheng, Xing Wei, Yihong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_DKT_Diverse_Knowledge_Transfer_Transformer_for_Class_Incremental_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_438",
+      "paper_id": "",
+      "title": "Do Your Best and Get Enough Rest for Continual Learning",
+      "authors": "Hankyul Kang, Gregor Seifer, Donghyun Lee, Jongbin Ryu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kang_Do_Your_Best_and_Get_Enough_Rest_for_Continual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_154",
+      "paper_id": "",
+      "title": "Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches",
+      "authors": "Ayan Kumar Bhunia, Viswanatha Reddy Gajjala, Subhadeep Koley, Rohit Kundu, Aneeshan Sain, Tao Xiang, Yi-Zhe Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_548",
+      "paper_id": "",
+      "title": "Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning",
+      "authors": "Da-Wei Zhou, Zi-Wen Cai, Han-Jia Ye, Lijun Zhang, De-Chuan Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Dual_Consolidation_for_Pre-Trained_Model-Based_Domain-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_376",
+      "paper_id": "",
+      "title": "Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning",
+      "authors": "Zihuan Qiu, Yi Xu, Fanman Meng, Hongliang Li, Linfeng Xu, Qingbo Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qiu_Dual-Consistency_Model_Inversion_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1307",
+      "paper_id": "",
+      "title": "Dual-Enhanced Coreset Selection with Class-wise Collaboration for Online Blurry Class Incremental Learning",
+      "authors": "Yutian Luo, Shiqi Zhao, Haoran Wu, Zhiwu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Dual-Enhanced_Coreset_Selection_with_Class-wise_Collaboration_for_Online_Blurry_Class_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2200",
+      "paper_id": "",
+      "title": "Dynamic Group Normalization: Spatio-Temporal Adaptation to Evolving Data Statistics",
+      "authors": "Yair Smadar, Assaf Hoogi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Smadar_Dynamic_Group_Normalization_Spatio-Temporal_Adaptation_to_Evolving_Data_Statistics_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1454",
+      "paper_id": "",
+      "title": "Dynamic Integration of Task-Specific Adapters for Class Incremental Learning",
+      "authors": "Jiashuo Li, Shaokun Wang, Bo Qian, Yuhang He, Xing Wei, Qiang Wang, Yihong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dynamic_Integration_of_Task-Specific_Adapters_for_Class_Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_24",
+      "paper_id": "",
+      "title": "DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning",
+      "authors": "Yuhang He, Yingjie Chen, Yuhan Jin, Songlin Dong, Xing Wei, Yihong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/He_DYSON_Dynamic_Feature_Space_Self-Organization_for_Online_Task-Free_Class_Incremental_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1593",
+      "paper_id": "",
+      "title": "DyTox: Transformers for Continual Learning With DYnamic TOken eXpansion",
+      "authors": "Arthur Douillard, Alexandre Ramé, Guillaume Couairon, Matthieu Cord",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Douillard_DyTox_Transformers_for_Continual_Learning_With_DYnamic_TOken_eXpansion_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_976",
+      "paper_id": "",
+      "title": "EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning",
+      "authors": "Hao Zhu, Piotr Koniusz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_EASE_Unsupervised_Discriminant_Subspace_Learning_for_Transductive_Few-Shot_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_113",
+      "paper_id": "",
+      "title": "ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-Shot Learning",
+      "authors": "Chaofan Chen, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_ECKPN_Explicit_Class_Knowledge_Propagation_Network_for_Transductive_Few-Shot_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1622",
+      "paper_id": "",
+      "title": "ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning",
+      "authors": "Beomyoung Kim, Joonsang Yu, Sung Ju Hwang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_ECLIPSE_Efficient_Continual_Learning_in_Panoptic_Segmentation_with_Visual_Prompt_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1171",
+      "paper_id": "",
+      "title": "Efficient Feature Transformations for Discriminative and Generative Continual Learning",
+      "authors": "Vinay Kumar Verma, Kevin J Liang, Nikhil Mehta, Piyush Rai, Lawrence Carin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Verma_Efficient_Feature_Transformations_for_Discriminative_and_Generative_Continual_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_632",
+      "paper_id": "",
+      "title": "Endpoints Weight Fusion for Class Incremental Semantic Segmentation",
+      "authors": "Jia-Wen Xiao, Chang-Bin Zhang, Jiekang Feng, Xialei Liu, Joost van de Weijer, Ming-Ming Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1380",
+      "paper_id": "",
+      "title": "Energy-Based Latent Aligner for Incremental Learning",
+      "authors": "K J Joseph, Salman Khan, Fahad Shahbaz Khan, Rao Muhammad Anwer, Vineeth N Balasubramanian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Joseph_Energy-Based_Latent_Aligner_for_Incremental_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_439",
+      "paper_id": "",
+      "title": "Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration",
+      "authors": "Yiyang Chen, Tianyu Ding, Lei Wang, Jing Huo, Yang Gao, Wenbin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_966",
+      "paper_id": "",
+      "title": "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization",
+      "authors": "Sihao Liu, Yibo Yang, Xiaojie Li, David A. Clifton, Bernard Ghanem",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Enhancing_Online_Continual_Learning_with_Plug-and-Play_State_Space_Model_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_386",
+      "paper_id": "",
+      "title": "Enhancing Visual Continual Learning with Language-Guided Supervision",
+      "authors": "Bolin Ni, Hongbo Zhao, Chenghao Zhang, Ke Hu, Gaofeng Meng, Zhaoxiang Zhang, Shiming Xiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ni_Enhancing_Visual_Continual_Learning_with_Language-Guided_Supervision_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_259",
+      "paper_id": "",
+      "title": "Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning",
+      "authors": "Da-Wei Zhou, Hai-Long Sun, Han-Jia Ye, De-Chuan Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Expandable_Subspace_Ensemble_for_Pre-Trained_Model-Based_Class-Incremental_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_72",
+      "paper_id": "",
+      "title": "Expanding Low-Density Latent Regions for Open-Set Object Detection",
+      "authors": "Jiaming Han, Yuqiang Ren, Jian Ding, Xingjia Pan, Ke Yan, Gui-Song Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Expanding_Low-Density_Latent_Regions_for_Open-Set_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1282",
+      "paper_id": "",
+      "title": "Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning",
+      "authors": "Mamshad Nayeem Rizve, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Rizve_Exploring_Complementary_Strengths_of_Invariant_and_Equivariant_Representations_for_Few-Shot_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_571",
+      "paper_id": "",
+      "title": "Exploring Data Geometry for Continual Learning",
+      "authors": "Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Exploring_Data_Geometry_for_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1286",
+      "paper_id": "",
+      "title": "Exploring Orthogonality in Open World Object Detection",
+      "authors": "Zhicheng Sun, Jinghan Li, Yadong Mu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Exploring_Orthogonality_in_Open_World_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_372",
+      "paper_id": "",
+      "title": "Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning",
+      "authors": "Zhaowei Cai, Avinash Ravichandran, Subhransu Maji, Charless Fowlkes, Zhuowen Tu, Stefano Soatto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cai_Exponential_Moving_Average_Normalization_for_Self-Supervised_and_Semi-Supervised_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_34",
+      "paper_id": "",
+      "title": "FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding",
+      "authors": "Thanh-Dat Truong, Utsav Prabhu, Bhiksha Raj, Jackson Cothren, Khoa Luu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Truong_FALCON_Fairness_Learning_via_Contrastive_Attention_Approach_to_Continual_Semantic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_140",
+      "paper_id": "",
+      "title": "FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning",
+      "authors": "Qiwei Li, Yuxin Peng, Jiahuan Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_FCS_Feature_Calibration_and_Separation_for_Non-Exemplar_Class_Incremental_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1173",
+      "paper_id": "",
+      "title": "Feature Selection for Latent Factor Models",
+      "authors": "Rittwika Kansabanik, Adrian Barbu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kansabanik_Feature_Selection_for_Latent_Factor_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_252",
+      "paper_id": "",
+      "title": "Ferret: An Efficient Online Continual Learning Framework under Varying Memory Constraints",
+      "authors": "Yuhao Zhou, Yuxin Tian, Jindi Lv, Mingjia Shi, Yuanxi Li, Qing Ye, Shuhao Zhang, Jiancheng Lv",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Ferret_An_Efficient_Online_Continual_Learning_Framework_under_Varying_Memory_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_974",
+      "paper_id": "",
+      "title": "Few-Shot Class-Incremental Learning via Class-Aware Bilateral Distillation",
+      "authors": "Linglan Zhao, Jing Lu, Yunlu Xu, Zhanzhan Cheng, Dashan Guo, Yi Niu, Xiangzhong Fang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Few-Shot_Class-Incremental_Learning_via_Class-Aware_Bilateral_Distillation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_707",
+      "paper_id": "",
+      "title": "Few-Shot Classification With Feature Map Reconstruction Networks",
+      "authors": "Davis Wertheimer, Luming Tang, Bharath Hariharan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wertheimer_Few-Shot_Classification_With_Feature_Map_Reconstruction_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1600",
+      "paper_id": "",
+      "title": "Few-Shot Incremental Learning for Label-to-Image Translation",
+      "authors": "Pei Chen, Yangkang Zhang, Zejian Li, Lingyun Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Few-Shot_Incremental_Learning_for_Label-to-Image_Translation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_156",
+      "paper_id": "",
+      "title": "Few-Shot Incremental Learning With Continually Evolved Classifiers",
+      "authors": "Chi Zhang, Nan Song, Guosheng Lin, Yun Zheng, Pan Pan, Yinghui Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Few-Shot_Incremental_Learning_With_Continually_Evolved_Classifiers_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1541",
+      "paper_id": "",
+      "title": "Few-Shot Learning With Noisy Labels",
+      "authors": "Kevin J. Liang, Samrudhdhi B. Rangrej, Vladan Petrovic, Tal Hassner",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_Few-Shot_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_639",
+      "paper_id": "",
+      "title": "Few-Shot Object Detection via Classification Refinement and Distractor Retreatment",
+      "authors": "Yiting Li, Haiyue Zhu, Yu Cheng, Wenxin Wang, Chek Sing Teo, Cheng Xiang, Prahlad Vadakkepat, Tong Heng Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Few-Shot_Object_Detection_via_Classification_Refinement_and_Distractor_Retreatment_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_156",
+      "paper_id": "",
+      "title": "Few-Shot Object Detection with Foundation Models",
+      "authors": "Guangxing Han, Ser-Nam Lim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_791",
+      "paper_id": "",
+      "title": "Few-Shot Object Detection With Fully Cross-Transformer",
+      "authors": "Guangxing Han, Jiawei Ma, Shiyuan Huang, Long Chen, Shih-Fu Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Few-Shot_Object_Detection_With_Fully_Cross-Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_683",
+      "paper_id": "",
+      "title": "Few-Shot Open-Set Recognition by Transformation Consistency",
+      "authors": "Minki Jeong, Seokeon Choi, Changick Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Few-Shot_Open-Set_Recognition_by_Transformation_Consistency_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1286",
+      "paper_id": "",
+      "title": "Fine-Grained Angular Contrastive Learning With Coarse Labels",
+      "authors": "Guy Bukchin, Eli Schwartz, Kate Saenko, Ori Shahar, Rogerio Feris, Raja Giryes, Leonid Karlinsky",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bukchin_Fine-Grained_Angular_Contrastive_Learning_With_Coarse_Labels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_497",
+      "paper_id": "",
+      "title": "Forward Compatible Few-Shot Class-Incremental Learning",
+      "authors": "Da-Wei Zhou, Fu-Yun Wang, Han-Jia Ye, Liang Ma, Shiliang Pu, De-Chuan Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Forward_Compatible_Few-Shot_Class-Incremental_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2069",
+      "paper_id": "",
+      "title": "From Coarse to Fine-Grained Open-Set Recognition",
+      "authors": "Nico Lang, Vésteinn Snæbjarnarson, Elijah Cole, Oisin Mac Aodha, Christian Igel, Serge Belongie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lang_From_Coarse_to_Fine-Grained_Open-Set_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_628",
+      "paper_id": "",
+      "title": "Frozen Feature Augmentation for Few-Shot Image Classification",
+      "authors": "Andreas Bär, Neil Houlsby, Mostafa Dehghani, Manoj Kumar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bar_Frozen_Feature_Augmentation_for_Few-Shot_Image_Classification_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_622",
+      "paper_id": "",
+      "title": "FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding",
+      "authors": "Bo Sun, Banghuai Li, Shengcai Cai, Ye Yuan, Chi Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_FSCE_Few-Shot_Object_Detection_via_Contrastive_Proposal_Encoding_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1715",
+      "paper_id": "",
+      "title": "GCR: Gradient Coreset Based Replay Buffer Selection for Continual Learning",
+      "authors": "Rishabh Tiwari, Krishnateja Killamsetty, Rishabh Iyer, Pradeep Shenoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tiwari_GCR_Gradient_Coreset_Based_Replay_Buffer_Selection_for_Continual_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_624",
+      "paper_id": "",
+      "title": "General Incremental Learning With Domain-Aware Categorical Representations",
+      "authors": "Jiangwei Xie, Shipeng Yan, Xuming He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_General_Incremental_Learning_With_Domain-Aware_Categorical_Representations_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_764",
+      "paper_id": "",
+      "title": "Generalized Few-Shot Object Detection Without Forgetting",
+      "authors": "Zhibo Fan, Yuchen Ma, Zeming Li, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Generalized_Few-Shot_Object_Detection_Without_Forgetting_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_89",
+      "paper_id": "",
+      "title": "Generating Features With Increased Crop-Related Diversity for Few-Shot Object Detection",
+      "authors": "Jingyi Xu, Hieu Le, Dimitris Samaras",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Generating_Features_With_Increased_Crop-Related_Diversity_for_Few-Shot_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_909",
+      "paper_id": "",
+      "title": "Generating Representative Samples for Few-Shot Classification",
+      "authors": "Jingyi Xu, Hieu Le",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Generating_Representative_Samples_for_Few-Shot_Classification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1395",
+      "paper_id": "",
+      "title": "Generative Multi-modal Models are Good Class Incremental Learners",
+      "authors": "Xusheng Cao, Haori Lu, Linlan Huang, Xialei Liu, Ming-Ming Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Generative_Multi-modal_Models_are_Good_Class_Incremental_Learners_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1079",
+      "paper_id": "",
+      "title": "Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation",
+      "authors": "Yuwei Yang, Munawar Hayat, Zhao Jin, Chao Ren, Yinjie Lei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_902",
+      "paper_id": "",
+      "title": "GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-Shot Class Incremental Task",
+      "authors": "Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, Ziqian Zeng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhuang_GKEAL_Gaussian_Kernel_Embedded_Analytic_Learning_for_Few-Shot_Class_Incremental_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_412",
+      "paper_id": "",
+      "title": "Glocal Energy-Based Learning for Few-Shot Open-Set Recognition",
+      "authors": "Haoyu Wang, Guansong Pang, Peng Wang, Lei Zhang, Wei Wei, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Glocal_Energy-Based_Learning_for_Few-Shot_Open-Set_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_554",
+      "paper_id": "",
+      "title": "Gradient Reweighting: Towards Imbalanced Class-Incremental Learning",
+      "authors": "Jiangpeng He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/He_Gradient_Reweighting_Towards_Imbalanced_Class-Incremental_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_558",
+      "paper_id": "",
+      "title": "Group Whitening: Balancing Learning Efficiency and Representational Capacity",
+      "authors": "Lei Huang, Yi Zhou, Li Liu, Fan Zhu, Ling Shao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Group_Whitening_Balancing_Learning_Efficiency_and_Representational_Capacity_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_434",
+      "paper_id": "",
+      "title": "Hallucination Improves Few-Shot Object Detection",
+      "authors": "Weilin Zhang, Yu-Xiong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Hallucination_Improves_Few-Shot_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1761",
+      "paper_id": "",
+      "title": "Heterogeneous Continual Learning",
+      "authors": "Divyam Madaan, Hongxu Yin, Wonmin Byeon, Jan Kautz, Pavlo Molchanov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Madaan_Heterogeneous_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1462",
+      "paper_id": "",
+      "title": "Hubs and Hyperspheres: Reducing Hubness and Improving Transductive Few-Shot Learning With Hyperspherical Embeddings",
+      "authors": "Daniel J. Trosten, Rwiddhi Chakraborty, Sigurd Løkse, Kristoffer Knutsen Wickstrøm, Robert Jenssen, Michael C. Kampffmeyer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Trosten_Hubs_and_Hyperspheres_Reducing_Hubness_and_Improving_Transductive_Few-Shot_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_463",
+      "paper_id": "",
+      "title": "Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation",
+      "authors": "Mengyao Zhai, Lei Chen, Greg Mori",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_78",
+      "paper_id": "",
+      "title": "Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation",
+      "authors": "Tanuj Sur, Samrat Mukherjee, Kaizer Rahaman, Subhasis Chaudhuri, Muhammad Haris Khan, Biplab Banerjee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1502",
+      "paper_id": "",
+      "title": "IIRC: Incremental Implicitly-Refined Classification",
+      "authors": "Mohamed Abdelsalam, Mojtaba Faramarzi, Shagun Sodhani, Sarath Chandar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Abdelsalam_IIRC_Incremental_Implicitly-Refined_Classification_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_702",
+      "paper_id": "",
+      "title": "Improving Adversarially Robust Few-Shot Image Classification With Generalizable Representations",
+      "authors": "Junhao Dong, Yuan Wang, Jian-Huang Lai, Xiaohua Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Improving_Adversarially_Robust_Few-Shot_Image_Classification_With_Generalizable_Representations_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_456",
+      "paper_id": "",
+      "title": "Improving Plasticity in Online Continual Learning via Collaborative Learning",
+      "authors": "Maorong Wang, Nicolas Michel, Ling Xiao, Toshihiko Yamasaki",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Plasticity_in_Online_Continual_Learning_via_Collaborative_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1366",
+      "paper_id": "",
+      "title": "Incremental Learning via Rate Reduction",
+      "authors": "Ziyang Wu, Christina Baek, Chong You, Yi Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Incremental_Learning_via_Rate_Reduction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_683",
+      "paper_id": "",
+      "title": "Incrementer: Transformer for Class-Incremental Semantic Segmentation With Knowledge Distillation Focusing on Old Class",
+      "authors": "Chao Shang, Hongliang Li, Fanman Meng, Qingbo Wu, Heqian Qiu, Lanxiao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_957",
+      "paper_id": "",
+      "title": "InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning",
+      "authors": "Yan-Shuo Liang, Wu-Jun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_InfLoRA_Interference-Free_Low-Rank_Adaptation_for_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1813",
+      "paper_id": "",
+      "title": "Instance-based Max-margin for Practical Few-shot Recognition",
+      "authors": "Minghao Fu, Ke Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Instance-based_Max-margin_for_Practical_Few-shot_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_282",
+      "paper_id": "",
+      "title": "Interactive Continual Learning: Fast and Slow Thinking",
+      "authors": "Biqing Qi, Xinquan Chen, Junqi Gao, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_Interactive_Continual_Learning_Fast_and_Slow_Thinking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1883",
+      "paper_id": "",
+      "title": "Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification",
+      "authors": "Jiangtao Xie, Fei Long, Jiaming Lv, Qilong Wang, Peihua Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Joint_Distribution_Matters_Deep_Brownian_Distance_Covariance_for_Few-Shot_Classification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_461",
+      "paper_id": "",
+      "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning",
+      "authors": "Yusong Hu, Zichen Liang, Fei Yang, Qibin Hou, Xialei Liu, Ming-Ming Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_KAC_Kolmogorov-Arnold_Classifier_for_Continual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1012",
+      "paper_id": "",
+      "title": "Kernelized Few-Shot Object Detection With Efficient Integral Aggregation",
+      "authors": "Shan Zhang, Lei Wang, Naila Murray, Piotr Koniusz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Kernelized_Few-Shot_Object_Detection_With_Efficient_Integral_Aggregation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2101",
+      "paper_id": "",
+      "title": "Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning",
+      "authors": "Zijian Gao, Wangwang Jia, Xingxing Zhang, Dulan Zhou, Kele Xu, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_Knowledge_Memorization_and_Rumination_for_Pre-trained_Model-based_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_547",
+      "paper_id": "",
+      "title": "KSM: Fast Multiple Task Adaption via Kernel-Wise Soft Mask Learning",
+      "authors": "Li Yang, Zhezhi He, Junshan Zhang, Deliang Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_KSM_Fast_Multiple_Task_Adaption_via_Kernel-Wise_Soft_Mask_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2432",
+      "paper_id": "",
+      "title": "Label Shift Meets Online Learning: Ensuring Consistent Adaptation with Universal Dynamic Regret",
+      "authors": "Yucong Dai, Shilin Gu, Ruidong Fan, Chao Xu, Chenping Hou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Label_Shift_Meets_Online_Learning_Ensuring_Consistent_Adaptation_with_Universal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1464",
+      "paper_id": "",
+      "title": "Label, Verify, Correct: A Simple Few Shot Object Detection Method",
+      "authors": "Prannay Kaul, Weidi Xie, Andrew Zisserman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kaul_Label_Verify_Correct_A_Simple_Few_Shot_Object_Detection_Method_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1272",
+      "paper_id": "",
+      "title": "Language Guided Concept Bottleneck Models for Interpretable Continual Learning",
+      "authors": "Lu Yu, Haoyu Han, Zhe Tao, Hantao Yao, Changsheng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Language_Guided_Concept_Bottleneck_Models_for_Interpretable_Continual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1128",
+      "paper_id": "",
+      "title": "Layerwise Optimization by Gradient Decomposition for Continual Learning",
+      "authors": "Shixiang Tang, Dapeng Chen, Jinguo Zhu, Shijie Yu, Wanli Ouyang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Layerwise_Optimization_by_Gradient_Decomposition_for_Continual_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_680",
+      "paper_id": "",
+      "title": "Learning Bayesian Sparse Networks With Full Experience Replay for Continual Learning",
+      "authors": "Qingsen Yan, Dong Gong, Yuhang Liu, Anton van den Hengel, Javen Qinfeng Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_Learning_Bayesian_Sparse_Networks_With_Full_Experience_Replay_for_Continual_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1221",
+      "paper_id": "",
+      "title": "Learning Conditional Space-Time Prompt Distributions for Video Class-Incremental Learning",
+      "authors": "Xiaohan Zou, Wenchao Ma, Shu Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zou_Learning_Conditional_Space-Time_Prompt_Distributions_for_Video_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_234",
+      "paper_id": "",
+      "title": "Learning Dynamic Alignment via Meta-Filter for Few-Shot Learning",
+      "authors": "Chengming Xu, Yanwei Fu, Chen Liu, Chengjie Wang, Jilin Li, Feiyue Huang, Li Zhang, Xiangyang Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Learning_Dynamic_Alignment_via_Meta-Filter_for_Few-Shot_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2857",
+      "paper_id": "",
+      "title": "Learning Endogenous Attention for Incremental Object Detection",
+      "authors": "Xiang Song, Yuhang He, Jingyuan Li, Qiang Wang, Yihong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_Learning_Endogenous_Attention_for_Incremental_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_825",
+      "paper_id": "",
+      "title": "Learning Equi-angular Representations for Online Continual Learning",
+      "authors": "Minhyuk Seo, Hyunseo Koh, Wonje Jeung, Minjae Lee, San Kim, Hankook Lee, Sungjun Cho, Sungik Choi, Hyunwoo Kim, Jonghyun Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Seo_Learning_Equi-angular_Representations_for_Online_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2558",
+      "paper_id": "",
+      "title": "Learning for Transductive Threshold Calibration in Open-World Recognition",
+      "authors": "Qin Zhang, Dongsheng An, Tianjun Xiao, Tong He, Qingming Tang, Ying Nian Wu, Joseph Tighe, Yifan Xing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learning_for_Transductive_Threshold_Calibration_in_Open-World_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2261",
+      "paper_id": "",
+      "title": "Learning from One Continuous Video Stream",
+      "authors": "João Carreira, Michael King, Viorica Patraucean, Dilara Gokay, Catalin Ionescu, Yi Yang, Daniel Zoran, Joseph Heyward, Carl Doersch, Yusuf Aytar, Dima Damen, Andrew Zisserman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Carreira_Learning_from_One_Continuous_Video_Stream_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_407",
+      "paper_id": "",
+      "title": "Learning Placeholders for Open-Set Recognition",
+      "authors": "Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Learning_Placeholders_for_Open-Set_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_24",
+      "paper_id": "",
+      "title": "Learning To Affiliate: Mutual Centralized Learning for Few-Shot Classification",
+      "authors": "Yang Liu, Weifeng Zhang, Chao Xiang, Tu Zheng, Deng Cai, Xiaofei He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_To_Affiliate_Mutual_Centralized_Learning_for_Few-Shot_Classification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_263",
+      "paper_id": "",
+      "title": "Learning To Imagine: Diversify Memory for Incremental Learning Using Unlabeled Data",
+      "authors": "Yu-Ming Tang, Yi-Xing Peng, Wei-Shi Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Learning_To_Imagine_Diversify_Memory_for_Incremental_Learning_Using_Unlabeled_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1631",
+      "paper_id": "",
+      "title": "Learning To Learn and Remember Super Long Multi-Domain Task Sequence",
+      "authors": "Zhenyi Wang, Li Shen, Tiehang Duan, Donglin Zhan, Le Fang, Mingchen Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Learn_and_Remember_Super_Long_Multi-Domain_Task_Sequence_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_275",
+      "paper_id": "",
+      "title": "Learning To Prompt for Continual Learning",
+      "authors": "Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot, Jennifer Dy, Tomas Pfister",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_To_Prompt_for_Continual_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1731",
+      "paper_id": "",
+      "title": "Learning With Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning",
+      "authors": "Zeyin Song, Yifan Zhao, Yujun Shi, Peixi Peng, Li Yuan, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Learning_With_Fantasy_Semantic-Aware_Virtual_Contrastive_Constraint_for_Few-Shot_Class-Incremental_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_585",
+      "paper_id": "",
+      "title": "Long-Tail Class Incremental Learning via Independent Sub-prototype Construction",
+      "authors": "Xi Wang, Xu Yang, Jie Yin, Kun Wei, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Long-Tail_Class_Incremental_Learning_via_Independent_Sub-prototype_Construction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2310",
+      "paper_id": "",
+      "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning",
+      "authors": "Xuan Liu, Xiaobin Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_LoRA_Subtraction_for_Drift-Resistant_Space_in_Exemplar-Free_Continual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1832",
+      "paper_id": "",
+      "title": "Matching Feature Sets for Few-Shot Image Classification",
+      "authors": "Arman Afrasiyabi, Hugo Larochelle, Jean-François Lalonde, Christian Gagné",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Afrasiyabi_Matching_Feature_Sets_for_Few-Shot_Image_Classification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1197",
+      "paper_id": "",
+      "title": "Meta Omnium: A Benchmark for General-Purpose Learning-To-Learn",
+      "authors": "Ondrej Bohdal, Yinbing Tian, Yongshuo Zong, Ruchika Chavhan, Da Li, Henry Gouk, Li Guo, Timothy Hospedales",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bohdal_Meta_Omnium_A_Benchmark_for_General-Purpose_Learning-To-Learn_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1212",
+      "paper_id": "",
+      "title": "Meta-Attention for ViT-Backed Continual Learning",
+      "authors": "Mengqi Xue, Haofei Zhang, Jie Song, Mingli Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Meta-Attention_for_ViT-Backed_Continual_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_67",
+      "paper_id": "",
+      "title": "Meta-Tuning Loss Functions and Data Augmentation for Few-Shot Object Detection",
+      "authors": "Berkan Demirel, Orhun Buğra Baran, Ramazan Gokberk Cinbis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Demirel_Meta-Tuning_Loss_Functions_and_Data_Augmentation_for_Few-Shot_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_359",
+      "paper_id": "",
+      "title": "Metadata Normalization",
+      "authors": "Mandy Lu, Qingyu Zhao, Jiequan Zhang, Kilian M. Pohl, Li Fei-Fei, Juan Carlos Niebles, Ehsan Adeli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Metadata_Normalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1197",
+      "paper_id": "",
+      "title": "MetaFSCIL: A Meta-Learning Approach for Few-Shot Class Incremental Learning",
+      "authors": "Zhixiang Chi, Li Gu, Huan Liu, Yang Wang, Yuanhao Yu, Jin Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_MetaFSCIL_A_Meta-Learning_Approach_for_Few-Shot_Class_Incremental_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_133",
+      "paper_id": "",
+      "title": "MetaMix: Towards Corruption-Robust Continual Learning With Temporally Self-Adaptive Data Transformation",
+      "authors": "Zhenyi Wang, Li Shen, Donglin Zhan, Qiuling Suo, Yanjun Zhu, Tiehang Duan, Mingchen Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MetaMix_Towards_Corruption-Robust_Continual_Learning_With_Temporally_Self-Adaptive_Data_Transformation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_570",
+      "paper_id": "",
+      "title": "Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning",
+      "authors": "Yujun Shi, Kuangqi Zhou, Jian Liang, Zihang Jiang, Jiashi Feng, Philip H.S. Torr, Song Bai, Vincent Y. F. Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Mimicking_the_Oracle_An_Initial_Phase_Decorrelation_Approach_for_Class_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1122",
+      "paper_id": "",
+      "title": "Multi-Centroid Task Descriptor for Dynamic Class Incremental Inference",
+      "authors": "Tenghao Cai, Zhizhong Zhang, Xin Tan, Yanyun Qu, Guannan Jiang, Chengjie Wang, Yuan Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Multi-Centroid_Task_Descriptor_for_Dynamic_Class_Incremental_Inference_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_566",
+      "paper_id": "",
+      "title": "Multidimensional Belief Quantification for Label-Efficient Meta-Learning",
+      "authors": "Deep Shankar Pandey, Qi Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Pandey_Multidimensional_Belief_Quantification_for_Label-Efficient_Meta-Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1526",
+      "paper_id": "",
+      "title": "NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning",
+      "authors": "Mustafa Burak Gurbuz, Jean Michael Moorman, Constantine Dovrolis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gurbuz_NICE_Neurogenesis_Inspired_Contextual_Encoding_for_Replay-free_Class_Incremental_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1028",
+      "paper_id": "",
+      "title": "NIFF: Alleviating Forgetting in Generalized Few-Shot Object Detection via Neural Instance Feature Forging",
+      "authors": "Karim Guirguis, Johannes Meier, George Eskandar, Matthias Kayser, Bin Yang, Jürgen Beyerer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Guirguis_NIFF_Alleviating_Forgetting_in_Generalized_Few-Shot_Object_Detection_via_Neural_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_748",
+      "paper_id": "",
+      "title": "Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency",
+      "authors": "Yanan Gu, Xu Yang, Kun Wei, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Not_Just_Selection_but_Exploration_Online_Class-Incremental_Continual_Learning_via_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1022",
+      "paper_id": "",
+      "title": "On Generalizing Beyond Domains in Cross-Domain Continual Learning",
+      "authors": "Christian Simon, Masoud Faraki, Yi-Hsuan Tsai, Xiang Yu, Samuel Schulter, Yumin Suh, Mehrtash Harandi, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1084",
+      "paper_id": "",
+      "title": "On Learning the Geodesic Path for Incremental Learning",
+      "authors": "Christian Simon, Piotr Koniusz, Mehrtash Harandi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Simon_On_Learning_the_Geodesic_Path_for_Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1479",
+      "paper_id": "",
+      "title": "On the Stability-Plasticity Dilemma of Class-Incremental Learning",
+      "authors": "Dongwan Kim, Bohyung Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_On_the_Stability-Plasticity_Dilemma_of_Class-Incremental_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_261",
+      "paper_id": "",
+      "title": "Online Continual Learning on a Contaminated Data Stream With Blurry Task Boundaries",
+      "authors": "Jihwan Bang, Hyunseo Koh, Seulki Park, Hwanjun Song, Jung-Woo Ha, Jonghyun Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bang_Online_Continual_Learning_on_a_Contaminated_Data_Stream_With_Blurry_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2507",
+      "paper_id": "",
+      "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory",
+      "authors": "Fei Ye, Adrian G. Bors",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1978",
+      "paper_id": "",
+      "title": "Online Task-Free Continual Learning via Dynamic Expansionable Memory Distribution",
+      "authors": "Fei Ye, Adrian G. Bors",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_Online_Task-Free_Continual_Learning_via_Dynamic_Expansionable_Memory_Distribution_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1130",
+      "paper_id": "",
+      "title": "Open-Set Likelihood Maximization for Few-Shot Learning",
+      "authors": "Malik Boudiaf, Etienne Bennequin, Myriam Tami, Antoine Toubhans, Pablo Piantanida, Celine Hudelot, Ismail Ben Ayed",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Boudiaf_Open-Set_Likelihood_Maximization_for_Few-Shot_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2581",
+      "paper_id": "",
+      "title": "Open-World Objectness Modeling Unifies Novel Object Detection",
+      "authors": "Shan Zhang, Yao Ni, Jinhao Du, Yuan Xue, Philip Torr, Piotr Koniusz, Anton van den Hengel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Open-World_Objectness_Modeling_Unifies_Novel_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_343",
+      "paper_id": "",
+      "title": "Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation",
+      "authors": "Hongwei Yan, Liyuan Wang, Kaisheng Ma, Yi Zhong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Orchestrate_Latent_Expertise_Advancing_Online_Continual_Learning_with_Multi-Level_Supervision_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2119",
+      "paper_id": "",
+      "title": "OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning",
+      "authors": "Noor Ahmed, Anna Kukleva, Bernt Schiele",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ahmed_OrCo_Towards_Better_Generalization_via_Orthogonality_and_Contrast_for_Few-Shot_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1583",
+      "paper_id": "",
+      "title": "Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping",
+      "authors": "Guannan Lai, Yujie Li, Xiangkun Wang, Junbo Zhang, Tianrui Li, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Order-Robust_Class_Incremental_Learning_Graph-Driven_Dynamic_Similarity_Grouping_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1353",
+      "paper_id": "",
+      "title": "ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-Supervised Continual Learning",
+      "authors": "Liyuan Wang, Kuo Yang, Chongxuan Li, Lanqing Hong, Zhenguo Li, Jun Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_ORDisCo_Effective_and_Efficient_Usage_of_Incremental_Unlabeled_Data_for_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1429",
+      "paper_id": "",
+      "title": "Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation",
+      "authors": "Tao Feng, Mang Wang, Hangjie Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Overcoming_Catastrophic_Forgetting_in_Incremental_Object_Detection_via_Elastic_Response_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_52",
+      "paper_id": "",
+      "title": "Overcoming Generic Knowledge Loss with Selective Parameter Update",
+      "authors": "Wenxuan Zhang, Paul Janson, Rahaf Aljundi, Mohamed Elhoseiny",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Overcoming_Generic_Knowledge_Loss_with_Selective_Parameter_Update_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_582",
+      "paper_id": "",
+      "title": "OW-DETR: Open-World Detection Transformer",
+      "authors": "Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_OW-DETR_Open-World_Detection_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_234",
+      "paper_id": "",
+      "title": "OW-OVD: Unified Open World and Open Vocabulary Object Detection",
+      "authors": "Xing Xi, Yangyang Huang, Ronghua Luo, Yu Qiu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xi_OW-OVD_Unified_Open_World_and_Open_Vocabulary_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_278",
+      "paper_id": "",
+      "title": "Pareto Self-Supervised Training for Few-Shot Learning",
+      "authors": "Zhengyu Chen, Jixie Ge, Heshen Zhan, Siteng Huang, Donglin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Pareto_Self-Supervised_Training_for_Few-Shot_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2182",
+      "paper_id": "",
+      "title": "PCR: Proxy-Based Contrastive Replay for Online Class-Incremental Continual Learning",
+      "authors": "Huiwei Lin, Baoquan Zhang, Shanshan Feng, Xutao Li, Yunming Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_PCR_Proxy-Based_Contrastive_Replay_for_Online_Class-Incremental_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2832",
+      "paper_id": "",
+      "title": "Percept, Memory, and Imagine: World Feature Simulating for Open-Domain Unknown Object Detection",
+      "authors": "Aming Wu, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Percept_Memory_and_Imagine_World_Feature_Simulating_for_Open-Domain_Unknown_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1231",
+      "paper_id": "",
+      "title": "PIVOT: Prompting for Video Continual Learning",
+      "authors": "Andrés Villa, Juan León Alcázar, Motasem Alfarra, Kumail Alhamoud, Julio Hurtado, Fabian Caba Heilbron, Alvaro Soto, Bernard Ghanem",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Villa_PIVOT_Prompting_for_Video_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1492",
+      "paper_id": "",
+      "title": "PLOP: Learning Without Forgetting for Continual Semantic Segmentation",
+      "authors": "Arthur Douillard, Yifu Chen, Arnaud Dapogny, Matthieu Cord",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_990",
+      "paper_id": "",
+      "title": "Population Normalization for Federated Learning",
+      "authors": "Zhuoyao Wang, Fan Yi, Peizhu Gong, Caitou He, Cheng Jin, Weizhong Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Population_Normalization_for_Federated_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_952",
+      "paper_id": "",
+      "title": "Positive-Congruent Training: Towards Regression-Free Model Updates",
+      "authors": "Sijie Yan, Yuanjun Xiong, Kaustav Kundu, Shuo Yang, Siqi Deng, Meng Wang, Wei Xia, Stefano Soatto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Positive-Congruent_Training_Towards_Regression-Free_Model_Updates_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2394",
+      "paper_id": "",
+      "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners",
+      "authors": "Keon-Hee Park, Kyungwoo Song, Gyeong-Moon Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Pre-trained_Vision_and_Language_Transformers_Are_Few-Shot_Incremental_Learners_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_479",
+      "paper_id": "",
+      "title": "Preserving Linear Separability in Continual Learning by Backward Feature Projection",
+      "authors": "Qiao Gu, Dongsub Shim, Florian Shkurti",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_Preserving_Linear_Separability_in_Continual_Learning_by_Backward_Feature_Projection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2343",
+      "paper_id": "",
+      "title": "Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions",
+      "authors": "Tobias Kalb, Jürgen Beyerer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kalb_Principles_of_Forgetting_in_Domain-Incremental_Semantic_Segmentation_in_Adverse_Weather_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_118",
+      "paper_id": "",
+      "title": "PROB: Probabilistic Objectness for Open World Object Detection",
+      "authors": "Orr Zohar, Kuan-Chieh Wang, Serena Yeung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zohar_PROB_Probabilistic_Objectness_for_Open_World_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1580",
+      "paper_id": "",
+      "title": "Probing Representation Forgetting in Supervised and Unsupervised Continual Learning",
+      "authors": "MohammadReza Davari, Nader Asadi, Sudhir Mudur, Rahaf Aljundi, Eugene Belilovsky",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Davari_Probing_Representation_Forgetting_in_Supervised_and_Unsupervised_Continual_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1728",
+      "paper_id": "",
+      "title": "ProtoDepth: Unsupervised Continual Depth Completion with Prototypes",
+      "authors": "Patrick Rim, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, Younjoon Chung, Alex Wong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Rim_ProtoDepth_Unsupervised_Continual_Depth_Completion_with_Prototypes_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1209",
+      "paper_id": "",
+      "title": "Prototype Augmentation and Self-Supervision for Incremental Learning",
+      "authors": "Fei Zhu, Xu-Yao Zhang, Chuang Wang, Fei Yin, Cheng-Lin Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Prototype_Augmentation_and_Self-Supervision_for_Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1400",
+      "paper_id": "",
+      "title": "Prototype Completion With Primitive Knowledge for Few-Shot Learning",
+      "authors": "Baoquan Zhang, Xutao Li, Yunming Ye, Zhichao Huang, Lisai Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Prototype_Completion_With_Primitive_Knowledge_for_Few-Shot_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_141",
+      "paper_id": "",
+      "title": "Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference",
+      "authors": "Shell Xu Hu, Da Li, Jan Stühmer, Minyoung Kim, Timothy M. Hospedales",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Pushing_the_Limits_of_Simple_Pipelines_for_Few-Shot_Learning_External_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1225",
+      "paper_id": "",
+      "title": "Rainbow Memory: Continual Learning With a Memory of Diverse Samples",
+      "authors": "Jihwan Bang, Heesu Kim, YoungJoon Yoo, Jung-Woo Ha, Jonghyun Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bang_Rainbow_Memory_Continual_Learning_With_a_Memory_of_Diverse_Samples_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_510",
+      "paper_id": "",
+      "title": "Ranking Distance Calibration for Cross-Domain Few-Shot Learning",
+      "authors": "Pan Li, Shaogang Gong, Chengjie Wang, Yanwei Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Ranking_Distance_Calibration_for_Cross-Domain_Few-Shot_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_495",
+      "paper_id": "",
+      "title": "Real-Time Evaluation in Online Continual Learning: A New Hope",
+      "authors": "Yasir Ghunaim, Adel Bibi, Kumail Alhamoud, Motasem Alfarra, Hasan Abed Al Kader Hammoud, Ameya Prabhu, Philip H.S. Torr, Bernard Ghanem",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ghunaim_Real-Time_Evaluation_in_Online_Continual_Learning_A_New_Hope_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2091",
+      "paper_id": "",
+      "title": "Rebalancing Batch Normalization for Exemplar-Based Class-Incremental Learning",
+      "authors": "Sungmin Cha, Sungjun Cho, Dasol Hwang, Sunwon Hong, Moontae Lee, Taesup Moon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cha_Rebalancing_Batch_Normalization_for_Exemplar-Based_Class-Incremental_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1013",
+      "paper_id": "",
+      "title": "Rectification-Based Knowledge Retention for Continual Learning",
+      "authors": "Pravendra Singh, Pratik Mazumder, Piyush Rai, Vinay P. Namboodiri",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Singh_Rectification-Based_Knowledge_Retention_for_Continual_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2088",
+      "paper_id": "",
+      "title": "Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds",
+      "authors": "Huitong Chen, Yu Wang, Yan Fan, Guosong Jiang, Qinghua Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Reducing_Class-wise_Confusion_for_Incremental_Learning_with_Disentangled_Manifolds_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1343",
+      "paper_id": "",
+      "title": "Regularizing Second-Order Influences for Continual Learning",
+      "authors": "Zhicheng Sun, Yadong Mu, Gang Hua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Regularizing_Second-Order_Influences_for_Continual_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_418",
+      "paper_id": "",
+      "title": "Reinforced Attention for Few-Shot Learning and Beyond",
+      "authors": "Jie Hong, Pengfei Fang, Weihao Li, Tong Zhang, Christian Simon, Mehrtash Harandi, Lars Petersson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Reinforced_Attention_for_Few-Shot_Learning_and_Beyond_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_636",
+      "paper_id": "",
+      "title": "Rep-Net: Efficient On-Device Learning via Feature Reprogramming",
+      "authors": "Li Yang, Adnan Siraj Rakin, Deliang Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Rep-Net_Efficient_On-Device_Learning_via_Feature_Reprogramming_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_487",
+      "paper_id": "",
+      "title": "Representation Compensation Networks for Continual Semantic Segmentation",
+      "authors": "Chang-Bin Zhang, Jia-Wen Xiao, Xialei Liu, Ying-Cong Chen, Ming-Ming Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Representation_Compensation_Networks_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_609",
+      "paper_id": "",
+      "title": "Representative Batch Normalization With Feature Calibration",
+      "authors": "Shang-Hua Gao, Qi Han, Duo Li, Ming-Ming Cheng, Pai Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Representative_Batch_Normalization_With_Feature_Calibration_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2065",
+      "paper_id": "",
+      "title": "Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning",
+      "authors": "Dipam Goswami, Albin Soutif-Cormerais, Yuyang Liu, Sandesh Kamath, Bart?omiej Twardowski, Joost van de Weijer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Goswami_Resurrecting_Old_Classes_with_New_Data_for_Exemplar-Free_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_232",
+      "paper_id": "",
+      "title": "Rethinking Class Relations: Absolute-Relative Supervised and Unsupervised Few-Shot Learning",
+      "authors": "Hongguang Zhang, Piotr Koniusz, Songlei Jian, Hongdong Li, Philip H. S. Torr",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Rethinking_Class_Relations_Absolute-Relative_Supervised_and_Unsupervised_Few-Shot_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1606",
+      "paper_id": "",
+      "title": "Rethinking Gradient Projection Continual Learning: Stability / Plasticity Feature Space Decoupling",
+      "authors": "Zhen Zhao, Zhizhong Zhang, Xin Tan, Jun Liu, Yanyun Qu, Yuan Xie, Lizhuang Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Rethinking_Gradient_Projection_Continual_Learning_Stability__Plasticity_Feature_Space_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2598",
+      "paper_id": "",
+      "title": "Rethinking Query-based Transformer for Continual Image Segmentation",
+      "authors": "Yuchen Zhu, Cheng Shi, Dingyou Wang, Jiajin Tang, Zhengxuan Wei, Yu Wu, Guanbin Li, Sibei Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_Query-based_Transformer_for_Continual_Image_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2361",
+      "paper_id": "",
+      "title": "Revisiting Generative Replay for Class Incremental Object Detection",
+      "authors": "Shizhou Zhang, Xueqiang Lv, Yinghui Xing, Qirui Wu, Di Xu, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Revisiting_Generative_Replay_for_Class_Incremental_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_27",
+      "paper_id": "",
+      "title": "Revisiting Learnable Affines for Batch Norm in Few-Shot Transfer Learning",
+      "authors": "Moslem Yazdanpanah, Aamer Abdul Rahman, Muawiz Chaudhary, Christian Desrosiers, Mohammad Havaei, Eugene Belilovsky, Samira Ebrahimi Kahou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yazdanpanah_Revisiting_Learnable_Affines_for_Batch_Norm_in_Few-Shot_Transfer_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_202",
+      "paper_id": "",
+      "title": "Revisiting Prototypical Network for Cross Domain Few-Shot Learning",
+      "authors": "Fei Zhou, Peng Wang, Lei Zhang, Wei Wei, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Revisiting_Prototypical_Network_for_Cross_Domain_Few-Shot_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1611",
+      "paper_id": "",
+      "title": "SASep: Saliency-Aware Structured Separation of Geometry and Feature for Open Set Learning on Point Clouds",
+      "authors": "Jinfeng Xu, Xianzhi Li, Yuan Tang, Xu Han, Qiao Yu, Yixue Hao, Long Hu, Min Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_SASep_Saliency-Aware_Structured_Separation_of_Geometry_and_Feature_for_Open_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_106",
+      "paper_id": "",
+      "title": "SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection",
+      "authors": "Junsu Kim, Hoseong Cho, Jihyeon Kim, Yihalem Yimolal Tiruneh, Seungryul Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_SDDGR_Stable_Diffusion-based_Deep_Generative_Replay_for_Class_Incremental_Object_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_456",
+      "paper_id": "",
+      "title": "SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning",
+      "authors": "Ye Liu, Meng Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_63",
+      "paper_id": "",
+      "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning",
+      "authors": "Huiyi Wang, Haodong Lu, Lina Yao, Dong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Self-Expansion_of_Pre-trained_Models_with_Mixture_of_Adapters_for_Continual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_775",
+      "paper_id": "",
+      "title": "Self-Promoted Prototype Refinement for Few-Shot Class-Incremental Learning",
+      "authors": "Kai Zhu, Yang Cao, Wei Zhai, Jie Cheng, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Self-Promoted_Prototype_Refinement_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_362",
+      "paper_id": "",
+      "title": "Self-Supervised Models Are Continual Learners",
+      "authors": "Enrico Fini, Victor G. Turrisi da Costa, Xavier Alameda-Pineda, Elisa Ricci, Karteek Alahari, Julien Mairal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Fini_Self-Supervised_Models_Are_Continual_Learners_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1014",
+      "paper_id": "",
+      "title": "Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning",
+      "authors": "Kai Zhu, Wei Zhai, Yang Cao, Jiebo Luo, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Self-Sustaining_Representation_Expansion_for_Non-Exemplar_Class-Incremental_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_616",
+      "paper_id": "",
+      "title": "Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection",
+      "authors": "Chenchen Zhu, Fangyi Chen, Uzair Ahmed, Zhiqiang Shen, Marios Savvides",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Semantic_Relation_Reasoning_for_Shot-Stable_Few-Shot_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1598",
+      "paper_id": "",
+      "title": "Semantic-Aligned Fusion Transformer for One-Shot Object Detection",
+      "authors": "Yizhou Zhao, Xun Guo, Yan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Semantic-Aligned_Fusion_Transformer_for_One-Shot_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_794",
+      "paper_id": "",
+      "title": "Semantic-Aware Knowledge Distillation for Few-Shot Class-Incremental Learning",
+      "authors": "Ali Cheraghian, Shafin Rahman, Pengfei Fang, Soumava Kumar Roy, Lars Petersson, Mehrtash Harandi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cheraghian_Semantic-Aware_Knowledge_Distillation_for_Few-Shot_Class-Incremental_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1142",
+      "paper_id": "",
+      "title": "Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer",
+      "authors": "Yuwen Tan, Qinhao Zhou, Xiang Xiang, Ke Wang, Yuchuan Wu, Yongbin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Semantically-Shifted_Incremental_Adapter-Tuning_is_A_Continual_ViTransformer_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1266",
+      "paper_id": "",
+      "title": "Semi-Supervised Few-Shot Learning via Multi-Factor Clustering",
+      "authors": "Jie Ling, Lei Liao, Meng Yang, Jia Shuai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ling_Semi-Supervised_Few-Shot_Learning_via_Multi-Factor_Clustering_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_626",
+      "paper_id": "",
+      "title": "Simple Semantic-Aided Few-Shot Learning",
+      "authors": "Hai Zhang, Junzhe Xu, Shanlin Jiang, Zhenan He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Simple_Semantic-Aided_Few-Shot_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_567",
+      "paper_id": "",
+      "title": "Simulated Annealing in Early Layers Leads to Better Generalization",
+      "authors": "Amir M. Sarfi, Zahra Karimpour, Muawiz Chaudhary, Nasir M. Khalid, Mirco Ravanelli, Sudhir Mudur, Eugene Belilovsky",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sarfi_Simulated_Annealing_in_Early_Layers_Leads_to_Better_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1482",
+      "paper_id": "",
+      "title": "SNIDA: Unlocking Few-Shot Object Detection with Non-linear Semantic Decoupling Augmentation",
+      "authors": "Yanjie Wang, Xu Zou, Luxin Yan, Sheng Zhong, Jiahuan Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_SNIDA_Unlocking_Few-Shot_Object_Detection_with_Non-linear_Semantic_Decoupling_Augmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1124",
+      "paper_id": "",
+      "title": "Stochastic Whitening Batch Normalization",
+      "authors": "Shengdong Zhang, Ehsan Nezhadarya, Homa Fashandi, Jiayi Liu, Darin Graham, Mohak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Stochastic_Whitening_Batch_Normalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1148",
+      "paper_id": "",
+      "title": "Sylph: A Hypernetwork Framework for Incremental Few-Shot Object Detection",
+      "authors": "Li Yin, Juan M. Perez-Rua, Kevin J. Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_Sylph_A_Hypernetwork_Framework_for_Incremental_Few-Shot_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1075",
+      "paper_id": "",
+      "title": "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models",
+      "authors": "Bin Wu, Wuxuan Shi, Jinqiao Wang, Mang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Synthetic_Data_is_an_Elegant_GIFT_for_Continual_Vision-Language_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1328",
+      "paper_id": "",
+      "title": "Task Difficulty Aware Parameter Allocation & Regularization for Lifelong Learning",
+      "authors": "Wenjin Wang, Yunqing Hu, Qianglong Chen, Yin Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Task_Difficulty_Aware_Parameter_Allocation__Regularization_for_Lifelong_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_321",
+      "paper_id": "",
+      "title": "Task-Adaptive Negative Envision for Few-Shot Open-Set Recognition",
+      "authors": "Shiyuan Huang, Jiawei Ma, Guangxing Han, Shih-Fu Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Task-Adaptive_Negative_Envision_for_Few-Shot_Open-Set_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2367",
+      "paper_id": "",
+      "title": "Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning",
+      "authors": "Xialei Liu, Jiang-Tian Zhai, Andrew D. Bagdanov, Ke Li, Ming-Ming Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Task-Adaptive_Saliency_Guidance_for_Exemplar-free_Class_Incremental_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2665",
+      "paper_id": "",
+      "title": "Task-Agnostic Guided Feature Expansion for Class-Incremental Learning",
+      "authors": "Bowen Zheng, Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Task-Agnostic_Guided_Feature_Expansion_for_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_369",
+      "paper_id": "",
+      "title": "Task-Specific Gradient Adaptation for Few-Shot One-Class Classification",
+      "authors": "Yunlong Li, Xiabi Liu, Liyuan Pan, Yuchen Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Task-Specific_Gradient_Adaptation_for_Few-Shot_One-Class_Classification_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1132",
+      "paper_id": "",
+      "title": "Time Adaptive Recurrent Neural Network",
+      "authors": "Anil Kag, Venkatesh Saligrama",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kag_Time_Adaptive_Recurrent_Neural_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1291",
+      "paper_id": "",
+      "title": "Towards Better Plasticity-Stability Trade-Off in Incremental Learning: A Simple Linear Connector",
+      "authors": "Guoliang Lin, Hanlu Chu, Hanjiang Lai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Towards_Better_Plasticity-Stability_Trade-Off_in_Incremental_Learning_A_Simple_Linear_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2743",
+      "paper_id": "",
+      "title": "Towards Continual Universal Segmentation",
+      "authors": "Zihan Lin, Zilei Wang, Xu Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Towards_Continual_Universal_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_255",
+      "paper_id": "",
+      "title": "Towards Open World Object Detection",
+      "authors": "K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1159",
+      "paper_id": "",
+      "title": "Training Networks in Null Space of Feature Covariance for Continual Learning",
+      "authors": "Shipeng Wang, Xiaorong Li, Jian Sun, Zongben Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Training_Networks_in_Null_Space_of_Feature_Covariance_for_Continual_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_712",
+      "paper_id": "",
+      "title": "Transductive Few-Shot Learning With Prototype-Based Label Propagation by Iterative Graph Refinement",
+      "authors": "Hao Zhu, Piotr Koniusz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_940",
+      "paper_id": "",
+      "title": "Transformation Invariant Few-Shot Object Detection",
+      "authors": "Aoxue Li, Zhenguo Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Transformation_Invariant_Few-Shot_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1099",
+      "paper_id": "",
+      "title": "Tripartite Weight-Space Ensemble for Few-Shot Class-Incremental Learning",
+      "authors": "Juntae Lee, Munawar Hayat, Sungrack Yun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Tripartite_Weight-Space_Ensemble_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_355",
+      "paper_id": "",
+      "title": "Tuning Stable Rank Shrinkage: Aiming at the Overlooked Structural Risk in Fine-tuning",
+      "authors": "Sicong Shen, Yang Zhou, Bingzheng Wei, Eric I-Chao Chang, Yan Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shen_Tuning_Stable_Rank_Shrinkage_Aiming_at_the_Overlooked_Structural_Risk_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1610",
+      "paper_id": "",
+      "title": "UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning",
+      "authors": "Long Zhou, Fereshteh Shakeri, Aymen Sadraoui, Mounir Kaaniche, Jean-Christophe Pesquet, Ismail Ben Ayed",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_UNEM_UNrolled_Generalized_EM_for_Transductive_Few-Shot_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2152",
+      "paper_id": "",
+      "title": "Unknown Sniffer for Object Detection: Don't Turn a Blind Eye to Unknown Objects",
+      "authors": "Wenteng Liang, Feng Xue, Yihao Liu, Guofeng Zhong, Anlong Ming",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liang_Unknown_Sniffer_for_Object_Detection_Dont_Turn_a_Blind_Eye_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_221",
+      "paper_id": "",
+      "title": "Unsupervised Continual Domain Shift Learning with Multi-Prototype Modeling",
+      "authors": "Haopeng Sun, Yingwei Zhang, Lumin Xu, Sheng Jin, Ping Luo, Chen Qian, Wentao Liu, Yiqiang Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unsupervised_Continual_Domain_Shift_Learning_with_Multi-Prototype_Modeling_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1654",
+      "paper_id": "",
+      "title": "vCLIMB: A Novel Video Class Incremental Learning Benchmark",
+      "authors": "Andrés Villa, Kumail Alhamoud, Victor Escorcia, Fabian Caba, Juan León Alcázar, Bernard Ghanem",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Villa_vCLIMB_A_Novel_Video_Class_Incremental_Learning_Benchmark_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_866",
+      "paper_id": "",
+      "title": "VQACL: A Novel Visual Question Answering Continual Learning Setting",
+      "authors": "Xi Zhang, Feifei Zhang, Changsheng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_VQACL_A_Novel_Visual_Question_Answering_Continual_Learning_Setting_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1501",
+      "paper_id": "",
+      "title": "What Matters for Meta-Learning Vision Regression Tasks?",
+      "authors": "Ning Gao, Hanna Ziesche, Ngo Anh Vien, Michael Volpp, Gerhard Neumann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_What_Matters_for_Meta-Learning_Vision_Regression_Tasks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    }
+  ]
+}

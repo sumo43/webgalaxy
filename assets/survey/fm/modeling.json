@@ -1,0 +1,159 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Representation & Architecture",
+        "subcategories": [
+          {
+            "id": "1.1",
+            "name": "Token & latent representation",
+            "what_is_covered": "Mapping raw data to discrete/continuous tokens or latents",
+            "typical_examples": "Latent representation learning; token/patch embedding; visual-token projection",
+            "cluster": "0, 14, 17, 18, 19"
+          },
+          {
+            "id": "1.2",
+            "name": "Attention & Transformer variants",
+            "what_is_covered": "Architectural changes that make attention cheaper or deeper",
+            "typical_examples": "Sparse/low-rank attention; spatiotemporal attention; positional scaling",
+            "cluster": "2, 10, 11, 14, 17, 18, 19"
+          },
+          {
+            "id": "1.3",
+            "name": "Mixture-of-Experts & routing",
+            "what_is_covered": "Dynamic selection of expert blocks or routes",
+            "typical_examples": "Modular MoE; dynamic routing; MoE token routing",
+            "cluster": "0, 11, 15, 17, 19"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Generative Paradigms",
+        "subcategories": [
+          {
+            "id": "2.1",
+            "name": "Diffusion & score-based generation",
+            "what_is_covered": "Noise-to-data generative flows",
+            "typical_examples": "UNet diffusion; latent diffusion; guided conditional sampling",
+            "cluster": "2, 3, 4, 5, 10, 13, 18"
+          },
+          {
+            "id": "2.2",
+            "name": "Energy-based & control formulations",
+            "what_is_covered": "Sampling by minimising energy or solving control processes",
+            "typical_examples": "Energy-based score learning; optimal-control SDE; solver-accelerated inversion",
+            "cluster": "13"
+          },
+          {
+            "id": "2.3",
+            "name": "Probabilistic & masked inference",
+            "what_is_covered": "Non-diffusion probabilistic decoders",
+            "typical_examples": "Probabilistic generative inference; masked auto-encoding; next-token prediction",
+            "cluster": "0, 17, 18, 19"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Multimodal Alignment & Fusion",
+        "subcategories": [
+          {
+            "id": "3.1",
+            "name": "Encoders → shared latent space",
+            "what_is_covered": "Separate encoders project each modality into a common space",
+            "typical_examples": "Modality-specific encoders; projection layers; frozen CLIP backbone",
+            "cluster": "1, 6, 12, 18, 19"
+          },
+          {
+            "id": "3.2",
+            "name": "Cross-attention fusion & conditioning",
+            "what_is_covered": "Mechanisms for interaction between modalities",
+            "typical_examples": "Cross-attention fusion; prompt cross-attention; multimodal concatenation",
+            "cluster": "2, 4, 6, 10, 12, 14, 18, 19"
+          },
+          {
+            "id": "3.3",
+            "name": "Vision/Video-language alignment",
+            "what_is_covered": "Aligning paired modalities in latent space",
+            "typical_examples": "Video-language alignment; contrastive alignment; generative self-supervision",
+            "cluster": "1, 8, 12, 14, 18, 19"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Adaptation & Efficiency",
+        "subcategories": [
+          {
+            "id": "4.1",
+            "name": "Parameter-efficient adaptation",
+            "what_is_covered": "Updating only a small subset of weights or added modules",
+            "typical_examples": "LoRA/adapters; low-rank tuning; modular fusion",
+            "cluster": "1, 2, 4, 10, 12, 15, 16, 19"
+          },
+          {
+            "id": "4.2",
+            "name": "Prompting & modular extensions",
+            "what_is_covered": "Steering frozen backbones with prompts or plug-ins",
+            "typical_examples": "Prompt conditioning; chain-of-thought prompting; tool invocation",
+            "cluster": "1, 6, 7, 9, 17, 19"
+          },
+          {
+            "id": "4.3",
+            "name": "Compression & efficient training",
+            "what_is_covered": "Reducing compute, memory or training cost",
+            "typical_examples": "Quantisation; pruning-distillation; communication-efficient sharding",
+            "cluster": "2, 5, 10, 15, 16, 19"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Reasoning & Interaction",
+        "subcategories": [
+          {
+            "id": "5.1",
+            "name": "Chain-of-thought & tool reasoning",
+            "what_is_covered": "Explicit reasoning traces or calls to external tools",
+            "typical_examples": "Chain-of-thought reasoning; retrieval-augmented reasoning; self-refinement",
+            "cluster": "6, 7, 8, 9"
+          },
+          {
+            "id": "5.2",
+            "name": "RL & preference modeling",
+            "what_is_covered": "Reinforcement or preference-based optimisation",
+            "typical_examples": "Preference-conditioned policies; RLHF alignment; optimal-transport RL",
+            "cluster": "3, 9"
+          },
+          {
+            "id": "5.3",
+            "name": "Multi-agent / planner loops",
+            "what_is_covered": "Multiple interacting agents or explicit planner loops",
+            "typical_examples": "Multi-agent collaboration; Planner-Actor-Corrector-Verifier loop",
+            "cluster": "7, 8"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Robustness & Domain Shift",
+        "subcategories": [
+          {
+            "id": "6.1",
+            "name": "Uncertainty & robust optimisation",
+            "what_is_covered": "Estimating confidence and resisting adversarial inputs",
+            "typical_examples": "Uncertainty quantification; adaptive memory; adversarial robustness",
+            "cluster": "0, 9, 16"
+          },
+          {
+            "id": "6.2",
+            "name": "Domain adaptation & model editing",
+            "what_is_covered": "Adapting or editing knowledge post-training",
+            "typical_examples": "Targeted model editing; synthetic-data adaptation; knowledge probing",
+            "cluster": "4, 9, 16, 19"
+          }
+        ]
+      }
+    ]
+  }

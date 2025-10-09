@@ -1,0 +1,2845 @@
+{
+  "cluster_id": 71,
+  "papers": [
+    {
+      "id": "iclr25_q44uq3tc2D",
+      "paper_id": "q44uq3tc2D",
+      "title": "$\\gamma-$MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models",
+      "authors": "Yaxin Luo, Gen Luo, Jiayi Ji, Yiyi Zhou, Xiaoshuai Sun, Zhiqiang Shen, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=q44uq3tc2D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GThTiuXgDC",
+      "paper_id": "GThTiuXgDC",
+      "title": "3D-AffordanceLLM: Harnessing Large Language Models for Open-Vocabulary Affordance Detection in 3D Worlds",
+      "authors": "Hengshuo Chu, Xiang Deng, Qi Lv, Xiaoyang Chen, Yinchuan Li, Jianye HAO, Liqiang Nie",
+      "paper_url": "https://openreview.net/pdf?id=GThTiuXgDC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kIPyTuEZuAK",
+      "paper_id": "kIPyTuEZuAK",
+      "title": "A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics",
+      "authors": "Qing Li, Siyuan Huang, Yining Hong, Yixin Zhu, Ying Nian Wu, Song-Chun Zhu",
+      "paper_url": "https://openreview.net/pdf/09b973c9c84fd934195e0c087cb7af065e9c6829.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_qhkEOCcVX9",
+      "paper_id": "qhkEOCcVX9",
+      "title": "A Newborn Embodied Turing Test for Comparing Object Segmentation Across Animals and Machines",
+      "authors": "Manju Garimella, Denizhan Pak, Justin Newell Wood, Samantha Marie Waters Wood",
+      "paper_url": "https://openreview.net/pdf?id=qhkEOCcVX9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LC6ZtQV6u2",
+      "paper_id": "LC6ZtQV6u2",
+      "title": "Accessing Vision Foundation Models via ImageNet-1K",
+      "authors": "Yitian Zhang, Xu Ma, Yue Bai, Huan Wang, Yun Fu",
+      "paper_url": "https://openreview.net/pdf?id=LC6ZtQV6u2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_RjYKTQ0L0W",
+      "paper_id": "RjYKTQ0L0W",
+      "title": "Achieving Human Parity in Content-Grounded Datasets Generation",
+      "authors": "Asaf Yehudai, Boaz Carmeli, Yosi Mass, Ofir Arviv, Nathaniel Mills, Eyal Shnarch, Leshem Choshen",
+      "paper_url": "https://openreview.net/pdf?id=RjYKTQ0L0W",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_EwFJaXVePU",
+      "paper_id": "EwFJaXVePU",
+      "title": "Adapt-$\\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection",
+      "authors": "Adyasha Maharana, Jaehong Yoon, Tianlong Chen, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=EwFJaXVePU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_b20VK2GnSs",
+      "paper_id": "b20VK2GnSs",
+      "title": "Adapting Multi-modal Large Language Model to Concept Drift From Pre-training Onwards",
+      "authors": "Xiaoyu Yang, Jie Lu, En Yu",
+      "paper_url": "https://openreview.net/pdf?id=b20VK2GnSs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_He2FGdmsas",
+      "paper_id": "He2FGdmsas",
+      "title": "Adaptive Camera Sensor for Vision Models",
+      "authors": "Eunsu Baek, Sung-hwan Han, Taesik Gong, Hyung-Sin Kim",
+      "paper_url": "https://openreview.net/pdf?id=He2FGdmsas",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WipsLtH77t",
+      "paper_id": "WipsLtH77t",
+      "title": "Adaptive Self-training Framework for Fine-grained Scene Graph Generation",
+      "authors": "Kibum Kim, Kanghoon Yoon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park",
+      "paper_url": "https://openreview.net/pdf?id=WipsLtH77t",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_x1ptaXpOYa",
+      "paper_id": "x1ptaXpOYa",
+      "title": "ADOPD: A Large-Scale Document Page Decomposition Dataset",
+      "authors": "Jiuxiang Gu, Xiangxi Shi, Jason Kuen, Lu Qi, Ruiyi Zhang, Anqi Liu, Ani Nenkova, Tong Sun",
+      "paper_url": "https://openreview.net/pdf?id=x1ptaXpOYa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vkkHqoerLV",
+      "paper_id": "vkkHqoerLV",
+      "title": "Alice Benchmarks: Connecting Real World Re-Identification with the Synthetic",
+      "authors": "Xiaoxiao Sun, Yue Yao, Shengjin Wang, Hongdong Li, Liang Zheng",
+      "paper_url": "https://openreview.net/pdf?id=vkkHqoerLV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_97Dl82avFs",
+      "paper_id": "97Dl82avFs",
+      "title": "Alt-Text with Context: Improving Accessibility for Images on Twitter",
+      "authors": "Nikita Srivatsan, Sofia Samaniego, Omar Florez, Taylor Berg-Kirkpatrick",
+      "paper_url": "https://openreview.net/pdf?id=97Dl82avFs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_n70oyIlS4g",
+      "paper_id": "n70oyIlS4g",
+      "title": "An Extensible Multi-modal Multi-task Object Dataset with Materials",
+      "authors": "Trevor Scott Standley, Ruohan Gao, Dawn Chen, Jiajun Wu, Silvio Savarese",
+      "paper_url": "https://openreview.net/pdf/e8afd23963050ab7468dcd74394d5b194f47d7e7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_p3NKpom1VL",
+      "paper_id": "p3NKpom1VL",
+      "title": "Analyzing and Boosting the Power of Fine-Grained Visual Recognition for Multi-modal Large Language Models",
+      "authors": "Hulingxiao He, Geng Li, Zijun Geng, Jinglin Xu, Yuxin Peng",
+      "paper_url": "https://openreview.net/pdf?id=p3NKpom1VL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oZDJKTlOUe",
+      "paper_id": "oZDJKTlOUe",
+      "title": "Analyzing and Mitigating Object Hallucination in Large Vision-Language Models",
+      "authors": "Yiyang Zhou, Chenhang Cui, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, Huaxiu Yao",
+      "paper_url": "https://openreview.net/pdf?id=oZDJKTlOUe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_c4OGMNyzPT",
+      "paper_id": "c4OGMNyzPT",
+      "title": "Are Large Vision Language Models Good Game Players?",
+      "authors": "Xinyu Wang, Bohan Zhuang, Qi Wu",
+      "paper_url": "https://openreview.net/pdf?id=c4OGMNyzPT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_w1JanwReU6",
+      "paper_id": "w1JanwReU6",
+      "title": "Are Models Biased on Text without Gender-related Language?",
+      "authors": "Catarina G Belém, Preethi Seshadri, Yasaman Razeghi, Sameer Singh",
+      "paper_url": "https://openreview.net/pdf?id=w1JanwReU6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_CVfLvQq9gLo",
+      "paper_id": "CVfLvQq9gLo",
+      "title": "ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity",
+      "authors": "Ginger Delmas, Rafael S. Rezende, Gabriela Csurka, Diane Larlus",
+      "paper_url": "https://openreview.net/pdf/7417abca3de0104a752284ee1cbdc467dd175c20.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_w5ZtXOzMeJ",
+      "paper_id": "w5ZtXOzMeJ",
+      "title": "Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval-Augmented Generation",
+      "authors": "Tobias Leemann, Periklis Petridis, Giuseppe Vietri, Dionysis Manousakas, Aaron Roth, Sergul Aydore",
+      "paper_url": "https://openreview.net/pdf?id=w5ZtXOzMeJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_COYDmKkQH4",
+      "paper_id": "COYDmKkQH4",
+      "title": "AutoCast++: Enhancing World Event Prediction with Zero-shot Ranking-based Context Retrieval",
+      "authors": "Qi Yan, Raihan Seraj, Jiawei He, Lili Meng, Tristan Sylvain",
+      "paper_url": "https://openreview.net/pdf?id=COYDmKkQH4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jTEKTdI3K9",
+      "paper_id": "jTEKTdI3K9",
+      "title": "AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models",
+      "authors": "Kim Sung-Bin, Oh Hyun-Bin, JungMok Lee, Arda Senocak, Joon Son Chung, Tae-Hyun Oh",
+      "paper_url": "https://openreview.net/pdf?id=jTEKTdI3K9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_wHLDHRkmEu",
+      "paper_id": "wHLDHRkmEu",
+      "title": "BarLeRIa: An Efficient Tuning Framework for Referring Image Segmentation",
+      "authors": "Yaoming Wang, Jin Li, XIAOPENG ZHANG, Bowen Shi, Chenglin Li, Wenrui Dai, Hongkai Xiong, Qi Tian",
+      "paper_url": "https://openreview.net/pdf?id=wHLDHRkmEu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_VvDEuyVXkG",
+      "paper_id": "VvDEuyVXkG",
+      "title": "Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent",
+      "authors": "Yangning Li, Yinghui Li, Xinyu Wang, Yong Jiang, Zhen Zhang, Xinran Zheng, Hui Wang, Hai-Tao Zheng, Fei Huang, Jingren Zhou, Philip S. Yu",
+      "paper_url": "https://openreview.net/pdf?id=VvDEuyVXkG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0y3hGn1wOk",
+      "paper_id": "0y3hGn1wOk",
+      "title": "Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset",
+      "authors": "Yingzi Ma, Jiongxiao Wang, Fei Wang, Siyuan Ma, Jiazhao Li, Jinsheng Pan, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao",
+      "paper_url": "https://openreview.net/pdf?id=0y3hGn1wOk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hdYqGkSr9S",
+      "paper_id": "hdYqGkSr9S",
+      "title": "Benchmarking Zero-Shot Recognition with Vision-Language Models: Challenges on Granularity and Specificity",
+      "authors": "Zhenlin Xu, Yi Zhu, Siqi Deng, Abhay Mittal, Yanbei Chen, Manchen Wang, Paolo Favaro, Joseph Tighe, Davide Modolo",
+      "paper_url": "https://openreview.net/pdf?id=hdYqGkSr9S",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_mMaQvkMzDi",
+      "paper_id": "mMaQvkMzDi",
+      "title": "Beyond task performance: evaluating and reducing the flaws of large multimodal models with in-context-learning",
+      "authors": "Mustafa Shukor, Alexandre Rame, Corentin Dancette, Matthieu Cord",
+      "paper_url": "https://openreview.net/pdf?id=mMaQvkMzDi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jJCeMiwHdH",
+      "paper_id": "jJCeMiwHdH",
+      "title": "BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs",
+      "authors": "Zifeng Wang, Zichen Wang, Balasubramaniam Srinivasan, Vassilis N. Ioannidis, Huzefa Rangwala, RISHITA ANUBHAI",
+      "paper_url": "https://openreview.net/pdf?id=jJCeMiwHdH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_g1fkhbhHjL",
+      "paper_id": "g1fkhbhHjL",
+      "title": "Black Sheep in the Herd: Playing with Spuriously Correlated Attributes for Vision-Language Recognition",
+      "authors": "Xinyu Tian, Shu Zou, Zhaoyuan Yang, Mengqi He, Jing Zhang",
+      "paper_url": "https://openreview.net/pdf?id=g1fkhbhHjL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9yJKTosUex",
+      "paper_id": "9yJKTosUex",
+      "title": "Boltzmann Semantic Score: A Semantic Metric for Evaluating Large Vision Models Using Large Language Models",
+      "authors": "Ali Khajegili Mirabadi, Katherine Rich, Hossein Farahani, Ali Bashashati",
+      "paper_url": "https://openreview.net/pdf?id=9yJKTosUex",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hWS4MueyzC",
+      "paper_id": "hWS4MueyzC",
+      "title": "Bongard-OpenWorld: Few-Shot Reasoning for Free-form Visual Concepts in the Real World",
+      "authors": "Rujie Wu, Xiaojian Ma, Zhenliang Zhang, Wei Wang, Qing Li, Song-Chun Zhu, Yizhou Wang",
+      "paper_url": "https://openreview.net/pdf?id=hWS4MueyzC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9bmTbVaA2A",
+      "paper_id": "9bmTbVaA2A",
+      "title": "Bootstrapping Variational Information Pursuit with Large Language and Vision Models for Interpretable Image Classification",
+      "authors": "Aditya Chattopadhyay, Kwan Ho Ryan Chan, Rene Vidal",
+      "paper_url": "https://openreview.net/pdf?id=9bmTbVaA2A",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GSUNPIw7Ad",
+      "paper_id": "GSUNPIw7Ad",
+      "title": "Bridging Compressed Image Latents and Multimodal Large Language Models",
+      "authors": "Chia-Hao Kao, Cheng Chien, Yu-Jen Tseng, Yi-Hsin Chen, Alessandro Gnutti, Shao-Yuan Lo, Wen-Hsiao Peng, Riccardo Leonardi",
+      "paper_url": "https://openreview.net/pdf?id=GSUNPIw7Ad",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_lK2V2E2MNv",
+      "paper_id": "lK2V2E2MNv",
+      "title": "Bridging Vision and Language Spaces with Assignment Prediction",
+      "authors": "Jungin Park, Jiyoung Lee, Kwanghoon Sohn",
+      "paper_url": "https://openreview.net/pdf?id=lK2V2E2MNv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hmDt068MoZ",
+      "paper_id": "hmDt068MoZ",
+      "title": "Can Knowledge Editing Really Correct Hallucinations?",
+      "authors": "Baixiang Huang, Canyu Chen, Xiongxiao Xu, Ali Payani, Kai Shu",
+      "paper_url": "https://openreview.net/pdf?id=hmDt068MoZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5BXWhVbHAK",
+      "paper_id": "5BXWhVbHAK",
+      "title": "Can One Modality Model Synergize Training of Other Modality Models?",
+      "authors": "Jae-Jun Lee, Sung Whan Yoon",
+      "paper_url": "https://openreview.net/pdf?id=5BXWhVbHAK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_P9VdRQOyqu",
+      "paper_id": "P9VdRQOyqu",
+      "title": "Can Video LLMs Refuse to Answer? Alignment for Answerability in Video Large Language Models",
+      "authors": "Eunseop Yoon, Hee Suk Yoon, Mark A. Hasegawa-Johnson, Chang D. Yoo",
+      "paper_url": "https://openreview.net/pdf?id=P9VdRQOyqu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_l8zRnvD95l",
+      "paper_id": "l8zRnvD95l",
+      "title": "CarbonSense: A Multimodal Dataset and Baseline for Carbon Flux Modelling",
+      "authors": "Matthew Fortier, Mats Leon Richter, Oliver Sonnentag, Christopher Pal",
+      "paper_url": "https://openreview.net/pdf?id=l8zRnvD95l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_haJHr4UsQX",
+      "paper_id": "haJHr4UsQX",
+      "title": "Causal Graphical Models for Vision-Language Compositional Understanding",
+      "authors": "Fiorenzo Parascandolo, Nicholas Moratelli, Enver Sangineto, Lorenzo Baraldi, Rita Cucchiara",
+      "paper_url": "https://openreview.net/pdf?id=haJHr4UsQX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8XqDnrmZQNF",
+      "paper_id": "8XqDnrmZQNF",
+      "title": "Causality Compensated Attention for Contextual Biased Visual Recognition",
+      "authors": "Ruyang Liu, Jingjia Huang, Thomas H. Li, Ge Li",
+      "paper_url": "https://openreview.net/pdf/bf453ea8d3f212490b7e43897f70ec14cc523533.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1KLBvrYz3V",
+      "paper_id": "1KLBvrYz3V",
+      "title": "Century: A Framework and Dataset for Evaluating Historical Contextualisation of Sensitive Images",
+      "authors": "Canfer Akbulut, Kevin Robinson, Maribeth Rauh, Isabela Albuquerque, Olivia Wiles, Laura Weidinger, Verena Rieser, Yana Hasson, Nahema Marchal, Iason Gabriel, William Isaac, Lisa Anne Hendricks",
+      "paper_url": "https://openreview.net/pdf?id=1KLBvrYz3V",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cQ25MQQSNI",
+      "paper_id": "cQ25MQQSNI",
+      "title": "CertainlyUncertain: A Benchmark and Metric for Multimodal Epistemic and Aleatoric Awareness",
+      "authors": "Khyathi Chandu, Linjie Li, Anas Awadalla, Ximing Lu, Jae Sung Park, Jack Hessel, Lijuan Wang, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=cQ25MQQSNI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1BdPHbuimc",
+      "paper_id": "1BdPHbuimc",
+      "title": "Chain-of-Action: Faithful and Multimodal Question Answering through Large Language Models",
+      "authors": "Zhenyu Pan, Haozheng Luo, Manling Li, Han Liu",
+      "paper_url": "https://openreview.net/pdf?id=1BdPHbuimc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M6fYrICcQs",
+      "paper_id": "M6fYrICcQs",
+      "title": "Chain-of-region: Visual Language Models Need  Details for Diagram Analysis",
+      "authors": "Xue Li, Yiyou Sun, Wei Cheng, Yinglun Zhu, Haifeng Chen",
+      "paper_url": "https://openreview.net/pdf?id=M6fYrICcQs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sGpCzsfd1K",
+      "paper_id": "sGpCzsfd1K",
+      "title": "ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation",
+      "authors": "Cheng Yang, Chufan Shi, Yaxin Liu, Bo Shui, Junjie Wang, Mohan Jing, Linran XU, Xinyu Zhu, Siheng Li, Yuxiang Zhang, Gongye Liu, Xiaomei Nie, Deng Cai, Yujiu Yang",
+      "paper_url": "https://openreview.net/pdf?id=sGpCzsfd1K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_o5TsWTUSeF",
+      "paper_id": "o5TsWTUSeF",
+      "title": "ChartMoE: Mixture of Diversely Aligned Expert Connector for Chart Understanding",
+      "authors": "Zhengzhuo Xu, Bowen Qu, Yiyan Qi, SiNan Du, Chengjin Xu, Chun Yuan, Jian Guo",
+      "paper_url": "https://openreview.net/pdf?id=o5TsWTUSeF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7lpDn2MhM2",
+      "paper_id": "7lpDn2MhM2",
+      "title": "CHiP: Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs",
+      "authors": "Jinlan Fu, huangfushenzhen, Hao Fei, Xiaoyu Shen, Bryan Hooi, Xipeng Qiu, See-Kiong Ng",
+      "paper_url": "https://openreview.net/pdf?id=7lpDn2MhM2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7nOl5W6xU4",
+      "paper_id": "7nOl5W6xU4",
+      "title": "CityAnchor: City-scale 3D Visual Grounding with Multi-modality LLMs",
+      "authors": "Jinpeng Li, Haiping Wang, Jiabin chen, Yuan Liu, Zhiyang Dou, Yuexin Ma, Sibei Yang, Yuan Li, Wenping Wang, Zhen Dong, Bisheng Yang",
+      "paper_url": "https://openreview.net/pdf?id=7nOl5W6xU4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TOtk9dTYGG",
+      "paper_id": "TOtk9dTYGG",
+      "title": "ClawMachine: Learning to Fetch Visual Tokens for Referential Comprehension",
+      "authors": "Tianren Ma, Lingxi Xie, Yunjie Tian, Boyu Yang, Qixiang Ye",
+      "paper_url": "https://openreview.net/pdf?id=TOtk9dTYGG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_rHMaBYbkkRJ",
+      "paper_id": "rHMaBYbkkRJ",
+      "title": "CLEVA-Compass: A Continual Learning Evaluation Assessment Compass to Promote Research Transparency and Comparability",
+      "authors": "Martin Mundt, Steven Lang, Quentin Delfosse, Kristian Kersting",
+      "paper_url": "https://openreview.net/pdf/966f7548b61575e6823e6bf65299692e5dc4bc71.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_d5HUnyByAI",
+      "paper_id": "d5HUnyByAI",
+      "title": "CLIBD: Bridging Vision and Genomics for Biodiversity Monitoring at Scale",
+      "authors": "ZeMing Gong, Austin Wang, Xiaoliang Huo, Joakim Bruslund Haurum, Scott C. Lowe, Graham W. Taylor, Angel X Chang",
+      "paper_url": "https://openreview.net/pdf?id=d5HUnyByAI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_iPWiwWHc1V",
+      "paper_id": "iPWiwWHc1V",
+      "title": "CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks",
+      "authors": "Tuomas Oikarinen, Tsui-Wei Weng",
+      "paper_url": "https://openreview.net/pdf/a302e0072a6e15c8c0361c022bb9d3518f1a7127.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_GNjzMAgawq",
+      "paper_id": "GNjzMAgawq",
+      "title": "CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Alignment",
+      "authors": "Hongwei Xue, Yuchong Sun, Bei Liu, Jianlong Fu, Ruihua Song, Houqiang Li, Jiebo Luo",
+      "paper_url": "https://openreview.net/pdf/f8c079d34aee5b9409dbf8a160ba5d1d8b547b1f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Fg0eo2AkST",
+      "paper_id": "Fg0eo2AkST",
+      "title": "CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning",
+      "authors": "Ji Qi, Ming Ding, Weihan Wang, Yushi Bai, Qingsong Lv, Wenyi Hong, Bin Xu, Lei Hou, Juanzi Li, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://openreview.net/pdf?id=Fg0eo2AkST",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ogjBpZ8uSi",
+      "paper_id": "ogjBpZ8uSi",
+      "title": "ColPali: Efficient Document Retrieval with Vision Language Models",
+      "authors": "Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, CELINE HUDELOT, Pierre Colombo",
+      "paper_url": "https://openreview.net/pdf?id=ogjBpZ8uSi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Mos9F9kDwkz",
+      "paper_id": "Mos9F9kDwkz",
+      "title": "Complex Query Answering with Neural Link Predictors",
+      "authors": "Erik Arakelyan, Daniel Daza, Pasquale Minervini, Michael Cochez",
+      "paper_url": "https://openreview.net/pdf/f3977c5e4b8a00127c9aed2b62ae904f29f06744.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_3i13Gev2hV",
+      "paper_id": "3i13Gev2hV",
+      "title": "Compositional Entailment Learning for Hyperbolic Vision-Language Models",
+      "authors": "Avik Pal, Max van Spengler, Guido Maria D'Amely di Melendugno, Alessandro Flaborea, Fabio Galasso, Pascal Mettes",
+      "paper_url": "https://openreview.net/pdf?id=3i13Gev2hV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_C2ulri4duIs",
+      "paper_id": "C2ulri4duIs",
+      "title": "Computational Language Acquisition with Theory of Mind",
+      "authors": "Andy Liu, Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/b8215e9ec231405a7f97d58eb05eb515dbef7abe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ttXg3SKAg5",
+      "paper_id": "ttXg3SKAg5",
+      "title": "Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data",
+      "authors": "Yuhui Zhang, Elaine Sui, Serena Yeung",
+      "paper_url": "https://openreview.net/pdf?id=ttXg3SKAg5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_j0ZvKSNZiP",
+      "paper_id": "j0ZvKSNZiP",
+      "title": "ContextRef: Evaluating Referenceless Metrics for Image Description Generation",
+      "authors": "Elisa Kreiss, Eric Zelikman, Christopher Potts, Nick Haber",
+      "paper_url": "https://openreview.net/pdf?id=j0ZvKSNZiP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Oh1r2wApbPv",
+      "paper_id": "Oh1r2wApbPv",
+      "title": "Contextualized Scene Imagination for Generative Commonsense Reasoning",
+      "authors": "PeiFeng Wang, Jonathan Zamora, Junfeng Liu, Filip Ilievski, Muhao Chen, Xiang Ren",
+      "paper_url": "https://openreview.net/pdf/a66e1b12b2211131a44463611c8c272c21decbfb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_xkgfLXZ4e0",
+      "paper_id": "xkgfLXZ4e0",
+      "title": "Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)",
+      "authors": "SUBBA REDDY OOTA, Akshett Rai Jindal, Ishani Mondal, Khushbu Pahwa, Satya Sai Srinath Namburi GNVV, Manish Shrivastava, Maneesh Kumar Singh, Bapi Raju Surampudi, Manish Gupta",
+      "paper_url": "https://openreview.net/pdf?id=xkgfLXZ4e0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ORUiqcLpV6",
+      "paper_id": "ORUiqcLpV6",
+      "title": "CoT3DRef: Chain-of-Thoughts Data-Efficient 3D Visual Grounding",
+      "authors": "Eslam Mohamed BAKR, Mohamed Ayman Mohamed, Mahmoud Ahmed, Habib Slim, Mohamed Elhoseiny",
+      "paper_url": "https://openreview.net/pdf?id=ORUiqcLpV6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_PHGxChm1l5",
+      "paper_id": "PHGxChm1l5",
+      "title": "CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding",
+      "authors": "Junyan Li, Delin Chen, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=PHGxChm1l5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_45rvZkJbuX",
+      "paper_id": "45rvZkJbuX",
+      "title": "Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models",
+      "authors": "Shicheng Xu, Liang Pang, Yunchang Zhu, Huawei Shen, Xueqi Cheng",
+      "paper_url": "https://openreview.net/pdf?id=45rvZkJbuX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JUr0YOMvZA",
+      "paper_id": "JUr0YOMvZA",
+      "title": "DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models",
+      "authors": "Kaishen Wang, Hengrui Gu, Meijun Gao, Kaixiong Zhou",
+      "paper_url": "https://openreview.net/pdf?id=JUr0YOMvZA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ITq4ZRUT4a",
+      "paper_id": "ITq4ZRUT4a",
+      "title": "Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation",
+      "authors": "Jaemin Cho, Yushi Hu, Jason Michael Baldridge, Roopal Garg, Peter Anderson, Ranjay Krishna, Mohit Bansal, Jordi Pont-Tuset, Su Wang",
+      "paper_url": "https://openreview.net/pdf?id=ITq4ZRUT4a",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_qtWjSboqfe",
+      "paper_id": "qtWjSboqfe",
+      "title": "DEEM: Diffusion models serve as the eyes of large language models for image perception",
+      "authors": "Run Luo, Yunshui Li, Longze Chen, Wanwei He, Ting-En Lin, Ziqiang Liu, Lei Zhang, Zikai Song, Hamid Rokny, Xiaobo Xia, Tongliang Liu, Binyuan Hui, Min Yang",
+      "paper_url": "https://openreview.net/pdf?id=qtWjSboqfe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iGafR0hSln",
+      "paper_id": "iGafR0hSln",
+      "title": "DenseGrounding: Improving Dense Language-Vision Semantics for Ego-centric 3D Visual Grounding",
+      "authors": "Henry Zheng, Hao Shi, Qihang Peng, Yong Xien Chng, Rui Huang, Yepeng Weng, zhongchao shi, Gao Huang",
+      "paper_url": "https://openreview.net/pdf?id=iGafR0hSln",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_D-zfUK7BR6c",
+      "paper_id": "D-zfUK7BR6c",
+      "title": "Diagnosing and Rectifying Vision Models using Language",
+      "authors": "Yuhui Zhang, Jeff Z. HaoChen, Shih-Cheng Huang, Kuan-Chieh Wang, James Zou, Serena Yeung",
+      "paper_url": "https://openreview.net/pdf/abc659a15fb9f9adb64485d7e5837a76f8f5f216.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_M8gXSFGkn2",
+      "paper_id": "M8gXSFGkn2",
+      "title": "Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions?",
+      "authors": "Boshen Xu, Ziheng Wang, Yang Du, Zhinan Song, Sipeng Zheng, Qin Jin",
+      "paper_url": "https://openreview.net/pdf?id=M8gXSFGkn2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lCasyP21Bf",
+      "paper_id": "lCasyP21Bf",
+      "title": "Do Vision & Language Decoders use Images and Text equally? How Self-consistent are their Explanations?",
+      "authors": "Letitia Parcalabescu, Anette Frank",
+      "paper_url": "https://openreview.net/pdf?id=lCasyP21Bf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_84pDoCD4lH",
+      "paper_id": "84pDoCD4lH",
+      "title": "Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities",
+      "authors": "Zheyuan Zhang, Fengyuan Hu, Jayjun Lee, Freda Shi, Parisa Kordjamshidi, Joyce Chai, Ziqiao Ma",
+      "paper_url": "https://openreview.net/pdf?id=84pDoCD4lH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ziw5bzg2NO",
+      "paper_id": "ziw5bzg2NO",
+      "title": "Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding",
+      "authors": "Yeongjae Cho, Keonwoo Kim, Taebaek Hwang, Sungzoon Cho",
+      "paper_url": "https://openreview.net/pdf?id=ziw5bzg2NO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_FPCMqjI0jXN",
+      "paper_id": "FPCMqjI0jXN",
+      "title": "Domino: Discovering Systematic Errors with Cross-Modal Embeddings",
+      "authors": "Sabri Eyuboglu, Maya Varma, Khaled Kamal Saab, Jean-Benoit Delbrouck, Christopher Lee-Messer, Jared Dunnmon, James Zou, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/a5ca838a35d810400cfa090453cd85abe02ab6b0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_bfa58H1nQ8",
+      "paper_id": "bfa58H1nQ8",
+      "title": "Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want",
+      "authors": "Weifeng Lin, Xinyu Wei, Ruichuan An, Peng Gao, Bocheng Zou, Yulin Luo, Siyuan Huang, Shanghang Zhang, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=bfa58H1nQ8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_y01KGvd9Bw",
+      "paper_id": "y01KGvd9Bw",
+      "title": "DreamLLM: Synergistic Multimodal Comprehension and Creation",
+      "authors": "Runpei Dong, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, Jinrong Yang, Liang Zhao, Jianjian Sun, Hongyu Zhou, Haoran Wei, Xiangwen Kong, Xiangyu Zhang, Kaisheng Ma, Li Yi",
+      "paper_url": "https://openreview.net/pdf?id=y01KGvd9Bw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_X1OfiRYCLn",
+      "paper_id": "X1OfiRYCLn",
+      "title": "Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping",
+      "authors": "Yue Yang, Shuibo Zhang, Kaipeng Zhang, Yi Bin, Yu Wang, Ping Luo, Wenqi Shao",
+      "paper_url": "https://openreview.net/pdf?id=X1OfiRYCLn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Y2RW9EVwhT",
+      "paper_id": "Y2RW9EVwhT",
+      "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders",
+      "authors": "Min Shi, Fuxiao Liu, Shihao Wang, Shijia Liao, Subhashree Radhakrishnan, Yilin Zhao, De-An Huang, Hongxu Yin, Karan Sapra, Yaser Yacoob, Humphrey Shi, Bryan Catanzaro, Andrew Tao, Jan Kautz, Zhiding Yu, Guilin Liu",
+      "paper_url": "https://openreview.net/pdf?id=Y2RW9EVwhT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ldxlzGYWDmW",
+      "paper_id": "ldxlzGYWDmW",
+      "title": "Effective Abstract Reasoning with Dual-Contrast Network",
+      "authors": "Tao Zhuo, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf/130f155d219a92a6ce0511bf6e936499ff17abdd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Ev4iw23gdI",
+      "paper_id": "Ev4iw23gdI",
+      "title": "EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment",
+      "authors": "Yifei Xing, Xiangyuan Lan, Ruiping Wang, Dongmei Jiang, Wenjun Huang, Zheng Qingfang, Yaowei Wang",
+      "paper_url": "https://openreview.net/pdf?id=Ev4iw23gdI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mL8Q9OOamV",
+      "paper_id": "mL8Q9OOamV",
+      "title": "Emu: Generative Pretraining in Multimodality",
+      "authors": "Quan Sun, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang",
+      "paper_url": "https://openreview.net/pdf?id=mL8Q9OOamV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lHbLpwbEyt",
+      "paper_id": "lHbLpwbEyt",
+      "title": "Enhancing Cognition and Explainability of Multimodal Foundation Models with Self-Synthesized Data",
+      "authors": "Yucheng Shi, Quanzheng Li, Jin Sun, Xiang Li, Ninghao Liu",
+      "paper_url": "https://openreview.net/pdf?id=lHbLpwbEyt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7gUrYE50Rb",
+      "paper_id": "7gUrYE50Rb",
+      "title": "EQA-MX: Embodied Question Answering using Multimodal Expression",
+      "authors": "Md Mofijul Islam, Alexi Gladstone, Riashat Islam, Tariq Iqbal",
+      "paper_url": "https://openreview.net/pdf?id=7gUrYE50Rb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QoDDNkx4fP",
+      "paper_id": "QoDDNkx4fP",
+      "title": "ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time",
+      "authors": "Yi Ding, Bolian Li, Ruqi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=QoDDNkx4fP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_i7LCsDMcZ4",
+      "paper_id": "i7LCsDMcZ4",
+      "title": "EventRPG: Event Data Augmentation with Relevance Propagation Guidance",
+      "authors": "Mingyuan Sun, Donghao Zhang, Zongyuan Ge, WANG Jiaxu, Jia Li, Zheng Fang, Renjing Xu",
+      "paper_url": "https://openreview.net/pdf?id=i7LCsDMcZ4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_xI1ZTtVOtlz",
+      "paper_id": "xI1ZTtVOtlz",
+      "title": "Evidential Uncertainty and Diversity Guided Active Learning for Scene Graph Generation",
+      "authors": "Shuzhou Sun, Shuaifeng Zhi, Janne Heikkilä, Li Liu",
+      "paper_url": "https://openreview.net/pdf/c37f8ea52ab1545e242ee87c5a41b74f2f63a0f1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_246rHKUnnf",
+      "paper_id": "246rHKUnnf",
+      "title": "Explore Theory of Mind: program-guided adversarial data generation for theory of mind reasoning",
+      "authors": "Melanie Sclar, Jane Dwivedi-Yu, Maryam Fazel-Zarandi, Yulia Tsvetkov, Yonatan Bisk, Yejin Choi, Asli Celikyilmaz",
+      "paper_url": "https://openreview.net/pdf?id=246rHKUnnf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SgymXhOEA5",
+      "paper_id": "SgymXhOEA5",
+      "title": "Exploring the Camera Bias of Person Re-identification",
+      "authors": "Myungseo Song, Jin-Woo Park, Jong-Seok Lee",
+      "paper_url": "https://openreview.net/pdf?id=SgymXhOEA5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UN6Ik6OCx8",
+      "paper_id": "UN6Ik6OCx8",
+      "title": "Exploring the Design Space of Visual Context Representation in Video MLLMs",
+      "authors": "Yifan Du, Yuqi Huo, Kun Zhou, Zijia Zhao, Haoyu Lu, Han Huang, Xin Zhao, Bingning Wang, weipeng chen, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=UN6Ik6OCx8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DD11okKg13",
+      "paper_id": "DD11okKg13",
+      "title": "Exploring the Effectiveness of Object-Centric Representations in Visual Question Answering: Comparative Insights with Foundation Models",
+      "authors": "Amir Mohammad Karimi Mamaghan, Samuele Papa, Karl Henrik Johansson, Stefan Bauer, Andrea Dittadi",
+      "paper_url": "https://openreview.net/pdf?id=DD11okKg13",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_xkev3_np08z",
+      "paper_id": "xkev3_np08z",
+      "title": "ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion",
+      "authors": "Aleksandar Pavlović, Emanuel Sallinger",
+      "paper_url": "https://openreview.net/pdf/071ed2e450ebd00e88fdcae80a0773cfe4c7aec8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rp0EdI8X4e",
+      "paper_id": "rp0EdI8X4e",
+      "title": "Faithful Vision-Language Interpretation via Concept Bottleneck Models",
+      "authors": "Songning Lai, Lijie Hu, Junxiao Wang, Laure Berti-Equille, Di Wang",
+      "paper_url": "https://openreview.net/pdf?id=rp0EdI8X4e",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_htWIlvDcY8",
+      "paper_id": "htWIlvDcY8",
+      "title": "FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations",
+      "authors": "Lingjie Mei, Jiayuan Mao, Ziqi Wang, Chuang Gan, Joshua B. Tenenbaum",
+      "paper_url": "https://openreview.net/pdf/074074edfbe3b59bf1651653fcf8002522df2588.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_1EnpStvBU8",
+      "paper_id": "1EnpStvBU8",
+      "title": "Feast Your Eyes:  Mixture-of-Resolution Adaptation for Multimodal Large Language Models",
+      "authors": "Gen Luo, Yiyi Zhou, Yuxin Zhang, Xiawu Zheng, Xiaoshuai Sun, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=1EnpStvBU8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GBfYgjOfSe",
+      "paper_id": "GBfYgjOfSe",
+      "title": "Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms",
+      "authors": "Zhangheng LI, Keen You, Haotian Zhang, Di Feng, Harsh Agrawal, Xiujun Li, Mohana Prasad Sathya Moorthy, Jeffrey Nichols, Yinfei Yang, Zhe Gan",
+      "paper_url": "https://openreview.net/pdf?id=GBfYgjOfSe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_2msbbX3ydD",
+      "paper_id": "2msbbX3ydD",
+      "title": "Ferret: Refer and Ground Anything Anywhere at Any Granularity",
+      "authors": "Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=2msbbX3ydD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_qI4542Y2s1D",
+      "paper_id": "qI4542Y2s1D",
+      "title": "FILM: Following Instructions in Language with Modular Methods",
+      "authors": "So Yeon Min, Devendra Singh Chaplot, Pradeep Kumar Ravikumar, Yonatan Bisk, Ruslan Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf/097027dcab1f74c4d68412bd97c6299ec48d6c67.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_cJQ1K2fjpD",
+      "paper_id": "cJQ1K2fjpD",
+      "title": "Fine-Grained Verifiers: Preference Modeling as Next-token Prediction in Vision-Language Alignment",
+      "authors": "Chenhang Cui, An Zhang, Yiyang Zhou, Zhaorun Chen, Gelei Deng, Huaxiu Yao, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf?id=cJQ1K2fjpD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BXY6fe7q31",
+      "paper_id": "BXY6fe7q31",
+      "title": "Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions",
+      "authors": "Juncheng Li, Kaihang Pan, Zhiqi Ge, Minghe Gao, Wei Ji, Wenqiao Zhang, Tat-Seng Chua, Siliang Tang, Hanwang Zhang, Yueting Zhuang",
+      "paper_url": "https://openreview.net/pdf?id=BXY6fe7q31",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_g6rZtxaXRm",
+      "paper_id": "g6rZtxaXRm",
+      "title": "Follow-Up Differential Descriptions: Language Models Resolve Ambiguities for Image Classification",
+      "authors": "Reza Esfandiarpoor, Stephen Bach",
+      "paper_url": "https://openreview.net/pdf?id=g6rZtxaXRm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_JV8zULNh24",
+      "paper_id": "JV8zULNh24",
+      "title": "From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question-Answering",
+      "authors": "Nathaniel Weir, Bhavana Dalvi Mishra, Orion Weller, Oyvind Tafjord, Sam Hornstein, Alexander Sabol, Peter Jansen, Benjamin Van Durme, Peter Clark",
+      "paper_url": "https://openreview.net/pdf?id=JV8zULNh24",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_px1674Wp3C",
+      "paper_id": "px1674Wp3C",
+      "title": "G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model",
+      "authors": "Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing HONG, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf?id=px1674Wp3C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_iLMgk2IGNyv",
+      "paper_id": "iLMgk2IGNyv",
+      "title": "GAMR: A Guided Attention Model for (visual) Reasoning",
+      "authors": "Mohit Vaishnav, Thomas Serre",
+      "paper_url": "https://openreview.net/pdf/66fcdeb1236a4c6085e1902756d2129bbdca7f0e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1qbZekXGrp",
+      "paper_id": "1qbZekXGrp",
+      "title": "Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension",
+      "authors": "Jingcheng Ke, Jun-cheng Chen, I-hong Jhuo, Chia-Wen Lin, Yen-Yu Lin",
+      "paper_url": "https://openreview.net/pdf?id=1qbZekXGrp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MNShbDSxKH",
+      "paper_id": "MNShbDSxKH",
+      "title": "GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules",
+      "authors": "Zhenfang Chen, Rui Sun, Wenjun Liu, Yining Hong, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=MNShbDSxKH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cfGpIcOIa5",
+      "paper_id": "cfGpIcOIa5",
+      "title": "GeoILP: A Synthetic Dataset to Guide Large-Scale Rule Induction",
+      "authors": "Si Chen, Richong Zhang, Xu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=cfGpIcOIa5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TqL2xBwXP3",
+      "paper_id": "TqL2xBwXP3",
+      "title": "GeoLLM: Extracting Geospatial Knowledge from Large Language Models",
+      "authors": "Rohin Manvi, Samar Khanna, Gengchen Mai, Marshall Burke, David B. Lobell, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=TqL2xBwXP3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_z9UABOHCZc",
+      "paper_id": "z9UABOHCZc",
+      "title": "GeoTimeCLIP: Unveiling the When and Where of Images",
+      "authors": "David G Shatwell, Ishan Rajendrakumar Dave, Swetha Sirnam, Mubarak Shah",
+      "paper_url": "https://openreview.net/pdf?id=z9UABOHCZc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6RiBl5sCDF",
+      "paper_id": "6RiBl5sCDF",
+      "title": "GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training",
+      "authors": "Renqiu Xia, Mingsheng Li, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang",
+      "paper_url": "https://openreview.net/pdf?id=6RiBl5sCDF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_W-nZDQyuy8D",
+      "paper_id": "W-nZDQyuy8D",
+      "title": "GOOD: Exploring geometric cues for detecting objects in an open world",
+      "authors": "Haiwen Huang, Andreas Geiger, Dan Zhang",
+      "paper_url": "https://openreview.net/pdf/d55d4b336cddc4a1185f421d39dfd75b4af4e13e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_pe0Vdv7rsL",
+      "paper_id": "pe0Vdv7rsL",
+      "title": "Graph Transformers on EHRs: Better Representation Improves Downstream Performance",
+      "authors": "Raphael Poulain, Rahmatollah Beheshti",
+      "paper_url": "https://openreview.net/pdf?id=pe0Vdv7rsL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_tVTN7Zs0ml",
+      "paper_id": "tVTN7Zs0ml",
+      "title": "GraphCare: Enhancing Healthcare Predictions with Personalized Knowledge Graphs",
+      "authors": "Pengcheng Jiang, Cao Xiao, Adam Richard Cross, Jimeng Sun",
+      "paper_url": "https://openreview.net/pdf?id=tVTN7Zs0ml",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_M9iky9Ruhx",
+      "paper_id": "M9iky9Ruhx",
+      "title": "Grounding Multimodal Large Language Model in GUI World",
+      "authors": "Weixian Lei, Difei Gao, Mike Zheng Shou",
+      "paper_url": "https://openreview.net/pdf?id=M9iky9Ruhx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_lLmqxkfSIw",
+      "paper_id": "lLmqxkfSIw",
+      "title": "Grounding Multimodal Large Language Models to the World",
+      "authors": "Zhiliang Peng, Wenhui Wang, Li Dong, Yaru Hao, Shaohan Huang, Shuming Ma, Qixiang Ye, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=lLmqxkfSIw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QarKTT5brZ",
+      "paper_id": "QarKTT5brZ",
+      "title": "GUI-World: A Video Benchmark and Dataset for Multimodal GUI-oriented Understanding",
+      "authors": "Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Huichi Zhou, Qihui Zhang, Zhigang He, Yilin Bai, Chujie Gao, Liuyi Chen, Yiqiang Li, Chenlong Wang, Yue Yu, Tianshuo Zhou, Zhen Li, Yi Gui, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun",
+      "paper_url": "https://openreview.net/pdf?id=QarKTT5brZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WcOohbsF4H",
+      "paper_id": "WcOohbsF4H",
+      "title": "Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram",
+      "authors": "Yeongyeon Na, Minje Park, Yunwon Tae, Sunghoon Joo",
+      "paper_url": "https://openreview.net/pdf?id=WcOohbsF4H",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_IIsTO4P3Ag",
+      "paper_id": "IIsTO4P3Ag",
+      "title": "Harnessing Webpage UIs for Text-Rich Visual Understanding",
+      "authors": "Junpeng Liu, Tianyue Ou, Yifan Song, Yuxiao Qu, Wai Lam, Chenyan Xiong, Wenhu Chen, Graham Neubig, Xiang Yue",
+      "paper_url": "https://openreview.net/pdf?id=IIsTO4P3Ag",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zlwBI2gQL3K",
+      "paper_id": "zlwBI2gQL3K",
+      "title": "Hierarchical Relational Learning for Few-Shot Knowledge Graph Completion",
+      "authors": "Han Wu, Jie Yin, Bala Rajaratnam, Jianyuan Guo",
+      "paper_url": "https://openreview.net/pdf/7fb3c4eed318cb32b972d300fb5fe64530416a25.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_aRD1NqcXTC",
+      "paper_id": "aRD1NqcXTC",
+      "title": "High-Quality Joint Image and Video Tokenization with Causal VAE",
+      "authors": "Dawit Mureja Argaw, Xian Liu, Qinsheng Zhang, Joon Son Chung, Ming-Yu Liu, Fitsum Reda",
+      "paper_url": "https://openreview.net/pdf?id=aRD1NqcXTC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eXB5TCrAu9",
+      "paper_id": "eXB5TCrAu9",
+      "title": "How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?",
+      "authors": "Seongyun Lee, Geewook Kim, Jiyeon Kim, Hyunji Lee, Hoyeon Chang, Sue Hyun Park, Minjoon Seo",
+      "paper_url": "https://openreview.net/pdf?id=eXB5TCrAu9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_zf_Ll3HZWgy",
+      "paper_id": "zf_Ll3HZWgy",
+      "title": "How Much Can CLIP Benefit Vision-and-Language Tasks?",
+      "authors": "Sheng Shen, Liunian Harold Li, Hao Tan, Mohit Bansal, Anna Rohrbach, Kai-Wei Chang, Zhewei Yao, Kurt Keutzer",
+      "paper_url": "https://openreview.net/pdf/f0691be3c885b77bb697dff205313230d0be1163.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_tpD1rs25Uu",
+      "paper_id": "tpD1rs25Uu",
+      "title": "Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation",
+      "authors": "Minghan Chen, Guikun Chen, Wenguan Wang, Yi Yang",
+      "paper_url": "https://openreview.net/pdf?id=tpD1rs25Uu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_N5YTixK4F1",
+      "paper_id": "N5YTixK4F1",
+      "title": "IDA-VLM: Towards Movie Understanding via ID-Aware Large Vision-Language Model",
+      "authors": "Yatai Ji, Shilong Zhang, Jie Wu, Peize Sun, Weifeng Chen, Xuefeng Xiao, Sidi Yang, Yujiu Yang, Ping Luo",
+      "paper_url": "https://openreview.net/pdf?id=N5YTixK4F1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_h0OYV0We3oh",
+      "paper_id": "h0OYV0We3oh",
+      "title": "Illiterate DALL-E Learns to Compose",
+      "authors": "Gautam Singh, Fei Deng, Sungjin Ahn",
+      "paper_url": "https://openreview.net/pdf/bcb5e847c6cefafd402be4829f49227cf6b457c7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_awnvqZja69",
+      "paper_id": "awnvqZja69",
+      "title": "Image as Set of Points",
+      "authors": "Xu Ma, Yuqian Zhou, Huan Wang, Can Qin, Bin Sun, Chang Liu, Yun Fu",
+      "paper_url": "https://openreview.net/pdf/839da9c992ee84a8fa5be183d987fa55966e54ff.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_G2cG3mQqop",
+      "paper_id": "G2cG3mQqop",
+      "title": "Image Clustering Conditioned on Text Criteria",
+      "authors": "Sehyun Kwon, Jaeseung Park, Minkyu Kim, Jaewoong Cho, Ernest K. Ryu, Kangwook Lee",
+      "paper_url": "https://openreview.net/pdf?id=G2cG3mQqop",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vQFw9ryKyK",
+      "paper_id": "vQFw9ryKyK",
+      "title": "ImagineNav: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination",
+      "authors": "Xinxin Zhao, Wenzhe Cai, Likun Tang, Teng Wang",
+      "paper_url": "https://openreview.net/pdf?id=vQFw9ryKyK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ft1mr3WlGM",
+      "paper_id": "ft1mr3WlGM",
+      "title": "Improved Probabilistic Image-Text Representations",
+      "authors": "Sanghyuk Chun",
+      "paper_url": "https://openreview.net/pdf?id=ft1mr3WlGM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_BteuUysuXX",
+      "paper_id": "BteuUysuXX",
+      "title": "Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images",
+      "authors": "Kuofeng Gao, Yang Bai, Jindong Gu, Shu-Tao Xia, Philip Torr, Zhifeng Li, Wei Liu",
+      "paper_url": "https://openreview.net/pdf?id=BteuUysuXX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ExHUtB2vnz",
+      "paper_id": "ExHUtB2vnz",
+      "title": "INFER: A Neural-symbolic Model For Extrapolation Reasoning on Temporal Knowledge Graph",
+      "authors": "Ningyuan Li, Haihong E, Tianyu Yao, Tianyi Hu, Yuhan Li, Haoran Luo, Meina Song, Yifan Zhu",
+      "paper_url": "https://openreview.net/pdf?id=ExHUtB2vnz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6VhDQP7WGX",
+      "paper_id": "6VhDQP7WGX",
+      "title": "Inference Optimal VLMs Need Fewer Visual Tokens and More Parameters",
+      "authors": "Kevin Li, Sachin Goyal, João D. Semedo, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf?id=6VhDQP7WGX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Ugs2W5XFFo",
+      "paper_id": "Ugs2W5XFFo",
+      "title": "Information Theoretic Text-to-Image Alignment",
+      "authors": "CHAO WANG, Giulio Franzese, Alessandro Finamore, Massimo Gallo, Pietro Michiardi",
+      "paper_url": "https://openreview.net/pdf?id=Ugs2W5XFFo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_M0MF4t3hE9",
+      "paper_id": "M0MF4t3hE9",
+      "title": "Ins-DetCLIP: Aligning Detection Model to Follow Human-Language Instruction",
+      "authors": "Renjie Pi, Lewei Yao, Jianhua Han, Xiaodan Liang, Wei Zhang, Hang Xu",
+      "paper_url": "https://openreview.net/pdf?id=M0MF4t3hE9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hss35aoQ1Y",
+      "paper_id": "hss35aoQ1Y",
+      "title": "InstructDET: Diversifying Referring Object Detection with Generalized Instructions",
+      "authors": "Ronghao Dang, Jiangyan Feng, Haodong Zhang, Chongjian GE, Lin Song, Lijun GONG, Chengju Liu, Qijun Chen, Feng Zhu, Rui Zhao, Yibing Song",
+      "paper_url": "https://openreview.net/pdf?id=hss35aoQ1Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rDLgnYLM5b",
+      "paper_id": "rDLgnYLM5b",
+      "title": "Interleaved Scene Graphs for Interleaved Text-and-Image Generation Assessment",
+      "authors": "Dongping Chen, Ruoxi Chen, Shu Pu, Zhaoyi Liu, Yanru Wu, Caixi Chen, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna",
+      "paper_url": "https://openreview.net/pdf?id=rDLgnYLM5b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YuHQTo6G9S",
+      "paper_id": "YuHQTo6G9S",
+      "title": "Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks",
+      "authors": "Lehan Wang, Haonan Wang, Honglong Yang, Jiaji Mao, Zehong Yang, Jun Shen, Xiaomeng Li",
+      "paper_url": "https://openreview.net/pdf?id=YuHQTo6G9S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_94kQgWXojH",
+      "paper_id": "94kQgWXojH",
+      "title": "Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations",
+      "authors": "Nicholas Jiang, Anish Kachinthaya, Suzanne Petryk, Yossi Gandelsman",
+      "paper_url": "https://openreview.net/pdf?id=94kQgWXojH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_gLWj29369lW",
+      "paper_id": "gLWj29369lW",
+      "title": "Interpreting Knowledge Graph Relation Representation from Word Embeddings",
+      "authors": "Carl Allen, Ivana Balazevic, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf/1feb4e4d391a73dd7a1de57536d4621967f6cd43.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_zGb4WgCW5i",
+      "paper_id": "zGb4WgCW5i",
+      "title": "Intervening Anchor Token: Decoding Strategy in Alleviating Hallucinations for MLLMs",
+      "authors": "Feilong Tang, Zile Huang, Chengzhi Liu, Qiang Sun, Harry Yang, Ser-Nam Lim",
+      "paper_url": "https://openreview.net/pdf?id=zGb4WgCW5i",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_5iENGLEJKG",
+      "paper_id": "5iENGLEJKG",
+      "title": "INViTE: INterpret and Control Vision-Language Models with Text Explanations",
+      "authors": "Haozhe Chen, Junfeng Yang, Carl Vondrick, Chengzhi Mao",
+      "paper_url": "https://openreview.net/pdf?id=5iENGLEJKG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_cYijsVZhb5",
+      "paper_id": "cYijsVZhb5",
+      "title": "Is a Caption Worth a Thousand Images? A Study on Representation Learning",
+      "authors": "Shibani Santurkar, Yann Dubois, Rohan Taori, Percy Liang, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf/4f51fa37cd1664b17e82c6e35385e764cc1b606a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_QsA3YzNUxA",
+      "paper_id": "QsA3YzNUxA",
+      "title": "Is Your Multimodal Language Model Oversensitive to Safe Queries?",
+      "authors": "Xirui Li, Hengguang Zhou, Ruochen Wang, Tianyi Zhou, Minhao Cheng, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf?id=QsA3YzNUxA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_m8yby1JfbU",
+      "paper_id": "m8yby1JfbU",
+      "title": "Is Your Video Language Model a Reliable Judge?",
+      "authors": "Ming Liu, Wensheng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=m8yby1JfbU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Pd_oMxH8IlF",
+      "paper_id": "Pd_oMxH8IlF",
+      "title": "Iterated learning for emergent systematicity in VQA",
+      "authors": "Ankit Vani, Max Schwarzer, Yuchen Lu, Eeshan Dhekane, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/62bee9dfb73bae4271c7f80e9d64eda7effacc43.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_5jcav5RcKw",
+      "paper_id": "5jcav5RcKw",
+      "title": "Jointly Training Large Autoregressive Multimodal Models",
+      "authors": "Emanuele Aiello, LILI YU, Yixin Nie, Armen Aghajanyan, Barlas Oguz",
+      "paper_url": "https://openreview.net/pdf?id=5jcav5RcKw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tnB94WQGrn",
+      "paper_id": "tnB94WQGrn",
+      "title": "KGARevion: An AI Agent for Knowledge-Intensive Biomedical QA",
+      "authors": "Xiaorui Su, Yibo Wang, Shanghua Gao, Xiaolong Liu, Valentina Giunchiglia, Djork-Arné Clevert, Marinka Zitnik",
+      "paper_url": "https://openreview.net/pdf?id=tnB94WQGrn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vNATZfmY6R",
+      "paper_id": "vNATZfmY6R",
+      "title": "KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models",
+      "authors": "Eunice Yiu, Maan Qraitem, Anisa Noor Majhi, Charlie Wong, Yutong Bai, Shiry Ginosar, Alison Gopnik, Kate Saenko",
+      "paper_url": "https://openreview.net/pdf?id=vNATZfmY6R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_he6mX9LTyE",
+      "paper_id": "he6mX9LTyE",
+      "title": "Kosmos-G: Generating Images in Context with Multimodal Large Language Models",
+      "authors": "Xichen Pan, Li Dong, Shaohan Huang, Zhiliang Peng, Wenhu Chen, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=he6mX9LTyE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RUF7j1cJzK",
+      "paper_id": "RUF7j1cJzK",
+      "title": "Kronecker Mask and Interpretive Prompts are Language-Action Video Learners",
+      "authors": "Yang JingYi, Zitong YU, Nixiuming, He Jia, Hui Li",
+      "paper_url": "https://openreview.net/pdf?id=RUF7j1cJzK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_FkSp8VW8RjH",
+      "paper_id": "FkSp8VW8RjH",
+      "title": "Language Modelling with Pixels",
+      "authors": "Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, Elizabeth Salesky, Miryam de Lhoneux, Desmond Elliott",
+      "paper_url": "https://openreview.net/pdf/5ade25a9134d48be86a9acbbebf941357365462c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_xNO7OEIcJc6",
+      "paper_id": "xNO7OEIcJc6",
+      "title": "Language-biased image classification: evaluation based on semantic representations",
+      "authors": "Yoann Lemesle, Masataka Sawayama, Guillermo Valle-Perez, Maxime Adolphe, Hélène Sauzéon, Pierre-Yves Oudeyer",
+      "paper_url": "https://openreview.net/pdf/b094eb383e555c4e4fa0c02dc8416aabb50bcc00.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_RriDjddCLN",
+      "paper_id": "RriDjddCLN",
+      "title": "Language-driven Semantic Segmentation",
+      "authors": "Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Rene Ranftl",
+      "paper_url": "https://openreview.net/pdf/9214428c3de4dee047f2ade9ea22c54498592843.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_yaQbTAD2JJ",
+      "paper_id": "yaQbTAD2JJ",
+      "title": "Language-Image Models with 3D Understanding",
+      "authors": "Jang Hyun Cho, Boris Ivanovic, Yulong Cao, Edward Schmerling, Yue Wang, Xinshuo Weng, Boyi Li, Yurong You, Philipp Kraehenbuehl, Yan Wang, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=yaQbTAD2JJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_juuyW8B8ig",
+      "paper_id": "juuyW8B8ig",
+      "title": "Language-Informed Visual Concept Learning",
+      "authors": "Sharon Lee, Yunzhi Zhang, Shangzhe Wu, Jiajun Wu",
+      "paper_url": "https://openreview.net/pdf?id=juuyW8B8ig",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_QmZKc7UZCy",
+      "paper_id": "QmZKc7UZCy",
+      "title": "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+      "authors": "Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, WANG HongFa, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li, Cai Wan Zhang, Zhifeng Li, Wei Liu, Li Yuan",
+      "paper_url": "https://openreview.net/pdf?id=QmZKc7UZCy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_kZEXgtMNNo",
+      "paper_id": "kZEXgtMNNo",
+      "title": "Large Language Models as Automated Aligners for  benchmarking  Vision-Language Models",
+      "authors": "Yuanfeng Ji, Chongjian GE, Weikai Kong, Enze Xie, Zhengying Liu, Zhenguo Li, Ping Luo",
+      "paper_url": "https://openreview.net/pdf?id=kZEXgtMNNo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Kuh5qgCGCp",
+      "paper_id": "Kuh5qgCGCp",
+      "title": "Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages",
+      "authors": "Jinyi Hu, Yuan Yao, Chongyi Wang, SHAN WANG, Yinxu Pan, Qianyu Chen, Tianyu Yu, Hanghao Wu, Yue Zhao, Haoye Zhang, Xu Han, Yankai Lin, Jiao Xue, dahai li, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=Kuh5qgCGCp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_3Jl0sjmZx9",
+      "paper_id": "3Jl0sjmZx9",
+      "title": "Large Multimodal Model for Real-World Radiology Report Generation",
+      "authors": "Brian Nlong Zhao, XINYANG JIANG, Xufang Luo, Yifan Yang, Bo Li, Zilong Wang, Javier Alvarez-Valle, Matthew P. Lungren, Dongsheng Li, Lili Qiu",
+      "paper_url": "https://openreview.net/pdf?id=3Jl0sjmZx9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nYpPAT4L3D",
+      "paper_id": "nYpPAT4L3D",
+      "title": "Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding",
+      "authors": "Zhongyi Shui, Jianpeng Zhang, Weiwei Cao, Sinuo Wang, Ruizhe Guo, Le Lu, Lin Yang, Xianghua Ye, Tingbo Liang, Qi Zhang, Ling Zhang",
+      "paper_url": "https://openreview.net/pdf?id=nYpPAT4L3D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jZsN9zo8Qi",
+      "paper_id": "jZsN9zo8Qi",
+      "title": "Learning Interleaved Image-Text Comprehension in Vision-Language Large Models",
+      "authors": "Chenyu Zhou, Mengdan Zhang, Peixian Chen, Chaoyou Fu, Yunhang Shen, Xiawu Zheng, Xing Sun, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=jZsN9zo8Qi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_uR6x8Be7o_M",
+      "paper_id": "uR6x8Be7o_M",
+      "title": "Learning to reason over visual objects",
+      "authors": "Shanka Subhra Mondal, Taylor Whittington Webb, Jonathan Cohen",
+      "paper_url": "https://openreview.net/pdf/a254cbbe48d67b9d3a5f5a0c75a1f6f6d56e99f7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_QHROe7Mfcb",
+      "paper_id": "QHROe7Mfcb",
+      "title": "Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs",
+      "authors": "Zhanke Zhou, Yongqi Zhang, Jiangchao Yao, quanming yao, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=QHROe7Mfcb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_8tYRqb05pVn",
+      "paper_id": "8tYRqb05pVn",
+      "title": "Linearly Mapping from Image to Text Space",
+      "authors": "Jack Merullo, Louis Castricato, Carsten Eickhoff, Ellie Pavlick",
+      "paper_url": "https://openreview.net/pdf/bb73f5907bc91ecfb1c8ee44e7e84b62e3f33c49.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_SulRfnEVK4",
+      "paper_id": "SulRfnEVK4",
+      "title": "LiveXiv - A Multi-Modal live benchmark based on Arxiv papers content",
+      "authors": "Nimrod Shabtay, Felipe Maia Polo, Sivan Doveh, Wei Lin, Muhammad Jehanzeb Mirza, Leshem Choshen, Mikhail Yurochkin, Yuekai Sun, Assaf Arbelle, Leonid Karlinsky, Raja Giryes",
+      "paper_url": "https://openreview.net/pdf?id=SulRfnEVK4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oSQiao9GqB",
+      "paper_id": "oSQiao9GqB",
+      "title": "LLaVA-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models",
+      "authors": "Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun MA, Chunyuan Li",
+      "paper_url": "https://openreview.net/pdf?id=oSQiao9GqB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UQJ7CDW8nb",
+      "paper_id": "UQJ7CDW8nb",
+      "title": "LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token",
+      "authors": "Shaolei Zhang, Qingkai Fang, Zhe Yang, Yang Feng",
+      "paper_url": "https://openreview.net/pdf?id=UQJ7CDW8nb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mNYF0IHbRy",
+      "paper_id": "mNYF0IHbRy",
+      "title": "LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts",
+      "authors": "Hanan Gani, Shariq Farooq Bhat, Muzammal Naseer, Salman Khan, Peter Wonka",
+      "paper_url": "https://openreview.net/pdf?id=mNYF0IHbRy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_BqHaLnans2",
+      "paper_id": "BqHaLnans2",
+      "title": "LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation",
+      "authors": "Suhyeon Lee, Won Jun Kim, Jinho Chang, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=BqHaLnans2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PgXpOOqtyd",
+      "paper_id": "PgXpOOqtyd",
+      "title": "LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Models for Referring Expression Comprehension",
+      "authors": "Amaia Cardiel, Eloi Zablocki, Elias Ramzi, Oriane Siméoni, Matthieu Cord",
+      "paper_url": "https://openreview.net/pdf?id=PgXpOOqtyd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_P44WPn1_aJV",
+      "paper_id": "P44WPn1_aJV",
+      "title": "LMSeg: Language-guided Multi-dataset Segmentation",
+      "authors": "Qiang Zhou, Yuang Liu, Chaohui Yu, Jingliang Li, Zhibin Wang, Fan Wang",
+      "paper_url": "https://openreview.net/pdf/e122f403769a195b33e2acb0ccb9664e5aa5d846.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_qssVptHTPN",
+      "paper_id": "qssVptHTPN",
+      "title": "Locality Alignment Improves Vision-Language Models",
+      "authors": "Ian Connick Covert, Tony Sun, James Zou, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf?id=qssVptHTPN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JdgO-ht1uTN",
+      "paper_id": "JdgO-ht1uTN",
+      "title": "Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning",
+      "authors": "Chi Han, Qizheng He, Charles Yu, Xinya Du, Hanghang Tong, Heng Ji",
+      "paper_url": "https://openreview.net/pdf/7d83ec38f937638fd742f945c7696fb22476dc58.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_2b2s9vd7wYv",
+      "paper_id": "2b2s9vd7wYv",
+      "title": "LogicDP: Creating Labels for Graph Data via Inductive Logic Programming",
+      "authors": "Yuan Yang, Faramarz Fekri, James Clayton Kerce, Ali Payani",
+      "paper_url": "https://openreview.net/pdf/7f0e71c89583a4faa2321873243855b581f2bdf7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_jhPvuc7kxB",
+      "paper_id": "jhPvuc7kxB",
+      "title": "Look, Remember and Reason: Grounded Reasoning in Videos with Language Models",
+      "authors": "Apratim Bhattacharyya, Sunny Panchal, Reza Pourreza, Mingu Lee, Pulkit Madan, Roland Memisevic",
+      "paper_url": "https://openreview.net/pdf?id=jhPvuc7kxB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_AsFxRSLtqR",
+      "paper_id": "AsFxRSLtqR",
+      "title": "LR0.FM: LOW-RESOLUTION ZERO-SHOT CLASSIFICATION BENCHMARK FOR FOUNDATION MODELS",
+      "authors": "Priyank Pathak, Shyam Marjit, Shruti Vyas, Yogesh S Rawat",
+      "paper_url": "https://openreview.net/pdf?id=AsFxRSLtqR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0Nui91LBQS",
+      "paper_id": "0Nui91LBQS",
+      "title": "Making LLaMA SEE and Draw with SEED Tokenizer",
+      "authors": "Yuying Ge, Sijie Zhao, Ziyun Zeng, Yixiao Ge, Chen Li, Xintao Wang, Ying Shan",
+      "paper_url": "https://openreview.net/pdf?id=0Nui91LBQS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GR0y0F3Ipd",
+      "paper_id": "GR0y0F3Ipd",
+      "title": "MAPS: Advancing Multi-Modal Reasoning in Expert-Level Physical Science",
+      "authors": "Erle Zhu, Yadi Liu, Zhe Zhang, Xujun Li, JinZhou, Xinjie Yu, Minlie Huang, Hongning Wang",
+      "paper_url": "https://openreview.net/pdf?id=GR0y0F3Ipd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_UtGtoS4CYU",
+      "paper_id": "UtGtoS4CYU",
+      "title": "Measuring CLEVRness: Black-box Testing of Visual Reasoning Models",
+      "authors": "Spyridon Mouselinos, Henryk Michalewski, Mateusz Malinowski",
+      "paper_url": "https://openreview.net/pdf/3eb3b1766e7d5addbbef3045662e6ad378427ae1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_spvaV5LELF",
+      "paper_id": "spvaV5LELF",
+      "title": "Measuring Vision-Language STEM Skills of Neural Models",
+      "authors": "Jianhao Shen, Ye Yuan, Srbuhi Mirzoyan, Ming Zhang, Chenguang Wang",
+      "paper_url": "https://openreview.net/pdf?id=spvaV5LELF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_txlWziuCE5W",
+      "paper_id": "txlWziuCE5W",
+      "title": "MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY",
+      "authors": "Ziyuan Qin, Huahui Yi, Qicheng Lao, Kang Li",
+      "paper_url": "https://openreview.net/pdf/8e53cd494ff16bfef607704574e7a1e2c770f607.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_H9UnNgdq0g",
+      "paper_id": "H9UnNgdq0g",
+      "title": "MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models",
+      "authors": "Mohammad Shahab Sepehri, Zalan Fabian, Maryam Soltanolkotabi, Mahdi Soltanolkotabi",
+      "paper_url": "https://openreview.net/pdf?id=H9UnNgdq0g",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IwgmgidYPS",
+      "paper_id": "IwgmgidYPS",
+      "title": "MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine",
+      "authors": "Yunfei Xie, Ce Zhou, Lang Gao, Juncheng Wu, Xianhang Li, Hong-Yu Zhou, Sheng Liu, Lei Xing, James Zou, Cihang Xie, Yuyin Zhou",
+      "paper_url": "https://openreview.net/pdf?id=IwgmgidYPS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2rWbKbmOuM",
+      "paper_id": "2rWbKbmOuM",
+      "title": "MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks",
+      "authors": "Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Ziyan Jiang, Wang Zhu, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen",
+      "paper_url": "https://openreview.net/pdf?id=2rWbKbmOuM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7EhS3YBxjY",
+      "paper_id": "7EhS3YBxjY",
+      "title": "MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs",
+      "authors": "Yusu Qian, Hanrong Ye, Jean-Philippe Fauconnier, Peter Grasch, Yinfei Yang, Zhe Gan",
+      "paper_url": "https://openreview.net/pdf?id=7EhS3YBxjY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_f7WBRSuf9l",
+      "paper_id": "f7WBRSuf9l",
+      "title": "MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large Vision-Language Models",
+      "authors": "Ziyu Liu, Yuhang Zang, Xiaoyi Dong, Pan Zhang, Yuhang Cao, Haodong Duan, Conghui He, Yuanjun Xiong, Dahua Lin, Jiaqi Wang",
+      "paper_url": "https://openreview.net/pdf?id=f7WBRSuf9l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iXCeQ2m6vT",
+      "paper_id": "iXCeQ2m6vT",
+      "title": "Mind the GAP: Glimpse-based Active Perception improves generalization and sample efficiency of visual reasoning",
+      "authors": "Oleh Kolner, Thomas Ortner, Stanisław Woźniak, Angeliki Pantazi",
+      "paper_url": "https://openreview.net/pdf?id=iXCeQ2m6vT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_4rXMRuoJlai",
+      "paper_id": "4rXMRuoJlai",
+      "title": "Mind's Eye: Grounded Language Model Reasoning through Simulation",
+      "authors": "Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai",
+      "paper_url": "https://openreview.net/pdf/0a6dcae7aef4fb3b11746b7175c70cfa12d4c3a3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_71XtUhazG0",
+      "paper_id": "71XtUhazG0",
+      "title": "Mini-Monkey: Alleviating the Semantic Sawtooth Effect for Lightweight MLLMs via Complementary Image Pyramid",
+      "authors": "Mingxin Huang, Yuliang Liu, Dingkang Liang, Lianwen Jin, Xiang Bai",
+      "paper_url": "https://openreview.net/pdf?id=71XtUhazG0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_1tZbq88f27",
+      "paper_id": "1tZbq88f27",
+      "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+      "authors": "Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny",
+      "paper_url": "https://openreview.net/pdf?id=1tZbq88f27",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_nY9nITZQjc",
+      "paper_id": "nY9nITZQjc",
+      "title": "MIntRec2.0: A Large-scale Benchmark Dataset for Multimodal Intent Recognition and Out-of-scope Detection in Conversations",
+      "authors": "Hanlei Zhang, Xin Wang, Hua Xu, Qianrui Zhou, Kai Gao, Jianhua Su, jinyue Zhao, Wenrui Li, Yanting Chen",
+      "paper_url": "https://openreview.net/pdf?id=nY9nITZQjc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_J44HfH4JCg",
+      "paper_id": "J44HfH4JCg",
+      "title": "Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning",
+      "authors": "Fuxiao Liu, Kevin Lin, Linjie Li, Jianfeng Wang, Yaser Yacoob, Lijuan Wang",
+      "paper_url": "https://openreview.net/pdf?id=J44HfH4JCg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_AV7OXVlAyi",
+      "paper_id": "AV7OXVlAyi",
+      "title": "Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality",
+      "authors": "Guanyu Zhou, Yibo Yan, Xin Zou, Kun Wang, Aiwei Liu, Xuming Hu",
+      "paper_url": "https://openreview.net/pdf?id=AV7OXVlAyi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yG1fW8igzP",
+      "paper_id": "yG1fW8igzP",
+      "title": "Mitigating Object Hallucination in MLLMs via Data-augmented Phrase-level Alignment",
+      "authors": "Pritam Sarkar, Sayna Ebrahimi, Ali Etemad, Ahmad Beirami, Sercan O Arik, Tomas Pfister",
+      "paper_url": "https://openreview.net/pdf?id=yG1fW8igzP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_K5yeB4dTtS",
+      "paper_id": "K5yeB4dTtS",
+      "title": "MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents",
+      "authors": "Junpeng Yue, Xinrun Xu, Börje F. Karlsson, Zongqing Lu",
+      "paper_url": "https://openreview.net/pdf?id=K5yeB4dTtS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4z3IguA4Zg",
+      "paper_id": "4z3IguA4Zg",
+      "title": "MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation",
+      "authors": "Chenxi Wang, Xiang Chen, Ningyu Zhang, Bozhong Tian, Haoming Xu, Shumin Deng, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=4z3IguA4Zg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DgaY5mDdmT",
+      "paper_id": "DgaY5mDdmT",
+      "title": "MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs",
+      "authors": "Jiarui Zhang, Mahyar Khayatkhoei, Prateek Chhikara, Filip Ilievski",
+      "paper_url": "https://openreview.net/pdf?id=DgaY5mDdmT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_i45NQb2iKO",
+      "paper_id": "i45NQb2iKO",
+      "title": "MM-EMBED: UNIVERSAL MULTIMODAL RETRIEVAL WITH MULTIMODAL LLMS",
+      "authors": "Sheng-Chieh Lin, Chankyu Lee, Mohammad Shoeybi, Jimmy Lin, Bryan Catanzaro, Wei Ping",
+      "paper_url": "https://openreview.net/pdf?id=i45NQb2iKO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HVtu26XDAA",
+      "paper_id": "HVtu26XDAA",
+      "title": "MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning",
+      "authors": "Haotian Zhang, Mingfei Gao, Zhe Gan, Philipp Dufter, Nina Wenzel, Forrest Huang, Dhruti Shah, Xianzhi Du, Bowen Zhang, Yanghao Li, Sam Dodge, Keen You, Zhen Yang, Aleksei Timofeev, Mingze Xu, Hong-You Chen, Jean-Philippe Fauconnier, Zhengfeng Lai, Haoxuan You, Zirui Wang, Afshin Dehghan, Peter Grasch, Yinfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=HVtu26XDAA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JDiER86r8v",
+      "paper_id": "JDiER86r8v",
+      "title": "MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection",
+      "authors": "Xi Jiang, Jian Li, Hanqiu Deng, Yong Liu, Bin-Bin Gao, Yifeng Zhou, Jialin Li, Chengjie Wang, Feng Zheng",
+      "paper_url": "https://openreview.net/pdf?id=JDiER86r8v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qIbbBSzH6n",
+      "paper_id": "qIbbBSzH6n",
+      "title": "MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models",
+      "authors": "Chejian Xu, Jiawei Zhang, Zhaorun Chen, Chulin Xie, Mintong Kang, Yujin Potter, Zhun Wang, Zhuowen Yuan, Alexander Xiong, Zidi Xiong, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Xuandong Zhao, Francesco Pinto, Zhen Xiang, Yu Gai, Zinan Lin, Dan Hendrycks, Bo Li, Dawn Song",
+      "paper_url": "https://openreview.net/pdf?id=qIbbBSzH6n",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_k5VHHgsRbi",
+      "paper_id": "k5VHHgsRbi",
+      "title": "MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?",
+      "authors": "YiFan Zhang, Huanyu Zhang, Haochen Tian, Chaoyou Fu, Shuangqing Zhang, Junfei Wu, Feng Li, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin",
+      "paper_url": "https://openreview.net/pdf?id=k5VHHgsRbi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_s5epFPdIW6",
+      "paper_id": "s5epFPdIW6",
+      "title": "MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models",
+      "authors": "Peng Xia, Kangyu Zhu, Haoran Li, Tianze Wang, Weijia Shi, Sheng Wang, Linjun Zhang, James Zou, Huaxiu Yao",
+      "paper_url": "https://openreview.net/pdf?id=s5epFPdIW6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_67sSPPAZiG",
+      "paper_id": "67sSPPAZiG",
+      "title": "MMEgo: Towards Building Egocentric Multimodal LLMs for Video QA",
+      "authors": "Hanrong Ye, Haotian Zhang, Erik Daxberger, Lin Chen, Zongyu Lin, Yanghao Li, Bowen Zhang, Haoxuan You, Dan Xu, Zhe Gan, Jiasen Lu, Yinfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=67sSPPAZiG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_D6zn6ozJs7",
+      "paper_id": "D6zn6ozJs7",
+      "title": "MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs",
+      "authors": "Xuannan Liu, Zekun Li, Pei Pei Li, Huaibo Huang, Shuhan Xia, Xing Cui, Linzhi Huang, Weihong Deng, Zhaofeng He",
+      "paper_url": "https://openreview.net/pdf?id=D6zn6ozJs7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_5KojubHBr8",
+      "paper_id": "5KojubHBr8",
+      "title": "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning",
+      "authors": "Haozhe Zhao, Zefan Cai, Shuzheng Si, Xiaojian Ma, Kaikai An, Liang Chen, Zixuan Liu, Sheng Wang, Wenjuan Han, Baobao Chang",
+      "paper_url": "https://openreview.net/pdf?id=5KojubHBr8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HnhNRrLPwm",
+      "paper_id": "HnhNRrLPwm",
+      "title": "MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models",
+      "authors": "Peng Xia, Siwei Han, Shi Qiu, Yiyang Zhou, Zhaoyang Wang, Wenhao Zheng, Zhaorun Chen, Chenhang Cui, Mingyu Ding, Linjie Li, Lijuan Wang, Huaxiu Yao",
+      "paper_url": "https://openreview.net/pdf?id=HnhNRrLPwm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WsgEWL8i0K",
+      "paper_id": "WsgEWL8i0K",
+      "title": "MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models",
+      "authors": "Fanqing Meng, Jin Wang, Chuanhao Li, Quanfeng Lu, Hao Tian, Tianshuo Yang, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, Wenqi Shao",
+      "paper_url": "https://openreview.net/pdf?id=WsgEWL8i0K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_v8qABSeeKO",
+      "paper_id": "v8qABSeeKO",
+      "title": "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge",
+      "authors": "Yuntao Du., Kailin Jiang, Zhi Gao, Chenrui Shi, Zilong Zheng, Siyuan Qi, Qing Li",
+      "paper_url": "https://openreview.net/pdf?id=v8qABSeeKO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mzL19kKE3r",
+      "paper_id": "mzL19kKE3r",
+      "title": "MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation",
+      "authors": "Donggon Jang, Yucheol Cho, Suin Lee, Taehyeon Kim, Daeshik Kim",
+      "paper_url": "https://openreview.net/pdf?id=mzL19kKE3r",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_J2Jyp1SZ0n",
+      "paper_id": "J2Jyp1SZ0n",
+      "title": "MMSearch: Unveiling the Potential of Large Models as Multi-modal Search Engines",
+      "authors": "Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, jiayi lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=J2Jyp1SZ0n",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tRNKe2Vgqt",
+      "paper_id": "tRNKe2Vgqt",
+      "title": "MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos",
+      "authors": "Xuehai He, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang",
+      "paper_url": "https://openreview.net/pdf?id=tRNKe2Vgqt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7UgQjFEadn",
+      "paper_id": "7UgQjFEadn",
+      "title": "Modality-Specialized Synergizers for Interleaved Vision-Language Generalists",
+      "authors": "Zhiyang Xu, Minqian Liu, Ying Shen, Joy Rimchala, Jiaxin Zhang, Qifan Wang, Yu Cheng, Lifu Huang",
+      "paper_url": "https://openreview.net/pdf?id=7UgQjFEadn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wAXsx2MYgV",
+      "paper_id": "wAXsx2MYgV",
+      "title": "Modeling dynamic social vision highlights gaps between deep learning and humans",
+      "authors": "Kathy Garcia, Emalie McMahon, Colin Conwell, Michael Bonner, Leyla Isik",
+      "paper_url": "https://openreview.net/pdf?id=wAXsx2MYgV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_QQYpgReSRk",
+      "paper_id": "QQYpgReSRk",
+      "title": "MOFI: Learning Image Representations from Noisy Entity Annotated Images",
+      "authors": "Wentao Wu, Aleksei Timofeev, Chen Chen, Bowen Zhang, Kun Duan, Shuangning Liu, Yantao Zheng, Jonathon Shlens, Xianzhi Du, Yinfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=QQYpgReSRk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_NialiwI2V6",
+      "paper_id": "NialiwI2V6",
+      "title": "MOTOR: A Time-to-Event Foundation Model For Structured Medical Records",
+      "authors": "Ethan Steinberg, Jason Alan Fries, Yizhe Xu, Nigam Shah",
+      "paper_url": "https://openreview.net/pdf?id=NialiwI2V6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_8e6BrwU6AjQ",
+      "paper_id": "8e6BrwU6AjQ",
+      "title": "MoVie: Revisiting Modulated Convolutions for Visual Counting and Beyond",
+      "authors": "Duy Kien Nguyen, Vedanuj Goswami, Xinlei Chen",
+      "paper_url": "https://openreview.net/pdf/9b2e703f15aaf726a40dd681114694fe508bdeaf.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_pr37sbuhVa",
+      "paper_id": "pr37sbuhVa",
+      "title": "mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models",
+      "authors": "Jiabo Ye, Haiyang Xu, Haowei Liu, Anwen Hu, Ming Yan, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou",
+      "paper_url": "https://openreview.net/pdf?id=pr37sbuhVa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Usklli4gMc",
+      "paper_id": "Usklli4gMc",
+      "title": "MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models",
+      "authors": "Wenbo Hu, Jia-Chen Gu, Zi-Yi Dou, Mohsen Fayyaz, Pan Lu, Kai-Wei Chang, Nanyun Peng",
+      "paper_url": "https://openreview.net/pdf?id=Usklli4gMc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TrVYEZtSQH",
+      "paper_id": "TrVYEZtSQH",
+      "title": "MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding",
+      "authors": "Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen",
+      "paper_url": "https://openreview.net/pdf?id=TrVYEZtSQH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_NRHajbzg8y0P",
+      "paper_id": "NRHajbzg8y0P",
+      "title": "Multimodal Analogical Reasoning over Knowledge Graphs",
+      "authors": "Ningyu Zhang, Lei Li, Xiang Chen, Xiaozhuan Liang, Shumin Deng, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf/0932fa51d71959373e6ffd7a76954ac870fb458c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_efFmBWioSc",
+      "paper_id": "efFmBWioSc",
+      "title": "Multimodal Web Navigation with Instruction-Finetuned Foundation Models",
+      "authors": "Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shixiang Shane Gu, Izzeddin Gur",
+      "paper_url": "https://openreview.net/pdf?id=efFmBWioSc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ue1Tt3h1VC",
+      "paper_id": "ue1Tt3h1VC",
+      "title": "Multiple Heads are Better than One: Mixture of Modality Knowledge Experts for Entity Representation Learning",
+      "authors": "Yichi Zhang, Zhuo Chen, Lingbing Guo, yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=ue1Tt3h1VC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_i2_TvOFmEml",
+      "paper_id": "i2_TvOFmEml",
+      "title": "MultiViz: Towards Visualizing and Understanding Multimodal Models",
+      "authors": "Paul Pu Liang, Yiwei Lyu, Gunjan Chhablani, Nihal Jain, Zihao Deng, Xingbo Wang, Louis-Philippe Morency, Ruslan Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf/34c8d3975874963fb014c66baab9fc0b36443d92.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_INqLJwqUmc",
+      "paper_id": "INqLJwqUmc",
+      "title": "Narrowing Information Bottleneck Theory for Multimodal Image-Text Representations Interpretability",
+      "authors": "Zhiyu Zhu, Zhibo Jin, Jiayu Zhang, NAN YANG, Jiahao Huang, Jianlong Zhou, Fang Chen",
+      "paper_url": "https://openreview.net/pdf?id=INqLJwqUmc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_NudBMY-tzDr",
+      "paper_id": "NudBMY-tzDr",
+      "title": "Natural Language Descriptions of Deep Visual Features",
+      "authors": "Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio Torralba, Jacob Andreas",
+      "paper_url": "https://openreview.net/pdf/842234024e58a8d5073a88b3c04282011b8e20a7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_G3aXjVAJjU",
+      "paper_id": "G3aXjVAJjU",
+      "title": "Natural Language Inference Improves Compositionality in Vision-Language Models",
+      "authors": "Paola Cascante-Bonilla, Yu Hou, Yang Trista Cao, Hal Daumé III, Rachel Rudinger",
+      "paper_url": "https://openreview.net/pdf?id=G3aXjVAJjU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kxnoqaisCT",
+      "paper_id": "kxnoqaisCT",
+      "title": "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents",
+      "authors": "Boyu Gou, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su",
+      "paper_url": "https://openreview.net/pdf?id=kxnoqaisCT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Qro97zWC29",
+      "paper_id": "Qro97zWC29",
+      "title": "Near, far: Patch-ordering enhances vision foundation models' scene understanding",
+      "authors": "Valentinos Pariza, Mohammadreza Salehi, Gertjan J. Burghouts, Francesco Locatello, Yuki M Asano",
+      "paper_url": "https://openreview.net/pdf?id=Qro97zWC29",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZJo6Radbqq",
+      "paper_id": "ZJo6Radbqq",
+      "title": "Needle In A Video Haystack: A Scalable  Synthetic Evaluator for Video MLLMs",
+      "authors": "Zijia Zhao, Haoyu Lu, Yuqi Huo, Yifan Du, Tongtian Yue, Longteng Guo, Bingning Wang, weipeng chen, Jing Liu",
+      "paper_url": "https://openreview.net/pdf?id=ZJo6Radbqq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_F8VKQyDgRVj",
+      "paper_id": "F8VKQyDgRVj",
+      "title": "Neural Compositional Rule Learning for Knowledge Graph Reasoning",
+      "authors": "Kewei Cheng, Nesreen Ahmed, Yizhou Sun",
+      "paper_url": "https://openreview.net/pdf/b901536a159ad120243e968ea0448b44b6ae3850.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_tgcAoUVHRIB",
+      "paper_id": "tgcAoUVHRIB",
+      "title": "Neural Methods for Logical Reasoning over Knowledge Graphs",
+      "authors": "Alfonso Amayuelas, Shuai Zhang, Xi Susie Rao, Ce Zhang",
+      "paper_url": "https://openreview.net/pdf/801a4e5791b6166101b4d236bbd874bd1a6916ff.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_2zmO1GVT0Y",
+      "paper_id": "2zmO1GVT0Y",
+      "title": "NL-Eye: Abductive NLI For Images",
+      "authors": "Mor Ventura, Michael Toker, Nitay Calderon, Zorik Gekhman, Yonatan Bitton, Roi Reichart",
+      "paper_url": "https://openreview.net/pdf?id=2zmO1GVT0Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_xMJWUKJnFSw",
+      "paper_id": "xMJWUKJnFSw",
+      "title": "NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs",
+      "authors": "Mikhail Galkin, Etienne Denis, Jiapeng Wu, William L. Hamilton",
+      "paper_url": "https://openreview.net/pdf/6eb641d163812ce838dbad1b8e7fddebb2c72c12.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_fUtxNAKpdV",
+      "paper_id": "fUtxNAKpdV",
+      "title": "Nougat: Neural Optical Understanding for Academic Documents",
+      "authors": "Lukas Blecher, Guillem Cucurull, Thomas Scialom, Robert Stojnic",
+      "paper_url": "https://openreview.net/pdf?id=fUtxNAKpdV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_L6IgkJvcgV",
+      "paper_id": "L6IgkJvcgV",
+      "title": "OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes",
+      "authors": "Sepehr Dehdashtian, Gautam Sreekumar, Vishnu Boddeti",
+      "paper_url": "https://openreview.net/pdf?id=L6IgkJvcgV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_d5SCUJ5t1k",
+      "paper_id": "d5SCUJ5t1k",
+      "title": "Objects in Semantic Topology",
+      "authors": "Shuo Yang, Peize Sun, Yi Jiang, Xiaobo Xia, Ruiheng Zhang, Zehuan Yuan, Changhu Wang, Ping Luo, Min Xu",
+      "paper_url": "https://openreview.net/pdf/ff70332fa4b027995f092ed696137154488aa5fc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_l2izo0z7gu",
+      "paper_id": "l2izo0z7gu",
+      "title": "OmniBind: Large-scale Omni Multimodal Representation via Binding Spaces",
+      "authors": "Zehan Wang, Ziang Zhang, Minjie Hong, Hang Zhang, Luping Liu, Rongjie Huang, Xize Cheng, Shengpeng Ji, Tao Jin, Hengshuang Zhao, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf?id=l2izo0z7gu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kwqhn2VuG4",
+      "paper_id": "kwqhn2VuG4",
+      "title": "OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text",
+      "authors": "Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, Guanzhou Chen, Yinan He, Zhangwei Gao, Erfei Cui, Jiashuo Yu, Hao Tian, Jiasheng Zhou, Chao Xu, Bin Wang, Xingjian Wei, Wei Li, Wenjian Zhang, Bo Zhang, Pinlong Cai, Licheng Wen, Xiangchao Yan, Pei Chu, Yi Wang, Min Dou, Changyao Tian, Xizhou Zhu, Lewei Lu, Yushi Chen, Junjun He, Tong Lu, Yali Wang, Limin Wang, Dahua Lin, Yu Qiao, Botian Shi, Conghui He, Jifeng Dai",
+      "paper_url": "https://openreview.net/pdf?id=kwqhn2VuG4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jki6EFsZLw",
+      "paper_id": "jki6EFsZLw",
+      "title": "OmnixR: Evaluating Omni-modality Language Models on Reasoning across Modalities",
+      "authors": "Lichang Chen, Hexiang Hu, Mingda Zhang, Yiwen Chen, Zifeng Wang, YANDONG LI, Pranav Shyam, Tianyi Zhou, Heng Huang, Ming-Hsuan Yang, Boqing Gong",
+      "paper_url": "https://openreview.net/pdf?id=jki6EFsZLw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_zyBJodMrn5",
+      "paper_id": "zyBJodMrn5",
+      "title": "On the generalization capacity of neural networks during generic multimodal reasoning",
+      "authors": "Takuya Ito, Soham Dan, Mattia Rigotti, James Kozloski, Murray Campbell",
+      "paper_url": "https://openreview.net/pdf?id=zyBJodMrn5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EXitynZhYn",
+      "paper_id": "EXitynZhYn",
+      "title": "Open-ended VQA benchmarking of Vision-Language models by exploiting Classification datasets and their semantic hierarchy",
+      "authors": "Simon Ging, Maria Alejandra Bravo, Thomas Brox",
+      "paper_url": "https://openreview.net/pdf?id=EXitynZhYn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ODiY6pbHZQ",
+      "paper_id": "ODiY6pbHZQ",
+      "title": "Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution",
+      "authors": "Zuyan Liu, Yuhao Dong, Ziwei Liu, Winston Hu, Jiwen Lu, Yongming Rao",
+      "paper_url": "https://openreview.net/pdf?id=ODiY6pbHZQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_636M0nNbPs",
+      "paper_id": "636M0nNbPs",
+      "title": "Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning",
+      "authors": "Qinghao Ye, Xianhan Zeng, Fu Li, Chunyuan Li, Haoqi Fan",
+      "paper_url": "https://openreview.net/pdf?id=636M0nNbPs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_mWVoBz4W0u",
+      "paper_id": "mWVoBz4W0u",
+      "title": "PaLI: A Jointly-Scaled Multilingual Language-Image Model",
+      "authors": "Xi Chen, Xiao Wang, Soravit Changpinyo, AJ Piergiovanni, Piotr Padlewski, Daniel Salz, Sebastian Goodman, Adam Grycner, Basil Mustafa, Lucas Beyer, Alexander Kolesnikov, Joan Puigcerver, Nan Ding, Keran Rong, Hassan Akbari, Gaurav Mishra, Linting Xue, Ashish V Thapliyal, James Bradbury, Weicheng Kuo, Mojtaba Seyedhosseini, Chao Jia, Burcu Karagol Ayan, Carlos Riquelme Ruiz, Andreas Peter Steiner, Anelia Angelova, Xiaohua Zhai, Neil Houlsby, Radu Soricut",
+      "paper_url": "https://openreview.net/pdf/1870a0455d0e7a6ed7d8f02e8e156cf63f5d6b6a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_a3g2l4yEys",
+      "paper_id": "a3g2l4yEys",
+      "title": "Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages",
+      "authors": "Xiang Yue, Yueqi Song, Akari Asai, Seungone Kim, Jean de Dieu Nyandwi, Simran Khanuja, Anjali Kantharuban, Lintang Sutawika, Sathyanarayanan Ramamoorthy, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf?id=a3g2l4yEys",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gzYgsZgwXa",
+      "paper_id": "gzYgsZgwXa",
+      "title": "Path Choice Matters for Clear Attributions in Path Methods",
+      "authors": "Borui Zhang, Wenzhao Zheng, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openreview.net/pdf?id=gzYgsZgwXa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rFpZnn11gj",
+      "paper_id": "rFpZnn11gj",
+      "title": "PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration",
+      "authors": "Yuxuan Sun, Yunlong Zhang, Yixuan Si, Chenglu Zhu, Kai Zhang, Zhongyi Shui, Jingxiong Li, Xuan Gong, XINHENG LYU, Tao Lin, Lin Yang",
+      "paper_url": "https://openreview.net/pdf?id=rFpZnn11gj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_fILj7WpI-g",
+      "paper_id": "fILj7WpI-g",
+      "title": "Perceiver IO: A General Architecture for Structured Inputs & Outputs",
+      "authors": "Andrew Jaegle, Sebastian Borgeaud, Jean-Baptiste Alayrac, Carl Doersch, Catalin Ionescu, David Ding, Skanda Koppula, Daniel Zoran, Andrew Brock, Evan Shelhamer, Olivier J Henaff, Matthew Botvinick, Andrew Zisserman, Oriol Vinyals, Joao Carreira",
+      "paper_url": "https://openreview.net/pdf/be7bf6b12e6abb37fb7853467cc6ef71ea5a1659.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_2Oiee202rd",
+      "paper_id": "2Oiee202rd",
+      "title": "PerceptionCLIP: Visual Classification by Inferring and Conditioning on Contexts",
+      "authors": "Bang An, Sicheng Zhu, Michael-Andrei Panaitescu-Liess, Chaithanya Kumar Mummadi, Furong Huang",
+      "paper_url": "https://openreview.net/pdf?id=2Oiee202rd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_j4LITBSUjs",
+      "paper_id": "j4LITBSUjs",
+      "title": "PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training",
+      "authors": "Cong Chen, Mingyu Liu, Chenchen Jing, Yizhou Zhou, Fengyun Rao, Hao Chen, Bo Zhang, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=j4LITBSUjs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Q6a9W6kzv5",
+      "paper_id": "Q6a9W6kzv5",
+      "title": "PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding",
+      "authors": "Wei Chow, Jiageng Mao, Boyi Li, Daniel Seita, Vitor Campagnolo Guizilini, Yue Wang",
+      "paper_url": "https://openreview.net/pdf?id=Q6a9W6kzv5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_D5X6nPGFUY",
+      "paper_id": "D5X6nPGFUY",
+      "title": "Probabilistic Language-Image Pre-Training",
+      "authors": "Sanghyuk Chun, Wonjae Kim, Song Park, Sangdoo Yun",
+      "paper_url": "https://openreview.net/pdf?id=D5X6nPGFUY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_l0t2rumAvR",
+      "paper_id": "l0t2rumAvR",
+      "title": "Prompt as Knowledge Bank: Boost Vision-language model via Structural Representation for  zero-shot medical detection",
+      "authors": "Yuguang Yang, Tongfei Chen, Haoyu Huang, Linlin Yang, Chunyu Xie, Dawei Leng, Xianbin Cao, Baochang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=l0t2rumAvR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_gmL46YMpu2J",
+      "paper_id": "gmL46YMpu2J",
+      "title": "Promptagator: Few-shot Dense Retrieval From 8 Examples",
+      "authors": "Zhuyun Dai, Vincent Y Zhao, Ji Ma, Yi Luan, Jianmo Ni, Jing Lu, Anton Bakalov, Kelvin Guu, Keith Hall, Ming-Wei Chang",
+      "paper_url": "https://openreview.net/pdf/79a0f9b78ef87a8465c2f60eac8f96b996c84b38.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_0V5TVt9bk0",
+      "paper_id": "0V5TVt9bk0",
+      "title": "Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision",
+      "authors": "Haoning Wu, Zicheng Zhang, Erli Zhang, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin",
+      "paper_url": "https://openreview.net/pdf?id=0V5TVt9bk0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_gNI4_85Cyve",
+      "paper_id": "gNI4_85Cyve",
+      "title": "QAID: Question Answering Inspired Few-shot Intent Detection",
+      "authors": "Asaf Yehudai, Matan Vetzler, Yosi Mass, Koren Lazar, Doron Cohen, Boaz Carmeli",
+      "paper_url": "https://openreview.net/pdf/be84c220209d03546af019e5ae2253495baa3fb9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_XyrB1Ay44j",
+      "paper_id": "XyrB1Ay44j",
+      "title": "Quantifying and Enhancing Multi-modal Robustness with Modality Preference",
+      "authors": "Zequn Yang, Yake Wei, Ce Liang, Di Hu",
+      "paper_url": "https://openreview.net/pdf?id=XyrB1Ay44j",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_4rLw09TgRw9",
+      "paper_id": "4rLw09TgRw9",
+      "title": "Query Embedding on Hyper-Relational Knowledge Graphs",
+      "authors": "Dimitrios Alivanistos, Max Berrendorf, Michael Cochez, Mikhail Galkin",
+      "paper_url": "https://openreview.net/pdf/d5bd37f34db1f59820dc265c98290e913e627460.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_2eXhNpHeW6E",
+      "paper_id": "2eXhNpHeW6E",
+      "title": "R5: Rule Discovery with Reinforced and Recurrent Relational Reasoning",
+      "authors": "Shengyao Lu, Bang Liu, Keith G. Mills, SHANGLING JUI, Di Niu",
+      "paper_url": "https://openreview.net/pdf/08116e08b73b5c728213b5d350ddbbcf4154bb9f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_22OTbutug9",
+      "paper_id": "22OTbutug9",
+      "title": "RA-DIT: Retrieval-Augmented Dual Instruction Tuning",
+      "authors": "Xi Victoria Lin, Xilun Chen, Mingda Chen, Weijia Shi, Maria Lomeli, Richard James, Pedro Rodriguez, Jacob Kahn, Gergely Szilvasy, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih",
+      "paper_url": "https://openreview.net/pdf?id=22OTbutug9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_V3zobHnS61",
+      "paper_id": "V3zobHnS61",
+      "title": "RA-TTA: Retrieval-Augmented Test-Time Adaptation for Vision-Language Models",
+      "authors": "Youngjun Lee, Doyoung Kim, Junhyeok Kang, Jihwan Bang, Hwanjun Song, Jae-Gil Lee",
+      "paper_url": "https://openreview.net/pdf?id=V3zobHnS61",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_bshfchPM9H",
+      "paper_id": "bshfchPM9H",
+      "title": "RAPPER: Reinforced Rationale-Prompted Paradigm for Natural Language Explanation in Visual Question Answering",
+      "authors": "Kai-Po Chang, Chi-Pin Huang, Wei-Yuan Cheng, Fu-En Yang, Chien-Yi Wang, Yung-Hsuan Lai, Yu-Chiang Frank Wang",
+      "paper_url": "https://openreview.net/pdf?id=bshfchPM9H",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_MPJ4SMnScw",
+      "paper_id": "MPJ4SMnScw",
+      "title": "Re-Aligning Language to Visual Objects with an Agentic Workflow",
+      "authors": "Yuming Chen, Jiangyan Feng, Haodong Zhang, Lijun GONG, Feng Zhu, Rui Zhao, Qibin Hou, Ming-Ming Cheng, Yibing Song",
+      "paper_url": "https://openreview.net/pdf?id=MPJ4SMnScw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8fLgt7PQza",
+      "paper_id": "8fLgt7PQza",
+      "title": "Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval",
+      "authors": "Pengcheng Jiang, Cao Xiao, Minhao Jiang, Parminder Bhatia, Taha Kass-Hout, Jimeng Sun, Jiawei Han",
+      "paper_url": "https://openreview.net/pdf?id=8fLgt7PQza",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iuxaCU3DI7",
+      "paper_id": "iuxaCU3DI7",
+      "title": "Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data",
+      "authors": "Jiajie Li, Brian R Quaranto, Chenhui Xu, Ishan Mishra, Ruiyang Qin, Dancheng Liu, Peter C W Kim, Jinjun Xiong",
+      "paper_url": "https://openreview.net/pdf?id=iuxaCU3DI7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LBl7Hez0fF",
+      "paper_id": "LBl7Hez0fF",
+      "title": "Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering",
+      "authors": "Sheng Liu, Haotian Ye, James Zou",
+      "paper_url": "https://openreview.net/pdf?id=LBl7Hez0fF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_R4h5PXzUuU",
+      "paper_id": "R4h5PXzUuU",
+      "title": "Reflexive Guidance: Improving OoDD in Vision-Language Models via Self-Guided Image-Adaptive Concept Generation",
+      "authors": "Jihyo Kim, Seulbi Lee, Sangheum Hwang",
+      "paper_url": "https://openreview.net/pdf?id=R4h5PXzUuU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iX7eHHE5Tx",
+      "paper_id": "iX7eHHE5Tx",
+      "title": "REMEDY: Recipe Merging Dynamics in Large Vision-Language Models",
+      "authors": "Didi Zhu, Yibing Song, Tao Shen, Ziyu Zhao, Jinluan Yang, Min Zhang, Chao Wu",
+      "paper_url": "https://openreview.net/pdf?id=iX7eHHE5Tx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_w9tc699w3Z",
+      "paper_id": "w9tc699w3Z",
+      "title": "Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment",
+      "authors": "Utkarsh Mall, Cheng Perng Phoo, Meilin Kelsey Liu, Carl Vondrick, Bharath Hariharan, Kavita Bala",
+      "paper_url": "https://openreview.net/pdf?id=w9tc699w3Z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_L4nOxziGf9",
+      "paper_id": "L4nOxziGf9",
+      "title": "Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models",
+      "authors": "Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=L4nOxziGf9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1BmveEMNbG",
+      "paper_id": "1BmveEMNbG",
+      "title": "Rethinking Complex Queries on Knowledge Graphs with Neural Link Predictors",
+      "authors": "Hang Yin, Zihao Wang, Yangqiu Song",
+      "paper_url": "https://openreview.net/pdf?id=1BmveEMNbG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZlQRiFmq7Y",
+      "paper_id": "ZlQRiFmq7Y",
+      "title": "Retrieval-based Disentangled Representation Learning with Natural Language Supervision",
+      "authors": "Jiawei Zhou, Xiaoguang Li, Lifeng Shang, Xin Jiang, Qun Liu, Lei Chen",
+      "paper_url": "https://openreview.net/pdf?id=ZlQRiFmq7Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_b2UlHeyyC0",
+      "paper_id": "b2UlHeyyC0",
+      "title": "Retrieval-Enhanced Contrastive Vision-Text Models",
+      "authors": "Ahmet Iscen, Mathilde Caron, Alireza Fathi, Cordelia Schmid",
+      "paper_url": "https://openreview.net/pdf?id=b2UlHeyyC0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_23b9KSNQTX",
+      "paper_id": "23b9KSNQTX",
+      "title": "RETSim: Resilient and Efficient Text Similarity",
+      "authors": "Marina Zhang, Owen Skipper Vallis, Aysegul Bumin, Tanay Vakharia, Elie Bursztein",
+      "paper_url": "https://openreview.net/pdf?id=23b9KSNQTX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_oStNAMWELS",
+      "paper_id": "oStNAMWELS",
+      "title": "Revealing and Reducing Gender Biases in Vision and Language Assistants (VLAs)",
+      "authors": "Leander Girrbach, Stephan Alaniz, Yiran Huang, Trevor Darrell, Zeynep Akata",
+      "paper_url": "https://openreview.net/pdf?id=oStNAMWELS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TWnUgSAWNw",
+      "paper_id": "TWnUgSAWNw",
+      "title": "Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models",
+      "authors": "Zhengfeng Lai, Vasileios Saveris, Chen Chen, Hong-You Chen, Haotian Zhang, Bowen Zhang, Wenze Hu, Juan Lao Tebar, Zhe Gan, Peter Grasch, Meng Cao, Yinfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=TWnUgSAWNw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_tGZu6DlbreV",
+      "paper_id": "tGZu6DlbreV",
+      "title": "RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs",
+      "authors": "Meng Qu, Junkun Chen, Louis-Pascal Xhonneux, Yoshua Bengio, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/847ad1169fb024508870737fba6927e2e34b9271.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_xjKz6IxgCX",
+      "paper_id": "xjKz6IxgCX",
+      "title": "SafeWatch: An Efficient Safety-Policy Following Video Guardrail Model with Transparent Explanations",
+      "authors": "Zhaorun Chen, Francesco Pinto, Minzhou Pan, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=xjKz6IxgCX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hgTFotBRKl",
+      "paper_id": "hgTFotBRKl",
+      "title": "SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation",
+      "authors": "Jaehong Yoon, Shoubin Yu, Vaidehi Patil, Huaxiu Yao, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=hgTFotBRKl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QIxFo9mFwR",
+      "paper_id": "QIxFo9mFwR",
+      "title": "Scale-aware Recognition in Satellite Images under Resource Constraints",
+      "authors": "Shreelekha Revankar, Cheng Perng Phoo, Utkarsh Mall, Bharath Hariharan, Kavita Bala",
+      "paper_url": "https://openreview.net/pdf?id=QIxFo9mFwR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_tPrRs6YB2P",
+      "paper_id": "tPrRs6YB2P",
+      "title": "Scenario-based Question Answering with Interacting Contextual Properties",
+      "authors": "Haitian Sun, William W. Cohen, Ruslan Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf/3fd9ea33c70845a298ecbb8cf8b7cdb1cb25c4c1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ugyqNEOjoU",
+      "paper_id": "ugyqNEOjoU",
+      "title": "ScImage: How good are multimodal large language models at scientific text-to-image generation?",
+      "authors": "Leixin Zhang, Steffen Eger, Yinjie Cheng, WEIHE ZHAI, Jonas Belouadi, Fahimeh Moafian, Zhixue Zhao",
+      "paper_url": "https://openreview.net/pdf?id=ugyqNEOjoU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Xbl6t6zxZs",
+      "paper_id": "Xbl6t6zxZs",
+      "title": "See It from My Perspective: How Language Affects Cultural Bias in Image Understanding",
+      "authors": "Amith Ananthram, Elias Stengel-Eskin, Mohit Bansal, Kathleen McKeown",
+      "paper_url": "https://openreview.net/pdf?id=Xbl6t6zxZs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7uDI7w5RQA",
+      "paper_id": "7uDI7w5RQA",
+      "title": "See What You Are Told: Visual Attention Sink in Large Multimodal Models",
+      "authors": "Seil Kang, Jinyeong Kim, Junhyeok Kim, Seong Jae Hwang",
+      "paper_url": "https://openreview.net/pdf?id=7uDI7w5RQA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tTBXePRKSx",
+      "paper_id": "tTBXePRKSx",
+      "title": "Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models",
+      "authors": "Ce Zhang, Zifu Wan, Zhehan Kan, Martin Q. Ma, Simon Stepputtis, Deva Ramanan, Russ Salakhutdinov, Louis-Philippe Morency, Katia P. Sycara, Yaqi Xie",
+      "paper_url": "https://openreview.net/pdf?id=tTBXePRKSx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rsZwwjYHuD",
+      "paper_id": "rsZwwjYHuD",
+      "title": "Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models",
+      "authors": "Fushuo Huo, Wenchao Xu, Zhong Zhang, Haozhao Wang, Zhicheng Chen, Peilin Zhao",
+      "paper_url": "https://openreview.net/pdf?id=rsZwwjYHuD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Pj4Aid3XqL",
+      "paper_id": "Pj4Aid3XqL",
+      "title": "Should VLMs be Pre-trained with Image Data?",
+      "authors": "Sedrick Keh, Jean Mercat, Samir Yitzhak Gadre, Kushal Arora, Igor Vasiljevic, Benjamin Burchfiel, Shuran Song, Russ Tedrake, Thomas Kollar, Ludwig Schmidt, Achal Dave",
+      "paper_url": "https://openreview.net/pdf?id=Pj4Aid3XqL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LqaEEs3UxU",
+      "paper_id": "LqaEEs3UxU",
+      "title": "Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation",
+      "authors": "Ryan Wong, Necati Cihan Camgoz, Richard Bowden",
+      "paper_url": "https://openreview.net/pdf?id=LqaEEs3UxU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_EBS4C77p_5S",
+      "paper_id": "EBS4C77p_5S",
+      "title": "SLTUNET: A Simple Unified Model for Sign Language Translation",
+      "authors": "Biao Zhang, Mathias Müller, Rico Sennrich",
+      "paper_url": "https://openreview.net/pdf/9507e2116df8f18cfd2b45279e7e83f544567dbe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_G2Q2Mh3avow",
+      "paper_id": "G2Q2Mh3avow",
+      "title": "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language",
+      "authors": "Andy Zeng, Maria Attarian, brian ichter, Krzysztof Marcin Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael S Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence",
+      "paper_url": "https://openreview.net/pdf/92b6e024f8a9e971e8041aa14e06de2802245730.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FGMkSL8NR0",
+      "paper_id": "FGMkSL8NR0",
+      "title": "SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Model",
+      "authors": "Yue Zhang, Zhiyang Xu, Ying Shen, Parisa Kordjamshidi, Lifu Huang",
+      "paper_url": "https://openreview.net/pdf?id=FGMkSL8NR0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_x1yOHtFfDh",
+      "paper_id": "x1yOHtFfDh",
+      "title": "SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models",
+      "authors": "Haotian Xia, Zhengbang Yang, Junbo Zou, Rhys Tracy, Yuqing Wang, Chi Lu, Christopher Lai, Yanjun He, Xun Shao, Zhuoqing Xie, Yuan-fang Wang, Weining Shen, Hanjie Chen",
+      "paper_url": "https://openreview.net/pdf?id=x1yOHtFfDh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_9yE2xEj0BH7",
+      "paper_id": "9yE2xEj0BH7",
+      "title": "Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus",
+      "authors": "Gang Li, Yang Li",
+      "paper_url": "https://openreview.net/pdf/ad305a1a4c4b0a2571863546dc680f91c8b5b9f1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_IDJx97BC38",
+      "paper_id": "IDJx97BC38",
+      "title": "SQA3D: Situated Question Answering in 3D Scenes",
+      "authors": "Xiaojian Ma, Silong Yong, Zilong Zheng, Qing Li, Yitao Liang, Song-Chun Zhu, Siyuan Huang",
+      "paper_url": "https://openreview.net/pdf/7c0e4e7d24c7883389f21b015135c6bfd4f50b62.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ooxj2Audlq",
+      "paper_id": "ooxj2Audlq",
+      "title": "Stable Segment Anything Model",
+      "authors": "Qi Fan, Xin Tao, Lei Ke, Mingqiao Ye, Di ZHANG, Pengfei Wan, Yu-Wing Tai, Chi-Keung Tang",
+      "paper_url": "https://openreview.net/pdf?id=ooxj2Audlq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_NltzxpG0nz",
+      "paper_id": "NltzxpG0nz",
+      "title": "Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds",
+      "authors": "Sipeng Zheng, jiazheng liu, Yicheng Feng, Zongqing Lu",
+      "paper_url": "https://openreview.net/pdf?id=NltzxpG0nz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_1C_kSW1-k0",
+      "paper_id": "1C_kSW1-k0",
+      "title": "STREET: A MULTI-TASK STRUCTURED REASONING AND EXPLANATION BENCHMARK",
+      "authors": "Danilo Neves Ribeiro, Shen Wang, Xiaofei Ma, Henghui Zhu, Rui Dong, Deguang Kong, Juliette Burger, Anjelica Ramos, zhiheng huang, William Yang Wang, George Karypis, Bing Xiang, Dan Roth",
+      "paper_url": "https://openreview.net/pdf/1b74d54ce93b0d4d1558e20806f96d4b743468ea.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_riTiq3i21b",
+      "paper_id": "riTiq3i21b",
+      "title": "SWE-bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+      "authors": "John Yang, Carlos E Jimenez, Alex L Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik R Narasimhan, Diyi Yang, Sida Wang, Ofir Press",
+      "paper_url": "https://openreview.net/pdf?id=riTiq3i21b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eePww5u7J3",
+      "paper_id": "eePww5u7J3",
+      "title": "Swiss Army Knife: Synergizing Biases in Knowledge from Vision Foundation Models for Multi-Task Learning",
+      "authors": "Yuxiang Lu, Shengcao Cao, Yu-Xiong Wang",
+      "paper_url": "https://openreview.net/pdf?id=eePww5u7J3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ViPtjIVzUw",
+      "paper_id": "ViPtjIVzUw",
+      "title": "T-MARS: Improving Visual Representations by Circumventing Text Feature Learning",
+      "authors": "Pratyush Maini, Sachin Goyal, Zachary Chase Lipton, J Zico Kolter, Aditi Raghunathan",
+      "paper_url": "https://openreview.net/pdf?id=ViPtjIVzUw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_x6u2BQ7xcq",
+      "paper_id": "x6u2BQ7xcq",
+      "title": "Tag2Text: Guiding Vision-Language Model via Image Tagging",
+      "authors": "Xinyu Huang, Youcai Zhang, Jinyu Ma, Weiwei Tian, Rui Feng, Yuejie Zhang, Yaqian Li, Yandong Guo, Lei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=x6u2BQ7xcq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_JXgnnUC0PH",
+      "paper_id": "JXgnnUC0PH",
+      "title": "TaskGalaxy: Scaling Multi-modal Instruction Fine-tuning with Tens of Thousands Vision Task Types",
+      "authors": "Jiankang Chen, Tianke Zhang, Changyi Liu, Haojie Ding, Yaya Shi, cheng.feng, Huihui Xiao, Bin Wen, Fan Yang, Tingting Gao, Di ZHANG",
+      "paper_url": "https://openreview.net/pdf?id=JXgnnUC0PH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pTeOOKnjGM",
+      "paper_id": "pTeOOKnjGM",
+      "title": "TEASER: Token Enhanced Spatial Modeling for Expressions Reconstruction",
+      "authors": "Yunfei Liu, Lei Zhu, Lijian Lin, Ye Zhu, Ailing Zhang, Yu Li",
+      "paper_url": "https://openreview.net/pdf?id=pTeOOKnjGM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pZz0nOroGv",
+      "paper_id": "pZz0nOroGv",
+      "title": "TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data",
+      "authors": "Jeremy Andrew Irvin, Emily Ruoyu Liu, Joyce C. Chen, Ines Dormoy, Jinyoung Kim, Samar Khanna, Zhuo Zheng, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=pZz0nOroGv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1L52bHEL5d",
+      "paper_id": "1L52bHEL5d",
+      "title": "Test-Time Adaptation for Combating Missing Modalities in Egocentric Videos",
+      "authors": "Merey Ramazanova, Alejandro Pardo, Bernard Ghanem, Motasem Alfarra",
+      "paper_url": "https://openreview.net/pdf?id=1L52bHEL5d",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UIFAJZ22ZF",
+      "paper_id": "UIFAJZ22ZF",
+      "title": "The 3D-PC: a benchmark for visual perspective taking in humans and machines",
+      "authors": "Drew Linsley, Peisen Zhou, Alekh Karkada Ashok, Akash Nagaraj, Gaurav Gaonkar, Francis E Lewis, Zygmunt Pizlo, Thomas Serre",
+      "paper_url": "https://openreview.net/pdf?id=UIFAJZ22ZF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_c2R7ajodcI",
+      "paper_id": "c2R7ajodcI",
+      "title": "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World",
+      "authors": "Weiyun Wang, Min Shi, Qingyun Li, Wenhai Wang, Zhenhang Huang, Linjie Xing, Zhe Chen, Hao Li, Xizhou Zhu, Zhiguo Cao, Yushi Chen, Tong Lu, Jifeng Dai, Yu Qiao",
+      "paper_url": "https://openreview.net/pdf?id=c2R7ajodcI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vJ0axKTh7t",
+      "paper_id": "vJ0axKTh7t",
+      "title": "The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs",
+      "authors": "Hong Li, Nanxi Li, Yuanjie Chen, Jianbin Zhu, Qinlu Guo, Cewu Lu, Yong-Lu Li",
+      "paper_url": "https://openreview.net/pdf?id=vJ0axKTh7t",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__X12NmQKvX",
+      "paper_id": "_X12NmQKvX",
+      "title": "TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs",
+      "authors": "Siheng Xiong, Yuan Yang, Faramarz Fekri, James Clayton Kerce",
+      "paper_url": "https://openreview.net/pdf/b837b878ac08cd49f6f79660b6bb8703badd9c4d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_nAVejJURqZ",
+      "paper_id": "nAVejJURqZ",
+      "title": "TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning",
+      "authors": "Xiangyu Zeng, Kunchang Li, Chenting Wang, Xinhao Li, Tianxiang Jiang, Ziang Yan, Songze Li, Yansong Shi, Zhengrong Yue, Yi Wang, Yali Wang, Yu Qiao, Limin Wang",
+      "paper_url": "https://openreview.net/pdf?id=nAVejJURqZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DaA0wAcTY7",
+      "paper_id": "DaA0wAcTY7",
+      "title": "TIPS: Text-Image Pretraining with Spatial awareness",
+      "authors": "Kevis-kokitsi Maninis, Kaifeng Chen, Soham Ghosh, Arjun Karpur, Koert Chen, Ye Xia, Bingyi Cao, Daniel Salz, Guangxing Han, Jan Dlabal, Dan Gnanapragasam, Mojtaba Seyedhosseini, Howard Zhou, Andre Araujo",
+      "paper_url": "https://openreview.net/pdf?id=DaA0wAcTY7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Zy2XgaGpDw",
+      "paper_id": "Zy2XgaGpDw",
+      "title": "TLDR: Token-Level Detective Reward Model for Large Vision Language Models",
+      "authors": "Deqing Fu, Tong Xiao, Rui Wang, Wang Zhu, Pengchuan Zhang, Guan Pang, Robin Jia, Lawrence Chen",
+      "paper_url": "https://openreview.net/pdf?id=Zy2XgaGpDw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EMMnAd3apQ",
+      "paper_id": "EMMnAd3apQ",
+      "title": "ToVE: Efficient Vision-Language Learning via Knowledge Transfer from Vision Experts",
+      "authors": "Yuanchen Wu, Junlong Du, Ke Yan, Shouhong Ding, Xiaoqiang Li",
+      "paper_url": "https://openreview.net/pdf?id=EMMnAd3apQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IcR1OOFzxm",
+      "paper_id": "IcR1OOFzxm",
+      "title": "Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection",
+      "authors": "Fan Shi, Bin Li, Xiangyang Xue",
+      "paper_url": "https://openreview.net/pdf?id=IcR1OOFzxm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_chanJGoa7f",
+      "paper_id": "chanJGoa7f",
+      "title": "Towards Interpreting Visual Information Processing in Vision-Language Models",
+      "authors": "Clement Neo, Luke Ong, Philip Torr, Mor Geva, David Krueger, Fazl Barez",
+      "paper_url": "https://openreview.net/pdf?id=chanJGoa7f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LuVulfPgZN",
+      "paper_id": "LuVulfPgZN",
+      "title": "Towards Out-of-Modal Generalization without Instance-level Modal Correspondence",
+      "authors": "Zhuo Huang, Gang Niu, Bo Han, Masashi Sugiyama, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=LuVulfPgZN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rUvCIvI4eB",
+      "paper_id": "rUvCIvI4eB",
+      "title": "Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology",
+      "authors": "Xiangyu Wang, Donglin Yang, Ziqin Wang, Hohin Kwan, Jinyu Chen, Wenjun Wu, Hongsheng Li, Yue Liao, Si Liu",
+      "paper_url": "https://openreview.net/pdf?id=rUvCIvI4eB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KTf4DGAzus",
+      "paper_id": "KTf4DGAzus",
+      "title": "Towards Robust Multi-Modal Reasoning via Model Selection",
+      "authors": "Xiangyan Liu, Rongxue LI, Wei Ji, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=KTf4DGAzus",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_n64NYyc6rQ",
+      "paper_id": "n64NYyc6rQ",
+      "title": "Towards Semantic Equivalence of Tokenization in Multimodal LLM",
+      "authors": "Shengqiong Wu, Hao Fei, Xiangtai Li, Jiayi Ji, Hanwang Zhang, Tat-Seng Chua, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=n64NYyc6rQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WQvkqarwXi",
+      "paper_id": "WQvkqarwXi",
+      "title": "Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation",
+      "authors": "Tengfei Ma, Xiang song, Wen Tao, Mufei Li, Jiani Zhang, Xiaoqin Pan, Yijun Wang, Bosheng Song, xiangxiang Zeng",
+      "paper_url": "https://openreview.net/pdf?id=WQvkqarwXi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_khAE1sTMdX",
+      "paper_id": "khAE1sTMdX",
+      "title": "Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond",
+      "authors": "Tianxin Wei, Bowen Jin, Ruirui Li, Hansi Zeng, Zhengyang Wang, Jianhui Sun, Qingyu Yin, Hanqing Lu, Suhang Wang, Jingrui He, Xianfeng Tang",
+      "paper_url": "https://openreview.net/pdf?id=khAE1sTMdX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uAFHCZRmXk",
+      "paper_id": "uAFHCZRmXk",
+      "title": "Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models",
+      "authors": "Simon Schrodi, David T. Hoffmann, Max Argus, Volker Fischer, Thomas Brox",
+      "paper_url": "https://openreview.net/pdf?id=uAFHCZRmXk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Bjq4W7P2Us",
+      "paper_id": "Bjq4W7P2Us",
+      "title": "Understanding and Mitigating Hallucination in Large Vision-Language Models via Modular Attribution and Intervention",
+      "authors": "Tianyun Yang, Ziniu Li, Juan Cao, Chang Xu",
+      "paper_url": "https://openreview.net/pdf?id=Bjq4W7P2Us",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ugA1HX69sf",
+      "paper_id": "ugA1HX69sf",
+      "title": "Understanding Embodied Reference with Touch-Line Transformer",
+      "authors": "Yang Li, Xiaoxue Chen, Hao Zhao, Jiangtao Gong, Guyue Zhou, Federico Rossano, Yixin Zhu",
+      "paper_url": "https://openreview.net/pdf/f05337a1a545b0bea49b8f29bbfa4c42519f1b18.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Gf1uBeuUJW",
+      "paper_id": "Gf1uBeuUJW",
+      "title": "Unhackable Temporal Reward for Scalable Video MLLMs",
+      "authors": "En Yu, Kangheng Lin, Liang Zhao, Yana Wei, Zining Zhu, Haoran Wei, Jianjian Sun, Zheng Ge, Xiangyu Zhang, Jingyu Wang, Wenbing Tao",
+      "paper_url": "https://openreview.net/pdf?id=Gf1uBeuUJW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0Xt7uT04cQ",
+      "paper_id": "0Xt7uT04cQ",
+      "title": "Uni-Sign: Toward Unified Sign Language Understanding at Scale",
+      "authors": "Zecheng Li, Wengang Zhou, Weichao Zhao, Kepeng Wu, Hezhen Hu, Houqiang Li",
+      "paper_url": "https://openreview.net/pdf?id=0Xt7uT04cQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_E01k9048soZ",
+      "paper_id": "E01k9048soZ",
+      "title": "UNIFIED-IO: A Unified Model for Vision, Language, and Multi-modal Tasks",
+      "authors": "Jiasen Lu, Christopher Clark, Rowan Zellers, Roozbeh Mottaghi, Aniruddha Kembhavi",
+      "paper_url": "https://openreview.net/pdf/4f576a5041215d0298e9540a8c23041533da1724.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_fQHb1uZzl7",
+      "paper_id": "fQHb1uZzl7",
+      "title": "Unifying Feature and Cost Aggregation with Transformers for Semantic and Visual Correspondence",
+      "authors": "Sunghwan Hong, Seokju Cho, Seungryong Kim, Stephen Lin",
+      "paper_url": "https://openreview.net/pdf?id=fQHb1uZzl7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_N0n_QyQ5lBF",
+      "paper_id": "N0n_QyQ5lBF",
+      "title": "Unsupervised Vision-Language Grammar Induction with Shared Structure Modeling",
+      "authors": "Bo Wan, Wenjuan Han, Zilong Zheng, Tinne Tuytelaars",
+      "paper_url": "https://openreview.net/pdf/5c104842d13e8d6efd55b6d7c04f4373a39eae18.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_s0Z4csHOoE",
+      "paper_id": "s0Z4csHOoE",
+      "title": "VCR: A Task for Pixel-Level Complex Reasoning in Vision Language Models via Restoring Occluded Text",
+      "authors": "Tianyu Zhang, Suyuchen Wang, Lu Li, Ge Zhang, Perouz Taslakian, Sai Rajeswar, Jie Fu, Bang Liu, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=s0Z4csHOoE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ygxTuVz9eU",
+      "paper_id": "ygxTuVz9eU",
+      "title": "VDC: Versatile Data Cleanser based on Visual-Linguistic Inconsistency by Multimodal Large Language Models",
+      "authors": "Zihao Zhu, Mingda Zhang, Shaokui Wei, Bingzhe Wu, Baoyuan Wu",
+      "paper_url": "https://openreview.net/pdf?id=ygxTuVz9eU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_unDQOUah0F",
+      "paper_id": "unDQOUah0F",
+      "title": "VideoWebArena:  Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks",
+      "authors": "Lawrence Keunho Jang, Yinheng Li, Dan Zhao, Charles Ding, Justin Lin, Paul Pu Liang, Rogerio Bonatti, Kazuhito Koishida",
+      "paper_url": "https://openreview.net/pdf?id=unDQOUah0F",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_02haSpO453",
+      "paper_id": "02haSpO453",
+      "title": "VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation",
+      "authors": "Yecheng Wu, Zhuoyang Zhang, Junyu Chen, Haotian Tang, Dacheng Li, Yunhao Fang, Ligeng Zhu, Enze Xie, Hongxu Yin, Li Yi, Song Han, Yao Lu",
+      "paper_url": "https://openreview.net/pdf?id=02haSpO453",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_friHAl5ofG",
+      "paper_id": "friHAl5ofG",
+      "title": "Vision Language Models are In-Context Value Learners",
+      "authors": "Yecheng Jason Ma, Joey Hejna, Chuyuan Fu, Dhruv Shah, Jacky Liang, Zhuo Xu, Sean Kirmani, Peng Xu, Danny Driess, Ted Xiao, Osbert Bastani, Dinesh Jayaraman, Wenhao Yu, Tingnan Zhang, Dorsa Sadigh, Fei Xia",
+      "paper_url": "https://openreview.net/pdf?id=friHAl5ofG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_EDPxCjXzSb",
+      "paper_id": "EDPxCjXzSb",
+      "title": "Vision-by-Language for Training-Free Compositional Image Retrieval",
+      "authors": "Shyamgopal Karthik, Karsten Roth, Massimiliano Mancini, Zeynep Akata",
+      "paper_url": "https://openreview.net/pdf?id=EDPxCjXzSb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nGiGXLnKhl",
+      "paper_id": "nGiGXLnKhl",
+      "title": "Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures",
+      "authors": "Yuchen Duan, Weiyun Wang, Zhe Chen, Xizhou Zhu, Lewei Lu, Tong Lu, Yu Qiao, Hongsheng Li, Jifeng Dai, Wenhai Wang",
+      "paper_url": "https://openreview.net/pdf?id=nGiGXLnKhl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zG459X3Xge",
+      "paper_id": "zG459X3Xge",
+      "title": "VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents",
+      "authors": "Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=zG459X3Xge",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ncCuiD3KJQ",
+      "paper_id": "ncCuiD3KJQ",
+      "title": "Visual Agents as Fast and Slow Thinkers",
+      "authors": "Guangyan Sun, Mingyu Jin, Zhenting Wang, Cheng-Long Wang, Siqi Ma, Qifan Wang, Tong Geng, Ying Nian Wu, Yongfeng Zhang, Dongfang Liu",
+      "paper_url": "https://openreview.net/pdf?id=ncCuiD3KJQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_jlAjNL8z5cs",
+      "paper_id": "jlAjNL8z5cs",
+      "title": "Visual Classification via Description from Large Language Models",
+      "authors": "Sachit Menon, Carl Vondrick",
+      "paper_url": "https://openreview.net/pdf/d171255a976821dd4ebfacb7a012082c4b888b7a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_WyEdX2R4er",
+      "paper_id": "WyEdX2R4er",
+      "title": "Visual Data-Type Understanding does not emerge from scaling Vision-Language Models",
+      "authors": "Vishaal Udandarao, Max F Burg, Samuel Albanie, Matthias Bethge",
+      "paper_url": "https://openreview.net/pdf?id=WyEdX2R4er",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3PRvlT8b1R",
+      "paper_id": "3PRvlT8b1R",
+      "title": "Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs",
+      "authors": "Sreyan Ghosh, Chandra Kiran Reddy Evuru, Sonal Kumar, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha",
+      "paper_url": "https://openreview.net/pdf?id=3PRvlT8b1R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9JCNPFL1f9",
+      "paper_id": "9JCNPFL1f9",
+      "title": "Visual Haystacks: A Vision-Centric Needle-In-A-Haystack Benchmark",
+      "authors": "Tsung-Han Wu, Giscard Biamby, Jerome Quenum, Ritwik Gupta, Joseph E. Gonzalez, Trevor Darrell, David Chan",
+      "paper_url": "https://openreview.net/pdf?id=9JCNPFL1f9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_v9CDpLpjiE",
+      "paper_id": "v9CDpLpjiE",
+      "title": "Visual-O1: Understanding Ambiguous Instructions via Multi-modal Multi-turn Chain-of-thoughts Reasoning",
+      "authors": "Minheng Ni, YuTao Fan, Lei Zhang, Wangmeng Zuo",
+      "paper_url": "https://openreview.net/pdf?id=v9CDpLpjiE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2snKOc7TVp",
+      "paper_id": "2snKOc7TVp",
+      "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+      "authors": "Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Song XiXuan, Yifan Xu, Shudan Zhang, Hanyu Lai, Jiadai Sun, Xinyue Yang, Yu Yang, Zehan Qi, Shuntian Yao, Xueqiao Sun, Siyi Cheng, Qinkai Zheng, Hao Yu, Hanchen Zhang, Wenyi Hong, Ming Ding, Lihang Pan, Xiaotao Gu, Aohan Zeng, Zhengxiao Du, Chan Hee Song, Yu Su, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://openreview.net/pdf?id=2snKOc7TVp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8IN-qLkl215",
+      "paper_id": "8IN-qLkl215",
+      "title": "Visually-Augmented Language Modeling",
+      "authors": "Weizhi Wang, Li Dong, Hao Cheng, Haoyu Song, Xiaodong Liu, Xifeng Yan, Jianfeng Gao, Furu Wei",
+      "paper_url": "https://openreview.net/pdf/c73c81bf4faecceb125dd37e5452d0ba0431a662.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cpGPPLLYYx",
+      "paper_id": "cpGPPLLYYx",
+      "title": "VL-ICL Bench: The Devil in the Details of Multimodal In-Context Learning",
+      "authors": "Yongshuo Zong, Ondrej Bohdal, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf?id=cpGPPLLYYx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_q5MUMlHxpd",
+      "paper_id": "q5MUMlHxpd",
+      "title": "VOILA: Evaluation of MLLMs For Perceptual Understanding and Analogical Reasoning",
+      "authors": "Nilay Yilmaz, Maitreya Patel, Yiran Lawrence Luo, Tejas Gokhale, Chitta Baral, Suren Jayasuriya, Yezhou Yang",
+      "paper_url": "https://openreview.net/pdf?id=q5MUMlHxpd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vbmSSIhKAM",
+      "paper_id": "vbmSSIhKAM",
+      "title": "VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?",
+      "authors": "Xize Cheng, Ruofan Hu, Xiaoda Yang, Jingyu Lu, Dongjie Fu, Zehan Wang, Shengpeng Ji, Rongjie Huang, Boyang Zhang, Tao Jin, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf?id=vbmSSIhKAM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_KRLUvxh8uaX",
+      "paper_id": "KRLUvxh8uaX",
+      "title": "When and Why Vision-Language Models Behave like Bags-Of-Words, and What to Do About It?",
+      "authors": "Mert Yuksekgonul, Federico Bianchi, Pratyusha Kalluri, Dan Jurafsky, James Zou",
+      "paper_url": "https://openreview.net/pdf/ced77554985af011f5544a8798a3035d4b6ab52b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_HN8V0flwJF",
+      "paper_id": "HN8V0flwJF",
+      "title": "World Model on Million-Length Video And Language With Blockwise RingAttention",
+      "authors": "Hao Liu, Wilson Yan, Matei Zaharia, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=HN8V0flwJF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_b42wmsdwmB",
+      "paper_id": "b42wmsdwmB",
+      "title": "X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing",
+      "authors": "Xinyan Chen, Jianfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=b42wmsdwmB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KXDOmD7DM7",
+      "paper_id": "KXDOmD7DM7",
+      "title": "YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary",
+      "authors": "Hao-Tang Tsui, Chien-Yao Wang, Hong-Yuan Mark Liao",
+      "paper_url": "https://openreview.net/pdf?id=KXDOmD7DM7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_nFVsK3QLgs",
+      "paper_id": "nFVsK3QLgs",
+      "title": "YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus",
+      "authors": "Garrett Tanzer, Biao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=nFVsK3QLgs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_T4LtGj7us1",
+      "paper_id": "T4LtGj7us1",
+      "title": "ZooProbe: A Data Engine for Evaluating, Exploring, and Evolving Large-scale Training Data for Multimodal LLMs",
+      "authors": "Yi-Kai Zhang, Shiyin Lu, Qing-Guo Chen, De-Chuan Zhan, Han-Jia Ye",
+      "paper_url": "https://openreview.net/pdf?id=T4LtGj7us1",
+      "venue": "iclr25"
+    }
+  ]
+}

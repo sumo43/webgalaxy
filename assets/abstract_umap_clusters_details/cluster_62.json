@@ -1,0 +1,965 @@
+{
+  "cluster_id": 62,
+  "papers": [
+    {
+      "id": "iclr21_Drynvt7gg4L",
+      "paper_id": "Drynvt7gg4L",
+      "title": "AdaSpeech: Adaptive Text to Speech for Custom Voice",
+      "authors": "Mingjian Chen, Xu Tan, Bohan Li, Yanqing Liu, Tao Qin, sheng zhao, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/a106470a7fdf6a1a5575c27c3e1b22bbc5ec2fa6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_l4fMj4Vnly",
+      "paper_id": "l4fMj4Vnly",
+      "title": "ADIFF: Explaining audio difference using natural language",
+      "authors": "Soham Deshmukh, Shuo Han, Rita Singh, Bhiksha Raj",
+      "paper_url": "https://openreview.net/pdf?id=l4fMj4Vnly",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1SYUKPeM12",
+      "paper_id": "1SYUKPeM12",
+      "title": "Aligned Better, Listen Better for Audio-Visual Large Language Models",
+      "authors": "Yuxin Guo, Shuailei Ma, Shijie Ma, Xiaoyi Bao, Chen-Wei Xie, Kecheng Zheng, Tingyu Weng, Siyang Sun, Yun Zheng, Wei Zou",
+      "paper_url": "https://openreview.net/pdf?id=1SYUKPeM12",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_fzberKYWKsI",
+      "paper_id": "fzberKYWKsI",
+      "title": "An efficient encoder-decoder architecture with top-down attention for speech separation",
+      "authors": "Kai Li, Runxuan Yang, Xiaolin Hu",
+      "paper_url": "https://openreview.net/pdf/f774281ea7675432c37c07ae84d0162f9a3541e3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_X5hrhgndxW",
+      "paper_id": "X5hrhgndxW",
+      "title": "Aria-MIDI: A Dataset of Piano MIDI Files for Symbolic Music Modeling",
+      "authors": "Louis Bradshaw, Simon Colton",
+      "paper_url": "https://openreview.net/pdf?id=X5hrhgndxW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_U42TkrEDzb",
+      "paper_id": "U42TkrEDzb",
+      "title": "Audio Large Language Models Can Be Descriptive Speech Quality Evaluators",
+      "authors": "Chen Chen, Yuchen Hu, Siyin Wang, Helin Wang, Zhehuai Chen, Chao Zhang, Chao-Han Huck Yang, EngSiong Chng",
+      "paper_url": "https://openreview.net/pdf?id=U42TkrEDzb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9Nk6AJkVYB",
+      "paper_id": "9Nk6AJkVYB",
+      "title": "Audio Lottery: Speech Recognition Made Ultra-Lightweight, Noise-Robust, and Transferable",
+      "authors": "Shaojin Ding, Tianlong Chen, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/3d42ff881f8ec8954935d0f8bbcb2a21d71106ea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_CYK7RfcOzQ4",
+      "paper_id": "CYK7RfcOzQ4",
+      "title": "AudioGen: Textually Guided Audio Generation",
+      "authors": "Felix Kreuk, Gabriel Synnaeve, Adam Polyak, Uriel Singer, Alexandre Défossez, Jade Copet, Devi Parikh, Yaniv Taigman, Yossi Adi",
+      "paper_url": "https://openreview.net/pdf/caa20ebdbbf426117f36f9b36b9d80adae172e11.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_SbR9mpTuBn",
+      "paper_id": "SbR9mpTuBn",
+      "title": "Bag of Tricks for Unsupervised Text-to-Speech",
+      "authors": "Yi Ren, Chen Zhang, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf/f21bd890476de833a3d985565b4fb4d8efa1420c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_Bd7GueaTxUz",
+      "paper_id": "Bd7GueaTxUz",
+      "title": "BAYES RISK CTC: CONTROLLABLE CTC ALIGNMENT IN SEQUENCE-TO-SEQUENCE TASKS",
+      "authors": "Jinchuan Tian, Brian Yan, Jianwei Yu, CHAO WENG, Dong Yu, Shinji Watanabe",
+      "paper_url": "https://openreview.net/pdf/48ab46d2930d93cc5f05acde4617f4db91dd4007.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_L7wzpQttNO",
+      "paper_id": "L7wzpQttNO",
+      "title": "BDDM: Bilateral Denoising Diffusion Models for Fast and High-Quality Speech Synthesis",
+      "authors": "Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu",
+      "paper_url": "https://openreview.net/pdf/8ac09c0c92b7fc2905b7bbd470f4a2a4607be605.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_o3iritJHLfO",
+      "paper_id": "o3iritJHLfO",
+      "title": "Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech",
+      "authors": "Yoonhyung Lee, Joongbo Shin, Kyomin Jung",
+      "paper_url": "https://openreview.net/pdf/db03d769745da96b32be80606e358d64a7641d2b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_iTtGCMDEzS_",
+      "paper_id": "iTtGCMDEzS_",
+      "title": "BigVGAN: A Universal Neural Vocoder with Large-Scale Training",
+      "authors": "Sang-gil Lee, Wei Ping, Boris Ginsburg, Bryan Catanzaro, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf/83a6bf43cf73a95dc165f0022b90a6950f10a5bf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_dRXxFEY8ZE",
+      "paper_id": "dRXxFEY8ZE",
+      "title": "BirdSet: A Large-Scale Dataset for Audio Classification in Avian Bioacoustics",
+      "authors": "Lukas Rauch, Raphael Schwinger, Moritz Wirth, René Heinrich, Denis Huseljic, Marek Herde, Jonas Lange, Stefan Kahl, Bernhard Sick, Sven Tomforde, Christoph Scholz",
+      "paper_url": "https://openreview.net/pdf?id=dRXxFEY8ZE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qPx3i9sMxv",
+      "paper_id": "qPx3i9sMxv",
+      "title": "Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation",
+      "authors": "Peiwen Sun, Sitong Cheng, Xiangtai Li, Zhen Ye, Huadai Liu, Honggang Zhang, Wei Xue, Yike Guo",
+      "paper_url": "https://openreview.net/pdf?id=qPx3i9sMxv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_v3aeIsY_vVX",
+      "paper_id": "v3aeIsY_vVX",
+      "title": "Chunked Autoregressive GAN for Conditional Waveform Synthesis",
+      "authors": "Max Morrison, Rithesh Kumar, Kundan Kumar, Prem Seetharaman, Aaron Courville, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf/070239829c83980ec499e2eff346d48eafe3ecb5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ofzeypWosV",
+      "paper_id": "ofzeypWosV",
+      "title": "CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech",
+      "authors": "Jaehyeon Kim, Keon Lee, Seungjun Chung, Jaewoong Cho",
+      "paper_url": "https://openreview.net/pdf?id=ofzeypWosV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_H-T3F0dMbyj",
+      "paper_id": "H-T3F0dMbyj",
+      "title": "CLIPSep: Learning Text-queried Sound Separation with Noisy Unlabeled Videos",
+      "authors": "Hao-Wen Dong, Naoya Takahashi, Yuki Mitsufuji, Julian McAuley, Taylor Berg-Kirkpatrick",
+      "paper_url": "https://openreview.net/pdf/dab45d6edbf6928631998496ce070789638a5484.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_86NGO8qeWs",
+      "paper_id": "86NGO8qeWs",
+      "title": "CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models",
+      "authors": "Sreyan Ghosh, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Reddy Evuru, Ramaneswaran S, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha",
+      "paper_url": "https://openreview.net/pdf?id=86NGO8qeWs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_u2QdCiOgwA",
+      "paper_id": "u2QdCiOgwA",
+      "title": "Context-aware Dynamic Pruning for Speech Foundation Models",
+      "authors": "Masao Someki, Yifan Peng, Siddhant Arora, Markus Müller, Athanasios Mouchtaris, Grant Strimel, Jing Liu, Shinji Watanabe",
+      "paper_url": "https://openreview.net/pdf?id=u2QdCiOgwA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cuFzE8Jlvb",
+      "paper_id": "cuFzE8Jlvb",
+      "title": "Continuous Autoregressive Modeling with Stochastic Monotonic Alignment for Speech Synthesis",
+      "authors": "Weiwei Lin, Chenhang HE",
+      "paper_url": "https://openreview.net/pdf?id=cuFzE8Jlvb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_QPtMRyk5rb",
+      "paper_id": "QPtMRyk5rb",
+      "title": "Contrastive Audio-Visual Masked Autoencoder",
+      "authors": "Yuan Gong, Andrew Rouditchenko, Alexander H. Liu, David Harwath, Leonid Karlinsky, Hilde Kuehne, James R. Glass",
+      "paper_url": "https://openreview.net/pdf/6de0262994e10ffd87b06b9ad0e8b4f86c84f044.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_XRtyVELwr6",
+      "paper_id": "XRtyVELwr6",
+      "title": "Contrastive Learning from Synthetic Audio Doppelgängers",
+      "authors": "Manuel Cherep, Nikhil Singh",
+      "paper_url": "https://openreview.net/pdf?id=XRtyVELwr6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8JsaP7j1cL0",
+      "paper_id": "8JsaP7j1cL0",
+      "title": "Correlative Information Maximization Based Biologically Plausible Neural Networks for Correlated Source Separation",
+      "authors": "Bariscan Bozkurt, Ateş İsfendiyaroğlu, Cengiz Pehlevan, Alper Tunga Erdogan",
+      "paper_url": "https://openreview.net/pdf/ef092df8bb544b27c12e88fa9b2d3dd15abedb01.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_CIs9x2ZRgh",
+      "paper_id": "CIs9x2ZRgh",
+      "title": "CR-CTC: Consistency regularization on CTC for improved speech recognition",
+      "authors": "Zengwei Yao, Wei Kang, Xiaoyu Yang, Fangjun Kuang, Liyong Guo, Han Zhu, Zengrui Jin, Zhaoqing Li, Long Lin, Daniel Povey",
+      "paper_url": "https://openreview.net/pdf?id=CIs9x2ZRgh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_hWr3e3r-oH5",
+      "paper_id": "hWr3e3r-oH5",
+      "title": "Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization",
+      "authors": "Jun-Tae Lee, Mihir Jain, Hyoungwoo Park, Sungrack Yun",
+      "paper_url": "https://openreview.net/pdf/2d9210844c74d2a119c3878f1e6c2475a0d3af86.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_5fvXH49wk2",
+      "paper_id": "5fvXH49wk2",
+      "title": "D4AM: A General Denoising Framework for Downstream Acoustic Models",
+      "authors": "Chi-Chang Lee, Yu Tsao, Hsin-Min Wang, Chu-Song Chen",
+      "paper_url": "https://openreview.net/pdf/520bdf66a9155c04855905babaead2b9aeba0b5d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_l5aSHXi8jG5",
+      "paper_id": "l5aSHXi8jG5",
+      "title": "Demystifying Limited Adversarial Transferability in Automatic Speech Recognition Systems",
+      "authors": "Hadi Abdullah, Aditya Karlekar, Vincent Bindschaedler, Patrick Traynor",
+      "paper_url": "https://openreview.net/pdf/1a5b08e254c26f966237f4cd25b8f69482718015.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_GTk0AdOYLq",
+      "paper_id": "GTk0AdOYLq",
+      "title": "DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation",
+      "authors": "Roi Benita, Michael Elad, Joseph Keshet",
+      "paper_url": "https://openreview.net/pdf?id=GTk0AdOYLq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_a-xFK8Ymz5J",
+      "paper_id": "a-xFK8Ymz5J",
+      "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+      "authors": "Zhifeng Kong, Wei Ping, Jiaji Huang, Kexin Zhao, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf/d27840fc3a835c4da4a9d13c4227c7a0d8a9b3c5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_1-MBdJssZ-S",
+      "paper_id": "1-MBdJssZ-S",
+      "title": "Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation",
+      "authors": "Ye Zhu, Yu Wu, Kyle Olszewski, Jian Ren, Sergey Tulyakov, Yan Yan",
+      "paper_url": "https://openreview.net/pdf/d217aca9d2b4ac1be080c492bb9d4939061d6de7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_hQvX9MBowC",
+      "paper_id": "hQvX9MBowC",
+      "title": "DiTTo-TTS: Diffusion Transformers for Scalable Text-to-Speech without Domain-Specific Factors",
+      "authors": "Keon Lee, Dong Won Kim, Jaehyeon Kim, Seungjun Chung, Jaewoong Cho",
+      "paper_url": "https://openreview.net/pdf?id=hQvX9MBowC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Pz_dcqfcKW8",
+      "paper_id": "Pz_dcqfcKW8",
+      "title": "Dual-mode ASR: Unify and Improve Streaming ASR with Full-context Modeling",
+      "authors": "Jiahui Yu, Wei Han, Anmol Gulati, Chung-Cheng Chiu, Bo Li, Tara N Sainath, Yonghui Wu, Ruoming Pang",
+      "paper_url": "https://openreview.net/pdf/8697733aaccbfee4496ccbbfa1b3ce6d706fd1a5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_s7lzZpAW7T",
+      "paper_id": "s7lzZpAW7T",
+      "title": "Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks",
+      "authors": "Chien-yu Huang, Wei-Chih Chen, Shu-wen Yang, Andy T. Liu, Chen-An Li, Yu-Xiang Lin, Wei-Cheng Tseng, Anuj Diwan, Yi-Jen Shih, Jiatong Shi, William Chen, Chih-Kai Yang, Xuanjun Chen, Chi-Yuan Hsiao, Puyuan Peng, Shih-Heng Wang, Chun-Yi Kuan, Ke-Han Lu, Kai-Wei Chang, Fabian Alejandro Ritter Gutierrez, Huang Kuan-Po, Siddhant Arora, You-Kuan Lin, CHUANG Ming To, Eunjung Yeo, Kalvin Chang, Chung-Ming Chien, Kwanghee Choi, Cheng-Hsiu Hsieh, Yi-Cheng Lin, Chee-En Yu, I-Hsiang Chiu, Heitor Guimarães, Jionghao Han, Tzu-Quan Lin, Tzu-Yuan Lin, Homu Chang, Ting-Wu Chang, Chun Wei Chen, Shou-Jen Chen, Yu-Hua Chen, Hsi-Chun Cheng, Kunal Dhawan, Jia-Lin Fang, Shi-Xin Fang, KUAN YU FANG CHIANG, Chi An Fu, Hsien-Fu Hsiao, Ching Yu Hsu, Shao-Syuan Huang, Lee Chen Wei, Hsi-Che Lin, Hsuan-Hao Lin, Hsuan-Ting Lin, Jian-Ren Lin, Ting-Chun Liu, Li-Chun Lu, Tsung-Min Pai, Ankita Pasad, Shih-Yun Shan Kuan, Suwon Shon, Yuxun Tang, Yun-Shao Tsai, Wei Jui Chiang, Tzu-Chieh Wei, Chengxi Wu, Dien-Ruei Wu, Chao-Han Huck Yang, Chieh-Chi Yang, Jia Qi Yip, Shao-Xiang Yuan, Haibin Wu, Karen Livescu, David Harwath, Shinji Watanabe, Hung-yi Lee",
+      "paper_url": "https://openreview.net/pdf?id=s7lzZpAW7T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_rsf1z-JSj87",
+      "paper_id": "rsf1z-JSj87",
+      "title": "End-to-end Adversarial Text-to-Speech",
+      "authors": "Jeff Donahue, Sander Dieleman, Mikolaj Binkowski, Erich Elsen, Karen Simonyan",
+      "paper_url": "https://openreview.net/pdf/37c14e59635044278b29d57254fbd09950d3d37a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_piLPYqxtWuA",
+      "paper_id": "piLPYqxtWuA",
+      "title": "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech",
+      "authors": "Yi Ren, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/16d889999a70fcdfe5fbe9165d7d341e47b05e93.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_NyR8OZFHw6i",
+      "paper_id": "NyR8OZFHw6i",
+      "title": "FIGARO: Controllable Music Generation using Learned and Expert Features",
+      "authors": "Dimitri von Rütte, Luca Biggio, Yannic Kilcher, Thomas Hofmann",
+      "paper_url": "https://openreview.net/pdf/4ee95daea73cb05d2ea8780258b25684ccd82a88.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_fiB2RjmgwQ6",
+      "paper_id": "fiB2RjmgwQ6",
+      "title": "Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation",
+      "authors": "Haoyue Cheng, Zhaoyang Liu, Wayne Wu, Limin Wang",
+      "paper_url": "https://openreview.net/pdf/3e900c96203c599eac58f365c0b6e536a3fa37ed.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_TJp3LnQgSX",
+      "paper_id": "TJp3LnQgSX",
+      "title": "FIRING-Net: A filtered feature recycling network for speech enhancement",
+      "authors": "Xinmeng Xu, Yiqun Zhang, Jizhen Li, Yuhong Yang, Yong Luo, Weiping Tu",
+      "paper_url": "https://openreview.net/pdf?id=TJp3LnQgSX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uxDFlPGRLX",
+      "paper_id": "uxDFlPGRLX",
+      "title": "FlowDec: A flow-based full-band general audio codec with high perceptual quality",
+      "authors": "Simon Welker, Matthew Le, Ricky T. Q. Chen, Wei-Ning Hsu, Timo Gerkmann, Alexander Richard, YI-CHIAO WU",
+      "paper_url": "https://openreview.net/pdf?id=uxDFlPGRLX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Ig53hpHxS4",
+      "paper_id": "Ig53hpHxS4",
+      "title": "Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis",
+      "authors": "Rafael Valle, Kevin J. Shih, Ryan Prenger, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf/f022be71a045af955f0b061b9fb50186c102f407.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_B2Fqu7Y2cd",
+      "paper_id": "B2Fqu7Y2cd",
+      "title": "Fugatto 1: Foundational Generative Audio Transformer Opus 1",
+      "authors": "Rafael Valle, Rohan Badlani, Zhifeng Kong, Sang-gil Lee, Arushi Goel, Sungwon Kim, Joao Felipe Santos, Shuqi Dai, Siddharth Gururani, Aya Aljafari, Alexander H. Liu, Kevin J. Shih, Ryan Prenger, Wei Ping, Chao-Han Huck Yang, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf?id=B2Fqu7Y2cd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KpoQSgxbKH",
+      "paper_id": "KpoQSgxbKH",
+      "title": "Generative Pre-training for Speech with Flow Matching",
+      "authors": "Alexander H. Liu, Matthew Le, Apoorv Vyas, Bowen Shi, Andros Tjandra, Wei-Ning Hsu",
+      "paper_url": "https://openreview.net/pdf?id=KpoQSgxbKH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1p6xFLBU4J",
+      "paper_id": "1p6xFLBU4J",
+      "title": "GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling",
+      "authors": "Jixun Yao, Hexin Liu, Chen Chen, Yuchen Hu, EngSiong Chng, Lei Xie",
+      "paper_url": "https://openreview.net/pdf?id=1p6xFLBU4J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LrmPGtnros",
+      "paper_id": "LrmPGtnros",
+      "title": "HAINAN: Fast and Accurate Transducer for Hybrid-Autoregressive ASR",
+      "authors": "Hainan Xu, Travis M. Bartley, Vladimir Bataev, Boris Ginsburg",
+      "paper_url": "https://openreview.net/pdf?id=LrmPGtnros",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_868masI331",
+      "paper_id": "868masI331",
+      "title": "HALL-E: Hierarchical Neural Codec Language Model for Minute-Long Zero-Shot Text-to-Speech Synthesis",
+      "authors": "Yuto Nishimura, Takumi Hirose, Masanari Ohi, Hideki Nakayama, Nakamasa Inoue",
+      "paper_url": "https://openreview.net/pdf?id=868masI331",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2GcR9bO620",
+      "paper_id": "2GcR9bO620",
+      "title": "I Can Hear You: Selective Robust Training for Deepfake Audio Detection",
+      "authors": "Zirui Zhang, Wei Hao, Aroon Sankoh, William Lin, Emanuel Mendiola-Ortiz, Junfeng Yang, Chengzhi Mao",
+      "paper_url": "https://openreview.net/pdf?id=2GcR9bO620",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_TgSVWXw22FQ",
+      "paper_id": "TgSVWXw22FQ",
+      "title": "Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning",
+      "authors": "Siyang Yuan, Pengyu Cheng, Ruiyi Zhang, Weituo Hao, Zhe Gan, Lawrence Carin",
+      "paper_url": "https://openreview.net/pdf/eeeea139c946265a4c136e25c661eb4a6dd24f3d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_T2Ncx_PN2K",
+      "paper_id": "T2Ncx_PN2K",
+      "title": "In-Situ Text-Only Adaptation of Speech Models with Low-Overhead Speech Imputations",
+      "authors": "Ashish Mittal, Sunita Sarawagi, Preethi Jyothi",
+      "paper_url": "https://openreview.net/pdf/54c647f24fd2b8654ec28bcd6943439a635a84f8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_MDsQkFP1Aw",
+      "paper_id": "MDsQkFP1Aw",
+      "title": "Into the Wild with AudioScope: Unsupervised Audio-Visual Separation of On-Screen Sounds",
+      "authors": "Efthymios Tzinis, Scott Wisdom, Aren Jansen, Shawn Hershey, Tal Remez, Dan Ellis, John R. Hershey",
+      "paper_url": "https://openreview.net/pdf/30b613d34d9d0b25c3ed4bf3ba159cd74ba805b3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_QqjFHyQwtF",
+      "paper_id": "QqjFHyQwtF",
+      "title": "It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition",
+      "authors": "CHEN CHEN, Ruizhe Li, Yuchen Hu, Sabato Marco Siniscalchi, Pin-Yu Chen, EngSiong Chng, Chao-Han Huck Yang",
+      "paper_url": "https://openreview.net/pdf?id=QqjFHyQwtF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_90Db4RUBc7",
+      "paper_id": "90Db4RUBc7",
+      "title": "Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity",
+      "authors": "Mutian He, Philip N. Garner",
+      "paper_url": "https://openreview.net/pdf?id=90Db4RUBc7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_BPwIgvf5iQ",
+      "paper_id": "BPwIgvf5iQ",
+      "title": "Jointly Learning Visual and Auditory Speech Representations from Raw Data",
+      "authors": "Alexandros Haliassos, Pingchuan Ma, Rodrigo Mira, Stavros Petridis, Maja Pantic",
+      "paper_url": "https://openreview.net/pdf/309f109b8dacce5715eeb3408e76860321dc637a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ceATjGPTUD",
+      "paper_id": "ceATjGPTUD",
+      "title": "Large Language Models are Efficient Learners of Noise-Robust Speech Recognition",
+      "authors": "Yuchen Hu, CHEN CHEN, Chao-Han Huck Yang, Ruizhe Li, Chao Zhang, Pin-Yu Chen, EngSiong Chng",
+      "paper_url": "https://openreview.net/pdf?id=ceATjGPTUD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_jM76BCb6F9m",
+      "paper_id": "jM76BCb6F9m",
+      "title": "LEAF: A Learnable Frontend for Audio Classification",
+      "authors": "Neil Zeghidour, Olivier Teboul, Félix de Chaumont Quitry, Marco Tagliasacchi",
+      "paper_url": "https://openreview.net/pdf/426d58043e09ff47db27ab72f40e8db575a46f7b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_Z1Qlm11uOM",
+      "paper_id": "Z1Qlm11uOM",
+      "title": "Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction",
+      "authors": "Bowen Shi, Wei-Ning Hsu, Kushal Lakhotia, Abdelrahman Mohamed",
+      "paper_url": "https://openreview.net/pdf/db3061a63dfde7babf9a5fa76d250390f56b8771.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_0w42S2Gp70",
+      "paper_id": "0w42S2Gp70",
+      "title": "LipSim: A Provably Robust Perceptual Similarity Metric",
+      "authors": "Sara Ghazanfari, Alexandre Araujo, Prashanth Krishnamurthy, Farshad Khorrami, Siddharth Garg",
+      "paper_url": "https://openreview.net/pdf?id=0w42S2Gp70",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZZCPSC5OgD",
+      "paper_id": "ZZCPSC5OgD",
+      "title": "LipVoicer: Generating Speech from Silent Videos Guided by Lip Reading",
+      "authors": "Yochai Yemini, Aviv Shamsian, Lior Bracha, Sharon Gannot, Ethan Fetaya",
+      "paper_url": "https://openreview.net/pdf?id=ZZCPSC5OgD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Ny8NiVfi95",
+      "paper_id": "Ny8NiVfi95",
+      "title": "Masked Audio Generation using a Single Non-Autoregressive Transformer",
+      "authors": "Alon Ziv, Itai Gat, Gael Le Lan, Tal Remez, Felix Kreuk, Jade Copet, Alexandre Défossez, Gabriel Synnaeve, Yossi Adi",
+      "paper_url": "https://openreview.net/pdf?id=Ny8NiVfi95",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Q53QLftNkA",
+      "paper_id": "Q53QLftNkA",
+      "title": "Masked Autoencoders with Multi-Window Local-Global Attention Are Better Audio Learners",
+      "authors": "Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, Zheng-Hua Tan",
+      "paper_url": "https://openreview.net/pdf?id=Q53QLftNkA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ExuBFYtCQU",
+      "paper_id": "ExuBFYtCQU",
+      "title": "MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer",
+      "authors": "Yuancheng Wang, Haoyue Zhan, Liwei Liu, Ruihong Zeng, Haotian Guo, Jiachen Zheng, Qiang Zhang, Xueyao Zhang, Shunsi Zhang, Zhizheng Wu",
+      "paper_url": "https://openreview.net/pdf?id=ExuBFYtCQU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yFEqYwgttJ",
+      "paper_id": "yFEqYwgttJ",
+      "title": "MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation",
+      "authors": "Trung X. Pham, Tri Ton, Chang D. Yoo",
+      "paper_url": "https://openreview.net/pdf?id=yFEqYwgttJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mvMI3N4AvD",
+      "paper_id": "mvMI3N4AvD",
+      "title": "Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis",
+      "authors": "Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, Shengpeng Ji, Qian Yang, Chen Zhang, Pengfei Wei, Chunfeng Wang, Xiang Yin, Zejun MA, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf?id=mvMI3N4AvD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_w3YZ9MSlBu",
+      "paper_id": "w3YZ9MSlBu",
+      "title": "MERT: Acoustic Music Understanding Model with Large-Scale Self-supervised Training",
+      "authors": "Yizhi LI, Ruibin Yuan, Ge Zhang, Yinghao Ma, Xingran Chen, Hanzhi Yin, Chenghao Xiao, Chenghua Lin, Anton Ragni, Emmanouil Benetos, Norbert Gyenge, Roger Dannenberg, Ruibo Liu, Wenhu Chen, Gus Xia, Yemin Shi, Wenhao Huang, Zili Wang, Yike Guo, Jie Fu",
+      "paper_url": "https://openreview.net/pdf?id=w3YZ9MSlBu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_UseMOjWENv",
+      "paper_id": "UseMOjWENv",
+      "title": "MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling",
+      "authors": "Yusong Wu, Ethan Manilow, Yi Deng, Rigel Swavely, Kyle Kastner, Tim Cooijmans, Aaron Courville, Cheng-Zhi Anna Huang, Jesse Engel",
+      "paper_url": "https://openreview.net/pdf/e26b385d95d67af36d02a385047be6f7a0d6f47b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_TeVAZXr3yv",
+      "paper_id": "TeVAZXr3yv",
+      "title": "MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark",
+      "authors": "S Sakshi, Utkarsh Tyagi, Sonal Kumar, Ashish Seth, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, Sreyan Ghosh, Dinesh Manocha",
+      "paper_url": "https://openreview.net/pdf?id=TeVAZXr3yv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_agbiPPuSeQ",
+      "paper_id": "agbiPPuSeQ",
+      "title": "MMDisCo: Multi-Modal Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation",
+      "authors": "Akio Hayakawa, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=agbiPPuSeQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_iMSjopcOn0p",
+      "paper_id": "iMSjopcOn0p",
+      "title": "MT3: Multi-Task Multitrack Music Transcription",
+      "authors": "Joshua P Gardner, Ian Simon, Ethan Manilow, Curtis Hawthorne, Jesse Engel",
+      "paper_url": "https://openreview.net/pdf/d2fbcd8e79c33510066015e1639aa7edbd4a0dac.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_kUuKFW7DIF",
+      "paper_id": "kUuKFW7DIF",
+      "title": "Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction",
+      "authors": "Jiatong Shi, Hirofumi Inaguma, Xutai Ma, Ilia Kulikov, Anna Sun",
+      "paper_url": "https://openreview.net/pdf?id=kUuKFW7DIF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_h922Qhkmx1",
+      "paper_id": "h922Qhkmx1",
+      "title": "Multi-Source Diffusion Models for Simultaneous Music Generation and Separation",
+      "authors": "Giorgio Mariani, Irene Tallini, Emilian Postolache, Michele Mancusi, Luca Cosmo, Emanuele Rodolà",
+      "paper_url": "https://openreview.net/pdf?id=h922Qhkmx1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WEQL5ksDnB",
+      "paper_id": "WEQL5ksDnB",
+      "title": "Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation",
+      "authors": "Sungnyun Kim, Sungwoo Cho, Sangmin Bae, Kangwook Jang, Se-Young Yun",
+      "paper_url": "https://openreview.net/pdf?id=WEQL5ksDnB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iAK9oHp4Zz",
+      "paper_id": "iAK9oHp4Zz",
+      "title": "MuPT: A Generative Symbolic Music Pretrained Transformer",
+      "authors": "Xingwei Qu, yuelin bai, Yinghao Ma, Ziya Zhou, Ka Man Lo, Jiaheng Liu, Ruibin Yuan, Lejun Min, Xueling Liu, Tianyu Zhang, Xeron Du, Shuyue Guo, Yiming Liang, Yizhi LI, Shangda Wu, Junting Zhou, Tianyu Zheng, Ziyang Ma, Fengze Han, Wei Xue, Gus Xia, Emmanouil Benetos, Xiang Yue, Chenghua Lin, Xu Tan, Wenhao Huang, Jie Fu, Ge Zhang",
+      "paper_url": "https://openreview.net/pdf?id=iAK9oHp4Zz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_elDEe8LYW7-",
+      "paper_id": "elDEe8LYW7-",
+      "title": "NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis",
+      "authors": "Hyeong-Seok Choi, Jinhyeok Yang, Juheon Lee, Hyeongju Kim",
+      "paper_url": "https://openreview.net/pdf/bff332d5754f447736fe17ac241e9967a8ea220e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Rc7dAwVL3v",
+      "paper_id": "Rc7dAwVL3v",
+      "title": "NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers",
+      "authors": "Kai Shen, Zeqian Ju, Xu Tan, Eric Liu, Yichong Leng, Lei He, Tao Qin, sheng zhao, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=Rc7dAwVL3v",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hJVdwBpWjt",
+      "paper_id": "hJVdwBpWjt",
+      "title": "NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics",
+      "authors": "David Robinson, Marius Miron, Masato Hagiwara, Olivier Pietquin",
+      "paper_url": "https://openreview.net/pdf?id=hJVdwBpWjt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_uAX8q61EVRu",
+      "paper_id": "uAX8q61EVRu",
+      "title": "Neural Synthesis of Binaural Speech From Mono Audio",
+      "authors": "Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, Yaser Sheikh",
+      "paper_url": "https://openreview.net/pdf/1d9f3bd5393a688e9b4ad20e8f71e32c0ff119e8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_DkzZ1ooc7q",
+      "paper_id": "DkzZ1ooc7q",
+      "title": "OmniSep: Unified Omni-Modality Sound Separation with Query-Mixup",
+      "authors": "Xize Cheng, Siqi Zheng, Zehan Wang, Minghui Fang, Ziang Zhang, Rongjie Huang, Shengpeng Ji, Jialong Zuo, Tao Jin, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf?id=DkzZ1ooc7q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tQ1PmLfPBL",
+      "paper_id": "tQ1PmLfPBL",
+      "title": "PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation",
+      "authors": "Sang-Hoon Lee, Ha-Yeong Choi, Seong-Whan Lee",
+      "paper_url": "https://openreview.net/pdf?id=tQ1PmLfPBL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hCrFG9cyuC",
+      "paper_id": "hCrFG9cyuC",
+      "title": "PolyVoice: Language Models for Speech to Speech Translation",
+      "authors": "Qian qian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, yunlong zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng, Fengpeng Yue, Ye Bai, Xi Chen, Lu Lu, Zejun MA, Yuping Wang, Mingxuan Wang, Yuxuan Wang",
+      "paper_url": "https://openreview.net/pdf?id=hCrFG9cyuC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Gj5JTAwdoy",
+      "paper_id": "Gj5JTAwdoy",
+      "title": "Presto! Distilling Steps and Layers for Accelerating Music Generation",
+      "authors": "Zachary Novack, Ge Zhu, Jonah Casebeer, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J. Bryan",
+      "paper_url": "https://openreview.net/pdf?id=Gj5JTAwdoy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_NsCXDyv2Bn",
+      "paper_id": "NsCXDyv2Bn",
+      "title": "PromptTTS 2: Describing and Generating Voices with Text Prompt",
+      "authors": "Yichong Leng, Zhifang Guo, Kai Shen, Zeqian Ju, Xu Tan, Eric Liu, Yufei Liu, Dongchao Yang, leying zhang, Kaitao Song, Lei He, Xiangyang Li, sheng zhao, Tao Qin, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=NsCXDyv2Bn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ePJrZLIqpV",
+      "paper_id": "ePJrZLIqpV",
+      "title": "Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives",
+      "authors": "Zeliang Zhang, Susan Liang, Daiki Shimada, Chenliang Xu",
+      "paper_url": "https://openreview.net/pdf?id=ePJrZLIqpV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_l60EM8md3t",
+      "paper_id": "l60EM8md3t",
+      "title": "Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation",
+      "authors": "Manh Luong, Khai Nguyen, Nhat Ho, Gholamreza Haffari, Dinh Phung, Lizhen Qu",
+      "paper_url": "https://openreview.net/pdf?id=l60EM8md3t",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_SNgLnzFQeiD",
+      "paper_id": "SNgLnzFQeiD",
+      "title": "Revisiting the Entropy Semiring for Neural Speech Recognition",
+      "authors": "Oscar Chang, Dongseong Hwang, Olivier Siohan",
+      "paper_url": "https://openreview.net/pdf/b7e99fa5c4b5a398924bd8648c2768fc6925c80e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_gRmWtOnTLK",
+      "paper_id": "gRmWtOnTLK",
+      "title": "RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction",
+      "authors": "Peng Liu, Dongyang Dai, Zhiyong Wu",
+      "paper_url": "https://openreview.net/pdf?id=gRmWtOnTLK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PEuDO2EiDr",
+      "paper_id": "PEuDO2EiDr",
+      "title": "RTFS-Net: Recurrent Time-Frequency Modelling for Efficient Audio-Visual Speech Separation",
+      "authors": "Samuel Pegg, Kai Li, Xiaolin Hu",
+      "paper_url": "https://openreview.net/pdf?id=PEuDO2EiDr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_14rn7HpKVk",
+      "paper_id": "14rn7HpKVk",
+      "title": "SALMONN: Towards Generic Hearing Abilities for Large Language Models",
+      "authors": "Changli Tang, Wenyi Yu, Guangzhi Sun, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun MA, Chao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=14rn7HpKVk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3tukjsVyrE",
+      "paper_id": "3tukjsVyrE",
+      "title": "Scaling Speech-Text Pre-training with Synthetic Interleaved Data",
+      "authors": "Aohan Zeng, Zhengxiao Du, Mingdao Liu, Lei Zhang, shengmin jiang, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://openreview.net/pdf?id=3tukjsVyrE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4YpMrGfldX",
+      "paper_id": "4YpMrGfldX",
+      "title": "Scaling Transformers for Low-Bitrate High-Quality Speech Coding",
+      "authors": "Julian D Parker, Anton Smirnov, Jordi Pons, CJ Carr, Zack Zukowski, Zach Evans, Xubo Liu",
+      "paper_url": "https://openreview.net/pdf?id=4YpMrGfldX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ale56Ya59q",
+      "paper_id": "ale56Ya59q",
+      "title": "Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech",
+      "authors": "Szu-Wei Fu, Kuo-Hsuan Hung, Yu Tsao, Yu-Chiang Frank Wang",
+      "paper_url": "https://openreview.net/pdf?id=ale56Ya59q",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_UXALv0lJZS",
+      "paper_id": "UXALv0lJZS",
+      "title": "Separate and Diffuse: Using a Pretrained Diffusion Model for Better Source Separation",
+      "authors": "Shahar Lutati, Eliya Nachmani, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf?id=UXALv0lJZS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PY7KSh29Z8",
+      "paper_id": "PY7KSh29Z8",
+      "title": "SONICS: Synthetic Or Not - Identifying Counterfeit Songs",
+      "authors": "Md Awsafur Rahman, Zaber Ibn Abdul Hakim, Najibul Haque Sarker, Bishmoy Paul, Shaikh Anowarul Fattah",
+      "paper_url": "https://openreview.net/pdf?id=PY7KSh29Z8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Hx2ADQLi8M",
+      "paper_id": "Hx2ADQLi8M",
+      "title": "SonicSim: A customizable simulation platform for speech processing in moving sound source scenarios",
+      "authors": "Kai Li, Wendi Sang, Chang Zeng, Runxuan Yang, Guo Chen, Xiaolin Hu",
+      "paper_url": "https://openreview.net/pdf?id=Hx2ADQLi8M",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_NkZq4OEYN-",
+      "paper_id": "NkZq4OEYN-",
+      "title": "Sound Adversarial Audio-Visual Navigation",
+      "authors": "Yinfeng Yu, Wenbing Huang, Fuchun Sun, Changan Chen, Yikai Wang, Xiaohong Liu",
+      "paper_url": "https://openreview.net/pdf/892cdd541646cc28a0880494951fbd89079c2a3d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_KrK6zXbjfO",
+      "paper_id": "KrK6zXbjfO",
+      "title": "SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation",
+      "authors": "Koichi Saito, Dongjun Kim, Takashi Shibuya, Chieh-Hsin Lai, Zhi Zhong, Yuhta Takida, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=KrK6zXbjfO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_D0LuQNZfEl",
+      "paper_id": "D0LuQNZfEl",
+      "title": "Speech Robust Bench: A Robustness Benchmark For Speech Recognition",
+      "authors": "Muhammad A Shah, David Solans Noguero, Mikko A. Heikkilä, Bhiksha Raj, Nicolas Kourtellis",
+      "paper_url": "https://openreview.net/pdf?id=D0LuQNZfEl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AF9Q8Vip84",
+      "paper_id": "AF9Q8Vip84",
+      "title": "SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models",
+      "authors": "Xin Zhang, Dong Zhang, Shimin Li, Yaqian Zhou, Xipeng Qiu",
+      "paper_url": "https://openreview.net/pdf?id=AF9Q8Vip84",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_TBpg4PnXhYH",
+      "paper_id": "TBpg4PnXhYH",
+      "title": "SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training",
+      "authors": "Wenyong Huang, Zhenhe Zhang, Yu Ting Yeung, Xin Jiang, Qun Liu",
+      "paper_url": "https://openreview.net/pdf/237e7f0b9a5b83acde4d28436da1c2d60b89393c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_odU59TxdiB",
+      "paper_id": "odU59TxdiB",
+      "title": "SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes",
+      "authors": "Tony Alex, Sara Atito, Armin Mustafa, Muhammad Awais, Philip J B Jackson",
+      "paper_url": "https://openreview.net/pdf?id=odU59TxdiB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FyMjfDQ9RO",
+      "paper_id": "FyMjfDQ9RO",
+      "title": "Sylber: Syllabic Embedding Representation of Speech from Raw Audio",
+      "authors": "Cheol Jun Cho, Nicholas Lee, Akshat Gupta, Dhruv Agarwal, Ethan Chen, Alan Black, Gopala Anumanchipalli",
+      "paper_url": "https://openreview.net/pdf?id=FyMjfDQ9RO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dGSOn7sdWg",
+      "paper_id": "dGSOn7sdWg",
+      "title": "SyllableLM: Learning Coarse Semantic Units for Speech Language Models",
+      "authors": "Alan Baade, Puyuan Peng, David Harwath",
+      "paper_url": "https://openreview.net/pdf?id=dGSOn7sdWg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bR1J7SpzrD",
+      "paper_id": "bR1J7SpzrD",
+      "title": "Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data",
+      "authors": "Sreyan Ghosh, Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha",
+      "paper_url": "https://openreview.net/pdf?id=bR1J7SpzrD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TtKN1TpvUu",
+      "paper_id": "TtKN1TpvUu",
+      "title": "T2V2: A Unified Non-Autoregressive Model for Speech Recognition and Synthesis via Multitask Learning",
+      "authors": "Nabarun Goswami, Hanqin Wang, Tatsuya Harada",
+      "paper_url": "https://openreview.net/pdf?id=TtKN1TpvUu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2e4ECh0ikn",
+      "paper_id": "2e4ECh0ikn",
+      "title": "Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics",
+      "authors": "Siddhant Arora, Zhiyun Lu, Chung-Cheng Chiu, Ruoming Pang, Shinji Watanabe",
+      "paper_url": "https://openreview.net/pdf?id=2e4ECh0ikn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_e4FG5PJ9uC",
+      "paper_id": "e4FG5PJ9uC",
+      "title": "The Unreasonable Effectiveness of Linear Prediction as a Perceptual Metric",
+      "authors": "Daniel Severo, Lucas Theis, Johannes Ballé",
+      "paper_url": "https://openreview.net/pdf?id=e4FG5PJ9uC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rzx3vcvlzj",
+      "paper_id": "rzx3vcvlzj",
+      "title": "TIGER: Time-frequency Interleaved Gain Extraction and Reconstruction for Efficient Speech Separation",
+      "authors": "Mohan Xu, Kai Li, Guo Chen, Xiaolin Hu",
+      "paper_url": "https://openreview.net/pdf?id=rzx3vcvlzj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_UVAmFAtC5ye",
+      "paper_id": "UVAmFAtC5ye",
+      "title": "TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation",
+      "authors": "Rongjie Huang, Jinglin Liu, Huadai Liu, Yi Ren, Lichao Zhang, Jinzheng He, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf/616759f9860441b1cc2f980b7e2becb2afd49833.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_AvcfxqRy4Y",
+      "paper_id": "AvcfxqRy4Y",
+      "title": "Understanding the Role of Self Attention for Efficient Speech Recognition",
+      "authors": "Kyuhong Shim, Jungwook Choi, Wonyong Sung",
+      "paper_url": "https://openreview.net/pdf/d785690241796686225be6fa4f299ba32712c574.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_yj9lLwMjnE",
+      "paper_id": "yj9lLwMjnE",
+      "title": "UniWav: Towards Unified Pre-training for Speech Representation Learning and Generation",
+      "authors": "Alexander H. Liu, Sang-gil Lee, Chao-Han Huck Yang, Yuan Gong, Yu-Chiang Frank Wang, James R. Glass, Rafael Valle, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf?id=yj9lLwMjnE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_43VKWxg_Sqr",
+      "paper_id": "43VKWxg_Sqr",
+      "title": "Unsupervised Audiovisual Synthesis via Exemplar Autoencoders",
+      "authors": "Kangle Deng, Aayush Bansal, Deva Ramanan",
+      "paper_url": "https://openreview.net/pdf/6310fc99e7f1359a15e30437011f7577dab60ff1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_anQDiQZhDP",
+      "paper_id": "anQDiQZhDP",
+      "title": "Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement",
+      "authors": "Xueyao Zhang, Xiaohui Zhang, Kainan Peng, Zhenyu Tang, Vimal Manohar, Yingru Liu, Jeff Hwang, Dangna Li, Yuhao Wang, Julian Chan, Yuan Huang, Zhizheng Wu, Mingbo Ma",
+      "paper_url": "https://openreview.net/pdf?id=anQDiQZhDP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8bF1Vaj9tm",
+      "paper_id": "8bF1Vaj9tm",
+      "title": "ViSAGe: Video-to-Spatial Audio Generation",
+      "authors": "Jaeyeon Kim, Heeseung Yun, Gunhee Kim",
+      "paper_url": "https://openreview.net/pdf?id=8bF1Vaj9tm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_vY9nzQmQBw",
+      "paper_id": "vY9nzQmQBw",
+      "title": "Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis",
+      "authors": "Hubert Siuzdak",
+      "paper_url": "https://openreview.net/pdf?id=vY9nzQmQBw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_0RqDp8FCW5Z",
+      "paper_id": "0RqDp8FCW5Z",
+      "title": "W-CTC: a Connectionist Temporal Classification Loss with Wild Cards",
+      "authors": "Xingyu Cai, Jiahong Yuan, Yuchen Bian, Guangxu Xun, Jiaji Huang, Kenneth Church",
+      "paper_url": "https://openreview.net/pdf/037209609dda60fc4dd420af54cfcbfa8a63388e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_v8Mi8KU6056",
+      "paper_id": "v8Mi8KU6056",
+      "title": "wav2tok: Deep Sequence Tokenizer for Audio Retrieval",
+      "authors": "Adhiraj Banerjee, Vipul Arora",
+      "paper_url": "https://openreview.net/pdf/175c36e27f6914e6af51b7966e83acbc0f13a160.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_NsMLjcFaO8O",
+      "paper_id": "NsMLjcFaO8O",
+      "title": "WaveGrad: Estimating Gradients for Waveform Generation",
+      "authors": "Nanxin Chen, Yu Zhang, Heiga Zen, Ron J Weiss, Mohammad Norouzi, William Chan",
+      "paper_url": "https://openreview.net/pdf/511dfd60f5250df72c5b324c7fb22552789093e1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_yBlVlS2Fd9",
+      "paper_id": "yBlVlS2Fd9",
+      "title": "WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling",
+      "authors": "Shengpeng Ji, Ziyue Jiang, Wen Wang, Yifu Chen, Minghui Fang, Jialong Zuo, Qian Yang, Xize Cheng, Zehan Wang, Ruiqi Li, Ziang Zhang, Xiaoda Yang, Rongjie Huang, Yidi Jiang, Qian Chen, Siqi Zheng, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf?id=yBlVlS2Fd9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4N97bz1sP6",
+      "paper_id": "4N97bz1sP6",
+      "title": "Weakly-supervised Audio Separation via Bi-modal Semantic Similarity",
+      "authors": "Tanvir Mahmud, Saeed Amizadeh, Kazuhito Koishida, Diana Marculescu",
+      "paper_url": "https://openreview.net/pdf?id=4N97bz1sP6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_sn7CYWyavh",
+      "paper_id": "sn7CYWyavh",
+      "title": "Whole-Song Hierarchical Generation of Symbolic Music Using Cascaded Diffusion Models",
+      "authors": "Ziyu Wang, Lejun Min, Gus Xia",
+      "paper_url": "https://openreview.net/pdf?id=sn7CYWyavh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9WD9KwssyT",
+      "paper_id": "9WD9KwssyT",
+      "title": "Zipformer: A faster and better encoder for automatic speech recognition",
+      "authors": "Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey",
+      "paper_url": "https://openreview.net/pdf?id=9WD9KwssyT",
+      "venue": "iclr24"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "cluster_id": 54,
+  "papers": [
+    {
+      "id": "corl21_9aVCUv3nKBg",
+      "paper_id": "9aVCUv3nKBg",
+      "title": "Adversarially Robust Imitation Learning",
+      "authors": "Jianren Wang, Ziwen Zhuang, Yuyang Wang, Hang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=9aVCUv3nKBg",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_V3Mjpi4kzdn",
+      "paper_id": "V3Mjpi4kzdn",
+      "title": "ARC - Actor Residual Critic for Adversarial Imitation Learning",
+      "authors": "Ankur Deka, Changliu Liu, Katia P. Sycara",
+      "paper_url": "https://openreview.net/pdf?id=V3Mjpi4kzdn",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_xwEaXgFa0MR",
+      "paper_id": "xwEaXgFa0MR",
+      "title": "AW-Opt: Learning Robotic Skills with Imitation andReinforcement at Scale",
+      "authors": "Yao Lu, Karol Hausman, Yevgen Chebotar, Mengyuan Yan, Eric Jang, Alexander Herzog, Ted Xiao, Alex Irpan, Mohi Khansari, Dmitry Kalashnikov, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=xwEaXgFa0MR",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_AdFROt9BoqE",
+      "paper_id": "AdFROt9BoqE",
+      "title": "Cross-Domain Transfer via Semantic Skill Imitation",
+      "authors": "Karl Pertsch, Ruta Desai, Vikash Kumar, Franziska Meier, Joseph J Lim, Dhruv Batra, Akshara Rai",
+      "paper_url": "https://openreview.net/pdf?id=AdFROt9BoqE",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_tyXMrpEMkDb",
+      "paper_id": "tyXMrpEMkDb",
+      "title": "Detecting Incorrect Visual Demonstrations for Improved Policy Learning",
+      "authors": "Mostafa Hussein, Momotaz Begum",
+      "paper_url": "https://openreview.net/pdf?id=tyXMrpEMkDb",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_iRabxvK3j0",
+      "paper_id": "iRabxvK3j0",
+      "title": "Eliciting Compatible Demonstrations for Multi-Human Imitation Learning",
+      "authors": "Kanishk Gandhi, Siddharth Karamcheti, Madeline Liao, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=iRabxvK3j0",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_XEY7ZeEZEjI",
+      "paper_id": "XEY7ZeEZEjI",
+      "title": "Error-Aware Imitation Learning from Teleoperation Data for Mobile Manipulation",
+      "authors": "Josiah Wong, Albert Tung, Andrey Kurenkov, Ajay Mandlekar, Li Fei-Fei, Silvio Savarese, Roberto Martín-Martín",
+      "paper_url": "https://openreview.net/pdf?id=XEY7ZeEZEjI",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_FHnVRmeqxf",
+      "paper_id": "FHnVRmeqxf",
+      "title": "FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning",
+      "authors": "Li-Heng Lin, Yuchen Cui, Amber Xie, Tianyu Hua, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=FHnVRmeqxf",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_26",
+      "paper_id": "26",
+      "title": "Human-to-Robot Imitation in the Wild",
+      "authors": "Shikhar Bahl (Carnegie Mellon University), Abhinav Gupta (Carnegie Mellon University/Facebook AI Research), Deepak Pathak (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p026.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23__A15qsPswaK",
+      "paper_id": "_A15qsPswaK",
+      "title": "HYDRA: Hybrid Robot Actions for Imitation Learning",
+      "authors": "Suneel Belkhale, Yuchen Cui, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=_A15qsPswaK",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_QNPuJZyhFE",
+      "paper_id": "QNPuJZyhFE",
+      "title": "Imitating Task and Motion Planning with Visuomotor Transformers",
+      "authors": "Murtaza Dalal, Ajay Mandlekar, Caelan Reed Garrett, Ankur Handa, Ruslan Salakhutdinov, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=QNPuJZyhFE",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_56",
+      "paper_id": "56",
+      "title": "Imitation Bootstrapped Reinforcement Learning",
+      "authors": "Hengyuan Hu, Suvir Mirchandani, Dorsa SadighHengyuan Hu, Suvir Mirchandani, Dorsa Sadigh",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p056.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_0mRSANSzEK",
+      "paper_id": "0mRSANSzEK",
+      "title": "Improving Behavioural Cloning with Positive Unlabeled Learning",
+      "authors": "Qiang Wang, Robert McCarthy, David Cordova Bulens, Kevin McGuinness, Noel E. O’Connor, Francisco Roldan Sanchez, Nico Gürtler, Felix Widmaier, Stephen J. Redmond",
+      "paper_url": "https://openreview.net/pdf?id=0mRSANSzEK",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_Mzqn__AxyA6",
+      "paper_id": "Mzqn__AxyA6",
+      "title": "Inferring Versatile Behavior from Demonstrations by Matching Geometric Descriptors",
+      "authors": "Niklas Freymuth, Nicolas Schreiber, Aleksandar Taranovic, Philipp Becker, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf?id=Mzqn__AxyA6",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_JZzaRY8m8r",
+      "paper_id": "JZzaRY8m8r",
+      "title": "KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance",
+      "authors": "Jingxian Lu, Wenke Xia, Dong Wang, Zhigang Wang, Bin Zhao, Di Hu, Xuelong Li",
+      "paper_url": "https://openreview.net/pdf?id=JZzaRY8m8r",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_QgXArq7RIh",
+      "paper_id": "QgXArq7RIh",
+      "title": "Learning and Retrieval from Prior Data for Skill-based Imitation Learning",
+      "authors": "Soroush Nasiriany, Tian Gao, Ajay Mandlekar, Yuke Zhu",
+      "paper_url": "https://openreview.net/pdf?id=QgXArq7RIh",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_MWtinPDqfZg",
+      "paper_id": "MWtinPDqfZg",
+      "title": "Learning Feasibility to Imitate Demonstrators with Different Dynamics",
+      "authors": "Zhangjie Cao, Yilun Hao, Mengxi Li, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=MWtinPDqfZg",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_12",
+      "paper_id": "12",
+      "title": "Learning Generalizable Robotic Reward Functions from “In-The-Wild” Human Videos",
+      "authors": "Annie S Chen (Stanford University), Suraj Nair (Stanford University), Chelsea Finn (Stanford University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p012.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl21_p-TBwVowXRH",
+      "paper_id": "p-TBwVowXRH",
+      "title": "Learning Multi-Stage Tasks with One Demonstration via Self-Replay",
+      "authors": "Norman Di Palo, Edward Johns",
+      "paper_url": "https://openreview.net/pdf?id=p-TBwVowXRH",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_kOm3jWX8YN",
+      "paper_id": "kOm3jWX8YN",
+      "title": "Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning",
+      "authors": "Sachit Kuhar, Shuo Cheng, Shivang Chopra, Matthew Bronars, Danfei Xu",
+      "paper_url": "https://openreview.net/pdf?id=kOm3jWX8YN",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_Qpjo8l8AFW",
+      "paper_id": "Qpjo8l8AFW",
+      "title": "Leveraging Locality to Boost Sample Efficiency in Robotic Manipulation",
+      "authors": "Tong Zhang, Yingdong Hu, Jiacheng You, Yang Gao",
+      "paper_url": "https://openreview.net/pdf?id=Qpjo8l8AFW",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss21_2",
+      "paper_id": "2",
+      "title": "Manipulator-Independent Representations for Visual Imitation",
+      "authors": "Yuxiang Zhou (DeepMind), Yusuf Aytar (DeepMind), Konstantinos Bousmalis (DeepMind)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p002.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_y8XkuQIrvI",
+      "paper_id": "y8XkuQIrvI",
+      "title": "MILES: Making Imitation Learning Easy with Self-Supervision",
+      "authors": "Georgios Papagiannis, Edward Johns",
+      "paper_url": "https://openreview.net/pdf?id=y8XkuQIrvI",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_dk-2R1f_LR",
+      "paper_id": "dk-2R1f_LR",
+      "title": "MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations",
+      "authors": "Ajay Mandlekar, Soroush Nasiriany, Bowen Wen, Iretiayo Akinola, Yashraj Narang, Linxi Fan, Yuke Zhu, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=dk-2R1f_LR",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_hRZ1YjDZmTo",
+      "paper_id": "hRZ1YjDZmTo",
+      "title": "MimicPlay: Long-Horizon Imitation Learning by Watching Human Play",
+      "authors": "Chen Wang, Linxi Fan, Jiankai Sun, Ruohan Zhang, Li Fei-Fei, Danfei Xu, Yuke Zhu, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=hRZ1YjDZmTo",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_54",
+      "paper_id": "54",
+      "title": "Offline Imitation Learning Through Graph Search and Retrieval",
+      "authors": "Zhao-Heng Yin, Pieter AbbeelZhao-Heng Yin, Pieter Abbeel",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p054.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_X6CjiTWVRVr",
+      "paper_id": "X6CjiTWVRVr",
+      "title": "Out-of-Dynamics Imitation Learning from Multimodal Demonstrations",
+      "authors": "Yiwen Qiu, Jialong Wu, Zhangjie Cao, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf?id=X6CjiTWVRVr",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_YOFrRTDC6d",
+      "paper_id": "YOFrRTDC6d",
+      "title": "SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment",
+      "authors": "Caelan Reed Garrett, Ajay Mandlekar, Bowen Wen, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=YOFrRTDC6d",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_XrxLGzF0lJ",
+      "paper_id": "XrxLGzF0lJ",
+      "title": "So You Think You Can Scale Up Autonomous Robot Data Collection?",
+      "authors": "Suvir Mirchandani, Suneel Belkhale, Joey Hejna, Evelyn Choi, Md Sazzad Islam, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=XrxLGzF0lJ",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_9",
+      "paper_id": "9",
+      "title": "Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations",
+      "authors": "Siddhant Haldar (New York University)*, Jyothish Pari (New York University), Anant Rai (New York University), Lerrel Pinto (New York University)Siddhant Haldar (New York University)*, Jyothish Pari (New York University), Anant Rai (New York University), Lerrel Pinto (New York University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p009.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss22_10",
+      "paper_id": "10",
+      "title": "The Surprising Effectiveness of Representation Learning for Visual Imitation",
+      "authors": "Jyothish Pari, Nur Muhammad Shafiullah, Sridhar Pandian Arunachalam, Lerrel Pinto (New York University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p010.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl22_MUcBYHjzqp7",
+      "paper_id": "MUcBYHjzqp7",
+      "title": "Transferring Hierarchical Structures with Dual Meta Imitation Learning",
+      "authors": "Chongkai Gao, Yizhou Jiang, Feng Chen",
+      "paper_url": "https://openreview.net/pdf?id=MUcBYHjzqp7",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_ZUtgUA0Fuwd",
+      "paper_id": "ZUtgUA0Fuwd",
+      "title": "Watch and Match: Supercharging Imitation with Regularized Optimal Transport",
+      "authors": "Siddhant Haldar, Vaibhav Mathur, Denis Yarats, Lerrel Pinto",
+      "paper_url": "https://openreview.net/pdf?id=ZUtgUA0Fuwd",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_X0cmlTh1Vl",
+      "paper_id": "X0cmlTh1Vl",
+      "title": "Waypoint-Based Imitation Learning for Robotic Manipulation",
+      "authors": "Lucy Xiaoyang Shi, Archit Sharma, Tony Z. Zhao, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf?id=X0cmlTh1Vl",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_JrsfBJtDFdI",
+      "paper_id": "JrsfBJtDFdI",
+      "title": "What Matters in Learning from Offline Human Demonstrations for Robot Manipulation",
+      "authors": "Ajay Mandlekar, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martín-Martín",
+      "paper_url": "https://openreview.net/pdf?id=JrsfBJtDFdI",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_RO4DM85Z4P7",
+      "paper_id": "RO4DM85Z4P7",
+      "title": "XIRL: Cross-embodiment Inverse Reinforcement Learning",
+      "authors": "Kevin Zakka, Andy Zeng, Pete Florence, Jonathan Tompson, Jeannette Bohg, Debidatta Dwibedi",
+      "paper_url": "https://openreview.net/pdf?id=RO4DM85Z4P7",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_8L6pHd9aS6w",
+      "paper_id": "8L6pHd9aS6w",
+      "title": "XSkill: Cross Embodiment Skill Discovery",
+      "authors": "Mengda Xu, Zhenjia Xu, Cheng Chi, Manuela Veloso, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=8L6pHd9aS6w",
+      "venue": "corl23"
+    }
+  ]
+}

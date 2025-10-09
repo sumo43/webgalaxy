@@ -1,0 +1,1541 @@
+{
+  "cluster_id": 94,
+  "papers": [
+    {
+      "id": "acl24_195",
+      "paper_id": "",
+      "title": "A Multi-Task Embedder For Retrieval Augmented LLMs",
+      "authors": "Peitian Zhang, Zheng Liu, Shitao Xiao, Zhicheng Dou, Jian-Yun Nie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.194.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_302",
+      "paper_id": "",
+      "title": "A Neural Model for Joint Document and Snippet Ranking in Question Answering for Large Document Collections",
+      "authors": "Dimitris Pappas, Ion Androutsopoulos",
+      "paper_url": "https://aclanthology.org/2021.acl-long.301.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_969",
+      "paper_id": "",
+      "title": "A Reality Check on Context Utilisation for Retrieval-Augmented Generation",
+      "authors": "Lovisa Hagström, Sara Vera Marjanovic, Haeun Yu, Arnav Arora, Christina Lioma, Maria Maistro, Pepa Atanasova, Isabelle Augenstein",
+      "paper_url": "https://aclanthology.org/2025.acl-long.968.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_810",
+      "paper_id": "",
+      "title": "A Survey for Efficient Open Domain Question Answering",
+      "authors": "Qin Zhang, Shangsi Chen, Dongkuan Xu, Qingqing Cao, Xiaojun Chen, Trevor Cohn, Meng Fang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.808.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_495",
+      "paper_id": "",
+      "title": "AdaLoGN: Adaptive Logic Graph Network for Reasoning-Based Machine Reading Comprehension",
+      "authors": "Xiao Li, Gong Cheng, Ziheng Chen, Yawei Sun, Yuzhong Qu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.494.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_320",
+      "paper_id": "",
+      "title": "Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home",
+      "authors": "Viktor Moskvoretskii, Maria Marina, Mikhail Salnikov, Nikolay Ivanov, Sergey Pletenev, Daria Galimzianova, Nikita Krayko, Vasily Konovalov, Irina Nikishina, Alexander Panchenko",
+      "paper_url": "https://aclanthology.org/2025.acl-long.319.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_444",
+      "paper_id": "",
+      "title": "Aligning Large Language Models for Controllable Recommendations",
+      "authors": "Wensheng Lu, Jianxun Lian, Wei Zhang, Guanghua Li, Mingyang Zhou, Hao Liao, Xing Xie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.443.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_60",
+      "paper_id": "",
+      "title": "An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation",
+      "authors": "Kun Zhu, Xiaocheng Feng, Xiyuan Du, Yuxuan Gu, Weijiang Yu, Haotian Wang, Qianglong Chen, Zheng Chu, Jingchang Chen, Bing Qin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.59.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_254",
+      "paper_id": "",
+      "title": "Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction",
+      "authors": "Yifan Gao, Henghui Zhu, Patrick Ng, Cicero Nogueira dos Santos, Zhiguo Wang, Feng Nan, Dejiao Zhang, Ramesh Nallapati, Andrew O. Arnold, Bing Xiang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.253.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_426",
+      "paper_id": "",
+      "title": "Answering Ambiguous Questions via Iterative Prompting",
+      "authors": "Weiwei Sun, Hengyi Cai, Hongshen Chen, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren",
+      "paper_url": "https://aclanthology.org/2023.acl-long.424.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_129",
+      "paper_id": "",
+      "title": "Answering Open-Domain Multi-Answer Questions via a Recall-then-Verify Framework",
+      "authors": "Zhihong Shao, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.128.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_204",
+      "paper_id": "",
+      "title": "ARL2: Aligning Retrievers with Black-box Large Language Models via Self-guided Adaptive Relevance Labeling",
+      "authors": "LingXi Zhang, Yue Yu, Kuan Wang, Chao Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.203.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1477",
+      "paper_id": "",
+      "title": "Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models",
+      "authors": "Fei Wang, Xingchen Wan, Ruoxi Sun, Jiefeng Chen, Sercan O Arik",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1476.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_138",
+      "paper_id": "",
+      "title": "Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In",
+      "authors": "Zichun Yu, Chenyan Xiong, Shi Yu, Zhiyuan Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.136.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_68",
+      "paper_id": "",
+      "title": "BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering",
+      "authors": "Zheng Chu, Jingchang Chen, Qianglong Chen, Haotian Wang, Kun Zhu, Xiyuan Du, Weijiang Yu, Ming Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.67.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_212",
+      "paper_id": "",
+      "title": "BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering",
+      "authors": "Taolin Zhang, Dongyang Li, Qizhou Chen, Chengyu Wang, Xiaofeng He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.211.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_367",
+      "paper_id": "",
+      "title": "BERM: Training the Balanced and Extractable Representation for Matching to Improve Generalization Ability of Dense Retrieval",
+      "authors": "Shicheng Xu, Liang Pang, Huawei Shen, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.365.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_982",
+      "paper_id": "",
+      "title": "Beyond Prompting: An Efficient Embedding Framework for Open-Domain Question Answering",
+      "authors": "Zhanghao Hu, Hanqi Yan, Qinglin Zhu, Zhenyi Shen, Yulan He, Lin Gui",
+      "paper_url": "https://aclanthology.org/2025.acl-long.981.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_759",
+      "paper_id": "",
+      "title": "Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation",
+      "authors": "Haozhe Xu, Xiaohua Wang, Changze Lv, Xiaoqing Zheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.758.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1143",
+      "paper_id": "",
+      "title": "Beyond the Answer: Advancing Multi-Hop QA with Fine-Grained Graph Reasoning and Evaluation",
+      "authors": "Qichuan Liu, Chentao Zhang, Chenfeng Zheng, Guosheng Hu, Xiaodong Li, Zhihong Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1142.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_950",
+      "paper_id": "",
+      "title": "Bi-Tuning with Collaborative Information for Controllable LLM-based Sequential Recommendation",
+      "authors": "Xinyu Zhang, Linmei Hu, Luhao Zhang, Wentao Cheng, Yashen Wang, Ge Shi, Chong Feng, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2025.acl-long.949.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_338",
+      "paper_id": "",
+      "title": "Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts When Knowledge Conflicts?",
+      "authors": "Hexiang Tan, Fei Sun, Wanli Yang, Yuanzhuo Wang, Qi Cao, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.337.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_563",
+      "paper_id": "",
+      "title": "Bridging the Preference Gap between Retrievers and LLMs",
+      "authors": "Zixuan Ke, Weize Kong, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Michael Bendersky",
+      "paper_url": "https://aclanthology.org/2024.acl-long.562.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_623",
+      "paper_id": "",
+      "title": "Can Knowledge Graphs Make Large Language Models More Trustworthy? An Empirical Study Over Open-ended Question Answering",
+      "authors": "Yuan Sui, Yufei He, Zifeng Ding, Bryan Hooi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.622.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1464",
+      "paper_id": "",
+      "title": "Can we Retrieve Everything All at Once? ARM: An Alignment-Oriented LLM-based Retrieval Method",
+      "authors": "Peter Baile Chen, Yi Zhang, Mike Cafarella, Dan Roth",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1463.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_91",
+      "paper_id": "",
+      "title": "Chain-of-Skills: A Configurable Model for Open-Domain Question Answering",
+      "authors": "Kaixin Ma, Hao Cheng, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.89.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_665",
+      "paper_id": "",
+      "title": "CITADEL: Conditional Token Interaction via Dynamic Lexical Routing for Efficient and Effective Multi-Vector Retrieval",
+      "authors": "Minghan Li, Sheng-Chieh Lin, Barlas Oguz, Asish Ghoshal, Jimmy Lin, Yashar Mehdad, Wen-tau Yih, Xilun Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.663.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_932",
+      "paper_id": "",
+      "title": "CoCoLex: Confidence-guided Copy-based Decoding for Grounded Legal Text Generation",
+      "authors": "Santosh T.y.s.s, Youssef Tarek Elkhayat, Oana Ichim, Pranav Shetty, Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Xiaomo Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.931.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_448",
+      "paper_id": "",
+      "title": "Collapse of Dense Retrievers: Short, Early, and Literal Biases Outranking Factual Evidence",
+      "authors": "Mohsen Fayyaz, Ali Modarressi, Hinrich Schuetze, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.447.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_52",
+      "paper_id": "",
+      "title": "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking",
+      "authors": "Yingrui Yang, Yifan Qiao, Tao Yang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.51.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_233",
+      "paper_id": "",
+      "title": "Counterfactual Multihop QA: A Cause-Effect Approach for Reducing Disconnected Reasoning",
+      "authors": "Wangzhen Guo, Qinkang Gong, Yanghui Rao, Hanjiang Lai",
+      "paper_url": "https://aclanthology.org/2023.acl-long.231.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_476",
+      "paper_id": "",
+      "title": "CQG: A Simple and Effective Controlled Generation Framework for Multi-hop Question Generation",
+      "authors": "Zichu Fei, Qi Zhang, Tao Gui, Di Liang, Sirui Wang, Wei Wu, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.475.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_439",
+      "paper_id": "",
+      "title": "CypherBench: Towards Precise Retrieval over Full-scale Modern Knowledge Graphs in the LLM Era",
+      "authors": "Yanlin Feng, Simone Papicchio, Sajjadur Rahman",
+      "paper_url": "https://aclanthology.org/2025.acl-long.438.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_792",
+      "paper_id": "",
+      "title": "D2LLM: Decomposed and Distilled Large Language Models for Semantic Search",
+      "authors": "Zihan Liao, Hang Yu, Jianguo Li, Jun Wang, Wei Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.791.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_237",
+      "paper_id": "",
+      "title": "DAPR: A Benchmark on Document-Aware Passage Retrieval",
+      "authors": "Kexin Wang, Nils Reimers, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2024.acl-long.236.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1187",
+      "paper_id": "",
+      "title": "Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains",
+      "authors": "Kun Li, Tianhua Zhang, Xixin Wu, Hongyin Luo, James R. Glass, Helen M. Meng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1186.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_344",
+      "paper_id": "",
+      "title": "Deep Inductive Logic Reasoning for Multi-Hop Reading Comprehension",
+      "authors": "Wenya Wang, Sinno Pan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.343.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_221",
+      "paper_id": "",
+      "title": "DeepSolution: Boosting Complex Engineering Solution Design via Tree-based Exploration and Bi-point Thinking",
+      "authors": "Zhuoqun Li, Haiyang Yu, Xuanang Chen, Hongyu Lin, Yaojie Lu, Fei Huang, Xianpei Han, Yongbin Li, Le Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.220.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1192",
+      "paper_id": "",
+      "title": "Dialogue-RAG: Enhancing Retrieval for LLMs via Node-Linking Utterance Rewriting",
+      "authors": "Qiwei Li, Teng Xiao, Zuchao Li, Ping Wang, Mengjia Shen, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1191.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_751",
+      "paper_id": "",
+      "title": "Digest the Knowledge: Large Language Models empowered Message Passing for Knowledge Graph Question Answering",
+      "authors": "Junhong Wan, Tao Yu, Kunyu Jiang, Yao Fu, Weihao Jiang, Jiang Zhu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.750.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_149",
+      "paper_id": "",
+      "title": "DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation",
+      "authors": "Hanghui Guo, Jia Zhu, Shimin Di, Weijie Shi, Zhangze Chen, Jiajie Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.148.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_561",
+      "paper_id": "",
+      "title": "DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering",
+      "authors": "Ella Neeman, Roee Aharoni, Or Honovich, Leshem Choshen, Idan Szpektor, Omri Abend",
+      "paper_url": "https://aclanthology.org/2023.acl-long.559.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_562",
+      "paper_id": "",
+      "title": "Divide-Then-Align: Honest Alignment based on the Knowledge Boundary of RAG",
+      "authors": "Xin Sun, Jianan Xie, Zhongqi Chen, Qiang Liu, Shu Wu, Yuehe Chen, Bowen Song, Zilei Wang, Weiqiang Wang, Liang Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.561.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_551",
+      "paper_id": "",
+      "title": "Do Large Language Models Latently Perform Multi-Hop Reasoning?",
+      "authors": "Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel",
+      "paper_url": "https://aclanthology.org/2024.acl-long.550.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_359",
+      "paper_id": "",
+      "title": "DRAG: Distilling RAG for SLMs from LLMs to Transfer Knowledge and Mitigate Hallucination via Evidence and Graph-based Distillation",
+      "authors": "Jennifer Chen, Aidar Myrzakhan, Yaxin Luo, Hassaan Muhammad Khan, Sondos Mahmoud Bsharat, Zhiqiang Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.358.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_703",
+      "paper_id": "",
+      "title": "DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models",
+      "authors": "Weihang Su, Yichen Tang, Qingyao Ai, Zhijing Wu, Yiqun Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.702.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1458",
+      "paper_id": "",
+      "title": "DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers",
+      "authors": "Xueguang Ma, Xi Victoria Lin, Barlas Oguz, Jimmy Lin, Wen-tau Yih, Xilun Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1457.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_537",
+      "paper_id": "",
+      "title": "DTCRS: Dynamic Tree Construction for Recursive Summarization",
+      "authors": "Guanran Luo, Zhongquan Jian, Wentao Qiu, Meihong Wang, Qingqiang Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.536.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1540",
+      "paper_id": "",
+      "title": "DualRAG: A Dual-Process Approach to Integrate Reasoning and Retrieval for Multi-Hop Question Answering",
+      "authors": "Rong Cheng, Jinyi Liu, Yan Zheng, Fei Ni, Jiazhen Du, Hangyu Mao, Fuzheng Zhang, Bo Wang, Jianye Hao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1539.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_712",
+      "paper_id": "",
+      "title": "Effective Contrastive Weighting for Dense Query Expansion",
+      "authors": "Xiao Wang, Sean MacAvaney, Craig Macdonald, Iadh Ounis",
+      "paper_url": "https://aclanthology.org/2023.acl-long.710.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_741",
+      "paper_id": "",
+      "title": "Efficient Long Context Language Model Retrieval with Compression",
+      "authors": "Minju Seo, Jinheon Baek, Seongyun Lee, Sung Ju Hwang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.740.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_520",
+      "paper_id": "",
+      "title": "End-to-End Training of Neural Retrievers for Open-Domain Question Answering",
+      "authors": "Devendra Sachan, Mostofa Patwary, Mohammad Shoeybi, Neel Kant, Wei Ping, William L. Hamilton, Bryan Catanzaro",
+      "paper_url": "https://aclanthology.org/2021.acl-long.519.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_632",
+      "paper_id": "",
+      "title": "Enhancing Explainable Rating Prediction through Annotated Macro Concepts",
+      "authors": "Huachi Zhou, Shuang Zhou, Hao Chen, Ninghao Liu, Fan Yang, Xiao Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.631.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_541",
+      "paper_id": "",
+      "title": "Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training",
+      "authors": "Feiteng Fang, Yuelin Bai, Shiwen Ni, Min Yang, Xiaojun Chen, Ruifeng Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.540.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1176",
+      "paper_id": "",
+      "title": "Enhancing Retrieval-Augmented Generation via Evidence Tree Search",
+      "authors": "Hao Sun, Hengyi Cai, Yuchen Li, Xuanbo Fan, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1175.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_831",
+      "paper_id": "",
+      "title": "EventRAG: Enhancing LLM Generation with Event Knowledge Graphs",
+      "authors": "Zairun Yang, Yilin Wang, Zhengyan Shi, Yuan Yao, Lei Liang, Keyan Ding, Emine Yilmaz, Huajun Chen, Qiang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.830.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_765",
+      "paper_id": "",
+      "title": "EWEK-QA : Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems",
+      "authors": "Mohammad Dehghan, Mohammad Alomrani, Sunyam Bagga, David Alfonso-Hermelo, Khalil Bibi, Abbas Ghaddar, Yingxue Zhang, Xiaoguang Li, Jianye Hao, Qun Liu, Jimmy Lin, Boxing Chen, Prasanna Parthasarathi, Mahdi Biparva, Mehdi Rezagholizadeh",
+      "paper_url": "https://aclanthology.org/2024.acl-long.764.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_6",
+      "paper_id": "",
+      "title": "Explainable Recommendation with Personalized Review Retrieval and Aspect Learning",
+      "authors": "Hao Cheng, Shuo Wang, Wensheng Lu, Wei Zhang, Mingyang Zhou, Kezhong Lu, Hao Liao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.4.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1532",
+      "paper_id": "",
+      "title": "Exploiting Contextual Knowledge in LLMs through 𝒱-usable Information based Layer Enhancement",
+      "authors": "Xiaowei Yuan, Zhao Yang, Ziyang Huang, Yequan Wang, Siqi Fan, Yiming Ju, Jun Zhao, Kang Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1531.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_96",
+      "paper_id": "",
+      "title": "FAA: Fine-grained Attention Alignment for Cascade Document Ranking",
+      "authors": "Zhen Li, Chongyang Tao, Jiazhan Feng, Tao Shen, Dongyan Zhao, Xiubo Geng, Daxin Jiang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.94.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1063",
+      "paper_id": "",
+      "title": "FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation",
+      "authors": "Qinggang Zhang, Zhishang Xiang, Yilin Xiao, Le Wang, Junhui Li, Xinrun Wang, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1062.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_341",
+      "paper_id": "",
+      "title": "FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection",
+      "authors": "Yufei Huang, Xu Han, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.340.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_887",
+      "paper_id": "",
+      "title": "Few-shot Reranking for Multi-hop QA via Language Model Prompting",
+      "authors": "Muhammad Khalifa, Lajanugen Logeswaran, Moontae Lee, Honglak Lee, Lu Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.885.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_391",
+      "paper_id": "",
+      "title": "Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision",
+      "authors": "Si Sun, Yingzhuo Qian, Zhenghao Liu, Chenyan Xiong, Kaitao Zhang, Jie Bao, Zhiyuan Liu, Paul Bennett",
+      "paper_url": "https://aclanthology.org/2021.acl-long.390.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_528",
+      "paper_id": "",
+      "title": "GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis",
+      "authors": "Yi Jiang, Sendong Zhao, Jianbo Li, Haochun Wang, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.527.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_398",
+      "paper_id": "",
+      "title": "Generate-then-Ground in Retrieval-Augmented Generation for Multi-hop Question Answering",
+      "authors": "Zhengliang Shi, Shuo Zhang, Weiwei Sun, Shen Gao, Pengjie Ren, Zhumin Chen, Zhaochun Ren",
+      "paper_url": "https://aclanthology.org/2024.acl-long.397.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_317",
+      "paper_id": "",
+      "title": "Generation-Augmented Retrieval for Open-Domain Question Answering",
+      "authors": "Yuning Mao, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, Weizhu Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.316.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_296",
+      "paper_id": "",
+      "title": "Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers",
+      "authors": "Lütfi Kerem Senel, Besnik Fetahu, Davis Yoshida, Zhiyu Chen, Giuseppe Castellucci, Nikhita Vedula, Jason Ingyu Choi, Shervin Malmasi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.295.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1596",
+      "paper_id": "",
+      "title": "GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion",
+      "authors": "Sunkyung Lee, Minjin Choi, Eunseong Choi, Hye-young Kim, Jongwuk Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1596.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1203",
+      "paper_id": "",
+      "title": "Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to Enhance LLM Reasoning",
+      "authors": "Junqi Gao, Xiang Zou, Ying Ai, Dong Li, Yichen Niu, Biqing Qi, Jianxing Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1202.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1160",
+      "paper_id": "",
+      "title": "Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs",
+      "authors": "Haozhen Zhang, Tao Feng, Jiaxuan You",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1159.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1353",
+      "paper_id": "",
+      "title": "GRAT: Guiding Retrieval-Augmented Reasoning through Process Rewards Tree Search",
+      "authors": "Xianshu Peng, Wei Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1352.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_72",
+      "paper_id": "",
+      "title": "Grounding Language Model with Chunking-Free In-Context Retrieval",
+      "authors": "Hongjin Qian, Zheng Liu, Kelong Mao, Yujia Zhou, Zhicheng Dou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.71.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_355",
+      "paper_id": "",
+      "title": "Gumbel Reranking: Differentiable End-to-End Reranker Optimization",
+      "authors": "Siyuan Huang, Zhiyuan Ma, Jintao Du, Changhua Meng, Weiqiang Wang, Jingwen Leng, Minyi Guo, Zhouhan Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.354.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_302",
+      "paper_id": "",
+      "title": "HoH: A Dynamic Benchmark for Evaluating the Impact of Outdated Information on Retrieval-Augmented Generation",
+      "authors": "Jie Ouyang, Tingyue Pan, Mingyue Cheng, Ruiran Yan, Yucong Luo, Jiaying Lin, Qi Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.301.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_718",
+      "paper_id": "",
+      "title": "HOLMES: Hyper-Relational Knowledge Graphs for Multi-hop Question Answering using LLMs",
+      "authors": "Pranoy Panda, Ankush Agarwal, Chaitanya Devaguptapu, Manohar Kaul, Prathosh Ap",
+      "paper_url": "https://aclanthology.org/2024.acl-long.717.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_44",
+      "paper_id": "",
+      "title": "HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational Knowledge Bases",
+      "authors": "Meng-Chieh Lee, Qi Zhu, Costas Mavromatis, Zhen Han, Soji Adeshina, Vassilis N. Ioannidis, Huzefa Rangwala, Christos Faloutsos",
+      "paper_url": "https://aclanthology.org/2025.acl-long.43.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_139",
+      "paper_id": "",
+      "title": "HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation",
+      "authors": "Yongsen Zheng, Ruilin Xu, Ziliang Chen, Guohua Wang, Mingjie Qian, Jinghui Qin, Liang Lin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.138.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_581",
+      "paper_id": "",
+      "title": "HyKGE: A Hypothesis Knowledge Graph Enhanced RAG Framework for Accurate and Reliable Medical LLMs Responses",
+      "authors": "Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, Yue Fang, Zhiyuan Wang, Jinyi Tang, Hongxin Ding, Xu Chu, Junfeng Zhao, Yasha Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.580.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_494",
+      "paper_id": "",
+      "title": "Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering",
+      "authors": "Jiawei Zhou, Xiaoguang Li, Lifeng Shang, Lan Luo, Ke Zhan, Enrui Hu, Xinyu Zhang, Hao Jiang, Zhao Cao, Fan Yu, Xin Jiang, Qun Liu, Lei Chen",
+      "paper_url": "https://aclanthology.org/2022.acl-long.493.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_827",
+      "paper_id": "",
+      "title": "Improving Contextual Faithfulness of Large Language Models via Retrieval Heads-Induced Optimization",
+      "authors": "Lei Huang, Xiaocheng Feng, Weitao Ma, Yuchun Fan, Xiachong Feng, Yangfan Ye, Weihong Zhong, Yuxuan Gu, Baoxin Wang, Dayong Wu, Guoping Hu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.826.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_393",
+      "paper_id": "",
+      "title": "Improving Document Representations by Generating Pseudo Query Embeddings for Dense Retrieval",
+      "authors": "Hongyin Tang, Xingwu Sun, Beihong Jin, Jingang Wang, Fuzheng Zhang, Wei Wu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.392.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_21",
+      "paper_id": "",
+      "title": "Improving Personalized Explanation Generation through Visualization",
+      "authors": "Shijie Geng, Zuohui Fu, Yingqiang Ge, Lei Li, Gerard de Melo, Yongfeng Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.20.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_175",
+      "paper_id": "",
+      "title": "Integrating Semantics and Neighborhood Information with Graph-Driven Generative Models for Document Retrieval",
+      "authors": "Zijing Ou, Qinliang Su, Jianxing Yu, Bang Liu, Jingwen Wang, Ruihui Zhao, Changyou Chen, Yefeng Zheng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.174.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_155",
+      "paper_id": "",
+      "title": "INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning",
+      "authors": "Yutao Zhu, Peitian Zhang, Chenghao Zhang, Yifei Chen, Binyu Xie, Zheng Liu, Ji-Rong Wen, Zhicheng Dou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.154.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_233",
+      "paper_id": "",
+      "title": "Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts",
+      "authors": "Jiahao Ying, Yixin Cao, Kai Xiong, Long Cui, Yidong He, Yongbin Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.232.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_487",
+      "paper_id": "",
+      "title": "Investigating Multi-Hop Factual Shortcuts in Knowledge Editing of Large Language Models",
+      "authors": "Tianjie Ju, Yijin Chen, Xinwei Yuan, Zhuosheng Zhang, Wei Du, Yubin Zheng, Gongshen Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.486.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_761",
+      "paper_id": "",
+      "title": "iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering",
+      "authors": "Shuai Wang, Yinan Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.760.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_253",
+      "paper_id": "",
+      "title": "Joint Models for Answer Verification in Question Answering Systems",
+      "authors": "Zeyu Zhang, Thuy Vu, Alessandro Moschitti",
+      "paper_url": "https://aclanthology.org/2021.acl-long.252.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_939",
+      "paper_id": "",
+      "title": "KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models",
+      "authors": "Fnu Mohbat, Mohammed J Zaki",
+      "paper_url": "https://aclanthology.org/2025.acl-long.938.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_341",
+      "paper_id": "",
+      "title": "KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering",
+      "authors": "Donghan Yu, Chenguang Zhu, Yuwei Fang, Wenhao Yu, Shuohang Wang, Yichong Xu, Xiang Ren, Yiming Yang, Michael Zeng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.340.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_930",
+      "paper_id": "",
+      "title": "KiRAG: Knowledge-Driven Iterative Retriever for Enhancing Retrieval-Augmented Generation",
+      "authors": "Jinyuan Fang, Zaiqiao Meng, Craig MacDonald",
+      "paper_url": "https://aclanthology.org/2025.acl-long.929.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1318",
+      "paper_id": "",
+      "title": "Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation",
+      "authors": "Shijie Wang, Wenqi Fan, Yue Feng, Lin Shanru, Xinyu Ma, Shuaiqiang Wang, Dawei Yin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1317.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_469",
+      "paper_id": "",
+      "title": "Learning Answer Generation using Supervision from Automatic Question Answering Evaluators",
+      "authors": "Matteo Gabburo, Siddhant Garg, Rik Koncel-Kedziorski, Alessandro Moschitti",
+      "paper_url": "https://aclanthology.org/2023.acl-long.467.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_519",
+      "paper_id": "",
+      "title": "Learning Dense Representations of Phrases at Scale",
+      "authors": "Jinhyuk Lee, Mujeen Sung, Jaewoo Kang, Danqi Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.518.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1347",
+      "paper_id": "",
+      "title": "Lexical Diversity-aware Relevance Assessment for Retrieval-Augmented Generation",
+      "authors": "Zhange Zhang, Yuqing Ma, Yulong Wang, Shan He, Tianbo Wang, Siqi He, Jiakai Wang, Xianglong Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1346.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_126",
+      "paper_id": "",
+      "title": "ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval",
+      "authors": "Soyoung Yoon, Eunbi Choi, Jiyeon Kim, Hyeongu Yun, Yireun Kim, Seung-won Hwang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.125.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_192",
+      "paper_id": "",
+      "title": "Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval",
+      "authors": "Zheng Liu, Chaofan Li, Shitao Xiao, Yingxia Shao, Defu Lian",
+      "paper_url": "https://aclanthology.org/2024.acl-long.191.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1401",
+      "paper_id": "",
+      "title": "LLMs Trust Humans More, That’s a Problem! Unveiling and Mitigating the Authority Bias in Retrieval-Augmented Generation",
+      "authors": "Yuxuan Li, Xinwei Guo, Jiashi Gao, Guanhua Chen, Xiangyu Zhao, Jiaxin Zhang, Quanying Liu, Haiyan Wu, Xin Yao, Xuetao Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1400.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_109",
+      "paper_id": "",
+      "title": "M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions",
+      "authors": "Zheng Wang, Shu Teo, Jieer Ouyang, Yongjun Xu, Wei Shi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.108.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_132",
+      "paper_id": "",
+      "title": "MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation",
+      "authors": "Chia-Yuan Chang, Zhimeng Jiang, Vineeth Rakesh, Menghai Pan, Chin-Chia Michael Yeh, Guanchu Wang, Mingzhi Hu, Zhichao Xu, Yan Zheng, Mahashweta Das, Na Zou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.131.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1536",
+      "paper_id": "",
+      "title": "MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation",
+      "authors": "Ching-Wen Yang, Zhi-Quan Feng, Ying-Jia Lin, Che Wei Chen, Kun-da Wu, Hao Xu, Yao Jui-Feng, Hung-Yu Kao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1535.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_870",
+      "paper_id": "",
+      "title": "Masking in Multi-hop QA: An Analysis of How Language Models Perform with Context Permutation",
+      "authors": "Wenyu Huang, Pavlos Vougiouklis, Mirella Lapata, Jeff Z. Pan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.869.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1382",
+      "paper_id": "",
+      "title": "Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation",
+      "authors": "Junde Wu, Jiayuan Zhu, Yunli Qi, Jingkun Chen, Min Xu, Filippo Menolascina, Yueming Jin, Vicente Grau",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1381.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1102",
+      "paper_id": "",
+      "title": "MEMERAG: A Multilingual End-to-End Meta-Evaluation Benchmark for Retrieval Augmented Generation",
+      "authors": "María Andrea Cruz Blandón, Jayasimha Talur, Bruno Charron, Dong Liu, Saab Mansour, Marcello Federico",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1101.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_910",
+      "paper_id": "",
+      "title": "Micro-Act: Mitigate Knowledge Conflict in Question Answering via Actionable Self-Reasoning",
+      "authors": "Nan Huo, Jinyang Li, Bowen Qin, Ge Qu, Xiaolong Li, Xiaodong Li, Chenhao Ma, Reynold Cheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.909.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_559",
+      "paper_id": "",
+      "title": "MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models",
+      "authors": "Yilin Wen, Zifeng Wang, Jimeng Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.558.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1090",
+      "paper_id": "",
+      "title": "Mitigating Lost-in-Retrieval Problems in Retrieval Augmented Multi-Hop Question Answering",
+      "authors": "Rongzhi Zhu, Xiangyu Liu, Zequn Sun, Yiwei Wang, Wei Hu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1089.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_259",
+      "paper_id": "",
+      "title": "MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System",
+      "authors": "Jihao Zhao, Zhiyuan Ji, Zhaoxin Fan, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.258.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_70",
+      "paper_id": "",
+      "title": "Modeling Multi-hop Question Answering as Single Sequence Prediction",
+      "authors": "Semih Yavuz, Kazuma Hashimoto, Yingbo Zhou, Nitish Shirish Keskar, Caiming Xiong",
+      "paper_url": "https://aclanthology.org/2022.acl-long.69.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1389",
+      "paper_id": "",
+      "title": "Multi-Facet Blending for Faceted Query-by-Example Retrieval",
+      "authors": "Heejin Do, Sangwon Ryu, Jonghwi Kim, Gary Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1388.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_498",
+      "paper_id": "",
+      "title": "Multi-level Relevance Document Identifier Learning for Generative Retrieval",
+      "authors": "Fuwei Zhang, Xiaoyu Liu, Xinyu Jia, Yingfei Zhang, Shuai Zhang, Xiang Li, Fuzhen Zhuang, Wei Lin, Zhao Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.497.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_90",
+      "paper_id": "",
+      "title": "Multi-Task Retrieval for Knowledge-Intensive Tasks",
+      "authors": "Jean Maillard, Vladimir Karpukhin, Fabio Petroni, Wen-tau Yih, Barlas Oguz, Veselin Stoyanov, Gargi Ghosh",
+      "paper_url": "https://aclanthology.org/2021.acl-long.89.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_415",
+      "paper_id": "",
+      "title": "Multi-View Document Representation Learning for Open-Domain Dense Retrieval",
+      "authors": "Shunyu Zhang, Yaobo Liang, Ming Gong, Daxin Jiang, Nan Duan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.414.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_368",
+      "paper_id": "",
+      "title": "Multiview Identifiers Enhanced Generative Retrieval",
+      "authors": "Yongqi Li, Nan Yang, Liang Wang, Furu Wei, Wenjie Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.366.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1479",
+      "paper_id": "",
+      "title": "M³GQA: A Multi-Entity Multi-Hop Multi-Setting Graph Question Answering Benchmark",
+      "authors": "Boci Peng, Yongchao Liu, Xiaohe Bo, Jiaxin Guo, Yun Zhu, Xuanbo Fan, Chuntao Hong, Yan Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1478.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_312",
+      "paper_id": "",
+      "title": "NeuSym-RAG: Hybrid Neural Symbolic Retrieval with Multiview Structuring for PDF Question Answering",
+      "authors": "Ruisheng Cao, Hanchong Zhang, Tiancheng Huang, Zhangyi Kang, Yuxin Zhang, Liangtai Sun, Hanqi Li, Yuxun Miao, Shuai Fan, Lu Chen, Kai Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.311.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_297",
+      "paper_id": "",
+      "title": "NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning",
+      "authors": "Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.296.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1077",
+      "paper_id": "",
+      "title": "Not All Terms Matter: Recall-Oriented Adaptive Learning for PLM-aided Query Expansion in Open-Domain Question Answering",
+      "authors": "Xinran Chen, Ben He, Xuanang Chen, Le Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1076.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_748",
+      "paper_id": "",
+      "title": "On Complementarity Objectives for Hybrid Retrieval",
+      "authors": "Dohyeon Lee, Seung-won Hwang, Kyungjae Lee, Seungtaek Choi, Sunghyun Park",
+      "paper_url": "https://aclanthology.org/2023.acl-long.746.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_393",
+      "paper_id": "",
+      "title": "On Synthetic Data Strategies for Domain-Specific Generative Retrieval",
+      "authors": "Haoyang Wen, Jiang Guo, Yi Zhang, Jiarong Jiang, Zhiguo Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.392.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_742",
+      "paper_id": "",
+      "title": "Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering",
+      "authors": "Runxuan Liu, Luobei Luobei, Jiaqi Li, Baoxin Wang, Ming Liu, Dayong Wu, Shijin Wang, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.741.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_872",
+      "paper_id": "",
+      "title": "Optimizing Question Semantic Space for Dynamic Retrieval-Augmented Multi-hop Question Answering",
+      "authors": "Linhao Ye, Lang Yu, Zhikai Lei, Qin Chen, Jie Zhou, Liang He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.871.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_251",
+      "paper_id": "",
+      "title": "Pandora’s Box or Aladdin’s Lamp: A Comprehensive Analysis Revealing the Role of RAG Noise in Large Language Models",
+      "authors": "Jinyang Wu, Shuai Zhang, Feihu Che, Mingkuan Feng, Pengpeng Shao, Jianhua Tao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.250.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_572",
+      "paper_id": "",
+      "title": "Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning",
+      "authors": "Yongxin Xu, Ruizhe Zhang, Xinke Jiang, Yujie Feng, Yuzhen Xiao, Xinyu Ma, Runchuan Zhu, Xu Chu, Junfeng Zhao, Yasha Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.571.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_573",
+      "paper_id": "",
+      "title": "PaSa: An LLM Agent for Comprehensive Academic Paper Search",
+      "authors": "Yichen He, Guanhua Huang, Peiyuan Feng, Yuan Lin, Yuchen Zhang, Hang Li, Weinan E",
+      "paper_url": "https://aclanthology.org/2025.acl-long.572.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_384",
+      "paper_id": "",
+      "title": "Personalized Transformer for Explainable Recommendation",
+      "authors": "Lei Li, Yongfeng Zhang, Li Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.383.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_66",
+      "paper_id": "",
+      "title": "Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning",
+      "authors": "Kyuyong Shin, Hanock Kwak, Wonjae Kim, Jisu Jeong, Seungjae Jung, Kyungmin Kim, Jung-Woo Ha, Sang-Woo Lee",
+      "paper_url": "https://aclanthology.org/2023.acl-long.64.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_661",
+      "paper_id": "",
+      "title": "PQR: Improving Dense Retrieval via Potential Query Modeling",
+      "authors": "Junfeng Kang, Rui Li, Qi Liu, Yanjiang Chen, Zheng Zhang, Junzhe Jiang, Heng Yu, Yu Su",
+      "paper_url": "https://aclanthology.org/2025.acl-long.660.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_101",
+      "paper_id": "",
+      "title": "Precise Zero-Shot Dense Retrieval without Relevance Labels",
+      "authors": "Luyu Gao, Xueguang Ma, Jimmy Lin, Jamie Callan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.99.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_314",
+      "paper_id": "",
+      "title": "PRP-Graph: Pairwise Ranking Prompting to LLMs with Graph Aggregation for Effective Text Re-ranking",
+      "authors": "Jian Luo, Xuanang Chen, Ben He, Le Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.313.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_218",
+      "paper_id": "",
+      "title": "QAEncoder: Towards Aligned Representation Learning in Question Answering Systems",
+      "authors": "Zhengren Wang, Qinhan Yu, Shida Wei, Zhiyu Li, Feiyu Xiong, Xiaoxing Wang, Simin Niu, Hao Liang, Wentao Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.217.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_180",
+      "paper_id": "",
+      "title": "RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation",
+      "authors": "Guanting Dong, Jiajie Jin, Xiaoxi Li, Yutao Zhu, Zhicheng Dou, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.179.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_419",
+      "paper_id": "",
+      "title": "RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework",
+      "authors": "Kunlun Zhu, Yifan Luo, Dingling Xu, Yukun Yan, Zhenghao Liu, Shi Yu, Ruobing Wang, Shuo Wang, Yishan Li, Nan Zhang, Xu Han, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.418.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_630",
+      "paper_id": "",
+      "title": "RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts",
+      "authors": "Mingyan Wu, Zhenghao Liu, Yukun Yan, Xinze Li, Shi Yu, Zheni Zeng, Yu Gu, Ge Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.629.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_61",
+      "paper_id": "",
+      "title": "Re-identification of De-identified Documents with Autoregressive Infilling",
+      "authors": "Lucas Georges Gabriel Charpentier, Pierre Lison",
+      "paper_url": "https://aclanthology.org/2025.acl-long.60.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1529",
+      "paper_id": "",
+      "title": "REAL-MM-RAG: A Real-World Multi-Modal Retrieval Benchmark",
+      "authors": "Navve Wasserman, Roi Pony, Oshri Naparstek, Adi Raz Goldfarb, Eli Schwartz, Udi Barzelay, Leonid Karlinsky",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1528.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_116",
+      "paper_id": "",
+      "title": "REANO: Optimising Retrieval-Augmented Reader Models through Knowledge Graph Generation",
+      "authors": "Jinyuan Fang, Zaiqiao Meng, Craig Macdonald",
+      "paper_url": "https://aclanthology.org/2024.acl-long.115.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_752",
+      "paper_id": "",
+      "title": "RecLM: Recommendation Instruction Tuning",
+      "authors": "Yangqin Jiang, Yuhao Yang, Lianghao Xia, Da Luo, Kangyi Lin, Chao Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.751.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1072",
+      "paper_id": "",
+      "title": "Reinforced IR: A Self-Boosting Framework For Domain-Adapted Information Retrieval",
+      "authors": "Chaofan Li, Jianlyu Chen, Yingxia Shao, Chaozhuo Li, Quanqing Xu, Defu Lian, Zheng Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1071.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_771",
+      "paper_id": "",
+      "title": "Removal of Hallucination on Hallucination: Debate-Augmented RAG",
+      "authors": "Wentao Hu, Wengyu Zhang, Yiyang Jiang, Chen Jason Zhang, Xiaoyong Wei, Li Qing",
+      "paper_url": "https://aclanthology.org/2025.acl-long.770.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_17",
+      "paper_id": "",
+      "title": "ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision",
+      "authors": "Dosung Lee, Wonjun Oh, Boyoung Kim, Minyoung Kim, Joonsuk Park, Paul Hongsuck Seo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.16.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_820",
+      "paper_id": "",
+      "title": "RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation",
+      "authors": "Xiaoxi Li, Jiajie Jin, Yujia Zhou, Yongkang Wu, Zhonghua Li, Ye Qi, Zhicheng Dou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.819.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_150",
+      "paper_id": "",
+      "title": "RetroMAE-2: Duplex Masked Auto-Encoder For Pre-Training Retrieval-Oriented Language Models",
+      "authors": "Zheng Liu, Shitao Xiao, Yingxia Shao, Zhao Cao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.148.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_477",
+      "paper_id": "",
+      "title": "Robustifying Multi-hop QA through Pseudo-Evidentiality Training",
+      "authors": "Kyungjae Lee, Seung-won Hwang, Sang-eun Han, Dohyeon Lee",
+      "paper_url": "https://aclanthology.org/2021.acl-long.476.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_262",
+      "paper_id": "",
+      "title": "RPO: Retrieval Preference Optimization for Robust Retrieval-Augmented Generation",
+      "authors": "Shi-Qi Yan, Quan Liu, Zhen-Hua Ling",
+      "paper_url": "https://aclanthology.org/2025.acl-long.261.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_890",
+      "paper_id": "",
+      "title": "RUBY: An Effective Framework for Multi-Constraint Multi-Hop Question Generation",
+      "authors": "Wenzhuo Zhao, Shuangyin Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.889.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_513",
+      "paper_id": "",
+      "title": "S-RAG: A Novel Audit Framework for Detecting Unauthorized Use of Personal Data in RAG Systems",
+      "authors": "Zhirui Zeng, Jiamou Liu, Meng-Fen Chiang, Jialing He, Zijian Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.512.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_239",
+      "paper_id": "",
+      "title": "SAC-KG: Exploiting Large Language Models as Skilled Automatic Constructors for Domain Knowledge Graph",
+      "authors": "Hanzhu Chen, Xu Shen, Qitan Lv, Jie Wang, Xiaoqi Ni, Jieping Ye",
+      "paper_url": "https://aclanthology.org/2024.acl-long.238.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_231",
+      "paper_id": "",
+      "title": "SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model",
+      "authors": "Xun Liang, Simin Niu, Zhiyu Li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, Zhaoxin Fan, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.230.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_458",
+      "paper_id": "",
+      "title": "SDR: Efficient Neural Re-ranking using Succinct Document Representation",
+      "authors": "Nachshon Cohen, Amit Portnoy, Besnik Fetahu, Amir Ingber",
+      "paper_url": "https://aclanthology.org/2022.acl-long.457.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1313",
+      "paper_id": "",
+      "title": "SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation",
+      "authors": "Zijun Yao, Weijian Qi, Liangming Pan, Shulin Cao, Linmei Hu, Liu Weichuan, Lei Hou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1312.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_662",
+      "paper_id": "",
+      "title": "Search-Adaptor: Embedding Customization for Information Retrieval",
+      "authors": "Jinsung Yoon, Yanfei Chen, Sercan Arik, Tomas Pfister",
+      "paper_url": "https://aclanthology.org/2024.acl-long.661.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_322",
+      "paper_id": "",
+      "title": "SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning",
+      "authors": "Guoxin Chen, Kexin Tang, Chao Yang, Fuying Ye, Yu Qiao, Yiming Qian",
+      "paper_url": "https://aclanthology.org/2024.acl-long.321.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_77",
+      "paper_id": "",
+      "title": "Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval",
+      "authors": "Bohong Wu, Zhuosheng Zhang, Jinyuan Wang, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.76.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1377",
+      "paper_id": "",
+      "title": "SGIC: A Self-Guided Iterative Calibration Framework for RAG",
+      "authors": "Guanhua Chen, Yutong Yao, Lidia S. Chao, Xuebo Liu, Derek F. Wong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1376.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_862",
+      "paper_id": "",
+      "title": "Shifting from Ranking to Set Selection for Retrieval Augmented Generation",
+      "authors": "Dahyun Lee, Yongrae Jo, Haeju Park, Moontae Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.861.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_127",
+      "paper_id": "",
+      "title": "SimLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval",
+      "authors": "Liang Wang, Nan Yang, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang, Rangan Majumder, Furu Wei",
+      "paper_url": "https://aclanthology.org/2023.acl-long.125.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_644",
+      "paper_id": "",
+      "title": "Single Sequence Prediction over Reasoning Graphs for Multi-hop QA",
+      "authors": "Gowtham Ramesh, Makesh Narsimhan Sreedhar, Junjie Hu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.642.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_9",
+      "paper_id": "",
+      "title": "Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models",
+      "authors": "Wenhan Liu, Xinyu Ma, Yutao Zhu, Ziliang Zhao, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.8.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_243",
+      "paper_id": "",
+      "title": "Small Models, Big Insights: Leveraging Slim Proxy Models To Decide When and What to Retrieve for LLMs",
+      "authors": "Jiejun Tan, Zhicheng Dou, Yutao Zhu, Peidong Guo, Kun Fang, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.242.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_229",
+      "paper_id": "",
+      "title": "Sparse Latents Steer Retrieval-Augmented Generation",
+      "authors": "Chunlei Xin, Shuheng Zhou, Huijia Zhu, Weiqiang Wang, Xuanang Chen, Xinyan Guan, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.228.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_799",
+      "paper_id": "",
+      "title": "Spiral of Silence: How is Large Language Model Killing Information Retrieval?—A Case Study on Open Domain Question Answering",
+      "authors": "Xiaoyang Chen, Ben He, Hongyu Lin, Xianpei Han, Tianshu Wang, Boxi Cao, Le Sun, Yingfei Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.798.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_518",
+      "paper_id": "",
+      "title": "Synergistic Interplay between Search and Large Language Models for Information Retrieval",
+      "authors": "Jiazhan Feng, Chongyang Tao, Xiubo Geng, Tao Shen, Can Xu, Guodong Long, Dongyan Zhao, Daxin Jiang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.517.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_559",
+      "paper_id": "",
+      "title": "TC–RAG: Turing–Complete RAG’s Case study on Medical LLM Systems",
+      "authors": "Xinke Jiang, Yue Fang, Rihong Qiu, Haoyu Zhang, Yongxin Xu, Hao Chen, Wentao Zhang, Ruizhe Zhang, Yuchen Fang, Xinyu Ma, Xu Chu, Junfeng Zhao, Yasha Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.558.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_498",
+      "paper_id": "",
+      "title": "Text-like Encoding of Collaborative Information in Large Language Models for Recommendation",
+      "authors": "Yang Zhang, Keqin Bao, Ming Yan, Wenjie Wang, Fuli Feng, Xiangnan He",
+      "paper_url": "https://aclanthology.org/2024.acl-long.497.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_972",
+      "paper_id": "",
+      "title": "Text-to-ES Bench: A Comprehensive Benchmark for Converting Natural Language to Elasticsearch Query",
+      "authors": "Dongge Xue, Zhili Pu, Zhentao Xia, Hongli Sun, Ruihui Hou, Guangya Yu, Yupian Lin, Yongqi Fan, Jingping Liu, Tong Ruan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.971.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_893",
+      "paper_id": "",
+      "title": "The Distracting Effect: Understanding Irrelevant Passages in RAG",
+      "authors": "Chen Amiraz, Florin Cuconasu, Simone Filice, Zohar Karnin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.892.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_534",
+      "paper_id": "",
+      "title": "To Generate or to Retrieve? On the Effectiveness of Artificial Contexts for Medical Open-Domain Question Answering",
+      "authors": "Giacomo Frisoni, Alessio Cocchieri, Alex Presepi, Gianluca Moro, Zaiqiao Meng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.533.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_338",
+      "paper_id": "",
+      "title": "TOME: A Two-stage Approach for Model-based Retrieval",
+      "authors": "Ruiyang Ren, Wayne Xin Zhao, Jing Liu, Hua Wu, Ji-Rong Wen, Haifeng Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.336.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_544",
+      "paper_id": "",
+      "title": "Towards Better Entity Linking with Multi-View Enhanced Distillation",
+      "authors": "Yi Liu, Yuan Tian, Jianxun Lian, Xinlong Wang, Yanan Cao, Fang Fang, Wen Zhang, Haizhen Huang, Weiwei Deng, Qi Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.542.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_507",
+      "paper_id": "",
+      "title": "Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach",
+      "authors": "Shenglai Zeng, Pengfei He, Kai Guo, Tianqi Zheng, Hanqing Lu, Yue Xing, Hui Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.506.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_743",
+      "paper_id": "",
+      "title": "Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications",
+      "authors": "Zhe Chen, Yusheng Liao, Shuyang Jiang, Pingjie Wang, YiQiu Guo, Yanfeng Wang, Yu Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.742.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_754",
+      "paper_id": "",
+      "title": "Transparent and Scrutable Recommendations Using Natural Language User Profiles",
+      "authors": "Jerome Ramos, Hossein A. Rahmani, Xi Wang, Xiao Fu, Aldo Lipani",
+      "paper_url": "https://aclanthology.org/2024.acl-long.753.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_169",
+      "paper_id": "",
+      "title": "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation",
+      "authors": "Wendi Li, Wei Wei, Xiaoye Qu, Xian-Ling Mao, Ye Yuan, Wenfeng Xie, Dangyang Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.167.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_908",
+      "paper_id": "",
+      "title": "Tree-KG: An Expandable Knowledge Graph Construction Framework for Knowledge-intensive Domains",
+      "authors": "Songjie Niu, Kaisen Yang, Rui Zhao, Yichao Liu, Zonglin Li, Hongning Wang, Wenguang Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.907.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_666",
+      "paper_id": "",
+      "title": "Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs",
+      "authors": "Elan Markowitz, Anil Ramakrishna, Jwala Dhamala, Ninareh Mehrabi, Charith Peris, Rahul Gupta, Kai-Wei Chang, Aram Galstyan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.665.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_945",
+      "paper_id": "",
+      "title": "Tunable LLM-based Proactive Recommendation Agent",
+      "authors": "Mingze Wang, Chongming Gao, Wenjie Wang, Yangyang Li, Fuli Feng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.944.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_416",
+      "paper_id": "",
+      "title": "Unanswerability Evaluation for Retrieval Augmented Generation",
+      "authors": "Xiangyu Peng, Prafulla Kumar Choubey, Caiming Xiong, Chien-Sheng Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.415.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_585",
+      "paper_id": "",
+      "title": "UniLR: Unleashing the Power of LLMs on Multiple Legal Tasks with a Unified Legal Retriever",
+      "authors": "Ang Li, Yiquan Wu, Yifei Liu, Ming Cai, Lizhi Qing, Shihang Wang, Yangyang Kang, Chengyuan Liu, Fei Wu, Kun Kuang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.584.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_694",
+      "paper_id": "",
+      "title": "UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation",
+      "authors": "Rui Li, Liyang He, Qi Liu, Zheng Zhang, Heng Yu, Yuyang Ye, Linbo Zhu, Yu Su",
+      "paper_url": "https://aclanthology.org/2025.acl-long.693.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_241",
+      "paper_id": "",
+      "title": "UnitedQA: A Hybrid Approach for Open Domain Question Answering",
+      "authors": "Hao Cheng, Yelong Shen, Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.240.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_204",
+      "paper_id": "",
+      "title": "Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval",
+      "authors": "Luyu Gao, Jamie Callan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.203.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_233",
+      "paper_id": "",
+      "title": "Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering",
+      "authors": "Reinald Adrian Pugoy, Hung-Yu Kao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.232.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_10",
+      "paper_id": "",
+      "title": "Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation",
+      "authors": "Shicheng Xu, Liang Pang, Mo Yu, Fandong Meng, Huawei Shen, Xueqi Cheng, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.9.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1457",
+      "paper_id": "",
+      "title": "VISA: Retrieval Augmented Generation with Visual Source Attribution",
+      "authors": "Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1456.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_614",
+      "paper_id": "",
+      "title": "WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models",
+      "authors": "Yifu Chen, Shengpeng Ji, Haoxiao Wang, Ziqing Wang, Siyu Chen, Jinzheng He, Jin Xu, Zhou Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.613.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_509",
+      "paper_id": "",
+      "title": "WebWalker: Benchmarking LLMs in Web Traversal",
+      "authors": "Jialong Wu, Wenbiao Yin, Yong Jiang, Zhenglin Wang, Zekun Xi, Runnan Fang, Linhai Zhang, Yulan He, Deyu Zhou, Pengjun Xie, Fei Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.508.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_142",
+      "paper_id": "",
+      "title": "What Are You Token About? Dense Retrieval as Distributions Over the Vocabulary",
+      "authors": "Ori Ram, Liat Bezalel, Adi Zicher, Yonatan Belinkov, Jonathan Berant, Amir Globerson",
+      "paper_url": "https://aclanthology.org/2023.acl-long.140.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_404",
+      "paper_id": "",
+      "title": "What Evidence Do Language Models Find Convincing?",
+      "authors": "Alexander Wan, Eric Wallace, Dan Klein",
+      "paper_url": "https://aclanthology.org/2024.acl-long.403.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_480",
+      "paper_id": "",
+      "title": "When to Speak, When to Abstain: Contrastive Decoding with Abstention",
+      "authors": "Hyuhng Joon Kim, Youna Kim, Sang-goo Lee, Taeuk Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.479.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_478",
+      "paper_id": "",
+      "title": "xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering",
+      "authors": "Nan Yang, Furu Wei, Binxing Jiao, Daxing Jiang, Linjun Yang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.477.pdf",
+      "venue": "acl21"
+    }
+  ]
+}

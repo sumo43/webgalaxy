@@ -1,0 +1,309 @@
+{
+  "cluster_id": 46,
+  "papers": [
+    {
+      "id": "corl23_PalhNjBJqv",
+      "paper_id": "PalhNjBJqv",
+      "title": "A Data-efficient Neural ODE Framework for Optimal Control of Soft Manipulators",
+      "authors": "Mohammadreza Kasaei, Keyhan Kouhkiloui Babarahmati, Zhibin Li, Mohsen Khadem",
+      "paper_url": "https://openreview.net/pdf?id=PalhNjBJqv",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss22_29",
+      "paper_id": "29",
+      "title": "A Learning-based Iterative Control Framework for Controlling a Robot Arm with Pneumatic Artificial Muscles",
+      "authors": "Hao Ma, Dieter Büchler, Bernhard Schölkopf, Michael Muehlebach (Max Planck Institute for Intelligent Systems)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p029.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_111",
+      "paper_id": "111",
+      "title": "A Trajectory Tracking Algorithm for the LSMS Family of Cable-Driven Cranes",
+      "authors": "Javier Puig-Navarro, Dominic R Bisio, John E Pye, Yotam Granov, Joshua N Moser, Jessica S. Friz, Walter J Waltz, Julia E Cline, B. Danette AllenJavier Puig-Navarro, Dominic R Bisio, John E Pye, Yotam Granov, Joshua N Moser, Jessica S. Friz, Walter J Waltz, Julia E Cline, B. Danette Allen",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p111.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_93",
+      "paper_id": "93",
+      "title": "Adaptive Tracking Control of Dielectric Elastomer Soft Actuators with Viscoelastic Hysteresis Compensation",
+      "authors": "Yunhua Zhao (Beihang University)*, Li Wen (Beihang University)Yunhua Zhao (Beihang University)*, Li Wen (Beihang University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p093.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss23_91",
+      "paper_id": "91",
+      "title": "An Efficient Multi-solution Solver for the Inverse Kinematics of 3-Section Constant-Curvature Robots",
+      "authors": "Ke Qiu (Zhejiang University), Jingyu Zhang (Zhejiang University), Danying Sun (Zhejiang University), Rong Xiong (Zhejiang University), Haojian LU (Zhejiang University), Yue Wang (Zhejiang University)*Ke Qiu (Zhejiang University), Jingyu Zhang (Zhejiang University), Danying Sun (Zhejiang University), Rong Xiong (Zhejiang University), Haojian LU (Zhejiang University), Yue Wang (Zhejiang University)*",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p091.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_8",
+      "paper_id": "8",
+      "title": "An End-to-End Differentiable Framework for Contact-Aware Robot Design",
+      "authors": "Jie Xu (MIT), Tao Chen (MIT), Lara Zlokapa (MIT), Michael Foshey (MIT), Wojciech Matusik (MIT), Shinjiro Sueda (Texas A&M University), Pulkit Agrawal (MIT)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p008.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss23_96",
+      "paper_id": "96",
+      "title": "Co-optimization of Morphology and Behavior of Modular Robots via Hierarchical Deep Reinforcement Learning",
+      "authors": "Jieqiang Sun (Jilin University), Meibao Yao (Jilin University)*, Xueming Xiao (Changchun University Of Science And Technology), Zhibing Xie (Jilin University), Bo Zheng (Shanghai Aerospace Control Technology Institute)Jieqiang Sun (Jilin University), Meibao Yao (Jilin University)*, Xueming Xiao (Changchun University Of Science And Technology), Zhibing Xie (Jilin University), Bo Zheng (Shanghai Aerospace Control Technology Institute)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p096.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_63",
+      "paper_id": "63",
+      "title": "Collaborative Planar Pushing of Polytopic Objects with Multiple Robots in Complex Scenes",
+      "authors": "Zili Tang, Yuming Feng, Meng GuoZili Tang, Yuming Feng, Meng Guo",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p063.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_18",
+      "paper_id": "18",
+      "title": "CraterGrader: Autonomous Robotic Terrain Manipulation for Lunar Site Preparation and Earthmoving",
+      "authors": "Ryan Lee, Benjamin Younes, Alexander Pletta, John Harrington, Russell Q. Wong, William WhittakerRyan Lee, Benjamin Younes, Alexander Pletta, John Harrington, Russell Q. Wong, William Whittaker",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p018.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_48",
+      "paper_id": "48",
+      "title": "Dipper: A Dynamically Transitioning Aerial-Aquatic Unmanned Vehicle",
+      "authors": "Friedrich M Rockenbauer (ETH Zürich), Simon Jeger (ETH Zürich), Liberto Beltran (ETH Zürich), Maximilian Berger (ETH Zürich), Marvin Harms (ETH Zürich), Noah Kaufmann (ETH Zürich), Marc Rauch (ETH Zürich), Moritz Reinders (ETH Zürich), Nicholas Lawrance (ETH Zürich), Thomas Stastny (ETH Zürich), Roland Siegwart (ETH Zürich)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p048.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_67",
+      "paper_id": "67",
+      "title": "DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting",
+      "authors": "Eric Heiden (University of Southern California), Miles Macklin (NVIDIA), Yashraj S Narang (NVIDIA), Dieter Fox (NVIDIA), Animesh Garg (University of Toronto, Vector Institute, NVIDIA), Fabio Ramos (NVIDIA, University of Sydney)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p067.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss22_30",
+      "paper_id": "30",
+      "title": "Distributed Optimisation and Deconstruction of Bridges by Self-Assembling Robots",
+      "authors": "Edward Bray, Roderich Gross (The University of Sheffield)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p030.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss21_54",
+      "paper_id": "54",
+      "title": "Droplet: Towards Autonomous Underwater Assembly of Modular Structures",
+      "authors": "Samuel E Lensgraf (Dartmouth University), Amy Sniffen (Dartmouth University), Zachary Zitzewitz (Proof School), Evan Honnold (Uber), Jennifer Jain (Amazon), Weifu Wang (Baidu Research), Alberto Quattrini Li (Dartmouth University), Devin Balkcom (Dartmouth University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p054.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_AzP6kSEffm",
+      "paper_id": "AzP6kSEffm",
+      "title": "Dynamics-Guided Diffusion Model for Sensor-less Robot Manipulator Design",
+      "authors": "Xiaomeng Xu, Huy Ha, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=AzP6kSEffm",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_66",
+      "paper_id": "66",
+      "title": "End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Compliant Impedance Control",
+      "authors": "Moritz Reuss (Karlsruhe Institute of Technology), Niels van Duijkeren (Bosch Corporate Research), Robert Krug (Bosch Corporate Research), Philipp Becker (Karlsruhe Institute of Technology), Vaisakh Shaj (Karlsruhe Institute Of Technology), Gerhard Neumann (Karlsruhe Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p066.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_100",
+      "paper_id": "100",
+      "title": "Evolution and learning in differentiable robots",
+      "authors": "Luke Strgar, David Matthews, Tyler Hummer, Sam KriegmanLuke Strgar, David Matthews, Tyler Hummer, Sam Kriegman",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p100.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_55",
+      "paper_id": "55",
+      "title": "Falling Into Place: Drop Assembly of Interlocking Puzzles",
+      "authors": "Amy Sniffen (Dartmouth University), Zezhou Sun (Boston University), Samuel E Lensgraf (Dartmouth University), Emily Whiting (Boston University), Alberto Quattrini Li (Dartmouth University), Devin Balkcom (Dartmouth University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p055.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_34",
+      "paper_id": "34",
+      "title": "Fast and Feature-Complete Differentiable Physics Engine for Articulated Rigid Bodies with Contact Constraints",
+      "authors": "Keenon Werling (Stanford University), Dalton Omens (Stanford University), Jeongseok Lee (Amazon), Ioannis Exarchos (Stanford University), C. Karen  Liu (Stanford University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p034.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss23_48",
+      "paper_id": "48",
+      "title": "Few-shot Adaptation for Manipulating Granular Materials Under Domain Shift",
+      "authors": "Yifan Zhu (University of Illinois at Urbana-Champaign)*, Pranay Thangeda (University of Illinois at Urbana-Champaign), Melkior Ornik (University of Illinois at Urbana-Champaign), Kris Hauser (University of Illinois)Yifan Zhu (University of Illinois at Urbana-Champaign)*, Pranay Thangeda (University of Illinois at Urbana-Champaign), Melkior Ornik (University of Illinois at Urbana-Champaign), Kris Hauser (University of Illinois)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p048.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl22_vyR0C7zvozS",
+      "paper_id": "vyR0C7zvozS",
+      "title": "GLSO: Grammar-guided Latent Space Optimization for Sample-efficient Robot Design Automation",
+      "authors": "Jiaheng Hu, Julian Whitman, Howie Choset",
+      "paper_url": "https://openreview.net/pdf?id=vyR0C7zvozS",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_34",
+      "paper_id": "34",
+      "title": "GranularGym: High Performance Simulation for Robotic Tasks with Granular Materials",
+      "authors": "David R Millard (University of Southern California)*, Daniel Pastor (Jet Propulsion Laboratory), Joseph Bowkett (Jet Propulsion Laboratory), Paul Backes (Jet Propulsion Laboratory), Gaurav S Sukhatme (University of Southern California, Amazon)David R Millard (University of Southern California)*, Daniel Pastor (Jet Propulsion Laboratory), Joseph Bowkett (Jet Propulsion Laboratory), Paul Backes (Jet Propulsion Laboratory), Gaurav S Sukhatme (University of Southern California, Amazon)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p034.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_23",
+      "paper_id": "23",
+      "title": "Hierarchical Neural Dynamic Policies",
+      "authors": "Shikhar Bahl (CMU), Abhinav Gupta (CMU/FAIR), Deepak Pathak (CMU)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p023.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_xgrZkRHliXR",
+      "paper_id": "xgrZkRHliXR",
+      "title": "Learning to Design and Use Tools for Robotic Manipulation",
+      "authors": "Ziang Liu, Stephen Tian, Michelle Guo, Karen Liu, Jiajun Wu",
+      "paper_url": "https://openreview.net/pdf?id=xgrZkRHliXR",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_Xo3eOibXCQ8",
+      "paper_id": "Xo3eOibXCQ8",
+      "title": "Learning with Muscles: Benefits for Data-Efficiency and Robustness in Anthropomorphic Tasks",
+      "authors": "Isabell Wochner, Pierre Schumacher, Georg Martius, Dieter Büchler, Syn Schmitt, Daniel Haeufle",
+      "paper_url": "https://openreview.net/pdf?id=Xo3eOibXCQ8",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss24_110",
+      "paper_id": "110",
+      "title": "Linear-time Differential Inverse Kinematics: an Augmented Lagrangian Perspective",
+      "authors": "Bruce Wingo, Ajay Suresha Sathya, Stéphane Caron, Seth Hutchinson, Justin CarpentierBruce Wingo, Ajay Suresha Sathya, Stéphane Caron, Seth Hutchinson, Justin Carpentier",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p110.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_33",
+      "paper_id": "33",
+      "title": "Local object crop collision network for efficient simulation of non-convex objects in GPU-based simulators",
+      "authors": "Dongwon Son (Korea Advanced Institute of Science & Technology)*, Beomjoon Kim (Massachusetts Institute of Technology)Dongwon Son (Korea Advanced Institute of Science & Technology)*, Beomjoon Kim (Massachusetts Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p033.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_E2vL12SwO1",
+      "paper_id": "E2vL12SwO1",
+      "title": "PreCo: Enhancing Generalization in Co-Design of Modular Soft Robots via Brain-Body Pre-Training",
+      "authors": "Yuxing Wang, Shuang Wu, Tiantian Zhang, Yongzhe Chang, Haobo Fu, QIANG FU, Xueqian Wang",
+      "paper_url": "https://openreview.net/pdf?id=E2vL12SwO1",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_92",
+      "paper_id": "92",
+      "title": "Predefined-Time Convergent Motion Control for Heterogeneous Continuum Robots",
+      "authors": "Ning Tan (Sun Yat-Sen University)*, Peng Yu (Sun Yat-Sen University), Kai Huang (Sun Yat-Sen University)Ning Tan (Sun Yat-Sen University)*, Peng Yu (Sun Yat-Sen University), Kai Huang (Sun Yat-Sen University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p092.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss23_95",
+      "paper_id": "95",
+      "title": "Reconfigurable Robot Control Using Flexible Coupling Mechanisms",
+      "authors": "Sha Yi (Carnegie Mellon University)*, Katia Sycara (Carnegie Mellon University), Zeynep Temel (Carnegie Mellon University)Sha Yi (Carnegie Mellon University)*, Katia Sycara (Carnegie Mellon University), Zeynep Temel (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p095.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_rPye6EZxmI",
+      "paper_id": "rPye6EZxmI",
+      "title": "Reinforcement Learning Enables Real-Time Planning and Control of Agile Maneuvers for Soft Robot Arms",
+      "authors": "Rianna Jitosho, Tyler Ga Wei Lum, Allison Okamura, Karen Liu",
+      "paper_url": "https://openreview.net/pdf?id=rPye6EZxmI",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_Y_YUEEQMjQK",
+      "paper_id": "Y_YUEEQMjQK",
+      "title": "Rethinking Optimization with Differentiable Simulation from a Global Perspective",
+      "authors": "Rika Antonova, Jingyun Yang, Krishna Murthy Jatavallabhula, Jeannette Bohg",
+      "paper_url": "https://openreview.net/pdf?id=Y_YUEEQMjQK",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_Ag-vOezQ0Gw",
+      "paper_id": "Ag-vOezQ0Gw",
+      "title": "ROS-PyBullet Interface: A Framework for Reliable Contact Simulation and Human-Robot Interaction",
+      "authors": "Christopher Mower, Theodoros Stouraitis, João Moura, Christian Rauch, Lei Yan, Nazanin Zamani Behabadi, Michael Gienger, Tom Vercauteren, Christos Bergeles, Sethu Vijayakumar",
+      "paper_url": "https://openreview.net/pdf?id=Ag-vOezQ0Gw",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss24_99",
+      "paper_id": "99",
+      "title": "Safe & Accurate at Speed with Tendons: A Robot Arm for Exploring Dynamic Motion",
+      "authors": "Simon Guist, Jan Schneider, Hao Ma, Le Chen, Vincent Berenz, Julian Martus, Heiko Ott, Felix Grüninger, Michael Muehlebach, Jonathan Fiene, Bernhard Schölkopf, Dieter BüchlerSimon Guist, Jan Schneider, Hao Ma, Le Chen, Vincent Berenz, Julian Martus, Heiko Ott, Felix Grüninger, Michael Muehlebach, Jonathan Fiene, Bernhard Schölkopf, Dieter Büchler",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p099.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_7",
+      "paper_id": "7",
+      "title": "SAR: Generalization of Physiological Dexterity via Synergistic Action Representation",
+      "authors": "Cameron H Berg (Meta AI)*, Vittorio Caggiano (Meta AI), Vikash Kumar (University of Washington)Cameron H Berg (Meta AI)*, Vittorio Caggiano (Meta AI), Vikash Kumar (University of Washington)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p007.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_59",
+      "paper_id": "59",
+      "title": "Scale invariant robot behavior with fractals",
+      "authors": "Sam Kriegman (University of Vermont), Amir Mohammadi Nasab (Yale University), Douglas Blackiston (Tufts University), Hannah Steele (Yale University), Michael Levin (Tufts University), Rebecca Kramer-Bottiglio (Yale University), Josh Bongard (University of Vermont)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p059.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss22_62",
+      "paper_id": "62",
+      "title": "Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer",
+      "authors": "Charles Schaff (Toyota Technological Institute at Chicago), Audrey Sedal (McGill University), Matthew Walter (Toyota Technological Institute at Chicago)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p062.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_ovjxugn9Q2",
+      "paper_id": "ovjxugn9Q2",
+      "title": "SoftManiSim: A Fast Simulation Framework for Multi-Segment Continuum Manipulators Tailored for Robot Learning",
+      "authors": "Mohammadreza Kasaei, Hamidreza Kasaei, Mohsen Khadem",
+      "paper_url": "https://openreview.net/pdf?id=ovjxugn9Q2",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_7vzDBvviRO",
+      "paper_id": "7vzDBvviRO",
+      "title": "UBSoft: A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments",
+      "authors": "Chunru Lin, Jugang Fan, Yian Wang, Zeyuan Yang, Zhehuan Chen, Lixing Fang, Tsun-Hsuan Wang, Zhou Xian, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=7vzDBvviRO",
+      "venue": "corl24"
+    }
+  ]
+}

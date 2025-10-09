@@ -1,0 +1,2205 @@
+{
+  "cluster_id": 26,
+  "papers": [
+    {
+      "id": "cvpr22_194",
+      "paper_id": "",
+      "title": "360MonoDepth: High-Resolution 360deg Monocular Depth Estimation",
+      "authors": "Manuel Rey-Area, Mingze Yuan, Christian Richardt",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1105",
+      "paper_id": "",
+      "title": "A Decomposition Model for Stereo Matching",
+      "authors": "Chengtang Yao, Yunde Jia, Huijun Di, Pengxiang Li, Yuwei Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_A_Decomposition_Model_for_Stereo_Matching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_127",
+      "paper_id": "",
+      "title": "A Practical Stereo Depth System for Smart Glasses",
+      "authors": "Jialiang Wang, Daniel Scharstein, Akash Bapat, Kevin Blackburn-Matzen, Matthew Yu, Jonathan Lehman, Suhib Alsisan, Yanghan Wang, Sam Tsai, Jan-Michael Frahm, Zijian He, Peter Vajda, Michael F. Cohen, Matt Uyttendaele",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_626",
+      "paper_id": "",
+      "title": "ActiveZero: Mixed Domain Learning for Active Stereovision With Zero Annotation",
+      "authors": "Isabella Liu, Edward Yang, Jianyu Tao, Rui Chen, Xiaoshuai Zhang, Qing Ran, Zhu Liu, Hao Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_ActiveZero_Mixed_Domain_Learning_for_Active_Stereovision_With_Zero_Annotation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_68",
+      "paper_id": "",
+      "title": "AdaBins: Depth Estimation Using Adaptive Bins",
+      "authors": "Shariq Farooq Bhat, Ibraheem Alhashim, Peter Wonka",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bhat_AdaBins_Depth_Estimation_Using_Adaptive_Bins_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2655",
+      "paper_id": "",
+      "title": "Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving",
+      "authors": "Junda Cheng, Wei Yin, Kaixuan Wang, Xiaozhi Chen, Shijie Wang, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_Adaptive_Fusion_of_Single-View_and_Multi-View_Depth_for_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2275",
+      "paper_id": "",
+      "title": "Adaptive Multi-Modal Cross-Entropy Loss for Stereo Matching",
+      "authors": "Peng Xu, Zhiyu Xiang, Chengyu Qiao, Jingyun Fu, Tianyu Pu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Adaptive_Multi-Modal_Cross-Entropy_Loss_for_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_975",
+      "paper_id": "",
+      "title": "Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo",
+      "authors": "Yuesong Wang, Zhaojie Zeng, Tao Guan, Wei Yang, Zhuo Chen, Wenkai Liu, Luoyuan Xu, Yawei Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_562",
+      "paper_id": "",
+      "title": "AdaStereo: A Simple and Efficient Approach for Adaptive Stereo Matching",
+      "authors": "Xiao Song, Guorun Yang, Xinge Zhu, Hui Zhou, Zhe Wang, Jianping Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Song_AdaStereo_A_Simple_and_Efficient_Approach_for_Adaptive_Stereo_Matching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_197",
+      "paper_id": "",
+      "title": "AirPlanes: Accurate Plane Estimation via 3D-Consistent Embeddings",
+      "authors": "Jamie Watson, Filippo Aleotti, Mohamed Sayed, Zawar Qureshi, Oisin Mac Aodha, Gabriel Brostow, Michael Firman, Sara Vicente",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Watson_AirPlanes_Accurate_Plane_Estimation_via_3D-Consistent_Embeddings_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1149",
+      "paper_id": "",
+      "title": "Align3R: Aligned Monocular Depth Estimation for Dynamic Videos",
+      "authors": "Jiahao Lu, Tianyu Huang, Peng Li, Zhiyang Dou, Cheng Lin, Zhiming Cui, Zhen Dong, Sai-Kit Yeung, Wenping Wang, Yuan Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_Align3R_Aligned_Monocular_Depth_Estimation_for_Dynamic_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_898",
+      "paper_id": "",
+      "title": "AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos",
+      "authors": "Felix Wimbauer, Weirong Chen, Dominik Muhle, Christian Rupprecht, Daniel Cremers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wimbauer_AnyCam_Learning_to_Recover_Camera_Poses_and_Intrinsics_from_Casual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1270",
+      "paper_id": "",
+      "title": "AnyMap: Learning a General Camera Model for Structure-from-Motion with Unknown Distortion in Dynamic Scenes",
+      "authors": "Andrea Porfiri Dal Cin, Georgi Dikov, Jihong Ju, Mohsen Ghafoorian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dal_Cin_AnyMap_Learning_a_General_Camera_Model_for_Structure-from-Motion_with_Unknown_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1082",
+      "paper_id": "",
+      "title": "Attention Concatenation Volume for Accurate and Efficient Stereo Matching",
+      "authors": "Gangwei Xu, Junda Cheng, Peng Guo, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Attention_Concatenation_Volume_for_Accurate_and_Efficient_Stereo_Matching_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_88",
+      "paper_id": "",
+      "title": "BADGR: Bundle Adjustment Diffusion Conditioned by Gradients for Wide-Baseline Floor Plan Reconstruction",
+      "authors": "Yuguang Li, Ivaylo Boyadzhiev, Zixuan Liu, Linda Shapiro, Alex Colburn",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_BADGR_Bundle_Adjustment_Diffusion_Conditioned_by_Gradients_for_Wide-Baseline_Floor_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1626",
+      "paper_id": "",
+      "title": "Benchmarking Implicit Neural Representation and Geometric Rendering in Real-Time RGB-D SLAM",
+      "authors": "Tongyan Hua, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hua_Benchmarking_Implicit_Neural_Representation_and_Geometric_Rendering_in_Real-Time_RGB-D_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1655",
+      "paper_id": "",
+      "title": "Bending Reality: Distortion-Aware Transformers for Adapting to Panoramic Semantic Segmentation",
+      "authors": "Jiaming Zhang, Kailun Yang, Chaoxiang Ma, Simon Reiß, Kunyu Peng, Rainer Stiefelhagen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1199",
+      "paper_id": "",
+      "title": "BEV@DC: Bird's-Eye View Assisted Training for Depth Completion",
+      "authors": "Wending Zhou, Xu Yan, Yinghong Liao, Yuankai Lin, Jin Huang, Gangming Zhao, Shuguang Cui, Zhen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_BEVDC_Birds-Eye_View_Assisted_Training_for_Depth_Completion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1569",
+      "paper_id": "",
+      "title": "Bilateral Grid Learning for Stereo Matching Networks",
+      "authors": "Bin Xu, Yuhua Xu, Xiaoli Yang, Wei Jia, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Bilateral_Grid_Learning_for_Stereo_Matching_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2245",
+      "paper_id": "",
+      "title": "Bilateral Propagation Network for Depth Completion",
+      "authors": "Jie Tang, Fei-Peng Tian, Boshi An, Jian Li, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Bilateral_Propagation_Network_for_Depth_Completion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1271",
+      "paper_id": "",
+      "title": "Blocks-World Cameras",
+      "authors": "Jongho Lee, Mohit Gupta",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Blocks-World_Cameras_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1129",
+      "paper_id": "",
+      "title": "Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging",
+      "authors": "S. Mahdi H. Miangoleh, Sebastian Dille, Long Mai, Sylvain Paris, Yagiz Aksoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Miangoleh_Boosting_Monocular_Depth_Estimation_Models_to_High-Resolution_via_Content-Adaptive_Multi-Resolution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_120",
+      "paper_id": "",
+      "title": "Buffer Anytime: Zero-Shot Video Depth and Normal from Image Priors",
+      "authors": "Zhengfei Kuang, Tianyuan Zhang, Kai Zhang, Hao Tan, Sai Bi, Yiwei Hu, Zexiang Xu, Milos Hasan, Gordon Wetzstein, Fujun Luan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kuang_Buffer_Anytime_Zero-Shot_Video_Depth_and_Normal_from_Image_Priors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1203",
+      "paper_id": "",
+      "title": "Camera Pose Estimation Using Implicit Distortion Models",
+      "authors": "Linfei Pan, Marc Pollefeys, Viktor Larsson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Camera_Pose_Estimation_Using_Implicit_Distortion_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1357",
+      "paper_id": "",
+      "title": "Camera Pose Matters: Improving Depth Prediction by Mitigating Pose Distribution Bias",
+      "authors": "Yunhan Zhao, Shu Kong, Charless Fowlkes",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Camera_Pose_Matters_Improving_Depth_Prediction_by_Mitigating_Pose_Distribution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_760",
+      "paper_id": "",
+      "title": "CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching",
+      "authors": "Zhelun Shen, Yuchao Dai, Zhibo Rao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_CFNet_Cascade_and_Fused_Cost_Volume_for_Robust_Stereo_Matching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2402",
+      "paper_id": "",
+      "title": "CH3Depth: Efficient and Flexible Depth Foundation Model with Flow Matching",
+      "authors": "Jiaqi Li, Yiran Wang, Jinghong Zheng, Junrui Zhang, Liao Shen, Tianqi Liu, Zhiguo Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CH3Depth_Efficient_and_Flexible_Depth_Foundation_Model_with_Flow_Matching_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_481",
+      "paper_id": "",
+      "title": "Chitransformer: Towards Reliable Stereo From Cues",
+      "authors": "Qing Su, Shihao Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Su_Chitransformer_Towards_Reliable_Stereo_From_Cues_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_538",
+      "paper_id": "",
+      "title": "Co-SLAM: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM",
+      "authors": "Hengyi Wang, Jingwen Wang, Lourdes Agapito",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Co-SLAM_Joint_Coordinate_and_Sparse_Parametric_Encodings_for_Neural_Real-Time_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_403",
+      "paper_id": "",
+      "title": "ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration",
+      "authors": "Johan Edstedt, André Mateus, Alberto Jaenal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Edstedt_ColabSfM_Collaborative_Structure-from-Motion_by_Point_Cloud_Registration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2316",
+      "paper_id": "",
+      "title": "Completion as Enhancement: A Degradation-Aware Selective Image Guided Network for Depth Completion",
+      "authors": "Zhiqiang Yan, Zhengxue Wang, Kun Wang, Jun Li, Jian Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Completion_as_Enhancement_A_Degradation-Aware_Selective_Image_Guided_Network_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1951",
+      "paper_id": "",
+      "title": "CompletionFormer: Depth Completion With Convolutions and Vision Transformers",
+      "authors": "Youmin Zhang, Xianda Guo, Matteo Poggi, Zheng Zhu, Guan Huang, Stefano Mattoccia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_CompletionFormer_Depth_Completion_With_Convolutions_and_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2863",
+      "paper_id": "",
+      "title": "Consistency-aware Self-Training for Iterative-based Stereo Matching",
+      "authors": "Jingyi Zhou, Peng Ye, Haoyu Zhang, Jiakang Yuan, Rao Qiang, Liu YangChenXu, Wu Cailin, Feng Xu, Tao Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Consistency-aware_Self-Training_for_Iterative-based_Stereo_Matching_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2197",
+      "paper_id": "",
+      "title": "Consistent Direct Time-of-Flight Video Depth Super-Resolution",
+      "authors": "Zhanghao Sun, Wei Ye, Jinhui Xiong, Gyeongmin Choe, Jialiang Wang, Shuochen Su, Rakesh Ranjan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Consistent_Direct_Time-of-Flight_Video_Depth_Super-Resolution_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_579",
+      "paper_id": "",
+      "title": "Consistent Normal Orientation for 3D Point Clouds via Least Squares on Delaunay Graph",
+      "authors": "Rao Fu, Jianmin Zheng, Liang Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Consistent_Normal_Orientation_for_3D_Point_Clouds_via_Least_Squares_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1556",
+      "paper_id": "",
+      "title": "Continual Stereo Matching of Continuous Driving Scenes With Growing Architecture",
+      "authors": "Chenghao Zhang, Kun Tian, Bin Fan, Gaofeng Meng, Zhaoxiang Zhang, Chunhong Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Continual_Stereo_Matching_of_Continuous_Driving_Scenes_With_Growing_Architecture_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2172",
+      "paper_id": "",
+      "title": "Continuous 3D Perception Model with Persistent State",
+      "authors": "Qianqian Wang, Yifei Zhang, Aleksander Holynski, Alexei A. Efros, Angjoo Kanazawa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Continuous_3D_Perception_Model_with_Persistent_State_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1619",
+      "paper_id": "",
+      "title": "CroMo: Cross-Modal Learning for Monocular Depth Estimation",
+      "authors": "Yannick Verdié, Jifei Song, Barnabé Mas, Benjamin Busam, Ales̆ Leonardis, Steven McDonagh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Verdie_CroMo_Cross-Modal_Learning_for_Monocular_Depth_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_422",
+      "paper_id": "",
+      "title": "Cross-View Completion Models are Zero-shot Correspondence Estimators",
+      "authors": "Honggyu An, Jin Hyeon Kim, Seonghoon Park, Jaewoo Jung, Jisang Han, Sunghwan Hong, Seungryong Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/An_Cross-View_Completion_Models_are_Zero-shot_Correspondence_Estimators_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_537",
+      "paper_id": "",
+      "title": "DeCoTR: Enhancing Depth Completion with 2D and 3D Attentions",
+      "authors": "Yunxiao Shi, Manish Kumar Singh, Hong Cai, Fatih Porikli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_DeCoTR_Enhancing_Depth_Completion_with_2D_and_3D_Attentions_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1882",
+      "paper_id": "",
+      "title": "Decoupling Fine Detail and Global Geometry for Compressed Depth Map Super-Resolution",
+      "authors": "Huan Zheng, Wencheng Han, Jianbing Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Decoupling_Fine_Detail_and_Global_Geometry_for_Compressed_Depth_Map_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1497",
+      "paper_id": "",
+      "title": "Deep Depth Estimation From Thermal Image",
+      "authors": "Ukcheol Shin, Jinsun Park, In So Kweon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_136",
+      "paper_id": "",
+      "title": "Deep Two-View Structure-From-Motion Revisited",
+      "authors": "Jianyuan Wang, Yiran Zhong, Yuchao Dai, Stan Birchfield, Kaihao Zhang, Nikolai Smolyanskiy, Hongdong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Deep_Two-View_Structure-From-Motion_Revisited_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_402",
+      "paper_id": "",
+      "title": "DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion",
+      "authors": "Arda Duzceker, Silvano Galliani, Christoph Vogel, Pablo Speciale, Mihai Dusmanu, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Duzceker_DeepVideoMVS_Multi-View_Stereo_on_Video_With_Recurrent_Spatio-Temporal_Fusion_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2338",
+      "paper_id": "",
+      "title": "DEFOM-Stereo: Depth Foundation Model Based Stereo Matching",
+      "authors": "Hualie Jiang, Zhiqiang Lou, Laiyan Ding, Rui Xu, Minglang Tan, Wenjie Jiang, Rui Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_DEFOM-Stereo_Depth_Foundation_Model_Based_Stereo_Matching_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1779",
+      "paper_id": "",
+      "title": "Degradation-Agnostic Correspondence From Resolution-Asymmetric Stereo",
+      "authors": "Xihao Chen, Zhiwei Xiong, Zhen Cheng, Jiayong Peng, Yueyi Zhang, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Degradation-Agnostic_Correspondence_From_Resolution-Asymmetric_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_926",
+      "paper_id": "",
+      "title": "Dense-SfM: Structure from Motion with Dense Consistent Matching",
+      "authors": "JongMin Lee, Sungjoo Yoo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Dense-SfM_Structure_from_Motion_with_Dense_Consistent_Matching_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1752",
+      "paper_id": "",
+      "title": "Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera",
+      "authors": "Yuliang Guo, Sparsh Garg, S. Mahdi H. Miangoleh, Xinyu Huang, Liu Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Depth_Any_Camera_Zero-Shot_Metric_Depth_Estimation_from_Any_Camera_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_800",
+      "paper_id": "",
+      "title": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
+      "authors": "Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Depth_Anything_Unleashing_the_Power_of_Large-Scale_Unlabeled_Data_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1453",
+      "paper_id": "",
+      "title": "Depth Completion Using Plane-Residual Representation",
+      "authors": "Byeong-Uk Lee, Kyunghyun Lee, In So Kweon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Depth_Completion_Using_Plane-Residual_Representation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_928",
+      "paper_id": "",
+      "title": "Depth Completion With Twin Surface Extrapolation at Occlusion Boundaries",
+      "authors": "Saif Imran, Xiaoming Liu, Daniel Morris",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Imran_Depth_Completion_With_Twin_Surface_Extrapolation_at_Occlusion_Boundaries_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_783",
+      "paper_id": "",
+      "title": "Depth Estimation From Indoor Panoramas With Neural Scene Representation",
+      "authors": "Wenjie Chang, Yueyi Zhang, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_Depth_Estimation_From_Indoor_Panoramas_With_Neural_Scene_Representation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_422",
+      "paper_id": "",
+      "title": "Depth Prompting for Sensor-Agnostic Depth Estimation",
+      "authors": "Jin-Hwi Park, Chanhwi Jeong, Junoh Lee, Hae-Gon Jeon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Depth_Prompting_for_Sensor-Agnostic_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_346",
+      "paper_id": "",
+      "title": "Depth-Guided Sparse Structure-From-Motion for Movies and TV Shows",
+      "authors": "Sheng Liu, Xiaohan Nie, Raffay Hamid",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Depth-Guided_Sparse_Structure-From-Motion_for_Movies_and_TV_Shows_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2777",
+      "paper_id": "",
+      "title": "DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos",
+      "authors": "Wenbo Hu, Xiangjun Gao, Xiaoyu Li, Sijie Zhao, Xiaodong Cun, Yong Zhang, Long Quan, Ying Shan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_DepthCrafter_Generating_Consistent_Long_Depth_Sequences_for_Open-world_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_426",
+      "paper_id": "",
+      "title": "DI-Fusion: Online Implicit 3D Reconstruction With Deep Priors",
+      "authors": "Jiahui Huang, Shi-Sheng Huang, Haoxuan Song, Shi-Min Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_857",
+      "paper_id": "",
+      "title": "Differentiable SLAM-Net: Learning Particle SLAM for Visual Navigation",
+      "authors": "Peter Karkus, Shaojun Cai, David Hsu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Karkus_Differentiable_SLAM-Net_Learning_Particle_SLAM_for_Visual_Navigation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2698",
+      "paper_id": "",
+      "title": "DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion",
+      "authors": "Qitao Zhao, Amy Lin, Jeff Tan, Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_DiffusionSfM_Predicting_Structure_and_Motion_via_Ray_Origin_and_Endpoint_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2216",
+      "paper_id": "",
+      "title": "DINN360: Deformable Invertible Neural Network for Latitude-Aware 360deg Image Rescaling",
+      "authors": "Yichen Guo, Mai Xu, Lai Jiang, Leonid Sigal, Yunjin Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_DINN360_Deformable_Invertible_Neural_Network_for_Latitude-Aware_360deg_Image_Rescaling_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2170",
+      "paper_id": "",
+      "title": "Dionysus: Recovering Scene Structures by Dividing Into Semantic Pieces",
+      "authors": "Likang Wang, Lei Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Dionysus_Recovering_Scene_Structures_by_Dividing_Into_Semantic_Pieces_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_96",
+      "paper_id": "",
+      "title": "Discrete Cosine Transform Network for Guided Depth Map Super-Resolution",
+      "authors": "Zixiang Zhao, Jiangshe Zhang, Shuang Xu, Zudi Lin, Hanspeter Pfister",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1311",
+      "paper_id": "",
+      "title": "Disentangling Orthogonal Planes for Indoor Panoramic Room Layout Estimation With Cross-Scale Distortion Awareness",
+      "authors": "Zhijie Shen, Zishuo Zheng, Chunyu Lin, Lang Nie, Kang Liao, Shuai Zheng, Yao Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Disentangling_Orthogonal_Planes_for_Indoor_Panoramic_Room_Layout_Estimation_With_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1770",
+      "paper_id": "",
+      "title": "Distilling Monocular Foundation Model for Fine-grained Depth Completion",
+      "authors": "Yingping Liang, Yutao Hu, Wenqi Shao, Ying Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Distilling_Monocular_Foundation_Model_for_Fine-grained_Depth_Completion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_608",
+      "paper_id": "",
+      "title": "Domain Generalized Stereo Matching via Hierarchical Visual Transformation",
+      "authors": "Tianyu Chang, Xun Yang, Tianzhu Zhang, Meng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_Domain_Generalized_Stereo_Matching_via_Hierarchical_Visual_Transformation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2559",
+      "paper_id": "",
+      "title": "Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features",
+      "authors": "Yuanbo Xiangli, Ruojin Cai, Hanyu Chen, Jeffrey Byrne, Noah Snavely",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xiangli_Doppelgangers_Improved_Visual_Disambiguation_with_Geometric_3D_Features_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2514",
+      "paper_id": "",
+      "title": "DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution",
+      "authors": "Zhengxue Wang, Zhiqiang Yan, Jinshan Pan, Guangwei Gao, Kai Zhang, Jian Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DORNet_A_Degradation_Oriented_and_Regularized_Network_for_Blind_Depth_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1256",
+      "paper_id": "",
+      "title": "DualRefine: Self-Supervised Depth and Pose Estimation Through Iterative Epipolar Sampling and Refinement Toward Equilibrium",
+      "authors": "Antyanta Bangunharcana, Ahmed Magd, Kyung-Soo Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bangunharcana_DualRefine_Self-Supervised_Depth_and_Pose_Estimation_Through_Iterative_Epipolar_Sampling_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_748",
+      "paper_id": "",
+      "title": "DUSt3R: Geometric 3D Vision Made Easy",
+      "authors": "Shuzhe Wang, Vincent Leroy, Yohann Cabon, Boris Chidlovskii, Jerome Revaud",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1112",
+      "paper_id": "",
+      "title": "DynamicStereo: Consistent Dynamic Depth From Stereo Videos",
+      "authors": "Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1366",
+      "paper_id": "",
+      "title": "ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation",
+      "authors": "Suraj Patni, Aradhye Agarwal, Chetan Arora",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Patni_ECoDepth_Effective_Conditioning_of_Diffusion_Models_for_Monocular_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1345",
+      "paper_id": "",
+      "title": "EDNet: Efficient Disparity Estimation With Cost Volume Combination and Attention-Based Spatial Residual",
+      "authors": "Songyan Zhang, Zhicheng Wang, Qiang Wang, Jinshuo Zhang, Gang Wei, Xiaowen Chu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_EDNet_Efficient_Disparity_Estimation_With_Cost_Volume_Combination_and_Attention-Based_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2833",
+      "paper_id": "",
+      "title": "Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses",
+      "authors": "Yongfan Liu, Hyoukjun Kwon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Efficient_Depth_Estimation_for_Unstable_Stereo_Camera_Systems_on_AR_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1697",
+      "paper_id": "",
+      "title": "Efficient Multi-View Stereo by Iterative Dynamic Cost Volume",
+      "authors": "Shaoqian Wang, Bo Li, Yuchao Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Efficient_Multi-View_Stereo_by_Iterative_Dynamic_Cost_Volume_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_91",
+      "paper_id": "",
+      "title": "Elite360D: Towards Efficient 360 Depth Estimation via Semantic- and Distance-Aware Bi-Projection Fusion",
+      "authors": "Hao Ai, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ai_Elite360D_Towards_Efficient_360_Depth_Estimation_via_Semantic-_and_Distance-Aware_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_772",
+      "paper_id": "",
+      "title": "ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields",
+      "authors": "Mohammad Mahdi Johari, Camilla Carta, François Fleuret",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Johari_ESLAM_Efficient_Dense_SLAM_System_Based_on_Hybrid_Representation_of_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_335",
+      "paper_id": "",
+      "title": "Exploiting Pseudo Labels in a Self-Supervised Learning Framework for Improved Monocular Depth Estimation",
+      "authors": "Andra Petrovai, Sergiu Nedevschi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Petrovai_Exploiting_Pseudo_Labels_in_a_Self-Supervised_Learning_Framework_for_Improved_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1353",
+      "paper_id": "",
+      "title": "Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass",
+      "authors": "Jianing Yang, Alexander Sax, Kevin J. Liang, Mikael Henaff, Hao Tang, Ang Cao, Joyce Chai, Franziska Meier, Matt Feiszli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1905",
+      "paper_id": "",
+      "title": "Federated Online Adaptation for Deep Stereo",
+      "authors": "Matteo Poggi, Fabio Tosi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Poggi_Federated_Online_Adaptation_for_Deep_Stereo_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_833",
+      "paper_id": "",
+      "title": "Finding Good Configurations of Planar Primitives in Unorganized Point Clouds",
+      "authors": "Mulin Yu, Florent Lafarge",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Finding_Good_Configurations_of_Planar_Primitives_in_Unorganized_Point_Clouds_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_693",
+      "paper_id": "",
+      "title": "Flexible Depth Completion for Sparse and Varying Point Densities",
+      "authors": "Jinhyung Park, Yu-Jhe Li, Kris Kitani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Flexible_Depth_Completion_for_Sparse_and_Varying_Point_Densities_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_867",
+      "paper_id": "",
+      "title": "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo",
+      "authors": "Anush Kumar, Fahim Mannan, Omid Hosseini Jafari, Shile Li, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kumar_Flow-Guided_Online_Stereo_Rectification_for_Wide_Baseline_Stereo_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_904",
+      "paper_id": "",
+      "title": "FoggyStereo: Stereo Matching With Fog Volume Representation",
+      "authors": "Chengtang Yao, Lidong Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yao_FoggyStereo_Stereo_Matching_With_Fog_Volume_Representation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_794",
+      "paper_id": "",
+      "title": "FoundationStereo: Zero-Shot Stereo Matching",
+      "authors": "Bowen Wen, Matthew Trepte, Joseph Aribido, Jan Kautz, Orazio Gallo, Stan Birchfield",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wen_FoundationStereo_Zero-Shot_Stereo_Matching_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1248",
+      "paper_id": "",
+      "title": "Fourier Document Restoration for Robust Document Dewarping and Recognition",
+      "authors": "Chuhui Xue, Zichen Tian, Fangneng Zhan, Shijian Lu, Song Bai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1005",
+      "paper_id": "",
+      "title": "From-Ground-To-Objects: Coarse-to-Fine Self-supervised Monocular Depth Estimation of Dynamic Objects with Ground Contact Prior",
+      "authors": "Jaeho Moon, Juan Luis Gonzalez Bello, Byeongjun Kwon, Munchurl Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_From-Ground-To-Objects_Coarse-to-Fine_Self-supervised_Monocular_Depth_Estimation_of_Dynamic_Objects_with_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1861",
+      "paper_id": "",
+      "title": "Gated2Gated: Self-Supervised Depth Estimation From Gated Images",
+      "authors": "Amanpreet Walia, Stefanie Walz, Mario Bijelic, Fahim Mannan, Frank Julca-Aguilar, Michael Langer, Werner Ritter, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Walia_Gated2Gated_Self-Supervised_Depth_Estimation_From_Gated_Images_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1399",
+      "paper_id": "",
+      "title": "Generalized Binary Search Network for Highly-Efficient Multi-View Stereo",
+      "authors": "Zhenxing Mi, Chang Di, Dan Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mi_Generalized_Binary_Search_Network_for_Highly-Efficient_Multi-View_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1997",
+      "paper_id": "",
+      "title": "GeoDepth: From Point-to-Depth to Plane-to-Depth Modeling for Self-Supervised Monocular Depth Estimation",
+      "authors": "Haifeng Wu, Shuhang Gu, Lixin Duan, Wen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_GeoDepth_From_Point-to-Depth_to_Plane-to-Depth_Modeling_for_Self-Supervised_Monocular_Depth_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2304",
+      "paper_id": "",
+      "title": "GeoMVSNet: Learning Multi-View Stereo With Geometry Perception",
+      "authors": "Zhe Zhang, Rui Peng, Yuxi Hu, Ronggang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_GeoMVSNet_Learning_Multi-View_Stereo_With_Geometry_Perception_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_906",
+      "paper_id": "",
+      "title": "GoMVS: Geometrically Consistent Cost Aggregation for Multi-View Stereo",
+      "authors": "Jiang Wu, Rui Li, Haofei Xu, Wenxun Zhao, Yu Zhu, Jinqiu Sun, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_GoMVS_Geometrically_Consistent_Cost_Aggregation_for_Multi-View_Stereo_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1089",
+      "paper_id": "",
+      "title": "GraftNet: Towards Domain Generalized Stereo Matching With a Broad-Spectrum and Task-Oriented Feature",
+      "authors": "Biyang Liu, Huimin Yu, Guodong Qi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_GraftNet_Towards_Domain_Generalized_Stereo_Matching_With_a_Broad-Spectrum_and_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_555",
+      "paper_id": "",
+      "title": "Guided Depth Super-Resolution by Deep Anisotropic Diffusion",
+      "authors": "Nando Metzger, Rodrigo Caye Daudt, Konrad Schindler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Metzger_Guided_Depth_Super-Resolution_by_Deep_Anisotropic_Diffusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_932",
+      "paper_id": "",
+      "title": "GuideFormer: Transformers for Image Guided Depth Completion",
+      "authors": "Kyeongha Rho, Jinsung Ha, Youngjung Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_7",
+      "paper_id": "",
+      "title": "HEAL-SWIN: A Vision Transformer On The Sphere",
+      "authors": "Oscar Carlsson, Jan E. Gerken, Hampus Linander, Heiner Spieß, Fredrik Ohlsson, Christoffer Petersson, Daniel Persson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Carlsson_HEAL-SWIN_A_Vision_Transformer_On_The_Sphere_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_980",
+      "paper_id": "",
+      "title": "HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation",
+      "authors": "Mehdi Zayene, Jannik Endres, Albias Havolli, Charles Corbière, Salim Cherkaoui, Alexandre Kontouli, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zayene_HELVIPAD_A_Real-World_Dataset_for_Omnidirectional_Stereo_Depth_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1337",
+      "paper_id": "",
+      "title": "High-Frequency Stereo Matching Network",
+      "authors": "Haoliang Zhao, Huizhou Zhou, Yongjun Zhang, Jie Chen, Yitong Yang, Yong Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_High-Frequency_Stereo_Matching_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_609",
+      "paper_id": "",
+      "title": "High-quality Point Cloud Oriented Normal Estimation via Hybrid Angular and Euclidean Distance Encoding",
+      "authors": "Yuanqi Li, Jingcheng Huang, Hongshen Wang, Peiyuan Lv, Yansong Liu, Jiuming Zheng, Jie Guo, Yanwen Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_High-quality_Point_Cloud_Oriented_Normal_Estimation_via_Hybrid_Angular_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_829",
+      "paper_id": "",
+      "title": "HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching",
+      "authors": "Vladimir Tankovich, Christian Hane, Yinda Zhang, Adarsh Kowdle, Sean Fanello, Sofien Bouaziz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tankovich_HITNet_Hierarchical_Iterative_Tile_Refinement_Network_for_Real-time_Stereo_Matching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_691",
+      "paper_id": "",
+      "title": "HoHoNet: 360 Indoor Holistic Understanding With Latent Horizontal Features",
+      "authors": "Cheng Sun, Min Sun, Hwann-Tzong Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_HoHoNet_360_Indoor_Holistic_Understanding_With_Latent_Horizontal_Features_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_950",
+      "paper_id": "",
+      "title": "HRDFuse: Monocular 360deg Depth Estimation by Collaboratively Learning Holistic-With-Regional Depth Distributions",
+      "authors": "Hao Ai, Zidong Cao, Yan-Pei Cao, Ying Shan, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ai_HRDFuse_Monocular_360deg_Depth_Estimation_by_Collaboratively_Learning_Holistic-With-Regional_Depth_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_666",
+      "paper_id": "",
+      "title": "HUSH: Holistic Panoramic 3D Scene Understanding using Spherical Harmonics",
+      "authors": "Jongsung Lee, Harin Park, Byeong-Uk Lee, Kyungdon Joo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_HUSH_Holistic_Panoramic_3D_Scene_Understanding_using_Spherical_Harmonics_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1547",
+      "paper_id": "",
+      "title": "IBD-SLAM: Learning Image-Based Depth Fusion for Generalizable SLAM",
+      "authors": "Minghao Yin, Shangzhe Wu, Kai Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_IBD-SLAM_Learning_Image-Based_Depth_Fusion_for_Generalizable_SLAM_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_776",
+      "paper_id": "",
+      "title": "iDisc: Internal Discretization for Monocular Depth Estimation",
+      "authors": "Luigi Piccinelli, Christos Sakaridis, Fisher Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Piccinelli_iDisc_Internal_Discretization_for_Monocular_Depth_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_535",
+      "paper_id": "",
+      "title": "Implicit Event-RGBD Neural SLAM",
+      "authors": "Delin Qu, Chi Yan, Dong Wang, Jie Yin, Qizhi Chen, Dan Xu, Yiting Zhang, Bin Zhao, Xuelong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Implicit_Event-RGBD_Neural_SLAM_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2379",
+      "paper_id": "",
+      "title": "Improved Monocular Depth Prediction Using Distance Transform Over Pre-semantic Contours with Self-supervised Neural Networks",
+      "authors": "Marwane Hariat, Antoine Manzanera, David Filliat",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hariat_Improved_Monocular_Depth_Prediction_Using_Distance_Transform_Over_Pre-semantic_Contours_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1640",
+      "paper_id": "",
+      "title": "Improving Depth Completion via Depth Feature Upsampling",
+      "authors": "Yufei Wang, Ge Zhang, Shaoqian Wang, Bo Li, Qi Liu, Le Hui, Yuchao Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_945",
+      "paper_id": "",
+      "title": "Indoor Panorama Planar 3D Reconstruction via Divide and Conquer",
+      "authors": "Cheng Sun, Chi-Wei Hsiao, Ning-Hsu Wang, Min Sun, Hwann-Tzong Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Indoor_Panorama_Planar_3D_Reconstruction_via_Divide_and_Conquer_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1668",
+      "paper_id": "",
+      "title": "Input-Level Inductive Biases for 3D Reconstruction",
+      "authors": "Wang Yifan, Carl Doersch, Relja Arandjelović, João Carreira, Andrew Zisserman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yifan_Input-Level_Inductive_Biases_for_3D_Reconstruction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_490",
+      "paper_id": "",
+      "title": "Iterative Geometry Encoding Volume for Stereo Matching",
+      "authors": "Gangwei Xu, Xianqi Wang, Xiaohuan Ding, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Iterative_Geometry_Encoding_Volume_for_Stereo_Matching_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_349",
+      "paper_id": "",
+      "title": "IterMVS: Iterative Probability Estimation for Efficient Multi-View Stereo",
+      "authors": "Fangjinhua Wang, Silvano Galliani, Christoph Vogel, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_IterMVS_Iterative_Probability_Estimation_for_Efficient_Multi-View_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_918",
+      "paper_id": "",
+      "title": "ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks",
+      "authors": "WeiQin Chuah, Ruwan Tennakoon, Reza Hoseinnezhad, Alireza Bab-Hadiashar, David Suter",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chuah_ITSA_An_Information-Theoretic_Approach_to_Automatic_Shortcut_Avoidance_and_Domain_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_594",
+      "paper_id": "",
+      "title": "LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-Resolution",
+      "authors": "Xin Deng, Hao Wang, Mai Xu, Yichen Guo, Yuhang Song, Li Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1361",
+      "paper_id": "",
+      "title": "Layered Depth Refinement With Mask Guidance",
+      "authors": "Soo Ye Kim, Jianming Zhang, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Layered_Depth_Refinement_With_Mask_Guidance_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2265",
+      "paper_id": "",
+      "title": "Learning a Depth Covariance Function",
+      "authors": "Eric Dexheimer, Andrew J. Davison",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dexheimer_Learning_a_Depth_Covariance_Function_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_292",
+      "paper_id": "",
+      "title": "Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching",
+      "authors": "Rui Gong, Weide Liu, Zaiwang Gu, Xulei Yang, Jun Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Learning_Intra-view_and_Cross-view_Geometric_Knowledge_for_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_851",
+      "paper_id": "",
+      "title": "Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution",
+      "authors": "Baoli Sun, Xinchen Ye, Baopu Li, Haojie Li, Zhihui Wang, Rui Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Learning_Scene_Structure_Guidance_via_Cross-Task_Knowledge_Transfer_for_Single_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1551",
+      "paper_id": "",
+      "title": "Learning Structure-from-Motion with Graph Attention Networks",
+      "authors": "Lucas Brynte, José Pedro Iglesias, Carl Olsson, Fredrik Kahl",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Brynte_Learning_Structure-from-Motion_with_Graph_Attention_Networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1238",
+      "paper_id": "",
+      "title": "Learning Structured Gaussians To Approximate Deep Ensembles",
+      "authors": "Ivor J. A. Simpson, Sara Vicente, Neill D. F. Campbell",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Simpson_Learning_Structured_Gaussians_To_Approximate_Deep_Ensembles_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1033",
+      "paper_id": "",
+      "title": "Learning Temporally Consistent Video Depth from Video Diffusion Priors",
+      "authors": "Jiahao Shao, Yuanbo Yang, Hongyu Zhou, Youmin Zhang, Yujun Shen, Vitor Guizilini, Yue Wang, Matteo Poggi, Yiyi Liao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shao_Learning_Temporally_Consistent_Video_Depth_from_Video_Diffusion_Priors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1544",
+      "paper_id": "",
+      "title": "Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation",
+      "authors": "Liyan Chen, Weihan Wang, Philippos Mordohai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2232",
+      "paper_id": "",
+      "title": "Learning To Fuse Monocular and Multi-View Cues for Multi-Frame Depth Estimation in Dynamic Scenes",
+      "authors": "Rui Li, Dong Gong, Wei Yin, Hao Chen, Yu Zhu, Kaixuan Wang, Xiaozhi Chen, Jinqiu Sun, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Learning_To_Fuse_Monocular_and_Multi-View_Cues_for_Multi-Frame_Depth_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_694",
+      "paper_id": "",
+      "title": "Learning To Recover 3D Scene Shape From a Single Image",
+      "authors": "Wei Yin, Jianming Zhang, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Learning_To_Recover_3D_Scene_Shape_From_a_Single_Image_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_252",
+      "paper_id": "",
+      "title": "Learning to Select Views for Efficient Multi-View Understanding",
+      "authors": "Yunzhong Hou, Stephen Gould, Liang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hou_Learning_to_Select_Views_for_Efficient_Multi-View_Understanding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1316",
+      "paper_id": "",
+      "title": "LED2-Net: Monocular 360deg Layout Estimation via Differentiable Depth Rendering",
+      "authors": "Fu-En Wang, Yu-Hsuan Yeh, Min Sun, Wei-Chen Chiu, Yi-Hsuan Tsai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_LED2-Net_Monocular_360deg_Layout_Estimation_via_Differentiable_Depth_Rendering_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_592",
+      "paper_id": "",
+      "title": "Level-S$^2$fM: Structure From Motion on Neural Level Set of Implicit Surfaces",
+      "authors": "Yuxi Xiao, Nan Xue, Tianfu Wu, Gui-Song Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Level-S2fM_Structure_From_Motion_on_Neural_Level_Set_of_Implicit_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_47",
+      "paper_id": "",
+      "title": "LGT-Net: Indoor Panoramic Room Layout Estimation With Geometry-Aware Transformer Network",
+      "authors": "Zhigang Jiang, Zhongzheng Xiang, Jinhua Xu, Ming Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_LGT-Net_Indoor_Panoramic_Room_Layout_Estimation_With_Geometry-Aware_Transformer_Network_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2829",
+      "paper_id": "",
+      "title": "Light3R-SfM: Towards Feed-forward Structure-from-Motion",
+      "authors": "Sven Elflein, Qunjie Zhou, Laura Leal-Taixé",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Elflein_Light3R-SfM_Towards_Feed-forward_Structure-from-Motion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1212",
+      "paper_id": "",
+      "title": "LightedDepth: Video Depth Estimation in Light of Limited Inference View Angles",
+      "authors": "Shengjie Zhu, Xiaoming Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_LightedDepth_Video_Depth_Estimation_in_Light_of_Limited_Inference_View_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1799",
+      "paper_id": "",
+      "title": "LiSu: A Dataset and Method for LiDAR Surface Normal Estimation",
+      "authors": "Dušan Malić, Christian Fruhwirth-Reisinger, Samuel Schulter, Horst Possegger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Malic_LiSu_A_Dataset_and_Method_for_LiDAR_Surface_Normal_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_393",
+      "paper_id": "",
+      "title": "Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation",
+      "authors": "Ning Zhang, Francesco Nex, George Vosselman, Norman Kerle",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Lite-Mono_A_Lightweight_CNN_and_Transformer_Architecture_for_Self-Supervised_Monocular_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2427",
+      "paper_id": "",
+      "title": "Loopy-SLAM: Dense Neural SLAM with Loop Closures",
+      "authors": "Lorenzo Liso, Erik Sandström, Vladimir Yugay, Luc Van Gool, Martin R. Oswald",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liso_Loopy-SLAM_Dense_Neural_SLAM_with_Loop_Closures_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_145",
+      "paper_id": "",
+      "title": "LoS: Local Structure-Guided Stereo Matching",
+      "authors": "Kunhong Li, Longguang Wang, Ye Zhang, Kaiwen Xue, Shunbo Zhou, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_113",
+      "paper_id": "",
+      "title": "MaDCoW: Marginal Distortion Correction for Wide-Angle Photography with Arbitrary Objects",
+      "authors": "Kevin Zhang, Jia-Bin Huang, Jose Echevarria, Stephen DiVerdi, Aaron Hertzmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_MaDCoW_Marginal_Distortion_Correction_for_Wide-Angle_Photography_with_Arbitrary_Objects_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_928",
+      "paper_id": "",
+      "title": "Masked Representation Learning for Domain Generalized Stereo Matching",
+      "authors": "Zhibo Rao, Bangshu Xiong, Mingyi He, Yuchao Dai, Renjie He, Zhelun Shen, Xing Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Rao_Masked_Representation_Learning_for_Domain_Generalized_Stereo_Matching_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_831",
+      "paper_id": "",
+      "title": "Masked Spatial Propagation Network for Sparsity-Adaptive Depth Refinement",
+      "authors": "Jinyoung Jun, Jae-Han Lee, Chang-Su Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jun_Masked_Spatial_Propagation_Network_for_Sparsity-Adaptive_Depth_Refinement_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2838",
+      "paper_id": "",
+      "title": "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors",
+      "authors": "Riku Murai, Eric Dexheimer, Andrew J. Davison",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Murai_MASt3R-SLAM_Real-Time_Dense_SLAM_with_3D_Reconstruction_Priors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1746",
+      "paper_id": "",
+      "title": "Matrix3D: Large Photogrammetry Model All-in-One",
+      "authors": "Yuanxun Lu, Jingyang Zhang, Tian Fang, Jean-Daniel Nahmias, Yanghai Tsin, Long Quan, Xun Cao, Yao Yao, Shiwei Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_Matrix3D_Large_Photogrammetry_Model_All-in-One_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1477",
+      "paper_id": "",
+      "title": "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos",
+      "authors": "Zhengqi Li, Richard Tucker, Forrester Cole, Qianqian Wang, Linyi Jin, Vickie Ye, Angjoo Kanazawa, Aleksander Holynski, Noah Snavely",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_MegaSaM_Accurate_Fast_and_Robust_Structure_and_Motion_from_Casual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1352",
+      "paper_id": "",
+      "title": "Memory-based Adapters for Online 3D Scene Perception",
+      "authors": "Xiuwei Xu, Chong Xia, Ziwei Wang, Linqing Zhao, Yueqi Duan, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Memory-based_Adapters_for_Online_3D_Scene_Perception_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_862",
+      "paper_id": "",
+      "title": "Mesoscopic Photogrammetry With an Unstabilized Phone Camera",
+      "authors": "Kevin C. Zhou, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Mesoscopic_Photogrammetry_With_an_Unstabilized_Phone_Camera_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_338",
+      "paper_id": "",
+      "title": "Mind The Edge: Refining Depth Edges in Sparsely-Supervised Monocular Depth Estimation",
+      "authors": "Lior Talker, Aviad Cohen, Erez Yosef, Alexandra Dana, Michael Dinerstein",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Talker_Mind_The_Edge_Refining_Depth_Edges_in_Sparsely-Supervised_Monocular_Depth_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2626",
+      "paper_id": "",
+      "title": "Mining Supervision for Dynamic Regions in Self-Supervised Monocular Depth Estimation",
+      "authors": "Hoang Chuong Nguyen, Tianyu Wang, Jose M. Alvarez, Miaomiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Nguyen_Mining_Supervision_for_Dynamic_Regions_in_Self-Supervised_Monocular_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_187",
+      "paper_id": "",
+      "title": "Mirror3D: Depth Refinement for Mirror Surfaces",
+      "authors": "Jiaqi Tan, Weijie Lin, Angel X. Chang, Manolis Savva",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_Mirror3D_Depth_Refinement_for_Mirror_Surfaces_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_877",
+      "paper_id": "",
+      "title": "MoCha-Stereo: Motif Channel Attention Network for Stereo Matching",
+      "authors": "Ziyang Chen, Wei Long, He Yao, Yongjun Zhang, Bingshu Wang, Yongbin Qin, Jia Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_MoCha-Stereo_Motif_Channel_Attention_Network_for_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1777",
+      "paper_id": "",
+      "title": "MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision",
+      "authors": "Ruicheng Wang, Sicheng Xu, Cassie Dai, Jianfeng Xiang, Yu Deng, Xin Tong, Jiaolong Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MoGe_Unlocking_Accurate_Monocular_Geometry_Estimation_for_Open-Domain_Images_with_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2619",
+      "paper_id": "",
+      "title": "Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion",
+      "authors": "Songsong Yu, Yuxin Chen, Zhongang Qi, Zeke Xie, Yifan Wang, Lijun Wang, Ying Shan, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Mono2Stereo_A_Benchmark_and_Empirical_Study_for_Stereo_Conversion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_39",
+      "paper_id": "",
+      "title": "Monocular Depth Estimation via Listwise Ranking Using the Plackett-Luce Model",
+      "authors": "Julian Lienen, Eyke Hullermeier, Ralph Ewerth, Nils Nommensen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lienen_Monocular_Depth_Estimation_via_Listwise_Ranking_Using_the_Plackett-Luce_Model_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1632",
+      "paper_id": "",
+      "title": "MonoRec: Semi-Supervised Dense Reconstruction in Dynamic Environments From a Single Moving Camera",
+      "authors": "Felix Wimbauer, Nan Yang, Lukas von Stumberg, Niclas Zeller, Daniel Cremers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wimbauer_MonoRec_Semi-Supervised_Dense_Reconstruction_in_Dynamic_Environments_From_a_Single_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2750",
+      "paper_id": "",
+      "title": "MonSter: Marry Monodepth to Stereo Unleashes Power",
+      "authors": "Junda Cheng, Longliang Liu, Gangwei Xu, Xianqi Wang, Zhaoxing Zhang, Yong Deng, Jinliang Zang, Yurui Chen, Zhipeng Cai, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_MonSter_Marry_Monodepth_to_Stereo_Unleashes_Power_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2573",
+      "paper_id": "",
+      "title": "MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion",
+      "authors": "Zador Pataki, Paul-Edouard Sarlin, Johannes L. Schönberger, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Pataki_MP-SfM_Monocular_Surface_Priors_for_Robust_Structure-from-Motion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_454",
+      "paper_id": "",
+      "title": "Multi-Frame Self-Supervised Depth With Transformers",
+      "authors": "Vitor Guizilini, Rareș Ambruș, Dian Chen, Sergey Zakharov, Adrien Gaidon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guizilini_Multi-Frame_Self-Supervised_Depth_With_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2560",
+      "paper_id": "",
+      "title": "Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization",
+      "authors": "Lahav Lipson, Jia Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lipson_Multi-Session_SLAM_with_Differentiable_Wide-Baseline_Pose_Optimization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_777",
+      "paper_id": "",
+      "title": "Multi-View Depth Estimation by Fusing Single-View Depth Probability With Multi-View Geometry",
+      "authors": "Gwangbin Bae, Ignas Budvytis, Roberto Cipolla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1324",
+      "paper_id": "",
+      "title": "Multi-view Depth Estimation using Epipolar Spatio-Temporal Networks",
+      "authors": "Xiaoxiao Long, Lingjie Liu, Wei Li, Christian Theobalt, Wenping Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Long_Multi-view_Depth_Estimation_using_Epipolar_Spatio-Temporal_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2329",
+      "paper_id": "",
+      "title": "Multi-View Stereo Representation Revist: Region-Aware MVSNet",
+      "authors": "Yisu Zhang, Jianke Zhu, Lixiang Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Multi-View_Stereo_Representation_Revist_Region-Aware_MVSNet_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_440",
+      "paper_id": "",
+      "title": "MUSt3R: Multi-view Network for Stereo 3D Reconstruction",
+      "authors": "Yohann Cabon, Lucas Stoffl, Leonid Antsfeld, Gabriela Csurka, Boris Chidlovskii, Jerome Revaud, Vincent Leroy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cabon_MUSt3R_Multi-view_Network_for_Stereo_3D_Reconstruction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2746",
+      "paper_id": "",
+      "title": "MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds",
+      "authors": "Zhenggang Tang, Yuchen Fan, Dilin Wang, Hongyu Xu, Rakesh Ranjan, Alexander Schwing, Zhicheng Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_MV-DUSt3R_Single-Stage_Scene_Reconstruction_from_Sparse_Views_In_2_Seconds_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_2030",
+      "paper_id": "",
+      "title": "MVS2D: Efficient Multi-View Stereo via Attention-Driven 2D Convolutions",
+      "authors": "Zhenpei Yang, Zhile Ren, Qi Shan, Qixing Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_MVS2D_Efficient_Multi-View_Stereo_via_Attention-Driven_2D_Convolutions_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1902",
+      "paper_id": "",
+      "title": "MVSAnywhere: Zero-Shot Multi-View Stereo",
+      "authors": "Sergio Izquierdo, Mohamed Sayed, Michael Firman, Guillermo Garcia-Hernando, Daniyar Turmukhambetov, Javier Civera, Oisin Mac Aodha, Gabriel Brostow, Jamie Watson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Izquierdo_MVSAnywhere_Zero-Shot_Multi-View_Stereo_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1253",
+      "paper_id": "",
+      "title": "NeRF-Supervised Deep Stereo",
+      "authors": "Fabio Tosi, Alessio Tonioni, Daniele De Gregorio, Matteo Poggi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_414",
+      "paper_id": "",
+      "title": "Neural 3D Scene Reconstruction With the Manhattan-World Assumption",
+      "authors": "Haoyu Guo, Sida Peng, Haotong Lin, Qianqian Wang, Guofeng Zhang, Hujun Bao, Xiaowei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Neural_3D_Scene_Reconstruction_With_the_Manhattan-World_Assumption_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1230",
+      "paper_id": "",
+      "title": "Neural Markov Random Field for Stereo Matching",
+      "authors": "Tongfan Guan, Chen Wang, Yun-Hui Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Guan_Neural_Markov_Random_Field_for_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_393",
+      "paper_id": "",
+      "title": "Neural Window Fully-Connected CRFs for Monocular Depth Estimation",
+      "authors": "Weihao Yuan, Xiaodong Gu, Zuozhuo Dai, Siyu Zhu, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Neural_Window_Fully-Connected_CRFs_for_Monocular_Depth_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_926",
+      "paper_id": "",
+      "title": "NeuralFusion: Online Depth Fusion in Latent Space",
+      "authors": "Silvan Weder, Johannes L. Schonberger, Marc Pollefeys, Martin R. Oswald",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Weder_NeuralFusion_Online_Depth_Fusion_in_Latent_Space_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1462",
+      "paper_id": "",
+      "title": "NeuralRecon: Real-Time Coherent 3D Reconstruction From Monocular Video",
+      "authors": "Jiaming Sun, Yiming Xie, Linghao Chen, Xiaowei Zhou, Hujun Bao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_NeuralRecon_Real-Time_Coherent_3D_Reconstruction_From_Monocular_Video_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_36",
+      "paper_id": "",
+      "title": "NICE-SLAM: Neural Implicit Scalable Encoding for SLAM",
+      "authors": "Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_NICE-SLAM_Neural_Implicit_Scalable_Encoding_for_SLAM_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_773",
+      "paper_id": "",
+      "title": "No More Ambiguity in 360deg Room Layout via Bi-Layout Estimation",
+      "authors": "Yu-Ju Tsai, Jin-Cheng Jhang, Jingjing Zheng, Wei Wang, Albert Y. C. Chen, Min Sun, Cheng-Hao Kuo, Ming-Hsuan Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tsai_No_More_Ambiguity_in_360deg_Room_Layout_via_Bi-Layout_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_733",
+      "paper_id": "",
+      "title": "Non-Parametric Depth Distribution Modelling Based Depth Inference for Multi-View Stereo",
+      "authors": "Jiayu Yang, Jose M. Alvarez, Miaomiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Non-Parametric_Depth_Distribution_Modelling_Based_Depth_Inference_for_Multi-View_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1285",
+      "paper_id": "",
+      "title": "Occlusion-Aware Cost Constructor for Light Field Depth Estimation",
+      "authors": "Yingqian Wang, Longguang Wang, Zhengyu Liang, Jungang Yang, Wei An, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Occlusion-Aware_Cost_Constructor_for_Light_Field_Depth_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_692",
+      "paper_id": "",
+      "title": "OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion",
+      "authors": "Yuyan Li, Yuliang Guo, Zhixin Yan, Xinyu Huang, Ye Duan, Liu Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_526",
+      "paper_id": "",
+      "title": "OmniSDF: Scene Reconstruction using Omnidirectional Signed Distance Functions and Adaptive Binoctrees",
+      "authors": "Hakyeong Kim, Andreas Meuleman, Hyeonjoong Jang, James Tompkin, Min H. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_OmniSDF_Scene_Reconstruction_using_Omnidirectional_Signed_Distance_Functions_and_Adaptive_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1314",
+      "paper_id": "",
+      "title": "OmniStereo: Real-time Omnidireactional Depth Estimation with Multiview Fisheye Cameras",
+      "authors": "Jiaxi Deng, Yushen Wang, Haitao Meng, Zuoxun Hou, Yi Chang, Gang Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_OmniStereo_Real-time_Omnidireactional_Depth_Estimation_with_Multiview_Fisheye_Cameras_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2092",
+      "paper_id": "",
+      "title": "OmniVidar: Omnidirectional Depth Estimation From Multi-Fisheye Images",
+      "authors": "Sheng Xie, Daochuan Wang, Yun-Hui Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_OmniVidar_Omnidirectional_Depth_Estimation_From_Multi-Fisheye_Images_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_340",
+      "paper_id": "",
+      "title": "On the Importance of Accurate Geometry Data for Dense 3D Vision Tasks",
+      "authors": "HyunJun Jung, Patrick Ruhkamp, Guangyao Zhai, Nikolas Brasch, Yitong Li, Yannick Verdie, Jifei Song, Yiren Zhou, Anil Armagan, Slobodan Ilic, Aleš Leonardis, Nassir Navab, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jung_On_the_Importance_of_Accurate_Geometry_Data_for_Dense_3D_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2547",
+      "paper_id": "",
+      "title": "On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation",
+      "authors": "Agneet Chatterjee, Tejas Gokhale, Chitta Baral, Yezhou Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chatterjee_On_the_Robustness_of_Language_Guidance_for_Low-Level_Vision_Tasks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_692",
+      "paper_id": "",
+      "title": "Online Learning of a Probabilistic and Adaptive Scene Representation",
+      "authors": "Zike Yan, Xin Wang, Hongbin Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Online_Learning_of_a_Probabilistic_and_Adaptive_Scene_Representation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1871",
+      "paper_id": "",
+      "title": "Open Challenges in Deep Stereo: The Booster Dataset",
+      "authors": "Pierluigi Zama Ramirez, Fabio Tosi, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ramirez_Open_Challenges_in_Deep_Stereo_The_Booster_Dataset_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1192",
+      "paper_id": "",
+      "title": "OSRT: Omnidirectional Image Super-Resolution With Distortion-Aware Transformer",
+      "authors": "Fanghua Yu, Xintao Wang, Mingdeng Cao, Gen Li, Ying Shan, Chao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_OSRT_Omnidirectional_Image_Super-Resolution_With_Distortion-Aware_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1121",
+      "paper_id": "",
+      "title": "P3Depth: Monocular Depth Estimation With a Piecewise Planarity Prior",
+      "authors": "Vaishakh Patil, Christos Sakaridis, Alexander Liniger, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Patil_P3Depth_Monocular_Depth_Estimation_With_a_Piecewise_Planarity_Prior_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2500",
+      "paper_id": "",
+      "title": "PanDA: Towards Panoramic Depth Anything with Unlabeled Panoramas and Mobius Spatial Augmentation",
+      "authors": "Zidong Cao, Jinjing Zhu, Weiming Zhang, Hao Ai, Haotian Bai, Hengshuang Zhao, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_732",
+      "paper_id": "",
+      "title": "PanelNet: Understanding 360 Indoor Environment via Panel Representation",
+      "authors": "Haozheng Yu, Lu He, Bing Jian, Weiwei Feng, Shan Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_PanelNet_Understanding_360_Indoor_Environment_via_Panel_Representation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1973",
+      "paper_id": "",
+      "title": "PanoContext-Former: Panoramic Total Scene Understanding with a Transformer",
+      "authors": "Yuan Dong, Chuan Fang, Liefeng Bo, Zilong Dong, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_PanoContext-Former_Panoramic_Total_Scene_Understanding_with_a_Transformer_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1119",
+      "paper_id": "",
+      "title": "PanoRecon: Real-Time Panoptic 3D Reconstruction from Monocular Video",
+      "authors": "Dong Wu, Zike Yan, Hongbin Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_PanoRecon_Real-Time_Panoptic_3D_Reconstruction_from_Monocular_Video_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2260",
+      "paper_id": "",
+      "title": "PanoSwin: A Pano-Style Swin Transformer for Panorama Understanding",
+      "authors": "Zhixin Ling, Zhen Xing, Xiangdong Zhou, Manliang Cao, Guichun Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ling_PanoSwin_A_Pano-Style_Swin_Transformer_for_Panorama_Understanding_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_985",
+      "paper_id": "",
+      "title": "PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation",
+      "authors": "Zhenyu Li, Shariq Farooq Bhat, Peter Wonka",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_PatchFusion_An_End-to-End_Tile-Based_Framework_for_High-Resolution_Monocular_Metric_Depth_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1515",
+      "paper_id": "",
+      "title": "PatchmatchNet: Learned Multi-View Patchmatch Stereo",
+      "authors": "Fangjinhua Wang, Silvano Galliani, Christoph Vogel, Pablo Speciale, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PatchmatchNet_Learned_Multi-View_Patchmatch_Stereo_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_466",
+      "paper_id": "",
+      "title": "Perspective Fields for Single Image Camera Calibration",
+      "authors": "Linyi Jin, Jianming Zhang, Yannick Hold-Geoffroy, Oliver Wang, Kevin Blackburn-Matzen, Matthew Sticha, David F. Fouhey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Perspective_Fields_for_Single_Image_Camera_Calibration_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2104",
+      "paper_id": "",
+      "title": "Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular Stereo and RGB-D Cameras",
+      "authors": "Huajian Huang, Longwei Li, Hui Cheng, Sai-Kit Yeung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Photo-SLAM_Real-time_Simultaneous_Localization_and_Photorealistic_Mapping_for_Monocular_Stereo_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1531",
+      "paper_id": "",
+      "title": "PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation With Neural Positional Encoding and Distilled Matting Loss",
+      "authors": "Juan Luis Gonzalez, Munchurl Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gonzalez_PLADE-Net_Towards_Pixel-Level_Accuracy_for_Self-Supervised_Single-View_Depth_Estimation_With_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1551",
+      "paper_id": "",
+      "title": "PlanarRecon: Real-Time 3D Plane Detection and Reconstruction From Posed Monocular Videos",
+      "authors": "Yiming Xie, Matheus Gadelha, Fengting Yang, Xiaowei Zhou, Huaizu Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_PlanarRecon_Real-Time_3D_Plane_Detection_and_Reconstruction_From_Posed_Monocular_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1817",
+      "paper_id": "",
+      "title": "PlanarSplatting: Accurate Planar Surface Reconstruction in 3 Minutes",
+      "authors": "Bin Tan, Rui Yu, Yujun Shen, Nan Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_PlanarSplatting_Accurate_Planar_Surface_Reconstruction_in_3_Minutes_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_893",
+      "paper_id": "",
+      "title": "PlaneDepth: Self-Supervised Depth Estimation via Orthogonal Planes",
+      "authors": "Ruoyu Wang, Zehao Yu, Shenghua Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_PlaneDepth_Self-Supervised_Depth_Estimation_via_Orthogonal_Planes_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_2026",
+      "paper_id": "",
+      "title": "PlaneMVS: 3D Plane Reconstruction From Multi-View Stereo",
+      "authors": "Jiachen Liu, Pan Ji, Nitin Bansal, Changjiang Cai, Qingan Yan, Xiaolei Huang, Yi Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_PlaneMVS_3D_Plane_Reconstruction_From_Multi-View_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_965",
+      "paper_id": "",
+      "title": "PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment",
+      "authors": "Tianchen Deng, Guole Shen, Tong Qin, Jianyu Wang, Wentao Zhao, Jingchuan Wang, Danwei Wang, Weidong Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_PLGSLAM_Progressive_Neural_Scene_Represenation_with_Local_to_Global_Bundle_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2403",
+      "paper_id": "",
+      "title": "Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors",
+      "authors": "Wonbong Jang, Philippe Weinzaepfel, Vincent Leroy, Lourdes Agapito, Jerome Revaud",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jang_Pow3R_Empowering_Unconstrained_3D_Reconstruction_with_Camera_and_Scene_Priors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1354",
+      "paper_id": "",
+      "title": "Practical Stereo Matching via Cascaded Recurrent Network With Adaptive Correlation",
+      "authors": "Jiankun Li, Peisen Wang, Pengfei Xiong, Tao Cai, Ziwei Yan, Lei Yang, Jiangyu Liu, Haoqiang Fan, Shuaicheng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Practical_Stereo_Matching_via_Cascaded_Recurrent_Network_With_Adaptive_Correlation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1404",
+      "paper_id": "",
+      "title": "Practical Wide-Angle Portraits Correction With Deep Structured Models",
+      "authors": "Jing Tan, Shan Zhao, Pengfei Xiong, Jiangyu Liu, Haoqiang Fan, Shuaicheng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_Practical_Wide-Angle_Portraits_Correction_With_Deep_Structured_Models_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_711",
+      "paper_id": "",
+      "title": "Progressively Complementary Network for Fisheye Image Rectification Using Appearance Flow",
+      "authors": "Shangrong Yang, Chunyu Lin, Kang Liao, Chunjie Zhang, Yao Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Progressively_Complementary_Network_for_Fisheye_Image_Rectification_Using_Appearance_Flow_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2676",
+      "paper_id": "",
+      "title": "Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation",
+      "authors": "Haotong Lin, Sida Peng, Jingxiao Chen, Songyou Peng, Jiaming Sun, Minghuan Liu, Hujun Bao, Jiashi Feng, Xiaowei Zhou, Bingyi Kang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Prompting_Depth_Anything_for_4K_Resolution_Accurate_Metric_Depth_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_302",
+      "paper_id": "",
+      "title": "PSMNet: Position-Aware Stereo Merging Network for Room Layout Estimation",
+      "authors": "Haiyan Wang, Will Hutchcroft, Yuguang Li, Zhiqiang Wan, Ivaylo Boyadzhiev, Yingli Tian, Sing Bing Kang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PSMNet_Position-Aware_Stereo_Merging_Network_for_Room_Layout_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2010",
+      "paper_id": "",
+      "title": "QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge",
+      "authors": "Xuan Shen, Weize Ma, Jing Liu, Changdi Yang, Rui Ding, Quanyi Wang, Henghui Ding, Wei Niu, Yanzhi Wang, Pu Zhao, Jun Lin, Jiuxiang Gu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_QuartDepth_Post-Training_Quantization_for_Real-Time_Depth_Estimation_on_the_Edge_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_629",
+      "paper_id": "",
+      "title": "RayMVSNet: Learning Ray-Based 1D Implicit Fields for Accurate Multi-View Stereo",
+      "authors": "Junhua Xi, Yifei Shi, Yijie Wang, Yulan Guo, Kai Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xi_RayMVSNet_Learning_Ray-Based_1D_Implicit_Fields_for_Accurate_Multi-View_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1619",
+      "paper_id": "",
+      "title": "Real-Time Sphere Sweeping Stereo From Multiview Fisheye Images",
+      "authors": "Andreas Meuleman, Hyeonjoong Jang, Daniel S. Jeon, Min H. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Meuleman_Real-Time_Sphere_Sweeping_Stereo_From_Multiview_Fisheye_Images_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_346",
+      "paper_id": "",
+      "title": "Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification",
+      "authors": "Rui Gong, Kim-Hui Yap, Weide Liu, Xulei Yang, Jun Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gong_Rectification-specific_Supervision_and_Constrained_Estimator_for_Online_Stereo_Rectification_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_116",
+      "paper_id": "",
+      "title": "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation",
+      "authors": "Bingxin Ke, Anton Obukhov, Shengyu Huang, Nando Metzger, Rodrigo Caye Daudt, Konrad Schindler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ke_Repurposing_Diffusion-Based_Image_Generators_for_Monocular_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_677",
+      "paper_id": "",
+      "title": "Residential Floor Plan Recognition and Reconstruction",
+      "authors": "Xiaolei Lv, Shengchu Zhao, Xinyang Yu, Binqiang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Residential_Floor_Plan_Recognition_and_Reconstruction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_613",
+      "paper_id": "",
+      "title": "Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation",
+      "authors": "Rui Peng, Rongjie Wang, Zhenyu Wang, Yawen Lai, Ronggang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_Rethinking_Depth_Estimation_for_Multi-View_Stereo_A_Unified_Representation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_600",
+      "paper_id": "",
+      "title": "Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation",
+      "authors": "Hang Du, Xuejun Yan, Jingjing Wang, Di Xie, Shiliang Pu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Rethinking_the_Approximation_Error_in_3D_Surface_Fitting_for_Point_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1265",
+      "paper_id": "",
+      "title": "Revisiting Document Image Dewarping by Grid Regularization",
+      "authors": "Xiangwei Jiang, Rujiao Long, Nan Xue, Zhibo Yang, Cong Yao, Gui-Song Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1838",
+      "paper_id": "",
+      "title": "Revisiting Domain Generalized Stereo Matching Networks From a Feature Consistency Perspective",
+      "authors": "Jiawei Zhang, Xiang Wang, Xiao Bai, Chen Wang, Lei Huang, Yimin Chen, Lin Gu, Jun Zhou, Tatsuya Harada, Edwin R. Hancock",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Revisiting_Domain_Generalized_Stereo_Matching_Networks_From_a_Feature_Consistency_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_899",
+      "paper_id": "",
+      "title": "RGB-Depth Fusion GAN for Indoor Depth Completion",
+      "authors": "Haowen Wang, Mingyuan Wang, Zhengping Che, Zhiyuan Xu, Xiuquan Qiao, Mengshi Qi, Feifei Feng, Jian Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_2064",
+      "paper_id": "",
+      "title": "RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation",
+      "authors": "Fabio Tosi, Pierluigi Zama Ramirez, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tosi_RGB-Multispectral_Matching_Dataset_Learning_Methodology_Evaluation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_174",
+      "paper_id": "",
+      "title": "RIAV-MVS: Recurrent-Indexing an Asymmetric Volume for Multi-View Stereo",
+      "authors": "Changjiang Cai, Pan Ji, Qingan Yan, Yi Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_RIAV-MVS_Recurrent-Indexing_an_Asymmetric_Volume_for_Multi-View_Stereo_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_65",
+      "paper_id": "",
+      "title": "RM-Depth: Unsupervised Learning of Recurrent Monocular Depth in Dynamic Scenes",
+      "authors": "Tak-Wai Hui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hui_RM-Depth_Unsupervised_Learning_of_Recurrent_Monocular_Depth_in_Dynamic_Scenes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1460",
+      "paper_id": "",
+      "title": "Robust Consistent Video Depth Estimation",
+      "authors": "Johannes Kopf, Xuejian Rong, Jia-Bin Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kopf_Robust_Consistent_Video_Depth_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2273",
+      "paper_id": "",
+      "title": "Robust Depth Enhancement via Polarization Prompt Fusion Tuning",
+      "authors": "Kei Ikemura, Yiming Huang, Felix Heide, Zhaoxiang Zhang, Qifeng Chen, Chenyang Lei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ikemura_Robust_Depth_Enhancement_via_Polarization_Prompt_Fusion_Tuning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2153",
+      "paper_id": "",
+      "title": "Robust Synthetic-to-Real Transfer for Stereo Matching",
+      "authors": "Jiawei Zhang, Jiahe Li, Lei Huang, Xiaohan Yu, Lin Gu, Jin Zheng, Xiao Bai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Robust_Synthetic-to-Real_Transfer_for_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_966",
+      "paper_id": "",
+      "title": "S2R-DepthNet: Learning a Generalizable Depth-Specific Structural Representation",
+      "authors": "Xiaotian Chen, Yuwang Wang, Xuejin Chen, Wenjun Zeng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_S2R-DepthNet_Learning_a_Generalizable_Depth-Specific_Structural_Representation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_922",
+      "paper_id": "",
+      "title": "S3: Learnable Sparse Signal Superdensity for Guided Depth Estimation",
+      "authors": "Yu-Kai Huang, Yueh-Cheng Liu, Tsung-Han Wu, Hung-Ting Su, Yu-Cheng Chang, Tsung-Lin Tsou, Yu-An Wang, Winston H. Hsu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1789",
+      "paper_id": "",
+      "title": "Scalable Autoregressive Monocular Depth Estimation",
+      "authors": "Jinhong Wang, Jian Liu, Dongqi Tang, Weiqiang Wang, Wentong Li, Danny Chen, Jintai Chen, Jian Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Scalable_Autoregressive_Monocular_Depth_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1857",
+      "paper_id": "",
+      "title": "Seg2Reg: Differentiable 2D Segmentation to 1D Regression Rendering for 360 Room Layout Reconstruction",
+      "authors": "Cheng Sun, Wei-En Tai, Yu-Lin Shih, Kuan-Wei Chen, Yong-Jing Syu, Kent Selwyn The, Yu-Chiang Frank Wang, Hwann-Tzong Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Seg2Reg_Differentiable_2D_Segmentation_to_1D_Regression_Rendering_for_360_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_952",
+      "paper_id": "",
+      "title": "Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching",
+      "authors": "Xianqi Wang, Gangwei Xu, Hao Jia, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Selective-Stereo_Adaptive_Frequency_Information_Selection_for_Stereo_Matching_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_822",
+      "paper_id": "",
+      "title": "Self-Supervised Learning of Depth Inference for Multi-View Stereo",
+      "authors": "Jiayu Yang, Jose M. Alvarez, Miaomiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Self-Supervised_Learning_of_Depth_Inference_for_Multi-View_Stereo_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_461",
+      "paper_id": "",
+      "title": "Self-Supervised Super-Plane for Neural 3D Reconstruction",
+      "authors": "Botao Ye, Sifei Liu, Xueting Li, Ming-Hsuan Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Self-Supervised_Super-Plane_for_Neural_3D_Reconstruction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_967",
+      "paper_id": "",
+      "title": "Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer",
+      "authors": "Fushun Zhu, Shan Zhao, Peng Wang, Hao Wang, Hua Yan, Shuaicheng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Semi-Supervised_Wide-Angle_Portraits_Correction_by_Multi-Scale_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_73",
+      "paper_id": "",
+      "title": "Seurat: From Moving Points to Depth",
+      "authors": "Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_Seurat_From_Moving_Points_to_Depth_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1580",
+      "paper_id": "",
+      "title": "SfM-TTR: Using Structure From Motion for Test-Time Refinement of Single-View Depth Networks",
+      "authors": "Sergio Izquierdo, Javier Civera",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Izquierdo_SfM-TTR_Using_Structure_From_Motion_for_Test-Time_Refinement_of_Single-View_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_202",
+      "paper_id": "",
+      "title": "Shading Meets Motion: Self-supervised Indoor 3D Reconstruction Via Simultaneous Shape-from-Shading and Structure-from-Motion",
+      "authors": "Guoyu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_Shading_Meets_Motion_Self-supervised_Indoor_3D_Reconstruction_Via_Simultaneous_Shape-from-Shading_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1447",
+      "paper_id": "",
+      "title": "SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation",
+      "authors": "Duc-Hai Pham, Tung Do, Phong Nguyen, Binh-Son Hua, Khoi Nguyen, Rang Nguyen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Pham_SharpDepth_Sharpening_Metric_Depth_Predictions_Using_Diffusion_Distillation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1300",
+      "paper_id": "",
+      "title": "SHS-Net: Learning Signed Hyper Surfaces for Oriented Normal Estimation of Point Clouds",
+      "authors": "Qing Li, Huifang Feng, Kanle Shi, Yue Gao, Yi Fang, Yu-Shen Liu, Zhizhong Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SHS-Net_Learning_Signed_Hyper_Surfaces_for_Oriented_Normal_Estimation_of_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_786",
+      "paper_id": "",
+      "title": "Single Image Depth Prediction Made Better: A Multivariate Gaussian Take",
+      "authors": "Ce Liu, Suryansh Kumar, Shuhang Gu, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Single_Image_Depth_Prediction_Made_Better_A_Multivariate_Gaussian_Take_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_337",
+      "paper_id": "",
+      "title": "Single Image Depth Prediction With Wavelet Decomposition",
+      "authors": "Michael Ramamonjisoa, Michael Firman, Jamie Watson, Vincent Lepetit, Daniyar Turmukhambetov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ramamonjisoa_Single_Image_Depth_Prediction_With_Wavelet_Decomposition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_798",
+      "paper_id": "",
+      "title": "Single Pair Cross-Modality Super Resolution",
+      "authors": "Guy Shacht, Dov Danon, Sharon Fogel, Daniel Cohen-Or",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shacht_Single_Pair_Cross-Modality_Super_Resolution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_983",
+      "paper_id": "",
+      "title": "Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures With Uncalibrated Stereo Data",
+      "authors": "Nikolay Patakin, Anna Vorontsova, Mikhail Artemyev, Anton Konushin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Patakin_Single-Stage_3D_Geometry-Preserving_Depth_Estimation_Model_Training_on_Dataset_Mixtures_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1388",
+      "paper_id": "",
+      "title": "SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos",
+      "authors": "Yuzheng Liu, Siyan Dong, Shuzhe Wang, Yingda Yin, Yanchao Yang, Qingnan Fan, Baoquan Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SLAM3R_Real-Time_Dense_Scene_Reconstruction_from_Monocular_RGB_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_62",
+      "paper_id": "",
+      "title": "SliceNet: Deep Dense Depth Estimation From a Single Indoor Panorama Using a Slice-Based Representation",
+      "authors": "Giovanni Pintore, Marco Agus, Eva Almansa, Jens Schneider, Enrico Gobbetti",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Pintore_SliceNet_Deep_Dense_Depth_Estimation_From_a_Single_Indoor_Panorama_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1286",
+      "paper_id": "",
+      "title": "SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis",
+      "authors": "Anastasiia Kornilova, Marsel Faizullin, Konstantin Pakulev, Andrey Sadkov, Denis Kukushkin, Azat Akhmetyanov, Timur Akhtyamov, Hekmat Taherinejad, Gonzalo Ferrer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kornilova_SmartPortraits_Depth_Powered_Handheld_Smartphone_Dataset_of_Human_Portraits_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1101",
+      "paper_id": "",
+      "title": "SMD-Nets: Stereo Mixture Density Networks",
+      "authors": "Fabio Tosi, Yiyi Liao, Carolin Schmitt, Andreas Geiger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tosi_SMD-Nets_Stereo_Mixture_Density_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1646",
+      "paper_id": "",
+      "title": "SNI-SLAM: Semantic Neural Implicit SLAM",
+      "authors": "Siting Zhu, Guangming Wang, Hermann Blum, Jiuming Liu, Liang Song, Marc Pollefeys, Hesheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SNI-SLAM_Semantic_Neural_Implicit_SLAM_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_193",
+      "paper_id": "",
+      "title": "Sparse Auxiliary Networks for Unified Monocular Depth Prediction and Completion",
+      "authors": "Vitor Guizilini, Rares Ambrus, Wolfram Burgard, Adrien Gaidon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Guizilini_Sparse_Auxiliary_Networks_for_Unified_Monocular_Depth_Prediction_and_Completion_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2218",
+      "paper_id": "",
+      "title": "SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input",
+      "authors": "Zhen Lv, Yangqi Long, Congzhentao Huang, Cao Li, Chengfei Lv, Hao Ren, Dian Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lv_SpatialDreamer_Self-supervised_Stereo_Video_Synthesis_from_Monocular_Input_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1418",
+      "paper_id": "",
+      "title": "SphereSR: 360deg Image Super-Resolution With Arbitrary Projection via Continuous Spherical Image Representation",
+      "authors": "Youngho Yoon, Inchul Chung, Lin Wang, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yoon_SphereSR_360deg_Image_Super-Resolution_With_Arbitrary_Projection_via_Continuous_Spherical_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_211",
+      "paper_id": "",
+      "title": "SphereUFormer: A U-Shaped Transformer for Spherical 360 Perception",
+      "authors": "Yaniv Benny, Lior Wolf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Benny_SphereUFormer_A_U-Shaped_Transformer_for_Spherical_360_Perception_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1162",
+      "paper_id": "",
+      "title": "SSLayout360: Semi-Supervised Indoor Layout Estimation From 360deg Panorama",
+      "authors": "Phi Vu Tran",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1582",
+      "paper_id": "",
+      "title": "Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail",
+      "authors": "Luca Bartolomei, Fabio Tosi, Matteo Poggi, Stefano Mattoccia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bartolomei_Stereo_Anywhere_Robust_Zero-Shot_Deep_Stereo_Matching_Even_Where_Either_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_2018",
+      "paper_id": "",
+      "title": "Stereoscopic Universal Perturbations Across Different Architectures and Datasets",
+      "authors": "Zachary Berger, Parth Agrawal, Tian Yu Liu, Stefano Soatto, Alex Wong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Berger_Stereoscopic_Universal_Perturbations_Across_Different_Architectures_and_Datasets_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2180",
+      "paper_id": "",
+      "title": "Structure-from-Motion with a Non-Parametric Camera Model",
+      "authors": "Yihan Wang, Linfei Pan, Marc Pollefeys, Viktor Larsson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Structure-from-Motion_with_a_Non-Parametric_Camera_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1157",
+      "paper_id": "",
+      "title": "StruMonoNet: Structure-Aware Monocular 3D Prediction",
+      "authors": "Zhenpei Yang, Li Erran Li, Qixing Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_StruMonoNet_Structure-Aware_Monocular_3D_Prediction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1625",
+      "paper_id": "",
+      "title": "Super-Fibonacci Spirals: Fast, Low-Discrepancy Sampling of SO(3)",
+      "authors": "Marc Alexa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Alexa_Super-Fibonacci_Spirals_Fast_Low-Discrepancy_Sampling_of_SO3_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1444",
+      "paper_id": "",
+      "title": "SuperPrimitive: Scene Reconstruction at a Primitive Level",
+      "authors": "Kirill Mazur, Gwangbin Bae, Andrew J. Davison",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mazur_SuperPrimitive_Scene_Reconstruction_at_a_Primitive_Level_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1983",
+      "paper_id": "",
+      "title": "SVDC: Consistent Direct Time-of-Flight Video Depth Completion with Frequency Selective Fusion",
+      "authors": "Xuan Zhu, Jijun Xiang, Xianqi Wang, Longliang Liu, Yu Wang, Hong Zhang, Fei Guo, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SVDC_Consistent_Direct_Time-of-Flight_Video_Depth_Completion_with_Frequency_Selective_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1585",
+      "paper_id": "",
+      "title": "Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors",
+      "authors": "Weilong Yan, Ming Li, Haipeng Li, Shuwei Shao, Robby T. Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_Synthetic-to-Real_Self-supervised_Robust_Depth_Estimation_via_Learning_with_Motion_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_873",
+      "paper_id": "",
+      "title": "Temporally Consistent Online Depth Estimation Using Point-Based Fusion",
+      "authors": "Numair Khan, Eric Penner, Douglas Lanman, Lei Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Khan_Temporally_Consistent_Online_Depth_Estimation_Using_Point-Based_Fusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1985",
+      "paper_id": "",
+      "title": "The Implicit Values of a Good Hand Shake: Handheld Multi-Frame Neural Depth Refinement",
+      "authors": "Ilya Chugunov, Yuxuan Zhang, Zhihao Xia, Xuaner Zhang, Jiawen Chen, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chugunov_The_Implicit_Values_of_a_Good_Hand_Shake_Handheld_Multi-Frame_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1309",
+      "paper_id": "",
+      "title": "The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth",
+      "authors": "Jamie Watson, Oisin Mac Aodha, Victor Prisacariu, Gabriel Brostow, Michael Firman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Watson_The_Temporal_Opportunist_Self-Supervised_Multi-Frame_Monocular_Depth_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1081",
+      "paper_id": "",
+      "title": "Toward Practical Monocular Indoor Depth Estimation",
+      "authors": "Cho-Ying Wu, Jialiang Wang, Michael Hall, Ulrich Neumann, Shuochen Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Toward_Practical_Monocular_Indoor_Depth_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_424",
+      "paper_id": "",
+      "title": "Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline",
+      "authors": "Lingzhi He, Hongguang Zhu, Feng Li, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, Yao Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2387",
+      "paper_id": "",
+      "title": "Towards In-the-wild 3D Plane Reconstruction from a Single Image",
+      "authors": "Jiachen Liu, Rui Yu, Sili Chen, Sharon X. Huang, Hengkai Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Towards_In-the-wild_3D_Plane_Reconstruction_from_a_Single_Image_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1192",
+      "paper_id": "",
+      "title": "TransMVSNet: Global Context-Aware Multi-View Stereo Network With Transformers",
+      "authors": "Yikang Ding, Wentao Yuan, Qingtian Zhu, Haotian Zhang, Xiangyue Liu, Yuanjiang Wang, Xiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_TransMVSNet_Global_Context-Aware_Multi-View_Stereo_Network_With_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_989",
+      "paper_id": "",
+      "title": "Trap Attention: Monocular Depth Estimation With Manual Traps",
+      "authors": "Chao Ning, Hongping Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ning_Trap_Attention_Monocular_Depth_Estimation_With_Manual_Traps_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2021",
+      "paper_id": "",
+      "title": "Tri-Perspective View Decomposition for Geometry-Aware Depth Completion",
+      "authors": "Zhiqiang Yan, Yuankai Lin, Kun Wang, Yupeng Zheng, Yufei Wang, Zhenyu Zhang, Jun Li, Jian Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_Tri-Perspective_View_Decomposition_for_Geometry-Aware_Depth_Completion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1784",
+      "paper_id": "",
+      "title": "UniDepth: Universal Monocular Metric Depth Estimation",
+      "authors": "Luigi Piccinelli, Yung-Hsu Yang, Christos Sakaridis, Mattia Segu, Siyuan Li, Luc Van Gool, Fisher Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Piccinelli_UniDepth_Universal_Monocular_Metric_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_700",
+      "paper_id": "",
+      "title": "Uniform Subdivision of Omnidirectional Camera Space for Efficient Spherical Stereo Matching",
+      "authors": "Donghun Kang, Hyeonjoong Jang, Jungeon Lee, Chong-Min Kyung, Min H. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Uniform_Subdivision_of_Omnidirectional_Camera_Space_for_Efficient_Spherical_Stereo_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1137",
+      "paper_id": "",
+      "title": "UniK3D: Universal Camera Monocular 3D Estimation",
+      "authors": "Luigi Piccinelli, Christos Sakaridis, Mattia Segu, Yung-Hsu Yang, Siyuan Li, Wim Abbeloos, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Piccinelli_UniK3D_Universal_Camera_Monocular_3D_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_617",
+      "paper_id": "",
+      "title": "Unsupervised Deep Asymmetric Stereo Matching With Spatially-Adaptive Self-Similarity",
+      "authors": "Taeyong Song, Sunok Kim, Kwanghoon Sohn",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Unsupervised_Deep_Asymmetric_Stereo_Matching_With_Spatially-Adaptive_Self-Similarity_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2262",
+      "paper_id": "",
+      "title": "VGGSfM: Visual Geometry Grounded Deep Structure From Motion",
+      "authors": "Jianyuan Wang, Nikita Karaev, Christian Rupprecht, David Novotny",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_VGGSfM_Visual_Geometry_Grounded_Deep_Structure_From_Motion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_750",
+      "paper_id": "",
+      "title": "VGGT: Visual Geometry Grounded Transformer",
+      "authors": "Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_719",
+      "paper_id": "",
+      "title": "Video Depth Anything: Consistent Depth Estimation for Super-Long Videos",
+      "authors": "Sili Chen, Hengkai Guo, Shengnan Zhu, Feihu Zhang, Zilong Huang, Jiashi Feng, Bingyi Kang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Video_Depth_Anything_Consistent_Depth_Estimation_for_Super-Long_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2340",
+      "paper_id": "",
+      "title": "Video Depth without Video Models",
+      "authors": "Bingxin Ke, Dominik Narnhofer, Shengyu Huang, Lei Ke, Torben Peters, Katerina Fragkiadaki, Anton Obukhov, Konrad Schindler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ke_Video_Depth_without_Video_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_832",
+      "paper_id": "",
+      "title": "VisFusion: Visibility-Aware Online 3D Scene Reconstruction From Videos",
+      "authors": "Huiyu Gao, Wei Mao, Miaomiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_VisFusion_Visibility-Aware_Online_3D_Scene_Reconstruction_From_Videos_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2723",
+      "paper_id": "",
+      "title": "Vision-Language Embodiment for Monocular Depth Estimation",
+      "authors": "Jinchang Zhang, Guoyu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Vision-Language_Embodiment_for_Monocular_Depth_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1148",
+      "paper_id": "",
+      "title": "vMAP: Vectorised Object Mapping for Neural Field SLAM",
+      "authors": "Xin Kong, Shikun Liu, Marwan Taher, Andrew J. Davison",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kong_vMAP_Vectorised_Object_Mapping_for_Neural_Field_SLAM_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1503",
+      "paper_id": "",
+      "title": "Wide-Angle Rectification via Content-Aware Conformal Mapping",
+      "authors": "Qi Zhang, Hongdong Li, Qing Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Wide-Angle_Rectification_via_Content-Aware_Conformal_Mapping_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_613",
+      "paper_id": "",
+      "title": "WorDepth: Variational Language Prior for Monocular Depth Estimation",
+      "authors": "Ziyao Zeng, Daniel Wang, Fengyu Yang, Hyoungseob Park, Stefano Soatto, Dong Lao, Alex Wong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_WorDepth_Variational_Language_Prior_for_Monocular_Depth_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_447",
+      "paper_id": "",
+      "title": "Zillow Indoor Dataset: Annotated Floor Plans With 360deg Panoramas and 3D Room Layouts",
+      "authors": "Steve Cruz, Will Hutchcroft, Yuguang Li, Naji Khosravan, Ivaylo Boyadzhiev, Sing Bing Kang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    }
+  ]
+}

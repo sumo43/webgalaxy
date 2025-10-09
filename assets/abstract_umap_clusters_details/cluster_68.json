@@ -1,0 +1,3909 @@
+{
+  "cluster_id": 68,
+  "papers": [
+    {
+      "id": "iclr23_oztkQizr3kk",
+      "paper_id": "oztkQizr3kk",
+      "title": "$\\Lambda$-DARTS: Mitigating Performance Collapse by Harmonizing Operation Selection among Cells",
+      "authors": "Sajad Movahedi, Melika Adabinejad, Ayyoob Imani, Arezou Keshavarz, Mostafa Dehghani, Azadeh Shakery, Babak N Araabi",
+      "paper_url": "https://openreview.net/pdf/f18d77e73348d1310d4316feb6fe8272a357042e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_thbtoAkCe9",
+      "paper_id": "thbtoAkCe9",
+      "title": "$\\mathbb{D}^2$ Pruning: Message Passing for Balancing Diversity & Difficulty in Data Pruning",
+      "authors": "Adyasha Maharana, Prateek Yadav, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=thbtoAkCe9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_shpkpVXzo3h",
+      "paper_id": "shpkpVXzo3h",
+      "title": "8-bit Optimizers via Block-wise Quantization",
+      "authors": "Tim Dettmers, Mike Lewis, Sam Shleifer, Luke Zettlemoyer",
+      "paper_url": "https://openreview.net/pdf/eae16788bf15e102fb9f104d044c6dff582683f4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_6zaTwpNSsQ2",
+      "paper_id": "6zaTwpNSsQ2",
+      "title": "A Block Minifloat Representation for Training Deep Neural Networks",
+      "authors": "Sean Fox, Seyedramin Rasoulinezhad, Julian Faraone, david boland, Philip Leong",
+      "paper_url": "https://openreview.net/pdf/7ed682ba5c220f98e96984a0b3bb08ed91c59ce7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_GMgHyUPrXa",
+      "paper_id": "GMgHyUPrXa",
+      "title": "A Design Space Study for LISTA and Beyond",
+      "authors": "Tianjian Meng, Xiaohan Chen, Yifan Jiang, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/f6321fc76124be68a636149a64dea811815c73a0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_wXgk_iCiYGo",
+      "paper_id": "wXgk_iCiYGo",
+      "title": "A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima",
+      "authors": "Zeke Xie, Issei Sato, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf/8d09cb383c404f3ef7a8782e7e20297845235b60.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_-_Zp7r2-cGK",
+      "paper_id": "-_Zp7r2-cGK",
+      "title": "A Discriminative Gaussian Mixture Model with Sparsity",
+      "authors": "Hideaki Hayashi, Seiichi Uchida",
+      "paper_url": "https://openreview.net/pdf/6fecf8af857ca0e108abee0d2dd9710cf7c3ad37.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_BlkxbI6vzl",
+      "paper_id": "BlkxbI6vzl",
+      "title": "A Fast and Provable Algorithm for Sparse Phase Retrieval",
+      "authors": "Jian-Feng CAI, Yu Long, Ruixue WEN, Jiaxi Ying",
+      "paper_url": "https://openreview.net/pdf?id=BlkxbI6vzl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_R332S76RjxS",
+      "paper_id": "R332S76RjxS",
+      "title": "A global convergence theory for deep ReLU implicit networks via over-parameterization",
+      "authors": "Tianxiang Gao, Hailiang Liu, Jia Liu, Hridesh Rajan, Hongyang Gao",
+      "paper_url": "https://openreview.net/pdf/3a9349bc7a2ee29f29061dc2aa3664f9d3bed2ed.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_rumv7QmLUue",
+      "paper_id": "rumv7QmLUue",
+      "title": "A Gradient Flow Framework For Analyzing Network Pruning",
+      "authors": "Ekdeep Singh Lubana, Robert P. Dick",
+      "paper_url": "https://openreview.net/pdf/63800abe280bf68010c0dc83d2d4d40dc80e496a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_YX0lrvdPQc",
+      "paper_id": "YX0lrvdPQc",
+      "title": "A Johnson-Lindenstrauss Framework for Randomly Initialized CNNs",
+      "authors": "Ido Nachum, Jan Hazla, Michael Gastpar, Anatoly Khina",
+      "paper_url": "https://openreview.net/pdf/e5dd1cf8cfc1ee79c13925ef1a7839e92785b7ab.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_6H_uOfcwiVh",
+      "paper_id": "6H_uOfcwiVh",
+      "title": "A Kernel Perspective of Skip Connections in Convolutional Networks",
+      "authors": "Daniel Barzilai, Amnon Geifman, Meirav Galun, Ronen Basri",
+      "paper_url": "https://openreview.net/pdf/d02ce0a1fbf33b0f5c0f942e925ba67c6bcfaab5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_OcKMT-36vUs",
+      "paper_id": "OcKMT-36vUs",
+      "title": "A Loss Curvature Perspective on Training Instabilities of Deep Learning Models",
+      "authors": "Justin Gilmer, Behrooz Ghorbani, Ankush Garg, Sneha Kudugunta, Behnam Neyshabur, David Cardoze, George Edward Dahl, Zachary Nado, Orhan Firat",
+      "paper_url": "https://openreview.net/pdf/0e01902abf6d0c88e31b87ec9ca863b66ac6e85c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_vUH85MOXO7h",
+      "paper_id": "vUH85MOXO7h",
+      "title": "A Neural Tangent Kernel Perspective of Infinite Tree Ensembles",
+      "authors": "Ryuichi Kanoh, Mahito Sugiyama",
+      "paper_url": "https://openreview.net/pdf/39b3d2b8700abc51932e7eea69ff8d0868dc2be8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_bH-kCY6LdKg",
+      "paper_id": "bH-kCY6LdKg",
+      "title": "A new characterization of the edge of stability based on a sharpness measure aware of batch gradient distribution",
+      "authors": "Sungyoon Lee, Cheongjae Jang",
+      "paper_url": "https://openreview.net/pdf/aff9dfed9a6951af8497a002a9fbee60300ff25b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_bZJbzaj_IlP",
+      "paper_id": "bZJbzaj_IlP",
+      "title": "A NON-PARAMETRIC REGRESSION VIEWPOINT : GENERALIZATION OF OVERPARAMETRIZED DEEP RELU NETWORK UNDER NOISY OBSERVATIONS",
+      "authors": "Namjoon Suh, Hyunouk Ko, Xiaoming Huo",
+      "paper_url": "https://openreview.net/pdf/7375bfe36d699ee163cb7e9a3dde320908fe2afb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_g52tgL8jy6",
+      "paper_id": "g52tgL8jy6",
+      "title": "A Progressive Training Framework for Spiking Neural Networks with Learnable Multi-hierarchical Model",
+      "authors": "Zecheng Hao, Xinyu Shi, Zihan Huang, Tong Bu, Zhaofei Yu, Tiejun Huang",
+      "paper_url": "https://openreview.net/pdf?id=g52tgL8jy6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_wMpS-Z_AI_E",
+      "paper_id": "wMpS-Z_AI_E",
+      "title": "A Theoretical Analysis on Feature Learning in Neural Networks: Emergence from Inputs and Advantage over Fixed Features",
+      "authors": "Zhenmei Shi, Junyi Wei, Yingyu Liang",
+      "paper_url": "https://openreview.net/pdf/9c506df8cb3b84afcbc08295792409a5a61c3f40.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_WttfQGwpES",
+      "paper_id": "WttfQGwpES",
+      "title": "A Theoretical Perspective: How to Prevent Model Collapse in Self-consuming Training Loops",
+      "authors": "Shi Fu, Yingjie Wang, Yuzhu Chen, Xinmei Tian, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=WttfQGwpES",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_k71IGLC8cfc",
+      "paper_id": "k71IGLC8cfc",
+      "title": "A Unified Algebraic Perspective on Lipschitz Neural Networks",
+      "authors": "Alexandre Araujo, Aaron J Havens, Blaise Delattre, Alexandre Allauzen, Bin Hu",
+      "paper_url": "https://openreview.net/pdf/0db46e14af869da0146f16c3a0b546c42c16ac4a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_cCFqcrq0d8",
+      "paper_id": "cCFqcrq0d8",
+      "title": "A Unified Framework for Soft Threshold Pruning",
+      "authors": "Yanqi Chen, Zhengyu Ma, Wei Fang, Xiawu Zheng, Zhaofei Yu, Yonghong Tian",
+      "paper_url": "https://openreview.net/pdf/41e585b2744d3953cd611130faae8255fe601915.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_ZsZM-4iMQkH",
+      "paper_id": "ZsZM-4iMQkH",
+      "title": "A unifying view on implicit bias in training linear neural networks",
+      "authors": "Chulhee Yun, Shankar Krishnan, Hossein Mobahi",
+      "paper_url": "https://openreview.net/pdf/7592938b320208bd563349d1ea3385dd9e80cbe6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_JDm7oIcx4Y",
+      "paper_id": "JDm7oIcx4Y",
+      "title": "Accelerated training through iterative gradient propagation along the residual path",
+      "authors": "Erwan Fagnou, Paul Caillon, Blaise Delattre, Alexandre Allauzen",
+      "paper_url": "https://openreview.net/pdf?id=JDm7oIcx4Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CtM5xjRSfm",
+      "paper_id": "CtM5xjRSfm",
+      "title": "Accelerating neural network training: An analysis of the AlgoPerf competition",
+      "authors": "Priya Kasimbeg, Frank Schneider, Runa Eschenhagen, Juhan Bae, Chandramouli Shama Sastry, Mark Saroufim, BOYUAN FENG, Less Wright, Edward Z. Yang, Zachary Nado, Sourabh Medapati, Philipp Hennig, Michael Rabbat, George E. Dahl",
+      "paper_url": "https://openreview.net/pdf?id=CtM5xjRSfm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_yTbNYYcopd",
+      "paper_id": "yTbNYYcopd",
+      "title": "Accurate Neural Training with 4-bit Matrix Multiplications at Standard Formats",
+      "authors": "Brian Chmiel, Ron Banner, Elad Hoffer, Hilla Ben-Yaacov, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf/e5f2b958cc1c812deb41ca2474b7f0592c3f7603.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_hfUJ4ShyDEU",
+      "paper_id": "hfUJ4ShyDEU",
+      "title": "Achieve the Minimum Width of Neural Networks for Universal Approximation",
+      "authors": "Yongqiang Cai",
+      "paper_url": "https://openreview.net/pdf/ba2d19bc5e6a62f1fb01d4bd5f2e73fabbc2a98e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_Iz3zU3M316D",
+      "paper_id": "Iz3zU3M316D",
+      "title": "AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights",
+      "authors": "Byeongho Heo, Sanghyuk Chun, Seong Joon Oh, Dongyoon Han, Sangdoo Yun, Gyuwan Kim, Youngjung Uh, Jung-Woo Ha",
+      "paper_url": "https://openreview.net/pdf/b3d064c86ebe3e60b1df68fff70ee335af15d5af.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_wpnlc2ONu0",
+      "paper_id": "wpnlc2ONu0",
+      "title": "Adaptive deep spiking neural network with global-local learning via balanced excitatory and inhibitory mechanism",
+      "authors": "Tingting Jiang, Qi Xu, Xuming Ran, Jiangrong Shen, Pan Lv, Qiang Zhang, Gang Pan",
+      "paper_url": "https://openreview.net/pdf?id=wpnlc2ONu0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_QFYVVwiAM8",
+      "paper_id": "QFYVVwiAM8",
+      "title": "Adaptive Sharpness-Aware Pruning for Robust Sparse Networks",
+      "authors": "Anna Bair, Hongxu Yin, Maying Shen, Pavlo Molchanov, Jose M. Alvarez",
+      "paper_url": "https://openreview.net/pdf?id=QFYVVwiAM8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_EnrY5TOrbQ",
+      "paper_id": "EnrY5TOrbQ",
+      "title": "Agnostic Learning of General ReLU Activation Using Gradient Descent",
+      "authors": "Pranjal Awasthi, Alex Tang, Aravindan Vijayaraghavan",
+      "paper_url": "https://openreview.net/pdf/b9d906693f00f15cfe7616ab7519953cb21895c4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_YrTI2Zu0dd",
+      "paper_id": "YrTI2Zu0dd",
+      "title": "An Agnostic View on the Cost of Overfitting in (Kernel) Ridge Regression",
+      "authors": "Lijia Zhou, James B Simon, Gal Vardi, Nathan Srebro",
+      "paper_url": "https://openreview.net/pdf?id=YrTI2Zu0dd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_-CoNloheTs",
+      "paper_id": "-CoNloheTs",
+      "title": "An Exact Poly-Time Membership-Queries Algorithm for Extracting a Three-Layer ReLU Network",
+      "authors": "Amit Daniely, Elad Granot",
+      "paper_url": "https://openreview.net/pdf/9e485cce01d880d423fc6e5af2b45fb1883847e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_pWBNOgdeURp",
+      "paper_id": "pWBNOgdeURp",
+      "title": "An Operator Theoretic View On Pruning Deep Neural Networks",
+      "authors": "William T Redman, MARIA FONOBEROVA, Ryan Mohr, Yannis Kevrekidis, Igor Mezic",
+      "paper_url": "https://openreview.net/pdf/732335090e9773ee61b1e0375641a2c765eeaf33.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_WZ3yjh8coDg",
+      "paper_id": "WZ3yjh8coDg",
+      "title": "An Unconstrained Layer-Peeled Perspective on Neural Collapse",
+      "authors": "Wenlong Ji, Yiping Lu, Yiliang Zhang, Zhun Deng, Weijie J Su",
+      "paper_url": "https://openreview.net/pdf/8859a1d1fdfa5baf8756010e0ce23bf5d5ff920c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_V_06QV-kZX",
+      "paper_id": "V_06QV-kZX",
+      "title": "Analyzing Tree Architectures in Ensembles via Neural Tangent Kernel",
+      "authors": "Ryuichi Kanoh, Mahito Sugiyama",
+      "paper_url": "https://openreview.net/pdf/e5442b04b7f82d52b255f153d530ca1d87f27fd1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_JfaWawZ8BmX",
+      "paper_id": "JfaWawZ8BmX",
+      "title": "Anisotropic Random Feature Regression in High Dimensions",
+      "authors": "Gabriel Mel, Jeffrey Pennington",
+      "paper_url": "https://openreview.net/pdf/bc2ddad146bd93609c8510aac28ae824072d1832.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_lrocYB-0ST2",
+      "paper_id": "lrocYB-0ST2",
+      "title": "Approximation and Learning with Deep Convolutional Models: a Kernel Perspective",
+      "authors": "Alberto Bietti",
+      "paper_url": "https://openreview.net/pdf/35eeb8c9531f39eb14e07db8fb296d38b7f1a369.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_r90KYcuB7JS",
+      "paper_id": "r90KYcuB7JS",
+      "title": "Approximation and non-parametric estimation of functions over high-dimensional spheres via deep ReLU networks",
+      "authors": "Namjoon Suh, Tian-Yi Zhou, Xiaoming Huo",
+      "paper_url": "https://openreview.net/pdf/5889ac7aacf5a7265bdf58bff9ce06565f27fe79.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21__zx8Oka09eF",
+      "paper_id": "_zx8Oka09eF",
+      "title": "Are wider nets better given the same number of parameters?",
+      "authors": "Anna Golubeva, Guy Gur-Ari, Behnam Neyshabur",
+      "paper_url": "https://openreview.net/pdf/dc2756fb031ed3eea85d3a93b530a6c1f39d81d5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_WvOGCEAQhxl",
+      "paper_id": "WvOGCEAQhxl",
+      "title": "Assessing Generalization of SGD via Disagreement",
+      "authors": "Yiding Jiang, Vaishnavh Nagarajan, Christina Baek, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/c7e974d96a71d3095746891b113427e16a551bb3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_ZCStthyW-TD",
+      "paper_id": "ZCStthyW-TD",
+      "title": "Associative Memory Augmented Asynchronous Spatiotemporal Representation Learning for Event-based Perception",
+      "authors": "Uday Kamal, Saurabh Dash, Saibal Mukhopadhyay",
+      "paper_url": "https://openreview.net/pdf/5b3db5aabca57a5bd0c832c0a96cd9c75e9462bb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_tNn6Hskmti",
+      "paper_id": "tNn6Hskmti",
+      "title": "Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure",
+      "authors": "Samet Demir, Zafer Dogan",
+      "paper_url": "https://openreview.net/pdf?id=tNn6Hskmti",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_i9Vs5NGDpk",
+      "paper_id": "i9Vs5NGDpk",
+      "title": "Asymptotically Free Sketched Ridge Ensembles: Risks, Cross-Validation, and Tuning",
+      "authors": "Pratik Patil, Daniel LeJeune",
+      "paper_url": "https://openreview.net/pdf?id=i9Vs5NGDpk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_GQGNLEHmdl",
+      "paper_id": "GQGNLEHmdl",
+      "title": "AutoChunk: Automated Activation Chunk for Memory-Efficient Deep Learning Inference",
+      "authors": "Xuanlei Zhao, Shenggan Cheng, Guangyang LU, Haotian Zhou, Bin Jia, Yang You",
+      "paper_url": "https://openreview.net/pdf?id=GQGNLEHmdl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_cINwAhrgLf",
+      "paper_id": "cINwAhrgLf",
+      "title": "Aux-NAS: Exploiting Auxiliary Labels with Negligibly Extra Inference Cost",
+      "authors": "Yuan Gao, WEIZHONG ZHANG, Wenhan Luo, Lin Ma, Jin-Gang Yu, Gui-Song Xia, Jiayi Ma",
+      "paper_url": "https://openreview.net/pdf?id=cINwAhrgLf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_5BaqCFVh5qL",
+      "paper_id": "5BaqCFVh5qL",
+      "title": "Avoiding spurious correlations via logit correction",
+      "authors": "Sheng Liu, Xu Zhang, Nitesh Sekhar, Yue Wu, Prateek Singhal, Carlos Fernandez-Granda",
+      "paper_url": "https://openreview.net/pdf/095952d9a51005ef570d00c32d3a58989450f58f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_wOSYMHfENq",
+      "paper_id": "wOSYMHfENq",
+      "title": "Batch normalization is sufficient for universal function approximation in CNNs",
+      "authors": "Rebekka Burkholz",
+      "paper_url": "https://openreview.net/pdf?id=wOSYMHfENq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_O6znYvxC1U",
+      "paper_id": "O6znYvxC1U",
+      "title": "Bayesian Treatment of the Spectrum of the Empirical Kernel in (Sub)Linear-Width Neural Networks",
+      "authors": "Ouns El Harzli, Bernardo Cuenca Grau",
+      "paper_url": "https://openreview.net/pdf?id=O6znYvxC1U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_2m0g1wEafh",
+      "paper_id": "2m0g1wEafh",
+      "title": "Benefit of deep learning with non-convex noisy gradient descent: Provable excess risk bound and superiority to kernel methods",
+      "authors": "Taiji Suzuki, Shunta Akiyama",
+      "paper_url": "https://openreview.net/pdf/9698297c5705cc24f44b95ca9d67c8366730f110.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_BxHgpC6FNv",
+      "paper_id": "BxHgpC6FNv",
+      "title": "Benign Overfitting and Grokking in ReLU Networks for XOR Cluster Data",
+      "authors": "Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu",
+      "paper_url": "https://openreview.net/pdf?id=BxHgpC6FNv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_UrEwJebCxk",
+      "paper_id": "UrEwJebCxk",
+      "title": "Benign Overfitting in Classification: Provably Counter Label Noise with Larger Models",
+      "authors": "Kaiyue Wen, Jiaye Teng, Jingzhao Zhang",
+      "paper_url": "https://openreview.net/pdf/a5c1d6dcdd8cc221428ba2d2ca0ae27b5526f529.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_6jxUsDAdAu",
+      "paper_id": "6jxUsDAdAu",
+      "title": "Benign Overfitting in Out-of-Distribution Generalization of Linear Models",
+      "authors": "Shange Tang, Jiayun Wu, Jianqing Fan, Chi Jin",
+      "paper_url": "https://openreview.net/pdf?id=6jxUsDAdAu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_pOyi9KqE56b",
+      "paper_id": "pOyi9KqE56b",
+      "title": "Beyond Lipschitz: Sharp Generalization and Excess Risk Bounds for Full-Batch GD",
+      "authors": "Konstantinos Nikolakakis, Farzin Haddadpour, Amin Karbasi, Dionysios Kalogerias",
+      "paper_url": "https://openreview.net/pdf/3ca1646b10a5ac124c9577c056ea32c53da6db58.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_9QLRCVysdlO",
+      "paper_id": "9QLRCVysdlO",
+      "title": "BiPointNet: Binary Neural Network for Point Clouds",
+      "authors": "Haotong Qin, Zhongang Cai, Mingyuan Zhang, Yifu Ding, Haiyu Zhao, Shuai Yi, Xianglong Liu, Hao Su",
+      "paper_url": "https://openreview.net/pdf/62f2efb4dc751dae2aae03cda22f701192bfb771.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_YUDiZcZTI8",
+      "paper_id": "YUDiZcZTI8",
+      "title": "Bit-Pruning: A Sparse Multiplication-Less Dot-Product",
+      "authors": "Yusuke Sekikawa, Shingo Yashima",
+      "paper_url": "https://openreview.net/pdf/7d8fb966d54a91c95760a29ae834a67169e93baa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_VWm4o4l3V9e",
+      "paper_id": "VWm4o4l3V9e",
+      "title": "Block and Subword-Scaling Floating-Point (BSFP) : An Efficient Non-Uniform Quantization For Low Precision Inference",
+      "authors": "Yun-Chen Lo, Tse-Kuang Lee, Ren-Shuo Liu",
+      "paper_url": "https://openreview.net/pdf/f1e497711d6deb4a3d3385c8784c05ae56a0a3b2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_MtW30ql5Oj",
+      "paper_id": "MtW30ql5Oj",
+      "title": "BP-Modified Local Loss for Efficient Training of Deep Neural Networks",
+      "authors": "REN Lianhai, Qianxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=MtW30ql5Oj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0LSAmFCc4p",
+      "paper_id": "0LSAmFCc4p",
+      "title": "Brain-inspired $L_p$-Convolution benefits large kernels and aligns better with visual cortex",
+      "authors": "Jea Kwon, Sungjun Lim, Kyungwoo Song, C. Justin Lee",
+      "paper_url": "https://openreview.net/pdf?id=0LSAmFCc4p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_POWv6hDd9XH",
+      "paper_id": "POWv6hDd9XH",
+      "title": "BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction",
+      "authors": "Yuhang Li, Ruihao Gong, Xu Tan, Yang Yang, Peng Hu, Qi Zhang, Fengwei Yu, Wei Wang, Shi Gu",
+      "paper_url": "https://openreview.net/pdf/1d36f62d5b1b84de637026ab1c69e37fe5b20613.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_PFbzoWZyZRX",
+      "paper_id": "PFbzoWZyZRX",
+      "title": "Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes",
+      "authors": "Zecheng Hao, Jianhao Ding, Tong Bu, Tiejun Huang, Zhaofei Yu",
+      "paper_url": "https://openreview.net/pdf/42de109f414e67f76460868cbe626f2883ef913e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_TiXl51SCNw8",
+      "paper_id": "TiXl51SCNw8",
+      "title": "BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization",
+      "authors": "Huanrui Yang, Lin Duan, Yiran Chen, Hai Li",
+      "paper_url": "https://openreview.net/pdf/85f47585c645bbb6e9d4e2306480002404a37c22.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_CgPs04l9TO",
+      "paper_id": "CgPs04l9TO",
+      "title": "Butterfly Effects of SGD Noise: Error Amplification in Behavior Cloning and Autoregression",
+      "authors": "Adam Block, Dylan J Foster, Akshay Krishnamurthy, Max Simchowitz, Cyril Zhang",
+      "paper_url": "https://openreview.net/pdf?id=CgPs04l9TO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_is4nCVkSFA",
+      "paper_id": "is4nCVkSFA",
+      "title": "Can Neural Networks Achieve Optimal Computational-statistical Tradeoff? An Analysis on Single-Index Model",
+      "authors": "Siyu Chen, Beining Wu, Miao Lu, Zhuoran Yang, Tianhao Wang",
+      "paper_url": "https://openreview.net/pdf?id=is4nCVkSFA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_lGUyAuuTYZ",
+      "paper_id": "lGUyAuuTYZ",
+      "title": "Can we get the best of both Binary Neural Networks and Spiking Neural Networks for Efficient Computer Vision?",
+      "authors": "Gourav Datta, Zeyu Liu, Peter Anthony Beerel",
+      "paper_url": "https://openreview.net/pdf?id=lGUyAuuTYZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_5bNYf0CqxY",
+      "paper_id": "5bNYf0CqxY",
+      "title": "Certified Adversarial Robustness for Rate Encoded Spiking Neural Networks",
+      "authors": "Bhaskar Mukhoty, Hilal AlQuabeh, Giulia De Masi, Huan Xiong, Bin Gu",
+      "paper_url": "https://openreview.net/pdf?id=5bNYf0CqxY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_IX3Nnir2omJ",
+      "paper_id": "IX3Nnir2omJ",
+      "title": "Characterizing signal propagation to close the performance gap in unnormalized ResNets",
+      "authors": "Andrew Brock, Soham De, Samuel L Smith",
+      "paper_url": "https://openreview.net/pdf/796f0f646a7dc728f2d8d89bc6d55288c9457889.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Tvms8xrZHyR",
+      "paper_id": "Tvms8xrZHyR",
+      "title": "Characterizing the spectrum of the NTK via a power series expansion",
+      "authors": "Michael Murray, Hui Jin, Benjamin Bowman, Guido Montufar",
+      "paper_url": "https://openreview.net/pdf/d4af9cb9e578f203d2f33787c8bb73e011e4b9b2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_xCxXwTzx4L1",
+      "paper_id": "xCxXwTzx4L1",
+      "title": "ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations",
+      "authors": "Rishabh Tiwari, Udbhav Bamba, Arnav Chavan, Deepak Gupta",
+      "paper_url": "https://openreview.net/pdf/f3ff08ec88e7c8f10d78c77e44d65384b446c064.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_XfKSDgqIRj",
+      "paper_id": "XfKSDgqIRj",
+      "title": "COAT: Compressing Optimizer states and Activations for Memory-Efficient FP8 Training",
+      "authors": "Haocheng Xi, Han Cai, Ligeng Zhu, Yao Lu, Kurt Keutzer, Jianfei Chen, Song Han",
+      "paper_url": "https://openreview.net/pdf?id=XfKSDgqIRj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8j9hz8DVi8",
+      "paper_id": "8j9hz8DVi8",
+      "title": "Combining Axes Preconditioners through Kronecker Approximation for Deep Learning",
+      "authors": "Sai Surya Duvvuri, Fnu Devvrit, Rohan Anil, Cho-Jui Hsieh, Inderjit S Dhillon",
+      "paper_url": "https://openreview.net/pdf?id=8j9hz8DVi8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_l_amHf1oaK",
+      "paper_id": "l_amHf1oaK",
+      "title": "Complete Verification via Multi-Neuron Relaxation Guided Branch-and-Bound",
+      "authors": "Claudio Ferrari, Mark Niklas Mueller, Nikola Jovanović, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/fcc20218f5754386cf64f4156a1f41039038b5da.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_IgIk8RRT-Z",
+      "paper_id": "IgIk8RRT-Z",
+      "title": "CompOFA – Compound Once-For-All Networks for Faster Multi-Platform Deployment",
+      "authors": "Manas Sahni, Shreya Varshini, Alind Khare, Alexey Tumanov",
+      "paper_url": "https://openreview.net/pdf/cd9ed036121abc86a3630081eb6c6264788c8194.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_hkMoYYEkBoI",
+      "paper_id": "hkMoYYEkBoI",
+      "title": "Computational Separation Between Convolutional and Fully-Connected Networks",
+      "authors": "eran malach, Shai Shalev-Shwartz",
+      "paper_url": "https://openreview.net/pdf/f6530436996abef24697ac8461be780c738d0b41.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_dQ7Cy_ndl1s",
+      "paper_id": "dQ7Cy_ndl1s",
+      "title": "Controlling the Complexity and Lipschitz Constant improves Polynomial Nets",
+      "authors": "Zhenyu Zhu, Fabian Latorre, Grigorios Chrysos, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf/47cd3800add7f5f04f67fe02056b0ba28b0f2af0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_DTqx3iqjkz",
+      "paper_id": "DTqx3iqjkz",
+      "title": "Convergence and Implicit Bias of Gradient Descent on Continual Linear Classification",
+      "authors": "Hyunji Jung, Hanseul Cho, Chulhee Yun",
+      "paper_url": "https://openreview.net/pdf?id=DTqx3iqjkz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_e0X9l4kecx",
+      "paper_id": "e0X9l4kecx",
+      "title": "Convex Formulations for Training Two-Layer ReLU Neural Networks",
+      "authors": "Karthik Prakhya, Tolga Birdal, Alp Yurtsever",
+      "paper_url": "https://openreview.net/pdf?id=e0X9l4kecx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_VErQxgyrbfn",
+      "paper_id": "VErQxgyrbfn",
+      "title": "Convex Regularization behind Neural Reconstruction",
+      "authors": "Arda Sahiner, Morteza Mardani, Batu Ozturkler, Mert Pilanci, John M. Pauly",
+      "paper_url": "https://openreview.net/pdf/cd9dfc05e045919a65b1eb93e132822e42d873e4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_QwKvL6wC8Yi",
+      "paper_id": "QwKvL6wC8Yi",
+      "title": "Coverage-centric Coreset Selection for High Pruning Rates",
+      "authors": "Haizhong Zheng, Rui Liu, Fan Lai, Atul Prakash",
+      "paper_url": "https://openreview.net/pdf/78a8c91e208c106c3b66978468a4eb675ae505c2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_87ZwsaQNHPZ",
+      "paper_id": "87ZwsaQNHPZ",
+      "title": "CPT: Efficient Deep Neural Network Training via Cyclic Precision",
+      "authors": "Yonggan Fu, Han Guo, Meng Li, Xin Yang, Yining Ding, Vikas Chandra, Yingyan Lin",
+      "paper_url": "https://openreview.net/pdf/2f7dc996e355dc20f6d4b64c9b9cf272cfac9117.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Aq35gl2c1k",
+      "paper_id": "Aq35gl2c1k",
+      "title": "Critical Learning Periods Emerge Even in Deep Linear Networks",
+      "authors": "Michael Kleinman, Alessandro Achille, Stefano Soatto",
+      "paper_url": "https://openreview.net/pdf?id=Aq35gl2c1k",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_KLH36ELmwIB",
+      "paper_id": "KLH36ELmwIB",
+      "title": "DARTS-: Robustly Stepping out of Performance Collapse Without Indicators",
+      "authors": "Xiangxiang Chu, Xiaoxing Wang, Bo Zhang, Shun Lu, Xiaolin Wei, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf/7a1997d523c7fda09b7c32a482730abe9736ffa1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_93XT0lKOct",
+      "paper_id": "93XT0lKOct",
+      "title": "Data Pruning by Information Maximization",
+      "authors": "Haoru Tan, Sitong Wu, Wei Huang, Shizhen Zhao, XIAOJUAN QI",
+      "paper_url": "https://openreview.net/pdf?id=93XT0lKOct",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_4wZiAXD29TQ",
+      "paper_id": "4wZiAXD29TQ",
+      "title": "Dataset Pruning: Reducing Training Data by Examining Generalization Influence",
+      "authors": "Shuo Yang, Zeke Xie, Hanyu Peng, Min Xu, Mingming Sun, Ping Li",
+      "paper_url": "https://openreview.net/pdf/a5df22f04dc4cf8275a555cc4ceef32677efcbb8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_6s7ME_X5_Un",
+      "paper_id": "6s7ME_X5_Un",
+      "title": "DDPNOpt: Differential Dynamic Programming Neural Optimizer",
+      "authors": "Guan-Horng Liu, Tianrong Chen, Evangelos Theodorou",
+      "paper_url": "https://openreview.net/pdf/73e56442dda6b1e73bab62c8ca8c2dac7d319003.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Q0TEVKV2cp",
+      "paper_id": "Q0TEVKV2cp",
+      "title": "Debiasing Mini-Batch Quadratics for Applications in Deep Learning",
+      "authors": "Lukas Tatzel, Bálint Mucsányi, Osane Hackel, Philipp Hennig",
+      "paper_url": "https://openreview.net/pdf?id=Q0TEVKV2cp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_d-XzF81Wg1",
+      "paper_id": "d-XzF81Wg1",
+      "title": "Deconstructing the Regularization of BatchNorm",
+      "authors": "Yann Dauphin, Ekin Dogus Cubuk",
+      "paper_url": "https://openreview.net/pdf/a940f4ffe517172e86f0802bdffb5c6f0a602068.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_RLtqs6pzj1-",
+      "paper_id": "RLtqs6pzj1-",
+      "title": "Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity",
+      "authors": "Shiwei Liu, Tianlong Chen, Zahra Atashgahi, Xiaohan Chen, Ghada Sokar, Elena Mocanu, Mykola Pechenizkiy, Zhangyang Wang, Decebal Constantin Mocanu",
+      "paper_url": "https://openreview.net/pdf/0108f1e168989b51e9c31bd9e515fde8e7473904.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_aDjoksTpXOP",
+      "paper_id": "aDjoksTpXOP",
+      "title": "Deep Equals Shallow for ReLU Networks in Kernel Regimes",
+      "authors": "Alberto Bietti, Francis Bach",
+      "paper_url": "https://openreview.net/pdf/05eb0aa9a9e483722161a491e50829bba7751f6b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_0Q9H_Pgx132",
+      "paper_id": "0Q9H_Pgx132",
+      "title": "Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?",
+      "authors": "Kaiqi Zhang, Yu-Xiang Wang",
+      "paper_url": "https://openreview.net/pdf/7ec584f820fe1526e1a4e38e68788a5492e342ae.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_U0k7XNTiFEq",
+      "paper_id": "U0k7XNTiFEq",
+      "title": "Deep Learning without Shortcuts: Shaping the Kernel with Tailored Rectifiers",
+      "authors": "Guodong Zhang, Aleksandar Botev, James Martens",
+      "paper_url": "https://openreview.net/pdf/e96e7c563d49e5a3e11edbc1d1106d452cd8f97b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_O-6Pm_d_Q-",
+      "paper_id": "O-6Pm_d_Q-",
+      "title": "Deep Networks and the Multiple Manifold Problem",
+      "authors": "Sam Buchanan, Dar Gilboa, John Wright",
+      "paper_url": "https://openreview.net/pdf/56f1d814ac75024a949f12d01b0c52e5a0e108f3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_52UtL8uA35",
+      "paper_id": "52UtL8uA35",
+      "title": "Deep Networks Learn Features From Local Discontinuities in the Label Function",
+      "authors": "Prithaj Banerjee, Harish Guruprasad Ramaswamy, Mahesh Lorik Yadav, Chandra Shekar Lakshminarayanan",
+      "paper_url": "https://openreview.net/pdf?id=52UtL8uA35",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uvXK8Xk9Jk",
+      "paper_id": "uvXK8Xk9Jk",
+      "title": "DEEP NEURAL NETWORK INITIALIZATION WITH SPARSITY INDUCING ACTIVATIONS",
+      "authors": "Ilan Price, Nicholas Daultry Ball, Adam Christopher Jones, Samuel Chun Hei Lam, Jared Tanner",
+      "paper_url": "https://openreview.net/pdf?id=uvXK8Xk9Jk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_vK9WrZ0QYQ",
+      "paper_id": "vK9WrZ0QYQ",
+      "title": "Deep Neural Tangent Kernel and Laplace Kernel Have the Same RKHS",
+      "authors": "Lin Chen, Sheng Xu",
+      "paper_url": "https://openreview.net/pdf/7668a07e4bcb66d9e15b6e11078b8b4397d4f7d1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_ci7LBzDn2Q",
+      "paper_id": "ci7LBzDn2Q",
+      "title": "Deep ReLU Networks Preserve Expected Length",
+      "authors": "Boris Hanin, Ryan Jeong, David Rolnick",
+      "paper_url": "https://openreview.net/pdf/726f7b1d7efcb38a8f1685099dbfc32c938b1267.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_vNdOHr7mn5",
+      "paper_id": "vNdOHr7mn5",
+      "title": "Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries",
+      "authors": "Chris Kolb, Tobias Weber, Bernd Bischl, David Rügamer",
+      "paper_url": "https://openreview.net/pdf?id=vNdOHr7mn5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_drPDukdY3t",
+      "paper_id": "drPDukdY3t",
+      "title": "DeepTAGE: Deep Temporal-Aligned Gradient Enhancement for Optimizing Spiking Neural Networks",
+      "authors": "Wei Liu, Li Yang, Mingxuan Zhao, Shuxun Wang, Jin Gao, Wenjuan Li, Bing Li, Weiming Hu",
+      "paper_url": "https://openreview.net/pdf?id=drPDukdY3t",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_6XGgutacQ0B",
+      "paper_id": "6XGgutacQ0B",
+      "title": "Demystifying Batch Normalization in ReLU Networks: Equivalent Convex Optimization Models and Implicit Regularization",
+      "authors": "Tolga Ergen, Arda Sahiner, Batu Ozturkler, John M. Pauly, Morteza Mardani, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/af5d5ce93fce5052caf45cbcdf0da6ca08cad524.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_KZJehvRKGD",
+      "paper_id": "KZJehvRKGD",
+      "title": "Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit",
+      "authors": "Blake Bordelon, Lorenzo Noci, Mufan Bill Li, Boris Hanin, Cengiz Pehlevan",
+      "paper_url": "https://openreview.net/pdf?id=KZJehvRKGD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zvaiz3FjA9",
+      "paper_id": "zvaiz3FjA9",
+      "title": "Designing Concise ConvNets with Columnar Stages",
+      "authors": "Ashish Kumar, Jaesik Park",
+      "paper_url": "https://openreview.net/pdf?id=zvaiz3FjA9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_mhnHqRqcjYU",
+      "paper_id": "mhnHqRqcjYU",
+      "title": "DFPC: Data flow driven pruning of coupled channels without data.",
+      "authors": "Tanay Narshana, Chaitanya Murti, Chiranjib Bhattacharyya",
+      "paper_url": "https://openreview.net/pdf/a04d739740d3a54486c4a47bf7d26dd24b41732d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_pAVJKp3Dvn",
+      "paper_id": "pAVJKp3Dvn",
+      "title": "Differentiable Learning of Generalized Structured Matrices for Efficient Deep Neural Networks",
+      "authors": "Changwoo Lee, Hun-Seok Kim",
+      "paper_url": "https://openreview.net/pdf?id=pAVJKp3Dvn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_3X64RLgzY6O",
+      "paper_id": "3X64RLgzY6O",
+      "title": "Direction Matters: On the Implicit Bias of Stochastic Gradient Descent with Moderate Learning Rate",
+      "authors": "Jingfeng Wu, Difan Zou, Vladimir Braverman, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf/48577f49989616efeba863fc8477794a13b5d90e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_IFqrg1p5Bc",
+      "paper_id": "IFqrg1p5Bc",
+      "title": "Distance-Based Regularisation of Deep Networks for Fine-Tuning",
+      "authors": "Henry Gouk, Timothy Hospedales, Massimiliano Pontil",
+      "paper_url": "https://openreview.net/pdf/8758dc3fcea289b116ec58cc0b6feae810915b43.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_VEJzjAvaIy",
+      "paper_id": "VEJzjAvaIy",
+      "title": "Divergence of Neural Tangent Kernel in Classification Problems",
+      "authors": "Zixiong Yu, Songtao Tian, Guhan Chen",
+      "paper_url": "https://openreview.net/pdf?id=VEJzjAvaIy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QjO0fUlVYK",
+      "paper_id": "QjO0fUlVYK",
+      "title": "Do Deep Neural Network Solutions Form a Star Domain?",
+      "authors": "Ankit Sonthalia, Alexander Rubinstein, Ehsan Abbasnejad, Seong Joon Oh",
+      "paper_url": "https://openreview.net/pdf?id=QjO0fUlVYK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_KJNcAkY8tY4",
+      "paper_id": "KJNcAkY8tY4",
+      "title": "Do Wide and Deep Networks Learn the Same Things? Uncovering How Neural Network Representations Vary with Width and Depth",
+      "authors": "Thao Nguyen, Maithra Raghu, Simon Kornblith",
+      "paper_url": "https://openreview.net/pdf/cb12ae8308060f86d8970f514c2a0e8a33d13c22.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_I4wB3HA3dJ",
+      "paper_id": "I4wB3HA3dJ",
+      "title": "Domain-Inspired Sharpness-Aware Minimization Under Domain Shifts",
+      "authors": "Ruipeng Zhang, Ziqing Fan, Jiangchao Yao, Ya Zhang, Yanfeng Wang",
+      "paper_url": "https://openreview.net/pdf?id=I4wB3HA3dJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hvLBTpiDt3",
+      "paper_id": "hvLBTpiDt3",
+      "title": "DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle",
+      "authors": "Lichuan Xiang, Quan Nguyen-Tri, Lan-Cuong Nguyen, Hoang Pham, Khoat Than, Long Tran-Thanh, Hongkai Wen",
+      "paper_url": "https://openreview.net/pdf?id=hvLBTpiDt3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_9FWas6YbmB3",
+      "paper_id": "9FWas6YbmB3",
+      "title": "DrNAS: Dirichlet Neural Architecture Search",
+      "authors": "Xiangning Chen, Ruochen Wang, Minhao Cheng, Xiaocheng Tang, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf/3203d1c8e155920800406d00c89682d213d4a60e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_fxv0FfmDAg",
+      "paper_id": "fxv0FfmDAg",
+      "title": "DRoP: Distributionally Robust Data Pruning",
+      "authors": "Artem M Vysogorets, Kartik Ahuja, Julia Kempe",
+      "paper_url": "https://openreview.net/pdf?id=fxv0FfmDAg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Kn6i2BZW69w",
+      "paper_id": "Kn6i2BZW69w",
+      "title": "DropIT: Dropping Intermediate Tensors for Memory-Efficient DNN Training",
+      "authors": "Joya Chen, Kai Xu, Yuhui Wang, Yifei Cheng, Angela Yao",
+      "paper_url": "https://openreview.net/pdf/6d97d95f31445e87005bb02cb950856f8164641f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_daUQ7vmGap",
+      "paper_id": "daUQ7vmGap",
+      "title": "Dynamic Sparse Training versus Dense Training: The Unexpected Winner in Image Corruption Robustness",
+      "authors": "Boqian Wu, Qiao Xiao, Shunxin Wang, Nicola Strisciuglio, Mykola Pechenizkiy, Maurice van Keulen, Decebal Constantin Mocanu, Elena Mocanu",
+      "paper_url": "https://openreview.net/pdf?id=daUQ7vmGap",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kOBkxFRKTA",
+      "paper_id": "kOBkxFRKTA",
+      "title": "Dynamic Sparse Training with Structured Sparsity",
+      "authors": "Mike Lasby, Anna Golubeva, Utku Evci, Mihai Nica, Yani Ioannou",
+      "paper_url": "https://openreview.net/pdf?id=kOBkxFRKTA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Vfs_2RnOD0H",
+      "paper_id": "Vfs_2RnOD0H",
+      "title": "Dynamic Tensor Rematerialization",
+      "authors": "Marisa Kirisame, Steven Lyubomirsky, Altan Haan, Jennifer Brennan, Mike He, Jared Roesch, Tianqi Chen, Zachary Tatlock",
+      "paper_url": "https://openreview.net/pdf/241e988e3953566bc4fe0e6a974d29ff78dfcc2e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_7oPAgqxNb20",
+      "paper_id": "7oPAgqxNb20",
+      "title": "DynaMS: Dyanmic Margin Selection for Efficient Deep Learning",
+      "authors": "Jiaxing Wang, Yong Li, Jingwei Zhuo, Xupeng Shi, WEIZHONG ZHANG, Lixing Gong, Tong Tao, Pengzhang Liu, Yongjun Bao, Weipeng Yan",
+      "paper_url": "https://openreview.net/pdf/318d0b3c293d954faf01edf106185352447e3468.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_GTGb3M_KcUl",
+      "paper_id": "GTGb3M_KcUl",
+      "title": "DynaTune: Dynamic Tensor Program Optimization in Deep Neural Network Compilation",
+      "authors": "Minjia Zhang, Menghao Li, Chi Wang, Mingqin Li",
+      "paper_url": "https://openreview.net/pdf/f2330b850544ed7b0157ff0411638fd7ee8aefc0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_n-bvaLSCC78",
+      "paper_id": "n-bvaLSCC78",
+      "title": "EA-HAS-Bench: Energy-aware Hyperparameter and Architecture Search Benchmark",
+      "authors": "Shuguang Dou, XINYANG JIANG, Cai Rong Zhao, Dongsheng Li",
+      "paper_url": "https://openreview.net/pdf/9106b5730cee2cbeca225886e09cd6befa802419.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_QibPzdVrRu",
+      "paper_id": "QibPzdVrRu",
+      "title": "Early Neuron Alignment in Two-layer ReLU Networks with Small Initialization",
+      "authors": "Hancheng Min, Enrique Mallada, Rene Vidal",
+      "paper_url": "https://openreview.net/pdf?id=QibPzdVrRu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_tlV90jvZbw",
+      "paper_id": "tlV90jvZbw",
+      "title": "Early Stopping in Deep Networks: Double Descent and How to Eliminate it",
+      "authors": "Reinhard Heckel, Fatih Furkan Yilmaz",
+      "paper_url": "https://openreview.net/pdf/eaf02d8eb8ad9232e0b10b405cf104b4547de602.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_wJv4AIt4sK",
+      "paper_id": "wJv4AIt4sK",
+      "title": "Effective Interplay between Sparsity and Quantization: From Theory to Practice",
+      "authors": "Simla Burcu Harma, Ayan Chakraborty, Elizaveta Kostenok, Danila Mishin, Dongho Ha, Babak Falsafi, Martin Jaggi, Ming Liu, Yunho Oh, Suvinay Subramanian, Amir Yazdanbakhsh",
+      "paper_url": "https://openreview.net/pdf?id=wJv4AIt4sK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_xa6otUDdP2W",
+      "paper_id": "xa6otUDdP2W",
+      "title": "Effective Model Sparsification by Scheduled Grow-and-Prune Methods",
+      "authors": "Xiaolong Ma, Minghai Qin, Fei Sun, Zejiang Hou, Kun Yuan, Yi Xu, Yanzhi Wang, Yen-Kuang Chen, Rong Jin, Yuan Xie",
+      "paper_url": "https://openreview.net/pdf/039dfe30e42cddf0da3ff88c3fbb66087d12f9a7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_CtOA9aN8fr",
+      "paper_id": "CtOA9aN8fr",
+      "title": "Effective pruning of web-scale datasets based on complexity of concept clusters",
+      "authors": "Amro Kamal Mohamed Abbas, Evgenia Rusak, Kushal Tirumala, Wieland Brendel, Kamalika Chaudhuri, Ari S. Morcos",
+      "paper_url": "https://openreview.net/pdf?id=CtOA9aN8fr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_tUMr0Iox8XW",
+      "paper_id": "tUMr0Iox8XW",
+      "title": "Efficient Computation of Deep Nonlinear Infinite-Width Neural Networks that Learn Features",
+      "authors": "Greg Yang, Michael Santacroce, Edward J Hu",
+      "paper_url": "https://openreview.net/pdf/da2902df767a2a3e4eec1ef65497a37e7f8dbd2b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_lHZm9vNm5H",
+      "paper_id": "lHZm9vNm5H",
+      "title": "Efficient ConvBN Blocks for Transfer Learning and Beyond",
+      "authors": "Kaichao You, Guo Qin, Anchang Bao, Meng Cao, Ping Huang, Jiulong Shan, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf?id=lHZm9vNm5H",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cWGCkd7mCp",
+      "paper_id": "cWGCkd7mCp",
+      "title": "Efficient Learning with Sine-Activated Low-Rank Matrices",
+      "authors": "Yiping Ji, Hemanth Saratchandran, Cameron Gordon, Zeyu Zhang, Simon Lucey",
+      "paper_url": "https://openreview.net/pdf?id=cWGCkd7mCp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wA2RMD2AFq",
+      "paper_id": "wA2RMD2AFq",
+      "title": "Efficient Low-Bit Quantization with Adaptive Scales for Multi-Task Co-Training",
+      "authors": "Boyu Liu, Haoyu Huang, Linlin Yang, Yanjing Li, Guodong Guo, Xianbin Cao, Baochang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=wA2RMD2AFq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_n0OeTdNRG0Q",
+      "paper_id": "n0OeTdNRG0Q",
+      "title": "Efficient Sharpness-aware Minimization for Improved Training of Neural Networks",
+      "authors": "Jiawei Du, Hanshu Yan, Jiashi Feng, Joey Tianyi Zhou, Liangli Zhen, Rick Siow Mong Goh, Vincent Tan",
+      "paper_url": "https://openreview.net/pdf/ded078d40e07efa5958c1cbeb447de7e55420ae0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_FAYIlGDBa1",
+      "paper_id": "FAYIlGDBa1",
+      "title": "Efficient Sparse PCA via Block-Diagonalization",
+      "authors": "Alberto Del Pia, Dekun Zhou, Yinglun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=FAYIlGDBa1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Vs5NK44aP9P",
+      "paper_id": "Vs5NK44aP9P",
+      "title": "Encoding Weights of Irregular Sparsity for Fixed-to-Fixed Model Compression",
+      "authors": "Bae Seong Park, Se Jung Kwon, Daehwan Oh, Byeongwook Kim, Dongsoo Lee",
+      "paper_url": "https://openreview.net/pdf/ab9b739fc11bc2802199a375c6146e8512c81fa5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_xjXg0bnoDmS",
+      "paper_id": "xjXg0bnoDmS",
+      "title": "Entropic gradient descent algorithms and wide flat minima",
+      "authors": "Fabrizio Pittorino, Carlo Lucibello, Christoph Feinauer, Gabriele Perugini, Carlo Baldassi, Elizaveta Demyanenko, Riccardo Zecchina",
+      "paper_url": "https://openreview.net/pdf/0b359e4e5d157768feb17f39a57619c3f110d21f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_7TZYM6Hm9p",
+      "paper_id": "7TZYM6Hm9p",
+      "title": "Entropy-based Activation Function Optimization: A Method on Searching Better Activation Functions",
+      "authors": "Haoyuan Sun, Zihao Wu, Bo Xia, Pu Chang, Zibin Dong, Yifu Yuan, Yongzhe Chang, Xueqian Wang",
+      "paper_url": "https://openreview.net/pdf?id=7TZYM6Hm9p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_iayEcORsGd",
+      "paper_id": "iayEcORsGd",
+      "title": "Epitopological learning and Cannistraci-Hebb network shape intelligence brain-inspired theory for ultra-sparse advantage in deep learning",
+      "authors": "Yingtao Zhang, Jialin Zhao, Wenjing Wu, Alessandro Muscoloni, Carlo Vittorio Cannistraci",
+      "paper_url": "https://openreview.net/pdf?id=iayEcORsGd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_VcB4QkSfyO",
+      "paper_id": "VcB4QkSfyO",
+      "title": "Estimating Lipschitz constants of monotone deep equilibrium models",
+      "authors": "Chirag Pabbaraju, Ezra Winston, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/62c8f87a22f20b30e037ebb6a618d34b540f0e93.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_6doXHqwMayf",
+      "paper_id": "6doXHqwMayf",
+      "title": "Excess Risk of Two-Layer ReLU Neural Networks in Teacher-Student Settings and its Superiority to Kernel Methods",
+      "authors": "Shunta Akiyama, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf/3e8fe254871b5629d8668c996c29e58c0a2415c4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FN7n7JRjsk",
+      "paper_id": "FN7n7JRjsk",
+      "title": "Exploring Learning Complexity for Efficient Downstream Dataset Pruning",
+      "authors": "Wenyu Jiang, Zhenlong Liu, Zejian Xie, Songxin Zhang, Bingyi Jing, Hongxin Wei",
+      "paper_url": "https://openreview.net/pdf?id=FN7n7JRjsk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4xWQS2z77v",
+      "paper_id": "4xWQS2z77v",
+      "title": "Exploring The Loss Landscape Of Regularized Neural Networks Via Convex Duality",
+      "authors": "Sungyoon Kim, Aaron Mishkin, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf?id=4xWQS2z77v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_1_jtWjhSSkr",
+      "paper_id": "1_jtWjhSSkr",
+      "title": "Exponential Generalization Bounds with Near-Optimal Rates for $L_q$-Stable Algorithms",
+      "authors": "Xiaotong Yuan, Ping Li",
+      "paper_url": "https://openreview.net/pdf/de359ab88345f813772416a324f7c4dc07f7eb40.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5xwx1Myosu",
+      "paper_id": "5xwx1Myosu",
+      "title": "Expressivity of Neural Networks with Random Weights and Learned Biases",
+      "authors": "Ezekiel Williams, Alexandre Payeur, Avery Hee-Woon Ryoo, Thomas Jiralerspong, Matthew G Perich, Luca Mazzucato, Guillaume Lajoie",
+      "paper_url": "https://openreview.net/pdf?id=5xwx1Myosu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_awHTL3Hpto",
+      "paper_id": "awHTL3Hpto",
+      "title": "Expressivity of ReLU-Networks under Convex Relaxations",
+      "authors": "Maximilian Baader, Mark Niklas Mueller, Yuhao Mao, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=awHTL3Hpto",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jZwwMxG8PO",
+      "paper_id": "jZwwMxG8PO",
+      "title": "Extending Mercer's expansion to indefinite and asymmetric kernels",
+      "authors": "Sungwoo Jeong, Alex Townsend",
+      "paper_url": "https://openreview.net/pdf?id=jZwwMxG8PO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Z4R1vxLbRLO",
+      "paper_id": "Z4R1vxLbRLO",
+      "title": "Extreme Memorization via Scale of Initialization",
+      "authors": "Harsh Mehta, Ashok Cutkosky, Behnam Neyshabur",
+      "paper_url": "https://openreview.net/pdf/80a1ad20645ef877ad4166e2c824ab56fda83b7c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22__CfpJazzXT2",
+      "paper_id": "_CfpJazzXT2",
+      "title": "F8Net: Fixed-Point 8-bit Only Multiplication for Network Quantization",
+      "authors": "Qing Jin, Jian Ren, Richard Zhuang, Sumant Hanumante, Zhengang Li, Zhiyu Chen, Yanzhi Wang, Kaiyuan Yang, Sergey Tulyakov",
+      "paper_url": "https://openreview.net/pdf/aed69dd0c10990a2c4948e6d230de04c5719fb7d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_JCRblSgs34Z",
+      "paper_id": "JCRblSgs34Z",
+      "title": "Fantastic Four: Differentiable and Efficient Bounds on Singular Values of Convolution Layers",
+      "authors": "Sahil Singla, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/6c7018c5dcc64de7e42204d28cf786cb4a596c69.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_NkmJotfL42",
+      "paper_id": "NkmJotfL42",
+      "title": "Fantastic Generalization Measures are Nowhere to be Found",
+      "authors": "Michael Gastpar, Ido Nachum, Jonathan Shafer, Thomas Weinberger",
+      "paper_url": "https://openreview.net/pdf?id=NkmJotfL42",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_nVZtXBI6LNn",
+      "paper_id": "nVZtXBI6LNn",
+      "title": "Fast and Complete: Enabling Complete Neural Network Verification with Rapid and Massively Parallel Incomplete Verifiers",
+      "authors": "Kaidi Xu, Huan Zhang, Shiqi Wang, Yihan Wang, Suman Jana, Xue Lin, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf/e8ea009d8faf5987887d2dc7ca2b4d680a2f83dc.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_w2mYg3d0eot",
+      "paper_id": "w2mYg3d0eot",
+      "title": "Fast convergence of stochastic subgradient method under interpolation",
+      "authors": "Huang Fang, Zhenan Fan, Michael Friedlander",
+      "paper_url": "https://openreview.net/pdf/a65651e46213dfe6307698d82f362d04acd34756.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_CX2RgsS29V",
+      "paper_id": "CX2RgsS29V",
+      "title": "Fast Updating Truncated SVD for Representation Learning with Sparse Matrices",
+      "authors": "Haoran Deng, Yang Yang, Jiahe Li, Cheng Chen, Weihao Jiang, Shiliang Pu",
+      "paper_url": "https://openreview.net/pdf?id=CX2RgsS29V",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_DDNFTaVQdU",
+      "paper_id": "DDNFTaVQdU",
+      "title": "Faster Algorithms for Structured Linear and Kernel Support Vector Machines",
+      "authors": "Yuzhou Gu, Zhao Song, Lichen Zhang",
+      "paper_url": "https://openreview.net/pdf?id=DDNFTaVQdU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zH9GcZ3ZGXu",
+      "paper_id": "zH9GcZ3ZGXu",
+      "title": "Feature Reconstruction From Outputs Can Mitigate Simplicity Bias in Neural Networks",
+      "authors": "Sravanti Addepalli, Anshul Nasery, Venkatesh Babu Radhakrishnan, Praneeth Netrapalli, Prateek Jain",
+      "paper_url": "https://openreview.net/pdf/d04b89a2199e2c436eabe69c7d7b984b0f21db55.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_swEskiem99",
+      "paper_id": "swEskiem99",
+      "title": "Feature selection and low test error in shallow low-rotation ReLU networks",
+      "authors": "Matus Telgarsky",
+      "paper_url": "https://openreview.net/pdf/fcbfd7f8d46076e87300ed63c39d60a6e8c11a7e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_if2vRbS8Ew",
+      "paper_id": "if2vRbS8Ew",
+      "title": "First-order ANIL provably learns representations despite overparametrisation",
+      "authors": "Oğuz Kaan Yüksel, Etienne Boursier, Nicolas Flammarion",
+      "paper_url": "https://openreview.net/pdf?id=if2vRbS8Ew",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_F4bmOrmUwc",
+      "paper_id": "F4bmOrmUwc",
+      "title": "Fixed Non-negative Orthogonal Classifier: Inducing Zero-mean Neural Collapse with Feature Dimension Separation",
+      "authors": "Hoyong Kim, Kangil Kim",
+      "paper_url": "https://openreview.net/pdf?id=F4bmOrmUwc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_BEpaPHDl9r",
+      "paper_id": "BEpaPHDl9r",
+      "title": "Flavors of Margin: Implicit Bias of Steepest Descent in Homogeneous Neural Networks",
+      "authors": "Nikolaos Tsilivis, Gal Vardi, Julia Kempe",
+      "paper_url": "https://openreview.net/pdf?id=BEpaPHDl9r",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ibqTBNfJmi",
+      "paper_id": "ibqTBNfJmi",
+      "title": "Frequency-aware SGD for Efficient Embedding Learning with Provable Benefits",
+      "authors": "Yan Li, Dhruv Choudhary, Xiaohan Wei, Baichuan Yuan, Bhargav Bhushanam, Tuo Zhao, Guanghui Lan",
+      "paper_url": "https://openreview.net/pdf/7ff001fda6de89be1d9e937afb3d64fe33c689b7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ZXaocmXc6d",
+      "paper_id": "ZXaocmXc6d",
+      "title": "From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks",
+      "authors": "Clémentine Carla Juliette Dominé, Nicolas Anguita, Alexandra Maria Proca, Lukas Braun, Daniel Kunin, Pedro A. M. Mediano, Andrew M Saxe",
+      "paper_url": "https://openreview.net/pdf?id=ZXaocmXc6d",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_1AoMhc_9jER",
+      "paper_id": "1AoMhc_9jER",
+      "title": "GANs Can Play Lottery Tickets Too",
+      "authors": "Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen",
+      "paper_url": "https://openreview.net/pdf/f9f13cd41ac8fcc30b5177eac267e3a61229f0e4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_8wAL9ywQNB",
+      "paper_id": "8wAL9ywQNB",
+      "title": "Generalizability of Neural Networks Minimizing Empirical Risk Based on Expressive Power",
+      "authors": "Lijia Yu, Yibo Miao, Yifan Zhu, Xiao-Shan Gao, Lijun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=8wAL9ywQNB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_9F_xlC7sk9",
+      "paper_id": "9F_xlC7sk9",
+      "title": "Generalization and Estimation Error Bounds for Model-based Neural Networks",
+      "authors": "Avner Shultzman, Eyar Azar, Miguel R. D. Rodrigues, Yonina C. Eldar",
+      "paper_url": "https://openreview.net/pdf/f2ace92cfe9ac4e2cc157c4946f019ecefe04c91.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_q5zMyAUhGx",
+      "paper_id": "q5zMyAUhGx",
+      "title": "Generalization Bounds and Model Complexity for Kolmogorov–Arnold Networks",
+      "authors": "Xianyang Zhang, Huijuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=q5zMyAUhGx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_n0lXaskyk5",
+      "paper_id": "n0lXaskyk5",
+      "title": "Generalization Bounds for Canonicalization: A Comparative Study with Group Averaging",
+      "authors": "Behrooz Tahmasebi, Stefanie Jegelka",
+      "paper_url": "https://openreview.net/pdf?id=n0lXaskyk5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3SJE1WLB4M",
+      "paper_id": "3SJE1WLB4M",
+      "title": "Generalization error of spectral algorithms",
+      "authors": "Maksim Velikanov, Maxim Panov, Dmitry Yarotsky",
+      "paper_url": "https://openreview.net/pdf?id=3SJE1WLB4M",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_7grkzyj89A_",
+      "paper_id": "7grkzyj89A_",
+      "title": "Generalization Through the Lens of Leave-One-Out Error",
+      "authors": "Gregor Bachmann, Thomas Hofmann, Aurelien Lucchi",
+      "paper_url": "https://openreview.net/pdf/16d55edf6606d7cd0494df4bb7f9a39233c8c550.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_inU2quhGdNU",
+      "paper_id": "inU2quhGdNU",
+      "title": "Generalizing and Decoupling Neural Collapse via Hyperspherical Uniformity Gap",
+      "authors": "Weiyang Liu, Longhui Yu, Adrian Weller, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/a4cfb809d566020b1780f37a7179260010d539ff.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22__jMtny3sMKU",
+      "paper_id": "_jMtny3sMKU",
+      "title": "Generalizing Few-Shot NAS with Gradient Matching",
+      "authors": "Shoukang Hu, Ruochen Wang, Lanqing HONG, Zhenguo Li, Cho-Jui Hsieh, Jiashi Feng",
+      "paper_url": "https://openreview.net/pdf/ad7965c59fc903823d27880126728fb09cd8e4dd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_cmXWYolrlo",
+      "paper_id": "cmXWYolrlo",
+      "title": "Geometric Inductive Biases of Deep Networks: The Role of Data and Architecture",
+      "authors": "Sajad Movahedi, Antonio Orvieto, Seyed-Mohsen Moosavi-Dezfooli",
+      "paper_url": "https://openreview.net/pdf?id=cmXWYolrlo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_MuSYkd1hxRP",
+      "paper_id": "MuSYkd1hxRP",
+      "title": "Geometry-Aware Gradient Algorithms for Neural Architecture Search",
+      "authors": "Liam Li, Mikhail Khodak, Nina Balcan, Ameet Talwalkar",
+      "paper_url": "https://openreview.net/pdf/110552d41d9f40c3d50988fde09b3b5038c2bebd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_KvyxFqZS_D",
+      "paper_id": "KvyxFqZS_D",
+      "title": "Global Convergence of Three-layer Neural Networks in the Mean Field Regime",
+      "authors": "Huy Tuan Pham, Phan-Minh Nguyen",
+      "paper_url": "https://openreview.net/pdf/459bd57a5e53f59b4f2736fed403a773b5494f55.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_4nrcn0YoDG",
+      "paper_id": "4nrcn0YoDG",
+      "title": "Global Identifiability of Overcomplete Dictionary Learning via L1 and Volume Minimization",
+      "authors": "Yuchen Sun, Kejun Huang",
+      "paper_url": "https://openreview.net/pdf?id=4nrcn0YoDG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__9k5kTgyHT",
+      "paper_id": "_9k5kTgyHT",
+      "title": "Globally Optimal Training of Neural Networks with Threshold Activation Functions",
+      "authors": "Tolga Ergen, Halil Ibrahim Gulluk, Jonathan Lacotte, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/8c4e7faf70efca88da4a7f7305b2bc5c907944f3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_jh-rTtvkGeM",
+      "paper_id": "jh-rTtvkGeM",
+      "title": "Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability",
+      "authors": "Jeremy Cohen, Simran Kaur, Yuanzhi Li, J Zico Kolter, Ameet Talwalkar",
+      "paper_url": "https://openreview.net/pdf/49962b19307f5018fe57b60a80c6cecb9a29eb02.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_qjN4h_wwUO",
+      "paper_id": "qjN4h_wwUO",
+      "title": "GradMax: Growing Neural Networks using Gradient Information",
+      "authors": "Utku Evci, Bart van Merrienboer, Thomas Unterthiner, Fabian Pedregosa, Max Vladymyrov",
+      "paper_url": "https://openreview.net/pdf/217711e1fabb5f74caa7140f98b25bb2d847e75b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_TvfkSyHZRA",
+      "paper_id": "TvfkSyHZRA",
+      "title": "Grokking at the Edge of Numerical Stability",
+      "authors": "Lucas Prieto, Melih Barsbey, Pedro A. M. Mediano, Tolga Birdal",
+      "paper_url": "https://openreview.net/pdf?id=TvfkSyHZRA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_wb3wxCObbRT",
+      "paper_id": "wb3wxCObbRT",
+      "title": "Growing Efficient Deep Networks by Structured Continuous Sparsification",
+      "authors": "Xin Yuan, Pedro Henrique Pamplona Savarese, Michael Maire",
+      "paper_url": "https://openreview.net/pdf/f0340388ab26e079bb52b2e75a594fa25f418c28.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_QJGj07PD9C",
+      "paper_id": "QJGj07PD9C",
+      "title": "Guaranteed Approximation Bounds for Mixed-Precision Neural Operators",
+      "authors": "Renbo Tu, Colin White, Jean Kossaifi, Boris Bonev, Gennady Pekhimenko, Kamyar Azizzadenesheli, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=QJGj07PD9C",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_8gd4M-_Rj1",
+      "paper_id": "8gd4M-_Rj1",
+      "title": "Hebbian Deep Learning Without Feedback",
+      "authors": "Adrien Journé, Hector Garcia Rodriguez, Qinghai Guo, Timoleon Moraitis",
+      "paper_url": "https://openreview.net/pdf/8069b75c93174254f8042cc114dad9bbd5b73989.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MeB86edZ1P",
+      "paper_id": "MeB86edZ1P",
+      "title": "Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks",
+      "authors": "Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf?id=MeB86edZ1P",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_QIRtAqoXwj",
+      "paper_id": "QIRtAqoXwj",
+      "title": "Heterogeneous Neuronal and Synaptic Dynamics for Spike-Efficient Unsupervised Learning: Theory and Design Principles",
+      "authors": "Biswadeep Chakraborty, Saibal Mukhopadhyay",
+      "paper_url": "https://openreview.net/pdf/9f7c495d032385cfaeae5a10554a9593efeb5a33.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_MxaY4FzOTa",
+      "paper_id": "MxaY4FzOTa",
+      "title": "High-Capacity Expert Binary Networks",
+      "authors": "Adrian Bulat, Brais Martinez, Georgios Tzimiropoulos",
+      "paper_url": "https://openreview.net/pdf/b7f4b61804fcc0b13e0b45a6c8245bda3556c8ec.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_MHjigVnI04",
+      "paper_id": "MHjigVnI04",
+      "title": "High-dimensional SGD aligns with emerging outlier eigenspaces",
+      "authors": "Gerard Ben Arous, Reza Gheissari, Jiaoyang Huang, Aukosh Jagannath",
+      "paper_url": "https://openreview.net/pdf?id=MHjigVnI04",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_sAJDi9lD06L",
+      "paper_id": "sAJDi9lD06L",
+      "title": "Holistic Adversarially Robust Pruning",
+      "authors": "Qi Zhao, Christian Wressnegger",
+      "paper_url": "https://openreview.net/pdf/b98c440cad1e58a0ada550aa300d152a19c9e78c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_UvpuGrd6ey",
+      "paper_id": "UvpuGrd6ey",
+      "title": "How DNNs break the Curse of Dimensionality: Compositionality and Symmetry Learning",
+      "authors": "Arthur Jacot, Seok Hoan Choi, Yuxiao Wen",
+      "paper_url": "https://openreview.net/pdf?id=UvpuGrd6ey",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_25j2ZEgwTj",
+      "paper_id": "25j2ZEgwTj",
+      "title": "How Gradient descent balances features: A dynamical analysis for two-layer neural networks",
+      "authors": "Zhenyu Zhu, Fanghui Liu, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf?id=25j2ZEgwTj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_EBC60mxBwyw",
+      "paper_id": "EBC60mxBwyw",
+      "title": "How gradient estimator variance and bias impact learning in neural networks",
+      "authors": "Arna Ghosh, Yuhan Helena Liu, Guillaume Lajoie, Konrad Kording, Blake Aaron Richards",
+      "paper_url": "https://openreview.net/pdf/78403b3ae7bbdc9e73614cc0b261982b15a6a1f0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_sKHqgFOaFXI",
+      "paper_id": "sKHqgFOaFXI",
+      "title": "How Informative is the Approximation Error from Tensor Decomposition for Neural Network Compression?",
+      "authors": "Jetze Schuurmans, kim batselier, Julian Kooij",
+      "paper_url": "https://openreview.net/pdf/db4bcb36915a563034859380e0e23f3fbe678d4e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Ge7okBGZYi",
+      "paper_id": "Ge7okBGZYi",
+      "title": "How Learnable Grids Recover Fine Detail in Low Dimensions: A Neural Tangent Kernel Analysis of Multigrid Parametric Encodings",
+      "authors": "Samuel Audia, Soheil Feizi, Matthias Zwicker, Dinesh Manocha",
+      "paper_url": "https://openreview.net/pdf?id=Ge7okBGZYi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_YpSxqy_RE84",
+      "paper_id": "YpSxqy_RE84",
+      "title": "How Low Can We Go: Trading Memory for Error in Low-Precision Training",
+      "authors": "Chengrun Yang, Ziyang Wu, Jerry Chee, Christopher De Sa, Madeleine Udell",
+      "paper_url": "https://openreview.net/pdf/2236c2cfad186cc512b5230dbb649d54722a6579.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_ChMLTGRjFcU",
+      "paper_id": "ChMLTGRjFcU",
+      "title": "How many degrees of freedom do we need to train deep networks: a loss landscape perspective",
+      "authors": "Brett W Larsen, Stanislav Fort, Nic Becker, Surya Ganguli",
+      "paper_url": "https://openreview.net/pdf/0801cd7dac7a5c8a0c9d6202ed146b1662b1ccdc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_q6zrZbth1F",
+      "paper_id": "q6zrZbth1F",
+      "title": "How many samples are needed to train a deep neural network?",
+      "authors": "Pegah Golestaneh, Mahsa Taheri, Johannes Lederer",
+      "paper_url": "https://openreview.net/pdf?id=q6zrZbth1F",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_fgd7we_uZa6",
+      "paper_id": "fgd7we_uZa6",
+      "title": "How Much Over-parameterization Is Sufficient to Learn Deep ReLU Networks?",
+      "authors": "Zixiang Chen, Yuan Cao, Difan Zou, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf/7d4b4fabf3654c85ec7bc9a41516a3fe17bbccd8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_xGvPKAiOhq",
+      "paper_id": "xGvPKAiOhq",
+      "title": "How Over-Parameterization Slows Down Gradient Descent in Matrix Sensing: The Curses of Symmetry and Initialization",
+      "authors": "Nuoya Xiong, Lijun Ding, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf?id=xGvPKAiOhq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21__0kaDkv3dVf",
+      "paper_id": "_0kaDkv3dVf",
+      "title": "HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark",
+      "authors": "Chaojian Li, Zhongzhi Yu, Yonggan Fu, Yongan Zhang, Yang Zhao, Haoran You, Qixuan Yu, Yue Wang, Cong Hao, Yingyan Lin",
+      "paper_url": "https://openreview.net/pdf/1256d25521d41df912407cdd9aea52fa6d3d5265.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_LFiaoYnP6T",
+      "paper_id": "LFiaoYnP6T",
+      "title": "IDInit: A Universal and Stable Initialization Method for Neural Network Training",
+      "authors": "Yu Pan, Chaozheng Wang, Zekai Wu, Qifan Wang, Min Zhang, Zenglin Xu",
+      "paper_url": "https://openreview.net/pdf?id=LFiaoYnP6T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JpbLyEI5EwW",
+      "paper_id": "JpbLyEI5EwW",
+      "title": "Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data",
+      "authors": "Spencer Frei, Gal Vardi, Peter Bartlett, Nathan Srebro, Wei Hu",
+      "paper_url": "https://openreview.net/pdf/aa62c3225873e9b019b0e053bf4f2ab35a42de9c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_6iDHce-0B-a",
+      "paper_id": "6iDHce-0B-a",
+      "title": "Implicit Bias of Large Depth Networks: a Notion of Rank for Nonlinear Functions",
+      "authors": "Arthur Jacot",
+      "paper_url": "https://openreview.net/pdf/856dc287ae646e9b77bfe6f682ad16ce86f0e148.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_IF0Q9KY3p2",
+      "paper_id": "IF0Q9KY3p2",
+      "title": "Implicit Bias of Mirror Flow for Shallow Neural Networks in Univariate Regression",
+      "authors": "Shuang Liang, Guido Montufar",
+      "paper_url": "https://openreview.net/pdf?id=IF0Q9KY3p2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_VLgmhQDVBV",
+      "paper_id": "VLgmhQDVBV",
+      "title": "Implicit Bias of MSE Gradient Optimization in Underparameterized Neural Networks",
+      "authors": "Benjamin Bowman, Guido Montufar",
+      "paper_url": "https://openreview.net/pdf/ccf082acfc5365ae3951682ff517392f46042ab1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_P1aobHnjjj",
+      "paper_id": "P1aobHnjjj",
+      "title": "Implicit bias of SGD in $L_2$-regularized linear DNNs: One-way jumps from high to low rank",
+      "authors": "Zihan Wang, Arthur Jacot",
+      "paper_url": "https://openreview.net/pdf?id=P1aobHnjjj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_0N8jUH4JMv6",
+      "paper_id": "0N8jUH4JMv6",
+      "title": "Implicit Convex Regularizers of CNN Architectures: Convex Optimization of Two- and Three-Layer Networks in Polynomial Time",
+      "authors": "Tolga Ergen, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/dba1d25e1354e478235ccc68af0dd34e0cf91c79.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_3q5IqUrkcF",
+      "paper_id": "3q5IqUrkcF",
+      "title": "Implicit Gradient Regularization",
+      "authors": "David Barrett, Benoit Dherin",
+      "paper_url": "https://openreview.net/pdf/5fac8e016a2873ec230214a072ff1cc0307e64f7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_d7Q0vVfJ0wO",
+      "paper_id": "d7Q0vVfJ0wO",
+      "title": "Implicit Regularization for Group Sparsity",
+      "authors": "Jiangyuan Li, Thanh V Nguyen, Chinmay Hegde, Raymond K. W. Wong",
+      "paper_url": "https://openreview.net/pdf/efa20f315f25148216c11b749723e1e6e8fac117.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_wLnls9LS3x",
+      "paper_id": "wLnls9LS3x",
+      "title": "Improved Algorithms for Kernel  Matrix-Vector Multiplication Under Sparsity Assumptions",
+      "authors": "Piotr Indyk, Michael Kapralov, Kshiteej Sheth, Tal Wagner",
+      "paper_url": "https://openreview.net/pdf?id=wLnls9LS3x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_L0r0GphlIL",
+      "paper_id": "L0r0GphlIL",
+      "title": "Improving Convergence and Generalization Using Parameter Symmetries",
+      "authors": "Bo Zhao, Robert M. Gower, Robin Walters, Rose Yu",
+      "paper_url": "https://openreview.net/pdf?id=L0r0GphlIL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Tl8OmiibP99",
+      "paper_id": "Tl8OmiibP99",
+      "title": "Improving Differentiable Neural Architecture Search by Encouraging Transferability",
+      "authors": "Parth Sheth, Pengtao Xie",
+      "paper_url": "https://openreview.net/pdf/f8c3c5ed3e60eaf450623930b9a0fff29ac63fd5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_kUveo5k1GF",
+      "paper_id": "kUveo5k1GF",
+      "title": "Improving equilibrium propagation without weight symmetry through Jacobian homeostasis",
+      "authors": "Axel Laborieux, Friedemann Zenke",
+      "paper_url": "https://openreview.net/pdf?id=kUveo5k1GF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_qLh6Ufvnuc",
+      "paper_id": "qLh6Ufvnuc",
+      "title": "Improving Generalization and Robustness in SNNs Through Signed Rate Encoding and Sparse Encoding Attacks",
+      "authors": "Bhaskar Mukhoty, Hilal AlQuabeh, Bin Gu",
+      "paper_url": "https://openreview.net/pdf?id=qLh6Ufvnuc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TEmE9PSC65",
+      "paper_id": "TEmE9PSC65",
+      "title": "Improving Neural Network Accuracy by Concurrently Training with a Twin Network",
+      "authors": "Benjamin Vandersmissen, Lucas Deckers, Jose Oramas",
+      "paper_url": "https://openreview.net/pdf?id=TEmE9PSC65",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gcouwCx7dG",
+      "paper_id": "gcouwCx7dG",
+      "title": "Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency",
+      "authors": "Jiangrong Shen, Qi Xu, Gang Pan, Badong Chen",
+      "paper_url": "https://openreview.net/pdf?id=gcouwCx7dG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_C61sk5LsK6",
+      "paper_id": "C61sk5LsK6",
+      "title": "InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning",
+      "authors": "Ziheng Qin, Kai Wang, Zangwei Zheng, Jianyang Gu, Xiangyu Peng, xu Zhao Pan, Daquan Zhou, Lei Shang, Baigui Sun, Xuansong Xie, Yang You",
+      "paper_url": "https://openreview.net/pdf?id=C61sk5LsK6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_KTlJT1nof6d",
+      "paper_id": "KTlJT1nof6d",
+      "title": "Initialization and Regularization of Factorized Neural Layers",
+      "authors": "Mikhail Khodak, Neil A. Tenenholtz, Lester Mackey, Nicolo Fusi",
+      "paper_url": "https://openreview.net/pdf/d22bc639b3e05ed1c862db4eaa41726d1f24406d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_dyrGMhicMw",
+      "paper_id": "dyrGMhicMw",
+      "title": "Initializing Models with Larger Ones",
+      "authors": "Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu",
+      "paper_url": "https://openreview.net/pdf?id=dyrGMhicMw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QhhShUQIpJ",
+      "paper_id": "QhhShUQIpJ",
+      "title": "InstaTrain: Adaptive Training via Ultra-Fast Natural Annealing within Dynamical Systems",
+      "authors": "Chuan Liu, Ruibing Song, Chunshu Wu, Pouya Haghi, Tong Geng",
+      "paper_url": "https://openreview.net/pdf?id=QhhShUQIpJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_j9Rv7qdXjd",
+      "paper_id": "j9Rv7qdXjd",
+      "title": "Interpretable Neural Architecture Search via Bayesian Optimisation with Weisfeiler-Lehman Kernels",
+      "authors": "Binxin Ru, Xingchen Wan, Xiaowen Dong, Michael Osborne",
+      "paper_url": "https://openreview.net/pdf/7a44783a6b1ada0693c095a8030ac42d0cdcf005.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_tqOvYpjPax2",
+      "paper_id": "tqOvYpjPax2",
+      "title": "Intraclass clustering: an implicit learning ability that regularizes DNNs",
+      "authors": "Simon Carbonnelle, Christophe De Vleeschouwer",
+      "paper_url": "https://openreview.net/pdf/ad12f1d02acbf2f8844ae158fd9d58309060ee34.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_JN7TcCm9LF",
+      "paper_id": "JN7TcCm9LF",
+      "title": "Koopman-based generalization bound: New aspect for full-rank weights",
+      "authors": "Yuka Hashimoto, Sho Sonoda, Isao Ishikawa, Atsushi Nitanda, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=JN7TcCm9LF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_KntaNRo6R48",
+      "paper_id": "KntaNRo6R48",
+      "title": "L0-Sparse Canonical Correlation Analysis",
+      "authors": "Ofir Lindenbaum, Moshe Salhov, Amir Averbuch, Yuval Kluger",
+      "paper_url": "https://openreview.net/pdf/69ae8c04ac43812f7523f009313daec68f09ea3d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_1yJP5TVWih",
+      "paper_id": "1yJP5TVWih",
+      "title": "Lambda-Skip Connections: the architectural component that prevents Rank Collapse",
+      "authors": "Federico Arangath Joseph, Jerome Sieber, Melanie Zeilinger, Carmen Amo Alonso",
+      "paper_url": "https://openreview.net/pdf?id=1yJP5TVWih",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_E5YmIBvOqV",
+      "paper_id": "E5YmIBvOqV",
+      "title": "Large Convolutional Model Tuning via Filter Subspace",
+      "authors": "Wei Chen, Zichen Miao, Qiang Qiu",
+      "paper_url": "https://openreview.net/pdf?id=E5YmIBvOqV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_0aW6lYOYB7d",
+      "paper_id": "0aW6lYOYB7d",
+      "title": "Large-width functional asymptotics for deep Gaussian neural networks",
+      "authors": "Daniele Bracale, Stefano Favaro, Sandra Fortini, Stefano Peluchetti",
+      "paper_url": "https://openreview.net/pdf/f23196cbe1af7816b29e5ef4110170972165c6ad.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_H6ATjJ0TKdf",
+      "paper_id": "H6ATjJ0TKdf",
+      "title": "Layer-adaptive Sparsity for the Magnitude-based Pruning",
+      "authors": "Jaeho Lee, Sejun Park, Sangwoo Mo, Sungsoo Ahn, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/6c6e88f6354b6fb0bc2955ecb9e518ca2f65432f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_dgxFTxuJ50e",
+      "paper_id": "dgxFTxuJ50e",
+      "title": "Learnability of convolutional neural networks for infinite dimensional input via mixed and anisotropic smoothness",
+      "authors": "Sho Okumoto, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf/634d72e29913c5641e4d1a3370a43676421f5b75.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_4r2ybzJnmN",
+      "paper_id": "4r2ybzJnmN",
+      "title": "Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings",
+      "authors": "Ilyass Hammouamri, Ismail Khalfaoui-Hassani, Timothée Masquelier",
+      "paper_url": "https://openreview.net/pdf?id=4r2ybzJnmN",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_J4Dvxv7WnG",
+      "paper_id": "J4Dvxv7WnG",
+      "title": "Learning Dynamics of Deep Matrix Factorization Beyond the Edge of Stability",
+      "authors": "Avrajit Ghosh, Soo Min Kwon, Rongrong Wang, Saiprasad Ravishankar, Qing Qu",
+      "paper_url": "https://openreview.net/pdf?id=J4Dvxv7WnG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_AjGC97Aofee",
+      "paper_id": "AjGC97Aofee",
+      "title": "Learning Efficient Image Super-Resolution Networks via Structure-Regularized Pruning",
+      "authors": "Yulun Zhang, Huan Wang, Can Qin, Yun Fu",
+      "paper_url": "https://openreview.net/pdf/538af917ae93b620773d2ce7ce65f827922d0e3f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_bCrdi4iVvv",
+      "paper_id": "bCrdi4iVvv",
+      "title": "Learning Features with Parameter-Free Layers",
+      "authors": "Dongyoon Han, YoungJoon Yoo, Beomyoung Kim, Byeongho Heo",
+      "paper_url": "https://openreview.net/pdf/45b77b67f9fd2463226093e385789c3f8167284d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_QgwAYFrh9t",
+      "paper_id": "QgwAYFrh9t",
+      "title": "Learning Hierarchical Polynomials with Three-Layer Neural Networks",
+      "authors": "Zihao Wang, Eshaan Nichani, Jason D. Lee",
+      "paper_url": "https://openreview.net/pdf?id=QgwAYFrh9t",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OuNIWgGGif",
+      "paper_id": "OuNIWgGGif",
+      "title": "Learning High-Degree Parities: The Crucial Role of the Initialization",
+      "authors": "Emmanuel Abbe, Elisabetta Cornacchia, Jan Hązła, Donald Kougang-Yombi",
+      "paper_url": "https://openreview.net/pdf?id=OuNIWgGGif",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_K9bw7vqp_s",
+      "paper_id": "K9bw7vqp_s",
+      "title": "Learning N:M  Fine-grained Structured Sparse Neural Networks From Scratch",
+      "authors": "Aojun Zhou, Yukun Ma, Junnan Zhu, Jianbo Liu, Zhijie Zhang, Kun Yuan, Wenxiu Sun, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf/75cc29fc217b7a42a135a1f1ee7a57e605181177.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_O1DEtITim__",
+      "paper_id": "O1DEtITim__",
+      "title": "Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining",
+      "authors": "Miao Lu, Xiaolong Luo, Tianlong Chen, Wuyang Chen, Dong Liu, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/c893710fa491c04dc86547df19635fae45a567c7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_nchvKfvNeX0",
+      "paper_id": "nchvKfvNeX0",
+      "title": "Learning ReLU networks to high uniform accuracy is intractable",
+      "authors": "Julius Berner, Philipp Grohs, Felix Voigtlaender",
+      "paper_url": "https://openreview.net/pdf/329f643f8f5be6019b42395906af35a4bf07256c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_J1rhANsCY9",
+      "paper_id": "J1rhANsCY9",
+      "title": "Learning Representation from Neural Fisher Kernel with Low-rank Approximation",
+      "authors": "Ruixiang ZHANG, Shuangfei Zhai, Etai Littwin, Joshua M. Susskind",
+      "paper_url": "https://openreview.net/pdf/decd70c5ae7ce929f66d927827dec0e696609320.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_TXPN6MtdSE4",
+      "paper_id": "TXPN6MtdSE4",
+      "title": "Learning Sparse and Low-Rank Priors for Image Recovery via Iterative Reweighted Least Squares Minimization",
+      "authors": "Stamatios Lefkimmiatis, Iaroslav Sergeevich Koshelev",
+      "paper_url": "https://openreview.net/pdf/c3a1293bb62246a6819045c59e222fa95041a535.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_Do9MOlwWHu0",
+      "paper_id": "Do9MOlwWHu0",
+      "title": "Learning Sparse Group Models Through Boolean Relaxation",
+      "authors": "Yijie Wang, Yuan Zhou, Xiaoqing Huang, Kun Huang, Jie Zhang, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf/0760530295a66fdff783489bb9ee1628a6ed3880.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_M752z9FKJP",
+      "paper_id": "M752z9FKJP",
+      "title": "Learning Strides in Convolutional Neural Networks",
+      "authors": "Rachid Riad, Olivier Teboul, David Grangier, Neil Zeghidour",
+      "paper_url": "https://openreview.net/pdf/1bc01ea49b5a288387ac5de300847b1d6690d940.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_YgC62m4CY3r",
+      "paper_id": "YgC62m4CY3r",
+      "title": "Learning with Auxiliary Activation for Memory-Efficient Training",
+      "authors": "Sunghyeon Woo, Dongsuk Jeon",
+      "paper_url": "https://openreview.net/pdf/1c6f3fd1ba354ed7bd43032e4a12fb61ed2598b0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_NVZvalzCLg",
+      "paper_id": "NVZvalzCLg",
+      "title": "LilNetX: Lightweight Networks with EXtreme Model Compression and Structured Sparsification",
+      "authors": "Sharath Girish, Kamal Gupta, Saurabh Singh, Abhinav Shrivastava",
+      "paper_url": "https://openreview.net/pdf/6044ad9b2563274f0ee65ed95023ef61cb963a47.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_g6syfIrVuS",
+      "paper_id": "g6syfIrVuS",
+      "title": "Local Loss Optimization in the Infinite Width: Stable Parameterization of Predictive Coding Networks and Target Propagation",
+      "authors": "Satoki Ishikawa, Rio Yokota, Ryo Karakida",
+      "paper_url": "https://openreview.net/pdf?id=g6syfIrVuS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_S0UdquAnr9k",
+      "paper_id": "S0UdquAnr9k",
+      "title": "Locally Free Weight Sharing for Network Width Search",
+      "authors": "Xiu Su, Shan You, Tao Huang, Fei Wang, Chen Qian, Changshui Zhang, Chang Xu",
+      "paper_url": "https://openreview.net/pdf/72deb2e0a363d37cf758dfbccea8fada27ebf7a8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_LXMSvPmsm0g",
+      "paper_id": "LXMSvPmsm0g",
+      "title": "Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning",
+      "authors": "Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/b8a21c081c59f4808478ea25d46d2743c4d51298.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ogKE7LcvW6",
+      "paper_id": "ogKE7LcvW6",
+      "title": "Loss Landscape of Shallow ReLU-like Neural Networks: Stationary Points, Saddle Escape, and Network Embedding",
+      "authors": "Zhengqing Wu, Berfin Simsek, François Gaston Ged",
+      "paper_url": "https://openreview.net/pdf?id=ogKE7LcvW6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_QC10RmRbZy9",
+      "paper_id": "QC10RmRbZy9",
+      "title": "Loss Landscapes are All You Need: Neural Network Generalization Can Be Explained Without the Implicit Bias of Gradient Descent",
+      "authors": "Ping-yeh Chiang, Renkun Ni, David Yu Miller, Arpit Bansal, Jonas Geiping, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/2a88b78329da070f92f565b0cde765a1fb20d3d9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_2mvALOAWaxY",
+      "paper_id": "2mvALOAWaxY",
+      "title": "Lower Bounds on the Depth of Integral ReLU Neural Networks via Lattice Polytopes",
+      "authors": "Christian Alexander Haase, Christoph Hertrich, Georg Loho",
+      "paper_url": "https://openreview.net/pdf/cf2ba337d410809186cefd884234463af489a061.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_8Ju0VmvMCW",
+      "paper_id": "8Ju0VmvMCW",
+      "title": "lpNTK: Better Generalisation with Less Data via Sample Interaction During Learning",
+      "authors": "Shangmin Guo, Yi Ren, Stefano V Albrecht, Kenny Smith",
+      "paper_url": "https://openreview.net/pdf?id=8Ju0VmvMCW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_fJNnerz6iH",
+      "paper_id": "fJNnerz6iH",
+      "title": "Magnitude Invariant Parametrizations Improve Hypernetwork Learning",
+      "authors": "Jose Javier Gonzalez Ortiz, John Guttag, Adrian V Dalca",
+      "paper_url": "https://openreview.net/pdf?id=fJNnerz6iH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_27SSnLl85x",
+      "paper_id": "27SSnLl85x",
+      "title": "Make Haste Slowly: A Theory of Emergent Structured Mixed Selectivity in Feature Learning ReLU Networks",
+      "authors": "Devon Jarvis, Richard Klein, Benjamin Rosman, Andrew M Saxe",
+      "paper_url": "https://openreview.net/pdf?id=27SSnLl85x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dQNL7Zsta3",
+      "paper_id": "dQNL7Zsta3",
+      "title": "Malign Overfitting: Interpolation and Invariance are Fundamentally at Odds",
+      "authors": "Yoav Wald, Gal Yona, Uri Shalit, Yair Carmon",
+      "paper_url": "https://openreview.net/pdf/47a6fc8f50c17a5f9230adfcbe67fccb2d5ccf2b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_U47ymTS3ut",
+      "paper_id": "U47ymTS3ut",
+      "title": "Mask in the Mirror: Implicit Sparsification",
+      "authors": "Tom Jacobs, Rebekka Burkholz",
+      "paper_url": "https://openreview.net/pdf?id=U47ymTS3ut",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sPuLtU32av",
+      "paper_id": "sPuLtU32av",
+      "title": "MAST: model-agnostic sparsified training",
+      "authors": "Yury Demidovich, Grigory Malinovsky, Egor Shulgin, Peter Richtárik",
+      "paper_url": "https://openreview.net/pdf?id=sPuLtU32av",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_n-hKHMzBgy",
+      "paper_id": "n-hKHMzBgy",
+      "title": "Max-Margin Works while Large Margin Fails: Generalization without Uniform Convergence",
+      "authors": "Margalit Glasgow, Colin Wei, Mary Wootters, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/84164345c9689be4f102bbd39af7c6b924f29271.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_VMV8gefvq8",
+      "paper_id": "VMV8gefvq8",
+      "title": "MCNC: Manifold-Constrained Reparameterization for Neural Compression",
+      "authors": "Chayne Thrash, Reed Andreas, Ali Abbasi, Parsa Nooralinejad, Soroush Abbasi Koohpayegani, Hamed Pirsiavash, Soheil Kolouri",
+      "paper_url": "https://openreview.net/pdf?id=VMV8gefvq8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_rB3zRN0lBYr",
+      "paper_id": "rB3zRN0lBYr",
+      "title": "Memorization Capacity of Neural Networks with Conditional Computation",
+      "authors": "Erdem Koyuncu",
+      "paper_url": "https://openreview.net/pdf/469cf18bab296b8d78b2e87f5e40ebabe7e71ef5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_cJWxqmmDL2b",
+      "paper_id": "cJWxqmmDL2b",
+      "title": "Memorization-Dilation: Modeling Neural Collapse Under Noise",
+      "authors": "Duc Anh Nguyen, Ron Levie, Julian Lienen, Eyke Hüllermeier, Gitta Kutyniok",
+      "paper_url": "https://openreview.net/pdf/9f22b86b155fa265265ff7806589485c313427c8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_bnY0jm4l59",
+      "paper_id": "bnY0jm4l59",
+      "title": "Memory Optimization for Deep Networks",
+      "authors": "Aashaka Shah, Chao-Yuan Wu, Jayashree Mohan, Vijay Chidambaram, Philipp Kraehenbuehl",
+      "paper_url": "https://openreview.net/pdf/c229005882f26be8587687dbfc967c17b75d1bac.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_SEh5SfEQtqB",
+      "paper_id": "SEh5SfEQtqB",
+      "title": "Meta-prediction Model for Distillation-Aware NAS on Unseen Datasets",
+      "authors": "Hayeon Lee, Sohyun An, Minseon Kim, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/80703f68458650e155bc0dd7dd6c988a91fbc1be.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_9z_dNsC4B5t",
+      "paper_id": "9z_dNsC4B5t",
+      "title": "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains",
+      "authors": "Yingjun Du, Xiantong Zhen, Ling Shao, Cees G. M. Snoek",
+      "paper_url": "https://openreview.net/pdf/e4941f0cbfea169f5f0e844813dd291b73fe78ba.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_cWmtUcsYC3V",
+      "paper_id": "cWmtUcsYC3V",
+      "title": "Mind the Pool: Convolutional Neural Networks Can Overfit Input Size",
+      "authors": "Bilal Alsallakh, David Yan, Narine Kokhlikyan, Vivek Miglani, Orion Reblitz-Richardson, Pamela Bhattacharya",
+      "paper_url": "https://openreview.net/pdf/43498b197a3176acfb479e3d500111f3a47c7094.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_zEn1BhaNYsC",
+      "paper_id": "zEn1BhaNYsC",
+      "title": "Minimax Optimal Kernel Operator Learning via Multilevel Training",
+      "authors": "Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying",
+      "paper_url": "https://openreview.net/pdf/5133e05de4997ce07895732d586909263b656b92.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EW8ZExRZkJ",
+      "paper_id": "EW8ZExRZkJ",
+      "title": "Minimax optimality of convolutional neural networks for infinite dimensional input-output problems and separation from kernel methods",
+      "authors": "Yuto Nishimura, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=EW8ZExRZkJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_vuD2xEtxZcj",
+      "paper_id": "vuD2xEtxZcj",
+      "title": "Minimum Variance Unbiased N:M Sparsity for the Neural Gradients",
+      "authors": "Brian Chmiel, Itay Hubara, Ron Banner, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf/b7b54047fdaf97f505713a0b6675abc7e120c460.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_O-XJwyoIF-k",
+      "paper_id": "O-XJwyoIF-k",
+      "title": "Minimum Width for Universal Approximation",
+      "authors": "Sejun Park, Chulhee Yun, Jaeho Lee, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/e18b24a6733ce47aa4779ab76eb962fe09a49a45.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_dpDw5U04SU",
+      "paper_id": "dpDw5U04SU",
+      "title": "Minimum width for universal approximation using ReLU networks on compact domain",
+      "authors": "Namjun Kim, Chanho Min, Sejun Park",
+      "paper_url": "https://openreview.net/pdf?id=dpDw5U04SU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ZW5aK4yCRqU",
+      "paper_id": "ZW5aK4yCRqU",
+      "title": "Modelling Long Range Dependencies in $N$D: From Task-Specific to a General Purpose CNN",
+      "authors": "David M Knigge, David W. Romero, Albert Gu, Efstratios Gavves, Erik J Bekkers, Jakub Mikolaj Tomczak, Mark Hoogendoorn, Jan-jakob Sonke",
+      "paper_url": "https://openreview.net/pdf/abb196ec738da8172fc658b7f357a1883eea4e1e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_0pxiMpCyBtr",
+      "paper_id": "0pxiMpCyBtr",
+      "title": "Monotonic Kronecker-Factored Lattice",
+      "authors": "William Taylor Bakst, Nobuyuki Morioka, Erez Louidor",
+      "paper_url": "https://openreview.net/pdf/86fd2e9cf39fac3f9c7f37e71683f60eb7e3e575.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_bXNl-myZkJl",
+      "paper_id": "bXNl-myZkJl",
+      "title": "More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity",
+      "authors": "Shiwei Liu, Tianlong Chen, Xiaohan Chen, Xuxi Chen, Qiao Xiao, Boqian Wu, Tommi Kärkkäinen, Mykola Pechenizkiy, Decebal Constantin Mocanu, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/5c2a0ddd8a652ab99b14ffd766607bb364e763b9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_OdpIjS0vkO",
+      "paper_id": "OdpIjS0vkO",
+      "title": "More is Better: when Infinite Overparameterization is Optimal and Overfitting is Obligatory",
+      "authors": "James B Simon, Dhruva Karkada, Nikhil Ghosh, Mikhail Belkin",
+      "paper_url": "https://openreview.net/pdf?id=OdpIjS0vkO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_z5Z023VBmDZ",
+      "paper_id": "z5Z023VBmDZ",
+      "title": "More or Less: When and How to Build Convolutional Neural Network Ensembles",
+      "authors": "Abdul Wasay, Stratos Idreos",
+      "paper_url": "https://openreview.net/pdf/e955ea07ee1a66ac3cdcfc11c93b7cb87732b0d8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_U_mat0b9iv",
+      "paper_id": "U_mat0b9iv",
+      "title": "Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network",
+      "authors": "James Diffenderfer, Bhavya Kailkhura",
+      "paper_url": "https://openreview.net/pdf/a893180f3b4ea79ef89fca056e7170bcd084f923.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_OmtmcPkkhT",
+      "paper_id": "OmtmcPkkhT",
+      "title": "Multiplicative Filter Networks",
+      "authors": "Rizal Fathony, Anit Kumar Sahu, Devin Willmott, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/e0702b90f0766df82135fc5e14a2df510e9aa9d5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_II81zQUS1x",
+      "paper_id": "II81zQUS1x",
+      "title": "Multiplicative Logit Adjustment Approximates Neural-Collapse-Aware Decision Boundary Adjustment",
+      "authors": "Naoya Hasegawa, Issei Sato",
+      "paper_url": "https://openreview.net/pdf?id=II81zQUS1x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_CU0APx9LMaL",
+      "paper_id": "CU0APx9LMaL",
+      "title": "NAS-Bench-ASR: Reproducible Neural Architecture Search for Speech Recognition",
+      "authors": "Abhinav Mehrotra, Alberto Gil C. P. Ramos, Sourav Bhattacharya, Łukasz Dudziak, Ravichander Vipperla, Thomas Chau, Mohamed S Abdelfattah, Samin Ishtiaq, Nicholas Donald Lane",
+      "paper_url": "https://openreview.net/pdf/77fdff265261021a568029907ab02c0f1f6e4639.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_v-v1cpNNK_v",
+      "paper_id": "v-v1cpNNK_v",
+      "title": "NASI: Label- and Data-agnostic Neural Architecture Search at Initialization",
+      "authors": "Yao Shu, Shaofeng Cai, Zhongxiang Dai, Beng Chin Ooi, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf/403d8d24b5d2e39b6c55d43bda2f3c36566a45ea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_TYw3-OlrRm-",
+      "paper_id": "TYw3-OlrRm-",
+      "title": "Network Augmentation for Tiny Deep Learning",
+      "authors": "Han Cai, Chuang Gan, Ji Lin, Song Han",
+      "paper_url": "https://openreview.net/pdf/484496875b902e745fc4d6514abb817e7be477c2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_1RrOtCmuKr",
+      "paper_id": "1RrOtCmuKr",
+      "title": "Network Memory Footprint Compression Through Jointly Learnable Codebooks and Mappings",
+      "authors": "Edouard YVINEC, Arnaud Dapogny, Kevin Bailly",
+      "paper_url": "https://openreview.net/pdf?id=1RrOtCmuKr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Cb54AMqHQFP",
+      "paper_id": "Cb54AMqHQFP",
+      "title": "Network Pruning That Matters:  A Case Study on Retraining Variants",
+      "authors": "Duong Hoang Le, Binh-Son Hua",
+      "paper_url": "https://openreview.net/pdf/cd800d481759bd2472d081c050f8be1d94f91760.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Cnon5ezMHtu",
+      "paper_id": "Cnon5ezMHtu",
+      "title": "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective",
+      "authors": "Wuyang Chen, Xinyu Gong, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/097fe3785855414961469f27465c798144ea4b9e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_w1UbdvWH_R3",
+      "paper_id": "w1UbdvWH_R3",
+      "title": "Neural Collapse Under MSE Loss: Proximity to and Dynamics on the Central Path",
+      "authors": "X.Y. Han, Vardan Papyan, David L. Donoho",
+      "paper_url": "https://openreview.net/pdf/75799bbe466f7240935655cbfaa930c9628a915e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_EoFNy62JGd",
+      "paper_id": "EoFNy62JGd",
+      "title": "Neural gradients are near-lognormal: improved quantized  and sparse training",
+      "authors": "Brian Chmiel, Liad Ben-Uri, Moran Shkolnik, Elad Hoffer, Ron Banner, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf/6931f8bb8366bb42bd29d92eb0e841b8ac24f29e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_q8qLAbQBupm",
+      "paper_id": "q8qLAbQBupm",
+      "title": "Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics",
+      "authors": "Daniel Kunin, Javier Sagastuy-Brena, Surya Ganguli, Daniel LK Yamins, Hidenori Tanaka",
+      "paper_url": "https://openreview.net/pdf/5abc5ac75318bd0ee0b7d7d6a805c51471a672e0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_oiZJwC_fyS",
+      "paper_id": "oiZJwC_fyS",
+      "title": "Neural Network Approximation based on Hausdorff distance of Tropical Zonotopes",
+      "authors": "Panagiotis Misiakos, Georgios Smyrnis, George Retsinas, Petros Maragos",
+      "paper_url": "https://openreview.net/pdf/e09efd74b974abec052126ca4cbb787b04fd3265.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_1NvflqAdoom",
+      "paper_id": "1NvflqAdoom",
+      "title": "Neural Networks as Kernel Learners: The Silent Alignment Effect",
+      "authors": "Alexander Atanasov, Blake Bordelon, Cengiz Pehlevan",
+      "paper_url": "https://openreview.net/pdf/06f8c9a443cfe06f78852aa3be34a2ff89b75293.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_6taykzqcPD",
+      "paper_id": "6taykzqcPD",
+      "title": "Neural Networks Efficiently Learn Low-Dimensional Representations with SGD",
+      "authors": "Alireza Mousavi-Hosseini, Sejun Park, Manuela Girotti, Ioannis Mitliagkas, Murat A Erdogdu",
+      "paper_url": "https://openreview.net/pdf/1240f349d491e95499f0c82e7a0de39047d53f8e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_C0qJUx5dxFb",
+      "paper_id": "C0qJUx5dxFb",
+      "title": "Neural networks with late-phase weights",
+      "authors": "Johannes von Oswald, Seijin Kobayashi, Joao Sacramento, Alexander Meulemans, Christian Henning, Benjamin F Grewe",
+      "paper_url": "https://openreview.net/pdf/b8fee003035442b69f0891687d5afc8ab42545d4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_o966_Is_nPA",
+      "paper_id": "o966_Is_nPA",
+      "title": "Neural Pruning via Growing Regularization",
+      "authors": "Huan Wang, Can Qin, Yulun Zhang, Yun Fu",
+      "paper_url": "https://openreview.net/pdf/fc6d04c3b9fc74c91c68bc4f55b02db36753f98c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_q_S44KLQ_Aa",
+      "paper_id": "q_S44KLQ_Aa",
+      "title": "Neurally Augmented ALISTA",
+      "authors": "Freya Behrens, Jonathan Sauder, Peter Jung",
+      "paper_url": "https://openreview.net/pdf/47516abe23cbccb7a1e7ed8520cf57ee2f68581f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_60lNoatp7u",
+      "paper_id": "60lNoatp7u",
+      "title": "NeurRev: Train Better Sparse Neural Network Practically via Neuron Revitalization",
+      "authors": "Gen Li, Lu Yin, Jie Ji, Wei Niu, Minghai Qin, Bin Ren, Linke Guo, Shiwei Liu, Xiaolong Ma",
+      "paper_url": "https://openreview.net/pdf?id=60lNoatp7u",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SFNqrHQTEP",
+      "paper_id": "SFNqrHQTEP",
+      "title": "NExUME: Adaptive Training and Inference for DNNs under Intermittent Power Environments",
+      "authors": "Cyan Subhra Mishra, Deeksha Chaudhary, Jack Sampson, Mahmut Kandemir, Chita R. Das",
+      "paper_url": "https://openreview.net/pdf?id=SFNqrHQTEP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_GTUoTJXPBf",
+      "paper_id": "GTUoTJXPBf",
+      "title": "Noisy Interpolation Learning with Shallow Univariate ReLU Networks",
+      "authors": "Nirmit Joshi, Gal Vardi, Nathan Srebro",
+      "paper_url": "https://openreview.net/pdf?id=GTUoTJXPBf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_HfXDrAzFvG",
+      "paper_id": "HfXDrAzFvG",
+      "title": "Novel Quadratic Constraints for Extending LipSDP beyond Slope-Restricted Activations",
+      "authors": "Patricia Pauli, Aaron J Havens, Alexandre Araujo, Siddharth Garg, Farshad Khorrami, Frank Allgöwer, Bin Hu",
+      "paper_url": "https://openreview.net/pdf?id=HfXDrAzFvG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_-5EWhW_4qWP",
+      "paper_id": "-5EWhW_4qWP",
+      "title": "NTK-SAP: Improving neural network pruning by aligning training dynamics",
+      "authors": "Yite Wang, Dawei Li, Ruoyu Sun",
+      "paper_url": "https://openreview.net/pdf/0c900b18137ea74d6ca0a934667ba24676032540.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_DLDuVbxORA",
+      "paper_id": "DLDuVbxORA",
+      "title": "OATS: Outlier-Aware Pruning Through Sparse and Low Rank Decomposition",
+      "authors": "Stephen Zhang, Vardan Papyan",
+      "paper_url": "https://openreview.net/pdf?id=DLDuVbxORA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_fYzLpCsGZVf",
+      "paper_id": "fYzLpCsGZVf",
+      "title": "On Accelerated Perceptrons and Beyond",
+      "authors": "Guanghui Wang, Rafael Hanashiro, Etash Kumar Guha, Jacob Abernethy",
+      "paper_url": "https://openreview.net/pdf/768d155c1f9dc5850d4f0168d19575e8c747490e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_i2Phucne30",
+      "paper_id": "i2Phucne30",
+      "title": "On Bias-Variance Alignment in Deep Models",
+      "authors": "Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf?id=i2Phucne30",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_PQTW3iG4sC-",
+      "paper_id": "PQTW3iG4sC-",
+      "title": "On feature learning in neural networks with global convergence guarantees",
+      "authors": "Zhengdao Chen, Eric Vanden-Eijnden, Joan Bruna",
+      "paper_url": "https://openreview.net/pdf/7ae8138e2ef895c84726f09da2670108d7ddfa81.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_eW5R4Cek6y6",
+      "paper_id": "eW5R4Cek6y6",
+      "title": "On Predicting Generalization using GANs",
+      "authors": "Yi Zhang, Arushi Gupta, Nikunj Saunshi, Sanjeev Arora",
+      "paper_url": "https://openreview.net/pdf/c02dd2fa195251e1b7cc85379208fea1bc5f6a53.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_rFJWoYoxrDB",
+      "paper_id": "rFJWoYoxrDB",
+      "title": "On Redundancy and Diversity in Cell-based Neural Architecture Search",
+      "authors": "Xingchen Wan, Binxin Ru, Pedro M Esperança, Zhenguo Li",
+      "paper_url": "https://openreview.net/pdf/9f2dd3fa246906ee1dfabf21cda76b01d386c017.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_zrW-LVXj2k1",
+      "paper_id": "zrW-LVXj2k1",
+      "title": "On the benefits of maximum likelihood estimation for Regression and Forecasting",
+      "authors": "Pranjal Awasthi, Abhimanyu Das, Rajat Sen, Ananda Theertha Suresh",
+      "paper_url": "https://openreview.net/pdf/676edee8f0bcb63695ea6a66f75477179eb324d7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_YTEwJaBdh0",
+      "paper_id": "YTEwJaBdh0",
+      "title": "On the Crucial Role of Initialization for Matrix Factorization",
+      "authors": "Bingcong Li, Liang Zhang, Aryan Mokhtari, Niao He",
+      "paper_url": "https://openreview.net/pdf?id=YTEwJaBdh0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ydlDRUuGm9",
+      "paper_id": "ydlDRUuGm9",
+      "title": "On the expressiveness and spectral bias of KANs",
+      "authors": "Yixuan Wang, Jonathan W. Siegel, Ziming Liu, Thomas Y. Hou",
+      "paper_url": "https://openreview.net/pdf?id=ydlDRUuGm9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uREg3OHjLL",
+      "paper_id": "uREg3OHjLL",
+      "title": "On the Expressiveness of Rational ReLU Neural Networks With Bounded Depth",
+      "authors": "Gennadiy Averkov, Christopher Hojny, Maximilian Merkert",
+      "paper_url": "https://openreview.net/pdf?id=uREg3OHjLL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_oWZsQ8o5EA",
+      "paper_id": "oWZsQ8o5EA",
+      "title": "On the Generalization of Models Trained with SGD: Information-Theoretic Bounds and Implications",
+      "authors": "Ziqiao Wang, Yongyi Mao",
+      "paper_url": "https://openreview.net/pdf/2de81438aaadab6bf2476214305bff6725392d71.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_V8jrrnwGbuc",
+      "paper_id": "V8jrrnwGbuc",
+      "title": "On the geometry of generalization and memorization in deep neural networks",
+      "authors": "Cory Stephenson, suchismita padhy, Abhinav Ganesh, Yue Hui, Hanlin Tang, SueYeon Chung",
+      "paper_url": "https://openreview.net/pdf/4c875dc13f634270639a752914300c6c90ea6977.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_MkTPtnjeYTV",
+      "paper_id": "MkTPtnjeYTV",
+      "title": "On the Optimal Memorization Power of ReLU Neural Networks",
+      "authors": "Gal Vardi, Gilad Yehudai, Ohad Shamir",
+      "paper_url": "https://openreview.net/pdf/6278a5d471f74abf6613e3926eac6ce535669473.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_rq_Qr0c1Hyo",
+      "paper_id": "rq_Qr0c1Hyo",
+      "title": "On the Origin of Implicit Regularization in Stochastic Gradient Descent",
+      "authors": "Samuel L Smith, Benoit Dherin, David Barrett, Soham De",
+      "paper_url": "https://openreview.net/pdf/e5f4bcf96d3ed905ac91e4ea6e3993321ecda830.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_2V1Z0Jdmss",
+      "paper_id": "2V1Z0Jdmss",
+      "title": "On the Over-Memorization During Natural, Robust and Catastrophic Overfitting",
+      "authors": "Runqi Lin, Chaojian Yu, Bo Han, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=2V1Z0Jdmss",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_qs2YCziX2o-",
+      "paper_id": "qs2YCziX2o-",
+      "title": "On The Relative Error of Random Fourier Features for Preserving Kernel Distance",
+      "authors": "Kuan Cheng, Shaofeng H.-C. Jiang, Luojian Wei, Zhide Wei",
+      "paper_url": "https://openreview.net/pdf/2cfb96f6ef7713b8278f6877fc8a48505389d909.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_SwIp410B6aQ",
+      "paper_id": "SwIp410B6aQ",
+      "title": "On the Role of Neural Collapse in Transfer Learning",
+      "authors": "Tomer Galanti, András György, Marcus Hutter",
+      "paper_url": "https://openreview.net/pdf/92ef43eae5d5f2d0950bab4169ae4d3e49bbe534.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_tFvr-kYWs_Y",
+      "paper_id": "tFvr-kYWs_Y",
+      "title": "On the Saturation Effect of Kernel Ridge Regression",
+      "authors": "Yicheng Li, Haobo Zhang, Qian Lin",
+      "paper_url": "https://openreview.net/pdf/d96aacc83b173439f5771f484954fdf07a50af3a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_dwzLn78jq7",
+      "paper_id": "dwzLn78jq7",
+      "title": "On the Scalability and Memory Efficiency of Semidefinite Programs  for Lipschitz Constant Estimation of Neural Networks",
+      "authors": "Zi Wang, Bin Hu, Aaron J Havens, Alexandre Araujo, Yang Zheng, Yudong Chen, Somesh Jha",
+      "paper_url": "https://openreview.net/pdf?id=dwzLn78jq7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_p-NZIuwqhI4",
+      "paper_id": "p-NZIuwqhI4",
+      "title": "On the Theory of Implicit Deep Learning: Global Convergence with Implicit Layers",
+      "authors": "Kenji Kawaguchi",
+      "paper_url": "https://openreview.net/pdf/2d0baf2a17b567711b0bc3085000c41372e8c2d8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_0IO5VdnSAaH",
+      "paper_id": "0IO5VdnSAaH",
+      "title": "On the Universality of the Double Descent Peak in Ridgeless Regression",
+      "authors": "David Holzmüller",
+      "paper_url": "https://openreview.net/pdf/aa0b9683f2ce0dc2584f031c8d4e614c36489280.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_pEGSdJu52I",
+      "paper_id": "pEGSdJu52I",
+      "title": "On the Variance of Neural Network Training with respect to Test Sets and Distributions",
+      "authors": "Keller Jordan",
+      "paper_url": "https://openreview.net/pdf?id=pEGSdJu52I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ALGFFPXWSi",
+      "paper_id": "ALGFFPXWSi",
+      "title": "One Forward is Enough for Neural Network Training via Likelihood Ratio Method",
+      "authors": "Jinyang Jiang, Zeliang Zhang, Chenliang Xu, Zhaofei Yu, Yijie Peng",
+      "paper_url": "https://openreview.net/pdf?id=ALGFFPXWSi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_p7G8t5FVn2h",
+      "paper_id": "p7G8t5FVn2h",
+      "title": "One-Pixel Shortcut: On the Learning Preference of Deep Neural Networks",
+      "authors": "Shutong Wu, Sizhe Chen, Cihang Xie, Xiaolin Huang",
+      "paper_url": "https://openreview.net/pdf/b69561625d5ce4388db999c205fdb5a8b988725e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_CIj1CVbkpr",
+      "paper_id": "CIj1CVbkpr",
+      "title": "Online Stabilization of Spiking Neural Networks",
+      "authors": "Yaoyu Zhu, Jianhao Ding, Tiejun Huang, Xiaodong Xie, Zhaofei Yu",
+      "paper_url": "https://openreview.net/pdf?id=CIj1CVbkpr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ltWade-cpK",
+      "paper_id": "ltWade-cpK",
+      "title": "Optimal Activation Functions for the Random Features Regression Model",
+      "authors": "Jianxin Wang, José Bento",
+      "paper_url": "https://openreview.net/pdf/8895967b0a0cc46d0f4328a9c58e36e5da0fec6b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_7B3IJMM1k_M",
+      "paper_id": "7B3IJMM1k_M",
+      "title": "Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks",
+      "authors": "Tong Bu, Wei Fang, Jianhao Ding, PENGLIN DAI, Zhaofei Yu, Tiejun Huang",
+      "paper_url": "https://openreview.net/pdf/b0826b541fa995e04f8d1b450b17143170fe1d8f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_FZ1oTwcXchK",
+      "paper_id": "FZ1oTwcXchK",
+      "title": "Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks",
+      "authors": "Shikuang Deng, Shi Gu",
+      "paper_url": "https://openreview.net/pdf/3fa8b0934cae8be35e892a8347c631357447a5e7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Jc0FssXh2R",
+      "paper_id": "Jc0FssXh2R",
+      "title": "Optimal criterion for feature learning of two-layer linear neural network in high dimensional interpolation regime",
+      "authors": "Keita Suzuki, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=Jc0FssXh2R",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WlhVRh2rQ0",
+      "paper_id": "WlhVRh2rQ0",
+      "title": "Optimal Learning of Kernel Logistic Regression for Complex Classification Scenarios",
+      "authors": "Hongwei Wen, Annika Betken, Hanyuan Hang",
+      "paper_url": "https://openreview.net/pdf?id=WlhVRh2rQ0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_PULSD5qI2N1",
+      "paper_id": "PULSD5qI2N1",
+      "title": "Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime",
+      "authors": "Atsushi Nitanda, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf/70618f9539e2b69bad45f4ed3eab3fb18f352bbf.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_7R7fAoUygoa",
+      "paper_id": "7R7fAoUygoa",
+      "title": "Optimal Regularization can Mitigate Double Descent",
+      "authors": "Preetum Nakkiran, Prayaag Venkat, Sham M. Kakade, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/3424b7750a87532de0707e6ced4dd6f62ee9ca29.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_47hDbAMLbc",
+      "paper_id": "47hDbAMLbc",
+      "title": "OPTIMAL ROBUST MEMORIZATION WITH RELU NEURAL NETWORKS",
+      "authors": "Lijia Yu, Xiao-Shan Gao, Lijun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=47hDbAMLbc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_dPyRNUlttBv",
+      "paper_id": "dPyRNUlttBv",
+      "title": "Optimization and Adaptive Generalization of Three layer Neural Networks",
+      "authors": "Khashayar Gatmiry, Stefanie Jegelka, Jonathan Kelner",
+      "paper_url": "https://openreview.net/pdf/086ce10c9607a92d59635b0ac0f1f0bd8c86ae5b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_-6vS_4Kfz0",
+      "paper_id": "-6vS_4Kfz0",
+      "title": "Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning",
+      "authors": "Shauharda Khadka, Estelle Aflalo, Mattias Marder, Avrech Ben-David, Santiago Miret, Shie Mannor, Tamir Hazan, Hanlin Tang, Somdeb Majumdar",
+      "paper_url": "https://openreview.net/pdf/04f5290361838504c7aedc9907d8058042fe455e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_1H90Gb9rJ9",
+      "paper_id": "1H90Gb9rJ9",
+      "title": "Optimizing Neural Network Representations of Boolean Networks",
+      "authors": "Joshua Russell, Ignacio Gavier, Devdhar Patel, Edward Rietman, Hava T Siegelmann",
+      "paper_url": "https://openreview.net/pdf?id=1H90Gb9rJ9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Pbj8H_jEHYv",
+      "paper_id": "Pbj8H_jEHYv",
+      "title": "Orthogonalizing Convolutional Layers with the Cayley Transform",
+      "authors": "Asher Trockman, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/6ae88022a0cffd7671fd9602be34926437a0f6cb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_kIZ3S3tel6",
+      "paper_id": "kIZ3S3tel6",
+      "title": "Outliers with Opposing Signals Have an Outsized Effect on Neural Network Optimization",
+      "authors": "Elan Rosenfeld, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf?id=kIZ3S3tel6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_6zrOr_Rdhjs",
+      "paper_id": "6zrOr_Rdhjs",
+      "title": "Parallel Deep Neural Networks Have Zero Duality Gap",
+      "authors": "Yifei Wang, Tolga Ergen, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/49efda6feccac495256971139ea3c45e985d5e47.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_syfgJE6nFRW",
+      "paper_id": "syfgJE6nFRW",
+      "title": "PASHA: Efficient HPO and NAS with Progressive Resource Allocation",
+      "authors": "Ondrej Bohdal, Lukas Balles, Martin Wistuba, Beyza Ermis, Cedric Archambeau, Giovanni Zappella",
+      "paper_url": "https://openreview.net/pdf/f31b68fd6a72a1778e9047c7f1b1a606a7e77147.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_moHCzz6D5H3",
+      "paper_id": "moHCzz6D5H3",
+      "title": "Peek-a-Boo: What (More) is Disguised in a Randomly Weighted Neural Network, and How to Find It Efficiently",
+      "authors": "Xiaohan Chen, Jason Zhang, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/60b7fbc376713b122304e2e0530ea7290974d364.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_iPHLcmtietq",
+      "paper_id": "iPHLcmtietq",
+      "title": "Phase Collapse in Neural Networks",
+      "authors": "Florentin Guth, John Zarka, Stéphane Mallat",
+      "paper_url": "https://openreview.net/pdf/e7edb0ba8bb5814255b8fcf9d0c3100a71b6718d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_lTqGXfn9Tv",
+      "paper_id": "lTqGXfn9Tv",
+      "title": "Phenomenology of Double Descent in Finite-Width Neural Networks",
+      "authors": "Sidak Pal Singh, Aurelien Lucchi, Thomas Hofmann, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/692a8cdd6b0dd0b5c63c485191d55432b21ad442.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_Nfl-iXa-y7R",
+      "paper_id": "Nfl-iXa-y7R",
+      "title": "Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models",
+      "authors": "Beidi Chen, Tri Dao, Kaizhao Liang, Jiaming Yang, Zhao Song, Atri Rudra, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/ee0e47a9502622a5bc9e044424d6f3217c00bdf4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_z289SIQOQna",
+      "paper_id": "z289SIQOQna",
+      "title": "Plateau in Monotonic Linear Interpolation --- A \"Biased\" View of Loss Landscape for Deep Networks",
+      "authors": "Xiang Wang, Annie N. Wang, Mo Zhou, Rong Ge",
+      "paper_url": "https://openreview.net/pdf/5f963b1090be68987c9f6af517d4e8234dbecbcb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_gSdSJoenupI",
+      "paper_id": "gSdSJoenupI",
+      "title": "PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions",
+      "authors": "Zhaoqi Leng, Mingxing Tan, Chenxi Liu, Ekin Dogus Cubuk, Jay Shi, Shuyang Cheng, Dragomir Anguelov",
+      "paper_url": "https://openreview.net/pdf/d1430448cff98fb37273293f39735ba9c6a4313a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_34STseLBrQ",
+      "paper_id": "34STseLBrQ",
+      "title": "Polynomial Width is Sufficient for Set Representation with High-dimensional Features",
+      "authors": "Peihao Wang, Shenghao Yang, Shu Li, Zhangyang Wang, Pan Li",
+      "paper_url": "https://openreview.net/pdf?id=34STseLBrQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_xNOVfCCvDpM",
+      "paper_id": "xNOVfCCvDpM",
+      "title": "Post hoc Explanations may be Ineffective for Detecting Unknown Spurious Correlation",
+      "authors": "Julius Adebayo, Michael Muelly, Harold Abelson, Been Kim",
+      "paper_url": "https://openreview.net/pdf/25d1d4e7a5f415eccf5a40f584ff83b2d54db779.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_s1KljJpAukm",
+      "paper_id": "s1KljJpAukm",
+      "title": "PowerQuant: Automorphism Search for Non-Uniform Quantization",
+      "authors": "Edouard YVINEC, Arnaud Dapogny, Matthieu Cord, Kevin Bailly",
+      "paper_url": "https://openreview.net/pdf/128aab6307b8e0b4c0cc436f8a5b62d9ebe7565c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_eNQp79A5Oz",
+      "paper_id": "eNQp79A5Oz",
+      "title": "Preserving Deep Representations in One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework",
+      "authors": "Ryan Lucas, Rahul Mazumder",
+      "paper_url": "https://openreview.net/pdf?id=eNQp79A5Oz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hJ1BaJ5ELp",
+      "paper_id": "hJ1BaJ5ELp",
+      "title": "Probabilistic Neural Pruning via Sparsity Evolutionary Fokker-Planck-Kolmogorov Equation",
+      "authors": "Zhanfeng Mo, Haosen Shi, Sinno Jialin Pan",
+      "paper_url": "https://openreview.net/pdf?id=hJ1BaJ5ELp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_9GsFOUyUPi",
+      "paper_id": "9GsFOUyUPi",
+      "title": "Progressive Skeletonization: Trimming more fat from a network at initialization",
+      "authors": "Pau de Jorge, Amartya Sanyal, Harkirat Behl, Philip Torr, Grégory Rogez, Puneet K. Dokania",
+      "paper_url": "https://openreview.net/pdf/c774cc8cddefe7ca854f3b051602f706c05b7239.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_AIgn9uwfcD1",
+      "paper_id": "AIgn9uwfcD1",
+      "title": "Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients",
+      "authors": "Milad Alizadeh, Shyam A. Tailor, Luisa M Zintgraf, Joost van Amersfoort, Sebastian Farquhar, Nicholas Donald Lane, Yarin Gal",
+      "paper_url": "https://openreview.net/pdf/1dfea35c91657067e141f26d76aa2c2c7e96bcc6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_BwPaPxwgyQb",
+      "paper_id": "BwPaPxwgyQb",
+      "title": "Provable Learning-based Algorithm For Sparse Recovery",
+      "authors": "Xinshi Chen, Haoran Sun, Le Song",
+      "paper_url": "https://openreview.net/pdf/5b72c15b934bbc248f48b3fadda48f2ffbdfaece.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_4vzGQcVUG8",
+      "paper_id": "4vzGQcVUG8",
+      "title": "Provable weak-to-strong generalization via benign overfitting",
+      "authors": "David Xing Wu, Anant Sahai",
+      "paper_url": "https://openreview.net/pdf?id=4vzGQcVUG8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_DlpCotqdTy",
+      "paper_id": "DlpCotqdTy",
+      "title": "Provably Auditing Ordinary Least Squares in Low Dimensions",
+      "authors": "Ankur Moitra, Dhruv Rohatgi",
+      "paper_url": "https://openreview.net/pdf/50c71abe6094fa12406a47a024a6b54be845582a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Vjki79-619-",
+      "paper_id": "Vjki79-619-",
+      "title": "Proving the Lottery Ticket Hypothesis for Convolutional Neural Networks",
+      "authors": "Arthur da Cunha, Emanuele Natale, Laurent Viennot",
+      "paper_url": "https://openreview.net/pdf/883b1c57d46f2d43344902ddf405db1696b615f9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_i-DleYh34BM",
+      "paper_id": "i-DleYh34BM",
+      "title": "Pruning Deep Neural Networks from a Sparsity Perspective",
+      "authors": "Enmao Diao, Ganghua Wang, Jiawei Zhang, Yuhong Yang, Jie Ding, Vahid Tarokh",
+      "paper_url": "https://openreview.net/pdf/652444c01246540d7c8df32b03e3bd456fc28511.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_Ig-VyQc-MLK",
+      "paper_id": "Ig-VyQc-MLK",
+      "title": "Pruning Neural Networks at Initialization: Why Are We Missing the Mark?",
+      "authors": "Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin",
+      "paper_url": "https://openreview.net/pdf/cca2ba851f4bc02f930894a6b4954aa465868ba6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_ySQH0oDyp7",
+      "paper_id": "ySQH0oDyp7",
+      "title": "QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization",
+      "authors": "Xiuying Wei, Ruihao Gong, Yuhang Li, Xianglong Liu, Fengwei Yu",
+      "paper_url": "https://openreview.net/pdf/d4b98e0b2a7f155f01c30723878a99c839a19f05.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_LB5cKhgOTu",
+      "paper_id": "LB5cKhgOTu",
+      "title": "QERA: an Analytical Framework for Quantization Error Reconstruction",
+      "authors": "Cheng Zhang, Jeffrey T. H. Wong, Can Xiao, George Anthony Constantinides, Yiren Zhao",
+      "paper_url": "https://openreview.net/pdf?id=LB5cKhgOTu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MiPyle6Jef",
+      "paper_id": "MiPyle6Jef",
+      "title": "QP-SNN: Quantized and Pruned Spiking Neural Networks",
+      "authors": "Wenjie Wei, Malu Zhang, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Yang Yang",
+      "paper_url": "https://openreview.net/pdf?id=MiPyle6Jef",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_rkQuFUmUOg3",
+      "paper_id": "rkQuFUmUOg3",
+      "title": "Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets",
+      "authors": "Hayeon Lee, Eunyoung Hyung, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/fdbe572e5160119399f6de757ed8a528ebdd78b1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_sTeoJiB4uR",
+      "paper_id": "sTeoJiB4uR",
+      "title": "Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks",
+      "authors": "Thomas Bird, Friso Kingma, David Barber",
+      "paper_url": "https://openreview.net/pdf/4bc920fb592820a6d9fba3d58e93f6561f456f66.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Kpdewuy7RU6",
+      "paper_id": "Kpdewuy7RU6",
+      "title": "Reparameterization through Spatial Gradient Scaling",
+      "authors": "Alexander Detkov, Mohammad Salameh, Muhammad Fetrat, Jialin Zhang, Robin Luwei, SHANGLING JUI, Di Niu",
+      "paper_url": "https://openreview.net/pdf/1f4adabaa2c99c6fee15ec87965010130e01f2a2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_PINRbk7h01",
+      "paper_id": "PINRbk7h01",
+      "title": "Restricted Strong Convexity of Deep Learning Models with Smooth Activations",
+      "authors": "Arindam Banerjee, Pedro Cisneros-Velarde, Libin Zhu, Misha Belkin",
+      "paper_url": "https://openreview.net/pdf/896805d4e8de1abe529f0fcfcfe247092bfdcdfa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_PKubaeJkw3",
+      "paper_id": "PKubaeJkw3",
+      "title": "Rethinking Architecture Selection in Differentiable NAS",
+      "authors": "Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf/aaf87608f6fe51a76f04c614f46d177673b5751c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_GWSIo2MzuH",
+      "paper_id": "GWSIo2MzuH",
+      "title": "Rethinking Information-theoretic Generalization: Loss Entropy Induced PAC Bounds",
+      "authors": "Yuxin Dong, Tieliang Gong, Hong Chen, Shujian Yu, Chen Li",
+      "paper_url": "https://openreview.net/pdf?id=GWSIo2MzuH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZyknpOQwkT",
+      "paper_id": "ZyknpOQwkT",
+      "title": "Rethinking Spiking Neural Networks from an Ensemble Learning Perspective",
+      "authors": "Yongqi Ding, Lin Zuo, Mengmeng Jing, Pei He, Hanpu Deng",
+      "paper_url": "https://openreview.net/pdf?id=ZyknpOQwkT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_LdEhiMG9WLO",
+      "paper_id": "LdEhiMG9WLO",
+      "title": "Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions",
+      "authors": "Shaochen Zhong, Guanqun Zhang, Ningjia Huang, Shuai Xu",
+      "paper_url": "https://openreview.net/pdf/5b6a1f9771a20353393d13f0eaa86b05e16c80b2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_pAkQhhn4vB",
+      "paper_id": "pAkQhhn4vB",
+      "title": "Revisit Micro-batch Clipping: Adaptive Data Pruning via Gradient Manipulation",
+      "authors": "Lun Wang",
+      "paper_url": "https://openreview.net/pdf?id=pAkQhhn4vB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_fAbkE6ant2",
+      "paper_id": "fAbkE6ant2",
+      "title": "Revisiting Locally Supervised Learning: an Alternative to End-to-end Training",
+      "authors": "Yulin Wang, Zanlin Ni, Shiji Song, Le Yang, Gao Huang",
+      "paper_url": "https://openreview.net/pdf/ae46b2e0daac3e1e7af2c0b30ca3ed05b9675f66.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_uVcDssQff_",
+      "paper_id": "uVcDssQff_",
+      "title": "REVISITING PRUNING AT INITIALIZATION THROUGH THE LENS OF RAMANUJAN GRAPH",
+      "authors": "Duc N.M Hoang, Shiwei Liu, Radu Marculescu, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/f73064906e38441e21dd0a622065469ef3f5b5bd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_BqtoARyz7Y",
+      "paper_id": "BqtoARyz7Y",
+      "title": "RGB-Event ISP: The Dataset and Benchmark",
+      "authors": "Yunfan LU, Yanlin Qian, Ziyang Rao, Junren Xiao, Liming Chen, Hui Xiong",
+      "paper_url": "https://openreview.net/pdf?id=BqtoARyz7Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_TaYhv-q1Xit",
+      "paper_id": "TaYhv-q1Xit",
+      "title": "Ringing ReLUs: Harmonic Distortion Analysis of Nonlinear Feedforward Networks",
+      "authors": "Christian H.X. Ali Mehmeti-Göpel, David Hartmann, Michael Wand",
+      "paper_url": "https://openreview.net/pdf/e4c6e52caf84c69fd30b6bfc6f0936b70f6187a9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_vXj_ucZQ4hA",
+      "paper_id": "vXj_ucZQ4hA",
+      "title": "Robust Pruning at Initialization",
+      "authors": "Soufiane Hayou, Jean-Francois Ton, Arnaud Doucet, Yee Whye Teh",
+      "paper_url": "https://openreview.net/pdf/2e8257a71504620d9109ae3b12c4c0c228f26db0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Es4RPNDtmq",
+      "paper_id": "Es4RPNDtmq",
+      "title": "Robust Weight Initialization for Tanh Neural Networks with Fixed Point Analysis",
+      "authors": "Hyun woo Lee, Hayoung Choi, Hyunju Kim",
+      "paper_url": "https://openreview.net/pdf?id=Es4RPNDtmq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qPloNoDJZn",
+      "paper_id": "qPloNoDJZn",
+      "title": "Robustifying and Boosting Training-Free Neural Architecture Search",
+      "authors": "Zhenfeng He, Yao Shu, Zhongxiang Dai, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=qPloNoDJZn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_V5ns6uvRZ9",
+      "paper_id": "V5ns6uvRZ9",
+      "title": "Robustness Auditing for Linear Regression: To Singularity and Beyond",
+      "authors": "Ittai Rubinstein, Samuel B. Hopkins",
+      "paper_url": "https://openreview.net/pdf?id=V5ns6uvRZ9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AfnsTnYphT",
+      "paper_id": "AfnsTnYphT",
+      "title": "Role of Locality and Weight Sharing in Image-Based Tasks: A Sample Complexity Separation between CNNs, LCNs, and FCNs",
+      "authors": "Aakash Lahoti, Stefani Karp, Ezra Winston, Aarti Singh, Yuanzhi Li",
+      "paper_url": "https://openreview.net/pdf?id=AfnsTnYphT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WG7GzGx3G9",
+      "paper_id": "WG7GzGx3G9",
+      "title": "Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference",
+      "authors": "Ke Yi, Zengke Liu, jianwei zhang, Chengyuan Li, Tong Zhang, Junyang Lin, Jingren Zhou",
+      "paper_url": "https://openreview.net/pdf?id=WG7GzGx3G9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_vZfi5to2Xl",
+      "paper_id": "vZfi5to2Xl",
+      "title": "SAS: Structured Activation Sparsification",
+      "authors": "Yusuke Sekikawa, Shingo Yashima",
+      "paper_url": "https://openreview.net/pdf?id=vZfi5to2Xl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ikmuHqugN7",
+      "paper_id": "ikmuHqugN7",
+      "title": "Scaling Convex Neural Networks with Burer-Monteiro Factorization",
+      "authors": "Arda Sahiner, Tolga Ergen, Batu Ozturkler, John M. Pauly, Morteza Mardani, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf?id=ikmuHqugN7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_JxpBP1JM15-",
+      "paper_id": "JxpBP1JM15-",
+      "title": "Scaling Forward Gradient With Local Losses",
+      "authors": "Mengye Ren, Simon Kornblith, Renjie Liao, Geoffrey Hinton",
+      "paper_url": "https://openreview.net/pdf/8b67f407d22905f08e467f5c91f96f9eb5c64a19.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Qbf1hy8b7m",
+      "paper_id": "Qbf1hy8b7m",
+      "title": "Scaling Supervised Local Learning with Augmented Auxiliary Networks",
+      "authors": "Chenxiang Ma, Jibin Wu, Chenyang Si, KC Tan",
+      "paper_url": "https://openreview.net/pdf?id=Qbf1hy8b7m",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_uQfOy7LrlTR",
+      "paper_id": "uQfOy7LrlTR",
+      "title": "Scaling the Convex Barrier with Active Sets",
+      "authors": "Alessandro De Palma, Harkirat Behl, Rudy R Bunel, Philip Torr, M. Pawan Kumar",
+      "paper_url": "https://openreview.net/pdf/2458e1a8af2e8df1e3da86a42fb7ebcbad62dc2f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_XLfdzwNKzch",
+      "paper_id": "XLfdzwNKzch",
+      "title": "SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning",
+      "authors": "Myeongjang Pyeon, Jihwan Moon, Taeyoung Hahn, Gunhee Kim",
+      "paper_url": "https://openreview.net/pdf/0b88f9a4f997ec52f81dce9a0410a6b5646e18a8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_8nl0k08uMi",
+      "paper_id": "8nl0k08uMi",
+      "title": "Selectivity considered harmful: evaluating the causal impact of class selectivity in DNNs",
+      "authors": "Matthew L Leavitt, Ari S. Morcos",
+      "paper_url": "https://openreview.net/pdf/17afa91e20d55de3a216e07f59e5ab74d27027a6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_nhKHA59gXz",
+      "paper_id": "nhKHA59gXz",
+      "title": "Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability",
+      "authors": "Alex Damian, Eshaan Nichani, Jason D. Lee",
+      "paper_url": "https://openreview.net/pdf/5ce767b4f951bb7db5b2c04af424d1c59c1e9387.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_zboCXnuNv7",
+      "paper_id": "zboCXnuNv7",
+      "title": "Semialgebraic Neural Networks: From roots to representations",
+      "authors": "S David Mis, Matti Lassas, Maarten V. de Hoop",
+      "paper_url": "https://openreview.net/pdf?id=zboCXnuNv7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_8HhkbjrWLdE",
+      "paper_id": "8HhkbjrWLdE",
+      "title": "Separation and Concentration in Deep Networks",
+      "authors": "John Zarka, Florentin Guth, Stéphane Mallat",
+      "paper_url": "https://openreview.net/pdf/89800c3664ef3d1e88e5560caa77d60409b77113.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_bp-LJ4y_XC",
+      "paper_id": "bp-LJ4y_XC",
+      "title": "Sequence Approximation using Feedforward Spiking Neural Network for Spatiotemporal Learning: Theory and Optimization Methods",
+      "authors": "Xueyuan She, Saurabh Dash, Saibal Mukhopadhyay",
+      "paper_url": "https://openreview.net/pdf/043f00a3e618d0c71bbd79dffbdfdaf6d9fd4d1b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Bk13Qfu8Ru",
+      "paper_id": "Bk13Qfu8Ru",
+      "title": "Severing Spurious Correlations with Data Pruning",
+      "authors": "Varun Mulchandani, Jung-Eun Kim",
+      "paper_url": "https://openreview.net/pdf?id=Bk13Qfu8Ru",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HgOJlxzB16",
+      "paper_id": "HgOJlxzB16",
+      "title": "SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem",
+      "authors": "Margalit Glasgow",
+      "paper_url": "https://openreview.net/pdf?id=HgOJlxzB16",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_AV8FPoMTTa",
+      "paper_id": "AV8FPoMTTa",
+      "title": "Shallow and Deep Networks are Near-Optimal Approximators of Korobov Functions",
+      "authors": "Moise Blanchard, Mohammed Amine Bennouna",
+      "paper_url": "https://openreview.net/pdf/b207b8552118608b3abd1048731747b6575620fc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_KlxK4ncqWZ",
+      "paper_id": "KlxK4ncqWZ",
+      "title": "Shallow diffusion networks provably learn hidden low-dimensional structure",
+      "authors": "Nicholas Matthew Boffi, Arthur Jacot, Stephen Tu, Ingvar Ziemann",
+      "paper_url": "https://openreview.net/pdf?id=KlxK4ncqWZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_r28GdiQF7vM",
+      "paper_id": "r28GdiQF7vM",
+      "title": "Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions",
+      "authors": "Yunwen Lei, Yiming Ying",
+      "paper_url": "https://openreview.net/pdf/43ac8e3a506c7ad54162957c4698675f659e050a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_h7GAgbLSmC",
+      "paper_id": "h7GAgbLSmC",
+      "title": "Sharper Guarantees for Learning Neural Network Classifiers with Gradient Methods",
+      "authors": "Hossein Taheri, Christos Thrampoulidis, Arya Mazumdar",
+      "paper_url": "https://openreview.net/pdf?id=h7GAgbLSmC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_aD2uwhLbnA",
+      "paper_id": "aD2uwhLbnA",
+      "title": "Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late In Training",
+      "authors": "Zhanpeng Zhou, Mingze Wang, Yuchen Mao, Bingrui Li, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=aD2uwhLbnA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3xDaj4pRna",
+      "paper_id": "3xDaj4pRna",
+      "title": "Sharpness-Aware Minimization Enhances Feature Quality via Balanced Learning",
+      "authors": "Jacob Mitchell Springer, Vaishnavh Nagarajan, Aditi Raghunathan",
+      "paper_url": "https://openreview.net/pdf?id=3xDaj4pRna",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_6Tm1mposlrM",
+      "paper_id": "6Tm1mposlrM",
+      "title": "Sharpness-aware Minimization for Efficiently Improving Generalization",
+      "authors": "Pierre Foret, Ariel Kleiner, Hossein Mobahi, Behnam Neyshabur",
+      "paper_url": "https://openreview.net/pdf/6381fb621c36eb2213f5ef29237a9b4bb75eb839.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Qr0aRliE_Hb",
+      "paper_id": "Qr0aRliE_Hb",
+      "title": "Simple Augmentation Goes a Long Way: ADRL for DNN Quantization",
+      "authors": "Lin Ning, Guoyang Chen, Weifeng Zhang, Xipeng Shen",
+      "paper_url": "https://openreview.net/pdf/4f1af14f420632aa60f163e48701a935fae3a547.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_yVqC6gCNf4d",
+      "paper_id": "yVqC6gCNf4d",
+      "title": "Simple initialization and parametrization of sinusoidal networks via their kernel bandwidth",
+      "authors": "Filipe de Avila Belbute-Peres, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/4fd4637304bd7aded6822c08645dc5d8a48e38b7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_5jWsW08zUh",
+      "paper_id": "5jWsW08zUh",
+      "title": "Some Fundamental Aspects about Lipschitz Continuity of Neural Networks",
+      "authors": "Grigory Khromov, Sidak Pal Singh",
+      "paper_url": "https://openreview.net/pdf?id=5jWsW08zUh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pdF86dyoS6",
+      "paper_id": "pdF86dyoS6",
+      "title": "SOREL: A Stochastic Algorithm for Spectral Risks Minimization",
+      "authors": "Yuze Ge, Rujun Jiang",
+      "paper_url": "https://openreview.net/pdf?id=pdF86dyoS6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_t5EmXZ3ZLR",
+      "paper_id": "t5EmXZ3ZLR",
+      "title": "SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning",
+      "authors": "Manuel Nonnenmacher, Thomas Pfeil, Ingo Steinwart, David Reeb",
+      "paper_url": "https://openreview.net/pdf/27b7b15fa7028267ed543816aadafc963d85b09a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_xS8AMYiEav3",
+      "paper_id": "xS8AMYiEav3",
+      "title": "Sound and Complete Neural Network Repair with Minimality and Locality Guarantees",
+      "authors": "Feisi Fu, Wenchao Li",
+      "paper_url": "https://openreview.net/pdf/33795da3be90ef32dd95bcf374b18d0f4f957766.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_xx0ITyHp3u",
+      "paper_id": "xx0ITyHp3u",
+      "title": "Sparse Model Soups: A Recipe for Improved Pruning via Model Averaging",
+      "authors": "Max Zimmer, Christoph Spiegel, Sebastian Pokutta",
+      "paper_url": "https://openreview.net/pdf?id=xx0ITyHp3u",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_0jsfesDZDq",
+      "paper_id": "0jsfesDZDq",
+      "title": "Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN",
+      "authors": "Biswadeep Chakraborty, Beomseok Kang, Harshit Kumar, Saibal Mukhopadhyay",
+      "paper_url": "https://openreview.net/pdf?id=0jsfesDZDq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_78xgBm6ckZr",
+      "paper_id": "78xgBm6ckZr",
+      "title": "Sparse tree-based Initialization for Neural Networks",
+      "authors": "Patrick Lutz, Ludovic Arnould, Claire Boyer, Erwan Scornet",
+      "paper_url": "https://openreview.net/pdf/682d9f075a2e851fb0b72659e84ed891bdbaeefa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Y9t7MqZtCR",
+      "paper_id": "Y9t7MqZtCR",
+      "title": "Sparse Weight Averaging with Multiple Particles for Iterative Magnitude Pruning",
+      "authors": "Moonseok Choi, Hyungi Lee, Giung Nam, Juho Lee",
+      "paper_url": "https://openreview.net/pdf?id=Y9t7MqZtCR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_J6F3lLg4Kdp",
+      "paper_id": "J6F3lLg4Kdp",
+      "title": "Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!",
+      "authors": "Shiwei Liu, Tianlong Chen, Zhenyu Zhang, Xuxi Chen, Tianjin Huang, AJAY KUMAR JAISWAL, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/60f68324a3ec40c50412c32d7f1d7ee813d44b35.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_SYuJXrXq8tw",
+      "paper_id": "SYuJXrXq8tw",
+      "title": "Sparsity Winning Twice: Better Robust Generalization from More Efficient Training",
+      "authors": "Tianlong Chen, Zhenyu Zhang, pengjun wang, Santosh Balachandra, Haoyu Ma, Zehao Wang, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/be814865ef70b50ab161933745ec83c51f8ce075.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_7etoNfU9uF",
+      "paper_id": "7etoNfU9uF",
+      "title": "SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition",
+      "authors": "Hongwei Ren, Yue Zhou, Xiaopeng LIN, Yulong Huang, Haotian FU, Jie Song, Bojun Cheng",
+      "paper_url": "https://openreview.net/pdf?id=7etoNfU9uF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_pgU3k7QXuz0",
+      "paper_id": "pgU3k7QXuz0",
+      "title": "Spiking Convolutional Neural Networks for Text Classification",
+      "authors": "Changze Lv, Jianhan Xu, Xiaoqing Zheng",
+      "paper_url": "https://openreview.net/pdf/745129c55fa65daf1429ecb28da67793a25464a0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_JXhROKNZzOc",
+      "paper_id": "JXhROKNZzOc",
+      "title": "SQuant: On-the-Fly Data-Free Quantization via Diagonal Hessian Approximation",
+      "authors": "Cong Guo, Yuxian Qiu, Jingwen Leng, Xiaotian Gao, Chen Zhang, Yunxin Liu, Fan Yang, Yuhao Zhu, Minyi Guo",
+      "paper_url": "https://openreview.net/pdf/2bb26dab9a7db75000cffe21e5229acfdca132af.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_ZBESeIUB5k",
+      "paper_id": "ZBESeIUB5k",
+      "title": "Stochastic Training is Not Necessary for Generalization",
+      "authors": "Jonas Geiping, Micah Goldblum, Phil Pope, Michael Moeller, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/63b51516e9311da290bf727bbd4e9376f88c0a48.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_7i6OZa7oij",
+      "paper_id": "7i6OZa7oij",
+      "title": "Strong inductive biases provably prevent harmless interpolation",
+      "authors": "Michael Aerni, Marco Milanta, Konstantin Donhauser, Fanny Yang",
+      "paper_url": "https://openreview.net/pdf/0b5f2e2c4f8f890e005150f930a2e86fb02163d3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_74A-FDAyiL",
+      "paper_id": "74A-FDAyiL",
+      "title": "Subquadratic Algorithms for Kernel Matrices via Kernel Density Estimation",
+      "authors": "Ainesh Bakshi, Piotr Indyk, Praneeth Kacham, Sandeep Silwal, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf/93ea27d82a23d0825a29366c4dc3af3944c6d41a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Z8FzvVU6_Kj",
+      "paper_id": "Z8FzvVU6_Kj",
+      "title": "SUMNAS: Supernet with Unbiased Meta-Features for Neural Architecture Search",
+      "authors": "Hyeonmin Ha, Ji-Hoon Kim, Semin Park, Byung-Gon Chun",
+      "paper_url": "https://openreview.net/pdf/82215472636d191a93f9ff0e73c2fb07893068f4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_edONMAnhLu-",
+      "paper_id": "edONMAnhLu-",
+      "title": "Surrogate Gap Minimization Improves Sharpness-Aware Training",
+      "authors": "Juntang Zhuang, Boqing Gong, Liangzhe Yuan, Yin Cui, Hartwig Adam, Nicha C Dvornek, sekhar tatikonda, James s Duncan, Ting Liu",
+      "paper_url": "https://openreview.net/pdf/a8445fdd027dcffe865628c3024581cae637dca1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_OnpFa95RVqs",
+      "paper_id": "OnpFa95RVqs",
+      "title": "Surrogate NAS Benchmarks: Going Beyond the Limited Search Spaces of Tabular NAS Benchmarks",
+      "authors": "Arber Zela, Julien Niklas Siems, Lucas Zimmer, Jovita Lukasik, Margret Keuper, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf/db2ebd6947a358b40d1236000da44615a7f04605.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_tveiUXU2aa",
+      "paper_id": "tveiUXU2aa",
+      "title": "SWAP-NAS: Sample-Wise Activation Patterns for Ultra-fast NAS",
+      "authors": "Yameng Peng, Andy Song, Haytham M. Fayek, Vic Ciesielski, Xiaojun Chang",
+      "paper_url": "https://openreview.net/pdf?id=tveiUXU2aa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_LJWizuuBUy",
+      "paper_id": "LJWizuuBUy",
+      "title": "SWAP: Sparse Entropic Wasserstein Regression for Robust Network Pruning",
+      "authors": "Lei You, Hei Victor Cheng",
+      "paper_url": "https://openreview.net/pdf?id=LJWizuuBUy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_k1wlmtPGLq",
+      "paper_id": "k1wlmtPGLq",
+      "title": "TAB: Temporal Accumulated Batch Normalization in Spiking Neural Networks",
+      "authors": "Haiyan Jiang, Vincent Zoonekynd, Giulia De Masi, Bin Gu, Huan Xiong",
+      "paper_url": "https://openreview.net/pdf?id=k1wlmtPGLq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22__XNtisL32jv",
+      "paper_id": "_XNtisL32jv",
+      "title": "Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting",
+      "authors": "Shikuang Deng, Yuhang Li, Shanghang Zhang, Shi Gu",
+      "paper_url": "https://openreview.net/pdf/36b73d733683265023d3e40a225095942a71eef4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9HsfTgflT7",
+      "paper_id": "9HsfTgflT7",
+      "title": "Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness",
+      "authors": "Kangrui Du, Yuhang Wu, Shikuang Deng, Shi Gu",
+      "paper_url": "https://openreview.net/pdf?id=9HsfTgflT7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_IM4xp7kGI5V",
+      "paper_id": "IM4xp7kGI5V",
+      "title": "The Asymmetric Maximum Margin Bias of Quasi-Homogeneous Neural Networks",
+      "authors": "Daniel Kunin, Atsushi Yamamura, Chao Ma, Surya Ganguli",
+      "paper_url": "https://openreview.net/pdf/35e901e92e53dbfee861403dfbe3d0044bfb91a7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_5QhUE1qiVC6",
+      "paper_id": "5QhUE1qiVC6",
+      "title": "The Convex Geometry of Backpropagation: Neural Network Gradient Flows Converge to Extreme Points of the Dual Convex Program",
+      "authors": "Yifei Wang, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/4d29755fe3cd56f6093aa8e79892bc79392b8c0d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_guetrIHLFGI",
+      "paper_id": "guetrIHLFGI",
+      "title": "The Deep Bootstrap Framework: Good Online Learners are Good Offline Generalizers",
+      "authors": "Preetum Nakkiran, Behnam Neyshabur, Hanie Sedghi",
+      "paper_url": "https://openreview.net/pdf/04581f1e8f49dff9317ee5405d413f8b8a245a82.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_JY6P45sFDS",
+      "paper_id": "JY6P45sFDS",
+      "title": "The Directionality of Optimization Trajectories in Neural Networks",
+      "authors": "Sidak Pal Singh, Bobby He, Thomas Hofmann, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=JY6P45sFDS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Z7Lk2cQEG8a",
+      "paper_id": "Z7Lk2cQEG8a",
+      "title": "The Hidden Convex Optimization Landscape of Regularized Two-Layer ReLU Networks: an Exact Characterization of Optimal Solutions",
+      "authors": "Yifei Wang, Jonathan Lacotte, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/9733b1623c23b45535cc2c126e6fb496e55e8049.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_upoxXRRTQ2",
+      "paper_id": "upoxXRRTQ2",
+      "title": "The impact of allocation strategies in subset learning on the expressive power of neural networks",
+      "authors": "Ofir Schlisselberg, Ran Darshan",
+      "paper_url": "https://openreview.net/pdf?id=upoxXRRTQ2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_xtbog7cfsr",
+      "paper_id": "xtbog7cfsr",
+      "title": "The Implicit Bias of Minima Stability in Multivariate Shallow ReLU Networks",
+      "authors": "Mor Shpigel Nacson, Rotem Mulayoff, Greg Ongie, Tomer Michaeli, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf/9199b87f3cc5785da4589585c06cb7653f471739.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_krz7T0xU9Z_",
+      "paper_id": "krz7T0xU9Z_",
+      "title": "The inductive bias of ReLU networks on orthogonally separable data",
+      "authors": "Mary Phuong, Christoph H Lampert",
+      "paper_url": "https://openreview.net/pdf/a68e4ef7c465175fddb6ba540763c62f8708c9e3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_nZ2NtpolC5-",
+      "paper_id": "nZ2NtpolC5-",
+      "title": "The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks",
+      "authors": "Blake Bordelon, Cengiz Pehlevan",
+      "paper_url": "https://openreview.net/pdf/48d0ec8e5e188584424c803e8b24556739d8fa4d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_XJk19XzGq2J",
+      "paper_id": "XJk19XzGq2J",
+      "title": "The Intrinsic Dimension of Images and Its Impact on Learning",
+      "authors": "Phil Pope, Chen Zhu, Ahmed Abdelkader, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/37e9d9b97958a37df9ebdb5cb318f8ddab3841f3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_JfqN3gu0i7",
+      "paper_id": "JfqN3gu0i7",
+      "title": "The optimality of kernel classifiers in Sobolev space",
+      "authors": "Jianfa Lai, zhifan Li, Dongming Huang, Qian Lin",
+      "paper_url": "https://openreview.net/pdf?id=JfqN3gu0i7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_P7FLfMLTSEX",
+      "paper_id": "P7FLfMLTSEX",
+      "title": "The Spectral Bias of Polynomial Neural Networks",
+      "authors": "Moulik Choraria, Leello Tadesse Dadi, Grigorios Chrysos, Julien Mairal, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf/e0444281519be29bf9b0bf62909377028d4cb017.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_EQmAP4F859",
+      "paper_id": "EQmAP4F859",
+      "title": "The Three Stages of Learning Dynamics in High-dimensional Kernel Methods",
+      "authors": "Nikhil Ghosh, Song Mei, Bin Yu",
+      "paper_url": "https://openreview.net/pdf/273ff13b48f42a02263556d771e28712207508bc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_aYuZO9DIdnn",
+      "paper_id": "aYuZO9DIdnn",
+      "title": "The Unreasonable Effectiveness of Patches in Deep Convolutional Kernels Methods",
+      "authors": "Louis THIRY, Michael Arbel, Eugene Belilovsky, Edouard Oyallon",
+      "paper_url": "https://openreview.net/pdf/a4eeda4ce2da499c9d47258922e4e8d57aaceb28.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_VBZJ_3tz-t",
+      "paper_id": "VBZJ_3tz-t",
+      "title": "The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training",
+      "authors": "Shiwei Liu, Tianlong Chen, Xiaohan Chen, Li Shen, Decebal Constantin Mocanu, Zhangyang Wang, Mykola Pechenizkiy",
+      "paper_url": "https://openreview.net/pdf/92cd52f575aab3aac6f6934474fa0fb6f56652b9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_1op5YGZu8X",
+      "paper_id": "1op5YGZu8X",
+      "title": "Theoretical Analysis of Robust Overfitting for Wide DNNs: An NTK Approach",
+      "authors": "Shaopeng Fu, Di Wang",
+      "paper_url": "https://openreview.net/pdf?id=1op5YGZu8X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xv8iGxENyI",
+      "paper_id": "xv8iGxENyI",
+      "title": "Threaten Spiking Neural Networks through Combining Rate and Temporal Information",
+      "authors": "Zecheng Hao, Tong Bu, Xinyu Shi, Zihan Huang, Zhaofei Yu, Tiejun Huang",
+      "paper_url": "https://openreview.net/pdf?id=xv8iGxENyI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Wh4SE2S7Mo",
+      "paper_id": "Wh4SE2S7Mo",
+      "title": "Three Mechanisms of Feature Learning in a Linear Network",
+      "authors": "Yizhou Xu, Liu Ziyin",
+      "paper_url": "https://openreview.net/pdf?id=Wh4SE2S7Mo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_LBvk4QWIUpm",
+      "paper_id": "LBvk4QWIUpm",
+      "title": "Tighter Sparse Approximation Bounds for ReLU Neural Networks",
+      "authors": "Carles Domingo-Enrich, Youssef Mroueh",
+      "paper_url": "https://openreview.net/pdf/26cbfd341c2fcbea04f1b531de54a26548f1ec2d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_3HJOA-1hb0e",
+      "paper_id": "3HJOA-1hb0e",
+      "title": "Toward Efficient Low-Precision Training: Data Format Optimization and Hysteresis Quantization",
+      "authors": "Sunwoo Lee, Jeongwoo Park, Dongsuk Jeon",
+      "paper_url": "https://openreview.net/pdf/d108ae611f0e33dfa11c0140644d61b0b0774170.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_oOwDQl8haC",
+      "paper_id": "oOwDQl8haC",
+      "title": "Towards Cheaper Inference in Deep Networks with Lower Bit-Width Accumulators",
+      "authors": "Yaniv Blumenfeld, Itay Hubara, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf?id=oOwDQl8haC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_eoSeaK4QJo",
+      "paper_id": "eoSeaK4QJo",
+      "title": "Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework",
+      "authors": "Xinyu Shi, Jianhao Ding, Zecheng Hao, Zhaofei Yu",
+      "paper_url": "https://openreview.net/pdf?id=eoSeaK4QJo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_sMoifbuxjB",
+      "paper_id": "sMoifbuxjB",
+      "title": "Towards Meta-Pruning via Optimal Transport",
+      "authors": "Alexander Theus, Olin Geimer, Friedrich Wicke, Thomas Hofmann, Sotiris Anagnostidis, Sidak Pal Singh",
+      "paper_url": "https://openreview.net/pdf?id=sMoifbuxjB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_AHOs7Sm5H7R",
+      "paper_id": "AHOs7Sm5H7R",
+      "title": "Towards Resolving the Implicit Bias of Gradient Descent for Matrix Factorization: Greedy Low-Rank Learning",
+      "authors": "Zhiyuan Li, Yuping Luo, Kaifeng Lyu",
+      "paper_url": "https://openreview.net/pdf/e29b53584bc9017cb15b9394735cd51b56c32446.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_xhCZD9hiiA",
+      "paper_id": "xhCZD9hiiA",
+      "title": "Towards Training Without Depth Limits: Batch Normalization Without Gradient Explosion",
+      "authors": "Alexandru Meterez, Amir Joudaki, Francesco Orabona, Alexander Immer, Gunnar Ratsch, Hadi Daneshmand",
+      "paper_url": "https://openreview.net/pdf?id=xhCZD9hiiA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_rS9-7AuPKWK",
+      "paper_id": "rS9-7AuPKWK",
+      "title": "Towards Understanding Generalization via Decomposing Excess Risk Dynamics",
+      "authors": "Jiaye Teng, Jianhao Ma, Yang Yuan",
+      "paper_url": "https://openreview.net/pdf/fb22a53f794740f074cfc57fbfeb13cb402a0dc1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_AZFvpnnewr",
+      "paper_id": "AZFvpnnewr",
+      "title": "Trainability Preserving Neural Pruning",
+      "authors": "Huan Wang, Yun Fu",
+      "paper_url": "https://openreview.net/pdf/1297e3fec8dd4a980666cce03de07123009695b3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_8wbnpOJY-f",
+      "paper_id": "8wbnpOJY-f",
+      "title": "Trainable Weight Averaging: Efficient Training by Optimizing Historical Solutions",
+      "authors": "Tao Li, Zhehao Huang, Qinghua Tao, Yingwen Wu, Xiaolin Huang",
+      "paper_url": "https://openreview.net/pdf/d32020780d5a44be516cb5ee9c13e38535e964ed.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_vYeQQ29Tbvx",
+      "paper_id": "vYeQQ29Tbvx",
+      "title": "Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs",
+      "authors": "Jonathan Frankle, David J. Schwab, Ari S. Morcos",
+      "paper_url": "https://openreview.net/pdf/fd54fc17e45c5cb0f95f9e8ce5c8a3a4eb8f759d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_XEW8CQgArno",
+      "paper_id": "XEW8CQgArno",
+      "title": "Training invariances and the low-rank phenomenon: beyond linear networks",
+      "authors": "Thien Le, Stefanie Jegelka",
+      "paper_url": "https://openreview.net/pdf/09cd317c13e66c6829a08a5b598324211771fd4b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_mdUYT5QV0O",
+      "paper_id": "mdUYT5QV0O",
+      "title": "Training Structured Neural Networks Through Manifold Identification and Variance Reduction",
+      "authors": "Zih-Syuan Huang, Ching-pei Lee",
+      "paper_url": "https://openreview.net/pdf/f5bc435bcb3593d7f03a33d1dc39cffc4ff125da.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_dV19Yyi1fS3",
+      "paper_id": "dV19Yyi1fS3",
+      "title": "Training with Quantization Noise for Extreme Model Compression",
+      "authors": "Pierre Stock, Angela Fan, Benjamin Graham, Edouard Grave, Rémi Gribonval, Herve Jegou, Armand Joulin",
+      "paper_url": "https://openreview.net/pdf/e7c435ae8b65ac9199efd2c6f55258018a8a229b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_rvxWEbTtRY",
+      "paper_id": "rvxWEbTtRY",
+      "title": "Training-Free Dataset Pruning for Instance Segmentation",
+      "authors": "Yalun Dai, Lingao Xiao, Ivor Tsang, Yang He",
+      "paper_url": "https://openreview.net/pdf?id=rvxWEbTtRY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_paGvsrl4Ntr",
+      "paper_id": "paGvsrl4Ntr",
+      "title": "Transfer NAS with Meta-learned Bayesian Surrogates",
+      "authors": "Gresa Shala, Thomas Elsken, Frank Hutter, Josif Grabocka",
+      "paper_url": "https://openreview.net/pdf/1d6bd2efad6066b8250a1ed96932db04f31c080f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_bWNJFD1l8M",
+      "paper_id": "bWNJFD1l8M",
+      "title": "Transferring Learning Trajectories of Neural Networks",
+      "authors": "Daiki Chijiwa",
+      "paper_url": "https://openreview.net/pdf?id=bWNJFD1l8M",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_CyKHoKyvgnp",
+      "paper_id": "CyKHoKyvgnp",
+      "title": "Transition to Linearity of Wide Neural Networks is an Emerging Property of Assembling Weak Models",
+      "authors": "Chaoyue Liu, Libin Zhu, Misha Belkin",
+      "paper_url": "https://openreview.net/pdf/d4e2a924c1b35ff107a22198b053db66c9f1ae3d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_IqtonxWI0V3",
+      "paper_id": "IqtonxWI0V3",
+      "title": "TropEx: An Algorithm for Extracting Linear Terms in Deep Neural Networks",
+      "authors": "Martin Trimmel, Henning Petzka, Cristian Sminchisescu",
+      "paper_url": "https://openreview.net/pdf/6f5f94ea1f9082d97859b79f1358b2a25baa8fcd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_oLIZ2jGTiv",
+      "paper_id": "oLIZ2jGTiv",
+      "title": "Tuning Frequency Bias in Neural Network Training with Nonuniform Data",
+      "authors": "Annan Yu, Yunan Yang, Alex Townsend",
+      "paper_url": "https://openreview.net/pdf/e1dfef64f3cada7cf22d90626d7ddbdbb081e8d9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_sZI1Oj9KBKy",
+      "paper_id": "sZI1Oj9KBKy",
+      "title": "TVSPrune - Pruning Non-discriminative filters via Total Variation separability of intermediate representations without fine tuning",
+      "authors": "Chaitanya Murti, Tanay Narshana, Chiranjib Bhattacharyya",
+      "paper_url": "https://openreview.net/pdf/54b7911797398691422146138209e69d0674e5de.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_DwiwOcK1B7",
+      "paper_id": "DwiwOcK1B7",
+      "title": "Two Sparse Matrices are Better than One: Sparsifying Neural Networks with Double Sparse Factorization",
+      "authors": "Vladimír Boža, Vladimír Macko",
+      "paper_url": "https://openreview.net/pdf?id=DwiwOcK1B7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_rI0LYgGeYaw",
+      "paper_id": "rI0LYgGeYaw",
+      "title": "Understanding approximate and unrolled dictionary learning for pattern recovery",
+      "authors": "Benoît Malézieux, Thomas Moreau, Matthieu Kowalski",
+      "paper_url": "https://openreview.net/pdf/e456e2f1ce949acca23fba4b8e8661e5415f672a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_p7EagBsMAEO",
+      "paper_id": "p7EagBsMAEO",
+      "title": "Understanding Edge-of-Stability Training Dynamics with a Minimalist Example",
+      "authors": "Xingyu Zhu, Zixuan Wang, Xiang Wang, Mo Zhou, Rong Ge",
+      "paper_url": "https://openreview.net/pdf/4787f700ee012e7abba6247943a20977fd42e705.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_sIE2rI3ZPs",
+      "paper_id": "sIE2rI3ZPs",
+      "title": "Understanding Optimization in Deep Learning with Central Flows",
+      "authors": "Jeremy Cohen, Alex Damian, Ameet Talwalkar, J Zico Kolter, Jason D. Lee",
+      "paper_url": "https://openreview.net/pdf?id=sIE2rI3ZPs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_WGApODQvwRg",
+      "paper_id": "WGApODQvwRg",
+      "title": "Understanding the Covariance Structure of Convolutional Filters",
+      "authors": "Asher Trockman, Devin Willmott, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/304a7da98b79c8c15e8baa9f038951976a9ef764.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_rsogjAnYs4z",
+      "paper_id": "rsogjAnYs4z",
+      "title": "Understanding the effects of data parallelism and sparsity on neural network training",
+      "authors": "Namhoon Lee, Thalaiyasingam Ajanthan, Philip Torr, Martin Jaggi",
+      "paper_url": "https://openreview.net/pdf/ccc4046bb2f3bad4efbb7f58fb7f860fa43b7d4d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21__WnwtieRHxM",
+      "paper_id": "_WnwtieRHxM",
+      "title": "Understanding the role of importance weighting for deep learning",
+      "authors": "Da Xu, Yuting Ye, Chuanwei Ruan",
+      "paper_url": "https://openreview.net/pdf/c52af0c839abd3f9cd52515da1042deed9eb2692.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_uBKBoix9NXa",
+      "paper_id": "uBKBoix9NXa",
+      "title": "Understanding weight-magnitude hyperparameters in training binary networks",
+      "authors": "Joris Quist, Yunqiang Li, Jan van Gemert",
+      "paper_url": "https://openreview.net/pdf/5313d7bfe23cf0a6dc47cd4f48376226c294cfc5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_ashPce_W8F-",
+      "paper_id": "ashPce_W8F-",
+      "title": "Understanding Why Generalized Reweighting Does Not Improve Over ERM",
+      "authors": "Runtian Zhai, Chen Dan, J Zico Kolter, Pradeep Kumar Ravikumar",
+      "paper_url": "https://openreview.net/pdf/6dfa64283e85d840377a06006209d9a9d973c45c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_-IXhmY16R3M",
+      "paper_id": "-IXhmY16R3M",
+      "title": "Universal approximation power of deep residual neural networks via nonlinear control theory",
+      "authors": "Paulo Tabuada, Bahman Gharesifard",
+      "paper_url": "https://openreview.net/pdf/dcf3b351ea496066a9c49cced5d389f002dc9caf.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_VZN0irKnl0",
+      "paper_id": "VZN0irKnl0",
+      "title": "Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis, Edge of Stability, and Route to Chaos",
+      "authors": "Dayal Singh Kalra, Tianyu He, Maissam Barkeshli",
+      "paper_url": "https://openreview.net/pdf?id=VZN0irKnl0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_CEkIyshNbC",
+      "paper_id": "CEkIyshNbC",
+      "title": "Unraveling the Enigma of Double Descent: An In-depth Analysis through the Lens of Learned Feature Space",
+      "authors": "Yufei Gu, Xiaoqing Zheng, Tomaso Aste",
+      "paper_url": "https://openreview.net/pdf?id=CEkIyshNbC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_aBVxf5NaaRt",
+      "paper_id": "aBVxf5NaaRt",
+      "title": "Unrolling PALM for Sparse Semi-Blind Source Separation",
+      "authors": "Mohammad Fahes, Christophe Kervazo, Jérôme Bobin, Florence Tupin",
+      "paper_url": "https://openreview.net/pdf/a94df1bb2104d5b98e23e4936bda23189f807583.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_p8agn6bmTbr",
+      "paper_id": "p8agn6bmTbr",
+      "title": "Usable Information and Evolution of Optimal Representations During Training",
+      "authors": "Michael Kleinman, Alessandro Achille, Daksh Idnani, Jonathan Kao",
+      "paper_url": "https://openreview.net/pdf/ecfb28e9a1edfd9c52876b78d81632b816d662b2.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_oJLpXraSLb",
+      "paper_id": "oJLpXraSLb",
+      "title": "Variance-Reducing Couplings for Random Features",
+      "authors": "Isaac Reid, Stratis Markou, Krzysztof Marcin Choromanski, Richard E. Turner, Adrian Weller",
+      "paper_url": "https://openreview.net/pdf?id=oJLpXraSLb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_7udZAsEzd60",
+      "paper_id": "7udZAsEzd60",
+      "title": "VC dimension of partially quantized neural networks in the overparametrized regime",
+      "authors": "Yutong Wang, Clayton Scott",
+      "paper_url": "https://openreview.net/pdf/9760187606b3496a5f4a0fe752a22416bb4a2e21.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_fGF8qAqpXXG",
+      "paper_id": "fGF8qAqpXXG",
+      "title": "Vector-output ReLU Neural Network Problems are Copositive Programs: Convex Analysis of Two Layer Networks and Polynomial-time Algorithms",
+      "authors": "Arda Sahiner, Tolga Ergen, John M. Pauly, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/0222bcef2a87d75e3670c0707c8b848554ecbe31.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_9c96mGtQVR",
+      "paper_id": "9c96mGtQVR",
+      "title": "Verifying Properties of Binary Neural Networks Using Sparse Polynomial Optimization",
+      "authors": "Jianting Yang, Srecko Durasinovic, Jean B. Lasserre, Victor Magron, Jun Zhao",
+      "paper_url": "https://openreview.net/pdf?id=9c96mGtQVR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_2NwHLAffZZ",
+      "paper_id": "2NwHLAffZZ",
+      "title": "Weak Correlations as the Underlying Principle for Linearization of Gradient-Based Learning Systems",
+      "authors": "Ori Shem Ur, Yaron Oz",
+      "paper_url": "https://openreview.net/pdf?id=2NwHLAffZZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_siCt4xZn5Ve",
+      "paper_id": "siCt4xZn5Ve",
+      "title": "What Happens after SGD Reaches Zero Loss? --A Mathematical Framework",
+      "authors": "Zhiyuan Li, Tianhao Wang, Sanjeev Arora",
+      "paper_url": "https://openreview.net/pdf/053e833d0de895f0839c04aabd053b4d678ffb02.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_jsvvPVVzwf",
+      "paper_id": "jsvvPVVzwf",
+      "title": "What Makes a Good Prune? Maximal Unstructured Pruning for Maximal Cosine Similarity",
+      "authors": "Gabryel Mason-Williams, Fredrik Dahlqvist",
+      "paper_url": "https://openreview.net/pdf?id=jsvvPVVzwf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_CLE09ESvul",
+      "paper_id": "CLE09ESvul",
+      "title": "What should a neuron aim for? Designing local objective functions based on information theory",
+      "authors": "Andreas Christian Schneider, Valentin Neuhaus, David Alexander Ehrlich, Abdullah Makkeh, Alexander S Ecker, Viola Priesemann, Michael Wibral",
+      "paper_url": "https://openreview.net/pdf?id=CLE09ESvul",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_S724o4_WB3",
+      "paper_id": "S724o4_WB3",
+      "title": "When does preconditioning help or hurt generalization?",
+      "authors": "Shun-ichi Amari, Jimmy Ba, Roger Baker Grosse, Xuechen Li, Atsushi Nitanda, Taiji Suzuki, Denny Wu, Ji Xu",
+      "paper_url": "https://openreview.net/pdf/f3a56e608245c40252059cbf936c8e2ef23f8c8c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_CkUHtnyhpY",
+      "paper_id": "CkUHtnyhpY",
+      "title": "When narrower is better: the narrow width limit of Bayesian parallel branching neural networks",
+      "authors": "Zechen Zhang, Haim Sompolinsky",
+      "paper_url": "https://openreview.net/pdf?id=CkUHtnyhpY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_wlMDF1jQF86",
+      "paper_id": "wlMDF1jQF86",
+      "title": "Which Layer is Learning Faster? A Systematic Exploration of Layer-wise Convergence Rate for Deep Neural Networks",
+      "authors": "Yixiong Chen, Alan Yuille, Zongwei Zhou",
+      "paper_url": "https://openreview.net/pdf/43d97adaa7715cb5bb90e928f1889374d65228ee.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_qRDQi3ocgR3",
+      "paper_id": "qRDQi3ocgR3",
+      "title": "Which Shortcut Cues Will DNNs Choose? A Study from the Parameter-Space Perspective",
+      "authors": "Luca Scimeca, Seong Joon Oh, Sanghyuk Chun, Michael Poli, Sangdoo Yun",
+      "paper_url": "https://openreview.net/pdf/3068411e384b48770e3b3fe52bc409e41a40f3f8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_uCY5MuAxcxU",
+      "paper_id": "uCY5MuAxcxU",
+      "title": "Why Are Convolutional Nets More Sample-Efficient than Fully-Connected Nets?",
+      "authors": "Zhiyuan Li, Yi Zhang, Sanjeev Arora",
+      "paper_url": "https://openreview.net/pdf/349f4553ada8090561541dc0bcef8232a03b04ff.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_1HCN4pjTb4",
+      "paper_id": "1HCN4pjTb4",
+      "title": "Wide Neural Networks Trained with Weight Decay Provably Exhibit Neural Collapse",
+      "authors": "Arthur Jacot, Peter Súkeník, Zihan Wang, Marco Mondelli",
+      "paper_url": "https://openreview.net/pdf?id=1HCN4pjTb4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_z92lBy1ehjI",
+      "paper_id": "z92lBy1ehjI",
+      "title": "Winning Both the Accuracy of Floating Point Activation and the Simplicity of Integer Arithmetic",
+      "authors": "Yulhwa Kim, Jaeyong Jang, Jehun Lee, Jihoon Park, Jeonghoon Kim, Byeongwook Kim, Baeseong park, Se Jung Kwon, Dongsoo Lee, jae-joon kim",
+      "paper_url": "https://openreview.net/pdf/23401b9976bc4354ab4085a198b754762b23330f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_3SqrRe8FWQ-",
+      "paper_id": "3SqrRe8FWQ-",
+      "title": "WrapNet:  Neural Net Inference with Ultra-Low-Precision Arithmetic",
+      "authors": "Renkun Ni, Hong-min Chu, Oscar Castaneda, Ping-yeh Chiang, Christoph Studer, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/f4b38b314f5630e45d41c5ff39eace1a2b8afca6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_5RZoYIT3u6",
+      "paper_id": "5RZoYIT3u6",
+      "title": "You Only Prune Once: Designing Calibration-Free Model Compression With Policy Learning",
+      "authors": "Ayan Sengupta, Siddhant Chaudhary, Tanmoy Chakraborty",
+      "paper_url": "https://openreview.net/pdf?id=5RZoYIT3u6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_0cmMMy8J5q",
+      "paper_id": "0cmMMy8J5q",
+      "title": "Zero-Cost Proxies for Lightweight NAS",
+      "authors": "Mohamed S Abdelfattah, Abhinav Mehrotra, Łukasz Dudziak, Nicholas Donald Lane",
+      "paper_url": "https://openreview.net/pdf/94fe9fb70902774ff60846c845667ac64c3c8fa1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_rwo-ls5GqGn",
+      "paper_id": "rwo-ls5GqGn",
+      "title": "ZiCo: Zero-shot NAS via inverse Coefficient of Variation on Gradients",
+      "authors": "Guihong Li, Yuedong Yang, Kartikeya Bhardwaj, Radu Marculescu",
+      "paper_url": "https://openreview.net/pdf/0ed7119196bfabbdc248d6add738ac67510f7662.pdf",
+      "venue": "iclr23"
+    }
+  ]
+}

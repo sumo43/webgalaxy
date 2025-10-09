@@ -1,0 +1,565 @@
+{
+  "cluster_id": 143,
+  "papers": [
+    {
+      "id": "siggraph25_506e62fe82",
+      "paper_id": "506e62fe82",
+      "title": "3D Stylization via Large Reconstruction Model",
+      "authors": "Ipek Oztas, Duygu Ceylan, Aysegul Dundar",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_c769be31e6",
+      "paper_id": "c769be31e6",
+      "title": "3D-Fixup: Advancing Photo Editing with 3D Priors",
+      "authors": "Yen-Chi Cheng, Krishna Kumar Singh, Jae Shin Yoon, Alexander Schwing, Liang-Yan Gui, Matheus Gadelha, Paul Guerrero, Nanxuan Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_pos_141",
+      "paper_id": "pos_141",
+      "title": "A Fast Text-driven Approach for Generating Artistic Content",
+      "authors": "Marian Lupașcu, Ryan Murdock, Ionuţ Mironică, Yijun Li",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_1b2526e161",
+      "paper_id": "1b2526e161",
+      "title": "A Platform for Interactive AI Character Experiences",
+      "authors": "Rafael Wampfler, Chen Yang, Dillon Elste, Nikola Kovacevic, Philine Witzig, Markus Gross",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_202",
+      "paper_id": "papers_202",
+      "title": "Analogist: Out-of-the-box Visual In-context Learning With Image Diffusion Model",
+      "authors": "Zheng Gu, Shiyuan Yang, Jing Liao, Jing Huo, Yang Gao",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_689",
+      "paper_id": "papers_689",
+      "title": "ASSET: Autoregressive Semantic Scene Editing With Transformers at High Resolutions",
+      "authors": "Difan Liu, Sandesh Shetty, Tobias Hinz, Matthew Fisher, Richard Zhang, Taesung Park, Evangelos Kalogerakis",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_217c89f1f6",
+      "paper_id": "217c89f1f6",
+      "title": "AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization",
+      "authors": "Lanjiong Li, Guanhua Zhao, Lingting Zhu, Zeyu Cai, Lequan Yu, Jian Zhang, Zeyu Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_241",
+      "paper_id": "papers_241",
+      "title": "Attend-and-Excite: Attention-based Semantic Guidance for Text-to-image Diffusion Models",
+      "authors": "Hila Chefer, Yuval Alaluf, Yael Vinker, Lior Wolf, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_5987dee71c",
+      "paper_id": "5987dee71c",
+      "title": "BANG: Dividing 3D Assets via Generative Exploded Dynamics",
+      "authors": "Longwen Zhang, Qixuan Zhang, Haoran Jiang, Yinuo Bai, Wei Yang, Lan Xu, Jingyi Yu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_5b97499b7e",
+      "paper_id": "5b97499b7e",
+      "title": "Be Decisive: Noise-Induced Layouts for Multi-Subject Generation",
+      "authors": "Omer Dahary, Yehonathan Cohen, Or Patashnik, Kfir Aberman, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_790",
+      "paper_id": "papers_790",
+      "title": "Blended Latent Diffusion",
+      "authors": "Omri Avrahami, Ohad Fried, Dani Lischinski",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_e590ea8338",
+      "paper_id": "e590ea8338",
+      "title": "CMD: Controllable Multiview Diffusion for 3D Editing and Progressive Generation",
+      "authors": "Peng Li, Suizhi Ma, Jialiang Chen, Yuan Liu, Congyi Zhang, Wei Xue, Wenhan Luo, Alla Sheffer, Wenping Wang, Yike Guo",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_0f41fa7df2",
+      "paper_id": "0f41fa7df2",
+      "title": "Cobra: Efficient Line Art COlorization with BRoAder References",
+      "authors": "Junhao Zhuang, Lingen Li, Xuan Ju, Zhaoyang Zhang, Chun Yuan, Ying Shan",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_423",
+      "paper_id": "papers_423",
+      "title": "Coin3D: Controllable and Interactive 3D Assets Generation With Proxy-guided Conditioning",
+      "authors": "Wenqi Dong, Bangbang Yang, Lin Ma, Xiao Liu, Liyuan Cui, Hujun Bao, Yuewen Ma, Zhaopeng Cui",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_paperstog_105",
+      "paper_id": "paperstog_105",
+      "title": "ConceptLab: Creative Concept Generation using VLM-Guided Diffusion Prior Constraints",
+      "authors": "Elad Richardson, Kfir Goldberg, Yuval Alaluf, Daniel Cohen-Or, Yuval Alaluf",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_8ee6ff245c",
+      "paper_id": "8ee6ff245c",
+      "title": "Cora: Correspondence-aware image editing using few step diffusion",
+      "authors": "Amirhossein Alimohammadi, Aryan Mikaeili, Sauradip Nag, Negar Hassanpour, Andrea Tagliasacchi, Ali Mahdavi-Amiri",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_400",
+      "paper_id": "papers_400",
+      "title": "Creating LEGO Figurines From Single Images",
+      "authors": "Jiahao Ge, Mingjun Zhou, Wenrui Bao, Hao Xu, Chi-Wing Fu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_417",
+      "paper_id": "papers_417",
+      "title": "Cross-image Attention for Zero-shot Appearance Transfer",
+      "authors": "Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_d0b9037db1",
+      "paper_id": "d0b9037db1",
+      "title": "DesignManager: An Agent-Powered Copilot for Designers to Integrate AI Design Tools into Creative Workflows",
+      "authors": "Weitao You, Yinyu Lu, Zirui Ma, Nan Li, Mingxu Zhou, Xue Zhao, Pei Chen, Lingyun Sun",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_978",
+      "paper_id": "papers_978",
+      "title": "Diffusion Illusions: Hiding Images in Plain Sight",
+      "authors": "Ryan Burgert, Xiang Li, Abe Leite, Kanchana Ranasinghe, Michael Ryoo",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_803",
+      "paper_id": "papers_803",
+      "title": "Diffusion Image Analogies",
+      "authors": "Adéla Šubrtová, Michal Lukáč, Jan Čech, David Futschik, Eli Shechtman, Daniel Sýkora",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_197",
+      "paper_id": "papers_197",
+      "title": "DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation",
+      "authors": "Chong Zeng, Yue Dong, Pieter Peers, Youkang Kong, Hongzhi Wu, Xin Tong",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_4e8016a4ad",
+      "paper_id": "4e8016a4ad",
+      "title": "Drag Your Gaussian: Effective Drag-Based Editing  with Score Distillation for 3D Gaussian Splatting",
+      "authors": "Yansong Qu, Dian Chen, Xinyang Li, Xiaofan Li, Shengchuan Zhang, Liujuan Cao, Rongrong Ji",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_836",
+      "paper_id": "papers_836",
+      "title": "DreamFont3D: Personalized Text-to-3D Artistic Font Generation",
+      "authors": "Xiang Li, Lei Meng, Lei Wu, Manyi Li, Xiangxu Meng",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_da8e7346fa",
+      "paper_id": "da8e7346fa",
+      "title": "DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data",
+      "authors": "Yuanpeng Tu, Xi Chen, Ser-Nam Lim, Hengshuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_982",
+      "paper_id": "papers_982",
+      "title": "EASI-Tex: Edge-Aware Mesh Texturing from Single Image",
+      "authors": "Sai Raj Kishore Perla, Yizhi Wang, Ali Mahdavi-Amiri, Hao Zhang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_347",
+      "paper_id": "papers_347",
+      "title": "Encoder-based Domain Tuning for Fast Personalization of Text-to-image Models",
+      "authors": "Rinon Gal, Moab Arar, Yuval Atzmon, Amit H. Bermano, Gal Chechik, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_b0ed18cf9f",
+      "paper_id": "b0ed18cf9f",
+      "title": "FashionComposer: Compositional Fashion Image Generation",
+      "authors": "Sihui Ji, Yiyang Wang, Xi Chen, Xiaogang Xu, Hao Luo, Hengshuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_890",
+      "paper_id": "papers_890",
+      "title": "FashionTex: Controllable Virtual Try-on With Text and Texture",
+      "authors": "Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_901",
+      "paper_id": "papers_901",
+      "title": "Filter-Guided Diffusion for Controllable Image Generation",
+      "authors": "Zeqi Gu, Ethan Yang, Abe Davis",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_1a129b86ae",
+      "paper_id": "1a129b86ae",
+      "title": "InstanceGen: Image Generation with Instance-level Instructions",
+      "authors": "Etai Sella, Yanir Kleiman, Hadar Averbuch-Elor",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_33857b08eb",
+      "paper_id": "33857b08eb",
+      "title": "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention",
+      "authors": "Howard Zhang, Yuval Alaluf, Sizhuo Ma, Achuta Kadambi, Jian Wang, Kfir Aberman",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_4b8798e902",
+      "paper_id": "4b8798e902",
+      "title": "IntrinsicEdit: Precise generative image manipulation in intrinsic space",
+      "authors": "Linjie Lyu, Valentin Deschaintre, Yannick Hold-Geoffroy, Milos Hasan, Jae Shin Yoon, Thomas Leimkuehler, Christian Theobalt, Iliyan Georgiev",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_618d983c38",
+      "paper_id": "618d983c38",
+      "title": "IP-Composer: Semantic Composition of Visual Concepts",
+      "authors": "Sara Dorfman, Dana Cohen-Bar, Rinon Gal, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_ea589f7f8e",
+      "paper_id": "ea589f7f8e",
+      "title": "IP-Prompter: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting",
+      "authors": "Yuxin Zhang, Minyan Luo, Weiming Dong, Xiao Yang, Haibin Huang, Chongyang Ma, Oliver Deussen, Tong-Yee Lee, Changsheng Xu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_367",
+      "paper_id": "papers_367",
+      "title": "Key-locked Rank One Editing for Text-to-image Personalization",
+      "authors": "Yoad Tewel, Rinon Gal, Gal Chechik, Yuval Atzmon",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_1263",
+      "paper_id": "papers_1263",
+      "title": "LOOSECONTROL: Lifting ControlNet for Generalized Depth Conditioning",
+      "authors": "Shariq Bhat, Niloy Mitra, Peter Wonka",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_729",
+      "paper_id": "papers_729",
+      "title": "Modulating Pretrained Diffusion Models for Multimodal Image Synthesis",
+      "authors": "Cusuh Ham, James Hays, Jingwan Lu, Krishna Kumar Singh, Zhifei Zhang, Tobias Hinz",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_d14173571a",
+      "paper_id": "d14173571a",
+      "title": "MonetGPT: Solving Puzzles Enhances MLLMs’ Image Retouching Skills",
+      "authors": "Niladri Shekhar Dutt, Duygu Ceylan, Niloy Mitra",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_150df23cf4",
+      "paper_id": "150df23cf4",
+      "title": "Nested Attention: Semantic-aware Attention Values for Concept Personalization",
+      "authors": "Or Patashnik, Rinon Gal, Daniil Ostashev, Sergey Tulyakov, Kfir Aberman, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_847",
+      "paper_id": "papers_847",
+      "title": "Palette: Image-to-image Diffusion Models",
+      "authors": "Chitwan Saharia, William Chan, Huiwen Chang, Chris Lee, Jonathan Ho, Tim Salimans, David Fleet, Mohammad Norouzi",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_ab2af2cba2",
+      "paper_id": "ab2af2cba2",
+      "title": "PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models",
+      "authors": "Aleksandar Cvejic, Abdelrahman Eldesokey, Peter Wonka",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_616",
+      "paper_id": "papers_616",
+      "title": "QT-Font: High-efficiency Font Synthesis via Quadtree-based Diffusion Models",
+      "authors": "Yitian Liu, Zhouhui Lian",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_1269",
+      "paper_id": "papers_1269",
+      "title": "RealFill: Reference-driven Generation for Authentic Image Completion",
+      "authors": "Luming Tang, Nataniel Ruiz, Qinghao Chu, Yuanzhen Li, Aleksander Holynski, David E. Jacobs, Bharath Hariharan, Yael Pritch, Neal Wadhwa, Kfir Aberman, Michael Rubinstein",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_4fb305b47d",
+      "paper_id": "4fb305b47d",
+      "title": "RELATE3D: REfocusing Latent Adapter for Targeted local Enhancement and Editing in 3D Generation",
+      "authors": "Xiao-Lei Li, Hao-Xiang Chen, Yanni Zhang, Kai Ma, Alan Zhao, Tai-Jiang Mu, Haoxiang Guo, Ran Zhang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_b26689c447",
+      "paper_id": "b26689c447",
+      "title": "ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences",
+      "authors": "Liyuan Zhu, Shengqu Cai, Shengyu Huang, Gordon Wetzstein, Naji Khosravan, Iro Armeni",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_604",
+      "paper_id": "papers_604",
+      "title": "RGB↔X: Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models",
+      "authors": "Zheng Zeng, Valentin Deschaintre, Iliyan Georgiev, Yannick Hold-Geoffroy, Yiwei Hu, Fujun Luan, Ling-Qi Yan, Miloš Hašan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_f261bbdf48",
+      "paper_id": "f261bbdf48",
+      "title": "SAWNA: Space-Aware Text to Image Generation",
+      "authors": "Ryugo Morita, Sho Kuno, Ryunosuke Tanaka, Rongzhi Li, Hoang Dai Dinh, Issey Sukeda",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_1275",
+      "paper_id": "papers_1275",
+      "title": "Separate-and-Enhance: Compositional Finetuning for Text-to-image Diffusion Models",
+      "authors": "Zhipeng Bao, Yijun Li, Krishna Kumar Singh, Yu-Xiong Wang, Martial Hebert",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_816",
+      "paper_id": "papers_816",
+      "title": "Sketch-guided Text-to-image Diffusion Models",
+      "authors": "Andrey Voynov, Kfir Aberman, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_118",
+      "paper_id": "papers_118",
+      "title": "SketchDream: Sketch-based Text-to-3D Generation and Editing",
+      "authors": "Feng-Lin liu, Hongbo Fu, Yu-Kun Lai, Lin Gao",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_719",
+      "paper_id": "papers_719",
+      "title": "Spice-E: Structural Priors in 3D Diffusion Using Cross-Entity Attention",
+      "authors": "Etai Sella, Gal Fiebelman, Noam Atia, Hadar Averbuch-Elor",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_b23649de0d",
+      "paper_id": "b23649de0d",
+      "title": "Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model",
+      "authors": "Yuxuan Zhang, Yirui Yuan, Yiren Song, Jiaming Liu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_7054494440",
+      "paper_id": "7054494440",
+      "title": "Style Customization of Text-to-Vector Generation with Image Diffusion Priors",
+      "authors": "Peiying Zhang, Nanxuan Zhao, Jing Liao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_628",
+      "paper_id": "papers_628",
+      "title": "StyleGAN-NADA: CLIP-guided Domain Adaptation of Image Generators",
+      "authors": "Rinon Gal, Or Patashnik, Haggai Maron, Amit Bermano, Gal Chechik, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_758",
+      "paper_id": "papers_758",
+      "title": "Subject-Diffusion: Open Domain Personalized Text-to-image Generation Without Test-time Fine-tuning",
+      "authors": "Jian Ma, Junhao Liang, Chen Chen, Haonan Lu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_8fe1eb9386",
+      "paper_id": "8fe1eb9386",
+      "title": "SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation",
+      "authors": "Ellie Arar, Yarden Frenkel, Daniel Cohen-Or, Ariel Shamir, Yael Vinker",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_ef462e65bb",
+      "paper_id": "ef462e65bb",
+      "title": "Taking Control: Procedural Diffusion Guidance for Architectural Facade Editing",
+      "authors": "Aleksander Plocharski, Jan Swidzinski, Przemyslaw Musialski",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_603",
+      "paper_id": "papers_603",
+      "title": "TexSliders: Diffusion-based Texture Editing in CLIP Space",
+      "authors": "Julia Guerrero-Viu, Milos Hasan, Arthur Roullier, Midhun Harikumar, Yiwei Hu, Paul Guerrero, Diego Gutiérrez, Belen Masia, Valentin Deschaintre",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_334",
+      "paper_id": "papers_334",
+      "title": "Text2Human: Text-driven Controllable Human Image Generation",
+      "authors": "Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_468",
+      "paper_id": "papers_468",
+      "title": "The Chosen One: Consistent Characters in Text-to-image Diffusion Models",
+      "authors": "Omri Avrahami, Amir Hertz, Yael Vinker, Moab Arar, Shlomi Fruchter, Ohad Fried, Daniel Cohen-Or, Dani Lischinski",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_776",
+      "paper_id": "papers_776",
+      "title": "ThemeStation: Generating Theme-aware 3D Assets From Few Exemplars",
+      "authors": "Zhenwei Wang, Tengfei Wang, Gerhard Hancke, Ziwei Liu, Rynson W.H. Lau",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_820",
+      "paper_id": "papers_820",
+      "title": "TIP-Editor: An Accurate 3D Editor Following Both Text-prompts and Image-prompts",
+      "authors": "Jingyu Zhuang, Di Kang, Yan-Pei Cao, Guanbin Li, Liang Lin, Ying Shan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_1161110a79",
+      "paper_id": "1161110a79",
+      "title": "TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space",
+      "authors": "Daniel Garibi, Shahar Yadin, Roni Paiss, Omer Tov, Shiran Zada, Ariel Ephrat, Tomer Michaeli, Inbar Mosseri, Tali Dekel",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_347",
+      "paper_id": "papers_347",
+      "title": "Training-free Consistent Text-to-image Generation",
+      "authors": "Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_279",
+      "paper_id": "papers_279",
+      "title": "Transparent Image Layer Diffusion Using Latent Transparency",
+      "authors": "Lvmin Zhang, Maneesh Agrawala",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_806",
+      "paper_id": "papers_806",
+      "title": "UniTune: Text-driven Image Editing by Fine Tuning a Diffusion Model on a Single Image",
+      "authors": "Dani Valevski, Matan Kalman, Eyal Molad, Eyal Segalis, Yossi Matias, Yaniv Leviathan",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_1047",
+      "paper_id": "papers_1047",
+      "title": "Versatile Vision Foundation Model for Image and Video Colorization",
+      "authors": "Vukasin Bozic, Abdelaziz Djelouah, Yang Zhang, Radu Timofte, Markus Gross, Christopher Schroers",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_301",
+      "paper_id": "papers_301",
+      "title": "Word-as-image for Semantic Typography",
+      "authors": "Shir Iluz, Yael Vinker, Amir Hertz, Daniel Berio, Daniel Cohen-Or, Ariel Shamir",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_431",
+      "paper_id": "papers_431",
+      "title": "Zero-shot Image-to-image Translation",
+      "authors": "Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    }
+  ]
+}

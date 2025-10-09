@@ -1,0 +1,2373 @@
+{
+  "cluster_id": 69,
+  "papers": [
+    {
+      "id": "iclr23_RDy3IbvjMqT",
+      "paper_id": "RDy3IbvjMqT",
+      "title": "$\\mathrm{SE}(3)$-Equivariant Attention Networks for Shape Reconstruction in Function Space",
+      "authors": "Evangelos Chatzipantazis, Stefanos Pertigkiozoglou, Edgar Dobriban, Kostas Daniilidis",
+      "paper_url": "https://openreview.net/pdf/9411d2b932a2b7a46202e67d58a5f8067fd33c77.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_wg8NPfeMF9",
+      "paper_id": "wg8NPfeMF9",
+      "title": "$\\texttt{NAISR}$: A 3D Neural Additive Model for Interpretable Shape Representation",
+      "authors": "Yining Jiao, Carlton Jude ZDANSKI, Julia S Kimbell, Andrew Prince, Cameron P Worden, Samuel Kirse, Christopher Rutter, Benjamin Shields, William Alexander Dunn, Jisan Mahmud, Marc Niethammer",
+      "paper_url": "https://openreview.net/pdf?id=wg8NPfeMF9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_U2WjB9xxZ9q",
+      "paper_id": "U2WjB9xxZ9q",
+      "title": "3D generation on ImageNet",
+      "authors": "Ivan Skorokhodov, Aliaksandr Siarohin, Yinghao Xu, Jian Ren, Hsin-Ying Lee, Peter Wonka, Sergey Tulyakov",
+      "paper_url": "https://openreview.net/pdf/303cbc4bcfff52f24148569ddc61d7213ad090eb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Nu7dDaVF5a",
+      "paper_id": "Nu7dDaVF5a",
+      "title": "3D Reconstruction with Generalizable Neural Fields using Scene Priors",
+      "authors": "Yang Fu, Shalini De Mello, Xueting Li, Amey Kulkarni, Jan Kautz, Xiaolong Wang, Sifei Liu",
+      "paper_url": "https://openreview.net/pdf?id=Nu7dDaVF5a",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_G6aJyS0ZV0",
+      "paper_id": "G6aJyS0ZV0",
+      "title": "3D StreetUnveiler with Semantic-aware 2DGS - a simple baseline",
+      "authors": "Jingwei Xu, Yikai Wang, Yiqun Zhao, Yanwei Fu, Shenghua Gao",
+      "paper_url": "https://openreview.net/pdf?id=G6aJyS0ZV0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SSE9myD9SG",
+      "paper_id": "SSE9myD9SG",
+      "title": "3D Vision-Language Gaussian Splatting",
+      "authors": "Qucheng Peng, Benjamin Planche, Zhongpai Gao, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Chen Chen, Ziyan Wu",
+      "paper_url": "https://openreview.net/pdf?id=SSE9myD9SG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9Hxdixed7p",
+      "paper_id": "9Hxdixed7p",
+      "title": "3D-Properties: Identifying Challenges in DPO and Charting a Path Forward",
+      "authors": "Yuzi Yan, Yibo Miao, Jialian Li, YipinZhang, Jian Xie, Zhijie Deng, Dong Yan",
+      "paper_url": "https://openreview.net/pdf?id=9Hxdixed7p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7JUrBLDjCq",
+      "paper_id": "7JUrBLDjCq",
+      "title": "3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing",
+      "authors": "Jiahua Dong, Yu-Xiong Wang",
+      "paper_url": "https://openreview.net/pdf?id=7JUrBLDjCq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MagmwodCAB",
+      "paper_id": "MagmwodCAB",
+      "title": "3DIS: Depth-Driven Decoupled Image Synthesis for Universal Multi-Instance Generation",
+      "authors": "Dewei Zhou, Ji Xie, Zongxin Yang, Yi Yang",
+      "paper_url": "https://openreview.net/pdf?id=MagmwodCAB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iKDbLpVgQc",
+      "paper_id": "iKDbLpVgQc",
+      "title": "3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting",
+      "authors": "Qihang Zhang, Yinghao Xu, Chaoyang Wang, Hsin-Ying Lee, Gordon Wetzstein, Bolei Zhou, Ceyuan Yang",
+      "paper_url": "https://openreview.net/pdf?id=iKDbLpVgQc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qxRoo7ULCo",
+      "paper_id": "qxRoo7ULCo",
+      "title": "4K4DGen: Panoramic 4D Generation at 4K Resolution",
+      "authors": "Renjie Li, Panwang Pan, Bangbang Yang, Dejia Xu, Shijie Zhou, Xuanyang Zhang, Zeming Li, Achuta Kadambi, Zhangyang Wang, Zhengzhong Tu, Zhiwen Fan",
+      "paper_url": "https://openreview.net/pdf?id=qxRoo7ULCo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sUvBTEYXGt",
+      "paper_id": "sUvBTEYXGt",
+      "title": "6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering",
+      "authors": "Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Ziyan Wu",
+      "paper_url": "https://openreview.net/pdf?id=sUvBTEYXGt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_wqD6TfbYkrn",
+      "paper_id": "wqD6TfbYkrn",
+      "title": "A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion",
+      "authors": "Zhaoyang Lyu, Zhifeng Kong, Xudong XU, Liang Pan, Dahua Lin",
+      "paper_url": "https://openreview.net/pdf/b9a7b67a887496b06e6334d71f7fd5780f4a0c3b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_DGez4B2a6Y",
+      "paper_id": "DGez4B2a6Y",
+      "title": "A Plug-and-Play Image Registration Network",
+      "authors": "Junhao Hu, Weijie Gan, Zhixin Sun, Hongyu An, Ulugbek Kamilov",
+      "paper_url": "https://openreview.net/pdf?id=DGez4B2a6Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_POFrdKvpea",
+      "paper_id": "POFrdKvpea",
+      "title": "ACRF: Compressing Explicit Neural Radiance Fields via Attribute Compression",
+      "authors": "Guangchi Fang, Qingyong Hu, Longguang Wang, Yulan Guo",
+      "paper_url": "https://openreview.net/pdf?id=POFrdKvpea",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_5MLb3cLCJY",
+      "paper_id": "5MLb3cLCJY",
+      "title": "Adaptive Wavelet Transformer Network for 3D Shape Representation Learning",
+      "authors": "Hao Huang, Yi Fang",
+      "paper_url": "https://openreview.net/pdf/b460e9efd8a892dfa306a2d12f830a63074ab5dd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_rHzapPnCgT",
+      "paper_id": "rHzapPnCgT",
+      "title": "Advancing Pose-Guided Image Synthesis with Progressive Conditional Diffusion Models",
+      "authors": "Fei Shen, Hu Ye, Jun Zhang, Cong Wang, Xiao Han, Yang Wei",
+      "paper_url": "https://openreview.net/pdf?id=rHzapPnCgT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_mE52zURNGc",
+      "paper_id": "mE52zURNGc",
+      "title": "An Analytical Solution to Gauss-Newton Loss for Direct Image Alignment",
+      "authors": "Sergei Solonets, Daniil Sinitsyn, Lukas Von Stumberg, Nikita Araslanov, Daniel Cremers",
+      "paper_url": "https://openreview.net/pdf?id=mE52zURNGc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_v1f6c7wVBm",
+      "paper_id": "v1f6c7wVBm",
+      "title": "AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction",
+      "authors": "Jingnan Gao, Zhuo Chen, Xiaokang Yang, Yichao Yan",
+      "paper_url": "https://openreview.net/pdf?id=v1f6c7wVBm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_d8mr8lKIZ3n",
+      "paper_id": "d8mr8lKIZ3n",
+      "title": "Arbitrary Virtual Try-on Network: Characteristics Representation and Trade-off between Body and Clothing",
+      "authors": "Yu Liu, Mingbo Zhao, Zhao Zhang, Jicong Fan, Yang Lou, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf/b555725c914e1f9fb64a37dce8fe336643c34b60.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_8pusxkLEQO",
+      "paper_id": "8pusxkLEQO",
+      "title": "ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation",
+      "authors": "Zongyi Li, Shujie HU, Shujie LIU, Long Zhou, Jeongsoo Choi, Lingwei Meng, Xun Guo, Jinyu Li, Hefei Ling, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=8pusxkLEQO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kMp8zCsXNb",
+      "paper_id": "kMp8zCsXNb",
+      "title": "ASMR: Activation-Sharing Multi-Resolution Coordinate Networks for Efficient Inference",
+      "authors": "Jason Chun Lok Li, Steven Tin Sui Luo, Le Xu, Ngai Wong",
+      "paper_url": "https://openreview.net/pdf?id=kMp8zCsXNb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_H2Gxil855b",
+      "paper_id": "H2Gxil855b",
+      "title": "Atlas Gaussians Diffusion for 3D Generation",
+      "authors": "Haitao Yang, Yuan Dong, Hanwen Jiang, Dejia Xu, Georgios Pavlakos, Qixing Huang",
+      "paper_url": "https://openreview.net/pdf?id=H2Gxil855b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_v3K5TVP8kZ",
+      "paper_id": "v3K5TVP8kZ",
+      "title": "AutomaTikZ: Text-Guided Synthesis of Scientific Vector Graphics with TikZ",
+      "authors": "Jonas Belouadi, Anne Lauscher, Steffen Eger",
+      "paper_url": "https://openreview.net/pdf?id=v3K5TVP8kZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_yQDFsuG9HP",
+      "paper_id": "yQDFsuG9HP",
+      "title": "Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation",
+      "authors": "Tserendorj Adiya, Jae Shin Yoon, JUNGEUN LEE, Sanghun Kim, Hwasup Lim",
+      "paper_url": "https://openreview.net/pdf?id=yQDFsuG9HP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LTDtjrv02Y",
+      "paper_id": "LTDtjrv02Y",
+      "title": "Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder",
+      "authors": "Antoine Schnepf, Karim Kassab, Jean-Yves Franceschi, Laurent Caraffa, Flavian Vasile, Jeremie Mary, Andrew I. Comport, Valerie Gouet-Brunet",
+      "paper_url": "https://openreview.net/pdf?id=LTDtjrv02Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gg6dPtdC1C",
+      "paper_id": "gg6dPtdC1C",
+      "title": "Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation",
+      "authors": "Abdelrahman Eldesokey, Peter Wonka",
+      "paper_url": "https://openreview.net/pdf?id=gg6dPtdC1C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ix2yRWarPn",
+      "paper_id": "ix2yRWarPn",
+      "title": "Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting",
+      "authors": "Yu Liu, Baoxiong Jia, Ruijie Lu, Junfeng Ni, Song-Chun Zhu, Siyuan Huang",
+      "paper_url": "https://openreview.net/pdf?id=ix2yRWarPn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_S7cWJkWqOi",
+      "paper_id": "S7cWJkWqOi",
+      "title": "Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control",
+      "authors": "Hejia Chen, Haoxian Zhang, Shoulong Zhang, Xiaoqiang Liu, Sisi Zhuang, zhangyuan, Pengfei Wan, Di ZHANG, Shuai Li",
+      "paper_url": "https://openreview.net/pdf?id=S7cWJkWqOi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Z4evOUYrk7",
+      "paper_id": "Z4evOUYrk7",
+      "title": "CameraCtrl: Enabling Camera Control for Video Diffusion Models",
+      "authors": "Hao He, Yinghao Xu, Yuwei Guo, Gordon Wetzstein, Bo Dai, Hongsheng Li, Ceyuan Yang",
+      "paper_url": "https://openreview.net/pdf?id=Z4evOUYrk7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_EanCFCwAjM",
+      "paper_id": "EanCFCwAjM",
+      "title": "Cameras as Rays: Pose Estimation via Ray Diffusion",
+      "authors": "Jason Y. Zhang, Amy Lin, Moneish Kumar, Tzu-Hsuan Yang, Deva Ramanan, Shubham Tulsiani",
+      "paper_url": "https://openreview.net/pdf?id=EanCFCwAjM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_m3KuuE2ozw",
+      "paper_id": "m3KuuE2ozw",
+      "title": "CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression",
+      "authors": "Yu-Ting Zhan, Cheng-Yuan Ho, Hebi Yang, Yi-Hsin Chen, Jui Chiu Chiang, Yu-Lun Liu, Wen-Hsiao Peng",
+      "paper_url": "https://openreview.net/pdf?id=m3KuuE2ozw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zQWqV2tzDv",
+      "paper_id": "zQWqV2tzDv",
+      "title": "CircNet: Meshing 3D Point Clouds with Circumcenter Detection",
+      "authors": "Huan Lei, Ruitao Leng, Liang Zheng, Hongdong Li",
+      "paper_url": "https://openreview.net/pdf/f1b1428f07774521292a5203739b985acc12400f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_a3ptUbuzbW",
+      "paper_id": "a3ptUbuzbW",
+      "title": "CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes",
+      "authors": "Yang Liu, Chuanchen Luo, Zhongkai Mao, Junran Peng, Zhaoxiang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=a3ptUbuzbW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VaowElpVzd",
+      "paper_id": "VaowElpVzd",
+      "title": "Co$^{\\mathbf{3}}$Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion",
+      "authors": "Xingqun Qi, Yatian Wang, Hengyuan Zhang, Jiahao Pan, Wei Xue, Shanghang Zhang, Wenhan Luo, Qifeng Liu, Yike Guo",
+      "paper_url": "https://openreview.net/pdf?id=VaowElpVzd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LQzN6TRFg9",
+      "paper_id": "LQzN6TRFg9",
+      "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+      "authors": "Zhuoyi Yang, Jiayan Teng, Wendi Zheng, Ming Ding, Shiyu Huang, Jiazheng Xu, Yuanming Yang, Wenyi Hong, Xiaohan Zhang, Guanyu Feng, Da Yin, Yuxuan.Zhang, Weihan Wang, Yean Cheng, Bin Xu, Xiaotao Gu, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://openreview.net/pdf?id=LQzN6TRFg9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SoUwcVplq4",
+      "paper_id": "SoUwcVplq4",
+      "title": "ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors",
+      "authors": "Tianxin Huang, Zhiwen Yan, Yuyang Zhao, Gim Hee Lee",
+      "paper_url": "https://openreview.net/pdf?id=SoUwcVplq4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_p4eG8rCa0b",
+      "paper_id": "p4eG8rCa0b",
+      "title": "Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis",
+      "authors": "Jonghyun Lee, Hansam Cho, YoungJoon Yoo, Seoung Bum Kim, Yonghyun Jeong",
+      "paper_url": "https://openreview.net/pdf?id=p4eG8rCa0b",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_A51NEXIq1J",
+      "paper_id": "A51NEXIq1J",
+      "title": "Consistent Flow Distillation for Text-to-3D Generation",
+      "authors": "Runjie Yan, Yinbo Chen, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=A51NEXIq1J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IoKRezZMxF",
+      "paper_id": "IoKRezZMxF",
+      "title": "Consistent Video-to-Video Transfer Using Synthetic Dataset",
+      "authors": "Jiaxin Cheng, Tianjun Xiao, Tong He",
+      "paper_url": "https://openreview.net/pdf?id=IoKRezZMxF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_sPUrdFGepF",
+      "paper_id": "sPUrdFGepF",
+      "title": "Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video",
+      "authors": "Yanqin Jiang, Li Zhang, Jin Gao, Weiming Hu, Yao Yao",
+      "paper_url": "https://openreview.net/pdf?id=sPUrdFGepF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_kuTZMZdCPZ",
+      "paper_id": "kuTZMZdCPZ",
+      "title": "Continuous Field Reconstruction from Sparse Observations with Implicit Neural Networks",
+      "authors": "Xihaier Luo, Wei Xu, Balu Nadiga, Yihui Ren, Shinjae Yoo",
+      "paper_url": "https://openreview.net/pdf?id=kuTZMZdCPZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_f92M45YRfh",
+      "paper_id": "f92M45YRfh",
+      "title": "Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control",
+      "authors": "Xianghui Ze, Zhenbo Song, Qiwei Wang, Jianfeng Lu, Yujiao Shi",
+      "paper_url": "https://openreview.net/pdf?id=f92M45YRfh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_oAy7yPmdNz",
+      "paper_id": "oAy7yPmdNz",
+      "title": "CoordX: Accelerating Implicit Neural Representation with a Split MLP Architecture",
+      "authors": "Ruofan Liang, Hongyi Sun, Nandita Vijaykumar",
+      "paper_url": "https://openreview.net/pdf/883503a39b83b819141ae8569f3496924381ba8b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22__Wzj0J2xs2D",
+      "paper_id": "_Wzj0J2xs2D",
+      "title": "CURVATURE-GUIDED DYNAMIC SCALE NETWORKS FOR MULTI-VIEW  STEREO",
+      "authors": "Khang Truong Giang, Soohwan Song, Sungho Jo",
+      "paper_url": "https://openreview.net/pdf/d9996d1650b1f7ea346a668f1a2daf658ec29136.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_vaEPihQsAA",
+      "paper_id": "vaEPihQsAA",
+      "title": "CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation",
+      "authors": "Gaojie Lin, Jianwen Jiang, Chao Liang, Tianyun Zhong, Jiaqi Yang, Zerong Zheng, Yanbo Zheng",
+      "paper_url": "https://openreview.net/pdf?id=vaEPihQsAA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vjHySpxDsv",
+      "paper_id": "vjHySpxDsv",
+      "title": "DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking head Video Generation",
+      "authors": "Hanbo Cheng, Limin Lin, Chenyu Liu, Pengcheng Xia, Pengfei Hu, Jiefeng Ma, Jun Du, Jia Pan",
+      "paper_url": "https://openreview.net/pdf?id=vjHySpxDsv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DhHIw9Nbl1",
+      "paper_id": "DhHIw9Nbl1",
+      "title": "Decoupling Layout from Glyph in Online Chinese Handwriting Generation",
+      "authors": "Minsi Ren, Yan-Ming Zhang, yi chen",
+      "paper_url": "https://openreview.net/pdf?id=DhHIw9Nbl1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OoOIW-3uadi",
+      "paper_id": "OoOIW-3uadi",
+      "title": "Deep Learning on Implicit Neural Representations of Shapes",
+      "authors": "Luca De Luigi, Adriano Cardace, Riccardo Spezialetti, Pierluigi Zama Ramirez, Samuele Salti, Luigi di Stefano",
+      "paper_url": "https://openreview.net/pdf/0499ba490c5bce6235d155c9b5bbfcf6025a1d0f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_mKDtUtxIGJ",
+      "paper_id": "mKDtUtxIGJ",
+      "title": "Deep Point Cloud Reconstruction",
+      "authors": "Jaesung Choe, ByeongIn Joung, Francois Rameau, Jaesik Park, In So Kweon",
+      "paper_url": "https://openreview.net/pdf/f30ff432e93adac626108cbcf0a36c3601b912d2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Dnc3paMqDE",
+      "paper_id": "Dnc3paMqDE",
+      "title": "DeepSPF: Spherical SO(3)-Equivariant Patches for Scan-to-CAD Estimation",
+      "authors": "Driton Salihu, Adam Misik, Yuankai Wu, Constantin Patsch, Fabian Seguel, Eckehard Steinbach",
+      "paper_url": "https://openreview.net/pdf?id=Dnc3paMqDE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_QUK1ExlbbA",
+      "paper_id": "QUK1ExlbbA",
+      "title": "DENSE RGB SLAM WITH NEURAL IMPLICIT MAPS",
+      "authors": "Heng Li, Xiaodong Gu, Weihao Yuan, luwei yang, Zilong Dong, Ping Tan",
+      "paper_url": "https://openreview.net/pdf/ab0b52e87f06cf00151dc4f9780baeee6b12f597.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_gWqFbnKsqR",
+      "paper_id": "gWqFbnKsqR",
+      "title": "Depth Any Video with Scalable Synthetic Data",
+      "authors": "Honghui Yang, Di Huang, Wei Yin, Chunhua Shen, Haifeng Liu, Xiaofei He, Binbin Lin, Wanli Ouyang, Tong He",
+      "paper_url": "https://openreview.net/pdf?id=gWqFbnKsqR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_aueXfY0Clv",
+      "paper_id": "aueXfY0Clv",
+      "title": "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second",
+      "authors": "Alexey Bochkovskiy, Amaël Delaunoy, Hugo Germain, Marcel Santos, Yichao Zhou, Stephan Richter, Vladlen Koltun",
+      "paper_url": "https://openreview.net/pdf?id=aueXfY0Clv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_5O2uzDusEN5",
+      "paper_id": "5O2uzDusEN5",
+      "title": "DFlow: Learning to Synthesize Better Optical Flow Datasets via a Differentiable Pipeline",
+      "authors": "Kwon Byung-Ki, Nam Hyeon-Woo, Ji-Yun Kim, Tae-Hyun Oh",
+      "paper_url": "https://openreview.net/pdf/0ef1c24f1cf3ba80131634c7b890f2eb921fef95.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_rfrtFwnF62",
+      "paper_id": "rfrtFwnF62",
+      "title": "DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image",
+      "authors": "Qingxuan Wu, Zhiyang Dou, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu",
+      "paper_url": "https://openreview.net/pdf?id=rfrtFwnF62",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_aIMi2lOKIn",
+      "paper_id": "aIMi2lOKIn",
+      "title": "Diff3DS: Generating View-Consistent 3D Sketch via Differentiable Curve Rendering",
+      "authors": "Yibo Zhang, Lihong Wang, Changqing Zou, Tieru Wu, Rui Ma",
+      "paper_url": "https://openreview.net/pdf?id=aIMi2lOKIn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MO632iPq3I",
+      "paper_id": "MO632iPq3I",
+      "title": "Differentiable Euler Characteristic Transforms for Shape Classification",
+      "authors": "Ernst Röell, Bastian Rieck",
+      "paper_url": "https://openreview.net/pdf?id=MO632iPq3I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_U8pbd00cCWB",
+      "paper_id": "U8pbd00cCWB",
+      "title": "Differentiable Gradient Sampling for Learning Implicit 3D Scene Reconstructions from a Single Image",
+      "authors": "Shizhan Zhu, Sayna Ebrahimi, Angjoo Kanazawa, Trevor Darrell",
+      "paper_url": "https://openreview.net/pdf/8c96aef9f871676b7212944a243a58434b44fc1a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fectsEG2GU",
+      "paper_id": "fectsEG2GU",
+      "title": "Diffusion$^2$: Dynamic 3D Content Generation via Score Composition of Video and Multi-view Diffusion Models",
+      "authors": "Zeyu Yang, Zijie Pan, Chun Gu, Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=fectsEG2GU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AumOa10MKG",
+      "paper_id": "AumOa10MKG",
+      "title": "DisPose: Disentangling Pose Guidance for Controllable Human Image Animation",
+      "authors": "Hongxiang Li, Yaowei Li, Yuhang Yang, Junjie Cao, Zhihong Zhu, Xuxin Cheng, Long Chen",
+      "paper_url": "https://openreview.net/pdf?id=AumOa10MKG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_C_PRLz8bEJx",
+      "paper_id": "C_PRLz8bEJx",
+      "title": "DM-NeRF: 3D Scene Geometry Decomposition and Manipulation from 2D Images",
+      "authors": "Bing WANG, Lu Chen, Bo Yang",
+      "paper_url": "https://openreview.net/pdf/4f4eb3aacc4057088f93457c08b0973e42eebf1f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FA5ZAJlv96",
+      "paper_id": "FA5ZAJlv96",
+      "title": "DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation",
+      "authors": "Jiwook Kim, Seonho Lee, Jaeyo Shin, Jiho Choi, Hyunjung Shim",
+      "paper_url": "https://openreview.net/pdf?id=FA5ZAJlv96",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DDX1u29Gqr",
+      "paper_id": "DDX1u29Gqr",
+      "title": "DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
+      "authors": "Jingxiang Sun, Bo Zhang, Ruizhi Shao, Lizhen Wang, Wen Liu, Zhenda Xie, Yebin Liu",
+      "paper_url": "https://openreview.net/pdf?id=DDX1u29Gqr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_GURqUuTebY",
+      "paper_id": "GURqUuTebY",
+      "title": "DreamFlow: High-quality text-to-3D generation by Approximating Probability Flow",
+      "authors": "Kyungmin Lee, Kihyuk Sohn, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf?id=GURqUuTebY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_FjNys5c7VyY",
+      "paper_id": "FjNys5c7VyY",
+      "title": "DreamFusion: Text-to-3D using 2D Diffusion",
+      "authors": "Ben Poole, Ajay Jain, Jonathan T. Barron, Ben Mildenhall",
+      "paper_url": "https://openreview.net/pdf/fc5d88df1a06d30ae79fb23e87030f0fb2c8bd76.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_UyNXMqnN3c",
+      "paper_id": "UyNXMqnN3c",
+      "title": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
+      "authors": "Jiaxiang Tang, Jiawei Ren, Hang Zhou, Ziwei Liu, Gang Zeng",
+      "paper_url": "https://openreview.net/pdf?id=UyNXMqnN3c",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1bAUywYJTU",
+      "paper_id": "1bAUywYJTU",
+      "title": "DreamTime: An Improved Optimization Strategy for Diffusion-Guided 3D Generation",
+      "authors": "Yukun Huang, Jianan Wang, Yukai Shi, Boshi Tang, Xianbiao Qi, Lei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=1bAUywYJTU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LuGHbK8qTa",
+      "paper_id": "LuGHbK8qTa",
+      "title": "Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Dynamic Scenes",
+      "authors": "Isabella Liu, Hao Su, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=LuGHbK8qTa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M7KyLjuN0A",
+      "paper_id": "M7KyLjuN0A",
+      "title": "DynamicCity: Large-Scale 4D Occupancy Generation from Dynamic Scenes",
+      "authors": "Hengwei Bian, Lingdong Kong, Haozhe Xie, Liang Pan, Yu Qiao, Ziwei Liu",
+      "paper_url": "https://openreview.net/pdf?id=M7KyLjuN0A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_koYsgfEwCQ",
+      "paper_id": "koYsgfEwCQ",
+      "title": "DynaVol: Unsupervised Learning for Dynamic Scenes through Object-Centric Voxelization",
+      "authors": "Yanpeng Zhao, Siyu Gao, Yunbo Wang, Xiaokang Yang",
+      "paper_url": "https://openreview.net/pdf?id=koYsgfEwCQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_MnMWa94t12",
+      "paper_id": "MnMWa94t12",
+      "title": "DyST: Towards Dynamic Neural Scene Representations on Real-World Videos",
+      "authors": "Maximilian Seitzer, Sjoerd van Steenkiste, Thomas Kipf, Klaus Greff, Mehdi S. M. Sajjadi",
+      "paper_url": "https://openreview.net/pdf?id=MnMWa94t12",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_iDcWYtYUwX",
+      "paper_id": "iDcWYtYUwX",
+      "title": "EcoFace: Audio-Visual Emotional Co-Disentanglement Speech-Driven 3D Talking Face Generation",
+      "authors": "Jiajian Xie, Shengyu Zhang, Mengze Li, chengfei lv, Zhou Zhao, Fei Wu",
+      "paper_url": "https://openreview.net/pdf?id=iDcWYtYUwX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qSEEQPNbu4",
+      "paper_id": "qSEEQPNbu4",
+      "title": "econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians",
+      "authors": "Can Zhang, Gim Hee Lee",
+      "paper_url": "https://openreview.net/pdf?id=qSEEQPNbu4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_9DvDRTTdlu",
+      "paper_id": "9DvDRTTdlu",
+      "title": "ED-NeRF: Efficient Text-Guided Editing of 3D Scene With Latent Space NeRF",
+      "authors": "JangHo Park, Gihyun Kwon, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=9DvDRTTdlu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_81cta3WQVI",
+      "paper_id": "81cta3WQVI",
+      "title": "EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation",
+      "authors": "Jiaxiang Tang, Zhaoshuo Li, Zekun Hao, Xian Liu, Gang Zeng, Ming-Yu Liu, Qinsheng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=81cta3WQVI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Y2Dh8rWwlb",
+      "paper_id": "Y2Dh8rWwlb",
+      "title": "EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing",
+      "authors": "Kaizhi Zheng, Xiaotong Chen, Xuehai He, Jing Gu, Linjie Li, Zhengyuan Yang, Kevin Lin, Jianfeng Wang, Lijuan Wang, Xin Eric Wang",
+      "paper_url": "https://openreview.net/pdf?id=Y2Dh8rWwlb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dQVtTdsvZH",
+      "paper_id": "dQVtTdsvZH",
+      "title": "Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition",
+      "authors": "Sihyun Yu, Weili Nie, De-An Huang, Boyi Li, Jinwoo Shin, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=dQVtTdsvZH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_3eFMnZ3N4J",
+      "paper_id": "3eFMnZ3N4J",
+      "title": "Efficient-3Dim: Learning a Generalizable Single-image Novel-view Synthesizer in One Day",
+      "authors": "Yifan Jiang, Hao Tang, Jen-Hao Rick Chang, Liangchen Song, Zhangyang Wang, Liangliang Cao",
+      "paper_url": "https://openreview.net/pdf?id=3eFMnZ3N4J",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uq9TLFT7tF",
+      "paper_id": "uq9TLFT7tF",
+      "title": "EG4D: Explicit Generation of 4D Object without Score Distillation",
+      "authors": "Qi Sun, Zhiyang Guo, Ziyu Wan, Jing Nathan Yan, Shengming Yin, Wengang Zhou, Jing Liao, Houqiang Li",
+      "paper_url": "https://openreview.net/pdf?id=uq9TLFT7tF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ycv2z8TYur",
+      "paper_id": "ycv2z8TYur",
+      "title": "EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision",
+      "authors": "Jiawei Yang, Boris Ivanovic, Or Litany, Xinshuo Weng, Seung Wook Kim, Boyi Li, Tong Che, Danfei Xu, Sanja Fidler, Marco Pavone, Yue Wang",
+      "paper_url": "https://openreview.net/pdf?id=ycv2z8TYur",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ukidfml68f",
+      "paper_id": "ukidfml68f",
+      "title": "Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping",
+      "authors": "Zijie Pan, Jiachen Lu, Xiatian Zhu, Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=ukidfml68f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_kvByNnMERu",
+      "paper_id": "kvByNnMERu",
+      "title": "Estimating Shape Distances on Neural Representations with Limited Samples",
+      "authors": "Dean A Pospisil, Brett W. Larsen, Sarah E Harvey, Alex H Williams",
+      "paper_url": "https://openreview.net/pdf?id=kvByNnMERu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_g7U9jD_2CUr",
+      "paper_id": "g7U9jD_2CUr",
+      "title": "EVA3D: Compositional 3D Human Generation from 2D Image Collections",
+      "authors": "Fangzhou Hong, Zhaoxi Chen, Yushi LAN, Liang Pan, Ziwei Liu",
+      "paper_url": "https://openreview.net/pdf/554f7af511783002653244a77c3f8ac31ae45c7c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_4NWtrQciRH",
+      "paper_id": "4NWtrQciRH",
+      "title": "Evidential Learning-based Certainty Estimation for Robust Dense Feature Matching",
+      "authors": "Lile Cai, Chuan-Sheng Foo, Xun Xu, ZAIWANG GU, Jun Cheng, Xulei Yang",
+      "paper_url": "https://openreview.net/pdf?id=4NWtrQciRH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_776lhoaulC",
+      "paper_id": "776lhoaulC",
+      "title": "Exploring the Common Appearance-Boundary Adaptation for Nighttime Optical Flow",
+      "authors": "Hanyu Zhou, Yi Chang, Haoyue Liu, YAN WENDING, Yuxing Duan, Zhiwei Shi, Luxin Yan",
+      "paper_url": "https://openreview.net/pdf?id=776lhoaulC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_oJA1GUqRww",
+      "paper_id": "oJA1GUqRww",
+      "title": "FaceShot: Bring Any Character into Life",
+      "authors": "Junyao Gao, Yanan SUN, Fei Shen, Xin Jiang, Zhening Xing, Kai Chen, Cairong Zhao",
+      "paper_url": "https://openreview.net/pdf?id=oJA1GUqRww",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DCandSZ2F1",
+      "paper_id": "DCandSZ2F1",
+      "title": "Fast Feedforward 3D Gaussian Splatting Compression",
+      "authors": "Yihang Chen, Qianyi Wu, Mengyao Li, Weiyao Lin, Mehrtash Harandi, Jianfei Cai",
+      "paper_url": "https://openreview.net/pdf?id=DCandSZ2F1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_w6YS9A78fq",
+      "paper_id": "w6YS9A78fq",
+      "title": "Field-DiT: Diffusion Transformer on Unified Video, 3D, and Game Field Generation",
+      "authors": "Kangfu Mei, Mo Zhou, Vishal M. Patel",
+      "paper_url": "https://openreview.net/pdf?id=w6YS9A78fq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_JgqftqZQZ7",
+      "paper_id": "JgqftqZQZ7",
+      "title": "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing",
+      "authors": "Yuren Cong, Mengmeng Xu, christian simon, Shoufa Chen, Jiawei Ren, Yanping Xie, Juan-Manuel Perez-Rua, Bodo Rosenhahn, Tao Xiang, Sen He",
+      "paper_url": "https://openreview.net/pdf?id=JgqftqZQZ7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xsd2llWYSA",
+      "paper_id": "xsd2llWYSA",
+      "title": "FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning",
+      "authors": "Chenhao Li, Elijah Stanger-Jones, Steve Heim, Sang bae Kim",
+      "paper_url": "https://openreview.net/pdf?id=xsd2llWYSA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Z0eiiV3Yyh",
+      "paper_id": "Z0eiiV3Yyh",
+      "title": "FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models",
+      "authors": "Zhanwei Zhang, Shizhao Sun, Wenxiao Wang, Deng Cai, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=Z0eiiV3Yyh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Lp40Z40N07",
+      "paper_id": "Lp40Z40N07",
+      "title": "Framer: Interactive Frame Interpolation",
+      "authors": "Wen Wang, Qiuyu Wang, Kecheng Zheng, Hao OUYANG, Zhekai Chen, Biao Gong, Hao Chen, Yujun Shen, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=Lp40Z40N07",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BPb5AhT2Vf",
+      "paper_id": "BPb5AhT2Vf",
+      "title": "FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators",
+      "authors": "Haiping Wang, Yuan Liu, Bing WANG, YUJING SUN, Zhen Dong, Wenping Wang, Bisheng Yang",
+      "paper_url": "https://openreview.net/pdf?id=BPb5AhT2Vf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_aLSI9Z4UMD",
+      "paper_id": "aLSI9Z4UMD",
+      "title": "Gaga: Group Any Gaussians via 3D-aware Memory Bank",
+      "authors": "Weijie Lyu, Xueting Li, Abhijit Kundu, Yi-Hsuan Tsai, Ming-Hsuan Yang",
+      "paper_url": "https://openreview.net/pdf?id=aLSI9Z4UMD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ATEawsFUj4",
+      "paper_id": "ATEawsFUj4",
+      "title": "GAIA: Zero-shot Talking Avatar Generation",
+      "authors": "Tianyu He, Junliang Guo, Runyi Yu, Yuchi Wang, jialiang zhu, Kaikai An, Leyi Li, Xu Tan, Chunyu Wang, Han Hu, HsiangTao Wu, sheng zhao, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=ATEawsFUj4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KYOdZRR6nr",
+      "paper_id": "KYOdZRR6nr",
+      "title": "GALA: Geometry-Aware Local Adaptive Grids for Detailed 3D Generation",
+      "authors": "Dingdong Yang, Yizhi Wang, Konrad Schindler, Ali Mahdavi Amiri, Hao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=KYOdZRR6nr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HtbqsbNw9c",
+      "paper_id": "HtbqsbNw9c",
+      "title": "Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping",
+      "authors": "Tianhao Walter Wu, Jing Yang, Zhilin Guo, Jingyi Wan, Fangcheng Zhong, Cengiz Oztireli",
+      "paper_url": "https://openreview.net/pdf?id=HtbqsbNw9c",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dkrEoT68by",
+      "paper_id": "dkrEoT68by",
+      "title": "Gaussian Splatting Lucas-Kanade",
+      "authors": "Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo Attila Jeni",
+      "paper_url": "https://openreview.net/pdf?id=dkrEoT68by",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_P4DbTSDQFu",
+      "paper_id": "P4DbTSDQFu",
+      "title": "GaussianAnything: Interactive Point Cloud Flow Matching for 3D Generation",
+      "authors": "Yushi LAN, Shangchen Zhou, Zhaoyang Lyu, Fangzhou Hong, Shuai Yang, Bo Dai, Xingang Pan, Chen Change Loy",
+      "paper_url": "https://openreview.net/pdf?id=P4DbTSDQFu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wrXCIsysqB",
+      "paper_id": "wrXCIsysqB",
+      "title": "GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians",
+      "authors": "Shuyi Jiang, Qihao Zhao, Hossein Rahmani, De Wen Soh, Jun Liu, Na Zhao",
+      "paper_url": "https://openreview.net/pdf?id=wrXCIsysqB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dGH4kHFKFj",
+      "paper_id": "dGH4kHFKFj",
+      "title": "GenCorres: Consistent Shape Matching via Coupled Implicit-Explicit Shape Generative Models",
+      "authors": "Haitao Yang, Xiangru Huang, Bo Sun, Chandrajit L. Bajaj, Qixing Huang",
+      "paper_url": "https://openreview.net/pdf?id=dGH4kHFKFj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_YfwMIDhPccD",
+      "paper_id": "YfwMIDhPccD",
+      "title": "GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis",
+      "authors": "Zhenhui Ye, Ziyue Jiang, Yi Ren, Jinglin Liu, Jinzheng He, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf/ff5ac074b645e7832c6c2fa298a36dc32675d901.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_dQ2xiSIYzp",
+      "paper_id": "dQ2xiSIYzp",
+      "title": "Generalizable Human Gaussians from Single-View Image",
+      "authors": "Jinnan Chen, Chen Li, Jianfeng Zhang, Lingting Zhu, Buzhen Huang, Hanlin Chen, Gim Hee Lee",
+      "paper_url": "https://openreview.net/pdf?id=dQ2xiSIYzp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BLWaTeucYX",
+      "paper_id": "BLWaTeucYX",
+      "title": "Generating CAD Code with Vision-Language Models for 3D Designs",
+      "authors": "Kamel Alrashedy, Pradyumna Tambwekar, Zulfiqar Haider Zaidi, Megan Langwasser, Wei Xu, Matthew Gombolay",
+      "paper_url": "https://openreview.net/pdf?id=BLWaTeucYX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XlkN11Xj6J",
+      "paper_id": "XlkN11Xj6J",
+      "title": "Generating Images with 3D Annotations Using Diffusion Models",
+      "authors": "Wufei Ma, Qihao Liu, Jiahao Wang, Angtian Wang, Xiaoding Yuan, Yi Zhang, Zihao Xiao, Guofeng Zhang, Beijia Lu, Ruxiao Duan, Yongrui Qi, Adam Kortylewski, Yaoyao Liu, Alan Yuille",
+      "paper_url": "https://openreview.net/pdf?id=XlkN11Xj6J",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1ThYY28HXg",
+      "paper_id": "1ThYY28HXg",
+      "title": "GenXD: Generating Any 3D and 4D Scenes",
+      "authors": "Yuyang Zhao, Chung-Ching Lin, Kevin Lin, Zhiwen Yan, Linjie Li, Zhengyuan Yang, Jianfeng Wang, Gim Hee Lee, Lijuan Wang",
+      "paper_url": "https://openreview.net/pdf?id=1ThYY28HXg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Glm7Kj47nN",
+      "paper_id": "Glm7Kj47nN",
+      "title": "Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation",
+      "authors": "Slava Elizarov, Ciara Rowles, Simon Donné",
+      "paper_url": "https://openreview.net/pdf?id=Glm7Kj47nN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_w7BwaDHppp",
+      "paper_id": "w7BwaDHppp",
+      "title": "Geometry-Aware Projective Mapping for Unbounded Neural Radiance Fields",
+      "authors": "Junoh Lee, Hyunjun Jung, Jin-Hwi Park, Inhwan Bae, Hae-Gon Jeon",
+      "paper_url": "https://openreview.net/pdf?id=w7BwaDHppp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_yhCp5RcZD7",
+      "paper_id": "yhCp5RcZD7",
+      "title": "Geometry-Consistent Neural Shape Representation with Implicit Displacement Fields",
+      "authors": "Wang Yifan, Lukas Rahmann, Olga Sorkine-hornung",
+      "paper_url": "https://openreview.net/pdf/55c1560b8382311a7f02b90aaba2fa21e4475e9d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Ad87VjRqUw",
+      "paper_id": "Ad87VjRqUw",
+      "title": "Ghost on the Shell: An Expressive Representation of General 3D Shapes",
+      "authors": "Zhen Liu, Yao Feng, Yuliang Xiu, Weiyang Liu, Liam Paull, Michael J. Black, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=Ad87VjRqUw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hJIEtJlvhL",
+      "paper_id": "hJIEtJlvhL",
+      "title": "GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering",
+      "authors": "HONGZE CHEN, Zehong Lin, Jun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=hJIEtJlvhL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_pTN8dV2pL8",
+      "paper_id": "pTN8dV2pL8",
+      "title": "GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors",
+      "authors": "LI Yang, RUIZHENG WU, Jiyong Li, Ying-Cong Chen",
+      "paper_url": "https://openreview.net/pdf?id=pTN8dV2pL8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hgehGq2bDv",
+      "paper_id": "hgehGq2bDv",
+      "title": "GPAvatar: Generalizable and Precise Head Avatar from Image(s)",
+      "authors": "Xuangeng Chu, Yu Li, Ailing Zeng, Tianyu Yang, Lijian Lin, Yunfei Liu, Tatsuya Harada",
+      "paper_url": "https://openreview.net/pdf?id=hgehGq2bDv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_56vHbnk35S",
+      "paper_id": "56vHbnk35S",
+      "title": "Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting",
+      "authors": "Chong Cheng, Gaochao Song, Yiyang Yao, Qinzheng Zhou, Gangjian Zhang, Hao Wang",
+      "paper_url": "https://openreview.net/pdf?id=56vHbnk35S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_28L2FCtMWq",
+      "paper_id": "28L2FCtMWq",
+      "title": "Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models",
+      "authors": "Hyeonho Jeong, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=28L2FCtMWq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mP7uV59iJM",
+      "paper_id": "mP7uV59iJM",
+      "title": "GS-CPR: Efficient Camera Pose Refinement via 3D Gaussian Splatting",
+      "authors": "Changkun Liu, Shuai Chen, Yash Sanjay Bhalgat, Siyan HU, Ming Cheng, Zirui Wang, Victor Adrian Prisacariu, Tristan Braud",
+      "paper_url": "https://openreview.net/pdf?id=mP7uV59iJM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RMaRBE9s2H",
+      "paper_id": "RMaRBE9s2H",
+      "title": "GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting",
+      "authors": "Junzhe Jiang, Chun Gu, Yurui Chen, Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=RMaRBE9s2H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Oxpkn0YLG1",
+      "paper_id": "Oxpkn0YLG1",
+      "title": "GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement",
+      "authors": "Peiye Zhuang, Songfang Han, Chaoyang Wang, Aliaksandr Siarohin, Jiaxu Zou, Michael Vasilkovsky, Vladislav Shakhrai, Sergei Korolev, Sergey Tulyakov, Hsin-Ying Lee",
+      "paper_url": "https://openreview.net/pdf?id=Oxpkn0YLG1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_P1ANzoGg3W",
+      "paper_id": "P1ANzoGg3W",
+      "title": "H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields",
+      "authors": "Minyoung Park, Mirae Do, Yeon Jae Shin, Jaeseok Yoo, Jongkwang Hong, Joongrock Kim, Chul Lee",
+      "paper_url": "https://openreview.net/pdf?id=P1ANzoGg3W",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rkzabmWl5k",
+      "paper_id": "rkzabmWl5k",
+      "title": "Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation",
+      "authors": "Jiahao Cui, Hui Li, Yao Yao, Hao Zhu, Hanlin Shang, Kaihui Cheng, Hang Zhou, Siyu Zhu, Jingdong Wang",
+      "paper_url": "https://openreview.net/pdf?id=rkzabmWl5k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IZMPWmcS3H",
+      "paper_id": "IZMPWmcS3H",
+      "title": "HIFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance",
+      "authors": "Junzhe Zhu, Peiye Zhuang, Sanmi Koyejo",
+      "paper_url": "https://openreview.net/pdf?id=IZMPWmcS3H",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rfeksadZox",
+      "paper_id": "rfeksadZox",
+      "title": "High-quality Text-to-3D Character Generation with SparseCubes and Sparse Transformers.",
+      "authors": "Jiachen Qian, Hongye Yang, Shuang Wu, Jingxi Xu, Feihu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=rfeksadZox",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SBzIbJojs8",
+      "paper_id": "SBzIbJojs8",
+      "title": "HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction",
+      "authors": "Shengji Tang, Weicai Ye, Peng Ye, Weihao Lin, Yang Zhou, Tao Chen, Wanli Ouyang",
+      "paper_url": "https://openreview.net/pdf?id=SBzIbJojs8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_25Zlvl7JxW",
+      "paper_id": "25Zlvl7JxW",
+      "title": "HQGS: High-Quality Novel View Synthesis with Gaussian Splatting in Degraded Scenes",
+      "authors": "Xin Lin, Shi Luo, Xiaojun Shan, Xiaoyu Zhou, Chao Ren, Lu Qi, Ming-Hsuan Yang, Nuno Vasconcelos",
+      "paper_url": "https://openreview.net/pdf?id=25Zlvl7JxW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dTpbEdN9kr",
+      "paper_id": "dTpbEdN9kr",
+      "title": "Human Motion Diffusion as a Generative Prior",
+      "authors": "Yoni Shafir, Guy Tevet, Roy Kapon, Amit Haim Bermano",
+      "paper_url": "https://openreview.net/pdf?id=dTpbEdN9kr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_duyA42HlCK",
+      "paper_id": "duyA42HlCK",
+      "title": "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion",
+      "authors": "Xian Liu, Jian Ren, Aliaksandr Siarohin, Ivan Skorokhodov, Yanyu Li, Dahua Lin, Xihui Liu, Ziwei Liu, Sergey Tulyakov",
+      "paper_url": "https://openreview.net/pdf?id=duyA42HlCK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_AcAD4VEgCX",
+      "paper_id": "AcAD4VEgCX",
+      "title": "I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength",
+      "authors": "Wanquan Feng, Jiawei Liu, Pengqi Tu, Tianhao Qi, Mingzhen Sun, Tianxiang Ma, Songtao Zhao, SiYu Zhou, Qian HE",
+      "paper_url": "https://openreview.net/pdf?id=AcAD4VEgCX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uuef1HP6X7",
+      "paper_id": "uuef1HP6X7",
+      "title": "IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations",
+      "authors": "Zhibing Li, Tong Wu, Jing Tan, Mengchen Zhang, Jiaqi Wang, Dahua Lin",
+      "paper_url": "https://openreview.net/pdf?id=uuef1HP6X7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__2bDpAtr7PI",
+      "paper_id": "_2bDpAtr7PI",
+      "title": "Image to Sphere: Learning Equivariant Features for Efficient Pose Prediction",
+      "authors": "David Klee, Ondrej Biza, Robert Platt, Robin Walters",
+      "paper_url": "https://openreview.net/pdf/dc2578c49b3cfc78beece0602f3564947a512c18.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_sYAFiHP6qr",
+      "paper_id": "sYAFiHP6qr",
+      "title": "Implicit Neural Surface Deformation with Explicit Velocity Fields",
+      "authors": "Lu Sang, Zehranaz Canfes, Dongliang Cao, Florian Bernard, Daniel Cremers",
+      "paper_url": "https://openreview.net/pdf?id=sYAFiHP6qr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XXzOzJRyOZ",
+      "paper_id": "XXzOzJRyOZ",
+      "title": "Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On",
+      "authors": "Siqi Wan, Jingwen Chen, Yingwei Pan, Ting Yao, Tao Mei",
+      "paper_url": "https://openreview.net/pdf?id=XXzOzJRyOZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Pj2qEVzufH",
+      "paper_id": "Pj2qEVzufH",
+      "title": "InfoGS: Efficient Structure-Aware 3D Gaussians via Lightweight Information Shaping",
+      "authors": "Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang",
+      "paper_url": "https://openreview.net/pdf?id=Pj2qEVzufH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_aHmNpLlUlb",
+      "paper_id": "aHmNpLlUlb",
+      "title": "InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules",
+      "authors": "Yanqi Bao, Tianyu Ding, Jing Huo, Wenbin Li, Yuxin Li, Yang Gao",
+      "paper_url": "https://openreview.net/pdf?id=aHmNpLlUlb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_2lDQLiH1W4",
+      "paper_id": "2lDQLiH1W4",
+      "title": "Instant3D: Fast Text-to-3D with Sparse-view Generation and Large Reconstruction Model",
+      "authors": "Jiahao Li, Hao Tan, Kai Zhang, Zexiang Xu, Fujun Luan, Yinghao Xu, Yicong Hong, Kalyan Sunkavalli, Greg Shakhnarovich, Sai Bi",
+      "paper_url": "https://openreview.net/pdf?id=2lDQLiH1W4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xvhV3LvYTc",
+      "paper_id": "xvhV3LvYTc",
+      "title": "InstantSplamp: Fast and Generalizable Stenography Framework for Generative Gaussian Splatting",
+      "authors": "Chenxin Li, Hengyu Liu, Zhiwen Fan, Wuyang Li, Yifan Liu, Panwang Pan, Yixuan Yuan",
+      "paper_url": "https://openreview.net/pdf?id=xvhV3LvYTc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XIxhINXtQk",
+      "paper_id": "XIxhINXtQk",
+      "title": "InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image",
+      "authors": "Jianhui Li, Shilong Liu, Zidong Liu, Yikai Wang, Kaiwen Zheng, Jinghui Xu, Jianmin Li, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=XIxhINXtQk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_LtuRgL03pI",
+      "paper_id": "LtuRgL03pI",
+      "title": "InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior",
+      "authors": "Chenguo Lin, Yadong MU",
+      "paper_url": "https://openreview.net/pdf?id=LtuRgL03pI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_AP0iZoaRaS",
+      "paper_id": "AP0iZoaRaS",
+      "title": "Interactive Portrait Harmonization",
+      "authors": "Jeya Maria Jose Valanarasu, HE Zhang, Jianming Zhang, Yilin Wang, Zhe Lin, Jose Echevarria, Yinglan Ma, Zijun Wei, Kalyan Sunkavalli, Vishal Patel",
+      "paper_url": "https://openreview.net/pdf/8fecedc380fae9d1025815dc9e8f0bdac4616474.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_KEXoZxTwbr",
+      "paper_id": "KEXoZxTwbr",
+      "title": "Inverse Rendering using Multi-Bounce Path Tracing and Reservoir Sampling",
+      "authors": "Yuxin Dai, Qi Wang, Jingsen Zhu, Dianbing Xi, Yuchi Huo, Chen Qian, Ying He",
+      "paper_url": "https://openreview.net/pdf?id=KEXoZxTwbr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3PguviI7Uf",
+      "paper_id": "3PguviI7Uf",
+      "title": "IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts",
+      "authors": "Bohan Zeng, Shanglin Li, Yutang Feng, Ling Yang, Juan Zhang, Hong Li, Jiaming Liu, Conghui He, Wentao Zhang, Jianzhuang Liu, Baochang Zhang, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=3PguviI7Uf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_xE-LtsE-xx",
+      "paper_id": "xE-LtsE-xx",
+      "title": "Is Attention All That NeRF Needs?",
+      "authors": "Mukund Varma T, Peihao Wang, Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/d875ba2409ec78faf50cee666b3866b2b99b54f8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_GMRodZ8OlVr",
+      "paper_id": "GMRodZ8OlVr",
+      "title": "ISS: Image as Stepping Stone for Text-Guided 3D Shape Generation",
+      "authors": "Zhengzhe Liu, Peng Dai, Ruihui Li, XIAOJUAN QI, Chi-Wing Fu",
+      "paper_url": "https://openreview.net/pdf/ed35cc59666dab7baf7735f5b066cdda25ff209c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ImpeMDJfVL",
+      "paper_id": "ImpeMDJfVL",
+      "title": "IV-mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis",
+      "authors": "Shitong Shao, zikai zhou, Bai LiChen, Haoyi Xiong, Zeke Xie",
+      "paper_url": "https://openreview.net/pdf?id=ImpeMDJfVL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_72OSO38a2z",
+      "paper_id": "72OSO38a2z",
+      "title": "LaGeM: A Large Geometry Model for 3D Representation Learning and Diffusion",
+      "authors": "Biao Zhang, Peter Wonka",
+      "paper_url": "https://openreview.net/pdf?id=72OSO38a2z",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_q57JLSE2j5",
+      "paper_id": "q57JLSE2j5",
+      "title": "Large-Vocabulary 3D Diffusion Model with Transformer",
+      "authors": "Ziang Cao, Fangzhou Hong, Tong Wu, Liang Pan, Ziwei Liu",
+      "paper_url": "https://openreview.net/pdf?id=q57JLSE2j5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_7r6kDq0mK_",
+      "paper_id": "7r6kDq0mK_",
+      "title": "Latent Image Animator: Learning to Animate Images via Latent Space Navigation",
+      "authors": "Yaohui Wang, Di Yang, Francois Bremond, Antitza Dantcheva",
+      "paper_url": "https://openreview.net/pdf/4c9867f27fdc26664f6abfab9127dd3e7da49c11.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_vL9t9tpKli",
+      "paper_id": "vL9t9tpKli",
+      "title": "Latent Radiance Fields with 3D-aware 2D Representations",
+      "authors": "Chaoyi Zhou, Xi Liu, Feng Luo, Siyu Huang",
+      "paper_url": "https://openreview.net/pdf?id=vL9t9tpKli",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_myolhJPuRI",
+      "paper_id": "myolhJPuRI",
+      "title": "Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint",
+      "authors": "Junwei Zhou, Xueting Li, Lu Qi, Ming-Hsuan Yang",
+      "paper_url": "https://openreview.net/pdf?id=myolhJPuRI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KPmajBxEaF",
+      "paper_id": "KPmajBxEaF",
+      "title": "LEAP: Liberate Sparse-View 3D Modeling from Camera Poses",
+      "authors": "Hanwen Jiang, Zhenyu Jiang, Yue Zhao, Qixing Huang",
+      "paper_url": "https://openreview.net/pdf?id=KPmajBxEaF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_KQ2i6jazVK",
+      "paper_id": "KQ2i6jazVK",
+      "title": "Learning Implicit Representation for Reconstructing Articulated Objects",
+      "authors": "Hao Zhang, Fang Li, Samyak Rawlekar, Narendra Ahuja",
+      "paper_url": "https://openreview.net/pdf?id=KQ2i6jazVK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Gu5WqN9J3Fn",
+      "paper_id": "Gu5WqN9J3Fn",
+      "title": "Learning Manifold Patch-Based Representations of Man-Made Shapes",
+      "authors": "Dmitriy Smirnov, Mikhail Bessmeltsev, Justin Solomon",
+      "paper_url": "https://openreview.net/pdf/5eb29d9e7a2ab3fa7e22c9926fc3d1c04898b5f5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_o4CLLlIaaH",
+      "paper_id": "o4CLLlIaaH",
+      "title": "Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation",
+      "authors": "WANG Jiaxu, Ziyi Zhang, Renjing Xu",
+      "paper_url": "https://openreview.net/pdf?id=o4CLLlIaaH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_2vmGv5wPDBZ",
+      "paper_id": "2vmGv5wPDBZ",
+      "title": "Learning to Estimate Single-View Volumetric Flow Motions without 3D Supervision",
+      "authors": "Aleksandra Franz, Barbara Solenthaler, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf/3c22f015a738c086993a46935c708a6a13671b83.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_rABUmU3ulQh",
+      "paper_id": "rABUmU3ulQh",
+      "title": "Learning to Generate 3D Shapes with Generative Cellular Automata",
+      "authors": "Dongsu Zhang, Changwoon Choi, Jeonghwan Kim, Young Min Kim",
+      "paper_url": "https://openreview.net/pdf/859e40f96ad083b6715504dbb3c3340a92590b79.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_UbxWjq0UO2",
+      "paper_id": "UbxWjq0UO2",
+      "title": "Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation",
+      "authors": "Junyoung Seo, Wooseok Jang, Min-Seop Kwak, Hyeonsu Kim, Jaehoon Ko, Junho Kim, Jin-Hwa Kim, Jiyoung Lee, Seungryong Kim",
+      "paper_url": "https://openreview.net/pdf?id=UbxWjq0UO2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gY08Ou8EL7",
+      "paper_id": "gY08Ou8EL7",
+      "title": "LIFe-GoM: Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh",
+      "authors": "Jing Wen, Alex Schwing, Shenlong Wang",
+      "paper_url": "https://openreview.net/pdf?id=gY08Ou8EL7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_yYEb8v65X8",
+      "paper_id": "yYEb8v65X8",
+      "title": "Light Sampling Field and BRDF Representation for Physically-based Neural Rendering",
+      "authors": "Jing Yang, Hanyuan Xiao, Wenbin Teng, Yunxuan Cai, Yajie Zhao",
+      "paper_url": "https://openreview.net/pdf/2a3094715331dabb097856833e60b76e42ed5029.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_PbheqxnO1e",
+      "paper_id": "PbheqxnO1e",
+      "title": "Lightweight Predictive 3D Gaussian Splats",
+      "authors": "Junli Cao, Vidit Goel, Chaoyang Wang, Anil Kag, Ju Hu, Sergei Korolev, Chenfanfu Jiang, Sergey Tulyakov, Jian Ren",
+      "paper_url": "https://openreview.net/pdf?id=PbheqxnO1e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_exKHibougU",
+      "paper_id": "exKHibougU",
+      "title": "LLM-grounded Video Diffusion Models",
+      "authors": "Long Lian, Baifeng Shi, Adam Yala, Trevor Darrell, Boyi Li",
+      "paper_url": "https://openreview.net/pdf?id=exKHibougU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_dHYwfV2KeP",
+      "paper_id": "dHYwfV2KeP",
+      "title": "Locality-aware Gaussian Compression for Fast and High-quality Rendering",
+      "authors": "Seungjoo Shin, Jaesik Park, Sunghyun Cho",
+      "paper_url": "https://openreview.net/pdf?id=dHYwfV2KeP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AMkf7h7HER",
+      "paper_id": "AMkf7h7HER",
+      "title": "Looking Backward: Streaming Video-to-Video Translation with Feature Banks",
+      "authors": "Feng Liang, Akio Kodaira, Chenfeng Xu, Masayoshi Tomizuka, Kurt Keutzer, Diana Marculescu",
+      "paper_url": "https://openreview.net/pdf?id=AMkf7h7HER",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_weM4YBicIP",
+      "paper_id": "weM4YBicIP",
+      "title": "Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency",
+      "authors": "Jianwen Jiang, Chao Liang, Jiaqi Yang, Gaojie Lin, Tianyun Zhong, Yanbo Zheng",
+      "paper_url": "https://openreview.net/pdf?id=weM4YBicIP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LSp4KBhAom",
+      "paper_id": "LSp4KBhAom",
+      "title": "LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation models",
+      "authors": "Ziqi Lu, Heng Yang, Danfei Xu, Boyi Li, Boris Ivanovic, Marco Pavone, Yue Wang",
+      "paper_url": "https://openreview.net/pdf?id=LSp4KBhAom",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sllU8vvsFF",
+      "paper_id": "sllU8vvsFF",
+      "title": "LRM: Large Reconstruction Model for Single Image to 3D",
+      "authors": "Yicong Hong, Kai Zhang, Jiuxiang Gu, Sai Bi, Yang Zhou, Difan Liu, Feng Liu, Kalyan Sunkavalli, Trung Bui, Hao Tan",
+      "paper_url": "https://openreview.net/pdf?id=sllU8vvsFF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QQBPWtvtcn",
+      "paper_id": "QQBPWtvtcn",
+      "title": "LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias",
+      "authors": "Haian Jin, Hanwen Jiang, Hao Tan, Kai Zhang, Sai Bi, Tianyuan Zhang, Fujun Luan, Noah Snavely, Zexiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=QQBPWtvtcn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0jHkUDyEO9",
+      "paper_id": "0jHkUDyEO9",
+      "title": "Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors",
+      "authors": "Guocheng Qian, Jinjie Mai, Abdullah Hamdi, Jian Ren, Aliaksandr Siarohin, Bing Li, Hsin-Ying Lee, Ivan Skorokhodov, Peter Wonka, Sergey Tulyakov, Bernard Ghanem",
+      "paper_url": "https://openreview.net/pdf?id=0jHkUDyEO9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_sBQwvucduK",
+      "paper_id": "sBQwvucduK",
+      "title": "MagicDrive: Street View Generation with Diverse 3D Geometry Control",
+      "authors": "Ruiyuan Gao, Kai Chen, Enze Xie, Lanqing HONG, Zhenguo Li, Dit-Yan Yeung, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=sBQwvucduK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SEiuSzlD1d",
+      "paper_id": "SEiuSzlD1d",
+      "title": "Mask-Based Modeling for Neural Radiance Fields",
+      "authors": "Ganlin Yang, Guoqiang Wei, Zhizheng Zhang, Yan Lu, Dong Liu",
+      "paper_url": "https://openreview.net/pdf?id=SEiuSzlD1d",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HnpDHiItd2",
+      "paper_id": "HnpDHiItd2",
+      "title": "Masked Temporal Interpolation Diffusion for Procedure Planning in Instructional Videos",
+      "authors": "Yufan Zhou, Zhaobo Qi, Lingshuai Lin, Junqi Jing, Tingting Chai, Beichen Zhang, Shuhui Wang, Weigang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=HnpDHiItd2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Ox4AJ2Vurb",
+      "paper_id": "Ox4AJ2Vurb",
+      "title": "Matérn Kernels for Tunable Implicit Surface Reconstruction",
+      "authors": "Maximilian Weiherer, Bernhard Egger",
+      "paper_url": "https://openreview.net/pdf?id=Ox4AJ2Vurb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KGZAs8VcOM",
+      "paper_id": "KGZAs8VcOM",
+      "title": "MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers",
+      "authors": "Yiwen Chen, Tong He, Di Huang, Weicai Ye, Sijin Chen, Jiaxiang Tang, Zhongang Cai, Lei Yang, Gang Yu, Guosheng Lin, Chi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=KGZAs8VcOM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_0cpM2ApF9p6",
+      "paper_id": "0cpM2ApF9p6",
+      "title": "MeshDiffusion: Score-based Generative 3D Mesh Modeling",
+      "authors": "Zhen Liu, Yao Feng, Michael J. Black, Derek Nowrouzezahrai, Liam Paull, Weiyang Liu",
+      "paper_url": "https://openreview.net/pdf/f4b27531cf7771c608830f2a184f9c5ef06eab1c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Mv3GAYJGcW",
+      "paper_id": "Mv3GAYJGcW",
+      "title": "MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis",
+      "authors": "Jun-Yan He, Zhi-Qi Cheng, Chenyang Li, Jingdong Sun, Qi He, Wangmeng Xiang, Hanyuan Chen, Jin-Peng Lan, Xianhui Lin, kang zhu, Bin Luo, Yifeng Geng, Xuansong Xie, Alexander G Hauptmann",
+      "paper_url": "https://openreview.net/pdf?id=Mv3GAYJGcW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_O2jyuo89CK",
+      "paper_id": "O2jyuo89CK",
+      "title": "Modelling complex vector drawings with stroke-clouds",
+      "authors": "Alexander Ashcroft, Ayan Das, Yulia Gryaditskaya, Zhiyu Qu, Yi-Zhe Song",
+      "paper_url": "https://openreview.net/pdf?id=O2jyuo89CK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2prShxdLkX",
+      "paper_id": "2prShxdLkX",
+      "title": "MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors",
+      "authors": "Qingming LIU, Yuan Liu, Jiepeng Wang, Xianqiang Lyu, Peng Wang, Wenping Wang, Junhui Hou",
+      "paper_url": "https://openreview.net/pdf?id=2prShxdLkX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_-iADdfa4GKH",
+      "paper_id": "-iADdfa4GKH",
+      "title": "Monocular Scene Reconstruction with 3D SDF Transformers",
+      "authors": "Weihao Yuan, Xiaodong Gu, Heng Li, Zilong Dong, Siyu Zhu",
+      "paper_url": "https://openreview.net/pdf/3b48c9559475aa9f01470c60e369b6cc6d85672f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bW9fGYo44s",
+      "paper_id": "bW9fGYo44s",
+      "title": "MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion",
+      "authors": "Onkar Kishor Susladkar, Jishu Sen Gupta, Chirag Sehgal, Sparsh Mittal, Rekha Singhal",
+      "paper_url": "https://openreview.net/pdf?id=bW9fGYo44s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_QQ6RgKYiQq",
+      "paper_id": "QQ6RgKYiQq",
+      "title": "MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field",
+      "authors": "Kaizhi Yang, Xiaoshuai Zhang, Zhiao Huang, Xuejin Chen, Zexiang Xu, Hao Su",
+      "paper_url": "https://openreview.net/pdf?id=QQ6RgKYiQq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Xw0fCEMFss",
+      "paper_id": "Xw0fCEMFss",
+      "title": "MP-Mat: A 3D-and-Instance-Aware Human Matting and Editing Framework with Multiplane Representation",
+      "authors": "Siyi Jiao, Wenzheng Zeng, Yerong Li, Huayu Zhang, Changxin Gao, Nong Sang, Mike Zheng Shou",
+      "paper_url": "https://openreview.net/pdf?id=Xw0fCEMFss",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TwBY17Hgiy",
+      "paper_id": "TwBY17Hgiy",
+      "title": "Multi-task Learning with 3D-Aware Regularization",
+      "authors": "Wei-Hong Li, Steven McDonagh, Ales Leonardis, Hakan Bilen",
+      "paper_url": "https://openreview.net/pdf?id=TwBY17Hgiy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_CNO4rbSV6v",
+      "paper_id": "CNO4rbSV6v",
+      "title": "Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning",
+      "authors": "Yang You, Yixin Li, Congyue Deng, Yue Wang, Leonidas Guibas",
+      "paper_url": "https://openreview.net/pdf?id=CNO4rbSV6v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FUgrjq2pbB",
+      "paper_id": "FUgrjq2pbB",
+      "title": "MVDream: Multi-view Diffusion for 3D Generation",
+      "authors": "Yichun Shi, Peng Wang, Jianglong Ye, Long Mai, Kejie Li, Xiao Yang",
+      "paper_url": "https://openreview.net/pdf?id=FUgrjq2pbB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zu7cBTPsDb",
+      "paper_id": "zu7cBTPsDb",
+      "title": "MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow",
+      "authors": "Hanzhuo Huang, Yuan Liu, Ge Zheng, Jiepeng Wang, Zhiyang Dou, Sibei Yang",
+      "paper_url": "https://openreview.net/pdf?id=zu7cBTPsDb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4HRRcqE9SU",
+      "paper_id": "4HRRcqE9SU",
+      "title": "ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction",
+      "authors": "Ziyu Tang, Weicai Ye, Yifan Wang, Di Huang, Hujun Bao, Tong He, Guofeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=4HRRcqE9SU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_njvSBvtiwp",
+      "paper_id": "njvSBvtiwp",
+      "title": "NeRAF: 3D Scene Infused Neural Radiance and Acoustic Fields",
+      "authors": "Amandine Brunetto, Sascha Hornauer, Fabien Moutarde",
+      "paper_url": "https://openreview.net/pdf?id=njvSBvtiwp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kfOtMqYJlUU",
+      "paper_id": "kfOtMqYJlUU",
+      "title": "NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes",
+      "authors": "Zhiwen Fan, Peihao Wang, Yifan Jiang, Xinyu Gong, Dejia Xu, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/8a3caf2fdb6c1297748cb427b2cdaa5592c5bf14.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_0CieWy9ONY",
+      "paper_id": "0CieWy9ONY",
+      "title": "Neural Eulerian Scene Flow Fields",
+      "authors": "Kyle Vedder, Neehar Peri, Ishan Khatri, Siyi Li, Eric Eaton, Mehmet Kemal Kocamaz, Yue Wang, Zhiding Yu, Deva Ramanan, Joachim Pehserl",
+      "paper_url": "https://openreview.net/pdf?id=0CieWy9ONY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_58lbAsXCoZ",
+      "paper_id": "58lbAsXCoZ",
+      "title": "Neural Fluid Simulation on Geometric Surfaces",
+      "authors": "Haoxiang Wang, Tao Yu, Hui Qiao, Qionghai Dai",
+      "paper_url": "https://openreview.net/pdf?id=58lbAsXCoZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Pza24zf9FpS",
+      "paper_id": "Pza24zf9FpS",
+      "title": "Neural Groundplans: Persistent Neural Scene Representations from a Single Image",
+      "authors": "Prafull Sharma, Ayush Tewari, Yilun Du, Sergey Zakharov, Rares Andrei Ambrus, Adrien Gaidon, William T. Freeman, Fredo Durand, Joshua B. Tenenbaum, Vincent Sitzmann",
+      "paper_url": "https://openreview.net/pdf/2e877547b8a62b0459ece4c3c0c9fff256045e77.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_-ng-FXFlzgK",
+      "paper_id": "-ng-FXFlzgK",
+      "title": "Neural Image-based Avatars: Generalizable Radiance Fields for Human Avatar Modeling",
+      "authors": "YoungJoong Kwon, Dahun Kim, Duygu Ceylan, Henry Fuchs",
+      "paper_url": "https://openreview.net/pdf/5d6559de435716b5db2c92eef6e3b4b0b8ed2bb9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_CMPIBjmhpo",
+      "paper_id": "CMPIBjmhpo",
+      "title": "Neural Implicit Shape Editing using Boundary Sensitivity",
+      "authors": "Arturs Berzins, Moritz Ibing, Leif Kobbelt",
+      "paper_url": "https://openreview.net/pdf/2bb2869a2fc20265557dcaa1d8fb95e2369b2d06.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_dTlKCQuuxP",
+      "paper_id": "dTlKCQuuxP",
+      "title": "Neural Polynomial Gabor Fields for Macro Motion Analysis",
+      "authors": "Chen Geng, Hong-Xing Yu, Sida Peng, Xiaowei Zhou, Jiajun Wu",
+      "paper_url": "https://openreview.net/pdf?id=dTlKCQuuxP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_mX56bKDybu5",
+      "paper_id": "mX56bKDybu5",
+      "title": "Neural Radiance Field Codebooks",
+      "authors": "Matthew Wallingford, Aditya Kusupati, Alex Fang, Vivek Ramanujan, Aniruddha Kembhavi, Roozbeh Mottaghi, Ali Farhadi",
+      "paper_url": "https://openreview.net/pdf/b938c8f0acccd59571a25bc4c07a69bf24a26be3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rzF0R6GOd4",
+      "paper_id": "rzF0R6GOd4",
+      "title": "Neural SDF Flow for 3D Reconstruction of Dynamic Scenes",
+      "authors": "Wei Mao, Richard Hartley, Mathieu Salzmann, miaomiao Liu",
+      "paper_url": "https://openreview.net/pdf?id=rzF0R6GOd4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5UKrnKuspb",
+      "paper_id": "5UKrnKuspb",
+      "title": "NeuralPlane: Structured 3D Reconstruction in Planar Primitives with Neural Fields",
+      "authors": "Hanqiao Ye, Yuzhou Liu, Yangdong Liu, Shuhan Shen",
+      "paper_url": "https://openreview.net/pdf?id=5UKrnKuspb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_P4o9akekdf",
+      "paper_id": "P4o9akekdf",
+      "title": "No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images",
+      "authors": "Botao Ye, Sifei Liu, Haofei Xu, Xueting Li, Marc Pollefeys, Ming-Hsuan Yang, Songyou Peng",
+      "paper_url": "https://openreview.net/pdf?id=P4o9akekdf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_62Ff8LDAJZ",
+      "paper_id": "62Ff8LDAJZ",
+      "title": "Not-So-Optimal Transport Flows for 3D Point Cloud Generation",
+      "authors": "Ka-Hei Hui, Chao Liu, Xiaohui Zeng, Chi-Wing Fu, Arash Vahdat",
+      "paper_url": "https://openreview.net/pdf?id=62Ff8LDAJZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_HtoA0oT30jC",
+      "paper_id": "HtoA0oT30jC",
+      "title": "Novel View Synthesis with Diffusion Models",
+      "authors": "Daniel Watson, William Chan, Ricardo Martin Brualla, Jonathan Ho, Andrea Tagliasacchi, Mohammad Norouzi",
+      "paper_url": "https://openreview.net/pdf/fa3c83b8ced74fdc2103d3de7774170ced113e61.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_zDJf7fvdid",
+      "paper_id": "zDJf7fvdid",
+      "title": "NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer",
+      "authors": "Meng YOU, Zhiyu Zhu, Hui LIU, Junhui Hou",
+      "paper_url": "https://openreview.net/pdf?id=zDJf7fvdid",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cjJqU40nYS",
+      "paper_id": "cjJqU40nYS",
+      "title": "Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy",
+      "authors": "Mingyang Zhao, Gaofeng Meng, Dong-ming Yan",
+      "paper_url": "https://openreview.net/pdf?id=cjJqU40nYS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oeP6OL7ouB",
+      "paper_id": "oeP6OL7ouB",
+      "title": "OMG: Opacity Matters in Material Modeling with Gaussian Splatting",
+      "authors": "Silong Yong, Venkata Nagarjun Pudureddiyur Manivannan, Bernhard Kerbl, Zifu Wan, Simon Stepputtis, Katia P. Sycara, Yaqi Xie",
+      "paper_url": "https://openreview.net/pdf?id=oeP6OL7ouB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_11xgiMEI5o",
+      "paper_id": "11xgiMEI5o",
+      "title": "OmniRe: Omni Urban Scene Reconstruction",
+      "authors": "Ziyu Chen, Jiawei Yang, Jiahui Huang, Riccardo de Lutio, Janick Martinez Esturo, Boris Ivanovic, Or Litany, Zan Gojcic, Sanja Fidler, Marco Pavone, Li Song, Yue Wang",
+      "paper_url": "https://openreview.net/pdf?id=11xgiMEI5o",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pQqeQpMkE7",
+      "paper_id": "pQqeQpMkE7",
+      "title": "On Scaling Up 3D Gaussian Splatting Training",
+      "authors": "Hexu Zhao, Haoyang Weng, Daohan Lu, Ang Li, Jinyang Li, Aurojit Panda, Saining Xie",
+      "paper_url": "https://openreview.net/pdf?id=pQqeQpMkE7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_SgjAojPKb3",
+      "paper_id": "SgjAojPKb3",
+      "title": "OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views",
+      "authors": "Francis Engelmann, Fabian Manhardt, Michael Niemeyer, Keisuke Tateno, Federico Tombari",
+      "paper_url": "https://openreview.net/pdf?id=SgjAojPKb3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_IcYDRzcccP",
+      "paper_id": "IcYDRzcccP",
+      "title": "Optimizing 4D Gaussians for Dynamic Scene Video from Single Landscape Images",
+      "authors": "In-Hwan Jin, Haesoo Choo, Seong-Hun Jeong, Park Heemoon, Junghwan Kim, Oh-joon Kwon, Kyeongbo Kong",
+      "paper_url": "https://openreview.net/pdf?id=IcYDRzcccP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_tVkrbkz42vc",
+      "paper_id": "tVkrbkz42vc",
+      "title": "PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification",
+      "authors": "Xuan Li, Yi-Ling Qiao, Peter Yichen Chen, Krishna Murthy Jatavallabhula, Ming Lin, Chenfanfu Jiang, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf/f216a90079436d1252e5157ce9e925639303e624.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_F_EhNDSamN",
+      "paper_id": "F_EhNDSamN",
+      "title": "Parametrizing Product Shape Manifolds by Composite Networks",
+      "authors": "Josua Sassen, Klaus Hildebrandt, Martin Rumpf, Benedikt Wirth",
+      "paper_url": "https://openreview.net/pdf/2832887c23c3957ac23c919a6f7a43abde5a7ef2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_2ggNjUisGyr",
+      "paper_id": "2ggNjUisGyr",
+      "title": "Partial Wasserstein Adversarial Network for Non-rigid Point Set Registration",
+      "authors": "Ziming Wang, Nan Xue, Ling Lei, Gui-Song Xia",
+      "paper_url": "https://openreview.net/pdf/aa0f00aa3ffa33879529f0a8702f8a59097997a7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_8X2eaSZxTP",
+      "paper_id": "8X2eaSZxTP",
+      "title": "PC2WF: 3D Wireframe Reconstruction from Raw Point Clouds",
+      "authors": "Yujia Liu, Stefano D'Aronco, Konrad Schindler, Jan Dirk Wegner",
+      "paper_url": "https://openreview.net/pdf/3de76ce33a27b6e85c1414aa9fa6edfa54803af0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_WKfb1xGXGx",
+      "paper_id": "WKfb1xGXGx",
+      "title": "Perm: A Parametric Representation for Multi-Style 3D Hair Modeling",
+      "authors": "Chengan He, Xin Sun, Zhixin Shu, Fujun Luan, Soren Pirk, Jorge Alejandro Amador Herrera, Dominik Michels, Tuanfeng Yang Wang, Meng Zhang, Holly Rushmeier, Yi Zhou",
+      "paper_url": "https://openreview.net/pdf?id=WKfb1xGXGx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_noe76eRcPC",
+      "paper_id": "noe76eRcPC",
+      "title": "PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction",
+      "authors": "Peng Wang, Hao Tan, Sai Bi, Yinghao Xu, Fujun Luan, Kalyan Sunkavalli, Wenping Wang, Zexiang Xu, Kai Zhang",
+      "paper_url": "https://openreview.net/pdf?id=noe76eRcPC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TEkoMEjf7E",
+      "paper_id": "TEkoMEjf7E",
+      "title": "Phidias: A Generative Model for Creating 3D  Content from Text, Image, and 3D Conditions with Reference-Augmented  Diffusion",
+      "authors": "Zhenwei Wang, Tengfei Wang, Zexin He, Gerhard Petrus Hancke, Ziwei Liu, Rynson W. H. Lau",
+      "paper_url": "https://openreview.net/pdf?id=TEkoMEjf7E",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WAC8LmlKYf",
+      "paper_id": "WAC8LmlKYf",
+      "title": "PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance",
+      "authors": "Haohan Weng, Yikai Wang, Tong Zhang, C. L. Philip Chen, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=WAC8LmlKYf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_llSiIJosDj",
+      "paper_id": "llSiIJosDj",
+      "title": "Point-based Instance Completion with Scene Constraints",
+      "authors": "Wesley Khademi, Fuxin Li",
+      "paper_url": "https://openreview.net/pdf?id=llSiIJosDj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DqziS8DG4M",
+      "paper_id": "DqziS8DG4M",
+      "title": "Point2SSM: Learning Morphological Variations of Anatomies from Point Clouds",
+      "authors": "Jadie Adams, Shireen Elhabian",
+      "paper_url": "https://openreview.net/pdf?id=DqziS8DG4M",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ExrEw8cVlU",
+      "paper_id": "ExrEw8cVlU",
+      "title": "Poison-splat: Computation Cost Attack on 3D Gaussian Splatting",
+      "authors": "Jiahao Lu, Yifan Zhang, Qiuhong Shen, Xinchao Wang, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=ExrEw8cVlU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BpyHIrpUOL",
+      "paper_id": "BpyHIrpUOL",
+      "title": "PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph",
+      "authors": "Dazhou Yu, Genpei Zhang, Liang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=BpyHIrpUOL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_eBeECjacpw",
+      "paper_id": "eBeECjacpw",
+      "title": "PORF: POSE RESIDUAL FIELD FOR ACCURATE NEURAL SURFACE RECONSTRUCTION",
+      "authors": "Jia-Wang Bian, Wenjing Bian, Victor Adrian Prisacariu, Philip Torr",
+      "paper_url": "https://openreview.net/pdf?id=eBeECjacpw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_BnQhMqDfcKG",
+      "paper_id": "BnQhMqDfcKG",
+      "title": "Probabilistic Implicit Scene Completion",
+      "authors": "Dongsu Zhang, Changwoon Choi, Inbum Park, Young Min Kim",
+      "paper_url": "https://openreview.net/pdf/d9aba3c3efb0ad334f7b6a755f29a0b39bc05867.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_O072Rc8uUy",
+      "paper_id": "O072Rc8uUy",
+      "title": "Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts",
+      "authors": "Xinhua Cheng, Tianyu Yang, Jianan Wang, Yu Li, Lei Zhang, Jian Zhang, Li Yuan",
+      "paper_url": "https://openreview.net/pdf?id=O072Rc8uUy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_s03AQxehtd_",
+      "paper_id": "s03AQxehtd_",
+      "title": "ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics",
+      "authors": "Boris N. Oreshkin, Florent Bocquelet, Felix G. Harvey, Bay Raitt, Dominic Laflamme",
+      "paper_url": "https://openreview.net/pdf/72eadcfe21558f0be18ff071adc50adc3ae85e5e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_QuVlUn4T2G",
+      "paper_id": "QuVlUn4T2G",
+      "title": "Pseudo-Generalized Dynamic View Synthesis from a Video",
+      "authors": "Xiaoming Zhao, R Alex Colburn, Fangchang Ma, Miguel Ángel Bautista, Joshua M. Susskind, Alex Schwing",
+      "paper_url": "https://openreview.net/pdf?id=QuVlUn4T2G",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7E7v5mJnfl",
+      "paper_id": "7E7v5mJnfl",
+      "title": "PuzzleFusion++: Auto-agglomerative 3D Fracture Assembly by Denoise and Verify",
+      "authors": "Zhengqing Wang, Jiacheng Chen, Yasutaka Furukawa",
+      "paper_url": "https://openreview.net/pdf?id=7E7v5mJnfl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_o3yygm3lnzS",
+      "paper_id": "o3yygm3lnzS",
+      "title": "PV3D: A 3D Generative Model for Portrait Video Generation",
+      "authors": "Zhongcong Xu, Jianfeng Zhang, Jun Hao Liew, Wenqing Zhang, Song Bai, Jiashi Feng, Mike Zheng Shou",
+      "paper_url": "https://openreview.net/pdf/82ef7ccbfefbab9e2cb9eec97a0b60254a7efa92.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_66NzcRQuOq",
+      "paper_id": "66NzcRQuOq",
+      "title": "Pyramidal Flow Matching for Efficient Video Generative Modeling",
+      "authors": "Yang Jin, Zhicheng Sun, Ningyuan Li, Kun Xu, Kun Xu, Hao Jiang, Nan Zhuang, Quzhe Huang, Yang Song, Yadong MU, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf?id=66NzcRQuOq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WhgB5sispV",
+      "paper_id": "WhgB5sispV",
+      "title": "Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting",
+      "authors": "Zeyu Yang, Hongye Yang, Zijie Pan, Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=WhgB5sispV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hDBrQ4DApF",
+      "paper_id": "hDBrQ4DApF",
+      "title": "Real-Time Video Generation with Pyramid Attention Broadcast",
+      "authors": "Xuanlei Zhao, Xiaolong Jin, Kai Wang, Yang You",
+      "paper_url": "https://openreview.net/pdf?id=hDBrQ4DApF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CAssIgPN4I",
+      "paper_id": "CAssIgPN4I",
+      "title": "Real2Code: Reconstruct Articulated Objects via Code Generation",
+      "authors": "Zhao Mandi, Yijia Weng, Dominik Bauer, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=CAssIgPN4I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7ERQPyR2eb",
+      "paper_id": "7ERQPyR2eb",
+      "title": "Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis",
+      "authors": "Zhenhui Ye, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, Rongjie Huang, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf?id=7ERQPyR2eb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_aucMP9hGYv",
+      "paper_id": "aucMP9hGYv",
+      "title": "RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation",
+      "authors": "Chenxi Zheng, Yihong Lin, Bangzhen Liu, Xuemiao Xu, Yongwei Nie, Shengfeng He",
+      "paper_url": "https://openreview.net/pdf?id=aucMP9hGYv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xPxHQHDH2u",
+      "paper_id": "xPxHQHDH2u",
+      "title": "Reflective Gaussian Splatting",
+      "authors": "Yuxuan Yao, Zixuan Zeng, Chun Gu, Xiatian Zhu, Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=xPxHQHDH2u",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3Oli4u6q3p",
+      "paper_id": "3Oli4u6q3p",
+      "title": "RelitLRM: Generative Relightable Radiance for Large Reconstruction Models",
+      "authors": "Tianyuan Zhang, Zhengfei Kuang, Haian Jin, Zexiang Xu, Sai Bi, Hao Tan, He Zhang, Yiwei Hu, Milos Hasan, William T. Freeman, Kai Zhang, Fujun Luan",
+      "paper_url": "https://openreview.net/pdf?id=3Oli4u6q3p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wldwEhQ7cl",
+      "paper_id": "wldwEhQ7cl",
+      "title": "RESfM: Robust Deep Equivariant Structure from Motion",
+      "authors": "Fadi Khatib, Yoni Kasten, Dror Moran, Meirav Galun, Ronen Basri",
+      "paper_url": "https://openreview.net/pdf?id=wldwEhQ7cl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_3Pbra-_u76D",
+      "paper_id": "3Pbra-_u76D",
+      "title": "Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework",
+      "authors": "Xu Ma, Can Qin, Haoxuan You, Haoxi Ran, Yun Fu",
+      "paper_url": "https://openreview.net/pdf/163d9f0c1b4b43642724b70658bca42821c622e9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_q3EbOXb4y1",
+      "paper_id": "q3EbOXb4y1",
+      "title": "Retri3D: 3D Neural Graphics Representation Retrieval",
+      "authors": "Yushi Guan, Daniel Kwan, Jean Sebastien Dandurand, Xi Yan, Ruofan Liang, Yuxuan Zhang, Nilesh Jain, Nilesh Ahuja, Selvakumar Panneer, Nandita Vijaykumar",
+      "paper_url": "https://openreview.net/pdf?id=q3EbOXb4y1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EV7FMBZxnx",
+      "paper_id": "EV7FMBZxnx",
+      "title": "Reveal Object in Lensless Photography via Region Gaze and Amplification",
+      "authors": "Yin Xiangjun, Huihui Yue",
+      "paper_url": "https://openreview.net/pdf?id=EV7FMBZxnx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ftdJEiFudy",
+      "paper_id": "ftdJEiFudy",
+      "title": "Robust-PIFu: Robust Pixel-aligned Implicit Function for 3D Human Digitalization from a Single Image",
+      "authors": "Kennard Chan, Fayao Liu, Guosheng Lin, Chuan-Sheng Foo, Weisi Lin",
+      "paper_url": "https://openreview.net/pdf?id=ftdJEiFudy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_gx2yJS-ENqI",
+      "paper_id": "gx2yJS-ENqI",
+      "title": "S-NeRF: Neural Radiance Fields for Street Views",
+      "authors": "Ziyang Xie, Junge Zhang, Wenye Li, Feihu Zhang, Li Zhang",
+      "paper_url": "https://openreview.net/pdf/f620fccf8a60810c2d760b1cf94ad8c82f499dac.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_7EDgLu9reQD",
+      "paper_id": "7EDgLu9reQD",
+      "title": "SALD: Sign Agnostic Learning with Derivatives",
+      "authors": "Matan Atzmon, Yaron Lipman",
+      "paper_url": "https://openreview.net/pdf/8ee2bee9e961323ee6b93586fd34377a074e8889.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_7idCpuEAiR",
+      "paper_id": "7idCpuEAiR",
+      "title": "SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting",
+      "authors": "Huajian Huang, Yingshu Chen, Longwei Li, Hui Cheng, Tristan Braud, Yajie Zhao, Sai-Kit Yeung",
+      "paper_url": "https://openreview.net/pdf?id=7idCpuEAiR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_u1cQYxRI1H",
+      "paper_id": "u1cQYxRI1H",
+      "title": "Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport",
+      "authors": "Lvmin Zhang, Anyi Rao, Maneesh Agrawala",
+      "paper_url": "https://openreview.net/pdf?id=u1cQYxRI1H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_H4FSx06FCZ",
+      "paper_id": "H4FSx06FCZ",
+      "title": "SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography",
+      "authors": "Xuanyu Zhang, Jiarui Meng, Zhipei Xu, Shuzhou Yang, Yanmin Wu, Ronggang Wang, Jian Zhang",
+      "paper_url": "https://openreview.net/pdf?id=H4FSx06FCZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qHGgNyQk31",
+      "paper_id": "qHGgNyQk31",
+      "title": "Seer: Language Instructed Video Prediction with Latent Diffusion Models",
+      "authors": "Xianfan Gu, Chuan Wen, Weirui Ye, Jiaming Song, Yang Gao",
+      "paper_url": "https://openreview.net/pdf?id=qHGgNyQk31",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_FNq3nIvP4F",
+      "paper_id": "FNq3nIvP4F",
+      "title": "SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction",
+      "authors": "Xinyuan Chen, Yaohui Wang, Lingjun Zhang, Shaobin Zhuang, Xin Ma, Jiashuo Yu, Yali Wang, Dahua Lin, Yu Qiao, Ziwei Liu",
+      "paper_url": "https://openreview.net/pdf?id=FNq3nIvP4F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_A2mRcRyGdl",
+      "paper_id": "A2mRcRyGdl",
+      "title": "Semantic Flow: Learning Semantic Fields of Dynamic Scenes from Monocular Videos",
+      "authors": "Fengrui Tian, Yueqi Duan, Angtian Wang, Jianfei Guo, Shaoyi Du",
+      "paper_url": "https://openreview.net/pdf?id=A2mRcRyGdl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RavSZTIe2s",
+      "paper_id": "RavSZTIe2s",
+      "title": "Shape as Line Segments: Accurate and Flexible Implicit Surface Representation",
+      "authors": "Siyu Ren, Junhui Hou",
+      "paper_url": "https://openreview.net/pdf?id=RavSZTIe2s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_U0IOMStUQ8",
+      "paper_id": "U0IOMStUQ8",
+      "title": "Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape",
+      "authors": "Rundi Wu, Ruoshi Liu, Carl Vondrick, Changxi Zheng",
+      "paper_url": "https://openreview.net/pdf?id=U0IOMStUQ8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OdMqKszKSd",
+      "paper_id": "OdMqKszKSd",
+      "title": "SINGAPO: Single Image Controlled Generation of Articulated Parts in Objects",
+      "authors": "Jiayi Liu, Denys Iliash, Angel X Chang, Manolis Savva, Ali Mahdavi Amiri",
+      "paper_url": "https://openreview.net/pdf?id=OdMqKszKSd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KvaDHPhhir",
+      "paper_id": "KvaDHPhhir",
+      "title": "Sketch2Diagram: Generating Vector Diagrams from Hand-Drawn Sketches",
+      "authors": "Itsumi Saito, Haruto Yoshida, Keisuke Sakaguchi",
+      "paper_url": "https://openreview.net/pdf?id=KvaDHPhhir",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TRWxFUzK9K",
+      "paper_id": "TRWxFUzK9K",
+      "title": "Solving Video Inverse Problems Using Image Diffusion Models",
+      "authors": "Taesung Kwon, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=TRWxFUzK9K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_y8uPsxR8PN",
+      "paper_id": "y8uPsxR8PN",
+      "title": "Sort-free Gaussian Splatting via Weighted Sum Rendering",
+      "authors": "Qiqi Hou, Randall Rauwendaal, Zifeng Li, Hoang Le, Farzad Farhadzadeh, Fatih Porikli, Alexei Bourd, Amir Said",
+      "paper_url": "https://openreview.net/pdf?id=y8uPsxR8PN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_QyFm3D3Tzi",
+      "paper_id": "QyFm3D3Tzi",
+      "title": "Spatio-Temporal Few-Shot Learning via Diffusive Neural Network Generation",
+      "authors": "Yuan Yuan, Chenyang Shao, Jingtao Ding, Depeng Jin, Yong Li",
+      "paper_url": "https://openreview.net/pdf?id=QyFm3D3Tzi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9NfHbWKqMF",
+      "paper_id": "9NfHbWKqMF",
+      "title": "SplatFormer: Point Transformer for Robust 3D Gaussian Splatting",
+      "authors": "Yutong Chen, Marko Mihajlovic, Xiyi Chen, Yiming Wang, Sergey Prokudin, Siyu Tang",
+      "paper_url": "https://openreview.net/pdf?id=9NfHbWKqMF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tMG6btjBfd",
+      "paper_id": "tMG6btjBfd",
+      "title": "SplineGS: Learning Smooth Trajectories in Gaussian Splatting for Dynamic Scene Reconstruction",
+      "authors": "Jihwan Yoon, Sangbeom Han, Jaeseok Oh, Minsik Lee",
+      "paper_url": "https://openreview.net/pdf?id=tMG6btjBfd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M2NFWRPMUd",
+      "paper_id": "M2NFWRPMUd",
+      "title": "STORM: Spatio-TempOral Reconstruction Model For Large-Scale Outdoor Scenes",
+      "authors": "Jiawei Yang, Jiahui Huang, Boris Ivanovic, Yuxiao Chen, Yan Wang, Boyi Li, Yurong You, Apoorva Sharma, Maximilian Igl, Peter Karkus, Danfei Xu, Yue Wang, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=M2NFWRPMUd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_iUuzzTMUw9K",
+      "paper_id": "iUuzzTMUw9K",
+      "title": "StyleNeRF: A Style-based 3D Aware Generator for High-resolution Image Synthesis",
+      "authors": "Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt",
+      "paper_url": "https://openreview.net/pdf/ac9a5093dd4cf1624afa5fa1f5fea74d822061c6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_1x1gGg49jr",
+      "paper_id": "1x1gGg49jr",
+      "title": "SurFhead: Affine Rig Blending for Geometrically Accurate 2D Gaussian Surfel Head Avatars",
+      "authors": "Jaeseong Lee, Taewoong Kang, Marcel Buehler, Min-Jung Kim, Sungwon Hwang, Junha Hyung, Hyojin Jang, Jaegul Choo",
+      "paper_url": "https://openreview.net/pdf?id=1x1gGg49jr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tJoS2d0Onf",
+      "paper_id": "tJoS2d0Onf",
+      "title": "SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency",
+      "authors": "Yiming Xie, Chun-Han Yao, Vikram Voleti, Huaizu Jiang, Varun Jampani",
+      "paper_url": "https://openreview.net/pdf?id=tJoS2d0Onf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sx2jXZuhIx",
+      "paper_id": "sx2jXZuhIx",
+      "title": "SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix",
+      "authors": "Peng Dai, Feitong Tan, Qiangeng Xu, David Futschik, Ruofei Du, Sean Fanello, XIAOJUAN QI, Yinda Zhang",
+      "paper_url": "https://openreview.net/pdf?id=sx2jXZuhIx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_extpNXo6hB",
+      "paper_id": "extpNXo6hB",
+      "title": "SweetDreamer: Aligning Geometric Priors in 2D diffusion for Consistent Text-to-3D",
+      "authors": "Weiyu Li, Rui Chen, Xuelin Chen, Ping Tan",
+      "paper_url": "https://openreview.net/pdf?id=extpNXo6hB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_c1RhJVTPwT",
+      "paper_id": "c1RhJVTPwT",
+      "title": "Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene",
+      "authors": "Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Jinbo Yan, Kaiqiang Xiong, Ronggang Wang",
+      "paper_url": "https://openreview.net/pdf?id=c1RhJVTPwT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_PQ2zoIZqvm",
+      "paper_id": "PQ2zoIZqvm",
+      "title": "Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields",
+      "authors": "Zhenxing MI, Dan Xu",
+      "paper_url": "https://openreview.net/pdf/c7f6c91fac4a50757b3e89da49e55fb795f0119d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_m8Rk3HLGFx",
+      "paper_id": "m8Rk3HLGFx",
+      "title": "SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints",
+      "authors": "Jianhong Bai, Menghan Xia, Xintao Wang, Ziyang Yuan, Zuozhu Liu, Haoji Hu, Pengfei Wan, Di ZHANG",
+      "paper_url": "https://openreview.net/pdf?id=m8Rk3HLGFx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MN3yH2ovHb",
+      "paper_id": "MN3yH2ovHb",
+      "title": "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
+      "authors": "Yuan Liu, Cheng Lin, Zijiao Zeng, Xiaoxiao Long, Lingjie Liu, Taku Komura, Wenping Wang",
+      "paper_url": "https://openreview.net/pdf?id=MN3yH2ovHb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LbEWwJOufy",
+      "paper_id": "LbEWwJOufy",
+      "title": "TANGO: Co-Speech Gesture Video Reenactment with Hierarchical Audio Motion Embedding and Diffusion Interpolation",
+      "authors": "Haiyang Liu, Xingchao Yang, Tomoya Akiyama, Yuantian Huang, Qiaoge Li, Shigeru Kuriyama, Takafumi Taketomi",
+      "paper_url": "https://openreview.net/pdf?id=LbEWwJOufy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8enWnd6Gp3",
+      "paper_id": "8enWnd6Gp3",
+      "title": "TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes",
+      "authors": "Minghao Guo, Bohan Wang, Kaiming He, Wojciech Matusik",
+      "paper_url": "https://openreview.net/pdf?id=8enWnd6Gp3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ktG8Tun1Cy",
+      "paper_id": "ktG8Tun1Cy",
+      "title": "Text-to-3D with Classifier Score Distillation",
+      "authors": "Xin Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Song-Hai Zhang, XIAOJUAN QI",
+      "paper_url": "https://openreview.net/pdf?id=ktG8Tun1Cy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1NprT9Kz0d",
+      "paper_id": "1NprT9Kz0d",
+      "title": "TexTailor: Customized Text-aligned Texturing via Effective Resampling",
+      "authors": "Suin Lee, Daeshik Kim",
+      "paper_url": "https://openreview.net/pdf?id=1NprT9Kz0d",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WOiOzHG2zD",
+      "paper_id": "WOiOzHG2zD",
+      "title": "TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields",
+      "authors": "Tianyu Huang, Yihan Zeng, Bowen Dong, Hang Xu, Songcen Xu, Rynson W. H. Lau, Wangmeng Zuo",
+      "paper_url": "https://openreview.net/pdf?id=WOiOzHG2zD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ybFRoGxZjs",
+      "paper_id": "ybFRoGxZjs",
+      "title": "ThermalGaussian: Thermal 3D Gaussian Splatting",
+      "authors": "Rongfeng Lu, Hangyu Chen, Zunjie Zhu, Yuhang Qin, Ming Lu, Le zhang, Chenggang Yan, anke xue",
+      "paper_url": "https://openreview.net/pdf?id=ybFRoGxZjs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_lKK50q2MtV",
+      "paper_id": "lKK50q2MtV",
+      "title": "TokenFlow: Consistent Diffusion Features for Consistent Video Editing",
+      "authors": "Michal Geyer, Omer Bar-Tal, Shai Bagon, Tali Dekel",
+      "paper_url": "https://openreview.net/pdf?id=lKK50q2MtV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9ZUYJpvIys",
+      "paper_id": "9ZUYJpvIys",
+      "title": "TOSS: High-quality Text-guided Novel View Synthesis from a Single Image",
+      "authors": "Yukai Shi, Jianan Wang, He CAO, Boshi Tang, Xianbiao Qi, Tianyu Yang, Yukun Huang, Shilong Liu, Lei Zhang, Heung-Yeung Shum",
+      "paper_url": "https://openreview.net/pdf?id=9ZUYJpvIys",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_aqlzXgXwWa",
+      "paper_id": "aqlzXgXwWa",
+      "title": "Towards Multiple Character Image Animation Through Enhancing Implicit Decoupling",
+      "authors": "Jingyun Xue, Hongfa Wang, Qi Tian, Yue Ma, Andong Wang, Zhiyuan Zhao, Shaobo Min, Wenzhe Zhao, Kaihao Zhang, Heung-Yeung Shum, Wei Liu, Mengyang LIU, Wenhan Luo",
+      "paper_url": "https://openreview.net/pdf?id=aqlzXgXwWa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_FEBFJ98FKx",
+      "paper_id": "FEBFJ98FKx",
+      "title": "TPU-GAN: Learning temporal coherence from dynamic point cloud sequences",
+      "authors": "Zijie Li, Tianqin Li, Amir Barati Farimani",
+      "paper_url": "https://openreview.net/pdf/52569840ae5698d2203efde4f8f06d012fa7868a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_dDo8druYppX",
+      "paper_id": "dDo8druYppX",
+      "title": "Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization",
+      "authors": "Biao Zhang, Peter Wonka",
+      "paper_url": "https://openreview.net/pdf/4b2efd8acee00b364d8c45ac54321d5a59b31f8c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_dN4vpVTvWX",
+      "paper_id": "dN4vpVTvWX",
+      "title": "TUVF: Learning Generalizable Texture UV Radiance Fields",
+      "authors": "An-Chieh Cheng, Xueting Li, Sifei Liu, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=dN4vpVTvWX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_bLKcCe7hYh",
+      "paper_id": "bLKcCe7hYh",
+      "title": "UC-NERF: Neural Radiance Field for Under-Calibrated Multi-View Cameras in Autonomous Driving",
+      "authors": "Kai Cheng, Xiaoxiao Long, Wei Yin, Jin Wang, Zhiqiang Wu, Yuexin Ma, Kaixuan Wang, Xiaozhi Chen, Xuejin Chen",
+      "paper_url": "https://openreview.net/pdf?id=bLKcCe7hYh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_wcaE4Dfgt8",
+      "paper_id": "wcaE4Dfgt8",
+      "title": "Uni3D: Exploring Unified 3D Representation at Scale",
+      "authors": "Junsheng Zhou, Jinsheng Wang, Baorui Ma, Yu-Shen Liu, Tiejun Huang, Xinlong Wang",
+      "paper_url": "https://openreview.net/pdf?id=wcaE4Dfgt8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6U2KI1dpfl",
+      "paper_id": "6U2KI1dpfl",
+      "title": "UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting",
+      "authors": "Haoyuan Li, Zhou Yanpeng, Tao Tang, Jifei Song, Yihan Zeng, Michael Kampffmeyer, Hang Xu, Xiaodan Liang",
+      "paper_url": "https://openreview.net/pdf?id=6U2KI1dpfl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xPO6fwvldG",
+      "paper_id": "xPO6fwvldG",
+      "title": "UniRestore3D: A Scalable Framework For General Shape Restoration",
+      "authors": "Yuang Wang, Yujian Zhang, Sida Peng, Xingyi He, Haoyu Guo, Yujun Shen, Hujun Bao, Xiaowei Zhou",
+      "paper_url": "https://openreview.net/pdf?id=xPO6fwvldG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_rwE8SshAlxw",
+      "paper_id": "rwE8SshAlxw",
+      "title": "Unsupervised Discovery of Object Radiance Fields",
+      "authors": "Hong-Xing Yu, Leonidas Guibas, Jiajun Wu",
+      "paper_url": "https://openreview.net/pdf/cfb2b52583e94904f05e5386618edd96d4521272.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_igfDXfMvm5",
+      "paper_id": "igfDXfMvm5",
+      "title": "USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields",
+      "authors": "Moyang Li, Peng Wang, Lingzhe Zhao, Bangyan Liao, Peidong Liu",
+      "paper_url": "https://openreview.net/pdf?id=igfDXfMvm5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_xjxUjHa_Wpa",
+      "paper_id": "xjxUjHa_Wpa",
+      "title": "VA-DepthNet: A Variational Approach to Single Image Depth Prediction",
+      "authors": "Ce Liu, Suryansh Kumar, Shuhang Gu, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openreview.net/pdf/583bb302f77492085cedcf40f241f19b02f4e775.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_0n4bS0R5MM",
+      "paper_id": "0n4bS0R5MM",
+      "title": "VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control",
+      "authors": "Sherwin Bahmani, Ivan Skorokhodov, Aliaksandr Siarohin, Willi Menapace, Guocheng Qian, Michael Vasilkovsky, Hsin-Ying Lee, Chaoyang Wang, Jiaxu Zou, Andrea Tagliasacchi, David B. Lindell, Sergey Tulyakov",
+      "paper_url": "https://openreview.net/pdf?id=0n4bS0R5MM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Un0rgm9f04",
+      "paper_id": "Un0rgm9f04",
+      "title": "VDT: General-purpose Video Diffusion Transformers via Mask Modeling",
+      "authors": "Haoyu Lu, Guoxing Yang, Nanyi Fei, Yuqi Huo, Zhiwu Lu, Ping Luo, Mingyu Ding",
+      "paper_url": "https://openreview.net/pdf?id=Un0rgm9f04",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RoN6NnHjn4",
+      "paper_id": "RoN6NnHjn4",
+      "title": "Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors",
+      "authors": "Haiyu Wu, Jaskirat Singh, Sicong Tian, Liang Zheng, Kevin Bowyer",
+      "paper_url": "https://openreview.net/pdf?id=RoN6NnHjn4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_K9sVJ17zvB",
+      "paper_id": "K9sVJ17zvB",
+      "title": "VersVideo: Leveraging Enhanced Temporal Diffusion Models for Versatile Video Generation",
+      "authors": "Jinxi Xiang, Ricong Huang, Jun Zhang, Guanbin Li, Xiao Han, Yang Wei",
+      "paper_url": "https://openreview.net/pdf?id=K9sVJ17zvB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nNYA7tcJSE",
+      "paper_id": "nNYA7tcJSE",
+      "title": "ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler",
+      "authors": "Serin Yang, Taesung Kwon, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=nNYA7tcJSE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_0ypGZvm0er0",
+      "paper_id": "0ypGZvm0er0",
+      "title": "View Synthesis with Sculpted Neural Points",
+      "authors": "Yiming Zuo, Jia Deng",
+      "paper_url": "https://openreview.net/pdf/a844600e54c069b827ba8e0013a60b4a1193f97f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Ow1C7s3UcY",
+      "paper_id": "Ow1C7s3UcY",
+      "title": "Vitruvion: A Generative Model of Parametric CAD Sketches",
+      "authors": "Ari Seff, Wenda Zhou, Nick Richardson, Ryan P Adams",
+      "paper_url": "https://openreview.net/pdf/38ea22fe4cd42ce014e63702972f486b3c0b3995.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_AdPJb9cud_Y",
+      "paper_id": "AdPJb9cud_Y",
+      "title": "VoGE: A Differentiable Volume Renderer using Gaussian Ellipsoids for Analysis-by-Synthesis",
+      "authors": "Angtian Wang, Peng Wang, Jian Sun, Adam Kortylewski, Alan Yuille",
+      "paper_url": "https://openreview.net/pdf/12db575ff699c124b43732feb8429167604a128c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_IpGgfpMucHj",
+      "paper_id": "IpGgfpMucHj",
+      "title": "Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding",
+      "authors": "Abdullah Hamdi, Silvio Giancola, Bernard Ghanem",
+      "paper_url": "https://openreview.net/pdf/b3f85b26464b6cd916b9a66adb82d3d295c951c4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_DSy8tP4WctmZ",
+      "paper_id": "DSy8tP4WctmZ",
+      "title": "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction",
+      "authors": "Tong Wu, Jiaqi Wang, Xingang Pan, Xudong XU, Christian Theobalt, Ziwei Liu, Dahua Lin",
+      "paper_url": "https://openreview.net/pdf/8385b49620c0d807cbd7621fce00e5a6302d95ef.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_VdwVOREDZM",
+      "paper_id": "VdwVOREDZM",
+      "title": "WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space",
+      "authors": "Katja Schwarz, Seung Wook Kim, Jun Gao, Sanja Fidler, Andreas Geiger, Karsten Kreis",
+      "paper_url": "https://openreview.net/pdf?id=VdwVOREDZM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_FRCHDhbxZF",
+      "paper_id": "FRCHDhbxZF",
+      "title": "ZeroFlow: Scalable Scene Flow via Distillation",
+      "authors": "Kyle Vedder, Neehar Peri, Nathaniel Eliot Chodosh, Ishan Khatri, ERIC EATON, Dinesh Jayaraman, Yang Liu, Deva Ramanan, James Hays",
+      "paper_url": "https://openreview.net/pdf?id=FRCHDhbxZF",
+      "venue": "iclr24"
+    }
+  ]
+}

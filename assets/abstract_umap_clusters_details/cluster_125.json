@@ -1,0 +1,581 @@
+{
+  "cluster_id": 125,
+  "papers": [
+    {
+      "id": "siggraph23_papers_457",
+      "paper_id": "papers_457",
+      "title": "An Elastic Basis for Spectral Shape Correspondence",
+      "authors": "Florine Hartwig, Josua Sassen, Omri Azencot, Martin Rumpf, Mirela Ben-Chen",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_498983dc4f",
+      "paper_id": "498983dc4f",
+      "title": "Bernstein Bounds for Caustics",
+      "authors": "Zhimin Fan, Chen Wang, Yiming Wang, Boxuan Li, Yuxuan Guo, Ling-Qi Yan, Yanwen Guo, Jie Guo",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_842",
+      "paper_id": "papers_842",
+      "title": "Biharmonic Coordinates and Their Derivatives for Triangular 3D Cages",
+      "authors": "Jean-Marc THIERY, Elie Michel, Jiong Chen",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_401",
+      "paper_id": "papers_401",
+      "title": "Bijective and Coarse High-order Tetrahedral Meshes",
+      "authors": "Zhongshi Jiang, Ziyi Zhang, Yixin Hu, Teseo Schneider, Denis Zorin, Daniele Panozzo",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_703",
+      "paper_id": "papers_703",
+      "title": "Compatible Intrinsic Triangulations",
+      "authors": "Kenshi Takayama",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_247",
+      "paper_id": "papers_247",
+      "title": "Computing Minimal Surfaces With Differential Forms",
+      "authors": "Stephanie Wang, Albert Chern",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_423",
+      "paper_id": "papers_423",
+      "title": "Computing Sparse Integer-constrained Cones for Conformal Parameterizations",
+      "authors": "Mo Li, Qing Fang, Wenqing Ouyang, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_180",
+      "paper_id": "papers_180",
+      "title": "Constrained Willmore Surfaces",
+      "authors": "Yousuf Soliman, Albert Chern, Olga Diamanti, Felix Knöppel, Ulrich Pinkall, Peter Schröder",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_238",
+      "paper_id": "papers_238",
+      "title": "Curvature-driven Conformal Deformations",
+      "authors": "Etienne Corman",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_96c98bbf11",
+      "paper_id": "96c98bbf11",
+      "title": "Designing 3D Anisotropic Frame Fields with Odeco Tensors",
+      "authors": "Haikuan Zhu, Hongbo Li, Hsueh-Ti Derek Liu, Wenping Wang, Jing Hua, Zichun Zhong",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_117",
+      "paper_id": "paperstog_117",
+      "title": "Dev2PQ: Planar Quadrilateral Strip Remeshing of Developable Surfaces",
+      "authors": "Floor Verhoeven, Amir Vaxman, Tim Hoffmann, Olga Sorkine-Hornung, Floor Verhoeven",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_422",
+      "paper_id": "papers_422",
+      "title": "Developability-driven Piecewise Approximations for Triangular Meshes",
+      "authors": "Zheng-Yu Zhao, Qing Fang, Wenqing Ouyang, Zheng Zhang, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_pos_184",
+      "paper_id": "pos_184",
+      "title": "Developable Surface Segmentation for CAD Models",
+      "authors": "Zheng Zeng, Xiaohong Jia, Liyong Shen, Pengbo Bo",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_199",
+      "paper_id": "papers_199",
+      "title": "Discrete Conformal Equivalence of Polyhedral Surfaces",
+      "authors": "Mark Gillespie, Boris Springborn, Keenan Crane",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_50b40675a7",
+      "paper_id": "50b40675a7",
+      "title": "Discrete Torsion of Connection Forms on Simplicial Meshes",
+      "authors": "Theo Braune, Mark Gillespie, Yiying Tong, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_749",
+      "paper_id": "papers_749",
+      "title": "Efficient Embeddings in Exact Arithmetic",
+      "authors": "Ugo Finnendahl, Dimitrios Bogiokas, Pablo Robles Cervantes, Marc Alexa",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_b337570fc5",
+      "paper_id": "b337570fc5",
+      "title": "Escher Tile Deformation via Closed-Form Solution",
+      "authors": "Crane He Chen, Vladimir Kim",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_128",
+      "paper_id": "paperstog_128",
+      "title": "Escherization With Large Deformations Based on As-rigid-as-possible Shape Modeling",
+      "authors": "Yuichi Nagata, Shinji Imahori, Yuichi Nagata",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_406",
+      "paper_id": "papers_406",
+      "title": "Evolutionary Piecewise Developable Approximations",
+      "authors": "Zheng-Yu Zhao, Mo Li, Zheng Zhang, Qing Fang, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_583",
+      "paper_id": "papers_583",
+      "title": "Expansion Cones: A Progressive Volumetric Mapping Framework",
+      "authors": "Valentin Zenon Nigolian, Marcel Campen, David Bommes",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_11409b1ca7",
+      "paper_id": "11409b1ca7",
+      "title": "Feature-Aligned Parametrization in Penner Coordinates",
+      "authors": "Ryan Capouellez, Rodrigo Singh, Martin Heistermann, David Bommes, Denis Zorin",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_6cbfe67149",
+      "paper_id": "6cbfe67149",
+      "title": "Feature-Preserving Mesh Repair via Restricted Power Diagram",
+      "authors": "Huibiao Wen, Guilong He, Rui Xu, Shuangmin Chen, Shiqing Xin, Zhenyu Shu, Taku Komura, Jieqing Feng, Wenping Wang, Changhe Tu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_422506485a",
+      "paper_id": "422506485a",
+      "title": "Field Smoothness-Controlled Partition for Quadrangulation",
+      "authors": "Zhongxuan Liang, Wei Du, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_13569053c6",
+      "paper_id": "13569053c6",
+      "title": "Flexible 3D Cage-based Deformation via Green Coordinates on Bézier Patches",
+      "authors": "Dong Xiao, Renjie Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_437",
+      "paper_id": "papers_437",
+      "title": "Foldover-free Maps in 50 Lines of Code",
+      "authors": "Vladimir Garanzha, Igor Kaporin, Liudmila Kudryavtseva, François Protais, Nicolas Ray, Dmitry Sokolov",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_546",
+      "paper_id": "papers_546",
+      "title": "Galaxy Maps: Localized Foliations for Bijective Volumetric Mapping",
+      "authors": "Steffen Hinderink, Marcel Campen",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_paperstog_103",
+      "paper_id": "paperstog_103",
+      "title": "Geometric Optimisation via Spectral Shifting",
+      "authors": "Roman Poya, Rogelio Ortigosa, Theodore Kim, Theodore Kim",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_178",
+      "paper_id": "papers_178",
+      "title": "Guaranteed Globally Injective 3D Deformation Processing",
+      "authors": "Yu Fang, Minchen Li, Chenfanfu Jiang, Danny M. Kaufman",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_115",
+      "paper_id": "papers_115",
+      "title": "Guaranteed-Quality Higher-Order Triangular Meshing of 2D Domains",
+      "authors": "Manish Mandad, Marcel Campen",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_578de7e0aa",
+      "paper_id": "578de7e0aa",
+      "title": "HexHex: Highspeed Extraction of Hexahedral Meshes",
+      "authors": "Tobias Kohler, Martin Heistermann, David Bommes",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_paperstog_120",
+      "paper_id": "paperstog_120",
+      "title": "In the Quest for Scale-Optimal Mappings",
+      "authors": "Dmitry Sokolov, Vladimir Garanzha, Igor Kaporin, Liudmila Kudryavtseva, François Protais, Dmitry Sokolov",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_740",
+      "paper_id": "papers_740",
+      "title": "Into the Portal: Directable Fractal Self-Similarity",
+      "authors": "Alexa Schor, Theodore Kim",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_767",
+      "paper_id": "papers_767",
+      "title": "Lifting Directional Fields to Minimal Sections",
+      "authors": "David R. Palmer, Albert Chern, Justin M. Solomon",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_871",
+      "paper_id": "papers_871",
+      "title": "Locally Meshable Frame Fields",
+      "authors": "Heng Liu, David Bommes",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_166",
+      "paper_id": "papers_166",
+      "title": "Medial IPC: Accelerated Incremental Potential Contact With Medial Elastics",
+      "authors": "Lei Lan, Yin Yang, Danny Kaufman, Junfeng Yao, Minchen Li, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_3f5899f94c",
+      "paper_id": "3f5899f94c",
+      "title": "Meschers: Geometry Processing of Impossible Objects",
+      "authors": "Ana Dodik, Isabella Yu, Kartik Chandra, Jonathan Ragan-Kelley, Joshua Tenenbaum, Vincent Sitzmann, Justin Solomon",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_702",
+      "paper_id": "papers_702",
+      "title": "Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization",
+      "authors": "Martin Heistermann, Jethro Warnett, David Bommes",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_1bd1b2ba5a",
+      "paper_id": "1bd1b2ba5a",
+      "title": "MiSo: A DSL for robust and efficient MINIMIZE and SOLVE problems",
+      "authors": "Federico Sichetti, Enrico Puppo, Zizhou Huang, Marco Attene, Denis Zorin, Daniele Panozzo",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_408",
+      "paper_id": "papers_408",
+      "title": "Modeling and Fabrication With Specified Discrete Equivalence Classes",
+      "authors": "Zhong-Yuan Liu, Zhan Zhang, Di Zhang, Chunyang Ye, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_822",
+      "paper_id": "papers_822",
+      "title": "Modeling and Rendering Non-Euclidean Spaces Approximated With Concatenated Polytopes",
+      "authors": "Seung-wook Kim, Jaehyung Doh, JungHyun Han",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_paperstog_104",
+      "paper_id": "paperstog_104",
+      "title": "Modeling of Personalized Anatomy Using Plastic Strains",
+      "authors": "Bohan Wang, George Matcuk, Jernej Barbic",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_e173b2c0a8",
+      "paper_id": "e173b2c0a8",
+      "title": "NeurCross: A Neural Approach to Computing Cross Fields for Quad Mesh Generation",
+      "authors": "Qiujie Dong, Huibiao Wen, Rui Xu, Shuangmin Chen, Jiaran Zhou, Shiqing Xin, Changhe Tu, Taku Komura, Wenping Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_pos_255",
+      "paper_id": "pos_255",
+      "title": "New Types of Smooth Subdivision Algorithms",
+      "authors": "Tatyana Zaitseva",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_pos_151",
+      "paper_id": "pos_151",
+      "title": "Newton’s Fractals on Surfaces via Bicomplex Algebra",
+      "authors": "Filippo Maggioli, Daniele Baieri, Simone Melzi, Emanuele Rodolà",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_b7c4d48d52",
+      "paper_id": "b7c4d48d52",
+      "title": "On Planar Shape Interpolation With Logarithmic Metric Blending",
+      "authors": "Alon Feldman, Mirela Ben-Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_124",
+      "paper_id": "paperstog_124",
+      "title": "Optimal Dual Schemes for Adaptive Grid Based Hexmeshing",
+      "authors": "Marco Livesu, Luca Pitzalis, Gianmarco Cherchi, Gianmarco Cherchi",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_220",
+      "paper_id": "papers_220",
+      "title": "PH-CPF: Planar Hexagonal Meshing Using Coordinate Power Fields",
+      "authors": "Kacper Pluta, Michal Edelstein, Amir Vaxman, Mirela Ben Chen",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_3b05dd9e0a",
+      "paper_id": "3b05dd9e0a",
+      "title": "Piecewise Ruled Approximation for Freeform Mesh Surfaces",
+      "authors": "Yiling Pan, Zhixin Xu, Bin Wang, Bailin Deng",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_ce1ec44942",
+      "paper_id": "ce1ec44942",
+      "title": "Polynomial 2D Biharmonic Coordinates for High-order Cages",
+      "authors": "Shibo Liu, Tielin Dai, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_309",
+      "paper_id": "papers_309",
+      "title": "Polynomial 2D Green Coordinates for Polygonal Cages",
+      "authors": "Élie Michel, Jean-Marc Thiery",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_f86926e064",
+      "paper_id": "f86926e064",
+      "title": "Power-Linear Polar Directional Fields",
+      "authors": "Jiabao Brad Wang, Amir Vaxman",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_285",
+      "paper_id": "papers_285",
+      "title": "Real-time Locally Injective Volumetric Deformation",
+      "authors": "Wentao Liao, Renjie Chen, Yuchen Hua, Ligang Liu, Ofir Weber",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_fcec974d70",
+      "paper_id": "fcec974d70",
+      "title": "Rectangular Surface Parameterization",
+      "authors": "Etienne Corman, Keenan Crane",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_491",
+      "paper_id": "papers_491",
+      "title": "Reliable Feature-line Driven Quad-remeshing",
+      "authors": "Nico Pietroni, Stefano Nuvoli, Thomas Alderighi, Paolo Cignoni, Marco Tarini",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_787",
+      "paper_id": "papers_787",
+      "title": "Seamless Parametrization in Penner Coordinates",
+      "authors": "Ryan Capouellez, Denis Zorin",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_paperstog_128",
+      "paper_id": "paperstog_128",
+      "title": "Self-similar Fractal Drawings Inspired by M.C. Escher's Print Square Limit",
+      "authors": "Peichang Ouyang, Kwok-Wai Chung, Alain Nicolas, Krzysztof Gdawiec",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_837",
+      "paper_id": "papers_837",
+      "title": "Smooth Bijective Projection in a High-order Shell",
+      "authors": "Shibo Liu, Yang Ji, Jia-Peng Guo, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_459",
+      "paper_id": "papers_459",
+      "title": "Somigliana Coordinates:  An Elasticity-derived Approach for Cage Deformation",
+      "authors": "Jiong Chen, Fernando de Goes, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_46512e324a",
+      "paper_id": "46512e324a",
+      "title": "Spline Deformation Field",
+      "authors": "Mingyang Song, Yang Zhang, Marko Mihajlovic, Siyu Tang, Markus Gross, Tunc Ozan Aydin",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_176",
+      "paper_id": "papers_176",
+      "title": "Stochastic Computation of Barycentric Coordinates",
+      "authors": "Fernando de Goes, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_350",
+      "paper_id": "papers_350",
+      "title": "Surface-filling Curve Flows via Implicit Medial Axes",
+      "authors": "Yuta Noma, Silvia Sellán, Nicholas Sharp, Karan Singh, Alec Jacobson",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_paperstog_104",
+      "paper_id": "paperstog_104",
+      "title": "Symmetric Volume Maps: Order-invariant Volumetric Mesh Correspondence With Free Boundary",
+      "authors": "Mazdak Abulnaga, Oded Stein, Polina Golland, Justin Solomon, Mazdak Abulnaga",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_paperstog_113",
+      "paper_id": "paperstog_113",
+      "title": "The Method of Moving Frames for Surface Global Parametrization",
+      "authors": "Guillaume Coiffier, Etienne Corman, Guillaume Coiffier",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_541",
+      "paper_id": "papers_541",
+      "title": "TopoCut: Fast and Robust Planar Cutting of Arbitrary Domains",
+      "authors": "Xianzhong Fang, Mathieu Desbrun, Hujun Bao, Jin Huang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_ab9d033b40",
+      "paper_id": "ab9d033b40",
+      "title": "Topological Offsets",
+      "authors": "Daniel Zint, Zhouyuan Chen, Yifei Zhu, Denis Zorin, Teseo Schneider, Daniele Panozzo",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_297",
+      "paper_id": "papers_297",
+      "title": "Unconventional Patterns on Surfaces",
+      "authors": "Merel Meekes, Amir Vaxman",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_400",
+      "paper_id": "papers_400",
+      "title": "Using Isometries for Computational Design and Fabrication",
+      "authors": "Caigui Jiang, Hui Wang, Victor Ceballos Inza, Felix Dellinger, Florian Rist, Johannes Wallner, Helmut Pottmann",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_926",
+      "paper_id": "papers_926",
+      "title": "Variational Feature Extraction in Scientific Visualization",
+      "authors": "Nico Daßler, Tobias Günther",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_64d1700fcc",
+      "paper_id": "64d1700fcc",
+      "title": "Variational Green and Biharmonic Coordinates for 2D Polynomial Cages",
+      "authors": "Elie Michel, Alec Jacobson, Siddhartha Chaudhuri, Jean-Marc Thiery",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_206",
+      "paper_id": "papers_206",
+      "title": "Variational Quasi-harmonic Maps for Computing Diffeomorphisms",
+      "authors": "Yu Wang, Minghao Guo, Justin Solomon",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_443",
+      "paper_id": "papers_443",
+      "title": "Volume Parametrization Quantization for Hexahedral Meshing",
+      "authors": "Hendrik Brückler, David Bommes, Marcel Campen",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_827",
+      "paper_id": "papers_827",
+      "title": "Which Cross Fields Can Be Quadrangulated? Global Parameterization From Prescribed Holonomy Signatures",
+      "authors": "Hanxiao Shen, Leyi Zhu, Ryan Capouellez, Daniele Panozzo, Marcel Campen, Denis Zorin",
+      "paper_url": "",
+      "venue": "siggraph22"
+    }
+  ]
+}

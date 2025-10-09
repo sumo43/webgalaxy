@@ -1,0 +1,181 @@
+{
+  "cluster_id": 39,
+  "papers": [
+    {
+      "id": "rss22_56",
+      "paper_id": "56",
+      "title": "CALI: Coarse-to-Fine ALIgnments Based Unsupervised Domain Adaptation of Traversability Prediction for Deployable Autonomous Navigation",
+      "authors": "Zheng Chen, Durgakant Pushp, Lantao Liu (Indiana University Bloomington)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p056.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_21",
+      "paper_id": "21",
+      "title": "Demonstrating HOUND: A Low-cost Research Platform for High-speed Off-road Underactuated Nonholonomic Driving",
+      "authors": "Sidharth Talia, Matthew Schmittle, Alexander Lambert, Alexander Spitzer, Christoforos Mavrogiannis, Siddhartha SrinivasaSidharth Talia, Matthew Schmittle, Alexander Lambert, Alexander Spitzer, Christoforos Mavrogiannis, Siddhartha Srinivasa",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p021.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_TWgoGdubPN",
+      "paper_id": "TWgoGdubPN",
+      "title": "Enabling Efficient, Reliable Real-World Reinforcement Learning with Approximate Physics-Based Models",
+      "authors": "Tyler Westenbroek, Jacob Levy, David Fridovich-Keil",
+      "paper_url": "https://openreview.net/pdf?id=TWgoGdubPN",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_WIE9t_UwOpM",
+      "paper_id": "WIE9t_UwOpM",
+      "title": "Enhancing Consistent Ground Maneuverability by Robot Adaptation to Complex Off-Road Terrains",
+      "authors": "Sriram Siva, Maggie Wigness, John Rogers, Hao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=WIE9t_UwOpM",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_54",
+      "paper_id": "54",
+      "title": "Fast Traversability Estimation for Wild Visual Navigation",
+      "authors": "Jonas Frey (ETH Zürich), Matias Mattamala (University of Oxford)*, Nived Chebrolu (University of Oxford), Cesar Cadena (ETH Zürich), Maurice Fallon (University of Oxford), Marco Hutter (ETH Zürich)Jonas Frey (ETH Zürich), Matias Mattamala (University of Oxford)*, Nived Chebrolu (University of Oxford), Cesar Cadena (ETH Zürich), Maurice Fallon (University of Oxford), Marco Hutter (ETH Zürich)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p054.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_Ke5xrnBFAR",
+      "paper_id": "Ke5xrnBFAR",
+      "title": "Gameplay Filters: Robust Zero-Shot Safety through Adversarial Imagination",
+      "authors": "Duy Phuong Nguyen, Kai-Chieh Hsu, Wenhao Yu, Jie Tan, Jaime Fernández Fisac",
+      "paper_url": "https://openreview.net/pdf?id=Ke5xrnBFAR",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_69",
+      "paper_id": "69",
+      "title": "Learning Forward Dynamics Model and Informed Trajectory Sampler for Safe Quadruped Navigation",
+      "authors": "Yunho Kim, Chanyoung Kim, Jemin Hwangbo (Korea Advanced Institute of Science and Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p069.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl21_a5ZiDzL0enJ",
+      "paper_id": "a5ZiDzL0enJ",
+      "title": "Learning Inertial Odometry for Dynamic Legged Robot State Estimation",
+      "authors": "Russell Buchanan, Marco Camurri, Frank Dellaert, Maurice Fallon",
+      "paper_url": "https://openreview.net/pdf?id=a5ZiDzL0enJ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_JtK7F6D8t-3",
+      "paper_id": "JtK7F6D8t-3",
+      "title": "Learning Semantics-Aware Locomotion Skills from Human Demonstration",
+      "authors": "Yuxiang Yang, Xiangyun Meng, Wenhao Yu, Tingnan Zhang, Jie Tan, Byron Boots",
+      "paper_url": "https://openreview.net/pdf?id=JtK7F6D8t-3",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_RQ_7yVV8vA",
+      "paper_id": "RQ_7yVV8vA",
+      "title": "Learning to See Physical Properties with Active Sensing Motor Policies",
+      "authors": "Gabriel B. Margolis, Xiang Fu, Yandong Ji, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=RQ_7yVV8vA",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_yt3tDB67lc5",
+      "paper_id": "yt3tDB67lc5",
+      "title": "Legged Robot State Estimation using Invariant Kalman Filtering and Learned Contact Events",
+      "authors": "Tzu-Yuan Lin, Ray Zhang, Justin Yu, Maani Ghaffari",
+      "paper_url": "https://openreview.net/pdf?id=yt3tDB67lc5",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_VdyIhsh1jU",
+      "paper_id": "VdyIhsh1jU",
+      "title": "Legolas: Deep Leg-Inertial Odometry",
+      "authors": "Justin Wasserman, Ananye Agarwal, Rishabh Jangir, Girish Chowdhary, Deepak Pathak, Abhinav Gupta",
+      "paper_url": "https://openreview.net/pdf?id=VdyIhsh1jU",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_22",
+      "paper_id": "22",
+      "title": "Model Predictive Control for Aggressive Driving Over Uneven Terrain",
+      "authors": "Tyler Han, Alex Liu, Anqi Li, Alexander Spitzer, Guanya Shi, Byron BootsTyler Han, Alex Liu, Anqi Li, Alexander Spitzer, Guanya Shi, Byron Boots",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p022.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_Wt3GLZYFvEQ",
+      "paper_id": "Wt3GLZYFvEQ",
+      "title": "Rough Terrain Navigation Using Divergence Constrained Model-Based Reinforcement Learning",
+      "authors": "Sean J Wang, Samuel Triest, Wenshan Wang, Sebastian Scherer, Aaron Johnson",
+      "paper_url": "https://openreview.net/pdf?id=Wt3GLZYFvEQ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_AL4FPs84YdQ",
+      "paper_id": "AL4FPs84YdQ",
+      "title": "Semantic Terrain Classification for Off-Road Autonomous Driving",
+      "authors": "Amirreza Shaban, Xiangyun Meng, JoonHo Lee, Byron Boots, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=AL4FPs84YdQ",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_21",
+      "paper_id": "21",
+      "title": "STEP: Stochastic Traversability Evaluation and Planning for Risk-Aware Off-road Navigation",
+      "authors": "David D Fan (Georgia Technology), Kyohei Otsu (NASA-JPL), Yuki Kubo (University of Tokyo), Anushri Dixit (Caltech), Joel Burdick (Caltech), Ali-akbar Agha-mohammadi (NASA-JPL, Caltech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p021.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_VLihM67Wdi6",
+      "paper_id": "VLihM67Wdi6",
+      "title": "STERLING: Self-Supervised Terrain Representation Learning from Unconstrained Robot Experience",
+      "authors": "Haresh Karnan, Elvin Yang, Daniel Farkash, Garrett Warnell, Joydeep Biswas, Peter Stone",
+      "paper_url": "https://openreview.net/pdf?id=VLihM67Wdi6",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_103",
+      "paper_id": "103",
+      "title": "TerrainNet: Visual Modeling of Complex Terrain for High-speed, Off-road Navigation",
+      "authors": "Xiangyun Meng (University of Washington)*, Nathan Hatch (University of Washington), Alexander Lambert (University of Washington), Anqi Li (University of Washington), Nolan Wagener (Georgia Tech), Matthew Schmittle (University of Washington), JoonHo Lee (University of Washington), Wentao Yuan (University of Washington), Zoey...more>Xiangyun Meng (University of Washington)*, Nathan Hatch (University of Washington), Alexander Lambert (University of Washington), Anqi Li (University of Washington), Nolan Wagener (Georgia Tech), Matthew Schmittle (University of Washington), JoonHo Lee (University of Washington), Wentao Yuan (University of Washington), Zoey Chen (University of Washington), Sameul Deng (University of Washington), Greg Okopal (University of Washington), Dieter Fox (NVIDIA Research / University of Washington), Byron Boots (University of Washington), Amirreza Shaban (University of Washington)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p103.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss22_49",
+      "paper_id": "49",
+      "title": "TNS: Terrain Traversability Mapping and Navigation System for Autonomous Excavators",
+      "authors": "Tianrui Guan (University of Maryland - College Park), Zhenpeng He (Baidu Research Institute), Ruitao Song (Baidu Research Institute), Dinesh Manocha (University of Maryland - College Park), Liangjun Zhang (Baidu Research Institute)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p049.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_O05tIQt2d5",
+      "paper_id": "O05tIQt2d5",
+      "title": "TOP-Nav: Legged Navigation Integrating Terrain, Obstacle and Proprioception Estimation",
+      "authors": "Junli Ren, Yikai Liu, Yingru Dai, Junfeng Long, Guijin Wang",
+      "paper_url": "https://openreview.net/pdf?id=O05tIQt2d5",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_Tka2U40pHz0",
+      "paper_id": "Tka2U40pHz0",
+      "title": "Tuning Legged Locomotion Controllers via Safe Bayesian Optimization",
+      "authors": "Daniel Widmer, Dongho Kang, Bhavya Sukhija, Jonas Hübotter, Andreas Krause, Stelian Coros",
+      "paper_url": "https://openreview.net/pdf?id=Tka2U40pHz0",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_AhEE5wrcLU",
+      "paper_id": "AhEE5wrcLU",
+      "title": "Velociraptor: Leveraging Visual Foundation Models for Label-Free, Risk-Aware Off-Road Navigation",
+      "authors": "Samuel Triest, Matthew Sivaprakasam, Shubhra Aich, David Fan, Wenshan Wang, Sebastian Scherer",
+      "paper_url": "https://openreview.net/pdf?id=AhEE5wrcLU",
+      "venue": "corl24"
+    }
+  ]
+}

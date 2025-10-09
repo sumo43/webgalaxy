@@ -1,0 +1,325 @@
+{
+  "cluster_id": 130,
+  "papers": [
+    {
+      "id": "siggraph25_e99c2902f3",
+      "paper_id": "e99c2902f3",
+      "title": "A Neural Particle Level Set Method for Dynamic Interface Tracking",
+      "authors": "Duowen Chen, Junwei Zhou, Bo Zhu, Duowen Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_256",
+      "paper_id": "papers_256",
+      "title": "ACORN: Adaptive Coordinate Networks for Neural Scene Representation",
+      "authors": "Julien N. P. Martel, David B. Lindell, Connor Zhizhen Lin, Eric Ryan Chan, Marco Monteiro, Gordon Wetzstein",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_86dbe32747",
+      "paper_id": "86dbe32747",
+      "title": "Adding Regional Control for Continuous Remeshing via Attention Flows",
+      "authors": "Jiaqi Wu, Kun Xu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_637",
+      "paper_id": "papers_637",
+      "title": "An Extensible, Data-oriented Architecture for High-performance, Many-world Simulation",
+      "authors": "Brennan Shacklett, Luc Guy Rosenzweig, Bidipta Sarkar, Zhiqiang Xie, Andrew Szot, Erik Wijmans, Vladlen Koltun, Dhruv Batra, Kayvon Fatahalian",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_aba1f047ba",
+      "paper_id": "aba1f047ba",
+      "title": "Capsule: Efficient Player Isolation for Datacenters",
+      "authors": "Zhouheng Du, Nima Davari, Li Li, Nodir Kodirov",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_pos_246",
+      "paper_id": "pos_246",
+      "title": "Compression and Interactive Visualization of Terabyte Scale Volumetric RGBA Data With Voxel-scale Details",
+      "authors": "Mehmet Oguz Derin, Takahiro Harada, Yusuke Takeda, Yasuhiro Iba",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_366",
+      "paper_id": "papers_366",
+      "title": "Dictionary Fields: Learning a Neural Basis Decomposition",
+      "authors": "Anpei Chen, Zexiang Xu, Xinyue Wei, Siyu Tang, Hao Su, Andreas Geiger",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_34b231c3d8",
+      "paper_id": "34b231c3d8",
+      "title": "Dynamic Mesh Processing on the GPU",
+      "authors": "Ahmed H. Mahmoud, Serban D. Porumbescu, John D. Owens",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_pos_163",
+      "paper_id": "pos_163",
+      "title": "Dynamic Vertex Hierarchies for View-dependent Progressive Meshes",
+      "authors": "Jonathan Merrin, Michael Shah",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_580",
+      "paper_id": "papers_580",
+      "title": "ETER: Elastic Tessellation for Real-time Pixel-accurate Rendering of Large-scale NURBS Models",
+      "authors": "Ruicheng Xiong, Yang Lu, Cong Chen, Jiaming Zhu, Yajun Zeng, Ligang Liu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_1072",
+      "paper_id": "papers_1072",
+      "title": "fVDB : A Deep-learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence",
+      "authors": "Francis Williams, Jiahui Huang, Jonathan Swartz, Gergely Klar, Vijay Thakkar, Matthew Cong, Xuanchi Ren, Ruilong Li, Clement Fuji Tsang, Sanja Fidler, Eftychios Sifakis, Ken Museth",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_232928af7a",
+      "paper_id": "232928af7a",
+      "title": "Image-GS: Content-Adaptive Image Representation via 2D Gaussians",
+      "authors": "Yunxiang Zhang, Bingxuan Li, Alexandr Kuznetsov, Akshay Jindal, Stavros Diolatzis, Kenneth Chen, Anton Sochenov, Anton Kaplanyan, Qi Sun",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_0e71a502ef",
+      "paper_id": "0e71a502ef",
+      "title": "Image-Space Collage and Packing with Differentiable Rendering",
+      "authors": "Zhenyu Wang, Min Lu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_463",
+      "paper_id": "papers_463",
+      "title": "Instant Neural Graphics Primitives With a Multiresolution Hash Encoding",
+      "authors": "Thomas Müller, Alex Evans, Christoph Schied, Alexander Keller",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_paperstog_101",
+      "paper_id": "paperstog_101",
+      "title": "Large-scale Terrain",
+      "authors": "Hugo Schott, Axel Paris, Lucie Fournier, Éric Guérin, Éric Galin, Hugo Schott",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_715",
+      "paper_id": "papers_715",
+      "title": "Learning Images Across Scales Using Adversarial Training",
+      "authors": "Krzysztof Wolski, Adarsh Djeacoumar, Alireza Javanmardi, Hans-Peter Seidel, Christian Theobalt, Guillaume Cordonnier, Karol Myszkowski, George Drettakis, Xingang Pan, Thomas Leimkühler",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_718",
+      "paper_id": "papers_718",
+      "title": "Micro-Mesh Construction",
+      "authors": "Andrea Maggiordomo, Henry Moreton, Marco Tarini, Marco Tarini",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_732",
+      "paper_id": "papers_732",
+      "title": "N-BVH: Neural Ray Queries With Bounding Volume Hierarchies",
+      "authors": "Philippe Weier, Alexander Rath, Élie Michel, Iliyan Georgiev, Philipp Slusallek, Tamy Boubekeur",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_1000",
+      "paper_id": "papers_1000",
+      "title": "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
+      "authors": "Stavros Diolatzis, Tobias Zirr, Alexander Kuznetsov, Georgios Kopanas, Anton Kaplanyan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_593",
+      "paper_id": "papers_593",
+      "title": "Neural Bounding",
+      "authors": "Stephanie Wenxin Liu, Michael Fischer, Paul D. Yoo, Tobias Ritschel",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_376",
+      "paper_id": "papers_376",
+      "title": "Neural Dual Contouring",
+      "authors": "Zhiqin Chen, Andrea Tagliasacchi, Thomas Funkhouser, Hao Zhang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_377",
+      "paper_id": "papers_377",
+      "title": "Neural Gaussian Scale-space Fields",
+      "authors": "Felix Mujkanovic, Ntumba Elie Nsampi, Christian Theobalt, Hans-Peter Seidel, Thomas Leimkühler",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_206",
+      "paper_id": "papers_206",
+      "title": "Neural Geometry Fields for Meshes",
+      "authors": "Venkataram Edavamadathil Sivaram, Tzu-Mao Li, Ravi Ramamoorthi",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_562",
+      "paper_id": "papers_562",
+      "title": "Neural Progressive Meshes",
+      "authors": "Yun-Chun Chen, Vladimir Kim, Noam Aigerman, Alec Jacobson",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_paperstog_115",
+      "paper_id": "paperstog_115",
+      "title": "NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks",
+      "authors": "Doyub Kim, Minjae Lee, Ken Museth, Doyub Kim",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_593",
+      "paper_id": "papers_593",
+      "title": "Optimizing Dyadic Nets",
+      "authors": "Abdalla G. M. Ahmed, Peter Wonka",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_47f99cd90a",
+      "paper_id": "47f99cd90a",
+      "title": "PaRas: A Rasterizer for Large-Scale Parametric Surfaces",
+      "authors": "Kechun Wang, Renjie Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_108",
+      "paper_id": "papers_108",
+      "title": "QuanTaichi: A Compiler for Quantized Simulations",
+      "authors": "Yuanming Hu, Jiafeng Liu, Xuanda Yang, Mingkuan Xu, Ye Kuang, Weiwei Xu, Qiang Dai, William T. Freeman, Fredo Durand",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_522",
+      "paper_id": "papers_522",
+      "title": "Random-access Neural Compression of Material Textures",
+      "authors": "Karthik Vaidyanathan, Marco Salvi, Bartlomiej Wronski, Tomas Akenine-Moller, Pontus Ebelin, Aaron Lefohn",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_1267",
+      "paper_id": "papers_1267",
+      "title": "ReFiNe: Recursive Field Networks for Cross-modal Multi-scene Representation",
+      "authors": "Sergey Zakharov, Katherine Liu, Adrien Gaidon, Rares Ambrus",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_281",
+      "paper_id": "papers_281",
+      "title": "ReLU Fields: The Little Non-linearity That Could",
+      "authors": "Animesh Karnewar, Tobias Ritschel, Oliver Wang, Niloy Mitra",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_150",
+      "paper_id": "papers_150",
+      "title": "RXMesh: A GPU Mesh Data Structure",
+      "authors": "Ahmed Mahmoud, Serban D. Porumbescu, John D. Owens",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_568",
+      "paper_id": "papers_568",
+      "title": "Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces via Range Analysis",
+      "authors": "Nicholas Sharp, Alec Jacobson",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_3727e59143",
+      "paper_id": "3727e59143",
+      "title": "Stochastic Preconditioning for Neural Field Optimization",
+      "authors": "Selena Ling, Merlin Nimier-David, Alec Jacobson, Nicholas Sharp",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_8da6585bf8",
+      "paper_id": "8da6585bf8",
+      "title": "Texture Size Reduction Through Symmetric Overlap and Texture Carving",
+      "authors": "Julian Knodt, Xifeng Gao, Julian Knodt",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_paperstog_125",
+      "paper_id": "paperstog_125",
+      "title": "Textured Mesh Quality Assessment: Large-scale Dataset and Deep Learning-based Quality Metric",
+      "authors": "Yana Nehmé, Johanna Delanoy, Florent Dupont, Jean-Philippe Farrugia, Patrick Le Callet, Guillaume Lavoué, Yana Nehmé",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_69cf00859e",
+      "paper_id": "69cf00859e",
+      "title": "To Infinity and Beyond: a GPU-Driven Memory Sharing Pipeline to Generate and Process Infinite Synthetic Data",
+      "authors": "Daniele Della Pietra, Gino Lanzo Hahn, Nicola Garau",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_687",
+      "paper_id": "papers_687",
+      "title": "Trim Regions for Online Computation of From-Region Potentially Visible Sets",
+      "authors": "Philip Voglreiter, Bernhard Kerbl, Alexander Weinrauch, Joerg Hermann Mueller, Thomas Neff, Markus Steinberger, Dieter Schmalstieg",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_f08b733911",
+      "paper_id": "f08b733911",
+      "title": "UltraMeshRenderer: Efficient Structure and Management of GPU Out-of-core Memory for Real-time Rendering of Gigantic 3D Meshes",
+      "authors": "Huadong Zhang, Lizhou Cao, Chao Peng",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_483",
+      "paper_id": "papers_483",
+      "title": "Variable Bitrate Neural Fields",
+      "authors": "Towaki Takikawa, Alex Evans, Jonathan Tremblay, Thomas Müller, Morgan McGuire, Alec Jacobson, Sanja Fidler",
+      "paper_url": "",
+      "venue": "siggraph22"
+    }
+  ]
+}

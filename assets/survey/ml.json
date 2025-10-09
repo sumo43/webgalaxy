@@ -1,0 +1,212 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Generative Modelling & Media Synthesis",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Image / Video Generation & Editing",
+                    "what_is_covered": "Models that create or edit 2-D or temporal visual content via generative techniques.",
+                    "typical_examples": "Generative modeling; Image synthesis/editing; Diffusion-based methods; Optimal Transport; Diffusion Models",
+                    "cluster": "cluster_1, cluster_3"
+                },
+                {
+                    "id": "1.2",
+                    "name": "3-D Object & Molecule Generation",
+                    "what_is_covered": "Generating 3-D shapes or molecular structures using geometry-aware or equivariant models.",
+                    "typical_examples": "3D shape generation; neural implicit representations; point cloud reconstruction; equivariant GNNs; 3D molecular generation; drug discovery",
+                    "cluster": "cluster_9, cluster_16"
+                },
+                {
+                    "id": "1.3",
+                    "name": "Audio & Speech Synthesis",
+                    "what_is_covered": "Producing speech or audio from text or multimodal cues, often via diffusion models.",
+                    "typical_examples": "text-to-speech; audio-visual; diffusion",
+                    "cluster": "cluster_2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Representation & Transfer Learning",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Continual / Few-Shot / Domain Adaptation",
+                    "what_is_covered": "Adapting models continually, with few examples, or across shifting domains.",
+                    "typical_examples": "Continual Learning; Few-Shot Learning; Domain Adaptation",
+                    "cluster": "cluster_0"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Self-, Contrastive & Retrieval-Augmented Learning",
+                    "what_is_covered": "Building rich representations via self/contrastive learning or external retrieval augmentation.",
+                    "typical_examples": "Self-supervised Learning; contrastive learning; disentangled representations; clustering; language-modeling; retrieval-augmentation; representation-learning",
+                    "cluster": "cluster_5, cluster_6, cluster_15"
+                },
+                {
+                    "id": "2.3",
+                    "name": "Parameter-Efficient Transfer",
+                    "what_is_covered": "Adapting large transformers with minimal new parameters and compute.",
+                    "typical_examples": "Efficient-transformer-architectures; parameter-efficient-fine-tuning; multilingual-adaptation",
+                    "cluster": "cluster_7"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Robustness, Security & Privacy",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Adversarial & Backdoor Robustness",
+                    "what_is_covered": "Defending against adversarial or backdoor manipulations and distribution shifts.",
+                    "typical_examples": "adversarial robustness; backdoor attacks; robustness; knowledge distillation; distribution shift",
+                    "cluster": "cluster_10, cluster_4"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Uncertainty & Interpretability",
+                    "what_is_covered": "Quantifying model confidence and explaining predictions.",
+                    "typical_examples": "uncertainty estimation; conformal prediction; model interpretability",
+                    "cluster": "cluster_14"
+                },
+                {
+                    "id": "3.3",
+                    "name": "Privacy & Machine Unlearning",
+                    "what_is_covered": "Ensuring data privacy and enabling deletion or secure distributed learning.",
+                    "typical_examples": "differential privacy; machine unlearning; federated learning; robust optimization",
+                    "cluster": "cluster_19, cluster_24"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Model Efficiency & Compression",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Pruning, Quantization & Embedding Compression",
+                    "what_is_covered": "Compressing networks by pruning, quantizing or embedding reduction for efficient deployment.",
+                    "typical_examples": "Network pruning; Sparse_Network_Pruning; Low-precision quantization; Embedding_Compression; Efficient architecture search; Recommendation_Systems",
+                    "cluster": "cluster_8, cluster_21"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Geometric & Graph Learning",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Equivariant / Geometric Deep Networks",
+                    "what_is_covered": "Networks that respect group symmetries to learn geometric or physical structures.",
+                    "typical_examples": "equivariant neural networks; group symmetry; geometric deep learning",
+                    "cluster": "cluster_12"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Graph Neural Network Theory",
+                    "what_is_covered": "Theoretical properties, expressivity and robustness of Graph Neural Networks.",
+                    "typical_examples": "Graph Neural Networks; Expressivity; Robustness",
+                    "cluster": "cluster_20"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Optimization & Theory",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Non-convex & Stochastic Optimization",
+                    "what_is_covered": "Algorithms and analysis for nonconvex optimization with stochastic gradients.",
+                    "typical_examples": "Nonconvex optimization; Stochastic gradient methods; Convergence analysis",
+                    "cluster": "cluster_18"
+                },
+                {
+                    "id": "6.2",
+                    "name": "Neural Network Theory & Neuroscience Inspiration",
+                    "what_is_covered": "Theoretical studies and neuro-inspired modeling of recurrent nets.",
+                    "typical_examples": "recurrent neural networks; neuroscience-inspired modeling; theoretical analysis",
+                    "cluster": "cluster_17"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Reinforcement Learning & Embodied Intelligence",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "Core & Offline Reinforcement Learning",
+                    "what_is_covered": "Improving sample efficiency and offline policy learning in RL.",
+                    "typical_examples": "Reinforcement Learning; Offline Learning; Sample Efficiency",
+                    "cluster": "cluster_29"
+                },
+                {
+                    "id": "7.2",
+                    "name": "Multi-Agent & Dialogue RL",
+                    "what_is_covered": "Learning cooperation, competition or dialogue among multiple agents.",
+                    "typical_examples": "multi-agent reinforcement learning; bandit algorithms; game-theoretic learning; dialogue systems; multi-agent collaboration; reinforcement learning",
+                    "cluster": "cluster_28, cluster_26"
+                },
+                {
+                    "id": "7.3",
+                    "name": "Embodied AI & Robotics",
+                    "what_is_covered": "Training embodied agents and robots via differentiable simulation and manipulation tasks.",
+                    "typical_examples": "Embodied AI; Robotic manipulation; Differentiable simulation",
+                    "cluster": "cluster_27"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Multimodal Perception & Reasoning",
+            "subcategories": [
+                {
+                    "id": "8.1",
+                    "name": "Vision-Language & Knowledge Reasoning",
+                    "what_is_covered": "Joint reasoning across vision and language plus knowledge graphs.",
+                    "typical_examples": "vision-language reasoning; knowledge graph learning; compositional generalization",
+                    "cluster": "cluster_11"
+                },
+                {
+                    "id": "8.2",
+                    "name": "Video Understanding & 3-D Perception",
+                    "what_is_covered": "Temporal and 3-D understanding of videos and dynamic scenes.",
+                    "typical_examples": "Video understanding; Temporal modeling; 3D perception",
+                    "cluster": "cluster_13"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Scientific & Symbolic Machine Learning",
+            "subcategories": [
+                {
+                    "id": "9.1",
+                    "name": "Physics & Differential Equation-guided Learning",
+                    "what_is_covered": "Learning operators governed by physical laws and differential equations.",
+                    "typical_examples": "Neural differential equations; Physics-informed operator learning; Spatiotemporal forecasting",
+                    "cluster": "cluster_23"
+                },
+                {
+                    "id": "9.2",
+                    "name": "Program Synthesis & Automated Reasoning",
+                    "what_is_covered": "Automatically generating code or formal proofs from specifications.",
+                    "typical_examples": "Program synthesis; Code generation; Theorem proving",
+                    "cluster": "cluster_22"
+                },
+                {
+                    "id": "9.3",
+                    "name": "Combinatorial, Causal & Bayesian Optimization",
+                    "what_is_covered": "Optimization over discrete structures, causal questions or Bayesian objectives.",
+                    "typical_examples": "Combinatorial optimization; Causal inference; Bayesian optimization",
+                    "cluster": "cluster_25"
+                }
+            ]
+        }
+    ]
+}

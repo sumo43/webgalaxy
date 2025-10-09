@@ -1,0 +1,4080 @@
+{
+  "record_count": 37044,
+  "cluster_count": 210,
+  "cluster_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "position_bounds": {
+    "min": [
+      -2.9968461990356445,
+      -0.7027631402015686,
+      2.6726150512695312
+    ],
+    "max": [
+      13.720005989074707,
+      6.080604076385498,
+      9.906087875366211
+    ]
+  },
+  "binary_layout": {
+    "header_little_endian_uint32": [
+      "record_count",
+      "cluster_component_bytes",
+      "paper_id_length_component_bytes",
+      "positions_offset",
+      "clusters_offset",
+      "paper_id_offsets_offset",
+      "paper_id_lengths_offset",
+      "paper_id_data_offset",
+      "paper_id_data_length"
+    ],
+    "position_dtype": "float32",
+    "cluster_dtype": "uint16",
+    "paper_id_offset_dtype": "uint32",
+    "paper_id_length_dtype": "uint16"
+  },
+  "paper_id_data_length": 732479,
+  "clusters": [
+    {
+      "cluster_id": 21,
+      "domain": "cvpr",
+      "domain_cluster_index": 21,
+      "center": [
+        -0.4945761263370514,
+        5.238925457000732,
+        7.2925004959106445
+      ],
+      "radius": 0.39416888522485777,
+      "paper_count": 712,
+      "eligible_for_sphere": true,
+      "summary": "image video restoration, neural compression, diffusion models"
+    },
+    {
+      "cluster_id": 14,
+      "domain": "cvpr",
+      "domain_cluster_index": 14,
+      "center": [
+        0.3290976881980896,
+        1.9964998960494995,
+        8.815057754516602
+      ],
+      "radius": 0.3534986527095462,
+      "paper_count": 361,
+      "eligible_for_sphere": true,
+      "summary": "Embodied navigation, 3D vision-language grounding, Scene graph generation"
+    },
+    {
+      "cluster_id": 0,
+      "domain": "cvpr",
+      "domain_cluster_index": 0,
+      "center": [
+        -0.5677515268325806,
+        3.3289387226104736,
+        4.465029239654541
+      ],
+      "radius": 0.37902988120483705,
+      "paper_count": 553,
+      "eligible_for_sphere": true,
+      "summary": "Adversarial robustness, Federated learning, Deepfake detection"
+    },
+    {
+      "cluster_id": 11,
+      "domain": "cvpr",
+      "domain_cluster_index": 11,
+      "center": [
+        -1.2111032009124756,
+        1.4212663173675537,
+        6.717225551605225
+      ],
+      "radius": 0.3567252365163945,
+      "paper_count": 381,
+      "eligible_for_sphere": true,
+      "summary": "Multimodal Large Language Models, Visual Grounding & Reasoning, Benchmark Datasets"
+    },
+    {
+      "cluster_id": 27,
+      "domain": "cvpr",
+      "domain_cluster_index": 27,
+      "center": [
+        -0.4409482479095459,
+        5.635707855224609,
+        8.260157585144043
+      ],
+      "radius": 0.34380598697841447,
+      "paper_count": 307,
+      "eligible_for_sphere": true,
+      "summary": "Event-based vision, Computational imaging, Depth HDR reconstruction"
+    },
+    {
+      "cluster_id": 18,
+      "domain": "cvpr",
+      "domain_cluster_index": 18,
+      "center": [
+        0.2377035766839981,
+        4.033178806304932,
+        6.890856742858887
+      ],
+      "radius": 0.3813664596417535,
+      "paper_count": 575,
+      "eligible_for_sphere": true,
+      "summary": "Generative Adversarial Networks, Image Inpainting & Translation, Disentangled Representation"
+    },
+    {
+      "cluster_id": 20,
+      "domain": "cvpr",
+      "domain_cluster_index": 20,
+      "center": [
+        -0.65289705991745,
+        4.775633335113525,
+        8.865726470947266
+      ],
+      "radius": 0.3434151061171428,
+      "paper_count": 305,
+      "eligible_for_sphere": true,
+      "summary": "correspondence, registration, optical flow"
+    },
+    {
+      "cluster_id": 6,
+      "domain": "cvpr",
+      "domain_cluster_index": 6,
+      "center": [
+        -0.620761513710022,
+        2.7868897914886475,
+        6.8476762771606445
+      ],
+      "radius": 0.3288383354005195,
+      "paper_count": 239,
+      "eligible_for_sphere": true,
+      "summary": "Person Re-Identification, Domain Generalization, Large-scale Datasets"
+    },
+    {
+      "cluster_id": 8,
+      "domain": "cvpr",
+      "domain_cluster_index": 8,
+      "center": [
+        -1.6420749425888062,
+        2.1700940132141113,
+        6.440132141113281
+      ],
+      "radius": 0.37913808682478606,
+      "paper_count": 554,
+      "eligible_for_sphere": true,
+      "summary": "vision-language pretraining, zero-shot learning, cross-modal retrieval"
+    },
+    {
+      "cluster_id": 24,
+      "domain": "cvpr",
+      "domain_cluster_index": 24,
+      "center": [
+        -0.6137341856956482,
+        4.361094951629639,
+        9.469021797180176
+      ],
+      "radius": 0.33568268277611035,
+      "paper_count": 268,
+      "eligible_for_sphere": true,
+      "summary": "6D pose estimation, visual localization, equivariant features"
+    },
+    {
+      "cluster_id": 15,
+      "domain": "cvpr",
+      "domain_cluster_index": 15,
+      "center": [
+        -0.3917069137096405,
+        2.044968366622925,
+        7.597561836242676
+      ],
+      "radius": 0.3109070130175251,
+      "paper_count": 177,
+      "eligible_for_sphere": true,
+      "summary": "Audio-visual learning, Sign language processing, Gaze estimation"
+    },
+    {
+      "cluster_id": 7,
+      "domain": "cvpr",
+      "domain_cluster_index": 7,
+      "center": [
+        -1.6575337648391724,
+        3.3630869388580322,
+        6.713436603546143
+      ],
+      "radius": 0.3567252365163945,
+      "paper_count": 381,
+      "eligible_for_sphere": true,
+      "summary": "Semi-supervised segmentation, Pseudo-label consistency, Medical image analysis"
+    },
+    {
+      "cluster_id": 10,
+      "domain": "cvpr",
+      "domain_cluster_index": 10,
+      "center": [
+        -1.7923299074172974,
+        3.2998344898223877,
+        7.227977752685547
+      ],
+      "radius": 0.3820912311810295,
+      "paper_count": 582,
+      "eligible_for_sphere": true,
+      "summary": "object detection, semantic segmentation, self-supervised learning"
+    },
+    {
+      "cluster_id": 22,
+      "domain": "cvpr",
+      "domain_cluster_index": 22,
+      "center": [
+        0.39617398381233215,
+        3.2706825733184814,
+        8.919981002807617
+      ],
+      "radius": 0.38063282604757986,
+      "paper_count": 568,
+      "eligible_for_sphere": true,
+      "summary": "3D human pose estimation, human-object interaction, transformer-based motion generation"
+    },
+    {
+      "cluster_id": 3,
+      "domain": "cvpr",
+      "domain_cluster_index": 3,
+      "center": [
+        -2.6375632286071777,
+        3.2190122604370117,
+        6.372281074523926
+      ],
+      "radius": 0.3432187065964447,
+      "paper_count": 304,
+      "eligible_for_sphere": true,
+      "summary": "Domain Adaptation, Domain Generalization, Test-Time Adaptation"
+    },
+    {
+      "cluster_id": 28,
+      "domain": "cvpr",
+      "domain_cluster_index": 28,
+      "center": [
+        0.9756991267204285,
+        4.321170806884766,
+        8.335428237915039
+      ],
+      "radius": 0.36255797002094287,
+      "paper_count": 420,
+      "eligible_for_sphere": true,
+      "summary": "3D human avatars, neural rendering, pose-driven animation"
+    },
+    {
+      "cluster_id": 25,
+      "domain": "cvpr",
+      "domain_cluster_index": 25,
+      "center": [
+        0.42465779185295105,
+        4.476593017578125,
+        8.634293556213379
+      ],
+      "radius": 0.3719087229895385,
+      "paper_count": 491,
+      "eligible_for_sphere": true,
+      "summary": "3D scene generation, neural radiance fields, diffusion models"
+    },
+    {
+      "cluster_id": 17,
+      "domain": "cvpr",
+      "domain_cluster_index": 17,
+      "center": [
+        -0.6425936222076416,
+        3.0596518516540527,
+        9.309598922729492
+      ],
+      "radius": 0.32782990830153663,
+      "paper_count": 235,
+      "eligible_for_sphere": true,
+      "summary": "Trajectory prediction, HD-map lane generation, Data-driven traffic simulation"
+    },
+    {
+      "cluster_id": 16,
+      "domain": "cvpr",
+      "domain_cluster_index": 16,
+      "center": [
+        -1.113656997680664,
+        3.969494581222534,
+        8.768497467041016
+      ],
+      "radius": 0.37453339592730994,
+      "paper_count": 513,
+      "eligible_for_sphere": true,
+      "summary": "LiDAR point clouds, 3D object detection, semantic segmentation"
+    },
+    {
+      "cluster_id": 23,
+      "domain": "cvpr",
+      "domain_cluster_index": 23,
+      "center": [
+        0.6004489064216614,
+        4.099236965179443,
+        7.369131565093994
+      ],
+      "radius": 0.3778265591960361,
+      "paper_count": 542,
+      "eligible_for_sphere": true,
+      "summary": "Neural Style Transfer, Diffusion-based Image Video Generation, Controllable Generative Editing"
+    },
+    {
+      "cluster_id": 9,
+      "domain": "cvpr",
+      "domain_cluster_index": 9,
+      "center": [
+        -1.2343766689300537,
+        3.9121148586273193,
+        5.876072883605957
+      ],
+      "radius": 0.3575054815817869,
+      "paper_count": 386,
+      "eligible_for_sphere": true,
+      "summary": "Efficient Vision Transformers, Neural Architecture Compression, Sparse Quantized NAS"
+    },
+    {
+      "cluster_id": 12,
+      "domain": "cvpr",
+      "domain_cluster_index": 12,
+      "center": [
+        -1.0525660514831543,
+        2.1034181118011475,
+        7.76722526550293
+      ],
+      "radius": 0.38073818164971573,
+      "paper_count": 569,
+      "eligible_for_sphere": true,
+      "summary": "temporal action localization, video representation learning, multimodal reasoning"
+    },
+    {
+      "cluster_id": 26,
+      "domain": "cvpr",
+      "domain_cluster_index": 26,
+      "center": [
+        -0.6346573829650879,
+        5.058403015136719,
+        8.929011344909668
+      ],
+      "radius": 0.33722405194302896,
+      "paper_count": 275,
+      "eligible_for_sphere": true,
+      "summary": "Depth Estimation, Stereo Matching, 3D Reconstruction"
+    },
+    {
+      "cluster_id": 29,
+      "domain": "cvpr",
+      "domain_cluster_index": 29,
+      "center": [
+        0.3998332917690277,
+        5.200626373291016,
+        8.899300575256348
+      ],
+      "radius": 0.38889462775658584,
+      "paper_count": 652,
+      "eligible_for_sphere": true,
+      "summary": "Neural Radiance Fields, 3D Gaussian Splatting, Dynamic Scene Reconstruction"
+    },
+    {
+      "cluster_id": 2,
+      "domain": "cvpr",
+      "domain_cluster_index": 2,
+      "center": [
+        -1.509583592414856,
+        3.092937707901001,
+        5.205399036407471
+      ],
+      "radius": 0.3507863265034634,
+      "paper_count": 345,
+      "eligible_for_sphere": true,
+      "summary": "adversarial robustness, long-tailed recognition, out-of-distribution detection"
+    },
+    {
+      "cluster_id": 5,
+      "domain": "cvpr",
+      "domain_cluster_index": 5,
+      "center": [
+        -2.518897533416748,
+        2.3172383308410645,
+        7.877564430236816
+      ],
+      "radius": 0.27065157039101095,
+      "paper_count": 90,
+      "eligible_for_sphere": true,
+      "summary": "Anomaly Detection, Self-Supervised Learning, Multimodal Vision"
+    },
+    {
+      "cluster_id": 19,
+      "domain": "cvpr",
+      "domain_cluster_index": 19,
+      "center": [
+        0.5367573499679565,
+        5.440354347229004,
+        7.49401330947876
+      ],
+      "radius": 0.18546254720149896,
+      "paper_count": 21,
+      "eligible_for_sphere": true,
+      "summary": "Image-Video Matting, Trimap Mask Guidance, Transformer-Based Models"
+    },
+    {
+      "cluster_id": 1,
+      "domain": "cvpr",
+      "domain_cluster_index": 1,
+      "center": [
+        -2.676393985748291,
+        2.3722240924835205,
+        5.813654899597168
+      ],
+      "radius": 0.33364089786093165,
+      "paper_count": 259,
+      "eligible_for_sphere": true,
+      "summary": "few-shot learning, continual learning, object detection"
+    },
+    {
+      "cluster_id": 4,
+      "domain": "cvpr",
+      "domain_cluster_index": 4,
+      "center": [
+        -1.2107958793640137,
+        3.0233829021453857,
+        5.423757553100586
+      ],
+      "radius": 0.3618411156156758,
+      "paper_count": 415,
+      "eligible_for_sphere": true,
+      "summary": "representation learning, knowledge distillation, explainability"
+    },
+    {
+      "cluster_id": 13,
+      "domain": "cvpr",
+      "domain_cluster_index": 13,
+      "center": [
+        -1.953784465789795,
+        3.6007025241851807,
+        8.180286407470703
+      ],
+      "radius": 0.31450482090357856,
+      "paper_count": 188,
+      "eligible_for_sphere": true,
+      "summary": "Object Tracking, Transformer Models, UAV Surveillance"
+    },
+    {
+      "cluster_id": 35,
+      "domain": "robotics",
+      "domain_cluster_index": 5,
+      "center": [
+        1.888450026512146,
+        2.0914900302886963,
+        9.131192207336426
+      ],
+      "radius": 0.24665243185039867,
+      "paper_count": 60,
+      "eligible_for_sphere": true,
+      "summary": "Safe Reinforcement Learning, Control Barrier Functions, Reachability Analysis"
+    },
+    {
+      "cluster_id": 50,
+      "domain": "robotics",
+      "domain_cluster_index": 20,
+      "center": [
+        1.5332368612289429,
+        2.3529248237609863,
+        9.43404483795166
+      ],
+      "radius": 0.2382175148131273,
+      "paper_count": 52,
+      "eligible_for_sphere": true,
+      "summary": "Deformable object manipulation, Learning-based dynamics modeling, Particle-based 3D representations"
+    },
+    {
+      "cluster_id": 56,
+      "domain": "robotics",
+      "domain_cluster_index": 26,
+      "center": [
+        1.2510721683502197,
+        2.2902305126190186,
+        9.72956657409668
+      ],
+      "radius": 0.2150111363073666,
+      "paper_count": 35,
+      "eligible_for_sphere": true,
+      "summary": "6-DoF grasping, equivariant neural representations, sim-to-real transfer"
+    },
+    {
+      "cluster_id": 39,
+      "domain": "robotics",
+      "domain_cluster_index": 9,
+      "center": [
+        1.9103814363479614,
+        2.217571258544922,
+        9.288432121276855
+      ],
+      "radius": 0.18812965295574896,
+      "paper_count": 22,
+      "eligible_for_sphere": true,
+      "summary": "Learning-based terrain traversability, Proprioceptive state estimation, Off-road robot navigation"
+    },
+    {
+      "cluster_id": 47,
+      "domain": "robotics",
+      "domain_cluster_index": 17,
+      "center": [
+        1.5875585079193115,
+        1.9354711771011353,
+        9.46448802947998
+      ],
+      "radius": 0.2335092178866376,
+      "paper_count": 48,
+      "eligible_for_sphere": true,
+      "summary": "TAMP, skill-hierarchy, long-horizon-manipulation"
+    },
+    {
+      "cluster_id": 54,
+      "domain": "robotics",
+      "domain_cluster_index": 24,
+      "center": [
+        1.6719557046890259,
+        1.6731945276260376,
+        9.445131301879883
+      ],
+      "radius": 0.21825516958358313,
+      "paper_count": 37,
+      "eligible_for_sphere": true,
+      "summary": "imitation learning, robotic manipulation, data efficiency"
+    },
+    {
+      "cluster_id": 31,
+      "domain": "robotics",
+      "domain_cluster_index": 1,
+      "center": [
+        -0.06515330076217651,
+        2.8699164390563965,
+        9.2318696975708
+      ],
+      "radius": 0.2531704623105664,
+      "paper_count": 67,
+      "eligible_for_sphere": true,
+      "summary": "Trajectory prediction, Safety-critical scenario generation, Autonomous driving simulation"
+    },
+    {
+      "cluster_id": 30,
+      "domain": "robotics",
+      "domain_cluster_index": 0,
+      "center": [
+        -1.4464740753173828,
+        3.921612501144409,
+        8.97391128540039
+      ],
+      "radius": 0.21158163147696968,
+      "paper_count": 33,
+      "eligible_for_sphere": true,
+      "summary": "3D object detection, multi-sensor fusion, autonomous driving"
+    },
+    {
+      "cluster_id": 55,
+      "domain": "robotics",
+      "domain_cluster_index": 25,
+      "center": [
+        1.3323497772216797,
+        2.3497016429901123,
+        9.507416725158691
+      ],
+      "radius": 0.24152110144410896,
+      "paper_count": 55,
+      "eligible_for_sphere": true,
+      "summary": "Tactile sensing, Multimodal perception, Contact-rich manipulation"
+    },
+    {
+      "cluster_id": 53,
+      "domain": "robotics",
+      "domain_cluster_index": 23,
+      "center": [
+        1.5443925857543945,
+        2.0631115436553955,
+        9.626718521118164
+      ],
+      "radius": 0.21825516958358313,
+      "paper_count": 37,
+      "eligible_for_sphere": true,
+      "summary": "Dexterous manipulation, Learning-based control, Sim-to-real transfer"
+    },
+    {
+      "cluster_id": 43,
+      "domain": "robotics",
+      "domain_cluster_index": 13,
+      "center": [
+        2.026686906814575,
+        2.1496801376342773,
+        9.408434867858887
+      ],
+      "radius": 0.24465224663434318,
+      "paper_count": 58,
+      "eligible_for_sphere": true,
+      "summary": "Legged locomotion, Reinforcement learning, Sim-to-real transfer"
+    },
+    {
+      "cluster_id": 51,
+      "domain": "robotics",
+      "domain_cluster_index": 21,
+      "center": [
+        1.8164057731628418,
+        1.6399681568145752,
+        9.189770698547363
+      ],
+      "radius": 0.22839974938621918,
+      "paper_count": 44,
+      "eligible_for_sphere": true,
+      "summary": "Offline Reinforcement Learning, Robotic Skill Learning, Continual Adaptation"
+    },
+    {
+      "cluster_id": 42,
+      "domain": "robotics",
+      "domain_cluster_index": 12,
+      "center": [
+        1.3973866701126099,
+        1.7502630949020386,
+        9.308084487915039
+      ],
+      "radius": 0.19548579228128893,
+      "paper_count": 25,
+      "eligible_for_sphere": true,
+      "summary": "interactive robot learning, assistive feeding, user preference adaptation"
+    },
+    {
+      "cluster_id": 44,
+      "domain": "robotics",
+      "domain_cluster_index": 14,
+      "center": [
+        1.6075741052627563,
+        2.047893524169922,
+        9.343984603881836
+      ],
+      "radius": 0.21158163147696968,
+      "paper_count": 33,
+      "eligible_for_sphere": true,
+      "summary": "Deep Reinforcement Learning, Sim-to-Real Transfer, Robust Robot Control"
+    },
+    {
+      "cluster_id": 48,
+      "domain": "robotics",
+      "domain_cluster_index": 18,
+      "center": [
+        1.6427370309829712,
+        1.755458950996399,
+        9.273719787597656
+      ],
+      "radius": 0.22839974938621918,
+      "paper_count": 44,
+      "eligible_for_sphere": true,
+      "summary": "robotic reinforcement learning, skill-based manipulation, sample-efficient learning"
+    },
+    {
+      "cluster_id": 45,
+      "domain": "robotics",
+      "domain_cluster_index": 15,
+      "center": [
+        1.051395058631897,
+        1.7114886045455933,
+        9.295917510986328
+      ],
+      "radius": 0.2504632361937382,
+      "paper_count": 64,
+      "eligible_for_sphere": true,
+      "summary": "Language-conditioned manipulation, Vision-language-action models, 3D scene grounding"
+    },
+    {
+      "cluster_id": 49,
+      "domain": "robotics",
+      "domain_cluster_index": 19,
+      "center": [
+        1.1008427143096924,
+        2.0160562992095947,
+        9.326238632202148
+      ],
+      "radius": 0.23933904279385645,
+      "paper_count": 53,
+      "eligible_for_sphere": true,
+      "summary": "Vision-based manipulation, Object-centric scene representations, Affordance-driven rearrangement"
+    },
+    {
+      "cluster_id": 38,
+      "domain": "robotics",
+      "domain_cluster_index": 8,
+      "center": [
+        1.495585322380066,
+        1.8530973196029663,
+        9.355611801147461
+      ],
+      "radius": 0.22133276724683618,
+      "paper_count": 39,
+      "eligible_for_sphere": true,
+      "summary": "human-robot collaboration, interactive learning, proactive assistance"
+    },
+    {
+      "cluster_id": 40,
+      "domain": "robotics",
+      "domain_cluster_index": 10,
+      "center": [
+        1.7343026399612427,
+        2.322537660598755,
+        9.296550750732422
+      ],
+      "radius": 0.23590953796345954,
+      "paper_count": 50,
+      "eligible_for_sphere": true,
+      "summary": "Motion planning, Manifold geometry, Learning-based optimization"
+    },
+    {
+      "cluster_id": 34,
+      "domain": "robotics",
+      "domain_cluster_index": 4,
+      "center": [
+        1.9033557176589966,
+        2.303140878677368,
+        9.127081871032715
+      ],
+      "radius": 0.20603923226910878,
+      "paper_count": 30,
+      "eligible_for_sphere": true,
+      "summary": "quadrotor control, learning-based model predictive control, agile flight"
+    },
+    {
+      "cluster_id": 33,
+      "domain": "robotics",
+      "domain_cluster_index": 3,
+      "center": [
+        1.4131832122802734,
+        2.12455153465271,
+        9.105822563171387
+      ],
+      "radius": 0.2310088561026035,
+      "paper_count": 46,
+      "eligible_for_sphere": true,
+      "summary": "Multi-robot exploration, Uncertainty modeling, Risk-aware planning"
+    },
+    {
+      "cluster_id": 37,
+      "domain": "robotics",
+      "domain_cluster_index": 7,
+      "center": [
+        1.2391029596328735,
+        1.879231572151184,
+        9.025304794311523
+      ],
+      "radius": 0.17342230547376986,
+      "paper_count": 17,
+      "eligible_for_sphere": true,
+      "summary": "Mapless navigation, Semantic-topological memory, Deep learning exploration"
+    },
+    {
+      "cluster_id": 36,
+      "domain": "robotics",
+      "domain_cluster_index": 6,
+      "center": [
+        -0.6524693369865417,
+        4.492237567901611,
+        9.619751930236816
+      ],
+      "radius": 0.22133276724683618,
+      "paper_count": 39,
+      "eligible_for_sphere": true,
+      "summary": "Pose Estimation, SLAM Mapping, Point Cloud Registration"
+    },
+    {
+      "cluster_id": 32,
+      "domain": "robotics",
+      "domain_cluster_index": 2,
+      "center": [
+        -0.13170640170574188,
+        4.706013202667236,
+        9.402822494506836
+      ],
+      "radius": 0.19068322982087674,
+      "paper_count": 23,
+      "eligible_for_sphere": true,
+      "summary": "state-estimation, learning-based-SLAM, implicit-3D-mapping"
+    },
+    {
+      "cluster_id": 52,
+      "domain": "robotics",
+      "domain_cluster_index": 22,
+      "center": [
+        1.4795418977737427,
+        1.698556661605835,
+        9.47885513305664
+      ],
+      "radius": 0.21665507475865345,
+      "paper_count": 36,
+      "eligible_for_sphere": true,
+      "summary": "large-scale robotic datasets, simulation environments, cross-embodiment learning"
+    },
+    {
+      "cluster_id": 41,
+      "domain": "robotics",
+      "domain_cluster_index": 11,
+      "center": [
+        0.7740366458892822,
+        1.663818120956421,
+        8.961723327636719
+      ],
+      "radius": 0.24362658063278514,
+      "paper_count": 57,
+      "eligible_for_sphere": true,
+      "summary": "LLM-robotics integration, open-vocabulary scene mapping, language-driven task planning"
+    },
+    {
+      "cluster_id": 59,
+      "domain": "robotics",
+      "domain_cluster_index": 29,
+      "center": [
+        1.4856703281402588,
+        1.783828854560852,
+        9.518080711364746
+      ],
+      "radius": 0.20603923226910878,
+      "paper_count": 30,
+      "eligible_for_sphere": true,
+      "summary": "Diffusion Policies, Equivariant Learning, Robotic Manipulation"
+    },
+    {
+      "cluster_id": 46,
+      "domain": "robotics",
+      "domain_cluster_index": 16,
+      "center": [
+        1.873321294784546,
+        2.356332540512085,
+        9.441100120544434
+      ],
+      "radius": 0.21981369876777876,
+      "paper_count": 38,
+      "eligible_for_sphere": true,
+      "summary": "robot co-design, differentiable simulation, soft robotics"
+    },
+    {
+      "cluster_id": 58,
+      "domain": "robotics",
+      "domain_cluster_index": 28,
+      "center": [
+        1.5679607391357422,
+        1.9628528356552124,
+        9.650848388671875
+      ],
+      "radius": 0.1766663387499864,
+      "paper_count": 18,
+      "eligible_for_sphere": true,
+      "summary": "teleoperation, dexterous manipulation, low-cost open-source robotics"
+    },
+    {
+      "cluster_id": 68,
+      "domain": "iclr",
+      "domain_cluster_index": 8,
+      "center": [
+        1.4976301193237305,
+        3.0244412422180176,
+        3.8693509101867676
+      ],
+      "radius": 0.3715417493684923,
+      "paper_count": 488,
+      "eligible_for_sphere": true,
+      "summary": "Network pruning, Low-precision quantization, Efficient architecture search"
+    },
+    {
+      "cluster_id": 66,
+      "domain": "iclr",
+      "domain_cluster_index": 6,
+      "center": [
+        1.3841617107391357,
+        2.6753671169281006,
+        4.60615873336792
+      ],
+      "radius": 0.3568820993508387,
+      "paper_count": 382,
+      "eligible_for_sphere": true,
+      "summary": "contrastive learning, disentangled representations, clustering"
+    },
+    {
+      "cluster_id": 73,
+      "domain": "iclr",
+      "domain_cluster_index": 13,
+      "center": [
+        1.693350911140442,
+        2.3472907543182373,
+        5.49685525894165
+      ],
+      "radius": 0.33700626585999427,
+      "paper_count": 274,
+      "eligible_for_sphere": true,
+      "summary": "Video understanding, Temporal modeling, 3D perception"
+    },
+    {
+      "cluster_id": 70,
+      "domain": "iclr",
+      "domain_cluster_index": 10,
+      "center": [
+        0.7824802398681641,
+        2.864110231399536,
+        3.856536865234375
+      ],
+      "radius": 0.3507863265034634,
+      "paper_count": 345,
+      "eligible_for_sphere": true,
+      "summary": "adversarial robustness, backdoor attacks, model security"
+    },
+    {
+      "cluster_id": 64,
+      "domain": "iclr",
+      "domain_cluster_index": 4,
+      "center": [
+        0.8924734592437744,
+        2.6554932594299316,
+        4.00461483001709
+      ],
+      "radius": 0.34262562104249217,
+      "paper_count": 301,
+      "eligible_for_sphere": true,
+      "summary": "robustness, knowledge distillation, distribution shift"
+    },
+    {
+      "cluster_id": 60,
+      "domain": "iclr",
+      "domain_cluster_index": 0,
+      "center": [
+        1.2455251216888428,
+        2.7459309101104736,
+        4.268082141876221
+      ],
+      "radius": 0.3320033693236512,
+      "paper_count": 252,
+      "eligible_for_sphere": true,
+      "summary": "Continual Learning, Few-Shot Learning, Domain Adaptation"
+    },
+    {
+      "cluster_id": 80,
+      "domain": "iclr",
+      "domain_cluster_index": 20,
+      "center": [
+        2.4386422634124756,
+        2.0677921772003174,
+        3.222040891647339
+      ],
+      "radius": 0.35963768563839416,
+      "paper_count": 400,
+      "eligible_for_sphere": true,
+      "summary": "Graph Neural Networks, Expressivity, Robustness"
+    },
+    {
+      "cluster_id": 74,
+      "domain": "iclr",
+      "domain_cluster_index": 14,
+      "center": [
+        1.439333438873291,
+        2.5775935649871826,
+        4.030226230621338
+      ],
+      "radius": 0.3468446109475397,
+      "paper_count": 323,
+      "eligible_for_sphere": true,
+      "summary": "uncertainty estimation, conformal prediction, model interpretability"
+    },
+    {
+      "cluster_id": 62,
+      "domain": "iclr",
+      "domain_cluster_index": 2,
+      "center": [
+        0.9281530976295471,
+        2.158968687057495,
+        5.442423343658447
+      ],
+      "radius": 0.28774743273580444,
+      "paper_count": 120,
+      "eligible_for_sphere": true,
+      "summary": "text-to-speech, audio-visual, diffusion"
+    },
+    {
+      "cluster_id": 84,
+      "domain": "iclr",
+      "domain_cluster_index": 24,
+      "center": [
+        1.361158847808838,
+        3.0471858978271484,
+        2.9509432315826416
+      ],
+      "radius": 0.32576073773726644,
+      "paper_count": 227,
+      "eligible_for_sphere": true,
+      "summary": "Federated learning, Differential privacy, Robust optimization"
+    },
+    {
+      "cluster_id": 61,
+      "domain": "iclr",
+      "domain_cluster_index": 1,
+      "center": [
+        1.6308820247650146,
+        3.1838841438293457,
+        5.195337295532227
+      ],
+      "radius": 0.3609694295819012,
+      "paper_count": 409,
+      "eligible_for_sphere": true,
+      "summary": "Generative modeling, Image synthesis editing, Diffusion-based methods"
+    },
+    {
+      "cluster_id": 77,
+      "domain": "iclr",
+      "domain_cluster_index": 17,
+      "center": [
+        2.331059217453003,
+        2.3709986209869385,
+        4.287782669067383
+      ],
+      "radius": 0.3334096837019722,
+      "paper_count": 258,
+      "eligible_for_sphere": true,
+      "summary": "recurrent neural networks, neuroscience-inspired modeling, theoretical analysis"
+    },
+    {
+      "cluster_id": 83,
+      "domain": "iclr",
+      "domain_cluster_index": 23,
+      "center": [
+        2.9405176639556885,
+        2.868170738220215,
+        4.43208122253418
+      ],
+      "radius": 0.34721384288200247,
+      "paper_count": 325,
+      "eligible_for_sphere": true,
+      "summary": "Neural differential equations, Physics-informed operator learning, Spatiotemporal forecasting"
+    },
+    {
+      "cluster_id": 69,
+      "domain": "iclr",
+      "domain_cluster_index": 9,
+      "center": [
+        1.9777705669403076,
+        2.87992787361145,
+        5.492047309875488
+      ],
+      "radius": 0.34162392832816196,
+      "paper_count": 296,
+      "eligible_for_sphere": true,
+      "summary": "3D shape generation, neural implicit representations, point cloud reconstruction"
+    },
+    {
+      "cluster_id": 71,
+      "domain": "iclr",
+      "domain_cluster_index": 11,
+      "center": [
+        1.3465009927749634,
+        1.9037023782730103,
+        4.885777950286865
+      ],
+      "radius": 0.3524958438511218,
+      "paper_count": 355,
+      "eligible_for_sphere": true,
+      "summary": "vision-language reasoning, knowledge graph learning, compositional generalization"
+    },
+    {
+      "cluster_id": 89,
+      "domain": "iclr",
+      "domain_cluster_index": 29,
+      "center": [
+        2.946204423904419,
+        1.393017053604126,
+        5.340297698974609
+      ],
+      "radius": 0.3994035914507035,
+      "paper_count": 777,
+      "eligible_for_sphere": true,
+      "summary": "Reinforcement Learning, Offline Learning, Sample Efficiency"
+    },
+    {
+      "cluster_id": 67,
+      "domain": "iclr",
+      "domain_cluster_index": 7,
+      "center": [
+        0.9531480669975281,
+        1.499642014503479,
+        3.994009256362915
+      ],
+      "radius": 0.370676646843036,
+      "paper_count": 481,
+      "eligible_for_sphere": true,
+      "summary": "Efficient-transformer-architectures, parameter-efficient-fine-tuning, multilingual-adaptation"
+    },
+    {
+      "cluster_id": 82,
+      "domain": "iclr",
+      "domain_cluster_index": 22,
+      "center": [
+        1.1108036041259766,
+        0.8598762154579163,
+        4.640048503875732
+      ],
+      "radius": 0.36561418620270814,
+      "paper_count": 442,
+      "eligible_for_sphere": true,
+      "summary": "Program synthesis, Code generation, Theorem proving"
+    },
+    {
+      "cluster_id": 75,
+      "domain": "iclr",
+      "domain_cluster_index": 15,
+      "center": [
+        1.0371567010879517,
+        1.20197594165802,
+        4.379538536071777
+      ],
+      "radius": 0.3734735057565216,
+      "paper_count": 504,
+      "eligible_for_sphere": true,
+      "summary": "language-modeling, retrieval-augmentation, representation-learning"
+    },
+    {
+      "cluster_id": 72,
+      "domain": "iclr",
+      "domain_cluster_index": 12,
+      "center": [
+        2.246567726135254,
+        2.885192394256592,
+        4.13645601272583
+      ],
+      "radius": 0.33247581270950555,
+      "paper_count": 254,
+      "eligible_for_sphere": true,
+      "summary": "equivariant neural networks, group symmetry, geometric deep learning"
+    },
+    {
+      "cluster_id": 88,
+      "domain": "iclr",
+      "domain_cluster_index": 28,
+      "center": [
+        3.0442070960998535,
+        1.5682132244110107,
+        4.543018341064453
+      ],
+      "radius": 0.3045104289140296,
+      "paper_count": 159,
+      "eligible_for_sphere": true,
+      "summary": "multi-agent reinforcement learning, bandit algorithms, game-theoretic learning"
+    },
+    {
+      "cluster_id": 86,
+      "domain": "iclr",
+      "domain_cluster_index": 26,
+      "center": [
+        1.7037122249603271,
+        1.138809323310852,
+        4.833572864532471
+      ],
+      "radius": 0.32576073773726644,
+      "paper_count": 227,
+      "eligible_for_sphere": true,
+      "summary": "dialogue systems, multi-agent collaboration, reinforcement learning"
+    },
+    {
+      "cluster_id": 63,
+      "domain": "iclr",
+      "domain_cluster_index": 3,
+      "center": [
+        2.1929147243499756,
+        3.278785228729248,
+        4.539120674133301
+      ],
+      "radius": 0.3514759892690075,
+      "paper_count": 349,
+      "eligible_for_sphere": true,
+      "summary": "Generative Modeling, Optimal Transport, Diffusion Models"
+    },
+    {
+      "cluster_id": 85,
+      "domain": "iclr",
+      "domain_cluster_index": 25,
+      "center": [
+        2.67840313911438,
+        2.1362974643707275,
+        3.9639248847961426
+      ],
+      "radius": 0.32706230721394197,
+      "paper_count": 232,
+      "eligible_for_sphere": true,
+      "summary": "Combinatorial optimization, Causal inference, Bayesian optimization"
+    },
+    {
+      "cluster_id": 78,
+      "domain": "iclr",
+      "domain_cluster_index": 18,
+      "center": [
+        2.2919037342071533,
+        3.054844379425049,
+        3.341891050338745
+      ],
+      "radius": 0.32757513084864953,
+      "paper_count": 234,
+      "eligible_for_sphere": true,
+      "summary": "Nonconvex optimization, Stochastic gradient methods, Convergence analysis"
+    },
+    {
+      "cluster_id": 87,
+      "domain": "iclr",
+      "domain_cluster_index": 27,
+      "center": [
+        2.2512271404266357,
+        1.8069533109664917,
+        5.5381999015808105
+      ],
+      "radius": 0.3222382816876597,
+      "paper_count": 214,
+      "eligible_for_sphere": true,
+      "summary": "Embodied AI, Robotic manipulation, Differentiable simulation"
+    },
+    {
+      "cluster_id": 76,
+      "domain": "iclr",
+      "domain_cluster_index": 16,
+      "center": [
+        3.2101283073425293,
+        1.7059338092803955,
+        3.410789728164673
+      ],
+      "radius": 0.33176574525068536,
+      "paper_count": 251,
+      "eligible_for_sphere": true,
+      "summary": "equivariant GNNs, 3D molecular generation, drug discovery"
+    },
+    {
+      "cluster_id": 65,
+      "domain": "iclr",
+      "domain_cluster_index": 5,
+      "center": [
+        1.0898432731628418,
+        2.260504961013794,
+        4.753526210784912
+      ],
+      "radius": 0.3322400560211122,
+      "paper_count": 253,
+      "eligible_for_sphere": true,
+      "summary": "Vision Transformers, Object Detection, Self-supervised Learning"
+    },
+    {
+      "cluster_id": 81,
+      "domain": "iclr",
+      "domain_cluster_index": 21,
+      "center": [
+        2.034320831298828,
+        1.8485270738601685,
+        4.279704570770264
+      ],
+      "radius": 0.3293362635694012,
+      "paper_count": 241,
+      "eligible_for_sphere": true,
+      "summary": "Sparse_Network_Pruning, Embedding_Compression, Recommendation_Systems"
+    },
+    {
+      "cluster_id": 79,
+      "domain": "iclr",
+      "domain_cluster_index": 19,
+      "center": [
+        0.5709957480430603,
+        1.4425193071365356,
+        4.26234769821167
+      ],
+      "radius": 0.3105689839544297,
+      "paper_count": 176,
+      "eligible_for_sphere": true,
+      "summary": "adversarial robustness, machine unlearning, differential privacy"
+    },
+    {
+      "cluster_id": 116,
+      "domain": "acl",
+      "domain_cluster_index": 26,
+      "center": [
+        -0.5228471755981445,
+        0.9276788830757141,
+        5.163865566253662
+      ],
+      "radius": 0.3109070130175251,
+      "paper_count": 177,
+      "eligible_for_sphere": true,
+      "summary": "social bias, debiasing, fairness evaluation"
+    },
+    {
+      "cluster_id": 112,
+      "domain": "acl",
+      "domain_cluster_index": 22,
+      "center": [
+        -0.7345396876335144,
+        0.7165829539299011,
+        5.783078193664551
+      ],
+      "radius": 0.29983273642584685,
+      "paper_count": 147,
+      "eligible_for_sphere": true,
+      "summary": "sentiment analysis, emotion recognition, argument mining"
+    },
+    {
+      "cluster_id": 104,
+      "domain": "acl",
+      "domain_cluster_index": 14,
+      "center": [
+        -0.8103750944137573,
+        0.39684590697288513,
+        5.905184745788574
+      ],
+      "radius": 0.3095433179528717,
+      "paper_count": 173,
+      "eligible_for_sphere": true,
+      "summary": "Dialogue systems, Response generation, Dialogue state tracking"
+    },
+    {
+      "cluster_id": 115,
+      "domain": "acl",
+      "domain_cluster_index": 25,
+      "center": [
+        -0.2786608934402466,
+        0.712368905544281,
+        5.571932315826416
+      ],
+      "radius": 0.28774743273580444,
+      "paper_count": 120,
+      "eligible_for_sphere": true,
+      "summary": "HateSpeechDetection, EmpatheticDialogue, MultimodalAnalysis"
+    },
+    {
+      "cluster_id": 108,
+      "domain": "acl",
+      "domain_cluster_index": 18,
+      "center": [
+        -0.46769246459007263,
+        0.11409290879964828,
+        5.222718238830566
+      ],
+      "radius": 0.26366694928034634,
+      "paper_count": 80,
+      "eligible_for_sphere": true,
+      "summary": "fact verification, misinformation detection, evidence retrieval"
+    },
+    {
+      "cluster_id": 105,
+      "domain": "acl",
+      "domain_cluster_index": 15,
+      "center": [
+        -0.6613661646842957,
+        1.0911502838134766,
+        5.777560234069824
+      ],
+      "radius": 0.30884966860880714,
+      "paper_count": 171,
+      "eligible_for_sphere": true,
+      "summary": "speech translation, multimodal learning, low-resource speech"
+    },
+    {
+      "cluster_id": 117,
+      "domain": "acl",
+      "domain_cluster_index": 27,
+      "center": [
+        -0.5139942169189453,
+        1.0680691003799438,
+        5.363258361816406
+      ],
+      "radius": 0.24043999111394826,
+      "paper_count": 54,
+      "eligible_for_sphere": true,
+      "summary": "Style transfer, controllable text generation, disentangled representations"
+    },
+    {
+      "cluster_id": 109,
+      "domain": "acl",
+      "domain_cluster_index": 19,
+      "center": [
+        -1.3625073432922363,
+        0.8803008794784546,
+        5.031149387359619
+      ],
+      "radius": 0.3002367783567275,
+      "paper_count": 148,
+      "eligible_for_sphere": true,
+      "summary": "Neural machine translation, Knowledge distillation, Multilingual modeling"
+    },
+    {
+      "cluster_id": 92,
+      "domain": "acl",
+      "domain_cluster_index": 2,
+      "center": [
+        -0.9925762414932251,
+        -0.20446157455444336,
+        5.632610321044922
+      ],
+      "radius": 0.2947592931441631,
+      "paper_count": 135,
+      "eligible_for_sphere": true,
+      "summary": "Text-to-SQL, Table Question Answering, Data-to-Text Generation"
+    },
+    {
+      "cluster_id": 97,
+      "domain": "acl",
+      "domain_cluster_index": 7,
+      "center": [
+        -1.1699504852294922,
+        0.7263423204421997,
+        4.564628601074219
+      ],
+      "radius": 0.29942595520672416,
+      "paper_count": 146,
+      "eligible_for_sphere": true,
+      "summary": "Transformer efficiency, long-context modeling, adaptive computation"
+    },
+    {
+      "cluster_id": 90,
+      "domain": "acl",
+      "domain_cluster_index": 0,
+      "center": [
+        -1.7246652841567993,
+        0.08523041009902954,
+        5.5714616775512695
+      ],
+      "radius": 0.3172960218416721,
+      "paper_count": 197,
+      "eligible_for_sphere": true,
+      "summary": "Named Entity Recognition, Relation Extraction, Event Extraction"
+    },
+    {
+      "cluster_id": 96,
+      "domain": "acl",
+      "domain_cluster_index": 6,
+      "center": [
+        -1.4442617893218994,
+        0.5202942490577698,
+        4.903138160705566
+      ],
+      "radius": 0.3244303062876071,
+      "paper_count": 222,
+      "eligible_for_sphere": true,
+      "summary": "multilingual representation learning, sentence embeddings, contrastive learning"
+    },
+    {
+      "cluster_id": 99,
+      "domain": "acl",
+      "domain_cluster_index": 9,
+      "center": [
+        -1.1336604356765747,
+        1.0654520988464355,
+        5.241220951080322
+      ],
+      "radius": 0.3135448004227921,
+      "paper_count": 185,
+      "eligible_for_sphere": true,
+      "summary": "Interpretability, Counterfactual Augmentation, Few-shot Prompt Tuning"
+    },
+    {
+      "cluster_id": 102,
+      "domain": "acl",
+      "domain_cluster_index": 12,
+      "center": [
+        -1.0267274379730225,
+        0.04708467796444893,
+        5.30087947845459
+      ],
+      "radius": 0.29734962345607563,
+      "paper_count": 141,
+      "eligible_for_sphere": true,
+      "summary": "Summarization, Evaluation, Keyphrase"
+    },
+    {
+      "cluster_id": 93,
+      "domain": "acl",
+      "domain_cluster_index": 3,
+      "center": [
+        -1.2760165929794312,
+        0.3478160500526428,
+        4.913614273071289
+      ],
+      "radius": 0.31190982187594957,
+      "paper_count": 180,
+      "eligible_for_sphere": true,
+      "summary": "syntactic parsing, compositional generalization, language model probing"
+    },
+    {
+      "cluster_id": 119,
+      "domain": "acl",
+      "domain_cluster_index": 29,
+      "center": [
+        -0.2016099989414215,
+        1.452921748161316,
+        4.320222854614258
+      ],
+      "radius": 0.3095433179528717,
+      "paper_count": 173,
+      "eligible_for_sphere": true,
+      "summary": "adversarial robustness, backdoor attacks, privacy preservation"
+    },
+    {
+      "cluster_id": 95,
+      "domain": "acl",
+      "domain_cluster_index": 5,
+      "center": [
+        -1.1656805276870728,
+        1.4533334970474243,
+        6.645386219024658
+      ],
+      "radius": 0.33247581270950555,
+      "paper_count": 254,
+      "eligible_for_sphere": true,
+      "summary": "Vision-Language, Multimodal Pretraining, Cross-modal Reasoning"
+    },
+    {
+      "cluster_id": 110,
+      "domain": "acl",
+      "domain_cluster_index": 20,
+      "center": [
+        -1.3964955806732178,
+        1.4127386808395386,
+        4.698996067047119
+      ],
+      "radius": 0.3006381176457753,
+      "paper_count": 149,
+      "eligible_for_sphere": true,
+      "summary": "parameter-efficient fine-tuning, model compression, large language models"
+    },
+    {
+      "cluster_id": 111,
+      "domain": "acl",
+      "domain_cluster_index": 21,
+      "center": [
+        0.10984066128730774,
+        0.3001836836338043,
+        5.796173095703125
+      ],
+      "radius": 0.31908719963065296,
+      "paper_count": 203,
+      "eligible_for_sphere": true,
+      "summary": "LLM agents, interactive planning, theory of mind"
+    },
+    {
+      "cluster_id": 91,
+      "domain": "acl",
+      "domain_cluster_index": 1,
+      "center": [
+        -1.1951831579208374,
+        -0.2266627550125122,
+        5.778117656707764
+      ],
+      "radius": 0.2750980487202343,
+      "paper_count": 97,
+      "eligible_for_sphere": true,
+      "summary": "knowledge graph embedding, event causality reasoning, temporal knowledge reasoning"
+    },
+    {
+      "cluster_id": 118,
+      "domain": "acl",
+      "domain_cluster_index": 28,
+      "center": [
+        -0.1428173929452896,
+        0.5705891251564026,
+        5.008780479431152
+      ],
+      "radius": 0.266559075389419,
+      "paper_count": 84,
+      "eligible_for_sphere": true,
+      "summary": "Misinformation detection, AI-generated text detection, LLM value alignment"
+    },
+    {
+      "cluster_id": 106,
+      "domain": "acl",
+      "domain_cluster_index": 16,
+      "center": [
+        -1.1252870559692383,
+        0.7223930954933167,
+        5.229598522186279
+      ],
+      "radius": 0.30103679020889546,
+      "paper_count": 150,
+      "eligible_for_sphere": true,
+      "summary": "low-resource languages, multilingual language models, cross-lingual transfer"
+    },
+    {
+      "cluster_id": 103,
+      "domain": "acl",
+      "domain_cluster_index": 13,
+      "center": [
+        -0.8088921308517456,
+        0.4698611795902252,
+        5.12592077255249
+      ],
+      "radius": 0.2862410774679399,
+      "paper_count": 117,
+      "eligible_for_sphere": true,
+      "summary": "Evaluation metrics, Data augmentation, Figurative language"
+    },
+    {
+      "cluster_id": 107,
+      "domain": "acl",
+      "domain_cluster_index": 17,
+      "center": [
+        -1.1445523500442505,
+        0.8004053235054016,
+        5.272716522216797
+      ],
+      "radius": 0.29342094769330523,
+      "paper_count": 132,
+      "eligible_for_sphere": true,
+      "summary": "continual learning, instruction tuning, in-context learning"
+    },
+    {
+      "cluster_id": 94,
+      "domain": "acl",
+      "domain_cluster_index": 4,
+      "center": [
+        -0.7371361255645752,
+        -0.40756773948669434,
+        5.274308681488037
+      ],
+      "radius": 0.31576141133429314,
+      "paper_count": 192,
+      "eligible_for_sphere": true,
+      "summary": "Dense retrieval, open-domain question answering, retrieval-augmented generation"
+    },
+    {
+      "cluster_id": 100,
+      "domain": "acl",
+      "domain_cluster_index": 10,
+      "center": [
+        -0.2783789038658142,
+        -0.17764534056186676,
+        5.6615891456604
+      ],
+      "radius": 0.31576141133429314,
+      "paper_count": 192,
+      "eligible_for_sphere": true,
+      "summary": "Large language models, Mathematical reasoning, Chain-of-thought prompting"
+    },
+    {
+      "cluster_id": 98,
+      "domain": "acl",
+      "domain_cluster_index": 8,
+      "center": [
+        -0.6255849003791809,
+        0.11571959406137466,
+        5.596802711486816
+      ],
+      "radius": 0.29983273642584685,
+      "paper_count": 147,
+      "eligible_for_sphere": true,
+      "summary": ""
+    },
+    {
+      "cluster_id": 101,
+      "domain": "acl",
+      "domain_cluster_index": 11,
+      "center": [
+        -0.47179126739501953,
+        -0.13042449951171875,
+        5.0824995040893555
+      ],
+      "radius": 0.2882412626839954,
+      "paper_count": 121,
+      "eligible_for_sphere": true,
+      "summary": "hallucination, knowledge editing, calibration"
+    },
+    {
+      "cluster_id": 113,
+      "domain": "acl",
+      "domain_cluster_index": 23,
+      "center": [
+        -0.2386624962091446,
+        0.3466840386390686,
+        5.213726997375488
+      ],
+      "radius": 0.3169922237242793,
+      "paper_count": 196,
+      "eligible_for_sphere": true,
+      "summary": "LLM evaluation, alignment methods, human feedback"
+    },
+    {
+      "cluster_id": 114,
+      "domain": "acl",
+      "domain_cluster_index": 24,
+      "center": [
+        0.10589691251516342,
+        -0.12639634311199188,
+        5.137371063232422
+      ],
+      "radius": 0.25824390559225013,
+      "paper_count": 73,
+      "eligible_for_sphere": true,
+      "summary": "code generation, large language models, benchmark evaluation"
+    },
+    {
+      "cluster_id": 144,
+      "domain": "siggraph",
+      "domain_cluster_index": 24,
+      "center": [
+        1.1746801137924194,
+        4.376506328582764,
+        8.3490629196167
+      ],
+      "radius": 0.24465224663434318,
+      "paper_count": 58,
+      "eligible_for_sphere": true,
+      "summary": "Neural 3D face avatars, Gaussian NeRF representations, Real-time facial animation"
+    },
+    {
+      "cluster_id": 132,
+      "domain": "siggraph",
+      "domain_cluster_index": 12,
+      "center": [
+        1.7348401546478271,
+        4.525952339172363,
+        9.063138008117676
+      ],
+      "radius": 0.2614025296013755,
+      "paper_count": 77,
+      "eligible_for_sphere": true,
+      "summary": "computational fabrication, structural optimization, programmable materials"
+    },
+    {
+      "cluster_id": 128,
+      "domain": "siggraph",
+      "domain_cluster_index": 8,
+      "center": [
+        0.9292796850204468,
+        5.533642292022705,
+        8.753826141357422
+      ],
+      "radius": 0.23590953796345954,
+      "paper_count": 50,
+      "eligible_for_sphere": true,
+      "summary": "Material appearance, Neural BRDF modeling, Multi-scale light scattering"
+    },
+    {
+      "cluster_id": 129,
+      "domain": "siggraph",
+      "domain_cluster_index": 9,
+      "center": [
+        1.0439695119857788,
+        5.35071325302124,
+        8.884808540344238
+      ],
+      "radius": 0.21981369876777876,
+      "paper_count": 38,
+      "eligible_for_sphere": true,
+      "summary": "neural rendering, differentiable appearance optimization, 3D printing"
+    },
+    {
+      "cluster_id": 142,
+      "domain": "siggraph",
+      "domain_cluster_index": 22,
+      "center": [
+        1.0323827266693115,
+        3.6305854320526123,
+        8.582138061523438
+      ],
+      "radius": 0.24858808358349194,
+      "paper_count": 62,
+      "eligible_for_sphere": true,
+      "summary": "VR AR interaction, Projection mapping, Haptic feedback"
+    },
+    {
+      "cluster_id": 140,
+      "domain": "siggraph",
+      "domain_cluster_index": 20,
+      "center": [
+        1.3227030038833618,
+        4.208334922790527,
+        8.786455154418945
+      ],
+      "radius": 0.1624830120661326,
+      "paper_count": 14,
+      "eligible_for_sphere": true,
+      "summary": "Sewing patterns, 3D garment reconstruction, Virtual garment simulation"
+    },
+    {
+      "cluster_id": 121,
+      "domain": "siggraph",
+      "domain_cluster_index": 1,
+      "center": [
+        1.7788739204406738,
+        4.694986820220947,
+        9.257241249084473
+      ],
+      "radius": 0.25742756646890347,
+      "paper_count": 72,
+      "eligible_for_sphere": true,
+      "summary": "Fluid simulation, Particle-grid coupling, Multiphase vortical dynamics"
+    },
+    {
+      "cluster_id": 141,
+      "domain": "siggraph",
+      "domain_cluster_index": 21,
+      "center": [
+        0.32692304253578186,
+        5.164999485015869,
+        8.462579727172852
+      ],
+      "radius": 0.2382175148131273,
+      "paper_count": 52,
+      "eligible_for_sphere": true,
+      "summary": "Foveated rendering, holographic displays, perceptual vision models"
+    },
+    {
+      "cluster_id": 124,
+      "domain": "siggraph",
+      "domain_cluster_index": 4,
+      "center": [
+        1.6025772094726562,
+        4.454724311828613,
+        9.25397777557373
+      ],
+      "radius": 0.27259768693620023,
+      "paper_count": 93,
+      "eligible_for_sphere": true,
+      "summary": "Cloth simulation, Collision handling, GPU acceleration"
+    },
+    {
+      "cluster_id": 149,
+      "domain": "siggraph",
+      "domain_cluster_index": 29,
+      "center": [
+        0.9780609011650085,
+        2.8397233486175537,
+        8.721299171447754
+      ],
+      "radius": 0.2476280631027055,
+      "paper_count": 61,
+      "eligible_for_sphere": true,
+      "summary": "physics-based character control, deep learning motion synthesis, interactive animation"
+    },
+    {
+      "cluster_id": 120,
+      "domain": "siggraph",
+      "domain_cluster_index": 0,
+      "center": [
+        1.2764828205108643,
+        4.967920780181885,
+        9.192290306091309
+      ],
+      "radius": 0.20407184289972932,
+      "paper_count": 29,
+      "eligible_for_sphere": true,
+      "summary": "Efficient PDE solvers, Geometry processing, Monte Carlo & multigrid methods"
+    },
+    {
+      "cluster_id": 130,
+      "domain": "siggraph",
+      "domain_cluster_index": 10,
+      "center": [
+        0.8768096566200256,
+        5.033936977386475,
+        8.849327087402344
+      ],
+      "radius": 0.22281432400225848,
+      "paper_count": 40,
+      "eligible_for_sphere": true,
+      "summary": "Neural scene representations, GPU-accelerated rendering, Memory-efficient compression"
+    },
+    {
+      "cluster_id": 145,
+      "domain": "siggraph",
+      "domain_cluster_index": 25,
+      "center": [
+        0.6361004710197449,
+        4.43322229385376,
+        7.51763916015625
+      ],
+      "radius": 0.245660673733326,
+      "paper_count": 59,
+      "eligible_for_sphere": true,
+      "summary": "portrait-stylization, StyleGAN-manipulation, 3D-avatar-generation"
+    },
+    {
+      "cluster_id": 122,
+      "domain": "siggraph",
+      "domain_cluster_index": 2,
+      "center": [
+        0.9944669604301453,
+        5.645385265350342,
+        8.863302230834961
+      ],
+      "radius": 0.24152110144410896,
+      "paper_count": 55,
+      "eligible_for_sphere": true,
+      "summary": "Monte Carlo Rendering, Importance Sampling, Neural Denoising"
+    },
+    {
+      "cluster_id": 126,
+      "domain": "siggraph",
+      "domain_cluster_index": 6,
+      "center": [
+        0.9659485220909119,
+        4.751192092895508,
+        9.157719612121582
+      ],
+      "radius": 0.2150111363073666,
+      "paper_count": 35,
+      "eligible_for_sphere": true,
+      "summary": "Implicit surfaces, Mesh simplification, Distance functions"
+    },
+    {
+      "cluster_id": 123,
+      "domain": "siggraph",
+      "domain_cluster_index": 3,
+      "center": [
+        1.099528431892395,
+        5.368105411529541,
+        8.947718620300293
+      ],
+      "radius": 0.23472138032568876,
+      "paper_count": 49,
+      "eligible_for_sphere": true,
+      "summary": "Differentiable rendering, Monte Carlo path tracing, Inverse optimization"
+    },
+    {
+      "cluster_id": 125,
+      "domain": "siggraph",
+      "domain_cluster_index": 5,
+      "center": [
+        1.2306551933288574,
+        4.752616882324219,
+        9.193582534790039
+      ],
+      "radius": 0.25742756646890347,
+      "paper_count": 72,
+      "eligible_for_sphere": true,
+      "summary": "Mesh parameterization, Injective deformation, Developable surface approximation"
+    },
+    {
+      "cluster_id": 133,
+      "domain": "siggraph",
+      "domain_cluster_index": 13,
+      "center": [
+        0.3716556131839752,
+        4.484659194946289,
+        8.601990699768066
+      ],
+      "radius": 0.25984400041717987,
+      "paper_count": 75,
+      "eligible_for_sphere": true,
+      "summary": "3D shape representation, CAD B-Rep generation, Deep geometric learning"
+    },
+    {
+      "cluster_id": 147,
+      "domain": "siggraph",
+      "domain_cluster_index": 27,
+      "center": [
+        0.42825040221214294,
+        3.5546040534973145,
+        9.029464721679688
+      ],
+      "radius": 0.18546254720149896,
+      "paper_count": 21,
+      "eligible_for_sphere": true,
+      "summary": "MotionCapture, FiducialMarkers, InertialSensors"
+    },
+    {
+      "cluster_id": 137,
+      "domain": "siggraph",
+      "domain_cluster_index": 17,
+      "center": [
+        0.42466774582862854,
+        4.818695068359375,
+        8.539145469665527
+      ],
+      "radius": 0.20603923226910878,
+      "paper_count": 30,
+      "eligible_for_sphere": true,
+      "summary": "Novel View Synthesis, Dynamic Scene Reconstruction, 3D Gaussian Splatting"
+    },
+    {
+      "cluster_id": 136,
+      "domain": "siggraph",
+      "domain_cluster_index": 16,
+      "center": [
+        0.7587735056877136,
+        5.296337127685547,
+        8.301074981689453
+      ],
+      "radius": 0.22705137803509565,
+      "paper_count": 43,
+      "eligible_for_sphere": true,
+      "summary": "Neural relighting, light transport, photorealistic rendering"
+    },
+    {
+      "cluster_id": 135,
+      "domain": "siggraph",
+      "domain_cluster_index": 15,
+      "center": [
+        -0.06827565282583237,
+        5.665874004364014,
+        8.20016860961914
+      ],
+      "radius": 0.2097904536879888,
+      "paper_count": 32,
+      "eligible_for_sphere": true,
+      "summary": "computational imaging, end-to-end camera design, neural image restoration"
+    },
+    {
+      "cluster_id": 138,
+      "domain": "siggraph",
+      "domain_cluster_index": 18,
+      "center": [
+        0.6340634226799011,
+        4.599289417266846,
+        8.113045692443848
+      ],
+      "radius": 0.2335092178866376,
+      "paper_count": 48,
+      "eligible_for_sphere": true,
+      "summary": "Procedural material & texture generation, Palette-based color recoloring, Diffusion-driven 3D asset synthesis"
+    },
+    {
+      "cluster_id": 148,
+      "domain": "siggraph",
+      "domain_cluster_index": 28,
+      "center": [
+        0.5793657898902893,
+        3.626645803451538,
+        7.986554145812988
+      ],
+      "radius": 0.24953298500158028,
+      "paper_count": 63,
+      "eligible_for_sphere": true,
+      "summary": "controllable video synthesis, human motion animation, diffusion models"
+    },
+    {
+      "cluster_id": 131,
+      "domain": "siggraph",
+      "domain_cluster_index": 11,
+      "center": [
+        1.3944724798202515,
+        4.660383224487305,
+        8.77700424194336
+      ],
+      "radius": 0.18546254720149896,
+      "paper_count": 21,
+      "eligible_for_sphere": true,
+      "summary": "vegetation modeling, hair simulation, procedural generation"
+    },
+    {
+      "cluster_id": 139,
+      "domain": "siggraph",
+      "domain_cluster_index": 19,
+      "center": [
+        0.5770869851112366,
+        4.303934097290039,
+        7.953858375549316
+      ],
+      "radius": 0.21825516958358313,
+      "paper_count": 37,
+      "eligible_for_sphere": true,
+      "summary": "Vector graphics, sketch processing, stroke-based rendering"
+    },
+    {
+      "cluster_id": 146,
+      "domain": "siggraph",
+      "domain_cluster_index": 26,
+      "center": [
+        0.7619977593421936,
+        3.047581911087036,
+        9.219633102416992
+      ],
+      "radius": 0.20203774979918845,
+      "paper_count": 28,
+      "eligible_for_sphere": true,
+      "summary": "Hand-object interaction, Dexterous manipulation, Physics-based simulation"
+    },
+    {
+      "cluster_id": 134,
+      "domain": "siggraph",
+      "domain_cluster_index": 14,
+      "center": [
+        0.3632908761501312,
+        5.159799575805664,
+        8.886024475097656
+      ],
+      "radius": 0.23707462311488564,
+      "paper_count": 51,
+      "eligible_for_sphere": true,
+      "summary": "Neural Radiance Fields, Gaussian Splatting, Real-time 3D Rendering"
+    },
+    {
+      "cluster_id": 127,
+      "domain": "siggraph",
+      "domain_cluster_index": 7,
+      "center": [
+        0.620697021484375,
+        4.909281253814697,
+        9.417724609375
+      ],
+      "radius": 0.18267134626340537,
+      "paper_count": 20,
+      "eligible_for_sphere": true,
+      "summary": "normal orientation, surface reconstruction, boolean operations"
+    },
+    {
+      "cluster_id": 162,
+      "domain": "nature",
+      "domain_cluster_index": 12,
+      "center": [
+        12.326640129089355,
+        1.7461479902267456,
+        7.9403157234191895
+      ],
+      "radius": 0.30562501204840575,
+      "paper_count": 162,
+      "eligible_for_sphere": true,
+      "summary": "Protein structure design, Phase separation, Translational regulation"
+    },
+    {
+      "cluster_id": 170,
+      "domain": "nature",
+      "domain_cluster_index": 20,
+      "center": [
+        11.189428329467773,
+        4.195188522338867,
+        9.66436767578125
+      ],
+      "radius": 0.24043999111394826,
+      "paper_count": 54,
+      "eligible_for_sphere": true,
+      "summary": "Perovskite photovoltaics, Interface passivation, High-efficiency tandems"
+    },
+    {
+      "cluster_id": 158,
+      "domain": "nature",
+      "domain_cluster_index": 8,
+      "center": [
+        12.266714096069336,
+        1.5038061141967773,
+        7.258683204650879
+      ],
+      "radius": 0.3169922237242793,
+      "paper_count": 196,
+      "eligible_for_sphere": true,
+      "summary": "Genome sequencing, Disease-associated variants, Chromatin architecture"
+    },
+    {
+      "cluster_id": 152,
+      "domain": "nature",
+      "domain_cluster_index": 2,
+      "center": [
+        13.451675415039062,
+        0.548719584941864,
+        6.636718273162842
+      ],
+      "radius": 0.33128765507173474,
+      "paper_count": 249,
+      "eligible_for_sphere": true,
+      "summary": "SARS-CoV-2 variants, immune escape, vaccine efficacy"
+    },
+    {
+      "cluster_id": 156,
+      "domain": "nature",
+      "domain_cluster_index": 6,
+      "center": [
+        12.771161079406738,
+        1.0871597528457642,
+        7.058383941650391
+      ],
+      "radius": 0.3045104289140296,
+      "paper_count": 159,
+      "eligible_for_sphere": true,
+      "summary": "gut microbiome, regulated cell death, antibiotic resistance"
+    },
+    {
+      "cluster_id": 173,
+      "domain": "nature",
+      "domain_cluster_index": 23,
+      "center": [
+        10.497601509094238,
+        4.690180778503418,
+        8.463683128356934
+      ],
+      "radius": 0.2763102111592855,
+      "paper_count": 99,
+      "eligible_for_sphere": true,
+      "summary": "Integrated photonics, Perovskite optoelectronics, Super-resolution imaging"
+    },
+    {
+      "cluster_id": 168,
+      "domain": "nature",
+      "domain_cluster_index": 18,
+      "center": [
+        11.71081829071045,
+        3.2931761741638184,
+        6.249904632568359
+      ],
+      "radius": 0.34938275372898114,
+      "paper_count": 337,
+      "eligible_for_sphere": true,
+      "summary": "Climate change, Carbon cycle, Ecosystem impacts"
+    },
+    {
+      "cluster_id": 171,
+      "domain": "nature",
+      "domain_cluster_index": 21,
+      "center": [
+        12.128631591796875,
+        3.667581558227539,
+        8.073412895202637
+      ],
+      "radius": 0.31908719963065296,
+      "paper_count": 203,
+      "eligible_for_sphere": true,
+      "summary": "Solar fuels, Green catalysis, Polymer upcycling"
+    },
+    {
+      "cluster_id": 169,
+      "domain": "nature",
+      "domain_cluster_index": 19,
+      "center": [
+        10.82170295715332,
+        3.508502721786499,
+        8.475984573364258
+      ],
+      "radius": 0.3081479062230157,
+      "paper_count": 169,
+      "eligible_for_sphere": true,
+      "summary": "Advanced materials, AI-driven computing, Soft robotics"
+    },
+    {
+      "cluster_id": 174,
+      "domain": "nature",
+      "domain_cluster_index": 24,
+      "center": [
+        11.0006685256958,
+        4.823365211486816,
+        8.780879020690918
+      ],
+      "radius": 0.3135448004227921,
+      "paper_count": 185,
+      "eligible_for_sphere": true,
+      "summary": "Two-dimensional materials, Nanophotonic optoelectronics, Ultrafast electron dynamics"
+    },
+    {
+      "cluster_id": 172,
+      "domain": "nature",
+      "domain_cluster_index": 22,
+      "center": [
+        11.476715087890625,
+        4.365403652191162,
+        8.525976181030273
+      ],
+      "radius": 0.30488426189906775,
+      "paper_count": 160,
+      "eligible_for_sphere": true,
+      "summary": "Solid-state batteries, Nanostructured materials, Interfacial phenomena"
+    },
+    {
+      "cluster_id": 155,
+      "domain": "nature",
+      "domain_cluster_index": 5,
+      "center": [
+        12.79919147491455,
+        1.1599788665771484,
+        8.065122604370117
+      ],
+      "radius": 0.31607148954379966,
+      "paper_count": 193,
+      "eligible_for_sphere": true,
+      "summary": "DNA repair, chromatin regulation, cancer therapeutics"
+    },
+    {
+      "cluster_id": 151,
+      "domain": "nature",
+      "domain_cluster_index": 1,
+      "center": [
+        12.606740951538086,
+        0.6472294926643372,
+        7.736743450164795
+      ],
+      "radius": 0.3475808165030486,
+      "paper_count": 327,
+      "eligible_for_sphere": true,
+      "summary": "Cancer genomics, Immunotherapy response, Clonal evolution"
+    },
+    {
+      "cluster_id": 163,
+      "domain": "nature",
+      "domain_cluster_index": 13,
+      "center": [
+        12.477773666381836,
+        2.292942762374878,
+        7.136225700378418
+      ],
+      "radius": 0.2719559695891954,
+      "paper_count": 92,
+      "eligible_for_sphere": true,
+      "summary": "plant immunity, auxin signalling, crop genomics"
+    },
+    {
+      "cluster_id": 177,
+      "domain": "nature",
+      "domain_cluster_index": 27,
+      "center": [
+        10.731182098388672,
+        5.7161970138549805,
+        8.45543098449707
+      ],
+      "radius": 0.30635672843403483,
+      "paper_count": 164,
+      "eligible_for_sphere": true,
+      "summary": "Quantum computing, Fault tolerance, Entanglement"
+    },
+    {
+      "cluster_id": 150,
+      "domain": "nature",
+      "domain_cluster_index": 0,
+      "center": [
+        12.72412395477295,
+        0.5014025568962097,
+        7.3336310386657715
+      ],
+      "radius": 0.3367876863832842,
+      "paper_count": 273,
+      "eligible_for_sphere": true,
+      "summary": "Immunometabolism, Tumour microenvironment, T-cell regulation"
+    },
+    {
+      "cluster_id": 165,
+      "domain": "nature",
+      "domain_cluster_index": 15,
+      "center": [
+        1.7888954877853394,
+        1.3094868659973145,
+        4.709716796875
+      ],
+      "radius": 0.27323261349603245,
+      "paper_count": 94,
+      "eligible_for_sphere": true,
+      "summary": "Machine learning, Behavioral science, COVID-19"
+    },
+    {
+      "cluster_id": 153,
+      "domain": "nature",
+      "domain_cluster_index": 3,
+      "center": [
+        11.917069435119629,
+        0.5925220847129822,
+        7.374589920043945
+      ],
+      "radius": 0.32306970376734534,
+      "paper_count": 217,
+      "eligible_for_sphere": true,
+      "summary": "Neuroinflammation, Metabolic homeostasis, Tissue regeneration"
+    },
+    {
+      "cluster_id": 175,
+      "domain": "nature",
+      "domain_cluster_index": 25,
+      "center": [
+        11.031253814697266,
+        5.416481018066406,
+        9.078847885131836
+      ],
+      "radius": 0.34380598697841447,
+      "paper_count": 307,
+      "eligible_for_sphere": true,
+      "summary": "Moir\u00e9-twisted graphene, Correlated 2D superconductivity, Topological quantum phases"
+    },
+    {
+      "cluster_id": 167,
+      "domain": "nature",
+      "domain_cluster_index": 17,
+      "center": [
+        11.896956443786621,
+        3.1899757385253906,
+        6.7873215675354
+      ],
+      "radius": 0.2956352211094323,
+      "paper_count": 137,
+      "eligible_for_sphere": true,
+      "summary": "Climate mitigation, Sustainable energy and food, Emission impacts"
+    },
+    {
+      "cluster_id": 157,
+      "domain": "nature",
+      "domain_cluster_index": 7,
+      "center": [
+        10.841968536376953,
+        0.8477766513824463,
+        7.032660484313965
+      ],
+      "radius": 0.34830809813498925,
+      "paper_count": 331,
+      "eligible_for_sphere": true,
+      "summary": "Neural circuits, Behavioural modulation, Connectomics"
+    },
+    {
+      "cluster_id": 154,
+      "domain": "nature",
+      "domain_cluster_index": 4,
+      "center": [
+        11.787948608398438,
+        1.0953669548034668,
+        7.311251640319824
+      ],
+      "radius": 0.30884966860880714,
+      "paper_count": 171,
+      "eligible_for_sphere": true,
+      "summary": "brain cell-type atlas, single-cell multi-omics, cortical development"
+    },
+    {
+      "cluster_id": 159,
+      "domain": "nature",
+      "domain_cluster_index": 9,
+      "center": [
+        12.231904029846191,
+        1.0772650241851807,
+        7.807431221008301
+      ],
+      "radius": 0.28521541146638185,
+      "paper_count": 115,
+      "eligible_for_sphere": true,
+      "summary": "mitochondrial dynamics, organelle structure, cryo-electron microscopy"
+    },
+    {
+      "cluster_id": 160,
+      "domain": "nature",
+      "domain_cluster_index": 10,
+      "center": [
+        12.965141296386719,
+        1.6813035011291504,
+        7.650505542755127
+      ],
+      "radius": 0.29734962345607563,
+      "paper_count": 141,
+      "eligible_for_sphere": true,
+      "summary": "CRISPR-immunity, cGAS\u2013STING-signalling, RNA-modifications"
+    },
+    {
+      "cluster_id": 179,
+      "domain": "nature",
+      "domain_cluster_index": 29,
+      "center": [
+        11.368034362792969,
+        5.782693862915039,
+        6.154972553253174
+      ],
+      "radius": 0.331527176347907,
+      "paper_count": 250,
+      "eligible_for_sphere": true,
+      "summary": "High-energy astrophysics, Exoplanetary science, Stellar evolution"
+    },
+    {
+      "cluster_id": 178,
+      "domain": "nature",
+      "domain_cluster_index": 28,
+      "center": [
+        11.040692329406738,
+        5.54979944229126,
+        8.099691390991211
+      ],
+      "radius": 0.26366694928034634,
+      "paper_count": 80,
+      "eligible_for_sphere": true,
+      "summary": "precision metrology, fundamental physics, quantum technologies"
+    },
+    {
+      "cluster_id": 166,
+      "domain": "nature",
+      "domain_cluster_index": 16,
+      "center": [
+        12.145271301269531,
+        2.1849119663238525,
+        6.100406169891357
+      ],
+      "radius": 0.2757071910080754,
+      "paper_count": 98,
+      "eligible_for_sphere": true,
+      "summary": "ancient DNA, human migration, population genomics"
+    },
+    {
+      "cluster_id": 176,
+      "domain": "nature",
+      "domain_cluster_index": 26,
+      "center": [
+        11.6044282913208,
+        4.695735931396484,
+        6.0649800300598145
+      ],
+      "radius": 0.284695927701795,
+      "paper_count": 114,
+      "eligible_for_sphere": true,
+      "summary": "mantle dynamics, planetary volcanism, crustal evolution"
+    },
+    {
+      "cluster_id": 164,
+      "domain": "nature",
+      "domain_cluster_index": 14,
+      "center": [
+        11.55258846282959,
+        2.0747241973876953,
+        6.662670612335205
+      ],
+      "radius": 0.27448265871020294,
+      "paper_count": 96,
+      "eligible_for_sphere": true,
+      "summary": "Eukaryote origins, Early vertebrate evolution, Fossil phylogenomics"
+    },
+    {
+      "cluster_id": 161,
+      "domain": "nature",
+      "domain_cluster_index": 11,
+      "center": [
+        11.492278099060059,
+        0.8232503533363342,
+        7.740362644195557
+      ],
+      "radius": 0.2969255934226901,
+      "paper_count": 140,
+      "eligible_for_sphere": true,
+      "summary": "cryo-EM structures, membrane receptor channel mechanisms, ligand modulation"
+    },
+    {
+      "cluster_id": 195,
+      "domain": "science",
+      "domain_cluster_index": 15,
+      "center": [
+        11.980796813964844,
+        2.13124418258667,
+        7.8883376121521
+      ],
+      "radius": 0.25659996714096334,
+      "paper_count": 71,
+      "eligible_for_sphere": true,
+      "summary": "deep learning, protein design, molecular modeling"
+    },
+    {
+      "cluster_id": 180,
+      "domain": "science",
+      "domain_cluster_index": 0,
+      "center": [
+        13.522400856018066,
+        0.4674608111381531,
+        6.53648567199707
+      ],
+      "radius": 0.3014328312507766,
+      "paper_count": 151,
+      "eligible_for_sphere": true,
+      "summary": "SARS-CoV-2 variants, immune memory, vaccine effectiveness"
+    },
+    {
+      "cluster_id": 181,
+      "domain": "science",
+      "domain_cluster_index": 1,
+      "center": [
+        12.71684455871582,
+        0.4353940784931183,
+        7.296936511993408
+      ],
+      "radius": 0.3002367783567275,
+      "paper_count": 148,
+      "eligible_for_sphere": true,
+      "summary": "Cancer immunotherapy, Gut microbiome, T cell biology"
+    },
+    {
+      "cluster_id": 202,
+      "domain": "science",
+      "domain_cluster_index": 22,
+      "center": [
+        11.846809387207031,
+        3.805849313735962,
+        7.9266252517700195
+      ],
+      "radius": 0.266559075389419,
+      "paper_count": 84,
+      "eligible_for_sphere": true,
+      "summary": "Sustainable catalysis, Electrochemical energy conversion, Plastic upcycling"
+    },
+    {
+      "cluster_id": 206,
+      "domain": "science",
+      "domain_cluster_index": 26,
+      "center": [
+        11.206897735595703,
+        4.4405903816223145,
+        8.871390342712402
+      ],
+      "radius": 0.28148087293374857,
+      "paper_count": 108,
+      "eligible_for_sphere": true,
+      "summary": "Thermoelectrics, Ferroelectricity, Radiative cooling"
+    },
+    {
+      "cluster_id": 200,
+      "domain": "science",
+      "domain_cluster_index": 20,
+      "center": [
+        10.870166778564453,
+        3.8074545860290527,
+        8.535204887390137
+      ],
+      "radius": 0.288731061322345,
+      "paper_count": 122,
+      "eligible_for_sphere": true,
+      "summary": "Soft materials engineering, Stretchable bioelectronics, Neuromorphic hardware"
+    },
+    {
+      "cluster_id": 208,
+      "domain": "science",
+      "domain_cluster_index": 28,
+      "center": [
+        11.174321174621582,
+        4.213469982147217,
+        9.646137237548828
+      ],
+      "radius": 0.25659996714096334,
+      "paper_count": 71,
+      "eligible_for_sphere": true,
+      "summary": "Perovskite solar-cell stabilization, Interface passivation engineering, High-efficiency scalable modules"
+    },
+    {
+      "cluster_id": 203,
+      "domain": "science",
+      "domain_cluster_index": 23,
+      "center": [
+        11.66845703125,
+        4.167212009429932,
+        8.269103050231934
+      ],
+      "radius": 0.26998858021981587,
+      "paper_count": 89,
+      "eligible_for_sphere": true,
+      "summary": "heterogeneous catalysis, nanoporous frameworks, gas separation"
+    },
+    {
+      "cluster_id": 197,
+      "domain": "science",
+      "domain_cluster_index": 17,
+      "center": [
+        11.745598793029785,
+        3.3797404766082764,
+        6.26330041885376
+      ],
+      "radius": 0.32306970376734534,
+      "paper_count": 217,
+      "eligible_for_sphere": true,
+      "summary": "climate change, hydrology, environmental pollution"
+    },
+    {
+      "cluster_id": 209,
+      "domain": "science",
+      "domain_cluster_index": 29,
+      "center": [
+        11.084546089172363,
+        5.411675453186035,
+        9.108248710632324
+      ],
+      "radius": 0.2896988242381381,
+      "paper_count": 124,
+      "eligible_for_sphere": true,
+      "summary": "Twisted graphene, Topological order, Correlated superconductivity"
+    },
+    {
+      "cluster_id": 204,
+      "domain": "science",
+      "domain_cluster_index": 24,
+      "center": [
+        11.319716453552246,
+        4.254558086395264,
+        8.656725883483887
+      ],
+      "radius": 0.2658490079305988,
+      "paper_count": 83,
+      "eligible_for_sphere": true,
+      "summary": "Nanomaterials, Mechanical Strength, Materials Design"
+    },
+    {
+      "cluster_id": 191,
+      "domain": "science",
+      "domain_cluster_index": 11,
+      "center": [
+        12.197028160095215,
+        1.4550960063934326,
+        7.614650249481201
+      ],
+      "radius": 0.29017691441708865,
+      "paper_count": 125,
+      "eligible_for_sphere": true,
+      "summary": "Genome architecture, Spatial genomics, Single-cell analysis"
+    },
+    {
+      "cluster_id": 205,
+      "domain": "science",
+      "domain_cluster_index": 25,
+      "center": [
+        11.0758695602417,
+        5.001655101776123,
+        8.581830978393555
+      ],
+      "radius": 0.27065157039101095,
+      "paper_count": 90,
+      "eligible_for_sphere": true,
+      "summary": "Chirality, Metasurfaces, Ultrafast spectroscopy"
+    },
+    {
+      "cluster_id": 207,
+      "domain": "science",
+      "domain_cluster_index": 27,
+      "center": [
+        10.790103912353516,
+        5.579410076141357,
+        8.50685977935791
+      ],
+      "radius": 0.29649854535655823,
+      "paper_count": 139,
+      "eligible_for_sphere": true,
+      "summary": "Quantum entanglement, Topological photonics, Ultracold atomic systems"
+    },
+    {
+      "cluster_id": 192,
+      "domain": "science",
+      "domain_cluster_index": 12,
+      "center": [
+        12.494706153869629,
+        2.283207654953003,
+        7.2193603515625
+      ],
+      "radius": 0.27749836879705625,
+      "paper_count": 101,
+      "eligible_for_sphere": true,
+      "summary": "Plant signaling pathways, Developmental genetics, Crop stress resilience"
+    },
+    {
+      "cluster_id": 183,
+      "domain": "science",
+      "domain_cluster_index": 3,
+      "center": [
+        12.028027534484863,
+        0.7022684812545776,
+        7.589547634124756
+      ],
+      "radius": 0.2969255934226901,
+      "paper_count": 140,
+      "eligible_for_sphere": true,
+      "summary": "Tissue regeneration, Immune modulation, Single-cell transcriptomics"
+    },
+    {
+      "cluster_id": 190,
+      "domain": "science",
+      "domain_cluster_index": 10,
+      "center": [
+        12.063974380493164,
+        1.5359419584274292,
+        7.143994331359863
+      ],
+      "radius": 0.28364326912274046,
+      "paper_count": 112,
+      "eligible_for_sphere": true,
+      "summary": "genomics, gene regulation, evolution"
+    },
+    {
+      "cluster_id": 194,
+      "domain": "science",
+      "domain_cluster_index": 14,
+      "center": [
+        11.965986251831055,
+        2.9360406398773193,
+        6.195542812347412
+      ],
+      "radius": 0.2969255934226901,
+      "paper_count": 140,
+      "eligible_for_sphere": true,
+      "summary": "BiodiversityLoss, ClimateChangeImpacts, ConservationStrategies"
+    },
+    {
+      "cluster_id": 201,
+      "domain": "science",
+      "domain_cluster_index": 21,
+      "center": [
+        11.400108337402344,
+        5.581891059875488,
+        6.117253303527832
+      ],
+      "radius": 0.27130731462294244,
+      "paper_count": 91,
+      "eligible_for_sphere": true,
+      "summary": "High-energy astrophysics, Planetary science, Cosmochemistry"
+    },
+    {
+      "cluster_id": 186,
+      "domain": "science",
+      "domain_cluster_index": 6,
+      "center": [
+        12.91424560546875,
+        1.6660939455032349,
+        7.645218372344971
+      ],
+      "radius": 0.2750980487202343,
+      "paper_count": 97,
+      "eligible_for_sphere": true,
+      "summary": "CRISPR-Cas systems, Phage\u2013bacteria interactions, RNA-guided immunity"
+    },
+    {
+      "cluster_id": 185,
+      "domain": "science",
+      "domain_cluster_index": 5,
+      "center": [
+        10.875937461853027,
+        0.7785874605178833,
+        7.0080461502075195
+      ],
+      "radius": 0.3018262752835461,
+      "paper_count": 152,
+      "eligible_for_sphere": true,
+      "summary": "Neural circuits, Behavioral modulation, Plasticity"
+    },
+    {
+      "cluster_id": 184,
+      "domain": "science",
+      "domain_cluster_index": 4,
+      "center": [
+        12.654364585876465,
+        1.4853360652923584,
+        7.099119663238525
+      ],
+      "radius": 0.2513792845215855,
+      "paper_count": 65,
+      "eligible_for_sphere": true,
+      "summary": "Antibiotic resistance, Microbial genomics, Pathogen evolution"
+    },
+    {
+      "cluster_id": 182,
+      "domain": "science",
+      "domain_cluster_index": 2,
+      "center": [
+        12.433472633361816,
+        0.8789165019989014,
+        7.799933910369873
+      ],
+      "radius": 0.29983273642584685,
+      "paper_count": 147,
+      "eligible_for_sphere": true,
+      "summary": "organelle dynamics, metabolic signaling, cellular stress response"
+    },
+    {
+      "cluster_id": 198,
+      "domain": "science",
+      "domain_cluster_index": 18,
+      "center": [
+        11.660840034484863,
+        4.519141674041748,
+        6.045543193817139
+      ],
+      "radius": 0.24362658063278514,
+      "paper_count": 57,
+      "eligible_for_sphere": true,
+      "summary": "Mars seismology, Earthquake rupture dynamics, Volcanic eruption impacts"
+    },
+    {
+      "cluster_id": 187,
+      "domain": "science",
+      "domain_cluster_index": 7,
+      "center": [
+        12.668145179748535,
+        1.384285807609558,
+        8.014769554138184
+      ],
+      "radius": 0.28148087293374857,
+      "paper_count": 108,
+      "eligible_for_sphere": true,
+      "summary": "Chromatin dynamics, Transcription machinery structure, DNA replication & repair"
+    },
+    {
+      "cluster_id": 199,
+      "domain": "science",
+      "domain_cluster_index": 19,
+      "center": [
+        12.206212043762207,
+        3.610800266265869,
+        8.102960586547852
+      ],
+      "radius": 0.2951988555496875,
+      "paper_count": 136,
+      "eligible_for_sphere": true,
+      "summary": "C\u2013H activation, radical photoredox catalysis, late-stage functionalization"
+    },
+    {
+      "cluster_id": 196,
+      "domain": "science",
+      "domain_cluster_index": 16,
+      "center": [
+        0.9670631289482117,
+        0.9183565378189087,
+        4.981240272521973
+      ],
+      "radius": 0.2133208836893648,
+      "paper_count": 34,
+      "eligible_for_sphere": true,
+      "summary": "Racial justice, Social media misinformation, Behavioral interventions"
+    },
+    {
+      "cluster_id": 193,
+      "domain": "science",
+      "domain_cluster_index": 13,
+      "center": [
+        11.650489807128906,
+        1.9719291925430298,
+        6.724245548248291
+      ],
+      "radius": 0.27749836879705625,
+      "paper_count": 101,
+      "eligible_for_sphere": true,
+      "summary": "Adaptive evolution, speciation mechanisms, genomic diversity"
+    },
+    {
+      "cluster_id": 188,
+      "domain": "science",
+      "domain_cluster_index": 8,
+      "center": [
+        11.568974494934082,
+        1.073696494102478,
+        7.135786533355713
+      ],
+      "radius": 0.2750980487202343,
+      "paper_count": 97,
+      "eligible_for_sphere": true,
+      "summary": "single-cell brain transcriptomics, neurodevelopment and evolution, genetic regulation of neural diversity"
+    },
+    {
+      "cluster_id": 189,
+      "domain": "science",
+      "domain_cluster_index": 9,
+      "center": [
+        12.107189178466797,
+        2.163522243499756,
+        6.1982221603393555
+      ],
+      "radius": 0.26062832531122104,
+      "paper_count": 76,
+      "eligible_for_sphere": true,
+      "summary": "ancient genomics, human migration, paleoecology"
+    },
+    {
+      "cluster_id": 57,
+      "domain": "robotics",
+      "domain_cluster_index": 27,
+      "center": [
+        1.5110851526260376,
+        1.841447353363037,
+        9.612263679504395
+      ],
+      "radius": 0.21825516958358313,
+      "paper_count": 37,
+      "eligible_for_sphere": true,
+      "summary": "Video imitation learning, Dexterous bimanual manipulation, Object-centric affordances"
+    },
+    {
+      "cluster_id": 143,
+      "domain": "siggraph",
+      "domain_cluster_index": 23,
+      "center": [
+        0.42840975522994995,
+        3.9941062927246094,
+        7.376355171203613
+      ],
+      "radius": 0.2557607926224789,
+      "paper_count": 70,
+      "eligible_for_sphere": true,
+      "summary": "Diffusion-based image generation, Controllable editing, Personalization"
+    }
+  ],
+  "cluster_details_directory": "abstract_umap_clusters_details",
+  "cluster_details_index": {
+    "0": {
+      "file": "cluster_0.json",
+      "paper_count": 553
+    },
+    "1": {
+      "file": "cluster_1.json",
+      "paper_count": 259
+    },
+    "2": {
+      "file": "cluster_2.json",
+      "paper_count": 345
+    },
+    "3": {
+      "file": "cluster_3.json",
+      "paper_count": 304
+    },
+    "4": {
+      "file": "cluster_4.json",
+      "paper_count": 415
+    },
+    "5": {
+      "file": "cluster_5.json",
+      "paper_count": 90
+    },
+    "6": {
+      "file": "cluster_6.json",
+      "paper_count": 239
+    },
+    "7": {
+      "file": "cluster_7.json",
+      "paper_count": 381
+    },
+    "8": {
+      "file": "cluster_8.json",
+      "paper_count": 554
+    },
+    "9": {
+      "file": "cluster_9.json",
+      "paper_count": 386
+    },
+    "10": {
+      "file": "cluster_10.json",
+      "paper_count": 582
+    },
+    "11": {
+      "file": "cluster_11.json",
+      "paper_count": 381
+    },
+    "12": {
+      "file": "cluster_12.json",
+      "paper_count": 569
+    },
+    "13": {
+      "file": "cluster_13.json",
+      "paper_count": 188
+    },
+    "14": {
+      "file": "cluster_14.json",
+      "paper_count": 361
+    },
+    "15": {
+      "file": "cluster_15.json",
+      "paper_count": 177
+    },
+    "16": {
+      "file": "cluster_16.json",
+      "paper_count": 513
+    },
+    "17": {
+      "file": "cluster_17.json",
+      "paper_count": 235
+    },
+    "18": {
+      "file": "cluster_18.json",
+      "paper_count": 575
+    },
+    "19": {
+      "file": "cluster_19.json",
+      "paper_count": 21
+    },
+    "20": {
+      "file": "cluster_20.json",
+      "paper_count": 305
+    },
+    "21": {
+      "file": "cluster_21.json",
+      "paper_count": 712
+    },
+    "22": {
+      "file": "cluster_22.json",
+      "paper_count": 568
+    },
+    "23": {
+      "file": "cluster_23.json",
+      "paper_count": 542
+    },
+    "24": {
+      "file": "cluster_24.json",
+      "paper_count": 268
+    },
+    "25": {
+      "file": "cluster_25.json",
+      "paper_count": 491
+    },
+    "26": {
+      "file": "cluster_26.json",
+      "paper_count": 275
+    },
+    "27": {
+      "file": "cluster_27.json",
+      "paper_count": 307
+    },
+    "28": {
+      "file": "cluster_28.json",
+      "paper_count": 420
+    },
+    "29": {
+      "file": "cluster_29.json",
+      "paper_count": 652
+    },
+    "30": {
+      "file": "cluster_30.json",
+      "paper_count": 33
+    },
+    "31": {
+      "file": "cluster_31.json",
+      "paper_count": 67
+    },
+    "32": {
+      "file": "cluster_32.json",
+      "paper_count": 23
+    },
+    "33": {
+      "file": "cluster_33.json",
+      "paper_count": 46
+    },
+    "34": {
+      "file": "cluster_34.json",
+      "paper_count": 30
+    },
+    "35": {
+      "file": "cluster_35.json",
+      "paper_count": 60
+    },
+    "36": {
+      "file": "cluster_36.json",
+      "paper_count": 39
+    },
+    "37": {
+      "file": "cluster_37.json",
+      "paper_count": 17
+    },
+    "38": {
+      "file": "cluster_38.json",
+      "paper_count": 39
+    },
+    "39": {
+      "file": "cluster_39.json",
+      "paper_count": 22
+    },
+    "40": {
+      "file": "cluster_40.json",
+      "paper_count": 50
+    },
+    "41": {
+      "file": "cluster_41.json",
+      "paper_count": 57
+    },
+    "42": {
+      "file": "cluster_42.json",
+      "paper_count": 25
+    },
+    "43": {
+      "file": "cluster_43.json",
+      "paper_count": 58
+    },
+    "44": {
+      "file": "cluster_44.json",
+      "paper_count": 33
+    },
+    "45": {
+      "file": "cluster_45.json",
+      "paper_count": 64
+    },
+    "46": {
+      "file": "cluster_46.json",
+      "paper_count": 38
+    },
+    "47": {
+      "file": "cluster_47.json",
+      "paper_count": 48
+    },
+    "48": {
+      "file": "cluster_48.json",
+      "paper_count": 44
+    },
+    "49": {
+      "file": "cluster_49.json",
+      "paper_count": 53
+    },
+    "50": {
+      "file": "cluster_50.json",
+      "paper_count": 52
+    },
+    "51": {
+      "file": "cluster_51.json",
+      "paper_count": 44
+    },
+    "52": {
+      "file": "cluster_52.json",
+      "paper_count": 36
+    },
+    "53": {
+      "file": "cluster_53.json",
+      "paper_count": 37
+    },
+    "54": {
+      "file": "cluster_54.json",
+      "paper_count": 37
+    },
+    "55": {
+      "file": "cluster_55.json",
+      "paper_count": 55
+    },
+    "56": {
+      "file": "cluster_56.json",
+      "paper_count": 35
+    },
+    "57": {
+      "file": "cluster_57.json",
+      "paper_count": 37
+    },
+    "58": {
+      "file": "cluster_58.json",
+      "paper_count": 18
+    },
+    "59": {
+      "file": "cluster_59.json",
+      "paper_count": 30
+    },
+    "60": {
+      "file": "cluster_60.json",
+      "paper_count": 252
+    },
+    "61": {
+      "file": "cluster_61.json",
+      "paper_count": 409
+    },
+    "62": {
+      "file": "cluster_62.json",
+      "paper_count": 120
+    },
+    "63": {
+      "file": "cluster_63.json",
+      "paper_count": 349
+    },
+    "64": {
+      "file": "cluster_64.json",
+      "paper_count": 301
+    },
+    "65": {
+      "file": "cluster_65.json",
+      "paper_count": 253
+    },
+    "66": {
+      "file": "cluster_66.json",
+      "paper_count": 382
+    },
+    "67": {
+      "file": "cluster_67.json",
+      "paper_count": 481
+    },
+    "68": {
+      "file": "cluster_68.json",
+      "paper_count": 488
+    },
+    "69": {
+      "file": "cluster_69.json",
+      "paper_count": 296
+    },
+    "70": {
+      "file": "cluster_70.json",
+      "paper_count": 345
+    },
+    "71": {
+      "file": "cluster_71.json",
+      "paper_count": 355
+    },
+    "72": {
+      "file": "cluster_72.json",
+      "paper_count": 254
+    },
+    "73": {
+      "file": "cluster_73.json",
+      "paper_count": 274
+    },
+    "74": {
+      "file": "cluster_74.json",
+      "paper_count": 323
+    },
+    "75": {
+      "file": "cluster_75.json",
+      "paper_count": 504
+    },
+    "76": {
+      "file": "cluster_76.json",
+      "paper_count": 251
+    },
+    "77": {
+      "file": "cluster_77.json",
+      "paper_count": 258
+    },
+    "78": {
+      "file": "cluster_78.json",
+      "paper_count": 234
+    },
+    "79": {
+      "file": "cluster_79.json",
+      "paper_count": 176
+    },
+    "80": {
+      "file": "cluster_80.json",
+      "paper_count": 400
+    },
+    "81": {
+      "file": "cluster_81.json",
+      "paper_count": 241
+    },
+    "82": {
+      "file": "cluster_82.json",
+      "paper_count": 442
+    },
+    "83": {
+      "file": "cluster_83.json",
+      "paper_count": 325
+    },
+    "84": {
+      "file": "cluster_84.json",
+      "paper_count": 227
+    },
+    "85": {
+      "file": "cluster_85.json",
+      "paper_count": 232
+    },
+    "86": {
+      "file": "cluster_86.json",
+      "paper_count": 227
+    },
+    "87": {
+      "file": "cluster_87.json",
+      "paper_count": 214
+    },
+    "88": {
+      "file": "cluster_88.json",
+      "paper_count": 159
+    },
+    "89": {
+      "file": "cluster_89.json",
+      "paper_count": 777
+    },
+    "90": {
+      "file": "cluster_90.json",
+      "paper_count": 197
+    },
+    "91": {
+      "file": "cluster_91.json",
+      "paper_count": 97
+    },
+    "92": {
+      "file": "cluster_92.json",
+      "paper_count": 135
+    },
+    "93": {
+      "file": "cluster_93.json",
+      "paper_count": 180
+    },
+    "94": {
+      "file": "cluster_94.json",
+      "paper_count": 192
+    },
+    "95": {
+      "file": "cluster_95.json",
+      "paper_count": 254
+    },
+    "96": {
+      "file": "cluster_96.json",
+      "paper_count": 222
+    },
+    "97": {
+      "file": "cluster_97.json",
+      "paper_count": 146
+    },
+    "98": {
+      "file": "cluster_98.json",
+      "paper_count": 147
+    },
+    "99": {
+      "file": "cluster_99.json",
+      "paper_count": 185
+    },
+    "100": {
+      "file": "cluster_100.json",
+      "paper_count": 192
+    },
+    "101": {
+      "file": "cluster_101.json",
+      "paper_count": 121
+    },
+    "102": {
+      "file": "cluster_102.json",
+      "paper_count": 141
+    },
+    "103": {
+      "file": "cluster_103.json",
+      "paper_count": 117
+    },
+    "104": {
+      "file": "cluster_104.json",
+      "paper_count": 173
+    },
+    "105": {
+      "file": "cluster_105.json",
+      "paper_count": 171
+    },
+    "106": {
+      "file": "cluster_106.json",
+      "paper_count": 150
+    },
+    "107": {
+      "file": "cluster_107.json",
+      "paper_count": 132
+    },
+    "108": {
+      "file": "cluster_108.json",
+      "paper_count": 80
+    },
+    "109": {
+      "file": "cluster_109.json",
+      "paper_count": 148
+    },
+    "110": {
+      "file": "cluster_110.json",
+      "paper_count": 149
+    },
+    "111": {
+      "file": "cluster_111.json",
+      "paper_count": 203
+    },
+    "112": {
+      "file": "cluster_112.json",
+      "paper_count": 147
+    },
+    "113": {
+      "file": "cluster_113.json",
+      "paper_count": 196
+    },
+    "114": {
+      "file": "cluster_114.json",
+      "paper_count": 73
+    },
+    "115": {
+      "file": "cluster_115.json",
+      "paper_count": 120
+    },
+    "116": {
+      "file": "cluster_116.json",
+      "paper_count": 177
+    },
+    "117": {
+      "file": "cluster_117.json",
+      "paper_count": 54
+    },
+    "118": {
+      "file": "cluster_118.json",
+      "paper_count": 84
+    },
+    "119": {
+      "file": "cluster_119.json",
+      "paper_count": 173
+    },
+    "120": {
+      "file": "cluster_120.json",
+      "paper_count": 29
+    },
+    "121": {
+      "file": "cluster_121.json",
+      "paper_count": 72
+    },
+    "122": {
+      "file": "cluster_122.json",
+      "paper_count": 55
+    },
+    "123": {
+      "file": "cluster_123.json",
+      "paper_count": 49
+    },
+    "124": {
+      "file": "cluster_124.json",
+      "paper_count": 93
+    },
+    "125": {
+      "file": "cluster_125.json",
+      "paper_count": 72
+    },
+    "126": {
+      "file": "cluster_126.json",
+      "paper_count": 35
+    },
+    "127": {
+      "file": "cluster_127.json",
+      "paper_count": 20
+    },
+    "128": {
+      "file": "cluster_128.json",
+      "paper_count": 50
+    },
+    "129": {
+      "file": "cluster_129.json",
+      "paper_count": 38
+    },
+    "130": {
+      "file": "cluster_130.json",
+      "paper_count": 40
+    },
+    "131": {
+      "file": "cluster_131.json",
+      "paper_count": 21
+    },
+    "132": {
+      "file": "cluster_132.json",
+      "paper_count": 77
+    },
+    "133": {
+      "file": "cluster_133.json",
+      "paper_count": 75
+    },
+    "134": {
+      "file": "cluster_134.json",
+      "paper_count": 51
+    },
+    "135": {
+      "file": "cluster_135.json",
+      "paper_count": 32
+    },
+    "136": {
+      "file": "cluster_136.json",
+      "paper_count": 43
+    },
+    "137": {
+      "file": "cluster_137.json",
+      "paper_count": 30
+    },
+    "138": {
+      "file": "cluster_138.json",
+      "paper_count": 48
+    },
+    "139": {
+      "file": "cluster_139.json",
+      "paper_count": 37
+    },
+    "140": {
+      "file": "cluster_140.json",
+      "paper_count": 14
+    },
+    "141": {
+      "file": "cluster_141.json",
+      "paper_count": 52
+    },
+    "142": {
+      "file": "cluster_142.json",
+      "paper_count": 62
+    },
+    "143": {
+      "file": "cluster_143.json",
+      "paper_count": 70
+    },
+    "144": {
+      "file": "cluster_144.json",
+      "paper_count": 58
+    },
+    "145": {
+      "file": "cluster_145.json",
+      "paper_count": 59
+    },
+    "146": {
+      "file": "cluster_146.json",
+      "paper_count": 28
+    },
+    "147": {
+      "file": "cluster_147.json",
+      "paper_count": 21
+    },
+    "148": {
+      "file": "cluster_148.json",
+      "paper_count": 63
+    },
+    "149": {
+      "file": "cluster_149.json",
+      "paper_count": 61
+    },
+    "150": {
+      "file": "cluster_150.json",
+      "paper_count": 273
+    },
+    "151": {
+      "file": "cluster_151.json",
+      "paper_count": 327
+    },
+    "152": {
+      "file": "cluster_152.json",
+      "paper_count": 249
+    },
+    "153": {
+      "file": "cluster_153.json",
+      "paper_count": 217
+    },
+    "154": {
+      "file": "cluster_154.json",
+      "paper_count": 171
+    },
+    "155": {
+      "file": "cluster_155.json",
+      "paper_count": 193
+    },
+    "156": {
+      "file": "cluster_156.json",
+      "paper_count": 159
+    },
+    "157": {
+      "file": "cluster_157.json",
+      "paper_count": 331
+    },
+    "158": {
+      "file": "cluster_158.json",
+      "paper_count": 196
+    },
+    "159": {
+      "file": "cluster_159.json",
+      "paper_count": 115
+    },
+    "160": {
+      "file": "cluster_160.json",
+      "paper_count": 141
+    },
+    "161": {
+      "file": "cluster_161.json",
+      "paper_count": 140
+    },
+    "162": {
+      "file": "cluster_162.json",
+      "paper_count": 162
+    },
+    "163": {
+      "file": "cluster_163.json",
+      "paper_count": 92
+    },
+    "164": {
+      "file": "cluster_164.json",
+      "paper_count": 96
+    },
+    "165": {
+      "file": "cluster_165.json",
+      "paper_count": 94
+    },
+    "166": {
+      "file": "cluster_166.json",
+      "paper_count": 98
+    },
+    "167": {
+      "file": "cluster_167.json",
+      "paper_count": 137
+    },
+    "168": {
+      "file": "cluster_168.json",
+      "paper_count": 337
+    },
+    "169": {
+      "file": "cluster_169.json",
+      "paper_count": 169
+    },
+    "170": {
+      "file": "cluster_170.json",
+      "paper_count": 54
+    },
+    "171": {
+      "file": "cluster_171.json",
+      "paper_count": 203
+    },
+    "172": {
+      "file": "cluster_172.json",
+      "paper_count": 160
+    },
+    "173": {
+      "file": "cluster_173.json",
+      "paper_count": 99
+    },
+    "174": {
+      "file": "cluster_174.json",
+      "paper_count": 185
+    },
+    "175": {
+      "file": "cluster_175.json",
+      "paper_count": 307
+    },
+    "176": {
+      "file": "cluster_176.json",
+      "paper_count": 114
+    },
+    "177": {
+      "file": "cluster_177.json",
+      "paper_count": 164
+    },
+    "178": {
+      "file": "cluster_178.json",
+      "paper_count": 80
+    },
+    "179": {
+      "file": "cluster_179.json",
+      "paper_count": 250
+    },
+    "180": {
+      "file": "cluster_180.json",
+      "paper_count": 151
+    },
+    "181": {
+      "file": "cluster_181.json",
+      "paper_count": 148
+    },
+    "182": {
+      "file": "cluster_182.json",
+      "paper_count": 147
+    },
+    "183": {
+      "file": "cluster_183.json",
+      "paper_count": 140
+    },
+    "184": {
+      "file": "cluster_184.json",
+      "paper_count": 65
+    },
+    "185": {
+      "file": "cluster_185.json",
+      "paper_count": 152
+    },
+    "186": {
+      "file": "cluster_186.json",
+      "paper_count": 97
+    },
+    "187": {
+      "file": "cluster_187.json",
+      "paper_count": 108
+    },
+    "188": {
+      "file": "cluster_188.json",
+      "paper_count": 97
+    },
+    "189": {
+      "file": "cluster_189.json",
+      "paper_count": 76
+    },
+    "190": {
+      "file": "cluster_190.json",
+      "paper_count": 112
+    },
+    "191": {
+      "file": "cluster_191.json",
+      "paper_count": 125
+    },
+    "192": {
+      "file": "cluster_192.json",
+      "paper_count": 101
+    },
+    "193": {
+      "file": "cluster_193.json",
+      "paper_count": 101
+    },
+    "194": {
+      "file": "cluster_194.json",
+      "paper_count": 140
+    },
+    "195": {
+      "file": "cluster_195.json",
+      "paper_count": 71
+    },
+    "196": {
+      "file": "cluster_196.json",
+      "paper_count": 34
+    },
+    "197": {
+      "file": "cluster_197.json",
+      "paper_count": 217
+    },
+    "198": {
+      "file": "cluster_198.json",
+      "paper_count": 57
+    },
+    "199": {
+      "file": "cluster_199.json",
+      "paper_count": 136
+    },
+    "200": {
+      "file": "cluster_200.json",
+      "paper_count": 122
+    },
+    "201": {
+      "file": "cluster_201.json",
+      "paper_count": 91
+    },
+    "202": {
+      "file": "cluster_202.json",
+      "paper_count": 84
+    },
+    "203": {
+      "file": "cluster_203.json",
+      "paper_count": 89
+    },
+    "204": {
+      "file": "cluster_204.json",
+      "paper_count": 83
+    },
+    "205": {
+      "file": "cluster_205.json",
+      "paper_count": 90
+    },
+    "206": {
+      "file": "cluster_206.json",
+      "paper_count": 108
+    },
+    "207": {
+      "file": "cluster_207.json",
+      "paper_count": 139
+    },
+    "208": {
+      "file": "cluster_208.json",
+      "paper_count": 71
+    },
+    "209": {
+      "file": "cluster_209.json",
+      "paper_count": 124
+    }
+  },
+  "group_centers": {
+    "ai": {
+      "center": [
+        0.5306237936019897,
+        2.285874128341675,
+        5.977536201477051
+      ],
+      "paper_count": 28455,
+      "domains": [
+        "acl",
+        "cvpr",
+        "iclr",
+        "robotics",
+        "siggraph"
+      ],
+      "center_type": "medoid"
+    },
+    "science": {
+      "center": [
+        12.035218238830566,
+        2.4218757152557373,
+        7.408727645874023
+      ],
+      "paper_count": 8589,
+      "domains": [
+        "nature",
+        "science"
+      ],
+      "center_type": "medoid"
+    },
+    "all": {
+      "center": [
+        2.2378578186035156,
+        3.0837156772613525,
+        5.840365409851074
+      ],
+      "paper_count": 37044,
+      "domains": [
+        "acl",
+        "cvpr",
+        "iclr",
+        "nature",
+        "robotics",
+        "science",
+        "siggraph"
+      ],
+      "center_type": "medoid"
+    }
+  }
+}

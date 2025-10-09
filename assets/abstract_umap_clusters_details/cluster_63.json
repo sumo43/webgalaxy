@@ -1,0 +1,2797 @@
+{
+  "cluster_id": 63,
+  "papers": [
+    {
+      "id": "iclr24_OUeIBFhyem",
+      "paper_id": "OUeIBFhyem",
+      "title": "$\\infty$-Diff: Infinite Resolution Diffusion with Subsampled Mollified States",
+      "authors": "Sam Bond-Taylor, Chris G. Willcocks",
+      "paper_url": "https://openreview.net/pdf?id=OUeIBFhyem",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_RzNlECeoOB",
+      "paper_id": "RzNlECeoOB",
+      "title": "$t^3$-Variational Autoencoder: Learning Heavy-tailed Data with Student's t and Power Divergence",
+      "authors": "Juno Kim, Jaehyuk Kwon, Mincheol Cho, Hyunjong Lee, Joong-Ho Won",
+      "paper_url": "https://openreview.net/pdf?id=RzNlECeoOB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_byofn4HN8F",
+      "paper_id": "byofn4HN8F",
+      "title": "2-Rectifications are Enough for Straight Flows: A Theoretical Insight into Wasserstein Convergence",
+      "authors": "Saptarshi Roy, Vansh Bansal, Purnamrita Sarkar, Alessandro Rinaldo",
+      "paper_url": "https://openreview.net/pdf?id=byofn4HN8F",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_0jxPyVWmiiF",
+      "paper_id": "0jxPyVWmiiF",
+      "title": "A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data",
+      "authors": "Jiajin Li, Jianheng Tang, Lemin Kong, Huikang Liu, Jia Li, Anthony Man-Cho So, Jose Blanchet",
+      "paper_url": "https://openreview.net/pdf/f1fd07860b80238a145607a2cc1429011d414718.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_fCSq8yrDkc",
+      "paper_id": "fCSq8yrDkc",
+      "title": "A fast and accurate splitting method for optimal transport: analysis and implementation",
+      "authors": "Vien V. Mai, Jacob Lindbäck, Mikael Johansson",
+      "paper_url": "https://openreview.net/pdf/c466eee883ed6f6c6b6dad8f7dc4d5f36092bb25.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_aMXD8gqsIiC",
+      "paper_id": "aMXD8gqsIiC",
+      "title": "A Higher Precision Algorithm for Computing the $1$-Wasserstein Distance",
+      "authors": "Pankaj K Agarwal, Sharath Raghvendra, Pouyan Shirzadian, Rachita Sowle",
+      "paper_url": "https://openreview.net/pdf/469fe4170141940b63599e6d0d1e5b3a205619b5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_PYQmaU4RwI",
+      "paper_id": "PYQmaU4RwI",
+      "title": "A Novel Dual of Shannon Information and Weighting Scheme",
+      "authors": "Arthur Jun ZHANG",
+      "paper_url": "https://openreview.net/pdf?id=PYQmaU4RwI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WjRPZsfeBO",
+      "paper_id": "WjRPZsfeBO",
+      "title": "A Statistical Analysis of Wasserstein Autoencoders for Intrinsically Low-dimensional Data",
+      "authors": "Saptarshi Chakraborty, Peter Bartlett",
+      "paper_url": "https://openreview.net/pdf?id=WjRPZsfeBO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_31d5RLCUuXC",
+      "paper_id": "31d5RLCUuXC",
+      "title": "A Tale of Two Flows: Cooperative Learning of Langevin Flow and Normalizing Flow Toward Energy-Based Model",
+      "authors": "Jianwen Xie, Yaxuan Zhu, Jun Li, Ping Li",
+      "paper_url": "https://openreview.net/pdf/64ee4e9d385df72d0c9c8052fdd6ef8cc2b78e7a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_ZK6vTvb84s",
+      "paper_id": "ZK6vTvb84s",
+      "title": "A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention",
+      "authors": "Grégoire Mialon, Dexiong Chen, Alexandre d'Aspremont, Julien Mairal",
+      "paper_url": "https://openreview.net/pdf/209f1d71b4e8e73a59634e771ff1c3a43d72b849.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_gWrWUaCbMa",
+      "paper_id": "gWrWUaCbMa",
+      "title": "A Truncated Newton Method for Optimal Transport",
+      "authors": "Mete Kemertas, Amir-massoud Farahmand, Allan Douglas Jepson",
+      "paper_url": "https://openreview.net/pdf?id=gWrWUaCbMa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yIlyHJdYV3",
+      "paper_id": "yIlyHJdYV3",
+      "title": "A Unified Framework for Forward and Inverse Problems in Subsurface Imaging using Latent Space Translations",
+      "authors": "Naveen Gupta, Medha Sawhney, Arka Daw, Youzuo Lin, Anuj Karpatne",
+      "paper_url": "https://openreview.net/pdf?id=yIlyHJdYV3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_W2d3LZbhhI",
+      "paper_id": "W2d3LZbhhI",
+      "title": "A Unified Sampling Framework for Solver Searching of Diffusion Probabilistic Models",
+      "authors": "Enshu Liu, Xuefei Ning, Huazhong Yang, Yu Wang",
+      "paper_url": "https://openreview.net/pdf?id=W2d3LZbhhI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_6QkjC_cs03X",
+      "paper_id": "6QkjC_cs03X",
+      "title": "A VAE for Transformers with Nonparametric Variational Information Bottleneck",
+      "authors": "James Henderson, Fabio James Fehr",
+      "paper_url": "https://openreview.net/pdf/a0427f590a1b2bdae48d9d5bf012e33be0c7837c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_iOnhIy-a-0n",
+      "paper_id": "iOnhIy-a-0n",
+      "title": "Accelerating Convergence of Replica Exchange Stochastic Gradient MCMC via Variance Reduction",
+      "authors": "Wei Deng, Qi Feng, Georgios P. Karagiannis, Guang Lin, Faming Liang",
+      "paper_url": "https://openreview.net/pdf/c077f043fe1bbbb4d720b3fb0fbe7afe580d8374.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_F0KTk2plQzO",
+      "paper_id": "F0KTk2plQzO",
+      "title": "Accelerating Guided Diffusion Sampling with Splitting Numerical Methods",
+      "authors": "Suttisak Wizadwongsa, Supasorn Suwajanakorn",
+      "paper_url": "https://openreview.net/pdf/b76de0f572f704575f927eccbbb6c0031f8b7427.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_FbRY1XVfwK",
+      "paper_id": "FbRY1XVfwK",
+      "title": "Accelerating Hamiltonian Monte Carlo via Chebyshev Integration Time",
+      "authors": "Jun-Kun Wang, Andre Wibisono",
+      "paper_url": "https://openreview.net/pdf/4edd646eadffbd394fd642e6eb387dc6be646d76.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Kuj5gVp5GQ",
+      "paper_id": "Kuj5gVp5GQ",
+      "title": "Accelerating Sinkhorn algorithm with sparse Newton iterations",
+      "authors": "Xun Tang, Michael Shavlovsky, Holakou Rahmanian, Elisa Tardini, Kiran Koshy Thekumparampil, Tesi Xiao, Lexing Ying",
+      "paper_url": "https://openreview.net/pdf?id=Kuj5gVp5GQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ispjankYab",
+      "paper_id": "ispjankYab",
+      "title": "Action abstractions for amortized sampling",
+      "authors": "Oussama Boussif, Lena Nehale Ezzine, Joseph D Viviano, Michał Koziarski, Moksh Jain, Nikolay Malkin, Emmanuel Bengio, Rim Assouel, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=ispjankYab",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BdmVgLMvaf",
+      "paper_id": "BdmVgLMvaf",
+      "title": "Adaptive teachers for amortized samplers",
+      "authors": "Minsu Kim, Sanghyeok Choi, Taeyoung Yun, Emmanuel Bengio, Leo Feng, Jarrid Rector-Brooks, Sungsoo Ahn, Jinkyoo Park, Nikolay Malkin, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=BdmVgLMvaf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xQBRrtQM8u",
+      "paper_id": "xQBRrtQM8u",
+      "title": "Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control",
+      "authors": "Carles Domingo-Enrich, Michal Drozdzal, Brian Karrer, Ricky T. Q. Chen",
+      "paper_url": "https://openreview.net/pdf?id=xQBRrtQM8u",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_y33lDRBgWI",
+      "paper_id": "y33lDRBgWI",
+      "title": "AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models",
+      "authors": "Jiachun Pan, Jun Hao Liew, Vincent Tan, Jiashi Feng, Hanshu Yan",
+      "paper_url": "https://openreview.net/pdf?id=y33lDRBgWI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_eLfqMl3z3lq",
+      "paper_id": "eLfqMl3z3lq",
+      "title": "Adversarial score matching and improved sampling for image generation",
+      "authors": "Alexia Jolicoeur-Martineau, Rémi Piché-Taillefer, Ioannis Mitliagkas, Remi Tachet des Combes",
+      "paper_url": "https://openreview.net/pdf/0736f85c2423935a24eac2b7bf463207eb3fa02a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ndCJeysCPe",
+      "paper_id": "ndCJeysCPe",
+      "title": "Analysis of Learning a Flow-based Generative Model from Limited Sample Complexity",
+      "authors": "Hugo Cui, Florent Krzakala, Eric Vanden-Eijnden, Lenka Zdeborova",
+      "paper_url": "https://openreview.net/pdf?id=ndCJeysCPe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_0xiJLKH-ufZ",
+      "paper_id": "0xiJLKH-ufZ",
+      "title": "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models",
+      "authors": "Fan Bao, Chongxuan Li, Jun Zhu, Bo Zhang",
+      "paper_url": "https://openreview.net/pdf/541cdc9e000367bb0bd3fc42201573ed434094c8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_jODehvtTDx",
+      "paper_id": "jODehvtTDx",
+      "title": "Analyzing and Improving Optimal-Transport-based Adversarial Networks",
+      "authors": "Jaemoo Choi, Jaewoong Choi, Myungjoo Kang",
+      "paper_url": "https://openreview.net/pdf?id=jODehvtTDx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_eBS-3YiaIL-",
+      "paper_id": "eBS-3YiaIL-",
+      "title": "Analyzing and Improving the Optimization Landscape of Noise-Contrastive Estimation",
+      "authors": "Bingbin Liu, Elan Rosenfeld, Pradeep Kumar Ravikumar, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf/6fece6afb2eea04bf01bd8ff7ec9da4a780eb660.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_lEkl0jdSb7B",
+      "paper_id": "lEkl0jdSb7B",
+      "title": "Any-scale Balanced Samplers for Discrete Space",
+      "authors": "Haoran Sun, Bo Dai, Charles Sutton, Dale Schuurmans, Hanjun Dai",
+      "paper_url": "https://openreview.net/pdf/52af7225d7de609b61840c7cb0d899b963a2013e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_TSRTzJnuEBS",
+      "paper_id": "TSRTzJnuEBS",
+      "title": "Anytime Sampling for Autoregressive Models via Ordered Autoencoding",
+      "authors": "Yilun Xu, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/1367785ee095d8df274476d18c53a21ad0d67173.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_a2-aoqmeYM4",
+      "paper_id": "a2-aoqmeYM4",
+      "title": "Approximate Bayesian Inference with Stein Functional Variational Gradient Descent",
+      "authors": "Tobias Pielok, Bernd Bischl, David Rügamer",
+      "paper_url": "https://openreview.net/pdf/e46a8d9dc8a67950ba6f68c14b150e0c2d8c9290.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_9EsrXMzlFQY",
+      "paper_id": "9EsrXMzlFQY",
+      "title": "Async-RED: A Provably Convergent Asynchronous Block Parallel Stochastic Method using Deep Denoising Priors",
+      "authors": "Yu Sun, Jiaming Liu, Yiran Sun, Brendt Wohlberg, Ulugbek Kamilov",
+      "paper_url": "https://openreview.net/pdf/42abafb63caa1b6ddc6bda1b8e8337b1c2a9db91.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_iMqTLyfwnOO",
+      "paper_id": "iMqTLyfwnOO",
+      "title": "Augmented Sliced Wasserstein Distances",
+      "authors": "Xiongjie Chen, Yongxin Yang, Yunpeng Li",
+      "paper_url": "https://openreview.net/pdf/d09a765a0ca6e8fe66e61db6af5518d089814c41.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_Lm8T39vLDTE",
+      "paper_id": "Lm8T39vLDTE",
+      "title": "Autoregressive Diffusion Models",
+      "authors": "Emiel Hoogeboom, Alexey A. Gritsenko, Jasmijn Bastings, Ben Poole, Rianne van den Berg, Tim Salimans",
+      "paper_url": "https://openreview.net/pdf/1e4e9d350d86450e306f14f662b9cdf718fce184.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_YcM6ofShwY",
+      "paper_id": "YcM6ofShwY",
+      "title": "BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference",
+      "authors": "Siqi Kou, Lei Gan, Dequan Wang, Chongxuan Li, Zhijie Deng",
+      "paper_url": "https://openreview.net/pdf?id=YcM6ofShwY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_h8yg0hT96f",
+      "paper_id": "h8yg0hT96f",
+      "title": "Bayesian Experimental Design Via Contrastive Diffusions",
+      "authors": "Jacopo Iollo, Christophe Heinkelé, Pierre Alliez, Florence Forbes",
+      "paper_url": "https://openreview.net/pdf?id=h8yg0hT96f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rnL3OafDdw",
+      "paper_id": "rnL3OafDdw",
+      "title": "Bayesian Image Regression with Soft-thresholded Conditional Autoregressive Prior",
+      "authors": "Yuliang Xu, Jian Kang",
+      "paper_url": "https://openreview.net/pdf?id=rnL3OafDdw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Iyve2ycvGZ",
+      "paper_id": "Iyve2ycvGZ",
+      "title": "Bellman Optimal Stepsize Straightening of Flow-Matching Models",
+      "authors": "Bao Nguyen, Binh Nguyen, Viet Anh Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=Iyve2ycvGZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1PXEY7ofFX",
+      "paper_id": "1PXEY7ofFX",
+      "title": "Bespoke Solvers for Generative Flow Models",
+      "authors": "Neta Shaul, Juan Perez, Ricky T. Q. Chen, Ali Thabet, Albert Pumarola, Yaron Lipman",
+      "paper_url": "https://openreview.net/pdf?id=1PXEY7ofFX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4NTrco82W0",
+      "paper_id": "4NTrco82W0",
+      "title": "Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks",
+      "authors": "Rui Hu, Yifan Zhang, Zhuoran Li, Longbo Huang",
+      "paper_url": "https://openreview.net/pdf?id=4NTrco82W0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4zZFGliCl9",
+      "paper_id": "4zZFGliCl9",
+      "title": "Beyond Vanilla Variational Autoencoders: Detecting Posterior Collapse in Conditional and Hierarchical Variational Autoencoders",
+      "authors": "Hien Dang, Tho Tran Huu, Tan Minh Nguyen, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf?id=4zZFGliCl9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_562B7aLi5X",
+      "paper_id": "562B7aLi5X",
+      "title": "Binary Losses for Density Ratio Estimation",
+      "authors": "Werner Zellinger",
+      "paper_url": "https://openreview.net/pdf?id=562B7aLi5X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pRCOZllZdT",
+      "paper_id": "pRCOZllZdT",
+      "title": "Boltzmann priors for Implicit Transfer Operators",
+      "authors": "Juan Viguera Diez, Mathias Jacob Schreiner, Ola Engkvist, Simon Olsson",
+      "paper_url": "https://openreview.net/pdf?id=pRCOZllZdT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ttq44QjKda",
+      "paper_id": "ttq44QjKda",
+      "title": "Bounds on $L_p$ Errors in Density Ratio Estimation via $f$-Divergence Loss Functions",
+      "authors": "Yoshiaki Kitazawa",
+      "paper_url": "https://openreview.net/pdf?id=ttq44QjKda",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_m5qpn0KTMZ",
+      "paper_id": "m5qpn0KTMZ",
+      "title": "Bridging the Gap Between f-divergences and Bayes Hilbert Spaces",
+      "authors": "Linus Lach, Alexander Willi Fottner, Yarema Okhrin",
+      "paper_url": "https://openreview.net/pdf?id=m5qpn0KTMZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bNVbOS3lrl",
+      "paper_id": "bNVbOS3lrl",
+      "title": "Bridging the Gap between Variational Inference and Stochastic Gradient MCMC in Function Space",
+      "authors": "Mengjing Wu, Junyu Xuan, Jie Lu",
+      "paper_url": "https://openreview.net/pdf?id=bNVbOS3lrl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_reZKq6hjOZ",
+      "paper_id": "reZKq6hjOZ",
+      "title": "Broadening Target Distributions for Accelerated Diffusion Models via a Novel Analysis Approach",
+      "authors": "Yuchen Liang, Peizhong Ju, Yingbin Liang, Ness Shroff",
+      "paper_url": "https://openreview.net/pdf?id=reZKq6hjOZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_li7qeBbCR1t",
+      "paper_id": "li7qeBbCR1t",
+      "title": "Building Normalizing Flows with Stochastic Interpolants",
+      "authors": "Michael Samuel Albergo, Eric Vanden-Eijnden",
+      "paper_url": "https://openreview.net/pdf/45d09331dca3b57160a64f0922ee4841585e15b5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_-GLNZeVDuik",
+      "paper_id": "-GLNZeVDuik",
+      "title": "Categorical Normalizing Flows via Continuous Transformations",
+      "authors": "Phillip Lippe, Efstratios Gavves",
+      "paper_url": "https://openreview.net/pdf/ce39823e0ee0cf47b03da3ce20b4927562d5b1b5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_yAYHho4fATa",
+      "paper_id": "yAYHho4fATa",
+      "title": "CFlowNets: Continuous Control with Generative Flow Networks",
+      "authors": "Yinchuan Li, Shuang Luo, Haozhi Wang, Jianye HAO",
+      "paper_url": "https://openreview.net/pdf/d04aea952ea57b0759baa3d16e05576bc4d9fd2b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_yiMB2DOjsR",
+      "paper_id": "yiMB2DOjsR",
+      "title": "Chain of Log-Concave Markov Chains",
+      "authors": "Saeed Saremi, Ji Won Park, Francis Bach",
+      "paper_url": "https://openreview.net/pdf?id=yiMB2DOjsR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PiHGrTTnvb",
+      "paper_id": "PiHGrTTnvb",
+      "title": "CL-DiffPhyCon: Closed-loop Diffusion Control of Complex Physical Systems",
+      "authors": "Long Wei, Haodong Feng, Yuchen Yang, Ruiqi Feng, Peiyan Hu, Xiang Zheng, Tao Zhang, Dixia Fan, Tailin Wu",
+      "paper_url": "https://openreview.net/pdf?id=PiHGrTTnvb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tXUkT709OJ",
+      "paper_id": "tXUkT709OJ",
+      "title": "COFlowNet: Conservative Constraints on Flows Enable High-Quality Candidate Generation",
+      "authors": "Yudong Zhang, Xuan Yu, Xu Wang, Zhaoyang Sun, Chen Zhang, Pengkun Wang, Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=tXUkT709OJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cNmu0hZ4CL",
+      "paper_id": "cNmu0hZ4CL",
+      "title": "Comparing noisy neural population dynamics using optimal transport distances",
+      "authors": "Amin Nejatbakhsh, Victor Geadah, Alex H Williams, David Lipshutz",
+      "paper_url": "https://openreview.net/pdf?id=cNmu0hZ4CL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xak8c9l1nu",
+      "paper_id": "xak8c9l1nu",
+      "title": "Computational Explorations of Total Variation Distance",
+      "authors": "Arnab Bhattacharyya, Sutanu Gayen, Kuldeep S. Meel, Dimitrios Myrisiotis, A. Pavan, N. V. Vinodchandran",
+      "paper_url": "https://openreview.net/pdf?id=xak8c9l1nu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_gwcQajoXNF",
+      "paper_id": "gwcQajoXNF",
+      "title": "Computing all Optimal Partial Transports",
+      "authors": "Abhijeet Phatak, Sharath Raghvendra, CHITTARANJAN TRIPATHY, Kaiyi Zhang",
+      "paper_url": "https://openreview.net/pdf/64f90bb3982ae32f9c08bf7b5b19a36048884aa8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_NltQraRnbW",
+      "paper_id": "NltQraRnbW",
+      "title": "Conditional Diffusion Models are Minimax-Optimal and Manifold-Adaptive for Conditional Distribution Estimation",
+      "authors": "Rong Tang, Lizhen Lin, Yun Yang",
+      "paper_url": "https://openreview.net/pdf?id=NltQraRnbW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_3tFAs5E-Pe",
+      "paper_id": "3tFAs5E-Pe",
+      "title": "Continuous Wasserstein-2 Barycenter Estimation without Minimax Optimization",
+      "authors": "Alexander Korotin, Lingxiao Li, Justin Solomon, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf/e0ff5cb89ad8da4cac3b85587213f35c465757fc.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_MLSvqIHRidA",
+      "paper_id": "MLSvqIHRidA",
+      "title": "Contrastive Divergence Learning is a Time Reversal Adversarial Game",
+      "authors": "Omer Yair, Tomer Michaeli",
+      "paper_url": "https://openreview.net/pdf/03d95d33dbce2d626edf50ba2d01876c374f7049.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_pq1WUegkza",
+      "paper_id": "pq1WUegkza",
+      "title": "Convergence of Score-Based Discrete Diffusion Models: A Discrete-Time Analysis",
+      "authors": "Zikun Zhang, Zixiang Chen, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=pq1WUegkza",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_te7PVH1sPxJ",
+      "paper_id": "te7PVH1sPxJ",
+      "title": "Convex Potential Flows: Universal Probability Distributions with Optimal Transport and Convex Optimization",
+      "authors": "Chin-Wei Huang, Ricky T. Q. Chen, Christos Tsirigotis, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/434f61cddaaf58036729fa7ecb4dd5948ef13993.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_ObtGcyKmwna",
+      "paper_id": "ObtGcyKmwna",
+      "title": "Critic Sequential Monte Carlo",
+      "authors": "Vasileios Lioutas, Jonathan Wilder Lavington, Justice Sefas, Matthew Niedoba, Yunpeng Liu, Berend Zwartsenberg, Setareh Dabiri, Frank Wood, Adam Scibior",
+      "paper_url": "https://openreview.net/pdf/e7242778951d90ac631dfb0d5a76dd58ce662af1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_hrqNOxpItr",
+      "paper_id": "hrqNOxpItr",
+      "title": "Cross-Entropy Is All You Need To Invert the Data Generating Process",
+      "authors": "Patrik Reizinger, Alice Bizeul, Attila Juhos, Julia E Vogt, Randall Balestriero, Wieland Brendel, David Klindt",
+      "paper_url": "https://openreview.net/pdf?id=hrqNOxpItr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DsEhqQtfAG",
+      "paper_id": "DsEhqQtfAG",
+      "title": "Decomposed Diffusion Sampler for Accelerating Large-Scale Inverse Problems",
+      "authors": "Hyungjin Chung, Suhyeon Lee, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=DsEhqQtfAG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_iWLByfvUhN",
+      "paper_id": "iWLByfvUhN",
+      "title": "Decoupling Global and Local Representations via Invertible Generative Flows",
+      "authors": "Xuezhe Ma, Xiang Kong, Shanghang Zhang, Eduard H Hovy",
+      "paper_url": "https://openreview.net/pdf/f2b3766907999d10ac5b2857ad661bce8495fe3c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_M9u_ctqFUlg",
+      "paper_id": "M9u_ctqFUlg",
+      "title": "Deep Generative Modeling on Limited Data with Regularization by Nontransferable Pre-trained Models",
+      "authors": "Yong Zhong, Hongtao Liu, Xiaodong Liu, Fan Bao, Weiran Shen, Chongxuan Li",
+      "paper_url": "https://openreview.net/pdf/f33b211732a9bbce5a0a49de0d4a54f0f976f1cc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Pf85K2wtz8",
+      "paper_id": "Pf85K2wtz8",
+      "title": "Deep MMD Gradient Flow without adversarial training",
+      "authors": "Alexandre Galashov, Valentin De Bortoli, Arthur Gretton",
+      "paper_url": "https://openreview.net/pdf?id=Pf85K2wtz8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LemSSn8htt",
+      "paper_id": "LemSSn8htt",
+      "title": "Delta-AI: Local objectives for amortized inference in sparse graphical models",
+      "authors": "Jean-Pierre René Falet, Hae Beom Lee, Nikolay Malkin, Chen Sun, Dragos Secrieru, Dinghuai Zhang, Guillaume Lajoie, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=LemSSn8htt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SYmUS6qRub",
+      "paper_id": "SYmUS6qRub",
+      "title": "Denoising Levy Probabilistic Models",
+      "authors": "Dario Shariatian, Umut Simsekli, Alain Oliviero Durmus",
+      "paper_url": "https://openreview.net/pdf?id=SYmUS6qRub",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_g8wBdhnstYz",
+      "paper_id": "g8wBdhnstYz",
+      "title": "Deterministic training of generative autoencoders using invertible layers",
+      "authors": "Gianluigi Silvestri, Daan Roos, Luca Ambrogioni",
+      "paper_url": "https://openreview.net/pdf/78c7fb939078a784f02006f7272c92a758e1e9c7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_c9z65sDx6M",
+      "paper_id": "c9z65sDx6M",
+      "title": "Diff-PIC: Revolutionizing Particle-In-Cell Nuclear Fusion Simulation with Diffusion Models",
+      "authors": "Chuan Liu, Chunshu Wu, shihui cao, Mingkai Chen, James Chenhao Liang, Ang Li, Michael Huang, Chuang Ren, Ying Nian Wu, Dongfang Liu, Tong Geng",
+      "paper_url": "https://openreview.net/pdf?id=c9z65sDx6M",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gxhRR8vUQb",
+      "paper_id": "gxhRR8vUQb",
+      "title": "Diffeomorphic Mesh Deformation via Efficient Optimal Transport for Cortical Surface Reconstruction",
+      "authors": "Thanh Tung Le, Khai Nguyen, shanlin sun, Kun Han, Nhat Ho, Xiaohui Xie",
+      "paper_url": "https://openreview.net/pdf?id=gxhRR8vUQb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vr1QdCNJmN",
+      "paper_id": "vr1QdCNJmN",
+      "title": "Difference-of-submodular Bregman Divergence",
+      "authors": "Masanari Kimura, Takahiro Kawashima, Tasuku Soma, Hideitsu Hino",
+      "paper_url": "https://openreview.net/pdf?id=vr1QdCNJmN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OXP9Ns0gnIq",
+      "paper_id": "OXP9Ns0gnIq",
+      "title": "Differentiable Gaussianization Layers for Inverse Problems Regularized by Deep Generative Models",
+      "authors": "Dongzhuo Li",
+      "paper_url": "https://openreview.net/pdf/0d918b07dda7aa6571c2c0ac1eff7f920d47bf7b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_eghAocvqBk",
+      "paper_id": "eghAocvqBk",
+      "title": "Diffusion Bridge Implicit Models",
+      "authors": "Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=eghAocvqBk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_OIsahq1UYC",
+      "paper_id": "OIsahq1UYC",
+      "title": "Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization",
+      "authors": "Dinghuai Zhang, Ricky T. Q. Chen, Cheng-Hao Liu, Aaron Courville, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=OIsahq1UYC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_OnD9zGAGT0k",
+      "paper_id": "OnD9zGAGT0k",
+      "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+      "authors": "Hyungjin Chung, Jeongsol Kim, Michael Thompson Mccann, Marc Louis Klasky, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf/dd7f2e1f5581d91eb4c1ff34fec78b93d3dfa599.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_tplXNcHZs1",
+      "paper_id": "tplXNcHZs1",
+      "title": "Diffusion Posterior Sampling for Linear Inverse Problem Solving: A Filtering Perspective",
+      "authors": "Zehao Dou, Yang Song",
+      "paper_url": "https://openreview.net/pdf?id=tplXNcHZs1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ik91mY-2GN",
+      "paper_id": "ik91mY-2GN",
+      "title": "Diffusion Probabilistic Fields",
+      "authors": "Peiye Zhuang, Samira Abnar, Jiatao Gu, Alex Schwing, Joshua M. Susskind, Miguel Ángel Bautista",
+      "paper_url": "https://openreview.net/pdf/73ebf3d9d08b88d3b59f24b690fe3f2584b6d628.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kRBQwlkFSP",
+      "paper_id": "kRBQwlkFSP",
+      "title": "Diffusion State-Guided Projected Gradient for Inverse Problems",
+      "authors": "Rayhan Zirvi, Bahareh Tolooshams, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=kRBQwlkFSP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_j8WHjM9aMm",
+      "paper_id": "j8WHjM9aMm",
+      "title": "Diffusion-based Neural Network Weights Generation",
+      "authors": "Bedionita Soro, Bruno Andreis, Hayeon Lee, Wonyong Jeong, Song Chong, Frank Hutter, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf?id=j8WHjM9aMm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_cMJo1FTwBTQ",
+      "paper_id": "cMJo1FTwBTQ",
+      "title": "DINO as a von Mises-Fisher mixture model",
+      "authors": "Hariprasath Govindarajan, Per Sidén, Jacob Roll, Fredrik Lindsten",
+      "paper_url": "https://openreview.net/pdf/7c0fa9125fa53c842a7c216fd9f1b16ee517710f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FXw0okNcOb",
+      "paper_id": "FXw0okNcOb",
+      "title": "Discrete Copula Diffusion",
+      "authors": "Anji Liu, Oliver Broadrick, Mathias Niepert, Guy Van den Broeck",
+      "paper_url": "https://openreview.net/pdf?id=FXw0okNcOb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tQyh0gnfqW",
+      "paper_id": "tQyh0gnfqW",
+      "title": "Discrete Diffusion Schrödinger Bridge Matching for Graph Transformation",
+      "authors": "Jun Hyeong Kim, Seonghwan Kim, Seokhyun Moon, Hyeongwoo Kim, Jeheon Woo, Woo Youn Kim",
+      "paper_url": "https://openreview.net/pdf?id=tQyh0gnfqW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OiQttMHwce",
+      "paper_id": "OiQttMHwce",
+      "title": "Distance-Based Tree-Sliced Wasserstein Distance",
+      "authors": "Hoang V. Tran, Minh-Khoi Nguyen-Nhat, Huyen Trang Pham, Thanh Chu, Tam Le, Tan Minh Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=OiQttMHwce",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zKlFXV87Pp",
+      "paper_id": "zKlFXV87Pp",
+      "title": "Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching",
+      "authors": "Enshu Liu, Xuefei Ning, Yu Wang, Zinan Lin",
+      "paper_url": "https://openreview.net/pdf?id=zKlFXV87Pp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_QYjO70ACDK",
+      "paper_id": "QYjO70ACDK",
+      "title": "Distributional Sliced-Wasserstein and Applications to Generative Modeling",
+      "authors": "Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui",
+      "paper_url": "https://openreview.net/pdf/c1fe6afe9b88f261b6452d8a2c078c7ac57ebc41.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_aTzMi4yV_RO",
+      "paper_id": "aTzMi4yV_RO",
+      "title": "Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs",
+      "authors": "Jaewoong Choi, Junho Lee, Changyeon Yoon, Jung Ho Park, Geonho Hwang, Myungjoo Kang",
+      "paper_url": "https://openreview.net/pdf/35267777d7fe835879ddec7c83aecd9d170d070d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_7YXaOvunqo",
+      "paper_id": "7YXaOvunqo",
+      "title": "Do WGANs succeed because they minimize the Wasserstein Distance? Lessons from Discrete Generators",
+      "authors": "Ariel Elnekave, Yair Weiss",
+      "paper_url": "https://openreview.net/pdf?id=7YXaOvunqo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RaR3ETzyKp",
+      "paper_id": "RaR3ETzyKp",
+      "title": "Easing Training Process of Rectified Flow Models Via Lengthening Inter-Path Distance",
+      "authors": "Xu Shifeng, Yanzhu Liu, Adams Wai-Kin Kong",
+      "paper_url": "https://openreview.net/pdf?id=RaR3ETzyKp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_R98ZfMt-jE",
+      "paper_id": "R98ZfMt-jE",
+      "title": "Efficient Discrete Multi Marginal Optimal Transport Regularization",
+      "authors": "Ronak Mehta, Jeffery Kline, Vishnu Suresh Lokhande, Glenn Fung, Vikas Singh",
+      "paper_url": "https://openreview.net/pdf/751b7f72b933e8842e1162601b80445c8fa2b7c7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Aye5wL6TCn",
+      "paper_id": "Aye5wL6TCn",
+      "title": "Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets",
+      "authors": "Zhen Liu, Tim Z. Xiao, Weiyang Liu, Yoshua Bengio, Dinghuai Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Aye5wL6TCn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qA4foxO5Gf",
+      "paper_id": "qA4foxO5Gf",
+      "title": "Efficient Integrators for Diffusion Generative Models",
+      "authors": "Kushagra Pandey, Maja Rudolph, Stephan Mandt",
+      "paper_url": "https://openreview.net/pdf?id=qA4foxO5Gf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_J1djqLAa6N",
+      "paper_id": "J1djqLAa6N",
+      "title": "Efficient Score Matching with Deep Equilibrium Layers",
+      "authors": "Yuhao Huang, Qingsong Wang, Akwum Onwunta, Bao Wang",
+      "paper_url": "https://openreview.net/pdf?id=J1djqLAa6N",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2rBLbNJwBm",
+      "paper_id": "2rBLbNJwBm",
+      "title": "ELBOing Stein: Variational Bayes with Stein Mixture Inference",
+      "authors": "Ola Rønning, Eric Nalisnick, Christophe Ley, Padhraic Smyth, Thomas Hamelryck",
+      "paper_url": "https://openreview.net/pdf?id=2rBLbNJwBm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9pEJSVfDbba",
+      "paper_id": "9pEJSVfDbba",
+      "title": "Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling",
+      "authors": "Gianluigi Silvestri, Emily Fertig, Dave Moore, Luca Ambrogioni",
+      "paper_url": "https://openreview.net/pdf/ea5ccb4619c2399f3a652126f47196d475ee7c9c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_iXbUquaWbl",
+      "paper_id": "iXbUquaWbl",
+      "title": "End-to-end Learning of Gaussian Mixture Priors for Diffusion Sampler",
+      "authors": "Denis Blessing, Xiaogang Jia, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf?id=iXbUquaWbl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_d6tUsZeVs7",
+      "paper_id": "d6tUsZeVs7",
+      "title": "Energy-guided Entropic Neural Optimal Transport",
+      "authors": "Petr Mokrov, Alexander Korotin, Alexander Kolesov, Nikita Gushchin, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf?id=d6tUsZeVs7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rCGleSgNBK",
+      "paper_id": "rCGleSgNBK",
+      "title": "Enhanced Diffusion Sampling via Extrapolation with Multiple ODE Solutions",
+      "authors": "Jinyoung Choi, Junoh Kang, Bohyung Han",
+      "paper_url": "https://openreview.net/pdf?id=rCGleSgNBK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oGNdBvymod",
+      "paper_id": "oGNdBvymod",
+      "title": "Entropy-MCMC: Sampling from Flat Basins with Ease",
+      "authors": "Bolian Li, Ruqi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=oGNdBvymod",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Oju2Qu9jvn",
+      "paper_id": "Oju2Qu9jvn",
+      "title": "Estimating Conditional Mutual Information for Dynamic Feature Selection",
+      "authors": "Soham Gadgil, Ian Connick Covert, Su-In Lee",
+      "paper_url": "https://openreview.net/pdf?id=Oju2Qu9jvn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_9krnQ-ue9M",
+      "paper_id": "9krnQ-ue9M",
+      "title": "Explicitly Minimizing the Blur Error of Variational Autoencoders",
+      "authors": "Gustav Bredell, Kyriakos Flouris, Krishna Chaitanya, Ertunc Erdil, Ender Konukoglu",
+      "paper_url": "https://openreview.net/pdf/13c9218efd3a171ed6da7c92777b14f0d597a58e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_6PvWo1kEvlT",
+      "paper_id": "6PvWo1kEvlT",
+      "title": "Exposing the Implicit Energy Networks behind Masked Language Models via Metropolis--Hastings",
+      "authors": "Kartik Goyal, Chris Dyer, Taylor Berg-Kirkpatrick",
+      "paper_url": "https://openreview.net/pdf/dfdc7212f0c035baaec71e0d9d64317aec15492b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_BrFIKuxrZE",
+      "paper_id": "BrFIKuxrZE",
+      "title": "Fair Normalizing Flows",
+      "authors": "Mislav Balunovic, Anian Ruoss, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/609e4c482621a5208ae4ebb3b311369c3b04689f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_zlkXLb3wpF",
+      "paper_id": "zlkXLb3wpF",
+      "title": "Fast and unified path gradient estimators for normalizing flows",
+      "authors": "Lorenz Vaitl, Ludwig Winkler, Lorenz Richter, Pan Kessel",
+      "paper_url": "https://openreview.net/pdf?id=zlkXLb3wpF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Mgq6kxl115",
+      "paper_id": "Mgq6kxl115",
+      "title": "Fast Ensembling with Diffusion Schrödinger Bridge",
+      "authors": "Hyunsu Kim, Jongmin Yoon, Juho Lee",
+      "paper_url": "https://openreview.net/pdf?id=Mgq6kxl115",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Loek7hfb46P",
+      "paper_id": "Loek7hfb46P",
+      "title": "Fast Sampling of Diffusion Models with Exponential Integrator",
+      "authors": "Qinsheng Zhang, Yongxin Chen",
+      "paper_url": "https://openreview.net/pdf/0c36e66f4501ee45a0d7b31d2e7ed21e58c4c628.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_iNmVX9lx9l",
+      "paper_id": "iNmVX9lx9l",
+      "title": "Fast Summation of Radial Kernels via QMC Slicing",
+      "authors": "Johannes Hertrich, Tim Jahn, Michael Quellmalz",
+      "paper_url": "https://openreview.net/pdf?id=iNmVX9lx9l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_0kPL3xO4R5",
+      "paper_id": "0kPL3xO4R5",
+      "title": "Fast topological clustering with Wasserstein distance",
+      "authors": "Tananun Songdechakraiwut, Bryan M Krause, Matthew I Banks, Kirill V Nourski, Barry D Van Veen",
+      "paper_url": "https://openreview.net/pdf/1ca6035f2e30fb149d5edca41b2f47c7dbefcbbf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_FBhKUXK7od",
+      "paper_id": "FBhKUXK7od",
+      "title": "Fast unsupervised ground metric learning with tree-Wasserstein distance",
+      "authors": "Kira Michaela Düsterwald, Samo Hromadka, Makoto Yamada",
+      "paper_url": "https://openreview.net/pdf?id=FBhKUXK7od",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_lvSMIsztka",
+      "paper_id": "lvSMIsztka",
+      "title": "Faster Approximation of Probabilistic and Distributional Values via Least Squares",
+      "authors": "Weida Li, Yaoliang Yu",
+      "paper_url": "https://openreview.net/pdf?id=lvSMIsztka",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_MT3aOfXIbY",
+      "paper_id": "MT3aOfXIbY",
+      "title": "Faster Diffusion Sampling with Randomized Midpoints: Sequential and Parallel",
+      "authors": "Shivam Gupta, Linda Cai, Sitan Chen",
+      "paper_url": "https://openreview.net/pdf?id=MT3aOfXIbY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rsGPrJDIhh",
+      "paper_id": "rsGPrJDIhh",
+      "title": "Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling",
+      "authors": "Aram Davtyan, Leello Tadesse Dadi, Volkan Cevher, Paolo Favaro",
+      "paper_url": "https://openreview.net/pdf?id=rsGPrJDIhh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_v63GWletn8",
+      "paper_id": "v63GWletn8",
+      "title": "Faster Sampling from Log-Concave Densities over Polytopes via Efficient Linear Solvers",
+      "authors": "Oren Mangoubi, Nisheeth K. Vishnoi",
+      "paper_url": "https://openreview.net/pdf?id=v63GWletn8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TS8HoIWAPQ",
+      "paper_id": "TS8HoIWAPQ",
+      "title": "Feature-aligned N-BEATS with Sinkhorn divergence",
+      "authors": "Joonhun Lee, Myeongho Jeon, Myungjoo Kang, Kyunghyun Park",
+      "paper_url": "https://openreview.net/pdf?id=TS8HoIWAPQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_rsg1mvUahT",
+      "paper_id": "rsg1mvUahT",
+      "title": "Federated Wasserstein Distance",
+      "authors": "Alain Rakotomamonjy, Kimia Nadjahi, Liva Ralaivola",
+      "paper_url": "https://openreview.net/pdf?id=rsg1mvUahT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_k3tbMMW8rH",
+      "paper_id": "k3tbMMW8rH",
+      "title": "Feedback Schrödinger Bridge Matching",
+      "authors": "Panagiotis Theodoropoulos, Nikolaos Komianos, Vincent Pacelli, Guan-Horng Liu, Evangelos Theodorou",
+      "paper_url": "https://openreview.net/pdf?id=k3tbMMW8rH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sP1tCl2QBk",
+      "paper_id": "sP1tCl2QBk",
+      "title": "Fiber Monte Carlo",
+      "authors": "Nick Richardson, Deniz Oktay, Yaniv Ovadia, James C Bowden, Ryan P Adams",
+      "paper_url": "https://openreview.net/pdf?id=sP1tCl2QBk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fs2Z2z3GRx",
+      "paper_id": "fs2Z2z3GRx",
+      "title": "FIG: Flow with Interpolant Guidance for Linear Inverse Problems",
+      "authors": "Yici Yan, Yichi Zhang, Xiangming Meng, Zhizhen Zhao",
+      "paper_url": "https://openreview.net/pdf?id=fs2Z2z3GRx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_9ImtNIZ7bYx",
+      "paper_id": "9ImtNIZ7bYx",
+      "title": "Finding the Global Semantic Representation in GAN through Fréchet Mean",
+      "authors": "Jaewoong Choi, Geonho Hwang, Hyunsoo Cho, Myungjoo Kang",
+      "paper_url": "https://openreview.net/pdf/bbc55d277c91f0050961e6a5e0937b7380a176d7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_XCTVFJwS9LJ",
+      "paper_id": "XCTVFJwS9LJ",
+      "title": "Flow Annealed Importance Sampling Bootstrap",
+      "authors": "Laurence Illing Midgley, Vincent Stimper, Gregor N. C. Simm, Bernhard Schölkopf, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/b982ed337b6c3ff43fb3fa4e63f9492b31f03e06.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_BzsjHiBfLk",
+      "paper_id": "BzsjHiBfLk",
+      "title": "Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors",
+      "authors": "Lin-Zhuo Chen, Kangjie Liu, Youtian Lin, Zhihao Li, Siyu Zhu, Xun Cao, Yao Yao",
+      "paper_url": "https://openreview.net/pdf?id=BzsjHiBfLk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2OMyAFjiJJ",
+      "paper_id": "2OMyAFjiJJ",
+      "title": "Flow matching achieves almost minimax optimal convergence",
+      "authors": "Kenji Fukumizu, Taiji Suzuki, Noboru Isobe, Kazusato Oko, Masanori Koyama",
+      "paper_url": "https://openreview.net/pdf?id=2OMyAFjiJJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_PqvMRDCJT9t",
+      "paper_id": "PqvMRDCJT9t",
+      "title": "Flow Matching for Generative Modeling",
+      "authors": "Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matthew Le",
+      "paper_url": "https://openreview.net/pdf/e99034416acd1ca82991f5d63735e77130fc06a7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_g7ohDlTITL",
+      "paper_id": "g7ohDlTITL",
+      "title": "Flow Matching on General Geometries",
+      "authors": "Ricky T. Q. Chen, Yaron Lipman",
+      "paper_url": "https://openreview.net/pdf?id=g7ohDlTITL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tcvMzR2NrP",
+      "paper_id": "tcvMzR2NrP",
+      "title": "Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective",
+      "authors": "Neta Shaul, Itai Gat, Marton Havasi, Daniel Severo, Anuroop Sriram, Peter Holderrieth, Brian Karrer, Yaron Lipman, Ricky T. Q. Chen",
+      "paper_url": "https://openreview.net/pdf?id=tcvMzR2NrP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XVjTT1nw5z",
+      "paper_id": "XVjTT1nw5z",
+      "title": "Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow",
+      "authors": "Xingchao Liu, Chengyue Gong, qiang liu",
+      "paper_url": "https://openreview.net/pdf/910c5efa5739a5d2bef83d432da87d3096712ebe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_spDUv05cEq",
+      "paper_id": "spDUv05cEq",
+      "title": "Flow-based Variational Mutual Information: Fast and Flexible Approximations",
+      "authors": "Caleb Dahlke, Jason Pacheco",
+      "paper_url": "https://openreview.net/pdf?id=spDUv05cEq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HD5Y7M8Xdk",
+      "paper_id": "HD5Y7M8Xdk",
+      "title": "Forward $\\chi^2$ Divergence Based Variational Importance Sampling",
+      "authors": "Chengrui Li, Yule Wang, Weihan Li, Anqi Wu",
+      "paper_url": "https://openreview.net/pdf?id=HD5Y7M8Xdk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_BcYt84rcKq",
+      "paper_id": "BcYt84rcKq",
+      "title": "Fourier Sliced-Wasserstein Embedding for Multisets and Measures",
+      "authors": "Tal Amir, Nadav Dym",
+      "paper_url": "https://openreview.net/pdf?id=BcYt84rcKq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_89GT-S49mGd",
+      "paper_id": "89GT-S49mGd",
+      "title": "Function-space regularized Rényi divergences",
+      "authors": "Jeremiah Birrell, Yannis Pantazis, Paul Dupuis, Luc Rey-Bellet, Markos Katsoulakis",
+      "paper_url": "https://openreview.net/pdf/2e551aaf5e4f3d5a15272f0f78bcaf860e9cb8bd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_BT4N_v7CLrk",
+      "paper_id": "BT4N_v7CLrk",
+      "title": "FunkNN: Neural Interpolation for Functional Generation",
+      "authors": "AmirEhsan Khorashadizadeh, Anadi Chaman, Valentin Debarnot, Ivan Dokmanić",
+      "paper_url": "https://openreview.net/pdf/28092c32b86cad94aa628631b9fbee14db96b208.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_kR1hC6j48Tp",
+      "paper_id": "kR1hC6j48Tp",
+      "title": "GATSBI: Generative Adversarial Training for Simulation-Based Inference",
+      "authors": "Poornima Ramesh, Jan-Matthis Lueckmann, Jan Boelts, Álvaro Tejero-Cantero, David S. Greenberg, Pedro J. Goncalves, Jakob H. Macke",
+      "paper_url": "https://openreview.net/pdf/7dfeefe58037c9529799e1abf5323514fa066f4e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_PJNhZoCjLh",
+      "paper_id": "PJNhZoCjLh",
+      "title": "Generalization and Distributed Learning of GFlowNets",
+      "authors": "Tiago Silva, Amauri H Souza, Omar Rivasplata, Vikas Garg, Samuel Kaski, Diego Mesquita",
+      "paper_url": "https://openreview.net/pdf?id=PJNhZoCjLh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ANvmVS2Yr0",
+      "paper_id": "ANvmVS2Yr0",
+      "title": "Generalization in diffusion models arises from geometry-adaptive harmonic representations",
+      "authors": "Zahra Kadkhodaie, Florentin Guth, Eero P Simoncelli, Stéphane Mallat",
+      "paper_url": "https://openreview.net/pdf?id=ANvmVS2Yr0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_NGB6YNnO5o",
+      "paper_id": "NGB6YNnO5o",
+      "title": "Generalization in VAE and Diffusion Models: A Unified Information-Theoretic Analysis",
+      "authors": "Qi CHEN, Jierui Zhu, Florian Shkurti",
+      "paper_url": "https://openreview.net/pdf?id=NGB6YNnO5o",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_0PtUPB9z6qK",
+      "paper_id": "0PtUPB9z6qK",
+      "title": "Generalized Energy Based Models",
+      "authors": "Michael Arbel, Liang Zhou, Arthur Gretton",
+      "paper_url": "https://openreview.net/pdf/57e4351773a6685efefb862344e527a30edf072c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_SoismgeX7z",
+      "paper_id": "SoismgeX7z",
+      "title": "Generalized Schrödinger Bridge Matching",
+      "authors": "Guan-Horng Liu, Yaron Lipman, Maximilian Nickel, Brian Karrer, Evangelos Theodorou, Ricky T. Q. Chen",
+      "paper_url": "https://openreview.net/pdf?id=SoismgeX7z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_urF_CBK5XC0",
+      "paper_id": "urF_CBK5XC0",
+      "title": "Generative Augmented Flow Networks",
+      "authors": "Ling Pan, Dinghuai Zhang, Aaron Courville, Longbo Huang, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf/6f7969e92eef7ad5bb4561e7dbd141decf138128.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_5JdLZg346Lw",
+      "paper_id": "5JdLZg346Lw",
+      "title": "Generative Modeling with Optimal Transport Maps",
+      "authors": "Litu Rout, Alexander Korotin, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf/ed46c377aaa94afa77296e14de28b219a2a901bc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_tUtGjQEDd4",
+      "paper_id": "tUtGjQEDd4",
+      "title": "Generative Modeling with Phase Stochastic Bridge",
+      "authors": "Tianrong Chen, Jiatao Gu, Laurent Dinh, Evangelos Theodorou, Joshua M. Susskind, Shuangfei Zhai",
+      "paper_url": "https://openreview.net/pdf?id=tUtGjQEDd4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_4PJUBT9f2Ol",
+      "paper_id": "4PJUBT9f2Ol",
+      "title": "Generative Modelling with Inverse Heat Dissipation",
+      "authors": "Severi Rissanen, Markus Heinonen, Arno Solin",
+      "paper_url": "https://openreview.net/pdf/40788e42963a1dbec8dc274094381e704205a2be.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_VdkGRV1vcf",
+      "paper_id": "VdkGRV1vcf",
+      "title": "Generative Sliced MMD Flows with Riesz Kernels",
+      "authors": "Johannes Hertrich, Christian Wald, Fabian Altekrüger, Paul Hagemann",
+      "paper_url": "https://openreview.net/pdf?id=VdkGRV1vcf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_PpshD0AXfA",
+      "paper_id": "PpshD0AXfA",
+      "title": "Generative Time-series Modeling with Fourier Flows",
+      "authors": "Ahmed Alaa, Alex James Chan, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/7aad31a541edaadc936aa88af4d48ddc836b7344.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_RuP17cJtZo",
+      "paper_id": "RuP17cJtZo",
+      "title": "Generator Matching: Generative modeling with arbitrary Markov processes",
+      "authors": "Peter Holderrieth, Marton Havasi, Jason Yim, Neta Shaul, Itai Gat, Tommi Jaakkola, Brian Karrer, Ricky T. Q. Chen, Yaron Lipman",
+      "paper_url": "https://openreview.net/pdf?id=RuP17cJtZo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_uKiE0VIluA-",
+      "paper_id": "uKiE0VIluA-",
+      "title": "GFlowNets and variational inference",
+      "authors": "Nikolay Malkin, Salem Lahlou, Tristan Deleu, Xu Ji, Edward J Hu, Katie E Everett, Dinghuai Zhang, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf/7fcf83ff3797f23ba25909993d4d7281d23ca332.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_r3cWq6KKbt",
+      "paper_id": "r3cWq6KKbt",
+      "title": "Global Well-posedness and Convergence Analysis of Score-based Generative Models via Sharp Lipschitz Estimates",
+      "authors": "Connor Mooney, Zhongjian Wang, Jack Xin, Yifeng Yu",
+      "paper_url": "https://openreview.net/pdf?id=r3cWq6KKbt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WncnpvJk83",
+      "paper_id": "WncnpvJk83",
+      "title": "GMValuator: Similarity-based Data Valuation for Generative Models",
+      "authors": "Jiaxi Yang, Wenlong Deng, Benlin Liu, Yangsibo Huang, James Zou, Xiaoxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=WncnpvJk83",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_0O_cQfw6uEh",
+      "paper_id": "0O_cQfw6uEh",
+      "title": "Gradient Origin Networks",
+      "authors": "Sam Bond-Taylor, Chris G. Willcocks",
+      "paper_url": "https://openreview.net/pdf/afd0b57d3c44292d9b9855c9f88b7f8f152fc9dd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_9DZKk85Z4zA",
+      "paper_id": "9DZKk85Z4zA",
+      "title": "Gradient-Guided Importance Sampling for Learning Binary Energy-Based Models",
+      "authors": "Meng Liu, Haoran Liu, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf/5b2f9ad18b0930a16ef891e03d537cc91c0c7e09.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_sbS10BCtc7",
+      "paper_id": "sbS10BCtc7",
+      "title": "Gromov-Wasserstein Autoencoders",
+      "authors": "Nao Nakagawa, Ren Togo, Takahiro Ogawa, Miki Haseyama",
+      "paper_url": "https://openreview.net/pdf/d1b76d3b5d60e6f2f19e3c6ab291ba6ed6ae3523.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_CZmHHj9MgkP",
+      "paper_id": "CZmHHj9MgkP",
+      "title": "Guiding Energy-based Models via Contrastive Latent Variables",
+      "authors": "Hankook Lee, Jongheon Jeong, Sejun Park, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/9c51d101c5d336bf5bc034b2876d79796069ac59.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_tozlOEN4qp",
+      "paper_id": "tozlOEN4qp",
+      "title": "Heavy-Tailed Diffusion Models",
+      "authors": "Kushagra Pandey, Jaideep Pathak, Yilun Xu, Stephan Mandt, Michael Pritchard, Arash Vahdat, Morteza Mardani",
+      "paper_url": "https://openreview.net/pdf?id=tozlOEN4qp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_e2Lle5cij9D",
+      "paper_id": "e2Lle5cij9D",
+      "title": "Hidden Convexity of Wasserstein GANs: Interpretable Generative Models with Closed-Form Solutions",
+      "authors": "Arda Sahiner, Tolga Ergen, Batu Ozturkler, Burak Bartan, John M. Pauly, Morteza Mardani, Mert Pilanci",
+      "paper_url": "https://openreview.net/pdf/733796fc142ddb063afc1a0818ecba208aef1465.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_CUOaVn6mYEj",
+      "paper_id": "CUOaVn6mYEj",
+      "title": "Hierarchical Sliced Wasserstein Distance",
+      "authors": "Khai Nguyen, Tongzheng Ren, Huy Nguyen, Litu Rout, Tan Minh Nguyen, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf/5503447c4f2c86286908b993e39c387ac34cdc2f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_6awxwQEI82",
+      "paper_id": "6awxwQEI82",
+      "title": "How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models  via a Stochastic Integral Framework",
+      "authors": "Yinuo Ren, Haoxuan Chen, Grant M. Rotskoff, Lexing Ying",
+      "paper_url": "https://openreview.net/pdf?id=6awxwQEI82",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_auOPcdAcoy",
+      "paper_id": "auOPcdAcoy",
+      "title": "Hybrid Memoised Wake-Sleep: Approximate Inference at the Discrete-Continuous Interface",
+      "authors": "Tuan Anh Le, Katherine M. Collins, Luke Hewitt, Kevin Ellis, Siddharth N, Samuel Gershman, Joshua B. Tenenbaum",
+      "paper_url": "https://openreview.net/pdf/4406e9491128f790573cb34e530a68b400ba3b6a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_d7pr2doXn3",
+      "paper_id": "d7pr2doXn3",
+      "title": "Hybrid Regularization Improves Diffusion-based Inverse Problem Solving",
+      "authors": "Hongkun Dou, Zeyu Li, Jinyang Du, Lijun Yang, Wen Yao, Yue Deng",
+      "paper_url": "https://openreview.net/pdf?id=d7pr2doXn3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_MBOyiNnYthd",
+      "paper_id": "MBOyiNnYthd",
+      "title": "IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression",
+      "authors": "Rianne van den Berg, Alexey A. Gritsenko, Mostafa Dehghani, Casper Kaae Sønderby, Tim Salimans",
+      "paper_url": "https://openreview.net/pdf/049fd6f43de5700220bd49a24b2ae38e78c3782c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_8PS8m9oYtNy",
+      "paper_id": "8PS8m9oYtNy",
+      "title": "Implicit Normalizing Flows",
+      "authors": "Cheng Lu, Jianfei Chen, Chongxuan Li, Qiuhao Wang, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf/19708593079fad9a0012ae316f6d90a49b83c54b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_rJA5Pz7lHKb",
+      "paper_id": "rJA5Pz7lHKb",
+      "title": "Improved Autoregressive Modeling with Distribution Smoothing",
+      "authors": "Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/e633e1ad3eac717e6d9e931ddd05ee2e3c9031f3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_SOd07Qxkw4",
+      "paper_id": "SOd07Qxkw4",
+      "title": "Improved Convergence Rate for Diffusion Probabilistic Models",
+      "authors": "Gen Li, Yuchen Jiao",
+      "paper_url": "https://openreview.net/pdf?id=SOd07Qxkw4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sbG8qhMjkZ",
+      "paper_id": "sbG8qhMjkZ",
+      "title": "Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent",
+      "authors": "Sayan Banerjee, Krishna Balasubramanian, PROMIT GHOSAL",
+      "paper_url": "https://openreview.net/pdf?id=sbG8qhMjkZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XxCgeWSTNp",
+      "paper_id": "XxCgeWSTNp",
+      "title": "Improved Sampling Algorithms for Lévy-Itô Diffusion Models",
+      "authors": "Vadim Popov, Assel Yermekova, Tasnima Sadekova, Artem Khrapov, Mikhail Sergeevich Kudinov",
+      "paper_url": "https://openreview.net/pdf?id=XxCgeWSTNp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0FbzC7B9xI",
+      "paper_id": "0FbzC7B9xI",
+      "title": "Improved Sampling Of Diffusion Models In Fluid Dynamics With Tweedie's Formula",
+      "authors": "Youssef Shehata, Benjamin Holzschuh, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf?id=0FbzC7B9xI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_h4pNROsO06",
+      "paper_id": "h4pNROsO06",
+      "title": "Improved sampling via learned diffusions",
+      "authors": "Lorenz Richter, Julius Berner",
+      "paper_url": "https://openreview.net/pdf?id=h4pNROsO06",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Of2nEDc4s7",
+      "paper_id": "Of2nEDc4s7",
+      "title": "Improved statistical and computational complexity of the mean-field Langevin dynamics under structured data",
+      "authors": "Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu",
+      "paper_url": "https://openreview.net/pdf?id=Of2nEDc4s7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_T0B9AoM_bFg",
+      "paper_id": "T0B9AoM_bFg",
+      "title": "Improving Mutual Information Estimation with Annealed and Energy-Based Bounds",
+      "authors": "Rob Brekelmans, Sicong Huang, Marzyeh Ghassemi, Greg Ver Steeg, Roger Baker Grosse, Alireza Makhzani",
+      "paper_url": "https://openreview.net/pdf/a68f8e4bbad21f5599f372c94827c5f596c6555b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_CfZPzH7ftt",
+      "paper_id": "CfZPzH7ftt",
+      "title": "Improving Neural Optimal Transport via Displacement Interpolation",
+      "authors": "Jaemoo Choi, Yongxin Chen, Jaewoong Choi",
+      "paper_url": "https://openreview.net/pdf?id=CfZPzH7ftt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fV0t65OBUu",
+      "paper_id": "fV0t65OBUu",
+      "title": "Improving Probabilistic Diffusion Models With Optimal Diagonal Covariance Matching",
+      "authors": "Zijing Ou, Mingtian Zhang, Andi Zhang, Tim Z. Xiao, Yingzhen Li, David Barber",
+      "paper_url": "https://openreview.net/pdf?id=fV0t65OBUu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_DiQD7FWL233",
+      "paper_id": "DiQD7FWL233",
+      "title": "Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein",
+      "authors": "Khai Nguyen, Son Nguyen, Nhat Ho, Tung Pham, Hung Bui",
+      "paper_url": "https://openreview.net/pdf/d9cff7f7264e7a99f687eeb02f8e8bcf415be338.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_KiespDPaRH",
+      "paper_id": "KiespDPaRH",
+      "title": "Improving the Convergence of Dynamic NeRFs via Optimal Transport",
+      "authors": "Sameera Ramasinghe, Violetta Shevchenko, Gil Avraham, Hisham Husain, Anton van den Hengel",
+      "paper_url": "https://openreview.net/pdf?id=KiespDPaRH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_UvmDCdSPDOW",
+      "paper_id": "UvmDCdSPDOW",
+      "title": "Information-Theoretic Diffusion",
+      "authors": "Xianghao Kong, Rob Brekelmans, Greg Ver Steeg",
+      "paper_url": "https://openreview.net/pdf/b48d4f49696c822ea5644e2ba131c474e0f8c770.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Jyh0DR4fFE",
+      "paper_id": "Jyh0DR4fFE",
+      "title": "Injective flows for star-like manifolds",
+      "authors": "Marcello Massimo Negri, Jonathan Aellen, Volker Roth",
+      "paper_url": "https://openreview.net/pdf?id=Jyh0DR4fFE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_IK9ap6nxXr2",
+      "paper_id": "IK9ap6nxXr2",
+      "title": "Interacting Contour Stochastic Gradient Langevin Dynamics",
+      "authors": "Wei Deng, Siqi Liang, Botao Hao, Guang Lin, Faming Liang",
+      "paper_url": "https://openreview.net/pdf/bf454b672f7afe0c72e3a83029c7238309a1b4a0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_X6tNkN6ate",
+      "paper_id": "X6tNkN6ate",
+      "title": "Interpretable Diffusion via Information Decomposition",
+      "authors": "Xianghao Kong, Ollie Liu, Han Li, Dani Yogatama, Greg Ver Steeg",
+      "paper_url": "https://openreview.net/pdf?id=X6tNkN6ate",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_U3PBITXNG6",
+      "paper_id": "U3PBITXNG6",
+      "title": "InverseBench: Benchmarking Plug-and-Play Diffusion Priors for Inverse Problems in Physical Sciences",
+      "authors": "Hongkai Zheng, Wenda Chu, Bingliang Zhang, Zihui Wu, Austin Wang, Berthy Feng, Caifeng Zou, Yu Sun, Nikola Borislavov Kovachki, Zachary E Ross, Katherine Bouman, Yisong Yue",
+      "paper_url": "https://openreview.net/pdf?id=U3PBITXNG6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fjpfCOV4ru",
+      "paper_id": "fjpfCOV4ru",
+      "title": "Ito Diffusion Approximation of Universal Ito Chains for Sampling, Optimization and Boosting",
+      "authors": "Aleksei Ustimenko, Aleksandr Beznosikov",
+      "paper_url": "https://openreview.net/pdf?id=fjpfCOV4ru",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Zuc_MHtUma4",
+      "paper_id": "Zuc_MHtUma4",
+      "title": "Kernel Neural Optimal Transport",
+      "authors": "Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf/70b7c8efcb690e77a2ae3aeac0944a66253f5a01.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_iTFdNLHE7k",
+      "paper_id": "iTFdNLHE7k",
+      "title": "Kernelised Normalising Flows",
+      "authors": "Eshant English, Matthias Kirchler, Christoph Lippert",
+      "paper_url": "https://openreview.net/pdf?id=iTFdNLHE7k",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Nshk5YpdWE",
+      "paper_id": "Nshk5YpdWE",
+      "title": "Lagrangian Flow Networks for Conservation Laws",
+      "authors": "Fabricio Arend Torres, Marcello Massimo Negri, Marco Inversi, Jonathan Aellen, Volker Roth",
+      "paper_url": "https://openreview.net/pdf?id=Nshk5YpdWE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hOxgrGM63n",
+      "paper_id": "hOxgrGM63n",
+      "title": "Langevin Monte Carlo for strongly log-concave distributions: Randomized midpoint revisited",
+      "authors": "Lu Yu, Avetik Karagulyan, Arnak S. Dalalyan",
+      "paper_url": "https://openreview.net/pdf?id=hOxgrGM63n",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_bH6T0Jjw5y",
+      "paper_id": "bH6T0Jjw5y",
+      "title": "Latent Representation and Simulation of Markov Processes via Time-Lagged Information Bottleneck",
+      "authors": "Marco Federici, Patrick Forré, Ryota Tomioka, Bastiaan S. Veeling",
+      "paper_url": "https://openreview.net/pdf?id=bH6T0Jjw5y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_49z97Y9lMq",
+      "paper_id": "49z97Y9lMq",
+      "title": "LCOT: Linear Circular Optimal Transport",
+      "authors": "Rocio P Diaz Martin, Ivan Vladimir Medri, Yikun Bai, Xinran Liu, Kangbai Yan, Gustavo Rohde, Soheil Kolouri",
+      "paper_url": "https://openreview.net/pdf?id=49z97Y9lMq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fmJUYgmMbL",
+      "paper_id": "fmJUYgmMbL",
+      "title": "Learned Reference-based Diffusion Sampler for multi-modal distributions",
+      "authors": "Maxence Noble, Louis Grenioux, Marylou Gabrié, Alain Oliviero Durmus",
+      "paper_url": "https://openreview.net/pdf?id=fmJUYgmMbL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_6iEoTr-jeB7",
+      "paper_id": "6iEoTr-jeB7",
+      "title": "Learning Continuous Normalizing Flows For Faster Convergence To Target Distribution via Ascent Regularizations",
+      "authors": "Shuangshuang Chen, Sihao Ding, Yiannis Karayiannidis, Mårten Björkman",
+      "paper_url": "https://openreview.net/pdf/fd0e07fc837555ae3a7254d18b51bd091b998332.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_WH1yCa0TbB",
+      "paper_id": "WH1yCa0TbB",
+      "title": "Learning Diffusion Bridges on Constrained Domains",
+      "authors": "Xingchao Liu, Lemeng Wu, Mao Ye, qiang liu",
+      "paper_url": "https://openreview.net/pdf/8cfc259b7bd52dd062abbfdf800fc63779766d37.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_P15CHILQlg",
+      "paper_id": "P15CHILQlg",
+      "title": "Learning Energy Decompositions for Partial Inference in GFlowNets",
+      "authors": "Hyosoon Jang, Minsu Kim, Sungsoo Ahn",
+      "paper_url": "https://openreview.net/pdf?id=P15CHILQlg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_aD1_5zowqV",
+      "paper_id": "aD1_5zowqV",
+      "title": "Learning Energy-Based Generative Models via Coarse-to-Fine Expanding and Sampling",
+      "authors": "Yang Zhao, Jianwen Xie, Ping Li",
+      "paper_url": "https://openreview.net/pdf/5748006768480684067398a25ba656f3ae383d26.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_AyzkDpuqcl",
+      "paper_id": "AyzkDpuqcl",
+      "title": "Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood",
+      "authors": "Yaxuan Zhu, Jianwen Xie, Ying Nian Wu, Ruiqi Gao",
+      "paper_url": "https://openreview.net/pdf?id=AyzkDpuqcl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_v_1Soh8QUNc",
+      "paper_id": "v_1Soh8QUNc",
+      "title": "Learning Energy-Based Models by Diffusion Recovery Likelihood",
+      "authors": "Ruiqi Gao, Yang Song, Ben Poole, Ying Nian Wu, Diederik P Kingma",
+      "paper_url": "https://openreview.net/pdf/bb74e78ec73a15dcfd250d8dac827fa7009897b2.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_uDXFOurrHM",
+      "paper_id": "uDXFOurrHM",
+      "title": "Learning Partial Graph Matching via Optimal Partial Transport",
+      "authors": "Gathika Ratnayaka, James Nichols, Qing Wang",
+      "paper_url": "https://openreview.net/pdf?id=uDXFOurrHM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gQlxd3Mtru",
+      "paper_id": "gQlxd3Mtru",
+      "title": "Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport",
+      "authors": "Zhenyi Zhang, Tiejun Li, Peijie Zhou",
+      "paper_url": "https://openreview.net/pdf?id=gQlxd3Mtru",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AnL6BuWzxa",
+      "paper_id": "AnL6BuWzxa",
+      "title": "Learning Structured Representations by Embedding Class Hierarchy with Fast Optimal Transport",
+      "authors": "Siqi Zeng, Sixian Du, Makoto Yamada, Han Zhao",
+      "paper_url": "https://openreview.net/pdf?id=AnL6BuWzxa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_fExcSKdDo_",
+      "paper_id": "fExcSKdDo_",
+      "title": "Learning to Dequantise with Truncated Flows",
+      "authors": "Shawn Tan, Chin-Wei Huang, Alessandro Sordoni, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/7b8b40bfc88c9c57b2e374766d2ad6dbf203c158.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_kBNIx4Biq4",
+      "paper_id": "kBNIx4Biq4",
+      "title": "Lifting Architectural Constraints of Injective Flows",
+      "authors": "Peter Sorrenson, Felix Draxler, Armand Rousselot, Sander Hummerich, Lea Zimmermann, Ullrich Koethe",
+      "paper_url": "https://openreview.net/pdf?id=kBNIx4Biq4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_WhZoCLRWYJ",
+      "paper_id": "WhZoCLRWYJ",
+      "title": "Light Schrödinger Bridge",
+      "authors": "Alexander Korotin, Nikita Gushchin, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf?id=WhZoCLRWYJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_sojpn00o8z",
+      "paper_id": "sojpn00o8z",
+      "title": "Likelihood Training of Cascaded Diffusion Models via Hierarchical Volume-preserving Maps",
+      "authors": "Henry Li, Ronen Basri, Yuval Kluger",
+      "paper_url": "https://openreview.net/pdf?id=sojpn00o8z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_nioAdKCEdXB",
+      "paper_id": "nioAdKCEdXB",
+      "title": "Likelihood Training of Schrödinger Bridge using Forward-Backward SDEs Theory",
+      "authors": "Tianrong Chen, Guan-Horng Liu, Evangelos Theodorou",
+      "paper_url": "https://openreview.net/pdf/88f4662fe55ad470a87f305792547280c33c6e1b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_BA1eG7vCNb",
+      "paper_id": "BA1eG7vCNb",
+      "title": "Linear Partial Gromov-Wasserstein Embedding",
+      "authors": "Yikun Bai, Abihith Kothapalli, Hengrong Du, Rocio Diaz Martin, Soheil Kolouri",
+      "paper_url": "https://openreview.net/pdf?id=BA1eG7vCNb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fgUFZAxywx",
+      "paper_id": "fgUFZAxywx",
+      "title": "Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data",
+      "authors": "Xinran Liu, Yikun Bai, Rocio Diaz Martin, Kaiwen Shi, Ashkan Shahbazi, Bennett Allan Landman, Catie Chang, Soheil Kolouri",
+      "paper_url": "https://openreview.net/pdf?id=fgUFZAxywx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WNkW0cOwiz",
+      "paper_id": "WNkW0cOwiz",
+      "title": "Lipschitz Singularities in Diffusion Models",
+      "authors": "Zhantao Yang, Ruili Feng, Han Zhang, Yujun Shen, Kai Zhu, Lianghua Huang, Yifei Zhang, Yu Liu, Deli Zhao, Jingren Zhou, Fan Cheng",
+      "paper_url": "https://openreview.net/pdf?id=WNkW0cOwiz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_X7eAhXcps1",
+      "paper_id": "X7eAhXcps1",
+      "title": "Long-time asymptotics of noisy SVGD outside the population limit",
+      "authors": "Victor Priser, PASCAL BIANCHI, Adil Salim",
+      "paper_url": "https://openreview.net/pdf?id=X7eAhXcps1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_BRFWxcZfAdC",
+      "paper_id": "BRFWxcZfAdC",
+      "title": "LOSSY COMPRESSION WITH DISTRIBUTION SHIFT AS ENTROPY CONSTRAINED OPTIMAL TRANSPORT",
+      "authors": "Huan Liu, George Zhang, Jun Chen, Ashish J Khisti",
+      "paper_url": "https://openreview.net/pdf/78a4014e3770c6c6eea378ae2f81625b2241af8e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_r5qumLiYwf9",
+      "paper_id": "r5qumLiYwf9",
+      "title": "MaGNET: Uniform Sampling from Deep Generative Network Manifolds Without Retraining",
+      "authors": "Ahmed Imtiaz Humayun, Randall Balestriero, Richard Baraniuk",
+      "paper_url": "https://openreview.net/pdf/e9c0ccdf7ecc11a5666ac100d75f89816ce7c0f7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_BZtEthuXRF",
+      "paper_id": "BZtEthuXRF",
+      "title": "Manifold Diffusion Fields",
+      "authors": "Ahmed A. A. Elhag, Yuyang Wang, Joshua M. Susskind, Miguel Ángel Bautista",
+      "paper_url": "https://openreview.net/pdf?id=BZtEthuXRF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KlN00vQEY2",
+      "paper_id": "KlN00vQEY2",
+      "title": "Manifolds, Random Matrices and Spectral Gaps: The geometric phases of generative diffusion",
+      "authors": "Enrico Ventura, Beatrice Achilli, Gianluigi Silvestri, Carlo Lucibello, Luca Ambrogioni",
+      "paper_url": "https://openreview.net/pdf?id=KlN00vQEY2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yVeNBxwL5W",
+      "paper_id": "yVeNBxwL5W",
+      "title": "MaRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers",
+      "authors": "Ao Li, Wei Fang, Hongbo Zhao, Le Lu, Ge Yang, Minfeng Xu",
+      "paper_url": "https://openreview.net/pdf?id=yVeNBxwL5W",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_4C93Qvn-tz",
+      "paper_id": "4C93Qvn-tz",
+      "title": "MCMC Should Mix: Learning Energy-Based Model with Neural Transport Latent Space MCMC",
+      "authors": "Erik Nijkamp, Ruiqi Gao, Pavel Sountsov, Srinivas Vasudevan, Bo Pang, Song-Chun Zhu, Ying Nian Wu",
+      "paper_url": "https://openreview.net/pdf/e59fd3452037dfc60c95270a1328f0a3077b10f9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9SYczU3Qgm",
+      "paper_id": "9SYczU3Qgm",
+      "title": "Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold",
+      "authors": "Lazar Atanackovic, Xi Zhang, Brandon Amos, Mathieu Blanchette, Leo J Lee, Yoshua Bengio, Alexander Tong, Kirill Neklyudov",
+      "paper_url": "https://openreview.net/pdf?id=9SYczU3Qgm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_a2gqxKDvYys",
+      "paper_id": "a2gqxKDvYys",
+      "title": "Mind the Gap when Conditioning Amortised Inference in Sequential Latent-Variable Models",
+      "authors": "Justin Bayer, Maximilian Soelch, Atanas Mirchev, Baris Kayalibay, Patrick van der Smagt",
+      "paper_url": "https://openreview.net/pdf/3b8adcab7340a271fe4624eabaaa9168eb0c8899.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_0kWd8SJq8d",
+      "paper_id": "0kWd8SJq8d",
+      "title": "MINDE: Mutual Information Neural Diffusion Estimation",
+      "authors": "Giulio Franzese, Mustapha BOUNOUA, Pietro Michiardi",
+      "paper_url": "https://openreview.net/pdf?id=0kWd8SJq8d",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_nc0ETaieux",
+      "paper_id": "nc0ETaieux",
+      "title": "Minimax Optimality (Probably) Doesn't Imply Distribution Learning for GANs",
+      "authors": "Sitan Chen, Jerry Li, Yuanzhi Li, Raghu Meka",
+      "paper_url": "https://openreview.net/pdf/6ace3e50695ef1af76dc61bfcfb736da932857ce.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_hwnObmOTrV",
+      "paper_id": "hwnObmOTrV",
+      "title": "Modeling Complex System Dynamics with Flow Matching Across Time and Conditions",
+      "authors": "Martin Rohbeck, Edward De Brouwer, Charlotte Bunne, Jan-Christian Huetter, Anne Biton, Kelvin Y. Chen, Aviv Regev, Romain Lopez",
+      "paper_url": "https://openreview.net/pdf?id=hwnObmOTrV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_vCJ9-Ri-6xU",
+      "paper_id": "vCJ9-Ri-6xU",
+      "title": "Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport",
+      "authors": "Lingkai Kong, Yuqing Wang, Molei Tao",
+      "paper_url": "https://openreview.net/pdf/efc53aa7247c696d0a77dc0fd44bcd24095d2fee.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_nHESwXvxWK",
+      "paper_id": "nHESwXvxWK",
+      "title": "Monte Carlo guided Denoising Diffusion models for Bayesian linear inverse problems.",
+      "authors": "Gabriel Cardoso, Yazid Janati el idrissi, Sylvain Le Corff, Eric Moulines",
+      "paper_url": "https://openreview.net/pdf?id=nHESwXvxWK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_YcUV5apdlq",
+      "paper_id": "YcUV5apdlq",
+      "title": "Multilevel Generative Samplers for Investigating Critical Phenomena",
+      "authors": "Ankur Singha, Elia Cellini, Kim Andrea Nicoli, Karl Jansen, Stefan Kühn, Shinichi Nakajima",
+      "paper_url": "https://openreview.net/pdf?id=YcUV5apdlq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FHqAzWl2wE",
+      "paper_id": "FHqAzWl2wE",
+      "title": "Multimarginal Generative Modeling with Stochastic Interpolants",
+      "authors": "Michael Samuel Albergo, Nicholas Matthew Boffi, Michael Lindsey, Eric Vanden-Eijnden",
+      "paper_url": "https://openreview.net/pdf?id=FHqAzWl2wE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_r5njV3BsuD",
+      "paper_id": "r5njV3BsuD",
+      "title": "Nearly $d$-Linear Convergence Bounds for Diffusion Models via Stochastic Localization",
+      "authors": "Joe Benton, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis",
+      "paper_url": "https://openreview.net/pdf?id=r5njV3BsuD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vgZDcUetWS",
+      "paper_id": "vgZDcUetWS",
+      "title": "Neural Approximate Mirror Maps for Constrained Diffusion Models",
+      "authors": "Berthy Feng, Ricardo Baptista, Katherine Bouman",
+      "paper_url": "https://openreview.net/pdf?id=vgZDcUetWS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_SRDuJssQud",
+      "paper_id": "SRDuJssQud",
+      "title": "Neural Approximate Sufficient Statistics for Implicit Models",
+      "authors": "Yanzhi Chen, Dinghuai Zhang, Michael U. Gutmann, Aaron Courville, Zhanxing Zhu",
+      "paper_url": "https://openreview.net/pdf/dcb75e787b368e0cd6057205f63497c6fa17f9cb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_nJ3Vx78Nf7p",
+      "paper_id": "nJ3Vx78Nf7p",
+      "title": "Neural Bregman Divergences for Distance Learning",
+      "authors": "Fred Lu, Edward Raff, Francis Ferraro",
+      "paper_url": "https://openreview.net/pdf/a23fc2d7b89a04de3e67ff79cc425897fe1cdaac.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_d3QNWD_pcFv",
+      "paper_id": "d3QNWD_pcFv",
+      "title": "Neural Lagrangian Schr\\\"{o}dinger Bridge: Diffusion Modeling for Population Dynamics",
+      "authors": "Takeshi Koshizuka, Issei Sato",
+      "paper_url": "https://openreview.net/pdf/4f5dfd7d5e9825029e736d0ace01eda002efdcb8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_h8GeqOxtd4",
+      "paper_id": "h8GeqOxtd4",
+      "title": "Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization",
+      "authors": "Yinbin Han, Meisam Razaviyayn, Renyuan Xu",
+      "paper_url": "https://openreview.net/pdf?id=h8GeqOxtd4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_d8CBRlWNkqH",
+      "paper_id": "d8CBRlWNkqH",
+      "title": "Neural Optimal Transport",
+      "authors": "Alexander Korotin, Daniil Selikhanovych, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf/b137a1ea32ff2b3c00faafef118b83c3223bc3eb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_gIiz7tBtYZ",
+      "paper_id": "gIiz7tBtYZ",
+      "title": "Neural Optimal Transport with General Cost Functionals",
+      "authors": "Arip Asadulaev, Alexander Korotin, Vage Egiazarian, Petr Mokrov, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf?id=gIiz7tBtYZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TUvg5uwdeG",
+      "paper_id": "TUvg5uwdeG",
+      "title": "Neural Sampling from Boltzmann Densities: Fisher-Rao Curves in the Wasserstein Geometry",
+      "authors": "Jannis Chemseddine, Christian Wald, Richard Duong, Gabriele Steidl",
+      "paper_url": "https://openreview.net/pdf?id=TUvg5uwdeG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OwNoTs2r8e",
+      "paper_id": "OwNoTs2r8e",
+      "title": "No Free Lunch: Fundamental Limits of Learning Non-Hallucinating Generative Models",
+      "authors": "Changlong Wu, Ananth Grama, Wojciech Szpankowski",
+      "paper_url": "https://openreview.net/pdf?id=OwNoTs2r8e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ixpSxO9flk3",
+      "paper_id": "ixpSxO9flk3",
+      "title": "No MCMC for me: Amortized sampling for fast and stable training of energy-based models",
+      "authors": "Will Sussman Grathwohl, Jacob Jin Kelly, Milad Hashemi, Mohammad Norouzi, Kevin Swersky, David Duvenaud",
+      "paper_url": "https://openreview.net/pdf/4bf06b7c43a66250e22fbdad3d0f492a3293efc6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_BlSIKSPhfz",
+      "paper_id": "BlSIKSPhfz",
+      "title": "Non-Equilibrium Dynamics of Hybrid Continuous-Discrete Ground-State Sampling",
+      "authors": "Timothee Leleu, Sam Reifenstein",
+      "paper_url": "https://openreview.net/pdf?id=BlSIKSPhfz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4EjdYiNRzE",
+      "paper_id": "4EjdYiNRzE",
+      "title": "O(d/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions",
+      "authors": "Gen Li, Yuling Yan",
+      "paper_url": "https://openreview.net/pdf?id=4EjdYiNRzE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ktJAF3lxbi",
+      "paper_id": "ktJAF3lxbi",
+      "title": "On Accelerating Diffusion-Based Sampling Processes via Improved Integration Approximation",
+      "authors": "Guoqiang Zhang, Kenta Niwa, W. Bastiaan Kleijn",
+      "paper_url": "https://openreview.net/pdf?id=ktJAF3lxbi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_TQ5WUwS_4ai",
+      "paper_id": "TQ5WUwS_4ai",
+      "title": "On amortizing convex conjugates for optimal transport",
+      "authors": "Brandon Amos",
+      "paper_url": "https://openreview.net/pdf/24dd9f66ee9d2c057f311ec049f472bba267266c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_92KV9xAMhF",
+      "paper_id": "92KV9xAMhF",
+      "title": "On gauge freedom, conservativity and intrinsic dimensionality estimation in diffusion models",
+      "authors": "Christian Horvat, Jean-Pascal Pfister",
+      "paper_url": "https://openreview.net/pdf?id=92KV9xAMhF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_nzvbBD_3J-g",
+      "paper_id": "nzvbBD_3J-g",
+      "title": "On Incorporating Inductive Biases into VAEs",
+      "authors": "Ning Miao, Emile Mathieu, Siddharth N, Yee Whye Teh, Tom Rainforth",
+      "paper_url": "https://openreview.net/pdf/49391965f088fdd9d5dfe8de35cd9f4836edb6db.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_c54apoozCS",
+      "paper_id": "c54apoozCS",
+      "title": "On Statistical Rates of Conditional Diffusion Transformers: Approximation,  Estimation and Minimax Optimality",
+      "authors": "Jerry Yao-Chieh Hu, Weimin Wu, Yi-Chen Lee, Yu-Chao Huang, Minshuo Chen, Han Liu",
+      "paper_url": "https://openreview.net/pdf?id=c54apoozCS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_zavLQJ1XjB",
+      "paper_id": "zavLQJ1XjB",
+      "title": "On the Limitations of Temperature Scaling for Distributions with Overlaps",
+      "authors": "Muthu Chidambaram, Rong Ge",
+      "paper_url": "https://openreview.net/pdf?id=zavLQJ1XjB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_adSGeugiuj",
+      "paper_id": "adSGeugiuj",
+      "title": "On the Posterior Distribution in Denoising: Application to Uncertainty Quantification",
+      "authors": "Hila Manor, Tomer Michaeli",
+      "paper_url": "https://openreview.net/pdf?id=adSGeugiuj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_JORAfH2xFd",
+      "paper_id": "JORAfH2xFd",
+      "title": "On the Stability of Iterative Retraining of Generative Models on their own Data",
+      "authors": "Quentin Bertrand, Joey Bose, Alexandre Duplessis, Marco Jiralerspong, Gauthier Gidel",
+      "paper_url": "https://openreview.net/pdf?id=JORAfH2xFd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_kzEPsHbJDv",
+      "paper_id": "kzEPsHbJDv",
+      "title": "One for all and all for one: Efficient computation of partial Wasserstein distances on the line",
+      "authors": "Laetitia Chapel, Romain Tavenard",
+      "paper_url": "https://openreview.net/pdf?id=kzEPsHbJDv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2IoFFexvuw",
+      "paper_id": "2IoFFexvuw",
+      "title": "Online Reward-Weighted Fine-Tuning of Flow Matching with Wasserstein Regularization",
+      "authors": "Jiajun Fan, Shuaike Shen, Chaoran Cheng, Yuxin Chen, Chumeng Liang, Ge Liu",
+      "paper_url": "https://openreview.net/pdf?id=2IoFFexvuw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NtSlKEJ2DS",
+      "paper_id": "NtSlKEJ2DS",
+      "title": "Optimal Flow Transport and its Entropic Regularization: a GPU-friendly Matrix Iterative Algorithm for Flow Balance Satisfaction",
+      "authors": "Liangliang Shi, Yufeng Li, Kaipeng Zeng, Yihui Tu, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=NtSlKEJ2DS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_exgLs4snap",
+      "paper_id": "exgLs4snap",
+      "title": "Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo",
+      "authors": "Hyunsu Kim, Giung Nam, Chulhee Yun, Hongseok Yang, Juho Lee",
+      "paper_url": "https://openreview.net/pdf?id=exgLs4snap",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2JihLwirxO",
+      "paper_id": "2JihLwirxO",
+      "title": "ParaSolver: A Hierarchical Parallel Integral Solver for Diffusion Models",
+      "authors": "Jianrong Lu, Zhiyu Zhu, Junhui Hou",
+      "paper_url": "https://openreview.net/pdf?id=2JihLwirxO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sCew1tR6No",
+      "paper_id": "sCew1tR6No",
+      "title": "Partial Gromov-Wasserstein Metric",
+      "authors": "Yikun Bai, Rocio Diaz Martin, Abihith Kothapalli, Hengrong Du, Xinran Liu, Soheil Kolouri",
+      "paper_url": "https://openreview.net/pdf?id=sCew1tR6No",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_H8hO3T3DYe",
+      "paper_id": "H8hO3T3DYe",
+      "title": "Partially Observed Trajectory Inference using Optimal Transport and a Dynamics Prior",
+      "authors": "Anming Gu, Edward Chien, Kristjan Greenewald",
+      "paper_url": "https://openreview.net/pdf?id=H8hO3T3DYe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_6OphWWAE3cS",
+      "paper_id": "6OphWWAE3cS",
+      "title": "Particle-based Variational Inference with Preconditioned Functional Gradient Flow",
+      "authors": "Hanze Dong, Xi Wang, LIN Yong, Tong Zhang",
+      "paper_url": "https://openreview.net/pdf/d72dcf7ba6f107d684a7f50a7f5421f1fb4d0d34.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_JSR-YDImK95",
+      "paper_id": "JSR-YDImK95",
+      "title": "Path Auxiliary Proposal for MCMC in Discrete Space",
+      "authors": "Haoran Sun, Hanjun Dai, Wei Xia, Arun Ramamurthy",
+      "paper_url": "https://openreview.net/pdf/03e5897fe57ea115623975dd15807e2738f12501.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22__uCb2ynRu7Y",
+      "paper_id": "_uCb2ynRu7Y",
+      "title": "Path Integral Sampler: A Stochastic Control Approach For Sampling",
+      "authors": "Qinsheng Zhang, Yongxin Chen",
+      "paper_url": "https://openreview.net/pdf/dfed03e002c8966cbf8b7224471dc61c00f141af.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_D042vFwJAM",
+      "paper_id": "D042vFwJAM",
+      "title": "Physics-aligned field reconstruction with diffusion bridge",
+      "authors": "Zeyu Li, Hongkun Dou, Shen Fang, Wang Han, Yue Deng, Lijun Yang",
+      "paper_url": "https://openreview.net/pdf?id=D042vFwJAM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tpYeermigp",
+      "paper_id": "tpYeermigp",
+      "title": "Physics-Informed Diffusion Models",
+      "authors": "Jan-Hendrik Bastek, WaiChing Sun, Dennis Kochmann",
+      "paper_url": "https://openreview.net/pdf?id=tpYeermigp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ovZE0KsbM3S",
+      "paper_id": "ovZE0KsbM3S",
+      "title": "Pitfalls of Gaussians as a noise distribution in NCE",
+      "authors": "Holden Lee, Chirag Pabbaraju, Anish Prasad Sevekari, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf/c2e7c91ab54004c63f32b30e65bb5847fee00037.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_66arKkGiFy",
+      "paper_id": "66arKkGiFy",
+      "title": "Plug-and-Play Posterior Sampling under Mismatched Measurement and Prior Models",
+      "authors": "Marien Renaud, Jiaming Liu, Valentin De Bortoli, Andres Almansa, Ulugbek Kamilov",
+      "paper_url": "https://openreview.net/pdf?id=66arKkGiFy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_YrXHEb2qMb",
+      "paper_id": "YrXHEb2qMb",
+      "title": "Posterior Sampling Based on Gradient Flows of the MMD with Negative Distance Kernel",
+      "authors": "Paul Hagemann, Johannes Hertrich, Fabian Altekrüger, Robert Beinert, Jannis Chemseddine, Gabriele Steidl",
+      "paper_url": "https://openreview.net/pdf?id=YrXHEb2qMb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_n7qGCmluZr",
+      "paper_id": "n7qGCmluZr",
+      "title": "PQMass: Probabilistic Assessment of the Quality of Generative Models using Probability Mass Estimation",
+      "authors": "Pablo Lemos, Sammy Nasser Sharief, Nikolay Malkin, Salma Salhi, Connor Stone, Laurence Perreault-Levasseur, Yashar Hezaveh",
+      "paper_url": "https://openreview.net/pdf?id=n7qGCmluZr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_NlObxR0rosG",
+      "paper_id": "NlObxR0rosG",
+      "title": "Practical Integration via Separable Bijective Networks",
+      "authors": "Christopher M Bender, Patrick Emmanuel, Michael K. Reiter, Junier Oliva",
+      "paper_url": "https://openreview.net/pdf/95fa2183421df6d966e9da9063e2c757245f7d49.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ylhiMfpqkm",
+      "paper_id": "ylhiMfpqkm",
+      "title": "Pre-Training and Fine-Tuning Generative Flow Networks",
+      "authors": "Ling Pan, Moksh Jain, Kanika Madan, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=ylhiMfpqkm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_MBpHUFrcG2x",
+      "paper_id": "MBpHUFrcG2x",
+      "title": "Projected Latent Markov Chain Monte Carlo: Conditional Sampling of Normalizing Flows",
+      "authors": "Chris Cannella, Mohammadreza Soltani, Vahid Tarokh",
+      "paper_url": "https://openreview.net/pdf/32946e80b74b4bb7d6f25d74cb773ac68b9b4a36.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_P6IVIoGRRg",
+      "paper_id": "P6IVIoGRRg",
+      "title": "Provable Benefit of Annealed Langevin Monte Carlo for Non-log-concave Sampling",
+      "authors": "Wei Guo, Molei Tao, Yongxin Chen",
+      "paper_url": "https://openreview.net/pdf?id=P6IVIoGRRg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DZcmz9wU0i",
+      "paper_id": "DZcmz9wU0i",
+      "title": "Provable Convergence and Limitations of Geometric Tempering for Langevin Dynamics",
+      "authors": "Omar Chehab, Anna Korba, Austin J Stromme, Adrien Vacher",
+      "paper_url": "https://openreview.net/pdf?id=DZcmz9wU0i",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_PlKWVd2yBkY",
+      "paper_id": "PlKWVd2yBkY",
+      "title": "Pseudo Numerical Methods for Diffusion Models on Manifolds",
+      "authors": "Luping Liu, Yi Ren, Zhijie Lin, Zhou Zhao",
+      "paper_url": "https://openreview.net/pdf/08c071f50f706076294158af529e4f1a2556df41.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_tDIL7UXmSS",
+      "paper_id": "tDIL7UXmSS",
+      "title": "Quantum (Inspired)  $D^2$-sampling with Applications",
+      "authors": "Poojan Chetan Shah, Ragesh Jaiswal",
+      "paper_url": "https://openreview.net/pdf?id=tDIL7UXmSS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Wd47f7HEXg",
+      "paper_id": "Wd47f7HEXg",
+      "title": "Quasi-Monte Carlo for 3D Sliced Wasserstein",
+      "authors": "Khai Nguyen, Nicola Bariletto, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf?id=Wd47f7HEXg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Mk6PZtgAgfq",
+      "paper_id": "Mk6PZtgAgfq",
+      "title": "Rao-Blackwellizing the Straight-Through Gumbel-Softmax Gradient Estimator",
+      "authors": "Max B Paulus, Chris J. Maddison, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf/99dded8f5b416c9596f112afe789c337af877339.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_gQoBw7sGAu",
+      "paper_id": "gQoBw7sGAu",
+      "title": "Rare event modeling with self-regularized normalizing flows: what can we learn from a single failure?",
+      "authors": "Charles Dawson, Van Tran, Max Z. Li, Chuchu Fan",
+      "paper_url": "https://openreview.net/pdf?id=gQoBw7sGAu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_nEDToD1R8M",
+      "paper_id": "nEDToD1R8M",
+      "title": "Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow",
+      "authors": "Fu-Yun Wang, Ling Yang, Zhaoyang Huang, Mengdi Wang, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=nEDToD1R8M",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Zbc-ue9p_rE",
+      "paper_id": "Zbc-ue9p_rE",
+      "title": "Refining Deep Generative Models via Discriminator Gradient Flow",
+      "authors": "Abdul Fatir Ansari, Ming Liang Ang, Harold Soh",
+      "paper_url": "https://openreview.net/pdf/d6a7f895abe8734d66a2bfbc890b2b87e9d69fc7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_bwhI6bCGY1",
+      "paper_id": "bwhI6bCGY1",
+      "title": "ReMatching Dynamic Reconstruction Flow",
+      "authors": "Sara Oblak, Despoina Paschalidou, Sanja Fidler, Matan Atzmon",
+      "paper_url": "https://openreview.net/pdf?id=bwhI6bCGY1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_31IOmrnoP4",
+      "paper_id": "31IOmrnoP4",
+      "title": "Repelling Random Walks",
+      "authors": "Isaac Reid, Eli Berger, Krzysztof Marcin Choromanski, Adrian Weller",
+      "paper_url": "https://openreview.net/pdf?id=31IOmrnoP4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GcvLoqOoXL",
+      "paper_id": "GcvLoqOoXL",
+      "title": "Rethinking Diffusion Posterior Sampling: From Conditional Score Estimator to Maximizing a Posterior",
+      "authors": "Tongda Xu, Xiyan Cai, Xinjie Zhang, Xingtong Ge, Dailan He, Ming Sun, Jingjing Liu, Ya-Qin Zhang, Jian Li, Yan Wang",
+      "paper_url": "https://openreview.net/pdf?id=GcvLoqOoXL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_yQdBtFfleh6",
+      "paper_id": "yQdBtFfleh6",
+      "title": "Rethinking skip connection model as a learnable Markov chain",
+      "authors": "Dengsheng Chen, Jie Hu, Wenwen Qiang, Xiaoming Wei, Enhua Wu",
+      "paper_url": "https://openreview.net/pdf/2ffda559a1197d97213255e139462d4270bfe2cf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_kIPEyMSdFV",
+      "paper_id": "kIPEyMSdFV",
+      "title": "Reverse Diffusion Monte Carlo",
+      "authors": "Xunpeng Huang, Hanze Dong, Yifan HAO, Yian Ma, Tong Zhang",
+      "paper_url": "https://openreview.net/pdf?id=kIPEyMSdFV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_v3y68gz-WEz",
+      "paper_id": "v3y68gz-WEz",
+      "title": "Riemannian Metric Learning via Optimal Transport",
+      "authors": "Christopher Scarvelis, Justin Solomon",
+      "paper_url": "https://openreview.net/pdf/ef540eb6d8d75498298baa5bf7417a3542a7b4e8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_CI5Cj0vktS",
+      "paper_id": "CI5Cj0vktS",
+      "title": "Robust Barycenter Estimation using Semi-Unbalanced Neural Optimal Transport",
+      "authors": "Milena Gazdieva, Jaemoo Choi, Alexander Kolesov, Jaewoong Choi, Petr Mokrov, Alexander Korotin",
+      "paper_url": "https://openreview.net/pdf?id=CI5Cj0vktS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zyLVMgsZ0U_",
+      "paper_id": "zyLVMgsZ0U_",
+      "title": "Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions",
+      "authors": "Sitan Chen, Sinho Chewi, Jerry Li, Yuanzhi Li, Adil Salim, Anru Zhang",
+      "paper_url": "https://openreview.net/pdf/f0dc173be132440952bd7d8221b096d0a0ecf2c7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_oAMArMMQxb",
+      "paper_id": "oAMArMMQxb",
+      "title": "Sampling Multimodal Distributions with the Vanilla Score: Benefits of Data-Based Initialization",
+      "authors": "Frederic Koehler, Thuy-Duong Vuong",
+      "paper_url": "https://openreview.net/pdf?id=oAMArMMQxb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_eMudnJsb1T5",
+      "paper_id": "eMudnJsb1T5",
+      "title": "Sampling with Mirrored Stein Operators",
+      "authors": "Jiaxin Shi, Chang Liu, Lester Mackey",
+      "paper_url": "https://openreview.net/pdf/5c867e64ede248dde6dfa23bae9c1f0365022fdb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_zWy7dqOcel",
+      "paper_id": "zWy7dqOcel",
+      "title": "Sampling with Mollified Interaction Energy Descent",
+      "authors": "Lingxiao Li, qiang liu, Anna Korba, Mikhail Yurochkin, Justin Solomon",
+      "paper_url": "https://openreview.net/pdf/858241f6c2561f8e00321e85c01eb1c15f18be15.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_aoDyX6vSqsd",
+      "paper_id": "aoDyX6vSqsd",
+      "title": "Sampling-based inference for large linear models, with application to linearised Laplace",
+      "authors": "Javier Antoran, Shreyas Padhy, Riccardo Barbano, Eric Nalisnick, David Janz, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/2db5f79bf7a7833f5bbfd77a0afc6c284debd977.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_eiF7TU1E8E",
+      "paper_id": "eiF7TU1E8E",
+      "title": "SAN: Inducing Metrizability of GAN with Discriminative Normalized Linear Layer",
+      "authors": "Yuhta Takida, Masaaki Imaizumi, Takashi Shibuya, Chieh-Hsin Lai, Toshimitsu Uesaka, Naoki Murata, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=eiF7TU1E8E",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_peNgxpbdxB",
+      "paper_id": "peNgxpbdxB",
+      "title": "Scalable Discrete Diffusion Samplers: Combinatorial Optimization and Statistical Physics",
+      "authors": "Sebastian Sanokowski, Wilhelm Franz Berghammer, Haoyu Peter Wang, Martin Ennemoser, Sepp Hochreiter, Sebastian Lehner",
+      "paper_url": "https://openreview.net/pdf?id=peNgxpbdxB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_BB4e8Atc1eR",
+      "paper_id": "BB4e8Atc1eR",
+      "title": "Scalable Sampling for Nonsymmetric Determinantal Point Processes",
+      "authors": "Insu Han, Mike Gartrell, Jennifer Gillenwater, Elvis Dohmatob, amin karbasi",
+      "paper_url": "https://openreview.net/pdf/b38ff838b862c1f5918c345f4322281132fa0715.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_p8hMBcPtvju",
+      "paper_id": "p8hMBcPtvju",
+      "title": "Scalable Subset Sampling with Neural Conditional Poisson Networks",
+      "authors": "Adeel Pervez, Phillip Lippe, Efstratios Gavves",
+      "paper_url": "https://openreview.net/pdf/a513030b29e367c181e3cef2554754e8e2377c31.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_067CGykiZTS",
+      "paper_id": "067CGykiZTS",
+      "title": "Scaling Up Probabilistic Circuits by Latent Variable Distillation",
+      "authors": "Anji Liu, Honghua Zhang, Guy Van den Broeck",
+      "paper_url": "https://openreview.net/pdf/03a72f57ccbfd43e91ba786ca0f782f4065669e5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5qg6JPSgCj",
+      "paper_id": "5qg6JPSgCj",
+      "title": "Score-based free-form architectures for high-dimensional Fokker-Planck equations",
+      "authors": "Feng Liu, Faguo Wu, Xiao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=5qg6JPSgCj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_PxTIG12RRHS",
+      "paper_id": "PxTIG12RRHS",
+      "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+      "authors": "Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole",
+      "paper_url": "https://openreview.net/pdf/ef0eadbe07115b0853e964f17aa09d811cd490f1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_wG12xUSqrI",
+      "paper_id": "wG12xUSqrI",
+      "title": "Score-based generative models break the curse of dimensionality in learning a family of sub-Gaussian distributions",
+      "authors": "Frank Cole, Yulong Lu",
+      "paper_url": "https://openreview.net/pdf?id=wG12xUSqrI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_sd90a2ytrt",
+      "paper_id": "sd90a2ytrt",
+      "title": "Semi-Implicit Variational Inference via Score Matching",
+      "authors": "Longlin Yu, Cheng Zhang",
+      "paper_url": "https://openreview.net/pdf/0d0ccdad3898dc31ee34f2593f76a3a9d2a77512.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_RShaMexjc-x",
+      "paper_id": "RShaMexjc-x",
+      "title": "Semi-relaxed Gromov-Wasserstein divergence and applications on graphs",
+      "authors": "Cédric Vincent-Cuaz, Rémi Flamary, Marco Corneli, Titouan Vayer, Nicolas Courty",
+      "paper_url": "https://openreview.net/pdf/fe28f3e616fabe8ac2ea06baba193a597fc572a7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_dImD2sgy86",
+      "paper_id": "dImD2sgy86",
+      "title": "Sequential Controlled Langevin Diffusions",
+      "authors": "Junhua Chen, Lorenz Richter, Julius Berner, Denis Blessing, Gerhard Neumann, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=dImD2sgy86",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_q87GUkdQBm",
+      "paper_id": "q87GUkdQBm",
+      "title": "SFESS: Score Function Estimators for $k$-Subset Sampling",
+      "authors": "Klas Wijk, Ricardo Vinuesa, Hossein Azizpour",
+      "paper_url": "https://openreview.net/pdf?id=q87GUkdQBm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fpvgSDKXGY",
+      "paper_id": "fpvgSDKXGY",
+      "title": "Simple ReFlow: Improved Techniques for Fast Flow Models",
+      "authors": "Beomsu Kim, Yu-Guan Hsieh, Michal Klein, marco cuturi, Jong Chul Ye, Bahjat Kawar, James Thornton",
+      "paper_url": "https://openreview.net/pdf?id=fpvgSDKXGY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DrhZneqz4n",
+      "paper_id": "DrhZneqz4n",
+      "title": "Single Motion Diffusion",
+      "authors": "Sigal Raab, Inbal Leibovitch, Guy Tevet, Moab Arar, Amit Haim Bermano, Daniel Cohen-Or",
+      "paper_url": "https://openreview.net/pdf?id=DrhZneqz4n",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_G8U2nGP3Vi",
+      "paper_id": "G8U2nGP3Vi",
+      "title": "Singular Subspace Perturbation Bounds via Rectangular Random Matrix Diffusions",
+      "authors": "Peiyao Lai, Oren Mangoubi",
+      "paper_url": "https://openreview.net/pdf?id=G8U2nGP3Vi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_t0TaKv0Gx6Z",
+      "paper_id": "t0TaKv0Gx6Z",
+      "title": "Sliced Kernelized Stein Discrepancy",
+      "authors": "Wenbo Gong, Yingzhen Li, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/39d9fa2661eb33fc05f7d9de6fddb979108767c4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_StYc4hQAEi",
+      "paper_id": "StYc4hQAEi",
+      "title": "Sliced Wasserstein Estimation with Control Variates",
+      "authors": "Khai Nguyen, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf?id=StYc4hQAEi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_wpXGPCBOTX",
+      "paper_id": "wpXGPCBOTX",
+      "title": "Sparsistency for inverse optimal transport",
+      "authors": "Francisco Andrade, Gabriel Peyré, Clarice Poon",
+      "paper_url": "https://openreview.net/pdf?id=wpXGPCBOTX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_yHY9NbQJ5BP",
+      "paper_id": "yHY9NbQJ5BP",
+      "title": "Sparsity-Constrained Optimal Transport",
+      "authors": "Tianlin Liu, Joan Puigcerver, Mathieu Blondel",
+      "paper_url": "https://openreview.net/pdf/01b19a43fd4282f5a55738b35ee52c3bb7236a0d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_I4c4K9vBNny",
+      "paper_id": "I4c4K9vBNny",
+      "title": "Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling",
+      "authors": "Đorđe Miladinović, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidhuber, Joachim M. Buhmann",
+      "paper_url": "https://openreview.net/pdf/07c9cfa0f97d0d062ba56a4bd3f00cbb1488c8a9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Q150eWkQ4I",
+      "paper_id": "Q150eWkQ4I",
+      "title": "Spectral Compressive Imaging via Unmixing-driven Subspace Diffusion Refinement",
+      "authors": "Haijin Zeng, Benteng Sun, Yongyong Chen, Jingyong Su, Yong Xu",
+      "paper_url": "https://openreview.net/pdf?id=Q150eWkQ4I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_jXQ0ipgMdU",
+      "paper_id": "jXQ0ipgMdU",
+      "title": "Spherical Sliced-Wasserstein",
+      "authors": "Clément Bonet, Paul Berg, Nicolas Courty, François Septier, Lucas Drumetz, Minh Tan Pham",
+      "paper_url": "https://openreview.net/pdf/36d5cf6ac0eb166de70b353929632780e2078ae1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FPQzXME9NK",
+      "paper_id": "FPQzXME9NK",
+      "title": "Spherical Tree-Sliced Wasserstein Distance",
+      "authors": "Hoang V. Tran, Thanh Chu, Minh-Khoi Nguyen-Nhat, Huyen Trang Pham, Tam Le, Tan Minh Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=FPQzXME9NK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_5-2mX9_U5i",
+      "paper_id": "5-2mX9_U5i",
+      "title": "Sqrt(d) Dimension Dependence of Langevin Monte Carlo",
+      "authors": "Ruilin Li, Hongyuan Zha, Molei Tao",
+      "paper_url": "https://openreview.net/pdf/e0edbcfc68c6fe7fb5ce570f96df1a072918442e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_2XBBumBGeP",
+      "paper_id": "2XBBumBGeP",
+      "title": "sRGB Real Noise Modeling via Noise-Aware Sampling with Normalizing Flows",
+      "authors": "Dongjin Kim, Donggoo Jung, Sungyong Baik, Tae Hyun Kim",
+      "paper_url": "https://openreview.net/pdf?id=2XBBumBGeP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_TD7AnQjNzR6",
+      "paper_id": "TD7AnQjNzR6",
+      "title": "Statistical Efficiency of Score Matching: The View from Isoperimetry",
+      "authors": "Frederic Koehler, Alexander Heckett, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf/650e8b5c38872cf721fff2c0b10c3e5fa039579b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_2-mkiUs9Jx7",
+      "paper_id": "2-mkiUs9Jx7",
+      "title": "Stein Latent Optimization for Generative Adversarial Networks",
+      "authors": "Uiwon Hwang, Heeseung Kim, Dahuin Jung, Hyemi Jang, Hyungyu Lee, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf/4edcadc882e7eafc4345a5d2a1b17ee37da071db.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Ze4aPP0tIn",
+      "paper_id": "Ze4aPP0tIn",
+      "title": "Step-by-Step Reasoning for Math Problems  via Twisted Sequential Monte Carlo",
+      "authors": "Shengyu Feng, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang, Yiming Yang",
+      "paper_url": "https://openreview.net/pdf?id=Ze4aPP0tIn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iMJpmcYucq",
+      "paper_id": "iMJpmcYucq",
+      "title": "Stochastic variance-reduced Gaussian variational inference on the Bures-Wasserstein manifold",
+      "authors": "Hoang Phuc Hau Luu, Hanlin Yu, Bernardo Williams, Marcelo Hartmann, Arto Klami",
+      "paper_url": "https://openreview.net/pdf?id=iMJpmcYucq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EO8xpnW7aX",
+      "paper_id": "EO8xpnW7aX",
+      "title": "SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups",
+      "authors": "Yongxing Zhang, Donglin Yang, Renjie Liao",
+      "paper_url": "https://openreview.net/pdf?id=EO8xpnW7aX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_9ZpciCOunFb",
+      "paper_id": "9ZpciCOunFb",
+      "title": "Symmetries, Flat Minima, and the Conserved Quantities of Gradient Flow",
+      "authors": "Bo Zhao, Iordan Ganev, Robin Walters, Rose Yu, Nima Dehmamy",
+      "paper_url": "https://openreview.net/pdf/5e9f00255cce370f6775a942b9adf4fbcb67ca31.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_EeqlkPpaV8",
+      "paper_id": "EeqlkPpaV8",
+      "title": "The adaptive complexity of parallelized log-concave sampling",
+      "authors": "Huanjian Zhou, Baoxiang Wang, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf?id=EeqlkPpaV8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_7_JR7WpwKV1",
+      "paper_id": "7_JR7WpwKV1",
+      "title": "The Effects of Invertibility on the Representational Complexity of Encoders in Variational Autoencoders",
+      "authors": "Divyansh Pareek, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf/4116475bedc76111284bad627cb9a8fbaec2059b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_2o58Mbqkd2",
+      "paper_id": "2o58Mbqkd2",
+      "title": "The Superposition of Diffusion Models Using the Itô Density Estimator",
+      "authors": "Marta Skreta, Lazar Atanackovic, Joey Bose, Alexander Tong, Kirill Neklyudov",
+      "paper_url": "https://openreview.net/pdf?id=2o58Mbqkd2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_YtMG5ex0ou",
+      "paper_id": "YtMG5ex0ou",
+      "title": "Tomographic Auto-Encoder: Unsupervised Bayesian Recovery of Corrupted Data",
+      "authors": "Francesco Tonolini, Pablo Garcia Moreno, Andreas Damianou, Roderick Murray-Smith",
+      "paper_url": "https://openreview.net/pdf/1a034aa157281f3316e3bb5608ae9c2bb7e13e30.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_WzCEiBILHu",
+      "paper_id": "WzCEiBILHu",
+      "title": "Topological Schrödinger Bridge Matching",
+      "authors": "Maosheng Yang",
+      "paper_url": "https://openreview.net/pdf?id=WzCEiBILHu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0UvlnHgaii",
+      "paper_id": "0UvlnHgaii",
+      "title": "Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers",
+      "authors": "Runyi Zhao, Sheng Xu, Bo Yue, Guiliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=0UvlnHgaii",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_H4PmOqSZDY",
+      "paper_id": "H4PmOqSZDY",
+      "title": "Towards Empirical Sandwich Bounds on the Rate-Distortion Function",
+      "authors": "Yibo Yang, Stephan Mandt",
+      "paper_url": "https://openreview.net/pdf/68b5094de29bac048c6f775fd6ae524a866caf89.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_6F6qwdycgJ",
+      "paper_id": "6F6qwdycgJ",
+      "title": "Towards Hierarchical Rectified Flow",
+      "authors": "Yichi Zhang, Yici Yan, Alex Schwing, Zhizhen Zhao",
+      "paper_url": "https://openreview.net/pdf?id=6F6qwdycgJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4VGEeER6W9",
+      "paper_id": "4VGEeER6W9",
+      "title": "Towards Non-Asymptotic Convergence for Diffusion-Based Generative Models",
+      "authors": "Gen Li, Yuting Wei, Yuxin Chen, Yuejie Chi",
+      "paper_url": "https://openreview.net/pdf?id=4VGEeER6W9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_eWtMdr6yCmL",
+      "paper_id": "eWtMdr6yCmL",
+      "title": "Trading Information between Latents in Hierarchical Variational Autoencoders",
+      "authors": "Tim Z. Xiao, Robert Bamler",
+      "paper_url": "https://openreview.net/pdf/2cd2bc0d7acddf526659f3d4815fd21f9c07f9f6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_61ss5RA1MM",
+      "paper_id": "61ss5RA1MM",
+      "title": "Training Free Guided Flow-Matching with Optimal Control",
+      "authors": "Luran Wang, Chaoran Cheng, Yizhen Liao, Yanru Qu, Ge Liu",
+      "paper_url": "https://openreview.net/pdf?id=61ss5RA1MM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LjeqMvQpen",
+      "paper_id": "LjeqMvQpen",
+      "title": "Transformer Fusion with Optimal Transport",
+      "authors": "Moritz Imfeld, Jacopo Graldi, Marco Giordano, Thomas Hofmann, Sotiris Anagnostidis, Sidak Pal Singh",
+      "paper_url": "https://openreview.net/pdf?id=LjeqMvQpen",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_PP1rudnxiW",
+      "paper_id": "PP1rudnxiW",
+      "title": "Transport meets Variational Inference: Controlled Monte Carlo Diffusions",
+      "authors": "Francisco Vargas, Shreyas Padhy, Denis Blessing, Nikolas Nüsken",
+      "paper_url": "https://openreview.net/pdf?id=PP1rudnxiW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nYjAzwor9R",
+      "paper_id": "nYjAzwor9R",
+      "title": "Tree-Wasserstein Distance for High Dimensional Data with a Latent Feature Hierarchy",
+      "authors": "Ya-Wei Eileen Lin, Ronald R. Coifman, Gal Mishne, Ronen Talmon",
+      "paper_url": "https://openreview.net/pdf?id=nYjAzwor9R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DTatjJTDl1",
+      "paper_id": "DTatjJTDl1",
+      "title": "Trivialized Momentum Facilitates Diffusion Generative Modeling on Lie Groups",
+      "authors": "Yuchen Zhu, Tianrong Chen, Lingkai Kong, Evangelos Theodorou, Molei Tao",
+      "paper_url": "https://openreview.net/pdf?id=DTatjJTDl1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sy1lbQxj9J",
+      "paper_id": "sy1lbQxj9J",
+      "title": "U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models",
+      "authors": "Song Mei",
+      "paper_url": "https://openreview.net/pdf?id=sy1lbQxj9J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Q1QTxFm0Is",
+      "paper_id": "Q1QTxFm0Is",
+      "title": "Underdamped Diffusion Bridges with Applications to Sampling",
+      "authors": "Denis Blessing, Julius Berner, Lorenz Richter, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf?id=Q1QTxFm0Is",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_6PIrhAx1j4i",
+      "paper_id": "6PIrhAx1j4i",
+      "title": "Understanding DDPM Latent Codes Through Optimal Transport",
+      "authors": "Valentin Khrulkov, Gleb Ryzhakov, Andrei Chertkov, Ivan Oseledets",
+      "paper_url": "https://openreview.net/pdf/05a5b6328c16d6e05741af0692ecdb4edd6955b9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Qycd9j5Qp9J",
+      "paper_id": "Qycd9j5Qp9J",
+      "title": "Understanding the Variance Collapse of SVGD in High Dimensions",
+      "authors": "Jimmy Ba, Murat A Erdogdu, Marzyeh Ghassemi, Shengyang Sun, Taiji Suzuki, Denny Wu, Tianzong Zhang",
+      "paper_url": "https://openreview.net/pdf/71e77dab5447ab6226d0f2e58132575f2217dc3b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_HrdVqFSn1e",
+      "paper_id": "HrdVqFSn1e",
+      "title": "Unified Convergence Analysis for Score-Based Diffusion Models with Deterministic Samplers",
+      "authors": "Runjia Li, Qiwei Di, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=HrdVqFSn1e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__JScUk9TBUn",
+      "paper_id": "_JScUk9TBUn",
+      "title": "Uniform-in-time propagation of chaos for the mean-field gradient Langevin dynamics",
+      "authors": "Taiji Suzuki, Atsushi Nitanda, Denny Wu",
+      "paper_url": "https://openreview.net/pdf/cc7a07e8f312e9e4d0dfcf0899b4a9ed00163f0b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_1HxTO6CTkz",
+      "paper_id": "1HxTO6CTkz",
+      "title": "Unifying Likelihood-free Inference with Black-box Optimization and Beyond",
+      "authors": "Dinghuai Zhang, Jie Fu, Yoshua Bengio, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/e2ec346ff6de5e9270bf7e826ba6ff87f1b8055b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_XsgHl54yO7",
+      "paper_id": "XsgHl54yO7",
+      "title": "Unlocking Guidance for Discrete State-Space Diffusion and Flow Models",
+      "authors": "Hunter Nisonoff, Junhao Xiong, Stephan Allenspach, Jennifer Listgarten",
+      "paper_url": "https://openreview.net/pdf?id=XsgHl54yO7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4anfpHj0wf",
+      "paper_id": "4anfpHj0wf",
+      "title": "Unlocking Point Processes through Point Set Diffusion",
+      "authors": "David Lüdke, Enric Rabasseda Raventós, Marcel Kollovieh, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=4anfpHj0wf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_OIs3SxU5Ynl",
+      "paper_id": "OIs3SxU5Ynl",
+      "title": "VAE Approximation Error: ELBO and Exponential Families",
+      "authors": "Alexander Shekhovtsov, Dmitrij Schlesinger, Boris Flach",
+      "paper_url": "https://openreview.net/pdf/a5374002f74f6bc2b38c0470b1886b02536c628f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_5m3SEczOV8L",
+      "paper_id": "5m3SEczOV8L",
+      "title": "VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models",
+      "authors": "Zhisheng Xiao, Karsten Kreis, Jan Kautz, Arash Vahdat",
+      "paper_url": "https://openreview.net/pdf/e45436941ac36b0258992469d1932909c6cbed5e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_y_op4lLLaWL",
+      "paper_id": "y_op4lLLaWL",
+      "title": "Variational autoencoders in the presence of low-dimensional data: landscape and implicit bias",
+      "authors": "Frederic Koehler, Viraj Mehta, Chenghui Zhou, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf/5fc178a777c9341b35f8427741eb86911e4b256a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_6EUtjXAvmj",
+      "paper_id": "6EUtjXAvmj",
+      "title": "Variational Diffusion Posterior Sampling with Midpoint Guidance",
+      "authors": "Badr MOUFAD, Yazid Janati, Lisa Bedin, Alain Oliviero Durmus, randal douc, Eric Moulines, Jimmy Olsson",
+      "paper_url": "https://openreview.net/pdf?id=6EUtjXAvmj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_qnQN4yr6FJz",
+      "paper_id": "qnQN4yr6FJz",
+      "title": "Variational Inference for Discriminative Learning with Generative Modeling of Feature Incompletion",
+      "authors": "Kohei Miyaguchi, Takayuki Katsuki, Akira Koseki, Toshiya Iwamori",
+      "paper_url": "https://openreview.net/pdf/537474668e8264be0d7e7963ad009564621ad25e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_rtx8B94JMS",
+      "paper_id": "rtx8B94JMS",
+      "title": "Variational Inference for SDEs Driven by Fractional Noise",
+      "authors": "Rembert Daems, Manfred Opper, Guillaume Crevecoeur, Tolga Birdal",
+      "paper_url": "https://openreview.net/pdf?id=rtx8B94JMS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_kZ0UYdhqkNY",
+      "paper_id": "kZ0UYdhqkNY",
+      "title": "Variational methods for simulation-based inference",
+      "authors": "Manuel Glöckler, Michael Deistler, Jakob H. Macke",
+      "paper_url": "https://openreview.net/pdf/7f95763dfe526e3086de5dd3efa1b9b647be0253.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_RLRXCV6DbEJ",
+      "paper_id": "RLRXCV6DbEJ",
+      "title": "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images",
+      "authors": "Rewon Child",
+      "paper_url": "https://openreview.net/pdf/e63933fc98cb52a55d96ffe8bb28d87410c6438e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_EVrz7UM-ZDm",
+      "paper_id": "EVrz7UM-ZDm",
+      "title": "Volumetric Optimal Transportation by Fast Fourier Transform",
+      "authors": "Na Lei, DONGSHENG An, Min Zhang, Xiaoyin Xu, David Gu",
+      "paper_url": "https://openreview.net/pdf/286c7fad917439bf5f5b68ba9b27b2a1dbe555a3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cnKhHxN3xj",
+      "paper_id": "cnKhHxN3xj",
+      "title": "Wasserstein Distances, Neuronal Entanglement, and Sparsity",
+      "authors": "Shashata Sawmya, Linghao Kong, Ilia Markov, Dan Alistarh, Nir N Shavit",
+      "paper_url": "https://openreview.net/pdf?id=cnKhHxN3xj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_bEoxzW_EXsa",
+      "paper_id": "bEoxzW_EXsa",
+      "title": "Wasserstein-2 Generative Networks",
+      "authors": "Alexander Korotin, Vage Egiazarian, Arip Asadulaev, Alexander Safin, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf/dbe3a9934dc8bb605cdc8c67d7e68c0a54cf4d38.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_etif9j1CnG",
+      "paper_id": "etif9j1CnG",
+      "title": "What Secrets Do Your Manifolds Hold? Understanding the Local Geometry of Generative Models",
+      "authors": "Ahmed Imtiaz Humayun, Ibtihel Amara, Cristina Nader Vasconcelos, Deepak Ramachandran, Candice Schumann, Junfeng He, Katherine A Heller, Golnoosh Farnadi, Negar Rostamzadeh, Mohammad Havaei",
+      "paper_url": "https://openreview.net/pdf?id=etif9j1CnG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kNPcOaqC5r",
+      "paper_id": "kNPcOaqC5r",
+      "title": "What's in a Prior? Learned Proximal Networks for Inverse Problems",
+      "authors": "Zhenghan Fang, Sam Buchanan, Jeremias Sulam",
+      "paper_url": "https://openreview.net/pdf?id=kNPcOaqC5r",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9GsgCUJtic",
+      "paper_id": "9GsgCUJtic",
+      "title": "When do GFlowNets learn the right distribution?",
+      "authors": "Tiago Silva, Rodrigo Barreto Alves, Eliezer de Souza da Silva, Amauri H Souza, Vikas Garg, Samuel Kaski, Diego Mesquita",
+      "paper_url": "https://openreview.net/pdf?id=9GsgCUJtic",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_osei3IzUia",
+      "paper_id": "osei3IzUia",
+      "title": "Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions",
+      "authors": "Raghav Singhal, Mark Goldstein, Rajesh Ranganath",
+      "paper_url": "https://openreview.net/pdf/f14263e154b403508bc9610cec0745bc42f8b9e7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_sMyXP8Tanm",
+      "paper_id": "sMyXP8Tanm",
+      "title": "Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data",
+      "authors": "Jingyang Ou, Shen Nie, Kaiwen Xue, Fengqi Zhu, Jiacheng Sun, Zhenguo Li, Chongxuan Li",
+      "paper_url": "https://openreview.net/pdf?id=sMyXP8Tanm",
+      "venue": "iclr25"
+    }
+  ]
+}

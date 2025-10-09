@@ -1,0 +1,245 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Information Extraction",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Entity & Relation Extraction",
+                    "what_is_covered": "Automatic detection of named entities plus the semantic relations or events connecting them.",
+                    "typical_examples": "Named Entity Recognition, Relation Extraction, Event Extraction",
+                    "cluster": "0"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Text Generation & Summarization",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Summarization & Keyphrase Generation",
+                    "what_is_covered": "Producing concise summaries or keyphrases from longer documents.",
+                    "typical_examples": "Summarization, Keyphrase, Evaluation",
+                    "cluster": "12"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Controllable & Stylistic Generation",
+                    "what_is_covered": "Generating text under user-specified style or attribute constraints.",
+                    "typical_examples": "Style transfer, controllable text generation, disentangled representations",
+                    "cluster": "27"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Dialogue & Conversational Systems",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Task-oriented Dialogue",
+                    "what_is_covered": "Dialogue systems that track state and generate responses to accomplish user goals.",
+                    "typical_examples": "Dialogue systems, Response generation, Dialogue state tracking",
+                    "cluster": "14"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Empathetic & Safe Dialogue",
+                    "what_is_covered": "Handling empathy, hate speech and multimodal cues in conversations.",
+                    "typical_examples": "HateSpeechDetection, EmpatheticDialogue, MultimodalAnalysis",
+                    "cluster": "25"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Multilingual & Cross-lingual NLP",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Multilingual Modeling & Transfer",
+                    "what_is_covered": "Building models that operate across many (often low-resource) languages and transfer knowledge between them.",
+                    "typical_examples": "low-resource languages, multilingual language models, cross-lingual transfer",
+                    "cluster": "16"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Multilingual Machine Translation",
+                    "what_is_covered": "Neural translation among multiple language pairs, often using shared or distilled models.",
+                    "typical_examples": "Neural machine translation, Knowledge distillation, Multilingual modeling",
+                    "cluster": "19"
+                },
+                {
+                    "id": "4.3",
+                    "name": "Speech in Low-Resource & Multimodal Settings",
+                    "what_is_covered": "Speech translation/recognition when data are scarce or involve multiple modalities.",
+                    "typical_examples": "speech translation, multimodal learning, low-resource speech",
+                    "cluster": "15"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Knowledge & Reasoning",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Knowledge Graph Reasoning",
+                    "what_is_covered": "Embedding and temporal/causal reasoning over structured knowledge graphs.",
+                    "typical_examples": "knowledge graph embedding, event causality reasoning, temporal knowledge reasoning",
+                    "cluster": "1"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Mathematical & Chain-of-Thought Reasoning",
+                    "what_is_covered": "Using large language models for step-by-step logical or mathematical reasoning.",
+                    "typical_examples": "Large language models, Mathematical reasoning, Chain-of-thought prompting",
+                    "cluster": "10"
+                },
+                {
+                    "id": "5.3",
+                    "name": "Compositional & Syntactic Generalization",
+                    "what_is_covered": "Probing or improving models to generalize compositionally or parse syntax.",
+                    "typical_examples": "syntactic parsing, compositional generalization, language model probing",
+                    "cluster": "3"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Retrieval & Question Answering",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Dense Retrieval & RAG",
+                    "what_is_covered": "Learning dense vector search for open-domain QA and retrieval-augmented generation.",
+                    "typical_examples": "Dense retrieval, open-domain question answering, retrieval-augmented generation",
+                    "cluster": "4"
+                },
+                {
+                    "id": "6.2",
+                    "name": "Table & Structured QA / Generation",
+                    "what_is_covered": "Mapping natural language to SQL, answering table queries or generating text from structured data.",
+                    "typical_examples": "Text-to-SQL, Table Question Answering, Data-to-Text Generation",
+                    "cluster": "2"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Evaluation, Alignment & Editing",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "LLM Evaluation & Human Alignment",
+                    "what_is_covered": "Designing metrics and feedback loops to align large language models with human intent.",
+                    "typical_examples": "LLM evaluation, alignment methods, human feedback",
+                    "cluster": "23"
+                },
+                {
+                    "id": "7.2",
+                    "name": "Hallucination, Calibration & Knowledge Editing",
+                    "what_is_covered": "Detecting/mitigating false outputs and editing or calibrating model knowledge.",
+                    "typical_examples": "hallucination, knowledge editing, calibration",
+                    "cluster": "11"
+                },
+                {
+                    "id": "7.3",
+                    "name": "Evaluation Metrics & Data Augmentation",
+                    "what_is_covered": "Developing metrics and synthetic data (incl. figurative language) to assess or improve models.",
+                    "typical_examples": "Evaluation metrics, Data augmentation, Figurative language",
+                    "cluster": "13"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Model Training Paradigms & Efficiency",
+            "subcategories": [
+                {
+                    "id": "8.1",
+                    "name": "Continual, In-context & Instruction Tuning",
+                    "what_is_covered": "Allowing models to learn new tasks or follow instructions without full retraining.",
+                    "typical_examples": "continual learning, instruction tuning, in-context learning",
+                    "cluster": "17"
+                },
+                {
+                    "id": "8.2",
+                    "name": "Parameter-Efficient & Compressed Models",
+                    "what_is_covered": "Reducing training/inference cost via adapters, pruning or lightweight fine-tuning.",
+                    "typical_examples": "parameter-efficient fine-tuning, model compression, large language models",
+                    "cluster": "20"
+                },
+                {
+                    "id": "8.3",
+                    "name": "Transformer Efficiency & Long-Context Modeling",
+                    "what_is_covered": "Architectural or computational methods to scale transformers to longer contexts efficiently.",
+                    "typical_examples": "Transformer efficiency, long-context modeling, adaptive computation",
+                    "cluster": "7"
+                },
+                {
+                    "id": "8.4",
+                    "name": "Sentence & Multilingual Representation Learning",
+                    "what_is_covered": "Contrastive or related methods to build versatile sentence embeddings across languages.",
+                    "typical_examples": "multilingual representation learning, sentence embeddings, contrastive learning",
+                    "cluster": "6"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Safety, Bias & Robustness",
+            "subcategories": [
+                {
+                    "id": "9.1",
+                    "name": "Social Bias & Fairness",
+                    "what_is_covered": "Measuring and mitigating demographic or social biases in NLP systems.",
+                    "typical_examples": "social bias, debiasing, fairness evaluation",
+                    "cluster": "26"
+                },
+                {
+                    "id": "9.2",
+                    "name": "Misinformation & Fact Verification",
+                    "what_is_covered": "Detecting false claims, AI-generated text or aligning model values with truthfulness.",
+                    "typical_examples": "fact verification, misinformation detection, evidence retrieval, AI-generated text detection, LLM value alignment",
+                    "cluster": "18,28"
+                },
+                {
+                    "id": "9.3",
+                    "name": "Security & Privacy Robustness",
+                    "what_is_covered": "Protecting models against adversarial, backdoor or privacy attacks.",
+                    "typical_examples": "adversarial robustness, backdoor attacks, privacy preservation",
+                    "cluster": "29"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Agents & Interactive Reasoning",
+            "subcategories": [
+                {
+                    "id": "10.1",
+                    "name": "LLM-based Agents & Planning",
+                    "what_is_covered": "Using large language models as autonomous agents capable of interactive planning and theory-of-mind reasoning.",
+                    "typical_examples": "LLM agents, interactive planning, theory of mind",
+                    "cluster": "21"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Code Intelligence",
+            "subcategories": [
+                {
+                    "id": "11.1",
+                    "name": "Code Generation & Benchmarks",
+                    "what_is_covered": "Generating executable code and evaluating models on coding tasks.",
+                    "typical_examples": "code generation, large language models, benchmark evaluation",
+                    "cluster": "24"
+                }
+            ]
+        }
+    ]
+}

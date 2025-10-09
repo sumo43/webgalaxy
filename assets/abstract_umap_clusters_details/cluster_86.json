@@ -1,0 +1,1821 @@
+{
+  "cluster_id": 86,
+  "papers": [
+    {
+      "id": "iclr25_7k4HVhUS9k",
+      "paper_id": "7k4HVhUS9k",
+      "title": "A Black Swan Hypothesis: The Role of Human Irrationality in AI Safety",
+      "authors": "Hyunin Lee, Chanwoo Park, David Abel, Ming Jin",
+      "paper_url": "https://openreview.net/pdf?id=7k4HVhUS9k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YaBiGjuDiC",
+      "paper_id": "YaBiGjuDiC",
+      "title": "A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement",
+      "authors": "Hui Yuan, Yifan Zeng, Yue Wu, Huazheng Wang, Mengdi Wang, Liu Leqi",
+      "paper_url": "https://openreview.net/pdf?id=YaBiGjuDiC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RKOAU5ti1y",
+      "paper_id": "RKOAU5ti1y",
+      "title": "A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations",
+      "authors": "Sheng Xu, Bo Yue, Hongyuan Zha, Guiliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=RKOAU5ti1y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ckZY7DGa7FQ",
+      "paper_id": "ckZY7DGa7FQ",
+      "title": "A Fine-Tuning Approach to Belief State Modeling",
+      "authors": "Samuel Sokota, Hengyuan Hu, David J Wu, J Zico Kolter, Jakob Nicolaus Foerster, Noam Brown",
+      "paper_url": "https://openreview.net/pdf/944fbcd08f3183592995e10fc1c179afad1bfc67.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_4FBUihxz5nm",
+      "paper_id": "4FBUihxz5nm",
+      "title": "A Mixture-of-Expert Approach to RL-based Dialogue Management",
+      "authors": "Yinlam Chow, Azamat Tulepbergenov, Ofir Nachum, Dhawal Gupta, Moonkyung Ryu, Mohammad Ghavamzadeh, Craig Boutilier",
+      "paper_url": "https://openreview.net/pdf/ed30d6917d0c6d712d5a89e6216da216ad910d4d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_9JQtrumvg8",
+      "paper_id": "9JQtrumvg8",
+      "title": "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis",
+      "authors": "Izzeddin Gur, Hiroki Furuta, Austin V Huang, Mustafa Safdari, Yutaka Matsuo, Douglas Eck, Aleksandra Faust",
+      "paper_url": "https://openreview.net/pdf?id=9JQtrumvg8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OjAU0LLDbe",
+      "paper_id": "OjAU0LLDbe",
+      "title": "A Theoretical Framework for Partially-Observed Reward States in RLHF",
+      "authors": "Chinmaya Kausik, Mirco Mutti, Aldo Pacchiano, Ambuj Tewari",
+      "paper_url": "https://openreview.net/pdf?id=OjAU0LLDbe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_nfKfAzkiez",
+      "paper_id": "nfKfAzkiez",
+      "title": "ACC-Collab: An Actor-Critic Approach to Multi-Agent LLM Collaboration",
+      "authors": "Andrew Estornell, Jean-Francois Ton, Yuanshun Yao, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=nfKfAzkiez",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NUD03NBDOE",
+      "paper_id": "NUD03NBDOE",
+      "title": "ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints",
+      "authors": "Divij Handa, Pavel Dolin, Shrinidhi Kumbhar, Tran Cao Son, Chitta Baral",
+      "paper_url": "https://openreview.net/pdf?id=NUD03NBDOE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xsx3Fpo3UD",
+      "paper_id": "xsx3Fpo3UD",
+      "title": "Advantage-Guided Distillation for Preference Alignment in Small Language Models",
+      "authors": "Shiping Gao, Fanqi Wan, Jiajian Guo, Xiaojun Quan, Qifan Wang",
+      "paper_url": "https://openreview.net/pdf?id=xsx3Fpo3UD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_z5uVAKwmjf",
+      "paper_id": "z5uVAKwmjf",
+      "title": "AFlow: Automating Agentic Workflow Generation",
+      "authors": "Jiayi Zhang, Jinyu Xiang, Zhaoyang Yu, Fengwei Teng, Xiong-Hui Chen, Jiaqi Chen, Mingchen Zhuge, Xin Cheng, Sirui Hong, Jinlin Wang, Bingnan Zheng, Bang Liu, Yuyu Luo, Chenglin Wu",
+      "paper_url": "https://openreview.net/pdf?id=z5uVAKwmjf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lIVRgt4nLv",
+      "paper_id": "lIVRgt4nLv",
+      "title": "Agent S: An Open Agentic Framework that Uses Computers Like a Human",
+      "authors": "Saaket Agashe, Jiuzhou Han, Shuyu Gan, Jiachen Yang, Ang Li, Xin Eric Wang",
+      "paper_url": "https://openreview.net/pdf?id=lIVRgt4nLv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EqcLAU6gyU",
+      "paper_id": "EqcLAU6gyU",
+      "title": "Agent-Oriented Planning in Multi-Agent Systems",
+      "authors": "Ao Li, Yuexiang Xie, Songze Li, Fugee Tsung, Bolin Ding, Yaliang Li",
+      "paper_url": "https://openreview.net/pdf?id=EqcLAU6gyU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HfWcFs7XLR",
+      "paper_id": "HfWcFs7XLR",
+      "title": "Agents' Room:  Narrative Generation through Multi-step Collaboration",
+      "authors": "Fantine Huot, Reinald Kim Amplayo, Jennimaria Palomaki, Alice Shoshana Jakobovits, Elizabeth Clark, Mirella Lapata",
+      "paper_url": "https://openreview.net/pdf?id=HfWcFs7XLR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_axUf8BOjnH",
+      "paper_id": "axUf8BOjnH",
+      "title": "AgentStudio: A Toolkit for Building General Virtual Agents",
+      "authors": "Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=axUf8BOjnH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_EHg5GDnyq1",
+      "paper_id": "EHg5GDnyq1",
+      "title": "AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors",
+      "authors": "Weize Chen, Yusheng Su, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chi-Min Chan, Heyang Yu, Yaxi Lu, Yi-Hsin Hung, Chen Qian, Yujia Qin, Xin Cong, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou",
+      "paper_url": "https://openreview.net/pdf?id=EHg5GDnyq1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UVnD9Ze6mF",
+      "paper_id": "UVnD9Ze6mF",
+      "title": "AIR-BENCH 2024: A Safety Benchmark based on Regulation and Policies Specified Risk Categories",
+      "authors": "Yi Zeng, Yu Yang, Andy Zhou, Jeffrey Ziwei Tan, Yuheng Tu, Yifan Mai, Kevin Klyman, Minzhou Pan, Ruoxi Jia, Dawn Song, Percy Liang, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=UVnD9Ze6mF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fUGhVYPVRM",
+      "paper_id": "fUGhVYPVRM",
+      "title": "Align With Purpose: Optimize Desired Properties in CTC Models with a General Plug-and-Play Framework",
+      "authors": "Eliya Segev, Maya Alroy, Ronen Katsir, Noam Wies, Ayana Shenhav, Yael Sapir Ben-Oren, David Zar, Oren Tadmor, Jacob Bitterman, Amnon Shashua, Tal Rosenwein",
+      "paper_url": "https://openreview.net/pdf?id=fUGhVYPVRM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_NsFZZU9gvk",
+      "paper_id": "NsFZZU9gvk",
+      "title": "Aligned LLMs Are Not Aligned Browser Agents",
+      "authors": "Priyanshu Kumar, Elaine Lau, Saranya Vijayakumar, Tu Trinh, Elaine T Chang, Vaughn Robinson, Shuyan Zhou, Matt Fredrikson, Sean M. Hendryx, Summer Yue, Zifan Wang",
+      "paper_url": "https://openreview.net/pdf?id=NsFZZU9gvk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1qGkuxI9UX",
+      "paper_id": "1qGkuxI9UX",
+      "title": "Aligning Language Models with Demonstrated Feedback",
+      "authors": "Omar Shaikh, Michelle S. Lam, Joey Hejna, Yijia Shao, Hyundong Justin Cho, Michael S. Bernstein, Diyi Yang",
+      "paper_url": "https://openreview.net/pdf?id=1qGkuxI9UX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_f9w89OY2cp",
+      "paper_id": "f9w89OY2cp",
+      "title": "Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs",
+      "authors": "Zhaowei Zhang, Fengshuo Bai, Qizhi Chen, Chengdong Ma, Mingzhi Wang, Haoran Sun, Zilong Zheng, Yaodong Yang",
+      "paper_url": "https://openreview.net/pdf?id=f9w89OY2cp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_k5PEHHY4spM",
+      "paper_id": "k5PEHHY4spM",
+      "title": "An Equal-Size Hard EM Algorithm for Diverse Dialogue Generation",
+      "authors": "Yuqiao Wen, Yongchang Hao, Yanshuai Cao, Lili Mou",
+      "paper_url": "https://openreview.net/pdf/e35691a0aba5f3cd36e304c2bdd3ecb53711ebb1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_il5yUQsrjC",
+      "paper_id": "il5yUQsrjC",
+      "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+      "authors": "Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle Lau, Marybeth Fair, Alice Li, William E Bishop, Wei Li, Folawiyo Campbell-Ajala, Daniel Kenji Toyama, Robert James Berry, Divya Tyamagundlu, Timothy P Lillicrap, Oriana Riva",
+      "paper_url": "https://openreview.net/pdf?id=il5yUQsrjC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WpZyPk79Fu",
+      "paper_id": "WpZyPk79Fu",
+      "title": "Anyprefer: An Agentic Framework for Preference Data Synthesis",
+      "authors": "Yiyang Zhou, Zhaoyang Wang, Tianle Wang, Shangyu Xing, Peng Xia, Bo Li, Kaiyuan Zheng, Zijian Zhang, Zhaorun Chen, Wenhao Zheng, Xuchao Zhang, Chetan Bansal, Weitong Zhang, Ying Wei, Mohit Bansal, Huaxiu Yao",
+      "paper_url": "https://openreview.net/pdf?id=WpZyPk79Fu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_shgx0eqdw6",
+      "paper_id": "shgx0eqdw6",
+      "title": "ARGS: Alignment as Reward-Guided Search",
+      "authors": "Maxim Khanov, Jirayu Burapacheep, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf?id=shgx0eqdw6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fsX9nFwMNj",
+      "paper_id": "fsX9nFwMNj",
+      "title": "As Simple as Fine-tuning: LLM Alignment via Bidirectional Negative Feedback Loss",
+      "authors": "Xin Mao, Huimin Xu, Feng-Lin Li, Ziqi Jin, WANG CHEN, Wei Zhang, Anh Tuan Luu",
+      "paper_url": "https://openreview.net/pdf?id=fsX9nFwMNj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FhTAG591Ve",
+      "paper_id": "FhTAG591Ve",
+      "title": "Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models",
+      "authors": "Michael Noukhovitch, Shengyi Huang, Sophie Xhonneux, Arian Hosseini, Rishabh Agarwal, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf?id=FhTAG591Ve",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_t9U3LW7JVX",
+      "paper_id": "t9U3LW7JVX",
+      "title": "Automated Design of Agentic Systems",
+      "authors": "Shengran Hu, Cong Lu, Jeff Clune",
+      "paper_url": "https://openreview.net/pdf?id=t9U3LW7JVX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2Chkk5Ye2s",
+      "paper_id": "2Chkk5Ye2s",
+      "title": "Be More Diverse than the Most Diverse: Optimal Mixtures of Generative Models via Mixture-UCB Bandit Algorithms",
+      "authors": "Parham Rezaei, Farzan Farnia, Cheuk Ting Li",
+      "paper_url": "https://openreview.net/pdf?id=2Chkk5Ye2s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vunPXOFmoi",
+      "paper_id": "vunPXOFmoi",
+      "title": "Benchmarking Agentic Workflow Generation",
+      "authors": "Shuofei Qiao, Runnan Fang, Zhisong Qiu, Xiaobin Wang, Ningyu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=vunPXOFmoi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_1W0z96MFEoH",
+      "paper_id": "1W0z96MFEoH",
+      "title": "Benchmarking the Spectrum of Agent Capabilities",
+      "authors": "Danijar Hafner",
+      "paper_url": "https://openreview.net/pdf/116a18888b3fb460e882ec2b844128223e3b17ca.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_LNLjU5C5dK",
+      "paper_id": "LNLjU5C5dK",
+      "title": "Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment",
+      "authors": "Geyang Guo, Ranchi Zhao, Tianyi Tang, Xin Zhao, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=LNLjU5C5dK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_2cRzmWXK9N",
+      "paper_id": "2cRzmWXK9N",
+      "title": "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints",
+      "authors": "Chaoqi Wang, Yibo Jiang, Chenghao Yang, Han Liu, Yuxin Chen",
+      "paper_url": "https://openreview.net/pdf?id=2cRzmWXK9N",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GjM61KRiTG",
+      "paper_id": "GjM61KRiTG",
+      "title": "Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models",
+      "authors": "Wenxuan Zhang, Philip Torr, Mohamed Elhoseiny, Adel Bibi",
+      "paper_url": "https://openreview.net/pdf?id=GjM61KRiTG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dliIIodM6b",
+      "paper_id": "dliIIodM6b",
+      "title": "Bootstrapping Language Models with DPO Implicit Rewards",
+      "authors": "Changyu Chen, Zichen Liu, Chao Du, Tianyu Pang, Qian Liu, Arunesh Sinha, Pradeep Varakantham, Min Lin",
+      "paper_url": "https://openreview.net/pdf?id=dliIIodM6b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_t6QHYUOQL7",
+      "paper_id": "t6QHYUOQL7",
+      "title": "Breaking Mental Set to Improve Reasoning through Diverse Multi-Agent Debate",
+      "authors": "Yexiang Liu, Jie Cao, Zekun Li, Ran He, Tieniu Tan",
+      "paper_url": "https://openreview.net/pdf?id=t6QHYUOQL7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hRwxZmcvW9",
+      "paper_id": "hRwxZmcvW9",
+      "title": "Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization",
+      "authors": "Yuxin Jiang, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang",
+      "paper_url": "https://openreview.net/pdf?id=hRwxZmcvW9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_EnXJfQqy0K",
+      "paper_id": "EnXJfQqy0K",
+      "title": "Building Cooperative Embodied Agents Modularly with Large Language Models",
+      "authors": "Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=EnXJfQqy0K",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WjKea8bGFF",
+      "paper_id": "WjKea8bGFF",
+      "title": "Building Math Agents with Multi-Turn Iterative Preference Learning",
+      "authors": "Wei Xiong, Chengshuai Shi, Jiaming Shen, Aviv Rosenberg, Zhen Qin, Daniele Calandriello, Misha Khalman, Rishabh Joshi, Bilal Piot, Mohammad Saleh, Chi Jin, Tong Zhang, Tianqi Liu",
+      "paper_url": "https://openreview.net/pdf?id=WjKea8bGFF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_6xfe4IVcOu",
+      "paper_id": "6xfe4IVcOu",
+      "title": "Chain of Hindsight aligns Language Models with Feedback",
+      "authors": "Hao Liu, Carmelo Sferrazza, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=6xfe4IVcOu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_sRZ3GhmegS",
+      "paper_id": "sRZ3GhmegS",
+      "title": "CoBERL: Contrastive BERT for Reinforcement Learning",
+      "authors": "Andrea Banino, Adria Puigdomenech Badia, Jacob C Walker, Tim Scholtes, Jovana Mitrovic, Charles Blundell",
+      "paper_url": "https://openreview.net/pdf/c833364a7435330b3ee8e71a2020d1172e9d3380.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_eom0IUrF__F",
+      "paper_id": "eom0IUrF__F",
+      "title": "CoCo: Controllable Counterfactuals for Evaluating Dialogue State Trackers",
+      "authors": "SHIYANG LI, Semih Yavuz, Kazuma Hashimoto, Jia Li, Tong Niu, Nazneen Rajani, Xifeng Yan, Yingbo Zhou, Caiming Xiong",
+      "paper_url": "https://openreview.net/pdf/d1ab54448d631f7bb1bc618c89dbf557eb97e930.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_7ohlQUbTpp",
+      "paper_id": "7ohlQUbTpp",
+      "title": "Collab: Controlled Decoding using Mixture of Agents for LLM Alignment",
+      "authors": "Souradip Chakraborty, Sujay Bhatt, Udari Madhushani Sehwag, Soumya Suvra Ghosal, Jiahao Qiu, Mengdi Wang, Dinesh Manocha, Furong Huang, Alec Koppel, Sumitra Ganesh",
+      "paper_url": "https://openreview.net/pdf?id=7ohlQUbTpp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YXRyYkb1im",
+      "paper_id": "YXRyYkb1im",
+      "title": "COMBO: Compositional World Models for Embodied Multi-Agent Cooperation",
+      "authors": "Hongxin Zhang, Zeyuan Wang, Qiushi Lyu, Zheyuan Zhang, Sunli Chen, Tianmin Shu, Behzad Dariush, Kwonjoon Lee, Yilun Du, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=YXRyYkb1im",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DI4gW8viB6",
+      "paper_id": "DI4gW8viB6",
+      "title": "Competing Large Language Models in Multi-Agent Gaming Environments",
+      "authors": "Jen-tse Huang, Eric John Li, Man Ho LAM, Tian Liang, Wenxuan Wang, Youliang Yuan, Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Michael Lyu",
+      "paper_url": "https://openreview.net/pdf?id=DI4gW8viB6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tiiAzqi6Ol",
+      "paper_id": "tiiAzqi6Ol",
+      "title": "Compositional Preference Models for Aligning LMs",
+      "authors": "Dongyoung Go, Tomasz Korbak, Germán Kruszewski, Jos Rozen, Marc Dymetman",
+      "paper_url": "https://openreview.net/pdf?id=tiiAzqi6Ol",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gkfUvn0fLU",
+      "paper_id": "gkfUvn0fLU",
+      "title": "Confronting Reward Model Overoptimization with Constrained RLHF",
+      "authors": "Ted Moskovitz, Aaditya K Singh, DJ Strouse, Tuomas Sandholm, Ruslan Salakhutdinov, Anca Dragan, Stephen Marcus McAleer",
+      "paper_url": "https://openreview.net/pdf?id=gkfUvn0fLU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hXm0Wu2U9K",
+      "paper_id": "hXm0Wu2U9K",
+      "title": "Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization",
+      "authors": "Audrey Huang, Wenhao Zhan, Tengyang Xie, Jason D. Lee, Wen Sun, Akshay Krishnamurthy, Dylan J Foster",
+      "paper_url": "https://openreview.net/pdf?id=hXm0Wu2U9K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_msEr27EejF",
+      "paper_id": "msEr27EejF",
+      "title": "Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking",
+      "authors": "Cassidy Laidlaw, Shivam Singhal, Anca Dragan",
+      "paper_url": "https://openreview.net/pdf?id=msEr27EejF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Vf6RDObyEF",
+      "paper_id": "Vf6RDObyEF",
+      "title": "CREAM: Consistency Regularized Self-Rewarding Language Models",
+      "authors": "Zhaoyang Wang, Weilei He, Zhiyuan Liang, Xuchao Zhang, Chetan Bansal, Ying Wei, Weitong Zhang, Huaxiu Yao",
+      "paper_url": "https://openreview.net/pdf?id=Vf6RDObyEF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LkzuPorQ5L",
+      "paper_id": "LkzuPorQ5L",
+      "title": "Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems",
+      "authors": "Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, Guancheng Wan, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen",
+      "paper_url": "https://openreview.net/pdf?id=LkzuPorQ5L",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_kDnal_bbb-E",
+      "paper_id": "kDnal_bbb-E",
+      "title": "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues",
+      "authors": "Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, Yulia Tsvetkov",
+      "paper_url": "https://openreview.net/pdf/1f09e2eb0a2962d022f2fc8411de57bb2f420a25.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_8UFG9D8xeU",
+      "paper_id": "8UFG9D8xeU",
+      "title": "Direct Post-Training Preference Alignment for Multi-Agent Motion Generation Model Using Implicit Feedback from Pre-training Demonstrations",
+      "authors": "Thomas Tian, Kratarth Goel",
+      "paper_url": "https://openreview.net/pdf?id=8UFG9D8xeU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TjP1d8PP8l",
+      "paper_id": "TjP1d8PP8l",
+      "title": "Discriminator-Guided Embodied Planning for LLM Agent",
+      "authors": "Haofu Qian, Chenjia Bai, Jiatao Zhang, Fei Wu, Wei Song, Xuelong Li",
+      "paper_url": "https://openreview.net/pdf?id=TjP1d8PP8l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0tWTxYYPnW",
+      "paper_id": "0tWTxYYPnW",
+      "title": "Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF",
+      "authors": "Anand Siththaranjan, Cassidy Laidlaw, Dylan Hadfield-Menell",
+      "paper_url": "https://openreview.net/pdf?id=0tWTxYYPnW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pOq9vDIYev",
+      "paper_id": "pOq9vDIYev",
+      "title": "Diverse Preference Learning for Capabilities and Alignment",
+      "authors": "Stewart Slocum, Asher Parker-Sartori, Dylan Hadfield-Menell",
+      "paper_url": "https://openreview.net/pdf?id=pOq9vDIYev",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cKlzKs3Nnb",
+      "paper_id": "cKlzKs3Nnb",
+      "title": "Diversity Empowers Intelligence: Integrating Expertise of Software Engineering Agents",
+      "authors": "Kexun Zhang, Weiran Yao, Zuxin Liu, Yihao Feng, Zhiwei Liu, Rithesh R N, Tian Lan, Lei Li, Renze Lou, Jiacheng Xu, Bo Pang, Yingbo Zhou, Shelby Heinecke, Silvio Savarese, Huan Wang, Caiming Xiong",
+      "paper_url": "https://openreview.net/pdf?id=cKlzKs3Nnb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MZzlUyU2ih",
+      "paper_id": "MZzlUyU2ih",
+      "title": "DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment",
+      "authors": "Yanjiang Guo, Yen-Jen Wang, Lihan Zha, Zheyuan Jiang, Jianyu Chen",
+      "paper_url": "https://openreview.net/pdf?id=MZzlUyU2ih",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_DSsSPr0RZJ",
+      "paper_id": "DSsSPr0RZJ",
+      "title": "DSBench: How Far Are Data Science Agents from Becoming Data Science Experts?",
+      "authors": "Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu",
+      "paper_url": "https://openreview.net/pdf?id=DSsSPr0RZJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_GW4j4n2cjH",
+      "paper_id": "GW4j4n2cjH",
+      "title": "Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment",
+      "authors": "Li Siyao, Tianpei Gu, Zhitao Yang, Zhengyu Lin, Ziwei Liu, Henghui Ding, Lei Yang, Chen Change Loy",
+      "paper_url": "https://openreview.net/pdf?id=GW4j4n2cjH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OspqtLVUN5",
+      "paper_id": "OspqtLVUN5",
+      "title": "Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective",
+      "authors": "Ruichen Shao, Bei Li, Gangao Liu, Yang Chen, ZhouXiang, Jingang Wang, Xunliang Cai, Peng Li",
+      "paper_url": "https://openreview.net/pdf?id=OspqtLVUN5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_e2NRNQ0sZe",
+      "paper_id": "e2NRNQ0sZe",
+      "title": "Efficient Reinforcement Learning with Large Language Model Priors",
+      "authors": "Xue Yan, Yan Song, Xidong Feng, Mengyue Yang, Haifeng Zhang, Haitham Bou Ammar, Jun Wang",
+      "paper_url": "https://openreview.net/pdf?id=e2NRNQ0sZe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LvDwwAgMEW",
+      "paper_id": "LvDwwAgMEW",
+      "title": "Eliciting Human Preferences with Language Models",
+      "authors": "Belinda Z. Li, Alex Tamkin, Noah Goodman, Jacob Andreas",
+      "paper_url": "https://openreview.net/pdf?id=LvDwwAgMEW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Ey8KcabBpB",
+      "paper_id": "Ey8KcabBpB",
+      "title": "EMOS: Embodiment-aware Heterogeneous Multi-robot Operating System with LLM Agents",
+      "authors": "Junting Chen, Checheng Yu, Xunzhe Zhou, Tianqi Xu, Yao Mu, Mengkang Hu, Wenqi Shao, Yikai Wang, Guohao Li, Lin Shao",
+      "paper_url": "https://openreview.net/pdf?id=Ey8KcabBpB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BqEvdOS1Hs",
+      "paper_id": "BqEvdOS1Hs",
+      "title": "Enhancing Human Experience in Human-Agent Collaboration: A Human-Centered Modeling Approach Based on Positive Human Gain",
+      "authors": "Yiming Gao, Feiyu Liu, Liang Wang, Dehua Zheng, Zhenjie Lian, Weixuan Wang, Wenjin Yang, Siqin Li, Xianliang Wang, Wenhui Chen, Jing Dai, QIANG FU, Yang Wei, Lanxiao Huang, Wei Liu",
+      "paper_url": "https://openreview.net/pdf?id=BqEvdOS1Hs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TWC4gLoAxY",
+      "paper_id": "TWC4gLoAxY",
+      "title": "Enhancing Human-AI Collaboration Through Logic-Guided Reasoning",
+      "authors": "Chengzhi Cao, Yinghao Fu, Sheng Xu, Ruimao Zhang, Shuang Li",
+      "paper_url": "https://openreview.net/pdf?id=TWC4gLoAxY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_IEduRUO55F",
+      "paper_id": "IEduRUO55F",
+      "title": "Eureka: Human-Level Reward Design via Coding Large Language Models",
+      "authors": "Yecheng Jason Ma, William Liang, Guanzhi Wang, De-An Huang, Osbert Bastani, Dinesh Jayaraman, Yuke Zhu, Linxi Fan, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=IEduRUO55F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QYigQ6gXNw",
+      "paper_id": "QYigQ6gXNw",
+      "title": "Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF",
+      "authors": "Tengyang Xie, Dylan J Foster, Akshay Krishnamurthy, Corby Rosset, Ahmed Hassan Awadallah, Alexander Rakhlin",
+      "paper_url": "https://openreview.net/pdf?id=QYigQ6gXNw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ueqTjOcuLc",
+      "paper_id": "ueqTjOcuLc",
+      "title": "Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View",
+      "authors": "Jintian Zhang, Xin Xu, Shumin Deng",
+      "paper_url": "https://openreview.net/pdf?id=ueqTjOcuLc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_u8VOQVzduP",
+      "paper_id": "u8VOQVzduP",
+      "title": "Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View",
+      "authors": "Xuan Liu, Jie ZHANG, HaoYang Shang, Song Guo, Yang Chengxu, Quanyan Zhu",
+      "paper_url": "https://openreview.net/pdf?id=u8VOQVzduP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_086pmarAris",
+      "paper_id": "086pmarAris",
+      "title": "Fantastic Rewards and How to Tame Them: A Case Study on Reward Learning for Task-oriented Dialogue Systems",
+      "authors": "Yihao Feng, Shentao Yang, Shujian Zhang, Jianguo Zhang, Caiming Xiong, Mingyuan Zhou, Huan Wang",
+      "paper_url": "https://openreview.net/pdf/a1290714106d4bdf27febffa982192b6b9d5819f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_sLKDbuyq99",
+      "paper_id": "sLKDbuyq99",
+      "title": "Flow: Modularized Agentic Workflow Automation",
+      "authors": "Boye Niu, Yiliao Song, Kai Lian, Yifan Shen, Yu Yao, Kun Zhang, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=sLKDbuyq99",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M8OGl34Pmg",
+      "paper_id": "M8OGl34Pmg",
+      "title": "Following the Human Thread in Social Navigation",
+      "authors": "Luca Scofano, Alessio Sampieri, Tommaso Campari, Valentino Sacco, Indro Spinelli, Lamberto Ballan, Fabio Galasso",
+      "paper_url": "https://openreview.net/pdf?id=M8OGl34Pmg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fibxvahvs3",
+      "paper_id": "fibxvahvs3",
+      "title": "GAIA: a benchmark for General AI Assistants",
+      "authors": "Grégoire Mialon, Clémentine Fourrier, Thomas Wolf, Yann LeCun, Thomas Scialom",
+      "paper_url": "https://openreview.net/pdf?id=fibxvahvs3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_J0qTpmbSbh",
+      "paper_id": "J0qTpmbSbh",
+      "title": "GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-Time Alignment",
+      "authors": "Yuancheng Xu, Udari Madhushani Sehwag, Alec Koppel, Sicheng Zhu, Bang An, Furong Huang, Sumitra Ganesh",
+      "paper_url": "https://openreview.net/pdf?id=J0qTpmbSbh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gtkFw6sZGS",
+      "paper_id": "gtkFw6sZGS",
+      "title": "Generative Judge for Evaluating Alignment",
+      "authors": "Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, hai zhao, Pengfei Liu",
+      "paper_url": "https://openreview.net/pdf?id=gtkFw6sZGS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Ccwp4tFEtE",
+      "paper_id": "Ccwp4tFEtE",
+      "title": "Generative Verifiers: Reward Modeling as Next-Token Prediction",
+      "authors": "Lunjun Zhang, Arian Hosseini, Hritik Bansal, Mehran Kazemi, Aviral Kumar, Rishabh Agarwal",
+      "paper_url": "https://openreview.net/pdf?id=Ccwp4tFEtE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_NnOZT_CR26Z",
+      "paper_id": "NnOZT_CR26Z",
+      "title": "GoBigger: A Scalable Platform for Cooperative-Competitive Multi-Agent Interactive Simulation",
+      "authors": "Ming Zhang, Shenghan Zhang, Zhenjie Yang, Lekai Chen, Jinliang Zheng, Chao Yang, Chuming Li, Hang Zhou, Yazhe Niu, Yu Liu",
+      "paper_url": "https://openreview.net/pdf/a9b5c1cac35cce14dad1036f5b0f324ad899d11f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_qaxhBG1UUaS",
+      "paper_id": "qaxhBG1UUaS",
+      "title": "GPT-Critic: Offline Reinforcement Learning for End-to-End Task-Oriented Dialogue Systems",
+      "authors": "Youngsoo Jang, Jongmin Lee, Kee-Eung Kim",
+      "paper_url": "https://openreview.net/pdf/c1d0299a479595ff9da923e14398de97f2382394.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_DpFeMH4l8Q",
+      "paper_id": "DpFeMH4l8Q",
+      "title": "Group Preference Optimization: Few-Shot Alignment of Large Language Models",
+      "authors": "Siyan Zhao, John Dang, Aditya Grover",
+      "paper_url": "https://openreview.net/pdf?id=DpFeMH4l8Q",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gZky2pakRK",
+      "paper_id": "gZky2pakRK",
+      "title": "HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Human-AI Interactions",
+      "authors": "Xuhui Zhou, Hyunwoo Kim, Faeze Brahman, Liwei Jiang, Hao Zhu, Ximing Lu, Frank F. Xu, Bill Yuchen Lin, Yejin Choi, Niloofar Mireshghallah, Ronan Le Bras, Maarten Sap",
+      "paper_url": "https://openreview.net/pdf?id=gZky2pakRK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MnfHxPP5gs",
+      "paper_id": "MnfHxPP5gs",
+      "title": "HelpSteer2-Preference: Complementing Ratings with Preferences",
+      "authors": "Zhilin Wang, Alexander Bukharin, Olivier Delalleau, Daniel Egert, Gerald Shen, Jiaqi Zeng, Oleksii Kuchaiev, Yi Dong",
+      "paper_url": "https://openreview.net/pdf?id=MnfHxPP5gs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yMHe9SRvxk",
+      "paper_id": "yMHe9SRvxk",
+      "title": "HERO: Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning",
+      "authors": "Ayano Hiranaka, Shang-Fu Chen, Chieh-Hsin Lai, Dongjun Kim, Naoki Murata, Takashi Shibuya, Wei-Hsiang Liao, Shao-Hua Sun, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=yMHe9SRvxk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cbttLtO94Q",
+      "paper_id": "cbttLtO94Q",
+      "title": "How to Evaluate Reward Models for RLHF",
+      "authors": "Evan Frick, Tianle Li, Connor Chen, Wei-Lin Chiang, Anastasios Nikolas Angelopoulos, Jiantao Jiao, Banghua Zhu, Joseph E. Gonzalez, Ion Stoica",
+      "paper_url": "https://openreview.net/pdf?id=cbttLtO94Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_otW0TJOUYF",
+      "paper_id": "otW0TJOUYF",
+      "title": "Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models",
+      "authors": "Logan Cross, Violet Xiang, Agam Bhatia, Daniel LK Yamins, Nick Haber",
+      "paper_url": "https://openreview.net/pdf?id=otW0TJOUYF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fwCoLe3TAX",
+      "paper_id": "fwCoLe3TAX",
+      "title": "Improving Generalization of Alignment with Human Preferences through Group Invariant Learning",
+      "authors": "Rui Zheng, Wei Shen, Yuan Hua, Wenbin Lai, Shihan Dou, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Haoran Huang, Tao Gui, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://openreview.net/pdf?id=fwCoLe3TAX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZGqd0cbBvm",
+      "paper_id": "ZGqd0cbBvm",
+      "title": "InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation",
+      "authors": "Gaurav Sahu, Abhay Puri, Juan A. Rodriguez, Amirhossein Abaskohi, Mohammad Chegini, Alexandre Drouin, Perouz Taslakian, Valentina Zantedeschi, Alexandre Lacoste, David Vazquez, Nicolas Chapados, Christopher Pal, Sai Rajeswar, Issam H. Laradji",
+      "paper_url": "https://openreview.net/pdf?id=ZGqd0cbBvm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_apErWGzCAA",
+      "paper_id": "apErWGzCAA",
+      "title": "Intelligent Go-Explore: Standing on the Shoulders of Giant Foundation Models",
+      "authors": "Cong Lu, Shengran Hu, Jeff Clune",
+      "paper_url": "https://openreview.net/pdf?id=apErWGzCAA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BwR8t91yqh",
+      "paper_id": "BwR8t91yqh",
+      "title": "Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface",
+      "authors": "Wenyue Hua, Mengting Wan, JAGANNATH SHASHANK SUBRAMANYA SAI VADREVU, Ryan Nadel, Yongfeng Zhang, Chi Wang",
+      "paper_url": "https://openreview.net/pdf?id=BwR8t91yqh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_o1Et3MogPw",
+      "paper_id": "o1Et3MogPw",
+      "title": "Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence",
+      "authors": "Weize Chen, Ziming You, Ran Li, yitong guan, Chen Qian, Chenyang Zhao, Cheng Yang, Ruobing Xie, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=o1Et3MogPw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_i8IwcQBi74",
+      "paper_id": "i8IwcQBi74",
+      "title": "Interpreting Language Reward Models via Contrastive Explanations",
+      "authors": "Junqi Jiang, Tom Bewley, Saumitra Mishra, Freddy Lecue, Manuela Veloso",
+      "paper_url": "https://openreview.net/pdf?id=i8IwcQBi74",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9FRwkPw3Cn",
+      "paper_id": "9FRwkPw3Cn",
+      "title": "Inverse Constitutional AI: Compressing Preferences into Principles",
+      "authors": "Arduin Findeis, Timo Kaufmann, Eyke Hüllermeier, Samuel Albanie, Robert D. Mullins",
+      "paper_url": "https://openreview.net/pdf?id=9FRwkPw3Cn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8aHzds2uUyB",
+      "paper_id": "8aHzds2uUyB",
+      "title": "Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization",
+      "authors": "Rajkumar Ramamurthy, Prithviraj Ammanabrolu, Kianté Brantley, Jack Hessel, Rafet Sifa, Christian Bauckhage, Hannaneh Hajishirzi, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf/e7b48c662a15dbddc1a3d5c9a2b338c13189506e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Pujt3ADZgI",
+      "paper_id": "Pujt3ADZgI",
+      "title": "Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning",
+      "authors": "Yuheng Zhang, Dian Yu, Baolin Peng, Linfeng Song, Ye Tian, Mingyue Huo, Nan Jiang, Haitao Mi, Dong Yu",
+      "paper_url": "https://openreview.net/pdf?id=Pujt3ADZgI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uBnM3EFovQ",
+      "paper_id": "uBnM3EFovQ",
+      "title": "Jailbreaking as a Reward Misspecification Problem",
+      "authors": "Zhihui Xie, Jiahui Gao, Lei Li, Zhenguo Li, Qi Liu, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf?id=uBnM3EFovQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VCbqXtS5YY",
+      "paper_id": "VCbqXtS5YY",
+      "title": "Joint Reward and Policy Learning with Demonstrations and Human Feedback Improves Alignment",
+      "authors": "Chenliang Li, Siliang Zeng, Zeyi Liao, Jiaxiang Li, Dongyeop Kang, Alfredo Garcia, Mingyi Hong",
+      "paper_url": "https://openreview.net/pdf?id=VCbqXtS5YY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_y9A2TpaGsE",
+      "paper_id": "y9A2TpaGsE",
+      "title": "Language Agents Meet Causality -- Bridging LLMs and Causal World Models",
+      "authors": "John Gkountouras, Matthias Lindemann, Phillip Lippe, Efstratios Gavves, Ivan Titov",
+      "paper_url": "https://openreview.net/pdf?id=y9A2TpaGsE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Kak2ZH5Itp",
+      "paper_id": "Kak2ZH5Itp",
+      "title": "Language Imbalance Driven Rewarding for Multilingual Self-improving",
+      "authors": "Wen Yang, Junhong Wu, Chen Wang, Chengqing Zong, Jiajun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Kak2ZH5Itp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TrKq4Wlwcz",
+      "paper_id": "TrKq4Wlwcz",
+      "title": "Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior",
+      "authors": "Ashmit Khandelwal, Aditya Agrawal, Aanisha Bhattacharyya, Yaman Kumar, Somesh Singh, Uttaran Bhattacharya, Ishita Dasgupta, Stefano Petrangeli, Rajiv Ratn Shah, Changyou Chen, Balaji Krishnamurthy",
+      "paper_url": "https://openreview.net/pdf?id=TrKq4Wlwcz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_u6imHU4Ebu",
+      "paper_id": "u6imHU4Ebu",
+      "title": "Large Language Models as Generalizable Policies for Embodied Tasks",
+      "authors": "Andrew Szot, Max Schwarzer, Harsh Agrawal, Bogdan Mazoure, Rin Metcalf, Walter Talbott, Natalie Mackraz, R Devon Hjelm, Alexander T Toshev",
+      "paper_url": "https://openreview.net/pdf?id=u6imHU4Ebu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HZVIQE1MsJ",
+      "paper_id": "HZVIQE1MsJ",
+      "title": "Learning LLM-as-a-Judge for Preference Alignment",
+      "authors": "Ziyi Ye, Xiangsheng Li, Qiuchi Li, Qingyao Ai, Yujia Zhou, Wei Shen, Dong Yan, Yiqun LIU",
+      "paper_url": "https://openreview.net/pdf?id=HZVIQE1MsJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dPs6BGO2QT0",
+      "paper_id": "dPs6BGO2QT0",
+      "title": "Learning Locality and Isotropy in Dialogue Modeling",
+      "authors": "Han Wu, Haochen Tan, Mingjie Zhan, Gangming Zhao, Shaoqing Lu, Ding Liang, Linqi Song",
+      "paper_url": "https://openreview.net/pdf/1bf27b66e1ac5124b7cf6726e833f2902ebec00d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ZDGKPbF0VQ",
+      "paper_id": "ZDGKPbF0VQ",
+      "title": "Leftover Lunch: Advantage-based Offline Reinforcement Learning for Language Models",
+      "authors": "Ashutosh Baheti, Ximing Lu, Faeze Brahman, Ronan Le Bras, Maarten Sap, Mark Riedl",
+      "paper_url": "https://openreview.net/pdf?id=ZDGKPbF0VQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pljYMCYDWJ",
+      "paper_id": "pljYMCYDWJ",
+      "title": "Logicbreaks: A Framework for Understanding Subversion of Rule-based Inference",
+      "authors": "Anton Xue, Avishree Khare, Rajeev Alur, Surbhi Goel, Eric Wong",
+      "paper_url": "https://openreview.net/pdf?id=pljYMCYDWJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ADSxCpCu9s",
+      "paper_id": "ADSxCpCu9s",
+      "title": "LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents",
+      "authors": "Jae-Woo Choi, Youngwoo Yoon, Hyobin Ong, Jaehong Kim, Minsu Jang",
+      "paper_url": "https://openreview.net/pdf?id=ADSxCpCu9s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WWXjMYZxfH",
+      "paper_id": "WWXjMYZxfH",
+      "title": "MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions",
+      "authors": "Yekun Chai, Haoran Sun, Huang Fang, Shuohuan Wang, Yu Sun, Hua Wu",
+      "paper_url": "https://openreview.net/pdf?id=WWXjMYZxfH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_x1Okv4kbVR",
+      "paper_id": "x1Okv4kbVR",
+      "title": "MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization",
+      "authors": "Yougang Lyu, Lingyong Yan, Zihan Wang, Dawei Yin, Pengjie Ren, Maarten de Rijke, Zhaochun Ren",
+      "paper_url": "https://openreview.net/pdf?id=x1Okv4kbVR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PDnEDS244P",
+      "paper_id": "PDnEDS244P",
+      "title": "Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Model Alignment",
+      "authors": "Mingzhi Wang, Chengdong Ma, Qizhi Chen, Linjian Meng, Yang Han, Jiancong Xiao, Zhaowei Zhang, Jing Huo, Weijie J Su, Yaodong Yang",
+      "paper_url": "https://openreview.net/pdf?id=PDnEDS244P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Pnk7vMbznK",
+      "paper_id": "Pnk7vMbznK",
+      "title": "Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing",
+      "authors": "Zhangchen Xu, Fengqing Jiang, Luyao Niu, Yuntian Deng, Radha Poovendran, Yejin Choi, Bill Yuchen Lin",
+      "paper_url": "https://openreview.net/pdf?id=Pnk7vMbznK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_d8cnezVcaW",
+      "paper_id": "d8cnezVcaW",
+      "title": "MallowsPO: Fine-Tune Your LLM with Preference Dispersions",
+      "authors": "Haoxian Chen, Hanyang Zhao, Henry Lam, David Yao, Wenpin Tang",
+      "paper_url": "https://openreview.net/pdf?id=d8cnezVcaW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_VtmBAGCN7o",
+      "paper_id": "VtmBAGCN7o",
+      "title": "MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework",
+      "authors": "Sirui Hong, Mingchen Zhuge, Jonathan Chen, Xiawu Zheng, Yuheng Cheng, Jinlin Wang, Ceyao Zhang, Zili Wang, Steven Ka Shing Yau, Zijuan Lin, Liyang Zhou, Chenyu Ran, Lingfeng Xiao, Chenglin Wu, Jürgen Schmidhuber",
+      "paper_url": "https://openreview.net/pdf?id=VtmBAGCN7o",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xgtXkyqw1f",
+      "paper_id": "xgtXkyqw1f",
+      "title": "MindSearch: Mimicking Human Minds Elicits Deep AI Searcher",
+      "authors": "Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao",
+      "paper_url": "https://openreview.net/pdf?id=xgtXkyqw1f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PNMv4r7s1i",
+      "paper_id": "PNMv4r7s1i",
+      "title": "Mitigating Reward Over-Optimization in RLHF via Behavior-Supported Regularization",
+      "authors": "Juntao Dai, Taiye Chen, Yaodong Yang, Qian Zheng, Gang Pan",
+      "paper_url": "https://openreview.net/pdf?id=PNMv4r7s1i",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6s5uXNWGIh",
+      "paper_id": "6s5uXNWGIh",
+      "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+      "authors": "Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Aleksander Madry, Lilian Weng",
+      "paper_url": "https://openreview.net/pdf?id=6s5uXNWGIh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FGSgsefE0Y",
+      "paper_id": "FGSgsefE0Y",
+      "title": "MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents",
+      "authors": "Yanqi Dai, Huanran Hu, Lei Wang, Shengjie Jin, Xu Chen, Zhiwu Lu",
+      "paper_url": "https://openreview.net/pdf?id=FGSgsefE0Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_kLbhLJ8OT12",
+      "paper_id": "kLbhLJ8OT12",
+      "title": "Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-oriented Dialogue System",
+      "authors": "Jianhong Wang, Yuan Zhang, Tae-Kyun Kim, Yunjie Gu",
+      "paper_url": "https://openreview.net/pdf/a99c17ceac45ecae4d3e3677d8e1179cd7d3900b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_r1KcapkzCt",
+      "paper_id": "r1KcapkzCt",
+      "title": "Monte Carlo Planning with Large Language Model for Text-Based Game Agents",
+      "authors": "Zijing Shi, Meng Fang, Ling Chen",
+      "paper_url": "https://openreview.net/pdf?id=r1KcapkzCt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_7_G8JySGecm",
+      "paper_id": "7_G8JySGecm",
+      "title": "Monte-Carlo Planning and Learning with Language Action Value Estimates",
+      "authors": "Youngsoo Jang, Seokin Seo, Jongmin Lee, Kee-Eung Kim",
+      "paper_url": "https://openreview.net/pdf/255385188b591f81f5ec4cb8c99ea2b92467f6be.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_MeGDmZjUXy",
+      "paper_id": "MeGDmZjUXy",
+      "title": "Moral Alignment for LLM Agents",
+      "authors": "Elizaveta Tennant, Stephen Hailes, Mirco Musolesi",
+      "paper_url": "https://openreview.net/pdf?id=MeGDmZjUXy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FpiCLJrSW8",
+      "paper_id": "FpiCLJrSW8",
+      "title": "More RLHF, More Trust? On The Impact of Preference Alignment On Trustworthiness",
+      "authors": "Aaron Jiaxun Li, Satyapriya Krishna, Himabindu Lakkaraju",
+      "paper_url": "https://openreview.net/pdf?id=FpiCLJrSW8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AvOhBgsE5R",
+      "paper_id": "AvOhBgsE5R",
+      "title": "Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs",
+      "authors": "Qi Wu, Yubo Zhao, Yifan Wang, Xinhang Liu, Yu-Wing Tai, Chi-Keung Tang",
+      "paper_url": "https://openreview.net/pdf?id=AvOhBgsE5R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JtGPIZpOrz",
+      "paper_id": "JtGPIZpOrz",
+      "title": "Multiagent Finetuning: Self Improvement with Diverse Reasoning Chains",
+      "authors": "Vighnesh Subramaniam, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba, Shuang Li, Igor Mordatch",
+      "paper_url": "https://openreview.net/pdf?id=JtGPIZpOrz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_GULFHQfgw0g",
+      "paper_id": "GULFHQfgw0g",
+      "title": "Neural Agents Struggle to Take Turns in Bidirectional Emergent Communication",
+      "authors": "Valentin Taillandier, Dieuwke Hupkes, Benoît Sagot, Emmanuel Dupoux, Paul Michel",
+      "paper_url": "https://openreview.net/pdf/f6e0700b1a4de32f13aabefaa7a865a60b7ce2f2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bgpNJBD6Va",
+      "paper_id": "bgpNJBD6Va",
+      "title": "No Preference Left Behind: Group Distributional Preference Optimization",
+      "authors": "Binwei Yao, Zefan Cai, Yun-Shiuan Chuang, Shanglin Yang, Ming Jiang, Diyi Yang, Junjie Hu",
+      "paper_url": "https://openreview.net/pdf?id=bgpNJBD6Va",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OoNazl6T7D",
+      "paper_id": "OoNazl6T7D",
+      "title": "Non-myopic Generation of Language Models for Reasoning and Planning",
+      "authors": "Chang Ma, Haiteng Zhao, Junlei Zhang, Junxian He, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf?id=OoNazl6T7D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_aBH_DydEvoH",
+      "paper_id": "aBH_DydEvoH",
+      "title": "Offline RL for Natural Language Generation with Implicit Language Q Learning",
+      "authors": "Charlie Victor Snell, Ilya Kostrikov, Yi Su, Sherry Yang, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf/52d92f1f776e26f5cd3935e847b0f2b77d30b7e9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_2QdsjiNXgj",
+      "paper_id": "2QdsjiNXgj",
+      "title": "On a Connection Between Imitation Learning and RLHF",
+      "authors": "Teng Xiao, Yige Yuan, Mingxiao Li, Zhengyu Chen, Vasant G Honavar",
+      "paper_url": "https://openreview.net/pdf?id=2QdsjiNXgj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cfn2O1qvxp",
+      "paper_id": "cfn2O1qvxp",
+      "title": "On-the-fly Preference Alignment via Principle-Guided Decoding",
+      "authors": "Mingye Zhu, Yi Liu, Lei Zhang, Junbo Guo, Zhendong Mao",
+      "paper_url": "https://openreview.net/pdf?id=cfn2O1qvxp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LM4PYXBId5",
+      "paper_id": "LM4PYXBId5",
+      "title": "One Hundred Neural Networks and Brains Watching Videos: Lessons from Alignment",
+      "authors": "Christina Sartzetaki, Gemma Roig, Cees G. M. Snoek, Iris Groen",
+      "paper_url": "https://openreview.net/pdf?id=LM4PYXBId5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oQKKlzxV1o",
+      "paper_id": "oQKKlzxV1o",
+      "title": "Online Information Acquisition: Hiring Multiple Agents",
+      "authors": "Federico Cacciamani, Matteo Castiglioni, Nicola Gatti",
+      "paper_url": "https://openreview.net/pdf?id=oQKKlzxV1o",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cfKZ5VrhXt",
+      "paper_id": "cfKZ5VrhXt",
+      "title": "Online Preference Alignment for Language Models via Count-based Exploration",
+      "authors": "Chenjia Bai, Yang Zhang, Shuang Qiu, Qiaosheng Zhang, Kang Xu, Xuelong Li",
+      "paper_url": "https://openreview.net/pdf?id=cfKZ5VrhXt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ruv3HdK6he",
+      "paper_id": "ruv3HdK6he",
+      "title": "Online-to-Offline RL for Agent Alignment",
+      "authors": "Xu Liu, Haobo Fu, Stefano V Albrecht, QIANG FU, Shuai Li",
+      "paper_url": "https://openreview.net/pdf?id=ruv3HdK6he",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OJd3ayDDoF",
+      "paper_id": "OJd3ayDDoF",
+      "title": "OpenHands: An Open Platform for AI Software Developers as Generalist Agents",
+      "authors": "Xingyao Wang, Boxuan Li, Yufan Song, Frank F. Xu, Xiangru Tang, Mingchen Zhuge, Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh, Hoang H. Tran, Fuqiang Li, Ren Ma, Mingzhang Zheng, Bill Qian, Yanjun Shao, Niklas Muennighoff, Yizhe Zhang, Binyuan Hui, Junyang Lin, Robert Brennan, Hao Peng, Heng Ji, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf?id=OJd3ayDDoF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_e7AUJpP8bV",
+      "paper_id": "e7AUJpP8bV",
+      "title": "PAD: Personalized Alignment of LLMs at Decoding-time",
+      "authors": "Ruizhe Chen, Xiaotian Zhang, Meng Luo, Wenhao Chai, Zuozhu Liu",
+      "paper_url": "https://openreview.net/pdf?id=e7AUJpP8bV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1kFDrYCuSu",
+      "paper_id": "1kFDrYCuSu",
+      "title": "PAL: Sample-Efficient Personalized Reward Modeling for Pluralistic Alignment",
+      "authors": "Daiwei Chen, Yi Chen, Aniket Rege, Zhi Wang, Ramya Korlakai Vinayak",
+      "paper_url": "https://openreview.net/pdf?id=1kFDrYCuSu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_T5QLRRHyL1",
+      "paper_id": "T5QLRRHyL1",
+      "title": "PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks",
+      "authors": "Matthew Chang, Gunjan Chhablani, Alexander Clegg, Mikael Dallaire Cote, Ruta Desai, Michal Hlavac, Vladimir Karashchuk, Jacob Krantz, Roozbeh Mottaghi, Priyam Parashar, Siddharth Patki, Ishita Prasad, Xavier Puig, Akshara Rai, Ram Ramrakhya, Daniel Tran, Joanne Truong, John M Turner, Eric Undersander, Tsung-Yen Yang",
+      "paper_url": "https://openreview.net/pdf?id=T5QLRRHyL1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dKl6lMwbCy",
+      "paper_id": "dKl6lMwbCy",
+      "title": "Peering Through Preferences: Unraveling Feedback Acquisition for Aligning Large Language Models",
+      "authors": "Hritik Bansal, John Dang, Aditya Grover",
+      "paper_url": "https://openreview.net/pdf?id=dKl6lMwbCy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_dFcXJgnrGB",
+      "paper_id": "dFcXJgnrGB",
+      "title": "PlaSma: Procedural Knowledge Models for Language-based Planning and Re-Planning",
+      "authors": "Faeze Brahman, Chandra Bhagavatula, Valentina Pyatkin, Jena D. Hwang, Xiang Lorraine Li, Hirona Jacqueline Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=dFcXJgnrGB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_MCNqgUFTHI",
+      "paper_id": "MCNqgUFTHI",
+      "title": "Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents",
+      "authors": "Yang Deng, Wenxuan Zhang, Wai Lam, See-Kiong Ng, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf?id=MCNqgUFTHI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6VgwE2tCRm",
+      "paper_id": "6VgwE2tCRm",
+      "title": "POGEMA: A Benchmark Platform for Cooperative Multi-Agent Pathfinding",
+      "authors": "Alexey Skrynnik, Anton Andreychuk, Anatolii Borzilov, Alexander Chernyavskiy, Konstantin Yakovlev, Aleksandr Panov",
+      "paper_url": "https://openreview.net/pdf?id=6VgwE2tCRm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Iu8RytBaji",
+      "paper_id": "Iu8RytBaji",
+      "title": "Post-hoc Reward Calibration: A Case Study on Length Bias",
+      "authors": "Zeyu Huang, Zihan Qiu, Zili Wang, Edoardo Ponti, Ivan Titov",
+      "paper_url": "https://openreview.net/pdf?id=Iu8RytBaji",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jkUp3lybXf",
+      "paper_id": "jkUp3lybXf",
+      "title": "Preference Optimization for Reasoning with Pseudo Feedback",
+      "authors": "Fangkai Jiao, Geyang Guo, Xingxing Zhang, Nancy F. Chen, Shafiq Joty, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=jkUp3lybXf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3d0OmYTNui",
+      "paper_id": "3d0OmYTNui",
+      "title": "Privately Aligning Language Models with Reinforcement Learning",
+      "authors": "Fan Wu, Huseyin A Inan, Arturs Backurs, Varun Chandrasekaran, Janardhan Kulkarni, Robert Sim",
+      "paper_url": "https://openreview.net/pdf?id=3d0OmYTNui",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wQEdh2cgEk",
+      "paper_id": "wQEdh2cgEk",
+      "title": "Process Reward Model with Q-value Rankings",
+      "authors": "Wendi Li, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf?id=wQEdh2cgEk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_v4MTnPiYXY",
+      "paper_id": "v4MTnPiYXY",
+      "title": "Q-SFT: Q-Learning for Language Models via Supervised Fine-Tuning",
+      "authors": "Joey Hong, Anca Dragan, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=v4MTnPiYXY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_N6o0ZtPzTg",
+      "paper_id": "N6o0ZtPzTg",
+      "title": "Query-Dependent Prompt Evaluation and Optimization with Offline Inverse RL",
+      "authors": "Hao Sun, Alihan Hüyük, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=N6o0ZtPzTg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_trKee5pIFv",
+      "paper_id": "trKee5pIFv",
+      "title": "RainbowPO: A Unified Framework for Combining Improvements in Preference Optimization",
+      "authors": "Hanyang Zhao, Genta Indra Winata, Anirban Das, Shi-Xiong Zhang, David Yao, Wenpin Tang, Sambit Sahu",
+      "paper_url": "https://openreview.net/pdf?id=trKee5pIFv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_WE_vluYUL-X",
+      "paper_id": "WE_vluYUL-X",
+      "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+      "authors": "Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik R Narasimhan, Yuan Cao",
+      "paper_url": "https://openreview.net/pdf/bc117919562a4ccddbe5c5b24ee364d14289cdee.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cVyELMpMRS",
+      "paper_id": "cVyELMpMRS",
+      "title": "Regressing the Relative Future: Efficient Policy Optimization for Multi-turn RLHF",
+      "authors": "Zhaolin Gao, Wenhao Zhan, Jonathan Daniel Chang, Gokul Swamy, Kianté Brantley, Jason D. Lee, Wen Sun",
+      "paper_url": "https://openreview.net/pdf?id=cVyELMpMRS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Cnwz9jONi5",
+      "paper_id": "Cnwz9jONi5",
+      "title": "Rethinking Reward Model Evaluation: Are We Barking up the Wrong Tree?",
+      "authors": "Xueru Wen, Jie Lou, Yaojie Lu, Hongyu Lin, XingYu, Xinyu Lu, Ben He, Xianpei Han, Debing Zhang, Le Sun",
+      "paper_url": "https://openreview.net/pdf?id=Cnwz9jONi5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rfdblE10qm",
+      "paper_id": "rfdblE10qm",
+      "title": "Rethinking Reward Modeling in Preference-based Large Language Model Alignment",
+      "authors": "Hao Sun, Yunyi Shen, Jean-Francois Ton",
+      "paper_url": "https://openreview.net/pdf?id=rfdblE10qm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KOZu91CzbK",
+      "paper_id": "KOZu91CzbK",
+      "title": "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization",
+      "authors": "Weiran Yao, Shelby Heinecke, Juan Carlos Niebles, Zhiwei Liu, Yihao Feng, Le Xue, Rithesh R N, Zeyuan Chen, Jianguo Zhang, Devansh Arpit, Ran Xu, Phil L Mui, Huan Wang, Caiming Xiong, Silvio Savarese",
+      "paper_url": "https://openreview.net/pdf?id=KOZu91CzbK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_n-UHRIdPju",
+      "paper_id": "n-UHRIdPju",
+      "title": "Revisiting Populations in multi-agent Communication",
+      "authors": "Paul Michel, Mathieu Rita, Kory Wallace Mathewson, Olivier Tieleman, Angeliki Lazaridou",
+      "paper_url": "https://openreview.net/pdf/670a147872e92b070c64ecc75a028560548072a4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cJPUpL8mOw",
+      "paper_id": "cJPUpL8mOw",
+      "title": "REvolve: Reward Evolution with Large Language Models using Human Feedback",
+      "authors": "RISHI HAZRA, Alkis Sygkounas, Andreas Persson, Amy Loutfi, Pedro Zuidberg Dos Martires",
+      "paper_url": "https://openreview.net/pdf?id=cJPUpL8mOw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_OUkZXbbwQr",
+      "paper_id": "OUkZXbbwQr",
+      "title": "Reward Design for Justifiable Sequential Decision-Making",
+      "authors": "Aleksa Sukovic, Goran Radanovic",
+      "paper_url": "https://openreview.net/pdf?id=OUkZXbbwQr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_10uNUgI5Kl",
+      "paper_id": "10uNUgI5Kl",
+      "title": "Reward Design with Language Models",
+      "authors": "Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf/696171827b35dfe4e639dfe0644bf0f279f84c75.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_9Ieq8jQNAl",
+      "paper_id": "9Ieq8jQNAl",
+      "title": "Reward Learning from Multiple Feedback Types",
+      "authors": "Yannick Metz, Andras Geiszl, Raphaël Baur, Mennatallah El-Assady",
+      "paper_url": "https://openreview.net/pdf?id=9Ieq8jQNAl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dcjtMYkpXx",
+      "paper_id": "dcjtMYkpXx",
+      "title": "Reward Model Ensembles Help Mitigate Overoptimization",
+      "authors": "Thomas Coste, Usman Anwar, Robert Kirk, David Krueger",
+      "paper_url": "https://openreview.net/pdf?id=dcjtMYkpXx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_v3XXtxWKi6",
+      "paper_id": "v3XXtxWKi6",
+      "title": "RLCD: Reinforcement Learning from Contrastive Distillation for LM Alignment",
+      "authors": "Kevin Yang, Dan Klein, Asli Celikyilmaz, Nanyun Peng, Yuandong Tian",
+      "paper_url": "https://openreview.net/pdf?id=v3XXtxWKi6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QEHrmQPBdd",
+      "paper_id": "QEHrmQPBdd",
+      "title": "RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style",
+      "authors": "Yantao Liu, Zijun Yao, Rui Min, Yixin Cao, Lei Hou, Juanzi Li",
+      "paper_url": "https://openreview.net/pdf?id=QEHrmQPBdd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kmgrlG9TR0",
+      "paper_id": "kmgrlG9TR0",
+      "title": "RMB: Comprehensively benchmarking reward models in LLM alignment",
+      "authors": "Enyu Zhou, Guodong Zheng, Binghai Wang, Zhiheng Xi, Shihan Dou, Rong Bao, Wei Shen, Limao Xiong, Jessica Fan, Yurong Mou, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://openreview.net/pdf?id=kmgrlG9TR0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OhUoTMxFIH",
+      "paper_id": "OhUoTMxFIH",
+      "title": "Robotouille: An Asynchronous Planning Benchmark for LLM Agents",
+      "authors": "Gonzalo Gonzalez-Pumariega, Leong Su Yean, Neha Sunkara, Sanjiban Choudhury",
+      "paper_url": "https://openreview.net/pdf?id=OhUoTMxFIH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_88AS5MQnmC",
+      "paper_id": "88AS5MQnmC",
+      "title": "RRM:  Robust Reward Model Training Mitigates Reward Hacking",
+      "authors": "Tianqi Liu, Wei Xiong, Jie Ren, Lichang Chen, Junru Wu, Rishabh Joshi, Yang Gao, Jiaming Shen, Zhen Qin, Tianhe Yu, Daniel Sohn, Anastasia Makarova, Jeremiah Zhe Liu, Yuan Liu, Bilal Piot, Abe Ittycheriah, Aviral Kumar, Mohammad Saleh",
+      "paper_url": "https://openreview.net/pdf?id=88AS5MQnmC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TyFrPOKYXw",
+      "paper_id": "TyFrPOKYXw",
+      "title": "Safe RLHF: Safe Reinforcement Learning from Human Feedback",
+      "authors": "Josef Dai, Xuehai Pan, Ruiyang Sun, Jiaming Ji, Xinbo Xu, Mickel Liu, Yizhou Wang, Yaodong Yang",
+      "paper_url": "https://openreview.net/pdf?id=TyFrPOKYXw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_I8af9JdQTy",
+      "paper_id": "I8af9JdQTy",
+      "title": "Sail into the Headwind: Alignment via Robust Rewards and Dynamic Labels against Reward Hacking",
+      "authors": "Paria Rashidinejad, Yuandong Tian",
+      "paper_url": "https://openreview.net/pdf?id=I8af9JdQTy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_xJbsmB8UMx",
+      "paper_id": "xJbsmB8UMx",
+      "title": "SALMON: Self-Alignment with Instructable Reward Models",
+      "authors": "Zhiqing Sun, Yikang Shen, Hongxin Zhang, Qinhong Zhou, Zhenfang Chen, David Daniel Cox, Yiming Yang, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf?id=xJbsmB8UMx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_K3n5jPkrU6",
+      "paper_id": "K3n5jPkrU6",
+      "title": "Scaling Large Language Model-based Multi-Agent Collaboration",
+      "authors": "Chen Qian, Zihao Xie, YiFei Wang, Wei Liu, Kunlun Zhu, Hanchen Xia, Yufan Dang, Zhuoyun Du, Weize Chen, Cheng Yang, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=K3n5jPkrU6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6z4YKr0GK6",
+      "paper_id": "6z4YKr0GK6",
+      "title": "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery",
+      "authors": "Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, Yifei Li, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N. Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun",
+      "paper_url": "https://openreview.net/pdf?id=6z4YKr0GK6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uZgK0tcPqd",
+      "paper_id": "uZgK0tcPqd",
+      "title": "Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models",
+      "authors": "Ángela López-Cardona, Carlos Segura, Alexandros Karatzoglou, Sergi Abadal, Ioannis Arapakis",
+      "paper_url": "https://openreview.net/pdf?id=uZgK0tcPqd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_1oijHJBRsT",
+      "paper_id": "1oijHJBRsT",
+      "title": "Self-Alignment with Instruction Backtranslation",
+      "authors": "Xian Li, Ping Yu, Chunting Zhou, Timo Schick, Omer Levy, Luke Zettlemoyer, Jason E Weston, Mike Lewis",
+      "paper_url": "https://openreview.net/pdf?id=1oijHJBRsT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7visV100Ms",
+      "paper_id": "7visV100Ms",
+      "title": "Self-Boosting Large Language Models with  Synthetic Preference Data",
+      "authors": "Qingxiu Dong, Li Dong, Xingxing Zhang, Zhifang Sui, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=7visV100Ms",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Zonhl0c9I0",
+      "paper_id": "Zonhl0c9I0",
+      "title": "SELF-EVOLVED REWARD LEARNING FOR LLMS",
+      "authors": "Chenghua Huang, Zhizhen Fan, Lu Wang, Fangkai Yang, Pu Zhao, Zeqi Lin, Qingwei Lin, Dongmei Zhang, Saravan Rajmohan, Qi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Zonhl0c9I0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4R71pdPBZp",
+      "paper_id": "4R71pdPBZp",
+      "title": "Self-Evolving Multi-Agent Collaboration Networks for Software Development",
+      "authors": "Yue Hu, Yuzhu Cai, Yaxin Du, Xinyu Zhu, Xiangrui Liu, Zijie Yu, Yuchen Hou, Shuo Tang, Siheng Chen",
+      "paper_url": "https://openreview.net/pdf?id=4R71pdPBZp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_a3PmRgAB5T",
+      "paper_id": "a3PmRgAB5T",
+      "title": "Self-Play Preference Optimization for Language Model Alignment",
+      "authors": "Yue Wu, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=a3PmRgAB5T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uIGnuyDSB9",
+      "paper_id": "uIGnuyDSB9",
+      "title": "SeRA: Self-Reviewing and Alignment of LLMs using Implicit Reward Margins",
+      "authors": "Jongwoo Ko, Saket Dingliwal, Bhavana Ganesh, Sailik Sengupta, Sravan Babu Bodapati, Aram Galstyan",
+      "paper_url": "https://openreview.net/pdf?id=uIGnuyDSB9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kKILfPkhSz",
+      "paper_id": "kKILfPkhSz",
+      "title": "ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents",
+      "authors": "Haiyang SHEN, Yue Li, Desong Meng, Dongqi Cai, Sheng Qi, Li Zhang, Mengwei Xu, Yun Ma",
+      "paper_url": "https://openreview.net/pdf?id=kKILfPkhSz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jfwe9qNqRi",
+      "paper_id": "jfwe9qNqRi",
+      "title": "SimPER: A Minimalist Approach to Preference  Alignment without Hyperparameters",
+      "authors": "Teng Xiao, Yige Yuan, Zhengyu Chen, Mingxiao Li, Shangsong Liang, Zhaochun Ren, Vasant G Honavar",
+      "paper_url": "https://openreview.net/pdf?id=jfwe9qNqRi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OCd3cffulp",
+      "paper_id": "OCd3cffulp",
+      "title": "SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback",
+      "authors": "Jingsheng Gao, Linxu Li, Ke Ji, Weiyuan Li, Yixin Lian, yuzhuo fu, Bin Dai",
+      "paper_url": "https://openreview.net/pdf?id=OCd3cffulp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tjn2YZSHUv",
+      "paper_id": "tjn2YZSHUv",
+      "title": "Social Reward: Evaluating and Enhancing Generative AI through Million-User Feedback from an Online Creative Community",
+      "authors": "Arman Isajanyan, Artur Shatveryan, David Kocharian, Zhangyang Wang, Humphrey Shi",
+      "paper_url": "https://openreview.net/pdf?id=tjn2YZSHUv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_s9z0HzWJJp",
+      "paper_id": "s9z0HzWJJp",
+      "title": "SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series",
+      "authors": "Junyan Cheng, Peter Chin",
+      "paper_url": "https://openreview.net/pdf?id=s9z0HzWJJp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_mM7VurbA4r",
+      "paper_id": "mM7VurbA4r",
+      "title": "SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents",
+      "authors": "Xuhui Zhou, Hao Zhu, Leena Mathur, Ruohong Zhang, Haofei Yu, Zhengyang Qi, Louis-Philippe Morency, Yonatan Bisk, Daniel Fried, Graham Neubig, Maarten Sap",
+      "paper_url": "https://openreview.net/pdf?id=mM7VurbA4r",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OZbFRNhpwr",
+      "paper_id": "OZbFRNhpwr",
+      "title": "SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION",
+      "authors": "Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixing, Xurui Zhou, Weiwen Liu, Shuai Wang, Kaiwen Zhou, Rui Shao, Liqiang Nie, Yasheng Wang, Jianye HAO, Jun Wang, Kun Shao",
+      "paper_url": "https://openreview.net/pdf?id=OZbFRNhpwr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2tIyA5cri8",
+      "paper_id": "2tIyA5cri8",
+      "title": "Sparse Autoencoders Reveal Temporal Difference Learning in Large Language Models",
+      "authors": "Can Demircan, Tankred Saanum, Akshay Kumar Jagadish, Marcel Binz, Eric Schulz",
+      "paper_url": "https://openreview.net/pdf?id=2tIyA5cri8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BPgK5XW1Nb",
+      "paper_id": "BPgK5XW1Nb",
+      "title": "Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment",
+      "authors": "Dongyoung Kim, Kimin Lee, Jinwoo Shin, Jaehyung Kim",
+      "paper_url": "https://openreview.net/pdf?id=BPgK5XW1Nb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_xbjSwwrQOe",
+      "paper_id": "xbjSwwrQOe",
+      "title": "Statistical Rejection Sampling Improves Preference Optimization",
+      "authors": "Tianqi Liu, Yao Zhao, Rishabh Joshi, Misha Khalman, Mohammad Saleh, Peter J Liu, Jialu Liu",
+      "paper_url": "https://openreview.net/pdf?id=xbjSwwrQOe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_CtS2Rs_aYk",
+      "paper_id": "CtS2Rs_aYk",
+      "title": "Stay Moral and Explore: Learn to Behave Morally in Text-based Games",
+      "authors": "Zijing Shi, Meng Fang, Yunqiu Xu, Ling Chen, Yali Du",
+      "paper_url": "https://openreview.net/pdf/dad0b424172c8f0ef656ed8e3fc50bf5d323aaa9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Upoxh7wvmJ",
+      "paper_id": "Upoxh7wvmJ",
+      "title": "Strong Preferences Affect the Robustness of Preference Models and Value Alignment",
+      "authors": "Ziwei Xu, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf?id=Upoxh7wvmJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MzHNftnAM1",
+      "paper_id": "MzHNftnAM1",
+      "title": "Style Outweighs Substance: Failure Modes of LLM Judges in Alignment Benchmarking",
+      "authors": "Benjamin Feuer, Micah Goldblum, Teresa Datta, Sanjana Nambiar, Raz Besaleli, Samuel Dooley, Max Cembalest, John P Dickerson",
+      "paper_url": "https://openreview.net/pdf?id=MzHNftnAM1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_G7sIFXugTX",
+      "paper_id": "G7sIFXugTX",
+      "title": "SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement",
+      "authors": "Antonis Antoniades, Albert Örwall, Kexun Zhang, Yuxi Xie, Anirudh Goyal, William Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=G7sIFXugTX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8DBTq09LgN",
+      "paper_id": "8DBTq09LgN",
+      "title": "Synthesizing Programmatic Reinforcement Learning Policies with Large Language Model Guided Search",
+      "authors": "Max Liu, Chan-Hung Yu, Wei-Hsu Lee, Cheng-Wei Hung, Yen-Chun Chen, Shao-Hua Sun",
+      "paper_url": "https://openreview.net/pdf?id=8DBTq09LgN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1R5BcYS8EC",
+      "paper_id": "1R5BcYS8EC",
+      "title": "SysCaps: Language Interfaces for Simulation Surrogates of Complex Systems",
+      "authors": "Patrick Emami, Zhaonan Li, Saumya Sinha, Truc Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=1R5BcYS8EC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zd0iX5xBhA",
+      "paper_id": "zd0iX5xBhA",
+      "title": "System 1.x: Learning to Balance Fast and Slow Planning with Language Models",
+      "authors": "Swarnadeep Saha, Archiki Prasad, Justin Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=zd0iX5xBhA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_l0tg0jzsdL",
+      "paper_id": "l0tg0jzsdL",
+      "title": "Taming Overconfidence in LLMs: Reward Calibration in RLHF",
+      "authors": "Jixuan Leng, Chengsong Huang, Banghua Zhu, Jiaxin Huang",
+      "paper_url": "https://openreview.net/pdf?id=l0tg0jzsdL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tUM39YTRxH",
+      "paper_id": "tUM39YTRxH",
+      "title": "Text2Reward: Reward Shaping with Language Models for Reinforcement Learning",
+      "authors": "Tianbao Xie, Siheng Zhao, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, Tao Yu",
+      "paper_url": "https://openreview.net/pdf?id=tUM39YTRxH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_fh8EYKFKns",
+      "paper_id": "fh8EYKFKns",
+      "title": "The Alignment Problem from a Deep Learning Perspective",
+      "authors": "Richard Ngo, Lawrence Chan, Sören Mindermann",
+      "paper_url": "https://openreview.net/pdf?id=fh8EYKFKns",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_F6z3utfcYw",
+      "paper_id": "F6z3utfcYw",
+      "title": "The Crucial Role of Samplers in Online Direct Preference Optimization",
+      "authors": "Ruizhe Shi, Runlong Zhou, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf?id=F6z3utfcYw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_JYtwGwIL7ye",
+      "paper_id": "JYtwGwIL7ye",
+      "title": "The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models",
+      "authors": "Alexander Pan, Kush Bhatia, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf/772b3ddc867fd13a9c98fb15c99f94d5b68ae558.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_MeHmwCDifc",
+      "paper_id": "MeHmwCDifc",
+      "title": "The Trickle-down Impact of Reward Inconsistency on RLHF",
+      "authors": "Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi, Dong Yu",
+      "paper_url": "https://openreview.net/pdf?id=MeHmwCDifc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_wxJ0eXwwda",
+      "paper_id": "wxJ0eXwwda",
+      "title": "The Unlocking Spell on Base LLMs:  Rethinking Alignment via In-Context Learning",
+      "authors": "Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chandra Bhagavatula, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=wxJ0eXwwda",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_oF6e2WwxX0",
+      "paper_id": "oF6e2WwxX0",
+      "title": "TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights",
+      "authors": "Aiwei Liu, Haoping Bai, Zhiyun Lu, Yanchao Sun, Xiang Kong, Xiaoming Simon Wang, Jiulong Shan, Albin Madappally Jose, Xiaojiang Liu, Lijie Wen, Philip S. Yu, Meng Cao",
+      "paper_url": "https://openreview.net/pdf?id=oF6e2WwxX0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_utkGLDSNOk",
+      "paper_id": "utkGLDSNOk",
+      "title": "TODO: Enhancing LLM Alignment with Ternary Preferences",
+      "authors": "Yuxiang Guo, Lu Yin, Bo Jiang, Jiaqi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=utkGLDSNOk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_2t7CkQXNpuq",
+      "paper_id": "2t7CkQXNpuq",
+      "title": "ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind",
+      "authors": "Yuanfei Wang, fangwei zhong, Jing Xu, Yizhou Wang",
+      "paper_url": "https://openreview.net/pdf/a18a759fefcf7c83cb3cd488541d2df743059f5b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_d94x0gWTUX",
+      "paper_id": "d94x0gWTUX",
+      "title": "Tool-Augmented Reward Modeling",
+      "authors": "Lei Li, Yekun Chai, Shuohuan Wang, Yu Sun, Hao Tian, Ningyu Zhang, Hua Wu",
+      "paper_url": "https://openreview.net/pdf?id=d94x0gWTUX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_q3F0UBAruO",
+      "paper_id": "q3F0UBAruO",
+      "title": "Towards Effective and Interpretable Human-Agent Collaboration in MOBA Games: A Communication Perspective",
+      "authors": "Yiming Gao, Feiyu Liu, Liang Wang, Zhenjie Lian, Weixuan Wang, Siqin Li, Xianliang Wang, Xianhan Zeng, Rundong Wang, jiawei wang, QIANG FU, Yang Wei, Lanxiao Huang, Wei Liu",
+      "paper_url": "https://openreview.net/pdf/05be94f6c3da0d1f97a06aaecf42515ddc07d159.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_mqNKiEB6pd",
+      "paper_id": "mqNKiEB6pd",
+      "title": "Towards Federated RLHF with Aggregated Client Preference for LLMs",
+      "authors": "Feijie Wu, Xiaoze Liu, Haoyu Wang, Xingchen Wang, Lu Su, Jing Gao",
+      "paper_url": "https://openreview.net/pdf?id=mqNKiEB6pd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CbfsKHiWEn",
+      "paper_id": "CbfsKHiWEn",
+      "title": "Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization",
+      "authors": "Junkang Wu, Yuexiang Xie, Zhengyi Yang, Jiancan Wu, Jiawei Chen, Jinyang Gao, Bolin Ding, Xiang Wang, Xiangnan He",
+      "paper_url": "https://openreview.net/pdf?id=CbfsKHiWEn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_O0sQ9CPzai",
+      "paper_id": "O0sQ9CPzai",
+      "title": "TPO: Aligning Large Language Models with Multi-branch & Multi-step Preference Trees",
+      "authors": "Weibin Liao, Xu Chu, Yasha Wang",
+      "paper_url": "https://openreview.net/pdf?id=O0sQ9CPzai",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_KzkLAE49H9b",
+      "paper_id": "KzkLAE49H9b",
+      "title": "Training language models to summarize narratives improves brain alignment",
+      "authors": "Khai Loong Aw, Mariya Toneva",
+      "paper_url": "https://openreview.net/pdf/c67334d169d975ca4c1f56fc722f9eb680ebf5b9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_NddKiWtdUm",
+      "paper_id": "NddKiWtdUm",
+      "title": "Training Socially Aligned Language Models on Simulated Social Interactions",
+      "authors": "Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Diyi Yang, Soroush Vosoughi",
+      "paper_url": "https://openreview.net/pdf?id=NddKiWtdUm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Pj06mxCXPl",
+      "paper_id": "Pj06mxCXPl",
+      "title": "Transformers Can Learn Temporal Difference Methods for In-Context Reinforcement Learning",
+      "authors": "Jiuqi Wang, Ethan Blaser, Hadi Daneshmand, Shangtong Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Pj06mxCXPl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hILVmJ4Uvu",
+      "paper_id": "hILVmJ4Uvu",
+      "title": "True Knowledge Comes from Practice: Aligning Large Language Models with Embodied Environments via Reinforcement Learning",
+      "authors": "Weihao Tan, Wentao Zhang, Shanqi Liu, Longtao Zheng, Xinrun Wang, Bo An",
+      "paper_url": "https://openreview.net/pdf?id=hILVmJ4Uvu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_WesY0H9ghM",
+      "paper_id": "WesY0H9ghM",
+      "title": "Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback",
+      "authors": "Yifu Yuan, Jianye HAO, Yi Ma, Zibin Dong, Hebin Liang, Jinyi Liu, Zhixin Feng, Kai Zhao, YAN ZHENG",
+      "paper_url": "https://openreview.net/pdf?id=WesY0H9ghM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uaMSBJDnRv",
+      "paper_id": "uaMSBJDnRv",
+      "title": "Unintentional Unalignment: Likelihood Displacement in Direct Preference Optimization",
+      "authors": "Noam Razin, Sadhika Malladi, Adithya Bhaskar, Danqi Chen, Sanjeev Arora, Boris Hanin",
+      "paper_url": "https://openreview.net/pdf?id=uaMSBJDnRv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AY6aM13gGF",
+      "paper_id": "AY6aM13gGF",
+      "title": "Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning",
+      "authors": "Ruizhe Shi, Yuyao Liu, Yanjie Ze, Simon Shaolei Du, Huazhe Xu",
+      "paper_url": "https://openreview.net/pdf?id=AY6aM13gGF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SQnitDuow6",
+      "paper_id": "SQnitDuow6",
+      "title": "Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF",
+      "authors": "Shicong Cen, Jincheng Mei, Katayoon Goshvadi, Hanjun Dai, Tong Yang, Sherry Yang, Dale Schuurmans, Yuejie Chi, Bo Dai",
+      "paper_url": "https://openreview.net/pdf?id=SQnitDuow6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IcVNBR7qZi",
+      "paper_id": "IcVNBR7qZi",
+      "title": "Vanishing Gradients in Reinforcement Finetuning of Language Models",
+      "authors": "Noam Razin, Hattie Zhou, Omid Saremi, Vimal Thilak, Arwen Bradley, Preetum Nakkiran, Joshua M. Susskind, Etai Littwin",
+      "paper_url": "https://openreview.net/pdf?id=IcVNBR7qZi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_w_7JMpGZRh0",
+      "paper_id": "w_7JMpGZRh0",
+      "title": "Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration",
+      "authors": "Xavier Puig, Tianmin Shu, Shuang Li, Zilin Wang, Yuan-Hong Liao, Joshua B. Tenenbaum, Sanja Fidler, Antonio Torralba",
+      "paper_url": "https://openreview.net/pdf/9bfeb3924965335d86eb7bb9552109e716b83e8a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_f7KxfUrRSb",
+      "paper_id": "f7KxfUrRSb",
+      "title": "Weak-to-Strong Preference Optimization: Stealing Reward from Weak Aligned Model",
+      "authors": "Wenhong Zhu, Zhiwei He, Xiaofeng Wang, Pengfei Liu, Rui Wang",
+      "paper_url": "https://openreview.net/pdf?id=f7KxfUrRSb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_moWiYJuSGF",
+      "paper_id": "moWiYJuSGF",
+      "title": "Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation",
+      "authors": "Hyungjoo Chae, Namyoung Kim, Kai Tzu-iunn Ong, Minju Gwak, Gwanwoo Song, Jihoon Kim, Sunghwan Kim, Dongha Lee, Jinyoung Yeo",
+      "paper_url": "https://openreview.net/pdf?id=moWiYJuSGF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oKn9c6ytLx",
+      "paper_id": "oKn9c6ytLx",
+      "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+      "authors": "Shuyan Zhou, Frank F. Xu, Hao Zhu, Xuhui Zhou, Robert Lo, Abishek Sridhar, Xianyi Cheng, Tianyue Ou, Yonatan Bisk, Daniel Fried, Uri Alon, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf?id=oKn9c6ytLx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fq24pEb8SL",
+      "paper_id": "fq24pEb8SL",
+      "title": "Weighted-Reward Preference Optimization for Implicit Model Fusion",
+      "authors": "Ziyi Yang, Fanqi Wan, Longguang Zhong, Tianyuan Shi, Xiaojun Quan",
+      "paper_url": "https://openreview.net/pdf?id=fq24pEb8SL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BTKAeLqLMw",
+      "paper_id": "BTKAeLqLMw",
+      "title": "What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning",
+      "authors": "Wei Liu, Weihao Zeng, Keqing He, Yong Jiang, Junxian He",
+      "paper_url": "https://openreview.net/pdf?id=BTKAeLqLMw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_vaxnu-Utr4l",
+      "paper_id": "vaxnu-Utr4l",
+      "title": "WikiWhy: Answering and Explaining Cause-and-Effect Questions",
+      "authors": "Matthew Ho, Aditya Sharma, Justin Chang, Michael Saxon, Sharon Levy, Yujie Lu, William Yang Wang",
+      "paper_url": "https://openreview.net/pdf/dd230e9938db73b0fff7ee629cb682af034688fc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_p9OsTj0nMP",
+      "paper_id": "p9OsTj0nMP",
+      "title": "XLand-100B: A Large-Scale Multi-Task Dataset for In-Context Reinforcement Learning",
+      "authors": "Alexander Nikulin, Ilya Zisman, Alexey Zemtsov, Vladislav Kurenkov",
+      "paper_url": "https://openreview.net/pdf?id=p9OsTj0nMP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sGqd1tF8P8",
+      "paper_id": "sGqd1tF8P8",
+      "title": "Your Weak LLM is Secretly a Strong Teacher for Alignment",
+      "authors": "Leitian Tao, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf?id=sGqd1tF8P8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uZFXpPrwSh",
+      "paper_id": "uZFXpPrwSh",
+      "title": "Zero-shot Model-based Reinforcement Learning using Large Language Models",
+      "authors": "Abdelhakim Benechehab, Youssef Attia El Hili, Ambroise Odonnat, Oussama Zekri, Albert Thomas, Giuseppe Paolo, Maurizio Filippone, Ievgen Redko, Balázs Kégl",
+      "paper_url": "https://openreview.net/pdf?id=uZFXpPrwSh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_roNSXZpUDN",
+      "paper_id": "roNSXZpUDN",
+      "title": "{$\\tau$}-bench: A Benchmark for \\underline{T}ool-\\underline{A}gent-\\underline{U}ser Interaction in Real-World Domains",
+      "authors": "Shunyu Yao, Noah Shinn, Pedram Razavi, Karthik R Narasimhan",
+      "paper_url": "https://openreview.net/pdf?id=roNSXZpUDN",
+      "venue": "iclr25"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Model modalities & representations",
+      "subcategories": [
+        {
+          "id": "1.1",
+          "name": "Vision–Language",
+          "what_is_covered": "Foundation models that jointly process images/video and natural language.",
+          "typical_examples": "Vision-Language Models; Vision-Language Robotic FMs",
+          "cluster": "0, 3"
+        },
+        {
+          "id": "1.2",
+          "name": "Multimodal (>=3)",
+          "what_is_covered": "Architectures/objectives agnostic to the exact mix of modalities.",
+          "typical_examples": "Multimodal Foundation Models; Multimodal LLMs; Multimodal Large Language Models",
+          "cluster": "1, 4, 5, 6"
+        },
+        {
+          "id": "1.3",
+          "name": "Open-vocabulary grounding",
+          "what_is_covered": "Linking free-form text to modality-specific regions or anchors.",
+          "typical_examples": "Open-Vocabulary Grounding",
+          "cluster": "1"
+        },
+        {
+          "id": "1.4",
+          "name": "3D/4D & video reps",
+          "what_is_covered": "Learned neural representations for 3-D/4-D scenes and video.",
+          "typical_examples": "3D & Multimodal Representation; Diffusion-based 3D/4D Generation; 3D & Video Synthesis",
+          "cluster": "0, 7, 9"
+        },
+        {
+          "id": "1.5",
+          "name": "Neural scene encoding",
+          "what_is_covered": "Representations enabling view-consistent reconstruction.",
+          "typical_examples": "Multi-view Consistent Reconstruction; Gaussian Splatting; NeRF Representations",
+          "cluster": "9"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Generative & diffusion techniques",
+      "subcategories": [
+        {
+          "id": "2.1",
+          "name": "Core diffusion modelling",
+          "what_is_covered": "Diffusion processes used as the primary generative backbone.",
+          "typical_examples": "Diffusion Generative Modeling",
+          "cluster": "7"
+        },
+        {
+          "id": "2.2",
+          "name": "Control & personalisation",
+          "what_is_covered": "Steering diffusion outputs with prompts, adapters or user profiles.",
+          "typical_examples": "Controllable Diffusion Personalization; Controllable Efficient Sampling",
+          "cluster": "7, 11"
+        },
+        {
+          "id": "2.3",
+          "name": "Robot policy via diffusion",
+          "what_is_covered": "Using diffusion to learn control policies for robots or manipulators.",
+          "typical_examples": "Diffusion-Based Policy Learning",
+          "cluster": "3"
+        },
+        {
+          "id": "2.4",
+          "name": "Editing & post-generation",
+          "what_is_covered": "Applying diffusion to edit or refine existing content.",
+          "typical_examples": "Diffusion-based Generative Editing",
+          "cluster": "4"
+        },
+        {
+          "id": "2.5",
+          "name": "Efficiency & distillation",
+          "what_is_covered": "Speed-ups and compact student models for diffusion.",
+          "typical_examples": "Diffusion Model Acceleration; Efficient Sampling & Distillation",
+          "cluster": "8"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Training & adaptation strategies",
+      "subcategories": [
+        {
+          "id": "3.1",
+          "name": "Self-/pre-training paradigms",
+          "what_is_covered": "Large-scale unsupervised or weakly-supervised pre-training methods.",
+          "typical_examples": "Elastic Self-Supervised Pre-training",
+          "cluster": "6"
+        },
+        {
+          "id": "3.2",
+          "name": "Prompt/adapter learning",
+          "what_is_covered": "Lightweight modulation of frozen backbones via prompts or adapters.",
+          "typical_examples": "Prompt/Adapter Tuning; Prompt/Adapter Learning; Parameter-Efficient Prompt Tuning",
+          "cluster": "0, 1, 5"
+        },
+        {
+          "id": "3.3",
+          "name": "Param-efficient finetune",
+          "what_is_covered": "LoRA/adapters that tune only a small slice of parameters.",
+          "typical_examples": "Parameter-Efficient Fine-Tuning; Adapter-Efficient Fine-Tuning",
+          "cluster": "10, 11"
+        },
+        {
+          "id": "3.4",
+          "name": "Compression & inference efficiency",
+          "what_is_covered": "Sparsity, low-rank factorisation and runtime acceleration.",
+          "typical_examples": "Sparse/Low-Rank Model Compression; Efficient Transformer Inference",
+          "cluster": "10"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Safety, alignment & ethics",
+      "subcategories": [
+        {
+          "id": "4.1",
+          "name": "Safety alignment",
+          "what_is_covered": "Aligning model behaviour with human or policy constraints.",
+          "typical_examples": "LLM Safety Alignment; Alignment & Safety",
+          "cluster": "2, 6"
+        },
+        {
+          "id": "4.2",
+          "name": "Bias & harm mitigation",
+          "what_is_covered": "Detecting and reducing social or representational bias.",
+          "typical_examples": "Safety & Bias Mitigation",
+          "cluster": "11"
+        },
+        {
+          "id": "4.3",
+          "name": "Preference optimisation",
+          "what_is_covered": "Fine-tuning with human preference or RLHF-style signals.",
+          "typical_examples": "Preference-Optimized Fine-Tuning",
+          "cluster": "2"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Embodied interaction & robotics",
+      "subcategories": [
+        {
+          "id": "5.1",
+          "name": "Robotic foundation models",
+          "what_is_covered": "General-purpose models for perception and control on robots.",
+          "typical_examples": "Vision-Language Robotic Foundation Models",
+          "cluster": "3"
+        },
+        {
+          "id": "5.2",
+          "name": "Embodied agents",
+          "what_is_covered": "Agents acting in simulated or real environments with multimodal inputs.",
+          "typical_examples": "Embodied Vision-Language Agents",
+          "cluster": "4"
+        },
+        {
+          "id": "5.3",
+          "name": "Intended manipulation",
+          "what_is_covered": "Grounding natural-language instructions into robot actions.",
+          "typical_examples": "Multimodal Instruction-Guided Manipulation",
+          "cluster": "3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Reasoning & agent systems",
+      "subcategories": [
+        {
+          "id": "6.1",
+          "name": "Multi-agent reasoning",
+          "what_is_covered": "Coordinated planning or dialogue among several learned agents.",
+          "typical_examples": "Multi-Agent Reasoning",
+          "cluster": "2"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Generalisation & robustness",
+      "subcategories": [
+        {
+          "id": "7.1",
+          "name": "Domain robustness",
+          "what_is_covered": "Techniques to maintain performance under domain shift.",
+          "typical_examples": "Domain-Robust Generalization",
+          "cluster": "5"
+        }
+      ]
+    }
+  ]
+}

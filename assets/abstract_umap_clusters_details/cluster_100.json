@@ -1,0 +1,1541 @@
+{
+  "cluster_id": 100,
+  "papers": [
+    {
+      "id": "acl23_34",
+      "paper_id": "",
+      "title": "A Causal Framework to Quantify the Robustness of Mathematical Reasoning with Language Models",
+      "authors": "Alessandro Stolfo, Zhijing Jin, Kumar Shridhar, Bernhard Schoelkopf, Mrinmaya Sachan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.32.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_255",
+      "paper_id": "",
+      "title": "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains",
+      "authors": "Alon Jacovi, Yonatan Bitton, Bernd Bohnet, Jonathan Herzig, Or Honovich, Michael Tseng, Michael Collins, Roee Aharoni, Mor Geva",
+      "paper_url": "https://aclanthology.org/2024.acl-long.254.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_819",
+      "paper_id": "",
+      "title": "A Survey of Deep Learning for Mathematical Reasoning",
+      "authors": "Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.817.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_74",
+      "paper_id": "",
+      "title": "Active Prompting with Chain-of-Thought for Large Language Models",
+      "authors": "Shizhe Diao, Pengcheng Wang, Yong Lin, Rui Pan, Xiang Liu, Tong Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.73.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1384",
+      "paper_id": "",
+      "title": "Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools",
+      "authors": "Junde Wu, Jiayuan Zhu, Yuyuan Liu, Min Xu, Yueming Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1383.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_577",
+      "paper_id": "",
+      "title": "Agri-CM3: A Chinese Massive Multi-modal, Multi-level Benchmark for Agricultural Understanding and Reasoning",
+      "authors": "Haotian Wang, Yi Guan, Fanshu Meng, Chao Zhao, Lian Yan, Yang Yang, Jingchi Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.576.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_62",
+      "paper_id": "",
+      "title": "ALERT: Adapt Language Models to Reasoning Tasks",
+      "authors": "Ping Yu, Tianlu Wang, Olga Golovneva, Badr AlKhamissi, Siddharth Verma, Zhijing Jin, Gargi Ghosh, Mona Diab, Asli Celikyilmaz",
+      "paper_url": "https://aclanthology.org/2023.acl-long.60.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_217",
+      "paper_id": "",
+      "title": "An Efficient and Precise Training Data Construction Framework for Process-supervised Reward Model in Mathematical Reasoning",
+      "authors": "Wei Sun, Qianlong Du, Fuwei Cui, Jiajun Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.216.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_388",
+      "paper_id": "",
+      "title": "An Investigation of Neuron Activation as a Unified Lens to Explain Chain-of-Thought Eliciting Arithmetic Reasoning of LLMs",
+      "authors": "Daking Rai, Ziyu Yao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.387.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_349",
+      "paper_id": "",
+      "title": "APOLLO: A Simple Approach for Adaptive Pretraining of Language Models for Logical Reasoning",
+      "authors": "Soumya Sanyal, Yichong Xu, Shuohang Wang, Ziyi Yang, Reid Pryzant, Wenhao Yu, Chenguang Zhu, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2023.acl-long.347.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_539",
+      "paper_id": "",
+      "title": "ARise: Towards Knowledge-Augmented Reasoning via Risk-Adaptive Search",
+      "authors": "Yize Zhang, Tianshu Wang, Sirui Chen, Kun Wang, Xingyu Zeng, Hongyu Lin, Xianpei Han, Le Sun, Chaochao Lu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.538.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_154",
+      "paper_id": "",
+      "title": "Aristotle: Mastering Logical Reasoning with A Logic-Complete Decompose-Search-Resolve Framework",
+      "authors": "Jundong Xu, Hao Fei, Meng Luo, Qian Liu, Liangming Pan, William Yang Wang, Preslav Nakov, Mong-Li Lee, Wynne Hsu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.153.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_81",
+      "paper_id": "",
+      "title": "Ask-Before-Detection: Identifying and Mitigating Conformity Bias in LLM-Powered Error Detector for Math Word Problem Solutions",
+      "authors": "Hang Li, Tianlong Xu, Kaiqi Yang, Yucheng Chu, Yanling Chen, Yichi Song, Qingsong Wen, Hui Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.80.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_605",
+      "paper_id": "",
+      "title": "Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations",
+      "authors": "Jiaxing Sun, Weiquan Huang, Jiang Wu, Chenya Gu, Wei Li, Songyang Zhang, Hang Yan, Conghui He",
+      "paper_url": "https://aclanthology.org/2024.acl-long.604.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1565",
+      "paper_id": "",
+      "title": "BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving",
+      "authors": "Ran Xin, Chenguang Xi, Jie Yang, Feng Chen, Hang Wu, Xia Xiao, Yifan Sun, Shen Zheng, Ming Ding",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1565.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1286",
+      "paper_id": "",
+      "title": "BIG-Bench Extra Hard",
+      "authors": "Mehran Kazemi, Bahare Fatemi, Hritik Bansal, John Palowitch, Chrysovalantis Anastasiou, Sanket Vaibhav Mehta, Lalit K Jain, Virginia Aglietti, Disha Jindal, Peter Chen, Nishanth Dikkala, Gladys Tyen, Xin Liu, Uri Shalit, Silvia Chiappa, Kate Olszewska, Yi Tay, Vinh Q. Tran, Quoc V Le, Orhan Firat",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1285.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_453",
+      "paper_id": "",
+      "title": "BizBench: A Quantitative Reasoning Benchmark for Business and Finance",
+      "authors": "Michael Krumdick, Rik Koncel-Kedziorski, Viet Dac Lai, Varshini Reddy, Charles Lovering, Chris Tanner",
+      "paper_url": "https://aclanthology.org/2024.acl-long.452.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_272",
+      "paper_id": "",
+      "title": "Boosting Language Models Reasoning with Chain-of-Knowledge Prompting",
+      "authors": "Jianing Wang, Qiushi Sun, Xiang Li, Ming Gao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.271.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_41",
+      "paper_id": "",
+      "title": "BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving",
+      "authors": "Teng Wang, Wing Yin Yu, Zhenqi He, Zehua Liu, HaileiGong HaileiGong, Han Wu, Xiongwei Han, Wei Shi, Ruifeng She, Fangzhou Zhu, Tao Zhong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.40.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_322",
+      "paper_id": "",
+      "title": "Can Graph Descriptive Order Affect Solving Graph Problems with LLMs?",
+      "authors": "Yuyao Ge, Shenghua Liu, Baolong Bi, Yiwei Wang, Lingrui Mei, Wenjie Feng, Lizhe Chen, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.321.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_906",
+      "paper_id": "",
+      "title": "Can Large Language Models Detect Errors in Long Chain-of-Thought Reasoning?",
+      "authors": "Yancheng He, Shilong Li, Jiaheng Liu, Weixun Wang, Xingyuan Bu, Ge Zhang, Z.y. Peng, Zhaoxiang Zhang, Zhicheng Zheng, Wenbo Su, Bo Zheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.905.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_170",
+      "paper_id": "",
+      "title": "Can LLMs Learn from Previous Mistakes? Investigating LLMs’ Errors to Boost for Reasoning",
+      "authors": "Yongqi Tong, Dawei Li, Sizhe Wang, Yujia Wang, Fei Teng, Jingbo Shang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.169.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1069",
+      "paper_id": "",
+      "title": "Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference",
+      "authors": "Thanh Le-Cong, Bach Le, Toby Murray",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1068.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_407",
+      "paper_id": "",
+      "title": "Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs",
+      "authors": "Siyuan Wang, Zhongyu Wei, Yejin Choi, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2024.acl-long.406.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_721",
+      "paper_id": "",
+      "title": "Can Vision-Language Models Evaluate Handwritten Math?",
+      "authors": "Oikantik Nath, Hanani Bathina, Mohammed Safi Ur Rahman Khan, Mitesh M Khapra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.720.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1245",
+      "paper_id": "",
+      "title": "Can We Further Elicit Reasoning in LLMs? Critic-Guided Planning with Retrieval-Augmentation for Solving Challenging Tasks",
+      "authors": "Xingxuan Li, Weiwen Xu, Ruochen Zhao, Fangkai Jiao, Shafiq Joty, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1244.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_22",
+      "paper_id": "",
+      "title": "Capture the Key in Reasoning to Enhance CoT Distillation Generalization",
+      "authors": "Chengwei Dai, Kun Li, Wei Zhou, Songlin Hu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.21.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1214",
+      "paper_id": "",
+      "title": "Chain-of-Reasoning: Towards Unified Mathematical Reasoning in Large Language Models via a Multi-Paradigm Perspective",
+      "authors": "Yiyao Yu, Yuxiang Zhang, Dongdong Zhang, Xiao Liang, Hengyuan Zhang, Xingxing Zhang, Mahmoud Khademi, Hany Hassan Awadalla, Junjie Wang, Yujiu Yang, Furu Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1213.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_594",
+      "paper_id": "",
+      "title": "CLOMO: Counterfactual Logical Modification with Large Language Models",
+      "authors": "Yinya Huang, Ruixin Hong, Hongming Zhang, Wei Shao, Zhicheng Yang, Dong Yu, Changshui Zhang, Xiaodan Liang, Linqi Song",
+      "paper_url": "https://aclanthology.org/2024.acl-long.593.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_103",
+      "paper_id": "",
+      "title": "Common Sense Beyond English: Evaluating and Improving Multilingual Language Models for Commonsense Reasoning",
+      "authors": "Bill Yuchen Lin, Seyeon Lee, Xiaoyang Qiao, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2021.acl-long.102.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_509",
+      "paper_id": "",
+      "title": "Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning",
+      "authors": "Philipp Mondorf, Barbara Plank",
+      "paper_url": "https://aclanthology.org/2024.acl-long.508.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_409",
+      "paper_id": "",
+      "title": "Continual Pre-training of Language Models for Math Problem Understanding with Syntax-Aware Memory Network",
+      "authors": "Zheng Gong, Kun Zhou, Xin Zhao, Jing Sha, Shijin Wang, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2022.acl-long.408.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_316",
+      "paper_id": "",
+      "title": "CoT-based Synthesizer: Enhancing LLM Performance through Answer Synthesis",
+      "authors": "Bohan Zhang, Xiaokang Zhang, Jing Zhang, Jifan Yu, Sijia Luo, Jie Tang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.315.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_301",
+      "paper_id": "",
+      "title": "CoT-Valve: Length-Compressible Chain-of-Thought Tuning",
+      "authors": "Xinyin Ma, Guangnian Wan, Runpeng Yu, Gongfan Fang, Xinchao Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.300.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_759",
+      "paper_id": "",
+      "title": "DeCoT: Debiasing Chain-of-Thought for Knowledge-Intensive Tasks in Large Language Models via Causal Intervention",
+      "authors": "Junda Wu, Tong Yu, Xiang Chen, Haoliang Wang, Ryan Rossi, Sungchul Kim, Anup Rao, Julian McAuley",
+      "paper_url": "https://aclanthology.org/2024.acl-long.758.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1541",
+      "paper_id": "",
+      "title": "Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model",
+      "authors": "Siheng Xiong, Ali Payani, Yuan Yang, Faramarz Fekri",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1540.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_532",
+      "paper_id": "",
+      "title": "DetermLR: Augmenting LLM-based Logical Reasoning from Indeterminacy to Determinacy",
+      "authors": "Hongda Sun, Weikai Xu, Wei Liu, Jian Luan, Bin Wang, Shuo Shang, Ji-Rong Wen, Rui Yan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.531.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_85",
+      "paper_id": "",
+      "title": "Disentangling Memory and Reasoning Ability in Large Language Models",
+      "authors": "Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.84.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_43",
+      "paper_id": "",
+      "title": "Do Androids Laugh at Electric Sheep? Humor “Understanding” Benchmarks from The New Yorker Caption Contest",
+      "authors": "Jack Hessel, Ana Marasovic, Jena D. Hwang, Lillian Lee, Jeff Da, Rowan Zellers, Robert Mankoff, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.41.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_853",
+      "paper_id": "",
+      "title": "DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents",
+      "authors": "Yilun Zhao, Yitao Long, Hongjun Liu, Ryo Kamoi, Linyong Nan, Lyuhao Chen, Yixin Liu, Xiangru Tang, Rui Zhang, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.852.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1168",
+      "paper_id": "",
+      "title": "Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls",
+      "authors": "Ante Wang, Linfeng Song, Ye Tian, Dian Yu, Haitao Mi, Xiangyu Duan, Zhaopeng Tu, Jinsong Su, Dong Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1167.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_341",
+      "paper_id": "",
+      "title": "Drift: Enhancing LLM Faithfulness in Rationale Generation via Dual-Reward Probabilistic Inference",
+      "authors": "Jiazheng Li, Hanqi Yan, Yulan He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.340.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_708",
+      "paper_id": "",
+      "title": "DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function",
+      "authors": "Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, Jing Xiong, Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.706.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_551",
+      "paper_id": "",
+      "title": "Dynamic Parallel Tree Search for Efficient LLM Reasoning",
+      "authors": "Yifu Ding, Wentao Jiang, Shunyu Liu, Yongcheng Jing, Jinyang Guo, Yingjie Wang, Jing Zhang, Zengmao Wang, Ziwei Liu, Bo Du, Xianglong Liu, Dacheng Tao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.550.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_282",
+      "paper_id": "",
+      "title": "Eliciting Better Multilingual Structured Reasoning from LLMs through Code",
+      "authors": "Bryan Li, Tamer Alkhouli, Daniele Bonadiman, Nikolaos Pappas, Saab Mansour",
+      "paper_url": "https://aclanthology.org/2024.acl-long.281.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1049",
+      "paper_id": "",
+      "title": "Enhancing Mathematical Reasoning in LLMs by Stepwise Correction",
+      "authors": "Zhenyu Wu, Qingkai Zeng, Zhihan Zhang, Zhaoxuan Tan, Chao Shen, Meng Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1048.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_583",
+      "paper_id": "",
+      "title": "Enhancing Numerical Reasoning with the Guidance of Reliable Reasoning Processes",
+      "authors": "Dingzirui Wang, Longxu Dou, Xuanliang Zhang, Qingfu Zhu, Wanxiang Che",
+      "paper_url": "https://aclanthology.org/2024.acl-long.582.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_287",
+      "paper_id": "",
+      "title": "Entailment-Preserving First-order Logic Representations in Natural Language Entailment",
+      "authors": "Jinu Lee, Qi Liu, Runzhi Ma, Vincent Han, Ziqi Wang, Heng Ji, Julia Hockenmaier",
+      "paper_url": "https://aclanthology.org/2025.acl-long.286.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_306",
+      "paper_id": "",
+      "title": "EPT-X: An Expression-Pointer Transformer model that generates eXplanations for numbers",
+      "authors": "Bugeun Kim, Kyung Seo Ki, Sangkyu Rhim, Gahgene Gweon",
+      "paper_url": "https://aclanthology.org/2022.acl-long.305.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_477",
+      "paper_id": "",
+      "title": "ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis",
+      "authors": "Yanming Liu, Xinyue Peng, Tianyu Du, Jianwei Yin, Weihao Liu, Xuhong Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.476.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_40",
+      "paper_id": "",
+      "title": "EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents",
+      "authors": "Cheng Qian, Peixuan Han, Qinyu Luo, Bingxiang He, Xiusi Chen, Yuji Zhang, Hongyi Du, Jiarui Yao, Xiaocheng Yang, Denghui Zhang, Yunzhu Li, Heng Ji",
+      "paper_url": "https://aclanthology.org/2025.acl-long.39.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1314",
+      "paper_id": "",
+      "title": "Exposing the Achilles’ Heel: Evaluating LLMs Ability to Handle Mistakes in Mathematical Reasoning",
+      "authors": "Joykirat Singh, Akshay Nambi, Vibhav Vineet",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1313.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_78",
+      "paper_id": "",
+      "title": "FaiRR: Faithful and Robust Deductive Reasoning over Natural Language",
+      "authors": "Soumya Sanyal, Harman Singh, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2022.acl-long.77.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_868",
+      "paper_id": "",
+      "title": "Faithful and Robust LLM-Driven Theorem Proving for NLI Explanations",
+      "authors": "Xin Quan, Marco Valentino, Louise A. Dennis, Andre Freitas",
+      "paper_url": "https://aclanthology.org/2025.acl-long.867.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_721",
+      "paper_id": "",
+      "title": "Faithful Logical Reasoning via Symbolic Chain-of-Thought",
+      "authors": "Jundong Xu, Hao Fei, Liangming Pan, Qian Liu, Mong-Li Lee, Wynne Hsu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.720.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_220",
+      "paper_id": "",
+      "title": "Faithful Question Answering with Monte-Carlo Planning",
+      "authors": "Ruixin Hong, Hongming Zhang, Hong Zhao, Dong Yu, Changshui Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.218.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1191",
+      "paper_id": "",
+      "title": "FastMCTS: A Simple Sampling Strategy for Data Synthesis",
+      "authors": "Peiji Li, Kai Lv, Yunfan Shao, Yichuan Ma, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1190.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1139",
+      "paper_id": "",
+      "title": "FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning",
+      "authors": "Seunghee Kim, Changhyeon Kim, Taeuk Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1138.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_840",
+      "paper_id": "",
+      "title": "FERMAT: An Alternative to Accuracy for Numerical Reasoning",
+      "authors": "Jasivan Sivakumar, Nafise Sadat Moosavi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.838.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_694",
+      "paper_id": "",
+      "title": "FinanceMATH: Knowledge-Intensive Math Reasoning in Finance Domains",
+      "authors": "Yilun Zhao, Hongjun Liu, Yitao Long, Rui Zhang, Chen Zhao, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.693.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_767",
+      "paper_id": "",
+      "title": "FinanceReasoning: Benchmarking Financial Numerical Reasoning More Credible, Comprehensive and Challenging",
+      "authors": "Zichen Tang, Haihong E, Ziyan Ma, Haoyang He, Jiacheng Liu, Zhongjun Yang, Zihua Rong, Rongjin Li, Kun Ji, Qing Huang, Xinyang Hu, Yang Liu, Qianhe Zheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.766.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_192",
+      "paper_id": "",
+      "title": "Fine-Tuning on Diverse Reasoning Chains Drives Within-Inference CoT Refinement in LLMs",
+      "authors": "Haritz Puerto, Tilek Chubakov, Xiaodan Zhu, Harish Tayyar Madabushi, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2025.acl-long.191.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_334",
+      "paper_id": "",
+      "title": "FineReason: Evaluating and Improving LLMs’ Deliberate Reasoning through Reflective Puzzle Solving",
+      "authors": "Guizhen Chen, Weiwen Xu, Hao Zhang, Hou Pong Chan, Chaoqun Liu, Lidong Bing, Deli Zhao, Anh Tuan Luu, Yu Rong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.333.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_669",
+      "paper_id": "",
+      "title": "Finite State Automata Inside Transformers with Chain-of-Thought: A Mechanistic Study on State Tracking",
+      "authors": "Yifan Zhang, Wenyu Du, Dongming Jin, Jie Fu, Zhi Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.668.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1427",
+      "paper_id": "",
+      "title": "FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation",
+      "authors": "Junyu Luo, Zhizhuo Kou, Liming Yang, Xiao Luo, Jinsheng Huang, Zhiping Xiao, Jingshu Peng, Chengzhong Liu, Jiaming Ji, Xuanzhe Liu, Sirui Han, Ming Zhang, Yike Guo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1426.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_329",
+      "paper_id": "",
+      "title": "FinTextQA: A Dataset for Long-form Financial Question Answering",
+      "authors": "Jian Chen, Peilin Zhou, Yining Hua, Loh Xin, Kehui Chen, Ziyuan Li, Bing Zhu, Junwei Liang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.328.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_866",
+      "paper_id": "",
+      "title": "Fixing Distribution Shifts of LLM Self-Critique via On-Policy Self-Play Training",
+      "authors": "Rong Bao, Donglei Yu, Kai Fan, Minpeng Liao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.865.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_500",
+      "paper_id": "",
+      "title": "Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning",
+      "authors": "Jiachun Li, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.499.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1311",
+      "paper_id": "",
+      "title": "From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs",
+      "authors": "Jialun Cao, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1310.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1439",
+      "paper_id": "",
+      "title": "From Perceptions to Decisions: Wildfire Evacuation Decision Prediction with Behavioral Theory-informed LLMs",
+      "authors": "Ruxiao Chen, Chenguang Wang, Yuran Sun, Xilei Zhao, Susu Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1438.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_379",
+      "paper_id": "",
+      "title": "GAMEBoT: Transparent Assessment of LLM Reasoning in Games",
+      "authors": "Wenye Lin, Jonathan Roberts, Yunhan Yang, Samuel Albanie, Zongqing Lu, Kai Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.378.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_645",
+      "paper_id": "",
+      "title": "Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning",
+      "authors": "Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Qiushi Sun, Kanzhi Cheng, Junxian He, Jun Liu, Zhiyong Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.644.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_730",
+      "paper_id": "",
+      "title": "GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking",
+      "authors": "Yingjian Chen, Haoran Liu, Yinhong Liu, Jinxiang Xie, Rui Yang, Han Yuan, Yanran Fu, Peng Yuan Zhou, Qingyu Chen, James Caverlee, Irene Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.729.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_592",
+      "paper_id": "",
+      "title": "GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding",
+      "authors": "Yukun Cao, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S Kevin Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.591.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_164",
+      "paper_id": "",
+      "title": "GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers",
+      "authors": "Qintong Li, Leyang Cui, Xueliang Zhao, Lingpeng Kong, Wei Bi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.163.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_376",
+      "paper_id": "",
+      "title": "Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation",
+      "authors": "Yuan Yang, Siheng Xiong, Ali Payani, Ehsan Shareghi, Faramarz Fekri",
+      "paper_url": "https://aclanthology.org/2024.acl-long.375.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_857",
+      "paper_id": "",
+      "title": "Hierarchical Attention Generates Better Proofs",
+      "authors": "Jianlong Chen, Chao Li, Yang Yuan, Andrew C Yao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.856.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_83",
+      "paper_id": "",
+      "title": "Improve Vision Language Model Chain-of-thought Reasoning",
+      "authors": "Ruohong Zhang, Bowen Zhang, Yanghao Li, Haotian Zhang, Zhiqing Sun, Zhe Gan, Yinfei Yang, Ruoming Pang, Yiming Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.82.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_844",
+      "paper_id": "",
+      "title": "Improving Chain-of-Thought Reasoning via Quasi-Symbolic Abstractions",
+      "authors": "Leonardo Ranaldi, Marco Valentino, Andre Freitas",
+      "paper_url": "https://aclanthology.org/2025.acl-long.843.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_111",
+      "paper_id": "",
+      "title": "In-Context Analogical Reasoning with Pre-Trained Language Models",
+      "authors": "Xiaoyang Hu, Shane Storks, Richard Lewis, Joyce Chai",
+      "paper_url": "https://aclanthology.org/2023.acl-long.109.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1288",
+      "paper_id": "",
+      "title": "InductionBench: LLMs Fail in the Simplest Complexity Class",
+      "authors": "Wenyue Hua, Tyler Wong, Fei Sun, Liangming Pan, Adam Jardine, William Yang Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1287.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_635",
+      "paper_id": "",
+      "title": "Integrate the Essence and Eliminate the Dross: Fine-Grained Self-Consistency for Free-Form Language Generation",
+      "authors": "Xinglin Wang, Yiwei Li, Shaoxiong Feng, Peiwen Yuan, Boyuan Pan, Heda Wang, Yao Hu, Kan Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.634.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_529",
+      "paper_id": "",
+      "title": "Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning",
+      "authors": "Pan Lu, Ran Gong, Shibiao Jiang, Liang Qiu, Siyuan Huang, Xiaodan Liang, Song-Chun Zhu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.528.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_559",
+      "paper_id": "",
+      "title": "Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
+      "authors": "Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal",
+      "paper_url": "https://aclanthology.org/2023.acl-long.557.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_381",
+      "paper_id": "",
+      "title": "Interpretable Math Word Problem Solution Generation via Step-by-step Planning",
+      "authors": "Mengxue Zhang, Zichao Wang, Zhichao Yang, Weiqi Feng, Andrew Lan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.379.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_464",
+      "paper_id": "",
+      "title": "IRIS: An Iterative and Integrated Framework for Verifiable Causal Discovery in the Absence of Tabular Data",
+      "authors": "Tao Feng, Lizhen Qu, Niket Tandon, Gholamreza Haffari",
+      "paper_url": "https://aclanthology.org/2025.acl-long.463.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_151",
+      "paper_id": "",
+      "title": "ItD: Large Language Models Can Teach Themselves Induction through Deduction",
+      "authors": "Wangtao Sun, Haotian Xu, Xuanqing Yu, Pei Chen, Shizhu He, Jun Zhao, Kang Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.150.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_469",
+      "paper_id": "",
+      "title": "KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph",
+      "authors": "Jinhao Jiang, Kun Zhou, Xin Zhao, Yang Song, Chen Zhu, Hengshu Zhu, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.468.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_476",
+      "paper_id": "",
+      "title": "KnowCoder: Coding Structured Knowledge into LLMs for Universal Information Extraction",
+      "authors": "Zixuan Li, Yutao Zeng, Yuxin Zuo, Weicheng Ren, Wenxuan Liu, Miao Su, Yucan Guo, Yantao Liu, Lixiang Lixiang, Zhilei Hu, Long Bai, Wei Li, Yidan Liu, Pan Yang, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.475.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_363",
+      "paper_id": "",
+      "title": "LAMBADA: Backward Chaining for Automated Reasoning in Natural Language",
+      "authors": "Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran",
+      "paper_url": "https://aclanthology.org/2023.acl-long.361.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_406",
+      "paper_id": "",
+      "title": "LangBridge: Multilingual Reasoning Without Multilingual Supervision",
+      "authors": "Dongkeun Yoon, Joel Jang, Sungdong Kim, Seungone Kim, Sheikh Shafayat, Minjoon Seo",
+      "paper_url": "https://aclanthology.org/2024.acl-long.405.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_434",
+      "paper_id": "",
+      "title": "Large Language and Reasoning Models are Shallow Disjunctive Reasoners",
+      "authors": "Irtaza Khalid, Amir Masoud Nourollah, Steven Schockaert",
+      "paper_url": "https://aclanthology.org/2025.acl-long.433.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_832",
+      "paper_id": "",
+      "title": "Large Language Models Are Reasoning Teachers",
+      "authors": "Namgyu Ho, Laura Schmid, Se-Young Yun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.830.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_46",
+      "paper_id": "",
+      "title": "Learn from Failure: Fine-tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving",
+      "authors": "Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner, Jingbo Shang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.45.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_342",
+      "paper_id": "",
+      "title": "Learning Non-linguistic Skills without Sacrificing Linguistic Proficiency",
+      "authors": "Mandar Sharma, Nikhil Muralidhar, Naren Ramakrishnan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.340.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_411",
+      "paper_id": "",
+      "title": "Learning to Reason Deductively: Math Word Problem Solving as Complex Relation Extraction",
+      "authors": "Zhanming Jie, Jierui Li, Wei Lu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.410.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_755",
+      "paper_id": "",
+      "title": "Learning Together to Perform Better: Teaching Small-Scale LLMs to Collaborate via Preferential Rationale Tuning",
+      "authors": "Sohan Patnaik, Milan Aggarwal, Sumit Bhatia, Balaji Krishnamurthy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.754.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_665",
+      "paper_id": "",
+      "title": "Lexical Recall or Logical Reasoning: Probing the Limits of Reasoning Abilities in Large Language Models",
+      "authors": "Henrike Beyer, Chris Reed",
+      "paper_url": "https://aclanthology.org/2025.acl-long.664.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_518",
+      "paper_id": "",
+      "title": "Limitations of Language Models in Arithmetic and Symbolic Induction",
+      "authors": "Jing Qian, Hong Wang, Zekun Li, Shiyang Li, Xifeng Yan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.516.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_700",
+      "paper_id": "",
+      "title": "Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning",
+      "authors": "Guijin Son, Jiwoo Hong, Hyunwoo Ko, James Thorne",
+      "paper_url": "https://aclanthology.org/2025.acl-long.699.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1567",
+      "paper_id": "",
+      "title": "Logic-Regularized Verifier Elicits Reasoning from LLMs",
+      "authors": "Xinyu Wang, Changzhi Sun, Lian Cheng, Yuanbin Wu, Dell Zhang, Xiaoling Wang, Xuelong Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1567.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_825",
+      "paper_id": "",
+      "title": "Logical forms complement probability in understanding language model (and human) performance",
+      "authors": "Yixuan Wang, Freda Shi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.824.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_740",
+      "paper_id": "",
+      "title": "LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models",
+      "authors": "Mihir Parmar, Nisarg Patel, Neeraj Varshney, Mutsumi Nakamura, Man Luo, Santosh Mashetty, Arindam Mitra, Chitta Baral",
+      "paper_url": "https://aclanthology.org/2024.acl-long.739.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1271",
+      "paper_id": "",
+      "title": "LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning",
+      "authors": "Jin Jiang, Yuchen Yan, Yang Liu, Jianing Wang, Shuai Peng, Xunliang Cai, Yixin Cao, Mengdi Zhang, Liangcai Gao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1270.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_447",
+      "paper_id": "",
+      "title": "M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought",
+      "authors": "Qiguang Chen, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che",
+      "paper_url": "https://aclanthology.org/2024.acl-long.446.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_293",
+      "paper_id": "",
+      "title": "Making Language Models Better Reasoners with Step-Aware Verifier",
+      "authors": "Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.291.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_136",
+      "paper_id": "",
+      "title": "Making Long-Context Language Models Better Multi-Hop Reasoners",
+      "authors": "Yanyang Li, Shuo Liang, Michael Lyu, Liwei Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.135.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_681",
+      "paper_id": "",
+      "title": "MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale",
+      "authors": "Jiawei Guo, Tianyu Zheng, Yizhi Li, Yuelin Bai, Bo Li, Yubo Wang, King Zhu, Graham Neubig, Wenhu Chen, Xiang Yue",
+      "paper_url": "https://aclanthology.org/2025.acl-long.680.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_540",
+      "paper_id": "",
+      "title": "MAPO: Advancing Multilingual Reasoning through Multilingual-Alignment-as-Preference Optimization",
+      "authors": "Shuaijie She, Wei Zou, Shujian Huang, Wenhao Zhu, Xiang Liu, Xiang Geng, Jiajun Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.539.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1146",
+      "paper_id": "",
+      "title": "Marco-o1 v2: Towards Widening The Distillation Bottleneck for Reasoning Models",
+      "authors": "Huifeng Yin, Yu Zhao, Minghao Wu, Xuanfan Ni, Bo Zeng, Hao Wang, Tianqi Shi, Liangying Shao, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1145.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_321",
+      "paper_id": "",
+      "title": "Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models",
+      "authors": "Changyu Chen, Xiting Wang, Ting-En Lin, Ang Lv, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.320.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1210",
+      "paper_id": "",
+      "title": "Math Neurosurgery: Isolating Language Models’ Math Reasoning Abilities Using Only Forward Passes",
+      "authors": "Bryan R Christ, Zachary Gottesman, Jonathan Kropko, Thomas Hartvigsen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1209.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_456",
+      "paper_id": "",
+      "title": "Math Word Problem Solving with Explicit Numerical Values",
+      "authors": "Qinzhuo Wu, Qi Zhang, Zhongyu Wei, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.455.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_511",
+      "paper_id": "",
+      "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+      "authors": "Peiyi Wang, Lei Li, Zhihong Shao, Runxin Xu, Damai Dai, Yifei Li, Deli Chen, Yu Wu, Zhifang Sui",
+      "paper_url": "https://aclanthology.org/2024.acl-long.510.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_368",
+      "paper_id": "",
+      "title": "MathFusion: Enhancing Mathematical Problem-solving of LLM through Instruction Fusion",
+      "authors": "Qizhi Pei, Lijun Wu, Zhuoshi Pan, Yu Li, Honglin Lin, Chenlin Ming, Xin Gao, Conghui He, Rui Yan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.367.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_152",
+      "paper_id": "",
+      "title": "MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs",
+      "authors": "Zimu Lu, Aojun Zhou, Houxing Ren, Ke Wang, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.151.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_650",
+      "paper_id": "",
+      "title": "mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models",
+      "authors": "Huiyuan Lai, Malvina Nissim",
+      "paper_url": "https://aclanthology.org/2024.acl-long.649.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_516",
+      "paper_id": "",
+      "title": "MCS-Bench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in Chinese Classical Studies",
+      "authors": "Yang Liu, Jiahuan Cao, Hiuyi Cheng, Yongxin Shi, Kai Ding, Lianwen Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.515.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_381",
+      "paper_id": "",
+      "title": "MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning",
+      "authors": "Inderjeet Nair, Lu Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.380.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_383",
+      "paper_id": "",
+      "title": "Mirror: Multiple-perspective Self-Reflection Method for Knowledge-rich Reasoning",
+      "authors": "Hanqi Yan, Qinglin Zhu, Xinyu Wang, Lin Gui, Yulan He",
+      "paper_url": "https://aclanthology.org/2024.acl-long.382.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_258",
+      "paper_id": "",
+      "title": "Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning",
+      "authors": "Hai-Long Sun, Zhun Sun, Houwen Peng, Han-Jia Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.257.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_690",
+      "paper_id": "",
+      "title": "MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification",
+      "authors": "Linzhuang Sun, Hao Liang, Jingxuan Wei, Bihui Yu, Tianpeng Li, Fan Yang, Zenan Zhou, Wentao Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.689.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_803",
+      "paper_id": "",
+      "title": "MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration",
+      "authors": "Zhitao He, Sandeep Polisetty, Zhiyuan Fan, Yuchen Huang, Shujin Wu, Yi R. Fung",
+      "paper_url": "https://aclanthology.org/2025.acl-long.802.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_552",
+      "paper_id": "",
+      "title": "MuggleMath: Assessing the Impact of Query and Response Augmentation on Math Reasoning",
+      "authors": "Chengpeng Li, Zheng Yuan, Hongyi Yuan, Guanting Dong, Keming Lu, Jiancan Wu, Chuanqi Tan, Xiang Wang, Chang Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.551.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_556",
+      "paper_id": "",
+      "title": "NatLogAttack: A Framework for Attacking Natural Language Inference Models with Natural Logic",
+      "authors": "Zi’ou Zheng, Xiaodan Zhu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.554.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_816",
+      "paper_id": "",
+      "title": "Natural Language Satisfiability: Exploring the Problem Distribution and Evaluating Transformer-based Language Models",
+      "authors": "Tharindu Madusanka, Ian Pratt-Hartmann, Riza Batista-Navarro",
+      "paper_url": "https://aclanthology.org/2024.acl-long.815.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_66",
+      "paper_id": "",
+      "title": "Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future",
+      "authors": "Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu, Bing Qin, Ting Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.65.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_647",
+      "paper_id": "",
+      "title": "Neural Machine Translation for Mathematical Formulae",
+      "authors": "Felix Petersen, Moritz Schubotz, Andre Greiner-Petter, Bela Gipp",
+      "paper_url": "https://aclanthology.org/2023.acl-long.645.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_457",
+      "paper_id": "",
+      "title": "Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks",
+      "authors": "Jinghui Qin, Xiaodan Liang, Yining Hong, Jianheng Tang, Liang Lin",
+      "paper_url": "https://aclanthology.org/2021.acl-long.456.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_226",
+      "paper_id": "",
+      "title": "NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes",
+      "authors": "Lizhou Fan, Wenyue Hua, Lingyao Li, Haoyang Ling, Yongfeng Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.225.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_247",
+      "paper_id": "",
+      "title": "NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks",
+      "authors": "Swaroop Mishra, Arindam Mitra, Neeraj Varshney, Bhavdeep Sachdeva, Peter Clark, Chitta Baral, Ashwin Kalyan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.246.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_212",
+      "paper_id": "",
+      "title": "OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems",
+      "authors": "Chaoqun He, Renjie Luo, Yuzhuo Bai, Shengding Hu, Zhen Thai, Junhao Shen, Jinyi Hu, Xu Han, Yujie Huang, Yuxiang Zhang, Jie Liu, Lei Qi, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.211.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_330",
+      "paper_id": "",
+      "title": "On Measuring Faithfulness or Self-consistency of Natural Language Explanations",
+      "authors": "Letitia Parcalabescu, Anette Frank",
+      "paper_url": "https://aclanthology.org/2024.acl-long.329.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_246",
+      "paper_id": "",
+      "title": "On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning",
+      "authors": "Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.244.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_472",
+      "paper_id": "",
+      "title": "On the Reliability of Large Language Models for Causal Discovery",
+      "authors": "Tao Feng, Lizhen Qu, Niket Tandon, Zhuang Li, Xiaoxi Kang, Gholamreza Haffari",
+      "paper_url": "https://aclanthology.org/2025.acl-long.471.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_677",
+      "paper_id": "",
+      "title": "On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning",
+      "authors": "Franz Nowak, Anej Svete, Alexandra Butoi, Ryan Cotterell",
+      "paper_url": "https://aclanthology.org/2024.acl-long.676.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_201",
+      "paper_id": "",
+      "title": "Past Meets Present: Creating Historical Analogy with Large Language Models",
+      "authors": "Nianqi Li, Siyu Yuan, Jiangjie Chen, Jiaqing Liang, Feng Wei, Zujie Liang, Deqing Yang, Yanghua Xiao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.200.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_725",
+      "paper_id": "",
+      "title": "PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering",
+      "authors": "Fangzhi Xu, Qika Lin, Tianzhe Zhao, JiaweiHan JiaweiHan, Jun Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.724.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_812",
+      "paper_id": "",
+      "title": "PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning",
+      "authors": "Xinyu Zhang, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, Chengyou Jia, Basura Fernando, Mike Zheng Shou, Lingling Zhang, Jun Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.811.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_149",
+      "paper_id": "",
+      "title": "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models",
+      "authors": "Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim",
+      "paper_url": "https://aclanthology.org/2023.acl-long.147.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1231",
+      "paper_id": "",
+      "title": "PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models",
+      "authors": "Mingyang Song, Zhaochen Su, Xiaoye Qu, Jiawei Zhou, Yu Cheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1230.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_51",
+      "paper_id": "",
+      "title": "ProcessBench: Identifying Process Errors in Mathematical Reasoning",
+      "authors": "Chujie Zheng, Zhenru Zhang, Beichen Zhang, Runji Lin, Keming Lu, Bowen Yu, Dayiheng Liu, Jingren Zhou, Junyang Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.50.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_181",
+      "paper_id": "",
+      "title": "Progressive Multimodal Reasoning via Active Retrieval",
+      "authors": "Guanting Dong, Chenghao Zhang, Mengjie Deng, Yutao Zhu, Zhicheng Dou, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.180.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_715",
+      "paper_id": "",
+      "title": "QDTSynth: Quality-Driven Formal Theorem Synthesis for Enhancing Proving Performance of LLMs",
+      "authors": "Lei Wang, Ruobing Zuo, Gaolei He, Jianlin Wang, Zhengfeng Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.714.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_403",
+      "paper_id": "",
+      "title": "R2-MultiOmnia: Leading Multilingual Multimodal Reasoning via Self-Training",
+      "authors": "Leonardo Ranaldi, Federico Ranaldi, Giulia Pucci",
+      "paper_url": "https://aclanthology.org/2025.acl-long.402.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_897",
+      "paper_id": "",
+      "title": "RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models",
+      "authors": "Hieu Tran, Zonghai Yao, Zhichao Yang, Junda Wang, Yifan Zhang, Shuo Han, Feiyun Ouyang, Hong Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.896.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1289",
+      "paper_id": "",
+      "title": "RATIONALYST: Pre-training Process-Supervision for Improving Reasoning",
+      "authors": "Dongwei Jiang, Guoxuan Wang, Yining Lu, Andrew Wang, Jingyu Zhang, Chuyu Liu, Benjamin Van Durme, Daniel Khashabi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1288.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_562",
+      "paper_id": "",
+      "title": "Re-Tuning: Overcoming the Compositionality Limits of Large Language Models with Recursive Tuning",
+      "authors": "Eric Pasewark, Kyle Montgomery, Kefei Duan, Dawn Song, Chenguang Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.561.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_132",
+      "paper_id": "",
+      "title": "Reasoning in Flux: Enhancing Large Language Models Reasoning through Uncertainty-aware Adaptive Guidance",
+      "authors": "Zhangyue Yin, Qiushi Sun, Qipeng Guo, Zhiyuan Zeng, Xiaonan Li, Junqi Dai, Qinyuan Cheng, Xuanjing Huang, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.131.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_296",
+      "paper_id": "",
+      "title": "Reasoning with Language Model Prompting: A Survey",
+      "authors": "Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.294.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_382",
+      "paper_id": "",
+      "title": "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs",
+      "authors": "Justin Chen, Swarnadeep Saha, Mohit Bansal",
+      "paper_url": "https://aclanthology.org/2024.acl-long.381.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_411",
+      "paper_id": "",
+      "title": "ReFT: Reasoning with Reinforced Fine-Tuning",
+      "authors": "Luong Trung, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.410.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_332",
+      "paper_id": "",
+      "title": "Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?",
+      "authors": "Qineng Wang, Zihao Wang, Ying Su, Hanghang Tong, Yangqiu Song",
+      "paper_url": "https://aclanthology.org/2024.acl-long.331.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1357",
+      "paper_id": "",
+      "title": "Rethinking the Role of Prompting Strategies in LLM Test-Time Scaling: A Perspective of Probability Theory",
+      "authors": "Yexiang Liu, Zekun Li, Zhi Fang, Nan Xu, Ran He, Tieniu Tan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1356.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_956",
+      "paper_id": "",
+      "title": "Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up",
+      "authors": "Jiahao Yuan, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem",
+      "paper_url": "https://aclanthology.org/2025.acl-long.955.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_233",
+      "paper_id": "",
+      "title": "Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?",
+      "authors": "Zhiyuan Zeng, Qinyuan Cheng, Zhangyue Yin, Yunhua Zhou, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.232.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_363",
+      "paper_id": "",
+      "title": "Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context",
+      "authors": "Maggie Mi, Aline Villavicencio, Nafise Sadat Moosavi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.362.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_28",
+      "paper_id": "",
+      "title": "RuleArena: A Benchmark for Rule-Guided Reasoning with LLMs in Real-World Scenarios",
+      "authors": "Ruiwen Zhou, Wenyue Hua, Liangming Pan, Sitao Cheng, Xiaobao Wu, En Yu, William Yang Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.27.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1105",
+      "paper_id": "",
+      "title": "S2R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning",
+      "authors": "Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1104.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_595",
+      "paper_id": "",
+      "title": "Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification",
+      "authors": "Chengwu Liu, Ye Yuan, Yichun Yin, Yan Xu, Xin Xu, Zaoyu Chen, Yasheng Wang, Lifeng Shang, Qun Liu, Ming Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.594.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_306",
+      "paper_id": "",
+      "title": "SCOTT: Self-Consistent Chain-of-Thought Distillation",
+      "authors": "Peifeng Wang, Zhengyang Wang, Zheng Li, Yifan Gao, Bing Yin, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2023.acl-long.304.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_408",
+      "paper_id": "",
+      "title": "SEGO: Sequential Subgoal Optimization for Mathematical Problem-Solving",
+      "authors": "Xueliang Zhao, Xinting Huang, Wei Bi, Lingpeng Kong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.407.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_99",
+      "paper_id": "",
+      "title": "Selene: Pioneering Automated Proof in Software Verification",
+      "authors": "Lichen Zhang, Shuai Lu, Nan Duan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.98.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_418",
+      "paper_id": "",
+      "title": "Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical Reasoning",
+      "authors": "Erxin Yu, Jing Li, Ming Liao, Qi Zhu, Boyang Xue, Minghui Xu, Baojun Wang, Lanqing Hong, Fei Mi, Lifeng Shang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.417.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_644",
+      "paper_id": "",
+      "title": "Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning",
+      "authors": "Tianduo Wang, Shichen Li, Wei Lu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.643.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_30",
+      "paper_id": "",
+      "title": "Semantic Exploration with Adaptive Gating for Efficient Problem Solving with Language Models",
+      "authors": "Sungjae Lee, Hyejin Park, Jaechang Kim, Jungseul Ok",
+      "paper_url": "https://aclanthology.org/2025.acl-long.29.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1138",
+      "paper_id": "",
+      "title": "SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs",
+      "authors": "Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1137.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_247",
+      "paper_id": "",
+      "title": "Solving Math Word Problems via Cooperative Reasoning induced Language Models",
+      "authors": "Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Yongfeng Huang, Ruyi Gan, Jiaxing Zhang, Yujiu Yang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.245.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_18",
+      "paper_id": "",
+      "title": "SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs",
+      "authors": "Yebowen Hu, Kaiqiang Song, Sangwoo Cho, Xiaoyang Wang, Hassan Foroosh, Dong Yu, Fei Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.17.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1507",
+      "paper_id": "",
+      "title": "Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing",
+      "authors": "Kaishuai Xu, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1506.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_152",
+      "paper_id": "",
+      "title": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step",
+      "authors": "Liunian Harold Li, Jack Hessel, Youngjae Yu, Xiang Ren, Kai-Wei Chang, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.150.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_854",
+      "paper_id": "",
+      "title": "Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning",
+      "authors": "Peiying Yu, Guoxin Chen, Jingjing Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.853.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1487",
+      "paper_id": "",
+      "title": "TestNUC: Enhancing Test-Time Computing Approaches and Scaling through Neighboring Unlabeled Data Consistency",
+      "authors": "Henry Peng Zou, Zhengyao Gu, Yue Zhou, Yankai Chen, Weizhi Zhang, Liancheng Fang, Yibo Wang, Yangning Li, Kay Liu, Philip S. Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1486.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_821",
+      "paper_id": "",
+      "title": "The Role of Deductive and Inductive Reasoning in Large Language Models",
+      "authors": "Chengkun Cai, Xu Zhao, Haoliang Liu, Zhongyu Jiang, Tianfang Zhang, Zongkai Wu, Jenq-Neng Hwang, Lei Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.820.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1103",
+      "paper_id": "",
+      "title": "The Role of Visual Modality in Multimodal Mathematical Reasoning: Challenges and Insights",
+      "authors": "Yufang Liu, Yao Du, Tao Ji, Jianing Wang, Yang Liu, Yuanbin Wu, Aimin Zhou, Mengdi Zhang, Xunliang Cai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1102.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1449",
+      "paper_id": "",
+      "title": "Theorem Prover as a Judge for Synthetic Data Generation",
+      "authors": "Joshua Ong Jun Leang, Giwon Hong, Wenda Li, Shay B Cohen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1448.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_333",
+      "paper_id": "",
+      "title": "TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding",
+      "authors": "Max Ku, Cheuk Hei Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.332.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_70",
+      "paper_id": "",
+      "title": "ThinkSum: Probabilistic reasoning over sets using large language models",
+      "authors": "Batu Ozturkler, Nikolay Malkin, Zhen Wang, Nebojsa Jojic",
+      "paper_url": "https://aclanthology.org/2023.acl-long.68.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_155",
+      "paper_id": "",
+      "title": "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters",
+      "authors": "Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.153.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1134",
+      "paper_id": "",
+      "title": "Tracing and Dissecting How LLMs Recall Factual Knowledge for Real World Questions",
+      "authors": "Yiqun Wang, Chaoqun Wan, Sile Hu, Yonggang Zhang, Xiang Tian, Yaowu Chen, Xu Shen, Jieping Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1133.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_207",
+      "paper_id": "",
+      "title": "Tree-Based Representation and Generation of Natural and Mathematical Language",
+      "authors": "Alexander Scarlatos, Andrew Lan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.205.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_605",
+      "paper_id": "",
+      "title": "TreeRL: LLM Reinforcement Learning with On-Policy Tree Search",
+      "authors": "Zhenyu Hou, Ziniu Hu, Yujiang Li, Rui Lu, Jie Tang, Yuxiao Dong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.604.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_659",
+      "paper_id": "",
+      "title": "Unleashing LLM Reasoning Capability via Scalable Question Synthesis from Scratch",
+      "authors": "Yuyang Ding, Xinyu Shi, Xiaobo Liang, Juntao Li, Zhaopeng Tu, Qiaoming Zhu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.658.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_340",
+      "paper_id": "",
+      "title": "Unlocking General Long Chain-of-Thought Reasoning Capabilities of Large Language Models via Representation Engineering",
+      "authors": "Xinyu Tang, Xiaolei Wang, Zhihao Lv, Yingqian Min, Xin Zhao, Binbin Hu, Ziqi Liu, Zhiqiang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.339.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_322",
+      "paper_id": "",
+      "title": "Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework",
+      "authors": "Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2023.acl-long.320.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1054",
+      "paper_id": "",
+      "title": "VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search",
+      "authors": "Yikun Wang, Siyin Wang, Qinyuan Cheng, Zhaoye Fei, Liang Ding, Qipeng Guo, Dacheng Tao, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1053.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_200",
+      "paper_id": "",
+      "title": "VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism",
+      "authors": "Congzhi Zhang, Jiawei Peng, Zhenglin Wang, Yilong Lai, Haowen Sun, Heng Chang, Fei Ma, Weijiang Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.199.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_984",
+      "paper_id": "",
+      "title": "We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?",
+      "authors": "Runqi Qiao, Qiuna Tan, Guanting Dong, MinhuiWu MinhuiWu, Chong Sun, Xiaoshuai Song, Jiapeng Wang, Zhuoma GongQue, Shanglin Lei, YiFan Zhang, Zhe Wei, Miaoxuan Zhang, Runfeng Qiao, Xiao Zong, Yida Xu, Peiqing Yang, Zhimin Bao, Muxi Diao, Chen Li, Honggang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.983.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1546",
+      "paper_id": "",
+      "title": "What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective",
+      "authors": "Ming Li, Yanhong Li, Tianyi Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1545.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_739",
+      "paper_id": "",
+      "title": "When is Tree Search Useful for LLM Planning? It Depends on the Discriminator",
+      "authors": "Ziru Chen, Michael White, Ray Mooney, Ali Payani, Yu Su, Huan Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.738.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1562",
+      "paper_id": "",
+      "title": "Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs",
+      "authors": "Xiang Zhang, Juntai Cao, Chenyu You, Dujian Ding",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1562.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1118",
+      "paper_id": "",
+      "title": "“What do you call a dog that is incontrovertibly true? Dogma”: Testing LLM Generalization through Humor",
+      "authors": "Alessio Cocchieri, Luca Ragazzi, Paolo Italiani, Giuseppe Tagliavini, Gianluca Moro",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1117.pdf",
+      "venue": "acl25"
+    }
+  ]
+}

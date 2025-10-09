@@ -1,0 +1,1813 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research Paper Galaxy</title>
+  <style>
+    /* ======= DARK SCI FI THEME ======= */
+    :root {
+      --color-primary: #4aa8ff;
+      --color-primary-light: #6cb7ff;
+      --color-primary-bg: rgba(74, 168, 255, 0.06);
+      --color-primary-border: rgba(74, 168, 255, 0.28);
+      --color-text: #e8eaed;
+      --color-text-secondary: #a2a7b0;
+      --color-text-tertiary: #6c7380;
+      --color-border: #2b2f3a;
+      --color-border-light: #232733;
+      --color-bg: #000000;
+      --color-bg-elevated: #12141a;
+      --color-bg-secondary: #171b23;
+      --color-bg-hover: #1d2230;
+
+      --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.5);
+      --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.6);
+      --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.7);
+
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 14px;
+      --radius-xl: 20px;
+
+      --spacing-xs: 6px;
+      --spacing-sm: 8px;
+      --spacing-md: 12px;
+      --spacing-lg: 16px;
+      --spacing-xl: 20px;
+
+      --legend-dom-width: 220px;
+      --legend-clu-min: 140px;
+      --legend-clu-max: 240px;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", sans-serif;
+      overflow: hidden;
+      background: var(--color-bg);
+      color: var(--color-text);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    #canvas-container { width: 100vw; height: 100vh; }
+
+    /* Panels */
+    .card, #paper-details, #info, #controls, #tooltip, #legend {
+      background: rgba(18, 20, 26, 0.92);
+      backdrop-filter: blur(12px) saturate(140%);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-md);
+      box-shadow: var(--shadow-md);
+      color: var(--color-text);
+    }
+
+    /* New Paper Details Panel */
+    #paper-details {
+      position: fixed;
+      top: var(--spacing-lg);
+      left: var(--spacing-lg);
+      padding: var(--spacing-lg);
+      max-width: 300px;
+      z-index: 12;
+      display: flex;
+      flex-direction: column;
+      gap: var(--spacing-md);
+    }
+
+    #paper-details h1 {
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--color-primary-light);
+      line-height: 1.3;
+    }
+
+    #paper-details .authors {
+      font-size: 16px;
+      color: var(--color-text-secondary);
+      line-height: 1.6;
+    }
+
+    #paper-details .authors a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    #paper-details .authors a:hover {
+      color: var(--color-primary);
+      text-decoration: underline;
+    }
+
+    #paper-details .links {
+      display: flex;
+      gap: var(--spacing-md);
+      border-top: 1px solid var(--color-border);
+      padding-top: var(--spacing-md);
+    }
+
+    #paper-details .link-item {
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-sm);
+      padding: var(--spacing-xs) var(--spacing-md);
+      border-radius: var(--radius-sm);
+      background: var(--color-bg-secondary);
+      border: 1px solid var(--color-border);
+      color: var(--color-text-secondary);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+
+    #paper-details .link-item:hover {
+      background: var(--color-bg-hover);
+      border-color: var(--color-primary-border);
+      color: var(--color-primary);
+    }
+
+    #paper-details .link-item svg { width: 16px; height: 16px; fill: currentColor; }
+
+    #paper-details .institutions {
+      font-size: 14px;
+      color: #ffffff;
+      line-height: 1.5;
+      border-top: 1px solid var(--color-border);
+      padding-top: var(--spacing-md);
+    }
+
+    /* Loading */
+    #loading {
+      position: fixed;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      background: var(--color-bg);
+      z-index: 1000;
+    }
+
+    #loading .card { padding: var(--spacing-xl) 24px; min-width: 220px; text-align: center; }
+    #loading .spinner {
+      width: 40px; height: 40px; border: 3px solid var(--color-border-light);
+      border-top-color: var(--color-primary); border-radius: 50%; animation: spin 0.8s linear infinite;
+      margin: 0 auto var(--spacing-md);
+    }
+    #loading .card > div:last-child { font-size: 13px; color: var(--color-text-secondary); font-weight: 600; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* Info */
+    #info {
+      position: fixed;
+      top: var(--spacing-lg);
+      right: var(--spacing-lg);
+      padding: var(--spacing-md) var(--spacing-lg);
+      font-size: 12px;
+      max-width: 340px;
+      min-width: 260px;
+      display: none;
+      z-index: 11;
+    }
+    #info h3 { margin: 0 0 var(--spacing-sm) 0; font-size: 16px; font-weight: 700; color: #f77b4e; }
+    #info p { margin: var(--spacing-xs) 0; line-height: 1.5; color: var(--color-text-secondary); }
+    #info p strong { color: var(--color-text); font-weight: 600; margin-right: var(--spacing-xs); }
+    #info p.hint { color: #ffffff; font-style: italic; margin-top: var(--spacing-sm); font-size: 14px; }
+
+    /* Link & authors UI bits */
+    #paper-link-row { display: flex; align-items: baseline; }
+    #paper-link-row a { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    #paper-authors-p { display: flex; align-items: baseline; }
+    #paper-authors-p strong { flex-shrink: 0; }
+    #paper-authors.collapsed {
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .expand-btn {
+      background: none; border: none; color: var(--color-primary); cursor: pointer;
+      font-size: 12px; font-weight: 600; padding: 0; margin-left: 4px; flex-shrink: 0;
+    }
+    #paper-link-row a { color: var(--color-text-secondary); text-decoration: none; font-weight: 600; }
+    #paper-link-row.has-link a { color: var(--color-primary); text-decoration: underline; }
+    #paper-link-row a[aria-disabled="true"] { pointer-events: none; color: var(--color-text-tertiary); text-decoration: none; }
+
+    /* Controls */
+    #controls {
+      position: fixed; bottom: var(--spacing-xl); right: var(--spacing-xl);
+      padding: var(--spacing-sm) var(--spacing-lg); display: flex; gap: var(--spacing-md);
+      align-items: center; font-size: 12px;
+    }
+    #controls > span { font-weight: 600; white-space: nowrap; color: var(--color-text-secondary); }
+    #controls button {
+      border: 1px solid var(--color-border); background: var(--color-bg-secondary);
+      padding: var(--spacing-xs) var(--spacing-md); border-radius: var(--radius-lg);
+      cursor: pointer; font-size: 12px; font-weight: 700; color: var(--color-text);
+      transition: all 0.2s ease; white-space: nowrap;
+    }
+    #controls button:hover {
+      background: var(--color-bg-hover); border-color: var(--color-primary-border); color: var(--color-primary);
+      transform: translateY(-1px); box-shadow: var(--shadow-sm);
+    }
+
+    /* Bottom-left chips (Display + Center + Year) */
+    #center-legend, #display-panel, #year-panel {
+      position: fixed; left: var(--spacing-xl);
+      padding: var(--spacing-sm) var(--spacing-lg); display: flex; gap: var(--spacing-md);
+      align-items: center; font-size: 12px; z-index: 11;
+    }
+
+    /* Stacking order: Year (top) > Display > Center */
+    #year-panel { bottom: calc(var(--spacing-xl) + 128px); }
+    #display-panel { bottom: calc(var(--spacing-xl) + 64px); }
+    #center-legend { bottom: var(--spacing-xl); }
+
+    #center-legend > span, #display-panel > span, #year-panel > span {
+      font-weight: 700; color: var(--color-text-secondary); white-space: nowrap;
+    }
+
+    #center-legend button, #display-panel button, #year-panel button {
+      border: 1px solid var(--color-border); background: var(--color-bg-secondary);
+      padding: var(--spacing-xs) var(--spacing-md); border-radius: var(--radius-lg);
+      cursor: pointer; font-size: 12px; font-weight: 700; color: var(--color-text);
+      transition: all 0.2s ease; white-space: nowrap;
+    }
+    #center-legend button:hover, #display-panel button:hover, #year-panel button:hover {
+      background: var(--color-bg-hover); border-color: var(--color-primary-border); color: var(--color-primary);
+      transform: translateY(-1px); box-shadow: var(--shadow-sm);
+    }
+    #center-legend button.active, #display-panel button.active, #year-panel button.active {
+      background: var(--color-primary-bg); border-color: var(--color-primary-border); color: var(--color-primary);
+      box-shadow: inset 0 0 0 1px var(--color-primary-border);
+    }
+    #center-legend button:disabled, #display-panel button:disabled, #year-panel button:disabled {
+      opacity: .5; cursor: not-allowed; transform: none; box-shadow: none;
+    }
+
+    /* Tooltip */
+    #tooltip {
+      position: fixed; pointer-events: none; display: none; min-width: 160px;
+      font-size: 12px; padding: var(--spacing-sm) var(--spacing-md); z-index: 9999;
+    }
+    #tooltip .swatch {
+      width: 10px; height: 10px; border-radius: 2px; display: inline-block;
+      margin-right: var(--spacing-xs); border: 1px solid rgba(255, 255, 255, 0.15); vertical-align: middle;
+    }
+    #tooltip strong { font-weight: 700; color: var(--color-text); }
+
+    /* Legend */
+    #legend {
+      position: fixed; right: var(--spacing-lg); top: auto;
+      bottom: calc(var(--spacing-xl) + 84px); width: clamp(260px, 32vw, 520px); max-height: 36vh;
+      padding: var(--spacing-lg); display: none;
+    }
+    .legend-scroll { height: max(160px, calc(36vh - (40px + var(--spacing-lg)))); overflow: hidden; }
+    #legend.open { display: flex; flex-direction: column; gap: var(--spacing-md); }
+    .legend-header, .title, .legend-meta { display: none; }
+    .legend-grid { display: grid; grid-template-columns: var(--legend-dom-width) minmax(var(--legend-clu-min), var(--legend-clu-max)); gap: var(--spacing-md); height: 100%; min-height: 0; }
+    .legend-col { min-height: 0; }
+    .cluster-col { display: flex; flex-direction: column; min-height: 0; }
+    .legend-col-title { margin: 0 0 var(--spacing-sm) 0; font-size: 16px; font-weight: 700; color: #f77b4e; }
+    .cluster-list { display: grid; grid-template-columns: 1fr; gap: var(--spacing-sm); flex: 1 1 auto; min-height: 0; overflow-y: auto; max-height: none; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
+    .cluster-list::-webkit-scrollbar { width: 6px; }
+    .cluster-list::-webkit-scrollbar-track { background: transparent; }
+    .cluster-list::-webkit-scrollbar-thumb { background: #3a404e; border-radius: 3px; }
+    .cluster-list::-webkit-scrollbar-thumb:hover { background: #5a6173; }
+    .item { display: flex; align-items: center; gap: var(--spacing-sm); font-size: 12px; cursor: pointer; padding: var(--spacing-sm) var(--spacing-md); border-radius: var(--radius-sm); transition: all 0.15s ease; border: 1px solid transparent; }
+    .item:hover { background: var(--color-bg-hover); border-color: var(--color-primary-border); transform: translateX(2px); }
+    .item.active { background: var(--color-primary-bg); border-color: var(--color-primary-border); box-shadow: inset 0 0 0 1px var(--color-primary-border); }
+    .item .label { flex: 1; font-weight: 700; color: var(--color-text); word-break: break-word; }
+    .item .count { font-size: 11px; color: var(--color-text-secondary); font-variant-numeric: tabular-nums; font-weight: 700; }
+    .domain-item .dash { font-weight: 900; color: var(--color-text-tertiary); margin-right: 8px; width: 10px; text-align: center; flex-shrink: 0; }
+    .domain-item .label { text-transform: uppercase; letter-spacing: 0.02em; }
+    .domain-item.active .dash { color: var(--color-primary); }
+    .swatch { width: 12px; height: 12px; border-radius: 3px; border: 1px solid rgba(255, 255, 255, 0.15); flex-shrink: 0; }
+
+    /* ===== Trend figure panel (NEW) ===== */
+    #trend-row strong { color: #fff !important; }
+    #trend-row { margin-top: var(--spacing-sm); }
+    #info #cluster-summary { color: #c7f4fc !important; }
+    #trend-row strong { display: inline-block; margin-bottom: var(--spacing-xs); color: var(--color-text-secondary); }
+    #trend-img {
+      display: block; width: 100%; max-height: 220px; height: auto; object-fit: contain;
+      border-radius: var(--radius-sm); box-shadow: var(--shadow-sm);
+    }
+
+  /* ======= MOBILE STACK (left -> canvas -> right) ======= */
+  @media (max-width: 768px) {
+    /* Let the page scroll and stack items */
+    body {
+      overflow-y: auto;
+      overflow-x: hidden;
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      gap: var(--spacing-lg);
+      padding-bottom: var(--spacing-xl);
+    }
+
+    /* Make the canvas a block in the flow with a sensible height */
+    #canvas-container {
+      width: 100%;
+      height: 60vh;           /* tune if you want more/less canvas height */
+      order: 50;              /* sits between left and right panels */
+    }
+
+    /* All panels stop being fixed; they enter the flow */
+    #paper-details,
+    #info,
+    #legend,
+    #controls,
+    #center-legend,
+    #display-panel,
+    #year-panel {
+      position: static !important;
+      inset: auto !important;
+      max-width: 100%;
+      width: auto;
+      margin: 0 var(--spacing-lg);
+    }
+
+    /* LEFT SIDE — first */
+    #paper-details { order: 10; }
+    #year-panel    { order: 20; }
+    #display-panel { order: 21; }
+    #center-legend { order: 22; }
+
+    /* RIGHT SIDE — after the canvas */
+    #info     { order: 90; display: block; }
+    #legend   { order: 91; width: auto; max-height: none; display: block; }
+    #controls { order: 92; }
+
+    /* Legend layout tweaks for narrow screens */
+    .legend-scroll { height: auto; max-height: none; overflow: visible; }
+    .legend-grid { grid-template-columns: 1fr; }
+
+    /* Make the chip panels wrap nicely on one line or two */
+    #center-legend, #display-panel, #year-panel {
+      display: flex;
+      flex-wrap: wrap;
+      row-gap: var(--spacing-sm);
+      column-gap: var(--spacing-sm);
+    }
+    #center-legend > span, #display-panel > span, #year-panel > span {
+      margin-right: var(--spacing-sm);
+    }
+
+    /* Slightly smaller hero title on phones */
+    #paper-details h1 { font-size: 28px; line-height: 1.2; }
+
+    /* Keep overlays behaving like overlays */
+    #loading, #tooltip { position: fixed; }
+  }
+  @media (max-width: 768px) and (orientation: portrait) {
+    #legend { display: none !important; }
+    #btn-toggle-legend { display: none !important; } /* optional: hide the button too */
+  }
+  /* Portrait phones: remove the "Drag to rotate • Scroll to zoom • Click to select" text */
+  @media (max-width: 768px) and (orientation: portrait) {
+    #controls > span { 
+      display: none !important; /* hides the first text span only */
+    }
+    /* optional: tighten spacing a bit when the text is gone */
+    #controls { gap: var(--spacing-sm); }
+  }
+</style>
+</head>
+<body>
+  <div id="paper-details" class="card">
+    <h1>
+      <span style="color: #ffffff;">Real</span> <br>
+      <span style="color: #ffd2b2;">Deep Research</span> <br>
+      <span style="color: #ffffff;">for </span>
+      <span style="color: #f7a76e;">AI,</span>
+      <span style="color: #f79c6e;">Robotics</span> <br />
+      <span style="color: #ffffff;">and</span>
+      <span style="color: #d87759;">Beyond</span>
+    </h1>
+
+    <p class="authors">
+      <a href="https://maureenzou.github.io/" title="View profile for Xueyan Zou">Xueyan Zou*¹</a>, <br />
+      <a href="https://jianglongye.com/" title="View profile for Jianglong Ye">Jianglong Ye*¹</a>, <br />
+      <a href="https://research.nvidia.com/person/hao-zhang" title="View profile for Hao Zhang">Hao Zhang²</a>, <br />
+      <a href="https://xiaoyux1ang.github.io/" title="View profile for Xiaoyu Xiang">Xiaoyu Xiang³</a>, <br />
+      <a href="https://dingmyu.github.io/" title="View profile for Mingyu Ding">Mingyu Ding⁵</a>, <br />
+      <a href="https://yang-zj1026.github.io/" title="View profile for Zhaojing Yang">Zhaojing Yang¹</a>, <br />
+      <a href="https://pages.cs.wisc.edu/~yongjaelee/" title="View profile for Yong Jae Lee">Yong Jae Lee⁴</a>, <br />
+      <a href="https://pages.ucsd.edu/~ztu/" title="View profile for Zhuowen Tu">Zhuowen Tu¹</a>, <br />
+      <a href="https://sifeiliu.net/" title="View profile for Sifei Liu">Sifei Liu²</a>, <br />
+      <a href="https://xiaolonw.github.io/" title="View profile for Xiaolong Wang">Xiaolong Wang¹</a>
+    </p>
+
+    <div class="links">
+      <a href="#" class="link-item" aria-disabled="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M8.29 16.71a1 1 0 0 0 1.42 0l4.58-4.59a1 1 0 0 0 0-1.41L9.71 6.12a1 1 0 0 0-1.42 1.41L12.59 12l-4.3 4.29a1 1 0 0 0 0 1.42zM15 6.12a1 1 0 0 0-1.42 1.41L17.59 12l-4.3 4.29a1 1 0 0 0 1.42 1.41l5-5a1 1 0 0 0 0-1.41z"/></svg>
+        <span>Code</span>
+      </a>
+      <a href="#" class="link-item" aria-disabled="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6z"/></svg>
+        <span>Paper</span>
+      </a>
+    </div>
+
+    <p class="institutions">¹UC San Diego, ²NVIDIA, ³META, <br> ⁴UW-Madison, ⁵UNC</p>
+  </div>
+
+  <div id="loading">
+    <div class="card">
+      <div class="spinner"></div>
+      <div>Loading papers</div>
+    </div>
+  </div>
+
+  <div id="info">
+    <h3>Selection</h3>
+    <!-- Empty-state hint -->
+    <p id="empty-hint" class="hint">Please click the embedding to start...</p>
+    <p><strong>ID:</strong> <span id="paper-id">—</span></p>
+    <p><strong>Cluster:</strong> <span id="cluster-id">—</span></p>
+    <p><strong>Position:</strong> <span id="paper-pos">—</span></p>
+    <p><strong>Title:</strong> <span id="paper-title">—</span></p>
+    <p><strong>Venue:</strong> <span id="paper-venue">—</span></p>
+    <p id="paper-authors-p"><strong>Authors:</strong> <span id="paper-authors">—</span></p>
+    <p id="paper-link-row">
+      <strong>Link:</strong> <a id="paper-link" href="" target="_blank" rel="noopener">—</a>
+    </p>
+    <p><strong>Summary:</strong> <span id="cluster-summary">—</span></p>
+    <div id="trend-row" style="display:none;">
+      <strong>Trend:</strong>
+      <img id="trend-img" alt="Cluster trend" />
+    </div>
+  </div>
+
+  <div id="legend" class="card open"></div>
+
+  <!-- NEW: Top-most Year filter panel -->
+  <div id="year-panel" class="card" aria-label="Year filter">
+    <span>Year</span>
+    <button data-year="2021" class="active">2021</button>
+    <button data-year="2022" class="active">2022</button>
+    <button data-year="2023" class="active">2023</button>
+    <button data-year="2024" class="active">2024</button>
+    <button data-year="2025" class="active">2025</button>
+  </div>
+
+  <!-- Bottom-left Display panel (above Center) -->
+  <div id="display-panel" class="card" aria-label="Display mode">
+    <span>Display</span>
+    <button id="btn-display-paper" class="active" title="Display: Paper">Paper</button>
+    <button id="btn-display-cluster" title="Display: Cluster">Cluster</button>
+  </div>
+
+  <!-- Bottom-left Center legend -->
+  <div id="center-legend" class="card" aria-label="Camera center selector">
+    <span>Center</span>
+    <button id="btn-center-ai" title="Center: AI">AI</button>
+    <button id="btn-center-science" title="Center: Science">Science</button>
+    <button id="btn-center-all" title="Center: All">All</button>
+  </div>
+
+  <div id="controls" class="card">
+    <span>Drag to rotate • Scroll to zoom • Click to select</span>
+    <button id="btn-reset" title="Reset view">Reset</button>
+    <button id="btn-toggle-legend" title="Toggle legend">Legend</button>
+    <button id="btn-auto-rotate" title="Toggle auto rotate">Rotate</button>
+  </div>
+
+  <div id="tooltip" class="card"></div>
+  <div id="canvas-container"></div>
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+      }
+    }
+  </script>
+
+  <script type="module">
+    import * as THREE from "three";
+    import { OrbitControls } from "three/addons/controls/OrbitControls.js";
+    import { CSS2DRenderer, CSS2DObject } from "three/addons/renderers/CSS2DRenderer.js";
+    import { EffectComposer } from "three/addons/postprocessing/EffectComposer.js";
+    import { RenderPass } from "three/addons/postprocessing/RenderPass.js";
+    import { UnrealBloomPass } from "three/addons/postprocessing/UnrealBloomPass.js";
+
+    const BINARY_PATH = "assets/abstract_umap_clusters.bin";
+    const POINT_SIZE = 0.018;
+
+    const SPHERE_BASE_OPACITY = 0.3, SPHERE_DIM_OPACITY = 0.12, SPHERE_FOCUS_OPACITY = 0.55;
+    const SPHERE_SEGMENTS_W = 48, SPHERE_SEGMENTS_H = 32;
+
+    const BASE_PALETTE = [
+      "#F2B44B","#8CCEF4","#33C6A0","#F5ED72","#4FA3D6","#E6843F","#E1A8CC","#BFBFBF",
+      "#7A6AD6","#78C8BE","#4AA17E","#B5E3F7","#E9DFA0","#E19AA7","#C97AC0","#B26686",
+      "#995533","#9FC0E3","#CC7C98","#7FA3CF","#57B06A","#F29CA6"
+    ];
+    const colorForCluster = (k) => BASE_PALETTE[k % BASE_PALETTE.length];
+    const escapeHtml = (s) =>
+      typeof s === "string"
+        ? s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;")
+        : s;
+
+    class PaperVisualizer {
+      constructor() {
+        this.scene = null;
+        this.camera = null;
+        this.renderer = null;
+        this.composer = null;
+        this.labelRenderer = null;
+        this.controls = null;
+
+        this.raycaster = new THREE.Raycaster();
+        this.mouse = new THREE.Vector2();
+
+        this.pointsGroup = null;
+        this.clusterSpheresGroup = null;
+        this.clusterMeshesById = new Map();
+        this.clusterSphereMeshes = [];
+
+        this.paperData = { positions: null, clusters: null, paperIds: null };
+        this.meta = null;
+        this.clusterMetaById = new Map();
+        this.legendData = null;
+
+        this.hover = { mesh: null, instanceId: null, clusterId: null, type: null };
+
+        this.groupCenters = {};
+        this.activeCenter = null;
+        this.centerButtons = null;
+
+        // Display mode state (default: paper)
+        this.displayMode = "paper";
+        this.displayButtons = null;
+        this.modeStyles = {
+          paper: { points: 0.75, sphere: SPHERE_BASE_OPACITY },
+          cluster: { points: 0.2,  sphere: 0.8 }
+        };
+        this.currentPointsOpacity = this.modeStyles.paper.points;
+        this.currentSphereBaseOpacity = this.modeStyles.paper.sphere;
+
+        // Year filtering
+        this.yearButtons = null;
+        this.selectedYears = new Set([2021, 2022, 2023, 2024, 2025]);
+        this.paperYearById = new Map(); // id -> year (e.g., 2025)
+
+        this.dom = {
+          tooltip: document.getElementById("tooltip"),
+          info: document.getElementById("info"),
+          paperTitle: document.getElementById("paper-title"),
+          paperAuthors: document.getElementById("paper-authors"),
+          paperLink: document.getElementById("paper-link"),
+          paperLinkRow: document.getElementById("paper-link-row"),
+          emptyHint: document.getElementById("empty-hint"),
+          trendImg: document.getElementById("trend-img"),
+          trendRow: document.getElementById("trend-row"),
+        };
+
+        this.paperDetailRequestId = 0;
+
+        this.legendState = { expanded: false, selected: null, selectedDomain: null };
+
+        /* ---- NEW: when recentering, move the camera closer for focus views ---- */
+        this.focusZoomFactor = 0.45;      // tighter focus (50% closer than default distance)
+        this.allZoomFactor = 0.85;         // return to the baseline distance
+        this.defaultViewDistance = null;  // cached radius from global framing
+        this.defaultViewFallbackDir = new THREE.Vector3(1, 0, 0);
+
+        this.init();
+      }
+
+      init() {
+        const container = document.getElementById("canvas-container");
+
+        this.scene = new THREE.Scene();
+        this.scene.background = new THREE.Color(0x000000);
+
+        this.camera = new THREE.PerspectiveCamera(55, container.clientWidth / container.clientHeight, 0.1, 2000);
+        this.camera.position.set(5,5,5);
+
+        this.renderer = new THREE.WebGLRenderer({ antialias: true });
+        this.renderer.setSize(container.clientWidth, container.clientHeight);
+        this.renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+        this.renderer.outputColorSpace = THREE.SRGBColorSpace;
+        this.renderer.toneMapping = THREE.ACESFilmicToneMapping;
+        this.renderer.toneMappingExposure = 1.25;
+        this.renderer.physicallyCorrectLights = true;
+        container.appendChild(this.renderer.domElement);
+
+        this.composer = new EffectComposer(this.renderer);
+        this.composer.addPass(new RenderPass(this.scene, this.camera));
+        this.bloom = new UnrealBloomPass(new THREE.Vector2(container.clientWidth, container.clientHeight), 0.8, 0.45, 0.02);
+        this.composer.addPass(this.bloom);
+
+        this.labelRenderer = new CSS2DRenderer();
+        this.labelRenderer.setSize(container.clientWidth, container.clientHeight);
+        this.labelRenderer.domElement.style.position = "absolute";
+        this.labelRenderer.domElement.style.top = "0";
+        this.labelRenderer.domElement.style.pointerEvents = "none";
+        container.appendChild(this.labelRenderer.domElement);
+
+        this.controls = new OrbitControls(this.camera, this.renderer.domElement);
+        this.controls.enableDamping = true;
+        this.controls.dampingFactor = 0.05;
+        this.controls.autoRotate = true;
+        this.controls.autoRotateSpeed = 0.45;
+        this.controls.minDistance = 2;
+        this.controls.maxDistance = 80;
+
+        this.scene.add(new THREE.AmbientLight(0xffffff, 0.05));
+        const key = new THREE.PointLight(0x73b2ff, 0.6, 60, 2);
+        key.position.set(10, 12, 8);
+        this.scene.add(key);
+
+        document.getElementById("btn-reset").onclick = () => this.resetView();
+        document.getElementById("btn-toggle-legend").onclick = () => this.toggleLegend();
+        document.getElementById("btn-auto-rotate").onclick = () => this.toggleAutoRotate();
+        document.getElementById("btn-auto-rotate").style.opacity = "1";
+        document.getElementById("btn-toggle-legend").style.opacity = "1";
+
+        this.bindCenterLegend();
+        this.bindDisplayPanel();
+        this.bindYearPanel();               // <-- NEW: wire up year filter UI
+
+        window.addEventListener("resize", () => this.onResize());
+        this.renderer.domElement.addEventListener("mousemove", (e) => this.onMouseMove(e));
+        this.renderer.domElement.addEventListener("click", () => this.onClick());
+
+        this.marker = new THREE.Mesh(
+          new THREE.SphereGeometry(POINT_SIZE * 1.6, 16, 16),
+          new THREE.MeshBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.75 })
+        );
+        this.marker.visible = false;
+        this.scene.add(this.marker);
+
+        this.loadData();
+
+        const loop = () => {
+          this.controls.update();
+          this.composer.render();
+          this.labelRenderer.render(this.scene, this.camera);
+          requestAnimationFrame(loop);
+        };
+        loop();
+      }
+
+      async loadData() {
+        try {
+          const metaPath = BINARY_PATH.replace(/\.bin$/, "_meta.json");
+          const [binRes, metaRes] = await Promise.all([fetch(BINARY_PATH), fetch(metaPath)]);
+          if (!binRes.ok) throw new Error("data load failed");
+          if (!metaRes.ok) throw new Error("meta load failed");
+          const [buffer, meta] = await Promise.all([binRes.arrayBuffer(), metaRes.json()]);
+
+          this.parseData(buffer);
+          this.applyMetadata(meta);
+          this.buildVisualization();
+          this.buildLegend();
+
+          // start with empty-state hint
+          this.initInfoPanelState();
+
+          if (this.groupCenters?.all?.center) this.setCenterByName("all", { animate: false });
+
+          // Build the paper-year index (id -> year) from cluster detail JSONs.
+          // After it's ready, the current filter will be applied.
+          this.buildPaperYearIndex().catch(() => { /* ignore failures gracefully */ });
+
+          document.getElementById("loading").style.display = "none";
+          this.dom.info.style.display = "block";
+        } catch (err) {
+          console.error(err);
+          document.getElementById("loading").innerHTML =
+            '<div class="card" style="color:#ff6b6b;font-weight:700">Error loading data</div>';
+        }
+      }
+
+      parseData(buffer) {
+        const view = new DataView(buffer);
+        let off = 0;
+
+        const n = view.getUint32(off, true); off += 4;
+        const clusterBytes = view.getUint32(off, true); off += 4;
+        const idLenBytes = view.getUint32(off, true); off += 4;
+        const posOff = view.getUint32(off, true); off += 4;
+        const cluOff = view.getUint32(off, true); off += 4;
+        const idOffOff = view.getUint32(off, true); off += 4;
+        const idLenOff = view.getUint32(off, true); off += 4;
+        const strOff = view.getUint32(off, true); off += 4;
+        const strLen = view.getUint32(off, true);
+
+        if (clusterBytes !== Uint16Array.BYTES_PER_ELEMENT) throw new Error("unexpected cluster byte size");
+        if (idLenBytes !== Uint16Array.BYTES_PER_ELEMENT) throw new Error("unexpected id length byte size");
+
+        const positions = new Float32Array(buffer, posOff, n * 3);
+        const clusters  = new Uint16Array(buffer, cluOff, n);
+        const idOffsets = new Uint32Array(buffer, idOffOff, n);
+        const idLens    = new Uint16Array(buffer, idLenOff, n);
+        const idBytes   = new Uint8Array(buffer, strOff, strLen);
+
+        const dec = new TextDecoder();
+        const paperIds = Array.from({ length: n }, (_, i) =>
+          dec.decode(idBytes.subarray(idOffsets[i], idOffsets[i] + idLens[i]))
+        );
+
+        this.paperData = { positions, clusters, paperIds };
+      }
+
+      applyMetadata(metadata) {
+        if (!metadata || !Array.isArray(metadata.clusters)) {
+          this.meta = { clusters: [] };
+          this.clusterMetaById = new Map();
+        } else {
+          const norm = metadata.clusters.map((c) => {
+            const center = Array.isArray(c.center) ? c.center.map(Number) : [];
+            const radius = Number(c.radius);
+            return {
+              ...c,
+              center: center.length === 3 && center.every(Number.isFinite) ? center : [],
+              radius: Number.isFinite(radius) ? radius : 0,
+              eligible_for_sphere: Boolean(c.eligible_for_sphere),
+              domain: c.domain || "unknown",
+              paper_count: Number.isFinite(Number(c.paper_count)) ? Number(c.paper_count) : undefined,
+            };
+          });
+          this.meta = { ...metadata, clusters: norm };
+          this.clusterMetaById = new Map(norm.map((c) => [c.cluster_id, c]));
+        }
+
+        const binDir = BINARY_PATH.includes("/") ? BINARY_PATH.slice(0, BINARY_PATH.lastIndexOf("/")) : ".";
+        const rawDir = typeof metadata.cluster_details_directory === "string" ? metadata.cluster_details_directory.trim() : "";
+        this.clusterDetailsBasePath = rawDir
+          ? (rawDir.replace(/\\/g, "/").match(/^(\.|\/)/)
+              ? rawDir.replace(/\\/g, "/")
+              : (binDir ? binDir + "/" : "") + rawDir.replace(/\\/g, "/"))
+          : null;
+
+        const idx = metadata.cluster_details_index && typeof metadata.cluster_details_index === "object"
+          ? new Map(Object.entries(metadata.cluster_details_index).map(([k, v]) => [Number(k), v]))
+          : new Map();
+        this.clusterDetailsIndex = idx;
+        this.clusterDetailsCache = new Map();
+
+        this.groupCenters = {};
+        if (metadata && typeof metadata.group_centers === "object") {
+          for (const [name, obj] of Object.entries(metadata.group_centers)) {
+            const c = Array.isArray(obj?.center) ? obj.center.map(Number) : null;
+            this.groupCenters[name] = { ...obj, center: (c && c.length === 3 && c.every(Number.isFinite)) ? c : null };
+          }
+        }
+        this.updateCenterLegendAvailability();
+      }
+
+      buildVisualization() {
+        const { positions, clusters, paperIds } = this.paperData;
+        const n = paperIds.length;
+
+        const grouped = new Map();
+        for (let i = 0; i < n; i++) {
+          const c = clusters[i];
+          if (!grouped.has(c)) grouped.set(c, []);
+          grouped.get(c).push(i);
+        }
+
+        this.pointsGroup = new THREE.Group();
+        const geom = new THREE.SphereGeometry(POINT_SIZE, 10, 10);
+        const dummy = new THREE.Object3D();
+
+        grouped.forEach((indices, cId) => {
+          const base = new THREE.Color(colorForCluster(cId));
+          const mat = new THREE.MeshStandardMaterial({
+            color: base.clone().multiplyScalar(0.5),
+            roughness: 0.4,
+            metalness: 0.05,
+            emissive: base,
+            emissiveIntensity: 0.6,
+            transparent: true,
+            opacity: this.currentPointsOpacity,
+            depthWrite: true,
+          });
+
+        const mesh = new THREE.InstancedMesh(geom, mat, indices.length);
+          mesh.instanceMatrix.setUsage(THREE.DynamicDrawUsage);
+          mesh.userData.clusterId = cId;
+          mesh.userData.paperIdxByInstance = new Map();
+
+          indices.forEach((pIdx, iInst) => {
+            const x = positions[pIdx * 3], y = positions[pIdx * 3 + 1], z = positions[pIdx * 3 + 2];
+            dummy.position.set(x, y, z);
+            dummy.rotation.set(0, 0, 0);
+            dummy.scale.set(1, 1, 1);
+            dummy.updateMatrix();
+            mesh.setMatrixAt(iInst, dummy.matrix);
+            mesh.userData.paperIdxByInstance.set(iInst, pIdx);
+          });
+          mesh.instanceMatrix.needsUpdate = true;
+          this.pointsGroup.add(mesh);
+        });
+
+        this.scene.add(this.pointsGroup);
+
+        this.createClusterSpheres();
+        this.frameAll();
+        this.setupAxesLabels(); // initial axes near overall center
+      }
+
+      createClusterSpheres() {
+        if (this.clusterSpheresGroup) {
+          this.scene.remove(this.clusterSpheresGroup);
+          this.clusterSpheresGroup.traverse((o) => {
+            if (o.isMesh) { o.geometry.dispose(); o.material.dispose(); }
+          });
+          this.clusterSpheresGroup = null;
+        }
+        this.clusterMeshesById.clear();
+        this.clusterSphereMeshes.length = 0;
+
+        const group = new THREE.Group();
+        const baseGeom = new THREE.SphereGeometry(1, SPHERE_SEGMENTS_W, SPHERE_SEGMENTS_H);
+
+        this.meta.clusters.forEach((cl) => {
+          if (!cl.eligible_for_sphere || cl.radius <= 0) return;
+          const ctr = Array.isArray(cl.center) && cl.center.length === 3 ? cl.center : null;
+          if (!ctr) return;
+
+          const color = new THREE.Color(colorForCluster(cl.cluster_id));
+          const mat = new THREE.MeshStandardMaterial({
+            color: color.clone().multiplyScalar(0.7),
+            roughness: 0.6,
+            metalness: 0.05,
+            emissive: color.clone().multiplyScalar(0.15),
+            emissiveIntensity: 0.35,
+            transparent: true,
+            opacity: this.currentSphereBaseOpacity,
+            side: THREE.DoubleSide,
+            depthWrite: false,
+          });
+
+          const mesh = new THREE.Mesh(baseGeom.clone(), mat);
+          mesh.scale.set(cl.radius, cl.radius, cl.radius);
+          mesh.position.set(ctr[0], ctr[1], ctr[2]);
+          mesh.userData.clusterId = cl.cluster_id;
+          mesh.userData.meta = cl;
+          mesh.renderOrder = -1;
+
+          group.add(mesh);
+          this.clusterMeshesById.set(cl.cluster_id, mesh);
+          this.clusterSphereMeshes.push(mesh);
+        });
+
+        baseGeom.dispose();
+
+        if (group.children.length) {
+          this.clusterSpheresGroup = group;
+          this.scene.add(group);
+        }
+      }
+
+      cleanupAxisGroup() {
+        if (!this.axisGroup) return;
+        this.axisGroup.traverse((o) => {
+          // remove CSS2DObject DOM nodes so old labels don’t linger
+          if (o.isCSS2DObject && o.element && o.element.parentNode) {
+            o.element.parentNode.removeChild(o.element);
+          }
+          // dispose lines to avoid GPU leaks
+          if (o.isLine) {
+            o.geometry && o.geometry.dispose();
+            o.material && o.material.dispose();
+          }
+        });
+        this.scene.remove(this.axisGroup);
+        this.axisGroup = null;
+      }
+
+      frameAll(padding = 0.8) {
+        const { positions } = this.paperData;
+        let minX = Infinity, minY = Infinity, minZ = Infinity, maxX = -Infinity, maxY = -Infinity, maxZ = -Infinity;
+
+        for (let i = 0; i < positions.length; i += 3) {
+          const x = positions[i], y = positions[i + 1], z = positions[i + 2];
+          if (x < minX) minX = x; if (x > maxX) maxX = x;
+          if (y < minY) minY = y; if (y > maxY) maxY = y;
+          if (z < minZ) minZ = z; if (z > maxZ) maxZ = z;
+        }
+
+        const cx = (minX + maxX) * 0.5, cy = (minY + maxY) * 0.5, cz = (minZ + maxZ) * 0.5;
+        const sx = maxX - minX, sy = maxY - minY, sz = maxZ - minZ;
+        const radius = 0.5 * Math.sqrt(sx * sx + sy * sy + sz * sz) || 1e-3;
+
+        const vFOV = THREE.MathUtils.degToRad(this.camera.fov);
+        const hFOV = 2 * Math.atan(Math.tan(vFOV * 0.5) * this.camera.aspect);
+        const fov = Math.min(vFOV, hFOV);
+        const dist = (radius / Math.sin(fov * 0.5)) * padding;
+
+        this.controls.target.set(cx, cy, cz);
+        this.camera.position.set(cx - dist, cy, cz);
+        this.camera.near = Math.max(0.01, dist / 100);
+        this.camera.far = dist * 60;
+        this.camera.updateProjectionMatrix();
+        this.controls.minDistance = dist * 0.05;
+        this.controls.maxDistance = dist * 20;
+
+        const offset = new THREE.Vector3().subVectors(this.camera.position, this.controls.target);
+        this.defaultViewDistance = offset.length();
+        if (offset.lengthSq() > 1e-6) {
+          this.defaultViewFallbackDir = offset.clone().normalize();
+        }
+
+        /* ---- NEW: cache half-lengths for axis drawing around any center ---- */
+        this.axisHalfLengths = {
+          x: sx * 0.5,
+          y: sy * 0.5,
+          z: sz * 0.5
+        };
+
+        this.bounds = { minX, maxX, minY, maxY, minZ, maxZ, cx, cy, cz };
+      }
+
+      /* ---- UPDATED: axes recentered around a provided center (defaults to overall center) ---- */
+      setupAxesLabels(center = null) {
+        if (this.axisGroup) this.scene.remove(this.axisGroup);
+        this.cleanupAxisGroup();
+        const g = new THREE.Group();
+
+        const cx = Array.isArray(center) ? center[0] : this.bounds.cx;
+        const cy = Array.isArray(center) ? center[1] : this.bounds.cy;
+        const cz = Array.isArray(center) ? center[2] : this.bounds.cz;
+
+        const hx = this.axisHalfLengths?.x ?? (this.bounds.maxX - this.bounds.minX) * 0.5;
+        const hy = this.axisHalfLengths?.y ?? (this.bounds.maxY - this.bounds.minY) * 0.5;
+        const hz = this.axisHalfLengths?.z ?? (this.bounds.maxZ - this.bounds.minZ) * 0.5;
+
+        const mkAxis = (a, b) =>
+          new THREE.Line(
+            new THREE.BufferGeometry().setFromPoints([a, b]),
+            new THREE.LineBasicMaterial({ color: 0x4aa8ff, linewidth: 2, opacity: 0.6, transparent: true })
+          );
+
+        // Axes centered at (cx, cy, cz)
+        g.add(mkAxis(new THREE.Vector3(cx - hx, cy, cz), new THREE.Vector3(cx + hx, cy, cz)));
+        g.add(mkAxis(new THREE.Vector3(cx, cy - hy, cz), new THREE.Vector3(cx, cy + hy, cz)));
+        g.add(mkAxis(new THREE.Vector3(cx, cy, cz - hz), new THREE.Vector3(cx, cy, cz + hz)));
+
+        const labelCss =
+          "font-size:12px;font-weight:800;color:#4aa8ff;background:rgba(18,20,26,.95);padding:6px 10px;border:1px solid rgba(74,168,255,0.4);border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,.6)";
+
+        const mkLabel = (t, pos) => {
+          const d = document.createElement("div");
+          d.style = labelCss;
+          d.textContent = t;
+          const o = new CSS2DObject(d);
+          o.position.copy(pos);
+          return o;
+        };
+
+        g.add(mkLabel("X", new THREE.Vector3(cx + hx, cy, cz)));
+        g.add(mkLabel("Y", new THREE.Vector3(cx, cy + hy, cz)));
+        g.add(mkLabel("Z", new THREE.Vector3(cx, cy, cz + hz)));
+
+        this.axisGroup = g;
+        this.scene.add(g);
+      }
+
+      /* ---------- legend ---------- */
+      buildLegend() {
+        const legend = document.getElementById("legend");
+        legend.innerHTML = "";
+
+        const { clusters } = this.paperData;
+        if (!clusters || clusters.length === 0) {
+          const empty = document.createElement("div");
+          empty.className = "legend-empty";
+          empty.textContent = "No clusters.";
+          legend.appendChild(empty);
+          return;
+        }
+
+        const clusterCounts = new Map();
+        for (let i = 0; i < clusters.length; i++) {
+          const c = clusters[i];
+          clusterCounts.set(c, (clusterCounts.get(c) || 0) + 1);
+        }
+
+        const domainMap = new Map();
+        const domainTotals = new Map();
+
+        for (const cl of this.meta.clusters) {
+          const dom = cl.domain || "unknown";
+          if (!domainMap.has(dom)) domainMap.set(dom, []);
+          const count = clusterCounts.get(cl.cluster_id) || 0;
+          domainMap.get(dom).push({ cluster_id: cl.cluster_id, count, meta: cl });
+          domainTotals.set(dom, (domainTotals.get(dom) || 0) + count);
+        }
+
+        const domainOrder = [...domainMap.keys()].sort((a, b) => {
+          const da = domainTotals.get(a) || 0;
+          const db = domainTotals.get(b) || 0;
+          if (db !== da) return db - da;
+          return String(a).localeCompare(String(b));
+        });
+
+        this.legendData = { clusterCounts, domainMap, domainTotals, domainOrder };
+
+        const scroll = document.createElement("div");
+        scroll.className = "legend-scroll";
+        legend.appendChild(scroll);
+
+        const grid = document.createElement("div");
+        grid.className = "legend-grid";
+        scroll.appendChild(grid);
+
+        const hint = document.createElement("div");
+        hint.style.cssText = "font-size: 14px; color: var(--color-text-tertiary); text-align: left;";
+        hint.textContent = "Click Legend to Hide";
+        legend.appendChild(hint);
+
+        const domCol = document.createElement("div");
+        domCol.className = "legend-col domain-col";
+        grid.appendChild(domCol);
+
+        const domTitle = document.createElement("div");
+        domTitle.className = "legend-col-title";
+        domTitle.textContent = "Domains";
+        domCol.appendChild(domTitle);
+
+        const domList = document.createElement("div");
+        domList.className = "list domain-list";
+        domCol.appendChild(domList);
+
+        const makeDomainItem = (domain) => {
+          const item = document.createElement("div");
+          item.className = "item domain-item";
+          item.dataset.domain = domain;
+
+          const dash = document.createElement("span");
+          dash.className = "dash";
+          dash.textContent = "-";
+
+          const label = document.createElement("div");
+          label.className = "label";
+          label.textContent = domain;
+
+          const count = document.createElement("div");
+          count.className = "count";
+          count.title = "Total papers in this domain";
+          count.textContent = String(domainTotals.get(domain) || 0);
+
+          item.appendChild(dash);
+          item.appendChild(label);
+          item.appendChild(count);
+          item.onclick = () => {
+            this.legendState.selectedDomain = domain;
+            renderClusterList(domain);
+            this.applyLegendSelectionClass();
+          };
+          return item;
+        };
+
+        domainOrder.forEach((d) => domList.appendChild(makeDomainItem(d)));
+
+        const cluCol = document.createElement("div");
+        cluCol.className = "legend-col cluster-col";
+        grid.appendChild(cluCol);
+
+        const cluTitle = document.createElement("div");
+        cluTitle.className = "legend-col-title";
+        cluTitle.textContent = "Clusters";
+        cluCol.appendChild(cluTitle);
+
+        const clusterList = document.createElement("div");
+        clusterList.className = "list cluster-list";
+        cluCol.appendChild(clusterList);
+
+        const makeClusterItem = (cid, n) => {
+          const item = document.createElement("div");
+          item.className = "item cluster-item";
+          item.dataset.clusterId = String(cid);
+
+          const sw = document.createElement("div");
+          sw.className = "swatch";
+          sw.style.background = colorForCluster(cid);
+
+          const label = document.createElement("div");
+          label.className = "label";
+          label.textContent = "Cluster " + cid;
+
+          const count = document.createElement("div");
+          count.className = "count";
+          count.textContent = String(n);
+
+          item.appendChild(sw);
+          item.appendChild(label);
+          item.appendChild(count);
+          item.onclick = () => this.focusCluster(cid);
+          return item;
+        };
+
+        const renderClusterList = (domain) => {
+          clusterList.innerHTML = "";
+          const arr = (domainMap.get(domain) || []).slice().sort((a, b) => b.count - a.count);
+          arr.forEach(({ cluster_id, count }) => {
+            clusterList.appendChild(makeClusterItem(cluster_id, count));
+          });
+          this.applyLegendSelectionClass();
+        };
+
+        if (!this.legendState.selectedDomain) this.legendState.selectedDomain = domainOrder[0] || "unknown";
+        renderClusterList(this.legendState.selectedDomain);
+
+        legend.setAttribute("aria-hidden", legend.classList.contains("open") ? "false" : "true");
+        this.applyLegendSelectionClass();
+
+        const wheelForward = (e) => {
+          const list = document.querySelector('#legend .cluster-list');
+          if (!list) return;
+          const before = list.scrollTop;
+          list.scrollTop += e.deltaY;
+          if (list.scrollTop !== before) e.preventDefault();
+        };
+        scroll.addEventListener('wheel', wheelForward, { passive: false });
+      }
+
+      applyLegendSelectionClass() {
+        const legend = document.getElementById("legend");
+        if (!legend) return;
+
+        legend.querySelectorAll(".domain-item").forEach((item) => {
+          item.classList.toggle("active", item.dataset.domain === this.legendState.selectedDomain);
+        });
+
+        legend.querySelectorAll(".cluster-item").forEach((item) => {
+          item.classList.toggle(
+            "active",
+            this.legendState.selected !== null && String(this.legendState.selected) === item.dataset.clusterId
+          );
+        });
+      }
+
+      toggleLegend() {
+        const el = document.getElementById("legend");
+        const isOpen = el.classList.toggle("open");
+        el.setAttribute("aria-hidden", isOpen ? "false" : "true");
+        document.getElementById("btn-toggle-legend").style.opacity = isOpen ? "1" : ".5";
+        if (isOpen) this.applyLegendSelectionClass();
+      }
+
+      onMouseMove(e) {
+        const rect = this.renderer.domElement.getBoundingClientRect();
+        this.mouse.set(((e.clientX - rect.left) / rect.width) * 2 - 1, -((e.clientY - rect.top) / rect.height) * 2 + 1);
+        this.raycaster.setFromCamera(this.mouse, this.camera);
+
+        const hits = this.raycaster.intersectObjects(this.pointsGroup.children, true);
+        if (hits.length > 0 && hits[0].instanceId !== undefined) {
+          const { object: mesh, instanceId } = hits[0];
+          const pIdx = mesh.userData.paperIdxByInstance.get(instanceId);
+          const id = this.paperData.paperIds[pIdx];
+          const cId = this.paperData.clusters[pIdx];
+
+          const m = new THREE.Matrix4();
+          mesh.getMatrixAt(instanceId, m);
+          this.marker.position.setFromMatrixPosition(m);
+          this.marker.visible = true;
+
+          Object.assign(this.dom.tooltip.style, { display: "block", left: (e.clientX + 12) + "px", top: (e.clientY + 12) + "px" });
+          this.dom.tooltip.innerHTML =
+            '<div><span class="swatch" style="background:' + colorForCluster(cId) + '"></span><strong>' +
+            escapeHtml(id) + '</strong></div><div>Cluster ' + cId + '</div>';
+
+          this.renderer.domElement.style.cursor = "pointer";
+          this.hover = { mesh, instanceId, clusterId: cId, type: "point" };
+          return;
+        }
+
+        if (this.clusterSphereMeshes.length) {
+          const sHits = this.raycaster.intersectObjects(this.clusterSphereMeshes, true);
+          if (sHits.length > 0) {
+            const { object } = sHits[0];
+            const clId = object.userData.clusterId;
+            const meta = object.userData.meta;
+
+            this.marker.visible = false;
+            Object.assign(this.dom.tooltip.style, { display: "block", left: (e.clientX + 12) + "px", top: (e.clientY + 12) + "px" });
+
+            const pc = (typeof meta?.paper_count === "number") ? (meta.paper_count.toLocaleString() + " papers") : "";
+            const summary = meta?.summary ? escapeHtml(meta.summary).replace(/\n/g, "<br />") : "";
+            this.dom.tooltip.innerHTML =
+              '<div><span class="swatch" style="background:' + colorForCluster(clId) + '"></span><strong>Cluster ' + clId + '</strong></div>' +
+              (pc ? ('<div>' + pc + '</div>') : "") +
+              (summary ? ('<div style="max-width:240px">' + summary + '</div>') : "");
+
+            this.renderer.domElement.style.cursor = "pointer";
+            this.hover = { mesh: object, instanceId: null, clusterId: clId, type: "sphere" };
+            return;
+          }
+        }
+
+        this.marker.visible = false;
+        this.dom.tooltip.style.display = "none";
+        this.renderer.domElement.style.cursor = "default";
+        this.hover = { mesh: null, instanceId: null, clusterId: null, type: null };
+      }
+
+      onClick() {
+        if (!this.hover.mesh) return this.clearFocus();
+
+        if (this.hover.type === "point") {
+          const { mesh, instanceId } = this.hover;
+          const pIdx = mesh.userData.paperIdxByInstance.get(instanceId);
+          const id = this.paperData.paperIds[pIdx];
+          const cId = this.paperData.clusters[pIdx];
+
+          const mat = new THREE.Matrix4();
+          mesh.getMatrixAt(instanceId, mat);
+          const pos = new THREE.Vector3().setFromMatrixPosition(mat);
+
+          this.focusCluster(cId, { preserve: true });
+
+          this.setRowText("paper-id", id);
+          this.setRowText("cluster-id", String(cId));
+          this.setRowText("paper-pos", "(" + pos.x.toFixed(3) + ", " + pos.y.toFixed(3) + ", " + pos.z.toFixed(3) + ")");
+          this.populatePaperDetails(cId, id);
+          return;
+        }
+
+        if (this.hover.type === "sphere") this.focusCluster(this.hover.clusterId);
+      }
+
+      /* ===== Info panel helpers ===== */
+      pickFirstString(obj, keys) {
+        for (const k of keys) {
+          const v = obj?.[k];
+          if (typeof v === "string" && v.trim()) return v.trim();
+        }
+        return "";
+      }
+
+      pickFirstYear(obj, keys) {
+        for (const k of keys) {
+          const v = obj?.[k];
+          if ((typeof v === "number" && Number.isFinite(v)) || (typeof v === "string" && v.trim())) return String(v).trim();
+        }
+        return "";
+      }
+
+      updateEmptyHint() {
+        const info = this.dom.info;
+        if (!info) return;
+        const rows = [].slice.call(info.querySelectorAll("p")).filter(p => p.id !== "empty-hint");
+        const anyVisible = rows.some(p => p.style.display !== "none");
+        if (this.dom.emptyHint) this.dom.emptyHint.style.display = anyVisible ? "none" : "";
+      }
+
+      setRowText(id, value) {
+        const span = typeof id === "string" ? document.getElementById(id) : id;
+        if (!span) return;
+        const row = span.closest("p");
+        const has = value !== null && value !== undefined && String(value).trim() !== "";
+        if (has) {
+          span.textContent = value;
+          if (row) row.style.display = "";
+        } else {
+          span.textContent = "";
+          if (row) row.style.display = "none";
+        }
+        this.updateEmptyHint();
+      }
+
+      setLinkValue(url) {
+        const a = this.dom.paperLink, row = this.dom.paperLinkRow;
+        if (!a || !row) return;
+        const has = typeof url === "string" && url.trim() !== "";
+        if (has) {
+          a.textContent = "[pdf]";
+          a.href = url;
+          a.removeAttribute("aria-disabled");
+          a.setAttribute("title", url);
+          row.classList.add("has-link");
+          row.style.display = "";
+        } else {
+          a.textContent = "";
+          a.removeAttribute("href");
+          a.setAttribute("aria-disabled","true");
+          a.removeAttribute("title");
+          row.classList.remove("has-link");
+          row.style.display = "none";
+        }
+        this.updateEmptyHint();
+      }
+
+      initInfoPanelState() {
+        this.setRowText("paper-id", "");
+        this.setRowText("cluster-id", "");
+        this.setRowText("paper-pos", "");
+        this.setRowText("paper-title", "");
+        this.setRowText("paper-venue", "");
+        this.setRowText("paper-authors", "");
+        this.setLinkValue("");
+        this.setRowText("cluster-summary", "");
+        this.showTrend(null);
+        this.updateEmptyHint();
+      }
+
+      focusCluster(cId, { preserve = false } = {}) {
+        if (!this.pointsGroup) return;
+
+        this.pointsGroup.children.forEach((mesh) => {
+          const on = mesh.userData.clusterId === cId;
+          mesh.material.opacity = on ? 1.0 : 0.03;
+          mesh.material.depthWrite = on;
+          mesh.material.needsUpdate = true;
+        });
+
+        this.highlightSphere(cId);
+
+        const meta = this.clusterMetaById.get(cId);
+        this.setRowText("cluster-id", String(cId));
+
+        if (!preserve) {
+          // Clear previous paper-specific details but keep Venue slot intact for cluster venue.
+          this.setRowText("paper-id", "");
+          this.resetPaperDetails({ keepVenue: true });
+
+          // (A) coordinates from cluster center
+          const coords = (meta && Array.isArray(meta.center))
+            ? "(" + (meta.center || []).map(v => Number(v).toFixed(3)).join(", ") + ")"
+            : "";
+          this.setRowText("paper-pos", coords);
+
+          // (B) Venue from cluster metadata (falls back to domain)
+          const venueText = this.formatVenueCode(meta?.venue || meta?.domain || "");
+          this.setRowText("paper-venue", venueText);
+        }
+
+        this.updateClusterSummary(cId);
+        this.showTrend(cId);
+
+        const domain = (meta && meta.domain) ? meta.domain : "unknown";
+        if (this.legendState.selectedDomain !== domain) {
+          this.legendState.selectedDomain = domain;
+          const legendOpen = document.getElementById("legend")?.classList.contains("open");
+          this.buildLegend();
+          if (legendOpen) {
+            document.getElementById("legend").classList.add("open");
+            document.getElementById("legend").setAttribute("aria-hidden","false");
+          }
+        }
+
+        this.legendState.selected = cId;
+        this.applyLegendSelectionClass();
+      }
+
+      clearFocus() {
+        if (this.pointsGroup) {
+          this.pointsGroup.children.forEach((m) => {
+            m.material.opacity = this.currentPointsOpacity;
+            m.material.depthWrite = true;
+            m.material.needsUpdate = true;
+          });
+        }
+        this.resetSphereAppearance();
+        this.legendState.selected = null;
+        this.applyLegendSelectionClass();
+
+        this.setRowText("cluster-id", "");
+        this.setRowText("paper-id", "");
+        this.setRowText("paper-pos", "");
+        this.setRowText("paper-venue", "");
+        this.setRowText("cluster-summary", "");
+        this.resetPaperDetails();
+        this.showTrend(null);
+        this.hover = { mesh: null, instanceId: null, clusterId: null, type: null };
+      }
+
+      formatVenueCode(raw) {
+        const s = String(raw || "").trim();
+        if (!s) return "";
+        // If ends with two digits (cvpr23, iclr-25, neurips'24), drop the digits and keep letters
+        const m = s.match(/^([A-Za-z]+)[\s_\-']?\d{2}$/);
+        const base = m ? m[1] : s;
+        return base.toUpperCase();
+      }
+
+      highlightSphere(cId) {
+        if (!this.clusterMeshesById.size) return;
+        this.clusterMeshesById.forEach((mesh, id) => {
+          mesh.material.opacity = (id === cId) ? SPHERE_FOCUS_OPACITY : SPHERE_DIM_OPACITY;
+          mesh.material.needsUpdate = true;
+        });
+      }
+
+      resetSphereAppearance() {
+        this.clusterMeshesById.forEach((mesh) => {
+          mesh.material.opacity = this.currentSphereBaseOpacity;
+          mesh.material.needsUpdate = true;
+        });
+      }
+
+      _cleanupAuthorExpansion() {
+        const paperAuthorsP = document.getElementById("paper-authors-p");
+        if (paperAuthorsP) {
+          const existingBtn = paperAuthorsP.querySelector(".expand-btn");
+          if (existingBtn) existingBtn.remove();
+        }
+        if (this.dom.paperAuthors) this.dom.paperAuthors.classList.remove("collapsed");
+      }
+
+      resetPaperDetails({ keepVenue = false } = {}) {
+        this._cleanupAuthorExpansion();
+        this.paperDetailRequestId++;
+        this.setRowText("paper-title", "");
+        this.setRowText("paper-authors", "");
+        if (!keepVenue) this.setRowText("paper-venue", "");
+        this.setLinkValue("");
+      }
+
+      setPaperDetailLoading() {
+        this._cleanupAuthorExpansion();
+        this.setRowText("paper-title", "");
+        this.setRowText("paper-authors", "");
+        this.setRowText("paper-venue", "");
+        this.setLinkValue("");
+      }
+
+      showPaperDetailsUnavailable() {
+        this._cleanupAuthorExpansion();
+        this.setRowText("paper-title", "");
+        this.setRowText("paper-authors", "");
+        this.setRowText("paper-venue", "");
+        this.setLinkValue("");
+      }
+
+      getClusterDetailFileName(clusterId) {
+        if (this.clusterDetailsIndex.has(clusterId)) {
+          const entry = this.clusterDetailsIndex.get(clusterId);
+          if (entry && typeof entry.file === "string" && entry.file.trim()) return entry.file.trim().replace(/\\/g, "/");
+        }
+        return "cluster_" + clusterId + ".json";
+      }
+
+      resolveClusterDetailPath(fileName) {
+        if (!this.clusterDetailsBasePath) return null;
+        if (typeof fileName !== "string" || !fileName.trim()) return null;
+        const norm = fileName.trim().replace(/\\/g, "/");
+        if (norm.startsWith("/")) return norm;
+        const base = this.clusterDetailsBasePath.endsWith("/") ? this.clusterDetailsBasePath : this.clusterDetailsBasePath + "/";
+        return base + norm.replace(/^\.\//, "");
+      }
+
+      async fetchClusterDetails(clusterId) {
+        if (!this.clusterDetailsBasePath) return null;
+        if (this.clusterDetailsCache.has(clusterId)) return this.clusterDetailsCache.get(clusterId);
+        const file = this.getClusterDetailFileName(clusterId);
+        const path = this.resolveClusterDetailPath(file);
+        if (!path) {
+          this.clusterDetailsCache.set(clusterId, Promise.resolve(null));
+          return null;
+        }
+        const p = fetch(path).then((res) => (res.ok ? res.json() : null)).catch(() => null);
+        this.clusterDetailsCache.set(clusterId, p);
+        return p;
+      }
+
+      async populatePaperDetails(clusterId, recordId) {
+        if (!Number.isFinite(clusterId) || !recordId) {
+          this.resetPaperDetails();
+          return;
+        }
+        const req = ++this.paperDetailRequestId;
+        this.setPaperDetailLoading();
+        if (!this.clusterDetailsBasePath) return;
+
+        try {
+          const data = await this.fetchClusterDetails(clusterId);
+          if (req !== this.paperDetailRequestId) return;
+          if (!data || !Array.isArray(data.papers)) {
+            this.showPaperDetailsUnavailable();
+            return;
+          }
+          const match = data.papers.find((p) => p && (p.id === recordId || p.paper_id === recordId));
+          if (!match) {
+            this.showPaperDetailsUnavailable();
+            return;
+          }
+
+          const titleRaw = (typeof match.title === "string" && match.title.trim()) ? match.title.trim() : "";
+          const authorsRaw = (typeof match.authors === "string" && match.authors.trim()) ? match.authors.trim() : "";
+          const linkRaw = (typeof match.paper_url === "string" && match.paper_url.trim()) ? match.paper_url.trim() : "";
+
+          this.setRowText("paper-title", titleRaw);
+
+          const rawVenue = this.pickFirstString(match, ["venue","venue_short","publication","journal","conference","booktitle"]);
+          const venueText = this.formatVenueCode(rawVenue);
+          this.setRowText("paper-venue", venueText);
+
+          this._cleanupAuthorExpansion();
+          this.setRowText("paper-authors", authorsRaw);
+
+          const authorsSpan = this.dom.paperAuthors;
+          if (authorsRaw && authorsSpan && authorsSpan.closest("p").style.display !== "none") {
+            const lineHeightStyle = getComputedStyle(authorsSpan).lineHeight;
+            const fontSize = parseFloat(getComputedStyle(authorsSpan).fontSize);
+            const singleLineHeight = lineHeightStyle.endsWith('px') ? parseFloat(lineHeightStyle) : parseFloat(lineHeightStyle) * fontSize;
+            const twoLinesHeight = singleLineHeight * 2;
+            authorsSpan.classList.remove('collapsed');
+            const fullHeight = authorsSpan.offsetHeight;
+            if (fullHeight > twoLinesHeight + 1) {
+              authorsSpan.classList.add('collapsed');
+              const btn = document.createElement('button');
+              btn.textContent = 'more';
+              btn.className = 'expand-btn';
+              btn.onclick = () => {
+                authorsSpan.classList.toggle('collapsed');
+                btn.textContent = authorsSpan.classList.contains('collapsed') ? 'more' : 'less';
+              };
+              document.getElementById('paper-authors-p').appendChild(btn);
+            }
+          }
+
+          this.setLinkValue(linkRaw);
+        } catch (e) {
+          if (req !== this.paperDetailRequestId) return;
+          this.showPaperDetailsUnavailable();
+        }
+      }
+
+      updateClusterSummary(clusterId) {
+        const meta = clusterId !== null ? this.clusterMetaById.get(clusterId) : null;
+        const s = typeof meta?.summary === "string" ? meta.summary.trim() : "";
+        this.setRowText("cluster-summary", s);
+      }
+
+      /* ---------- Trend figure helpers (NEW) ---------- */
+      showTrend(clusterId) {
+        const row = this.dom.trendRow, img = this.dom.trendImg;
+        if (!row || !img) return;
+        if (!Number.isFinite(clusterId)) {
+          row.style.display = "none";
+          img.removeAttribute("src");
+          img.alt = "Cluster trend";
+          return;
+        }
+        const src = "assets/figures/" + clusterId + ".png";
+        img.onload = () => { row.style.display = ""; };
+        img.onerror = () => { row.style.display = "none"; img.removeAttribute("src"); };
+        img.alt = "Cluster " + clusterId + " trend";
+        img.src = src;
+      }
+
+      /* ---------- center legend ---------- */
+      bindCenterLegend() {
+        const map = {
+          ai: document.getElementById("btn-center-ai"),
+          science: document.getElementById("btn-center-science"),
+          all: document.getElementById("btn-center-all"),
+        };
+        Object.entries(map).forEach(([name, btn]) => {
+          if (!btn) return;
+          btn.addEventListener("click", () => this.setCenterByName(name));
+        });
+        this.centerButtons = map;
+      }
+
+      updateCenterLegendAvailability() {
+        if (!this.centerButtons) return;
+        for (const [name, btn] of Object.entries(this.centerButtons)) {
+          if (!btn) continue;
+          const hasCenter = !!(this.groupCenters?.[name]?.center);
+          btn.disabled = !hasCenter;
+        }
+      }
+
+      setActiveCenterButton(name) {
+        if (!this.centerButtons) return;
+        for (const [n, btn] of Object.entries(this.centerButtons)) {
+          if (!btn) continue;
+          btn.classList.toggle("active", n === name);
+        }
+        this.activeCenter = name;
+      }
+
+      /* ---- UPDATED: move axes to new center with configurable zoom ---- */
+      setViewCenter(center, { animate = true, zoomFactor = this.focusZoomFactor } = {}) {
+        if (!center || center.length !== 3) return;
+        const newTarget = new THREE.Vector3(center[0], center[1], center[2]);
+
+        // Keep current viewing direction, but adjust distance toward the target
+        const currentOffset = new THREE.Vector3().subVectors(this.camera.position, this.controls.target);
+        if (currentOffset.lengthSq() > 1e-6) {
+          this.defaultViewFallbackDir = currentOffset.clone().normalize();
+        }
+
+        let direction = currentOffset.clone();
+        if (direction.lengthSq() <= 1e-6) {
+          direction = this.defaultViewFallbackDir.clone();
+        }
+        if (direction.lengthSq() <= 1e-6) {
+          direction.set(1, 0, 0);
+        }
+        direction.normalize();
+
+        const baseDistance = (Number.isFinite(this.defaultViewDistance) && this.defaultViewDistance > 0)
+          ? this.defaultViewDistance
+          : Math.max(currentOffset.length(), 1);
+        const targetOffset = direction.multiplyScalar(baseDistance * zoomFactor);
+        const endPos = new THREE.Vector3().addVectors(newTarget, targetOffset);
+
+        // Recenter the axis lines/labels to this focal point
+        this.setupAxesLabels(center);
+
+        if (!animate) {
+          this.controls.target.copy(newTarget);
+          this.camera.position.copy(endPos);
+          this.controls.update();
+          return;
+        }
+
+        const startT = this.controls.target.clone();
+        const startP = this.camera.position.clone();
+        const duration = 600;
+        const t0 = performance.now();
+        const easeInOut = (t) => t < 0.5 ? 2*t*t : -1 + (4 - 2*t)*t;
+
+        const step = (now) => {
+          const k = Math.min(1, (now - t0) / duration);
+          const e = easeInOut(k);
+          this.controls.target.lerpVectors(startT, newTarget, e);
+          this.camera.position.lerpVectors(startP, endPos, e);
+          this.controls.update();
+          if (k < 1) requestAnimationFrame(step);
+        };
+        requestAnimationFrame(step);
+      }
+
+      setCenterByName(name, { animate = true } = {}) {
+        if (this.activeCenter === name) return;
+        const gc = this.groupCenters?.[name];
+        if (!gc || !Array.isArray(gc.center)) return;
+        const zoomFactor = name === "all" ? this.allZoomFactor : this.focusZoomFactor;
+        this.setViewCenter(gc.center, { animate, zoomFactor });
+        this.setActiveCenterButton(name);
+      }
+
+      /* ---------- display panel ---------- */
+      bindDisplayPanel() {
+        this.displayButtons = {
+          paper: document.getElementById("btn-display-paper"),
+          cluster: document.getElementById("btn-display-cluster"),
+        };
+        if (!this.displayButtons.paper || !this.displayButtons.cluster) return;
+        this.displayButtons.paper.addEventListener("click", () => this.setDisplayMode("paper"));
+        this.displayButtons.cluster.addEventListener("click", () => this.setDisplayMode("cluster"));
+        this.setDisplayMode("paper", {applyNow:true}); // default
+      }
+
+      setActiveDisplayButton(mode) {
+        if (!this.displayButtons) return;
+        Object.entries(this.displayButtons).forEach(([m, btn]) => {
+          if (btn) btn.classList.toggle("active", m === mode);
+        });
+      }
+
+      /** Switch between 'paper' and 'cluster' display presets. */
+      setDisplayMode(mode, {applyNow=true} = {}) {
+        if (!this.modeStyles[mode]) return;
+        this.displayMode = mode;
+        this.currentPointsOpacity = this.modeStyles[mode].points;
+        this.currentSphereBaseOpacity = this.modeStyles[mode].sphere;
+
+        this.setActiveDisplayButton(mode);
+
+        // If a cluster is focused, keep the focus styling; otherwise apply global look.
+        const hasFocus = this.legendState?.selected != null;
+
+        if (applyNow && this.pointsGroup && !hasFocus) {
+          this.pointsGroup.children.forEach((m) => {
+            m.material.opacity = this.currentPointsOpacity;
+            m.material.depthWrite = true;
+            m.material.needsUpdate = true;
+          });
+        }
+        if (applyNow && !hasFocus) this.resetSphereAppearance();
+      }
+
+      toggleAutoRotate() {
+        this.controls.autoRotate = !this.controls.autoRotate;
+        document.getElementById("btn-auto-rotate").style.opacity = this.controls.autoRotate ? "1" : ".5";
+      }
+
+      resetView() {
+        this.clearFocus();
+        this.frameAll();
+        this.setupAxesLabels(); // ensure axes return to global center on reset
+      }
+
+      onResize() {
+        const container = document.getElementById("canvas-container");
+        this.camera.aspect = container.clientWidth / container.clientHeight;
+        this.camera.updateProjectionMatrix();
+        this.renderer.setSize(container.clientWidth, container.clientHeight);
+        this.composer.setSize(container.clientWidth, container.clientHeight);
+        this.labelRenderer.setSize(container.clientWidth, container.clientHeight);
+        if (this.bloom) this.bloom.setSize(container.clientWidth, container.clientHeight);
+      }
+
+      /* =======================
+         YEAR FILTER (NEW)
+         ======================= */
+
+      bindYearPanel() {
+        const panel = document.getElementById("year-panel");
+        if (!panel) return;
+
+        const btns = panel.querySelectorAll("button[data-year]");
+        this.yearButtons = btns;
+
+        btns.forEach((btn) => {
+          btn.addEventListener("click", () => {
+            const y = parseInt(btn.getAttribute("data-year"), 10);
+            if (!Number.isFinite(y)) return;
+            const nowActive = !btn.classList.contains("active");
+            btn.classList.toggle("active", nowActive);
+
+            if (nowActive) {
+              this.selectedYears.add(y);
+            } else {
+              this.selectedYears.delete(y);
+            }
+            // Apply the filter using current selection
+            this.applyYearFilter();
+          });
+        });
+      }
+
+      parseYearFromVenue(venue) {
+        // Extract last two digits; map 00-99 -> 2000-2099
+        const s = String(venue || "").trim();
+        const m = s.match(/(\d{2})\s*$/);
+        if (!m) return null;
+        const yy = parseInt(m[1], 10);
+        if (!Number.isFinite(yy)) return null;
+        const full = 2000 + yy;
+        if (full < 2000 || full > 2099) return null;
+        return full;
+      }
+
+      async buildPaperYearIndex() {
+        // Build id -> year from all cluster detail JSONs, if available.
+        if (!this.clusterDetailsBasePath || !this.meta || !Array.isArray(this.meta.clusters)) return;
+        const tasks = this.meta.clusters.map(async (cl) => {
+          const det = await this.fetchClusterDetails(cl.cluster_id);
+          if (det && Array.isArray(det.papers)) {
+            for (const p of det.papers) {
+              const pid = (p && (p.id || p.paper_id)) ? String(p.id || p.paper_id) : null;
+              if (!pid) continue;
+              const venueRaw = this.pickFirstString(p, ["venue","venue_short","publication","journal","conference","booktitle"]);
+              const yr = this.parseYearFromVenue(venueRaw);
+              if (yr) this.paperYearById.set(pid, yr);
+            }
+          }
+        });
+
+        await Promise.all(tasks).catch(() => {});
+        // After index is ready, apply current filter state
+        this.applyYearFilter(true);
+      }
+
+      applyYearFilter(initial = false) {
+        if (!this.pointsGroup || !this.paperData || !this.paperData.positions) return;
+        const positions = this.paperData.positions;
+        const dummy = new THREE.Object3D();
+
+        this.pointsGroup.children.forEach((mesh) => {
+          let changed = false;
+          mesh.userData.paperIdxByInstance.forEach((pIdx, iInst) => {
+            const id = this.paperData.paperIds[pIdx];
+            const year = this.paperYearById.get(id);
+            const visible = (year == null) ? true : this.selectedYears.has(year);
+
+            const x = positions[pIdx * 3], y = positions[pIdx * 3 + 1], z = positions[pIdx * 3 + 2];
+            const s = visible ? 1 : 0.00001; // effectively hide by scaling to ~0
+            dummy.position.set(x, y, z);
+            dummy.rotation.set(0, 0, 0);
+            dummy.scale.set(s, s, s);
+            dummy.updateMatrix();
+            mesh.setMatrixAt(iInst, dummy.matrix);
+            changed = true;
+          });
+          if (changed) mesh.instanceMatrix.needsUpdate = true;
+        });
+
+        // No need to change sphere visibility; filter only affects points.
+        // If we applied initially after index load and a cluster is focused, keep focus materials.
+        if (!initial && this.legendState?.selected == null) {
+          // keep current global opacities
+        }
+      }
+    }
+
+    new PaperVisualizer();
+  </script>
+</body>
+</html>

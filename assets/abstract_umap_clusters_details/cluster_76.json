@@ -1,0 +1,2013 @@
+{
+  "cluster_id": 76,
+  "papers": [
+    {
+      "id": "iclr23_5cFfz6yMVPU",
+      "paper_id": "5cFfz6yMVPU",
+      "title": "$\\mathcal{O}$-GNN: incorporating ring priors into molecular modeling",
+      "authors": "Jinhua Zhu, Kehan Wu, Bohan Wang, Yingce Xia, Shufang Xie, Qi Meng, Lijun Wu, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/739b8d7a36ec0e20701ec29391fe2280b5bcfd98.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_kJqXEPXMsE0",
+      "paper_id": "kJqXEPXMsE0",
+      "title": "3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction",
+      "authors": "Jiaqi Guan, Wesley Wei Qian, Xingang Peng, Yufeng Su, Jian Peng, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf/7d2f5804455f227aebb0b02ed88a71d50f3ad49a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_eGqQyTAbXC",
+      "paper_id": "eGqQyTAbXC",
+      "title": "3D-MolT5: Leveraging Discrete Structural Information for Molecule-Text Modeling",
+      "authors": "Qizhi Pei, Rui Yan, Kaiyuan Gao, Jinhua Zhu, Lijun Wu",
+      "paper_url": "https://openreview.net/pdf?id=eGqQyTAbXC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RgE1qiO2ek",
+      "paper_id": "RgE1qiO2ek",
+      "title": "3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery",
+      "authors": "Xiuyuan Hu, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu",
+      "paper_url": "https://openreview.net/pdf?id=RgE1qiO2ek",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_65XDF_nwI61",
+      "paper_id": "65XDF_nwI61",
+      "title": "A Graph Neural Network Approach to Automated Model Building in Cryo-EM Maps",
+      "authors": "Kiarash Jamali, Dari Kimanius, Sjors HW Scheres",
+      "paper_url": "https://openreview.net/pdf/bdb1a16f91aaf86c92ff8410163dc3ed726877bc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_qFZnAC4GHR",
+      "paper_id": "qFZnAC4GHR",
+      "title": "A new framework for evaluating model out-of-distribution generalisation for the biochemical domain",
+      "authors": "Raul Fernandez-Diaz, Hoang Thanh Lam, Vanessa López, Denis C. Shields",
+      "paper_url": "https://openreview.net/pdf?id=qFZnAC4GHR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Lz0XW99tE0",
+      "paper_id": "Lz0XW99tE0",
+      "title": "A Periodic Bayesian Flow for Material Generation",
+      "authors": "Hanlin Wu, Yuxuan Song, Jingjing Gong, Ziyao Cao, Yawen Ouyang, Jianbing Zhang, Hao Zhou, Wei-Ying Ma, Jingjing Liu",
+      "paper_url": "https://openreview.net/pdf?id=Lz0XW99tE0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_xveTeHVlF7j",
+      "paper_id": "xveTeHVlF7j",
+      "title": "A Self-Attention Ansatz for Ab-initio Quantum Chemistry",
+      "authors": "Ingrid von Glehn, James S Spencer, David Pfau",
+      "paper_url": "https://openreview.net/pdf/02b8c1b08a56dbb60e314580d4e3579fc1b24bf8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_IxmWIkcKs5",
+      "paper_id": "IxmWIkcKs5",
+      "title": "A Simple yet Effective $\\Delta\\Delta G$ Predictor is An Unsupervised Antibody Optimizer and Explainer",
+      "authors": "Lirong Wu, Yunfan Liu, Haitao Lin, Yufei Huang, Guojiang Zhao, Zhifeng Gao, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=IxmWIkcKs5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OIvg3MqWX2",
+      "paper_id": "OIvg3MqWX2",
+      "title": "A Theoretically-Principled Sparse, Connected, and Rigid Graph Representation of Molecules",
+      "authors": "Shih-Hsin Wang, Yuhao Huang, Justin M. Baker, Yuan-En Sun, Qi Tang, Bao Wang",
+      "paper_url": "https://openreview.net/pdf?id=OIvg3MqWX2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_apv504XsysP",
+      "paper_id": "apv504XsysP",
+      "title": "Ab-Initio Potential Energy Surfaces by Pairing GNNs with Neural Wave Functions",
+      "authors": "Nicholas Gao, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/c55015744159581849683b350d34f68681b90315.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_VGURexnlUL",
+      "paper_id": "VGURexnlUL",
+      "title": "Accelerating 3D Molecule Generation via Jointly Geometric Optimal Transport",
+      "authors": "Haokai Hong, Wanyu Lin, KC Tan",
+      "paper_url": "https://openreview.net/pdf?id=VGURexnlUL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_h7DGnWGeos",
+      "paper_id": "h7DGnWGeos",
+      "title": "Active Retrosynthetic Planning Aware of Route Quality",
+      "authors": "Luotian Yuan, Yemin Yu, Ying Wei, Yongwei Wang, Zhihua Wang, Fei Wu",
+      "paper_url": "https://openreview.net/pdf?id=h7DGnWGeos",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_FRxhHdnxt1",
+      "paper_id": "FRxhHdnxt1",
+      "title": "Amortized Tree Generation for Bottom-up Synthesis Planning and Synthesizable Molecular Design",
+      "authors": "Wenhao Gao, Rocío Mercado, Connor W. Coley",
+      "paper_url": "https://openreview.net/pdf/9a1a1ce4faf67f9a0f649866c9158c2f0f055db1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_C03Ajc-NS5W",
+      "paper_id": "C03Ajc-NS5W",
+      "title": "An Autoregressive Flow Model for 3D Molecular Geometry Generation from Scratch",
+      "authors": "Youzhi Luo, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf/d95291386d651afeb3ab8482526cdc9564159d8e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_FZoZ7a31GCW",
+      "paper_id": "FZoZ7a31GCW",
+      "title": "Ancestral protein sequence reconstruction using a tree-structured Ornstein-Uhlenbeck variational autoencoder",
+      "authors": "Lys Sanz Moreta, Ola Rønning, Ahmad Salim Al-Sibahi, Jotun Hein, Douglas Theobald, Thomas Hamelryck",
+      "paper_url": "https://openreview.net/pdf/375306f629eb94307d85be89f055c937f95bde83.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_jckKNzYYA6",
+      "paper_id": "jckKNzYYA6",
+      "title": "AssembleFlow: Rigid Flow Matching with Inertial Frames for Molecular Assembly",
+      "authors": "Hongyu Guo, Yoshua Bengio, Shengchao Liu",
+      "paper_url": "https://openreview.net/pdf?id=jckKNzYYA6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mun3bGqdDM",
+      "paper_id": "mun3bGqdDM",
+      "title": "Atomas: Hierarchical Adaptive Alignment on Molecule-Text for Unified Molecule Understanding and Generation",
+      "authors": "Yikun Zhang, Geyan Ye, Chaohao Yuan, Bo Han, Long-Kai Huang, Jianhua Yao, Wei Liu, Yu Rong",
+      "paper_url": "https://openreview.net/pdf?id=mun3bGqdDM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ARQIJXFcTH",
+      "paper_id": "ARQIJXFcTH",
+      "title": "AtomSurf: Surface Representation for Learning on Protein Structures",
+      "authors": "Vincent Mallet, Yangyang Miao, Souhaib Attaiki, Bruno Correia, Maks Ovsjanikov",
+      "paper_url": "https://openreview.net/pdf?id=ARQIJXFcTH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sxGugrYhP9",
+      "paper_id": "sxGugrYhP9",
+      "title": "BatteryML: An Open-source Platform for Machine Learning on Battery Degradation",
+      "authors": "Han Zhang, Xiaofan Gui, Shun Zheng, Ziheng Lu, Yuqi Li, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=sxGugrYhP9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_E48QvQppIN",
+      "paper_id": "E48QvQppIN",
+      "title": "Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences",
+      "authors": "Alan Nawzad Amin, Nate Gruver, Yilun Kuang, Yucen Lily Li, Hunter Elliott, Calvin McCarter, Aniruddh Raghu, Peyton Greenside, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf?id=E48QvQppIN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7UhxsmbdaQ",
+      "paper_id": "7UhxsmbdaQ",
+      "title": "Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design",
+      "authors": "Jeff Guo, Philippe Schwaller",
+      "paper_url": "https://openreview.net/pdf?id=7UhxsmbdaQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_uKB4cFNQFg",
+      "paper_id": "uKB4cFNQFg",
+      "title": "BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks",
+      "authors": "Frederikke Isa Marin, Felix Teufel, Marc Horlacher, Dennis Madsen, Dennis Pultz, Ole Winther, Wouter Boomsma",
+      "paper_url": "https://openreview.net/pdf?id=uKB4cFNQFg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_YWtLZvLmud7",
+      "paper_id": "YWtLZvLmud7",
+      "title": "BERTology Meets Biology: Interpreting Attention in Protein Language Models",
+      "authors": "Jesse Vig, Ali Madani, Lav R. Varshney, Caiming Xiong, richard socher, Nazneen Rajani",
+      "paper_url": "https://openreview.net/pdf/8fe71cea00c77fd4bce646070f7b96ef9300e91d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_9htTvHkUhh",
+      "paper_id": "9htTvHkUhh",
+      "title": "Beyond Sequence: Impact of Geometric Context for RNA Property Prediction",
+      "authors": "Junjie Xu, Artem Moskalev, Tommaso Mansi, Mangal Prakash, Rui Liao",
+      "paper_url": "https://openreview.net/pdf?id=9htTvHkUhh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IjbXZdugdj",
+      "paper_id": "IjbXZdugdj",
+      "title": "Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences",
+      "authors": "Niklas Schmidinger, Lisa Schneckenreiter, Philipp Seidl, Johannes Schimunek, Pieter-Jan Hoedt, Johannes Brandstetter, Andreas Mayr, Sohvi Luukkonen, Sepp Hochreiter, Günter Klambauer",
+      "paper_url": "https://openreview.net/pdf?id=IjbXZdugdj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HAwZGLcye3",
+      "paper_id": "HAwZGLcye3",
+      "title": "BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments",
+      "authors": "Yusuf H Roohani, Andrew H. Lee, Qian Huang, Jian Vora, Zachary Steinhart, Kexin Huang, Alexander Marson, Percy Liang, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf?id=HAwZGLcye3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lzdFImKK8w",
+      "paper_id": "lzdFImKK8w",
+      "title": "Boltzmann-Aligned Inverse Folding Model as a Predictor of Mutational Effects on Protein-Protein Interactions",
+      "authors": "Xiaoran Jiao, Weian Mao, Wengong Jin, Peiyuan Yang, Hao Chen, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=lzdFImKK8w",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SjMtxqdQ73",
+      "paper_id": "SjMtxqdQ73",
+      "title": "Bridging the Gap between Database Search and \\emph{De Novo} Peptide Sequencing with SearchNovo",
+      "authors": "Jun Xia, Sizhe Liu, Jingbo Zhou, Shaorong Chen, hongxin xiang, Zicheng Liu, Yue Liu, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=SjMtxqdQ73",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mOpNrrV2zH",
+      "paper_id": "mOpNrrV2zH",
+      "title": "CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph",
+      "authors": "Haitao Lin, Guojiang Zhao, Odin Zhang, Yufei Huang, Lirong Wu, Cheng Tan, Zicheng Liu, Zhifeng Gao, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=mOpNrrV2zH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BKXvPDekud",
+      "paper_id": "BKXvPDekud",
+      "title": "CellPLM: Pre-training of Cell Language Model Beyond Single Cells",
+      "authors": "Hongzhi Wen, Wenzhuo Tang, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang",
+      "paper_url": "https://openreview.net/pdf?id=BKXvPDekud",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_CsOIYMOZaV",
+      "paper_id": "CsOIYMOZaV",
+      "title": "CFD: Learning Generalized Molecular Representation via Concept-Enhanced  Feedback Disentanglement",
+      "authors": "Aming WU, Cheng Deng",
+      "paper_url": "https://openreview.net/pdf?id=CsOIYMOZaV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_A1HhtITVEi",
+      "paper_id": "A1HhtITVEi",
+      "title": "CheapNet: Cross-attention on Hierarchical representations for Efficient protein-ligand binding Affinity Prediction",
+      "authors": "Hyukjun Lim, Sun Kim, Sangseon Lee",
+      "paper_url": "https://openreview.net/pdf?id=A1HhtITVEi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kuhIqeVg0e",
+      "paper_id": "kuhIqeVg0e",
+      "title": "ChemAgent: Self-updating Memories in Large Language Models Improves Chemical Reasoning",
+      "authors": "Xiangru Tang, Tianyu Hu, Muyang Ye, Yanjun Shao, Xunjian Yin, Siru Ouyang, Wangchunshu Zhou, Pan Lu, Zhuosheng Zhang, Yilun Zhao, Arman Cohan, Mark Gerstein",
+      "paper_url": "https://openreview.net/pdf?id=kuhIqeVg0e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_6sh3pIzKS-",
+      "paper_id": "6sh3pIzKS-",
+      "title": "Chemical-Reaction-Aware Molecule Representation Learning",
+      "authors": "Hongwei Wang, Weijiang Li, Xiaomeng Jin, Kyunghyun Cho, Heng Ji, Jiawei Han, Martin D. Burke",
+      "paper_url": "https://openreview.net/pdf/90448ed39b2846f07097bae6944cbb6a3e2bdaf5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fv9XU7CyN2",
+      "paper_id": "fv9XU7CyN2",
+      "title": "CL-MFAP: A Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction and Antibiotic Screening",
+      "authors": "Gen Zhou, Sugitha Janarthanan, Yutong Lu, Pingzhao Hu",
+      "paper_url": "https://openreview.net/pdf?id=fv9XU7CyN2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BnQY9XiRAS",
+      "paper_id": "BnQY9XiRAS",
+      "title": "Complete and Efficient Graph Transformers for Crystal Material Property Prediction",
+      "authors": "Keqiang Yan, Cong Fu, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf?id=BnQY9XiRAS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gHLWTzKiZV",
+      "paper_id": "gHLWTzKiZV",
+      "title": "Composing Unbalanced Flows for Flexible Docking and Relaxation",
+      "authors": "Gabriele Corso, Vignesh Ram Somnath, Noah Getz, Regina Barzilay, Tommi Jaakkola, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf?id=gHLWTzKiZV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Yt9CFhOOFe",
+      "paper_id": "Yt9CFhOOFe",
+      "title": "Concept Bottleneck Language Models For Protein Design",
+      "authors": "Aya Abdelsalam Ismail, Tuomas Oikarinen, Amy Wang, Julius Adebayo, Samuel Don Stanton, Hector Corrada Bravo, Kyunghyun Cho, Nathan C. Frey",
+      "paper_url": "https://openreview.net/pdf?id=Yt9CFhOOFe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_LFHFQbjxIiP",
+      "paper_id": "LFHFQbjxIiP",
+      "title": "Conditional Antibody Design as 3D Equivariant Graph Translation",
+      "authors": "Xiangzhe Kong, Wenbing Huang, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/3ad0b04b8a9b31f816c7c80ce0cf71fad13fa636.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_q-cnWaaoUTH",
+      "paper_id": "q-cnWaaoUTH",
+      "title": "Conformation-Guided Molecular Representation with Hamiltonian Neural Networks",
+      "authors": "Ziyao Li, Shuwen Yang, Guojie Song, Lingsheng Cai",
+      "paper_url": "https://openreview.net/pdf/7a5a25fdbe36c7b0286d17dafd233f47bf7dd30c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_XrMWUuEevr",
+      "paper_id": "XrMWUuEevr",
+      "title": "Context-enriched molecule representations improve few-shot drug discovery",
+      "authors": "Johannes Schimunek, Philipp Seidl, Lukas Friedrich, Daniel Kuhn, Friedrich Rippmann, Sepp Hochreiter, Günter Klambauer",
+      "paper_url": "https://openreview.net/pdf/9ce1c16c5ecb90ff5b8ff8cf01d769360755f9e5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_P5Z-Zl9XJ7",
+      "paper_id": "P5Z-Zl9XJ7",
+      "title": "Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins",
+      "authors": "Hehe Fan, Zhangyang Wang, Yi Yang, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf/df7205cde5aafbeeadb773e78c03a4eb6be38ef0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_yRrPfKyJQ2",
+      "paper_id": "yRrPfKyJQ2",
+      "title": "Conversational Drug Editing Using Retrieval and Domain Feedback",
+      "authors": "Shengchao Liu, Jiongxiao Wang, Yijin Yang, Chengpeng Wang, Ling Liu, Hongyu Guo, Chaowei Xiao",
+      "paper_url": "https://openreview.net/pdf?id=yRrPfKyJQ2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_T4sMzjy7fO",
+      "paper_id": "T4sMzjy7fO",
+      "title": "CryoFM: A Flow-based Foundation Model for Cryo-EM Densities",
+      "authors": "Yi Zhou, Yilai Li, Jing Yuan, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=T4sMzjy7fO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uOb7rij7sR",
+      "paper_id": "uOb7rij7sR",
+      "title": "CryoGEN: Generative Energy-based Models for Cryogenic Electron Tomography Reconstruction",
+      "authors": "Yunfei Teng, Yuxuan Ren, Kai Chen, Xi Chen, Zhaoming Chen, Qiwei Ye",
+      "paper_url": "https://openreview.net/pdf?id=uOb7rij7sR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_n8O0trhost",
+      "paper_id": "n8O0trhost",
+      "title": "cryoSPHERE: Single-Particle HEterogeneous REconstruction from cryo EM",
+      "authors": "Gabriel Ducrocq, Lukas Grunewald, Sebastian Westenhoff, Fredrik Lindsten",
+      "paper_url": "https://openreview.net/pdf?id=n8O0trhost",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_03RLpj-tc_",
+      "paper_id": "03RLpj-tc_",
+      "title": "Crystal Diffusion Variational Autoencoder for Periodic Material Generation",
+      "authors": "Tian Xie, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf/95e16c7859a352bb2fbe73d3777141e66abbd9bf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_fxQiecl9HB",
+      "paper_id": "fxQiecl9HB",
+      "title": "Crystalformer: Infinitely Connected Attention for Periodic Structure Encoding",
+      "authors": "Tatsunori Taniai, Ryo Igarashi, Yuta Suzuki, Naoya Chiba, Kotaro Saito, Yoshitaka Ushiku, Kanta Ono",
+      "paper_url": "https://openreview.net/pdf?id=fxQiecl9HB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6DHIkLv5i3",
+      "paper_id": "6DHIkLv5i3",
+      "title": "Curriculum-aware Training for Discriminating Molecular Property Prediction Models",
+      "authors": "Hansi Yang, Quanming Yao, James Kwok",
+      "paper_url": "https://openreview.net/pdf?id=6DHIkLv5i3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_aBWnqqsuot7",
+      "paper_id": "aBWnqqsuot7",
+      "title": "D4FT: A Deep Learning Approach to Kohn-Sham Density Functional Theory",
+      "authors": "Tianbo Li, Min Lin, Zheyuan Hu, Kunhao Zheng, Giovanni Vignale, Kenji Kawaguchi, A.H. Castro Neto, Kostya S. Novoselov, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf/2224ef90a640f03ebd92a397a2ffd6bc277a8b16.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ua5MHdsbck",
+      "paper_id": "ua5MHdsbck",
+      "title": "Data Distillation for extrapolative protein design through exact preference optimization",
+      "authors": "Mostafa Karimi, Sharmi Banerjee, Tommi Jaakkola, Bella Dubrov, Shang Shang, Ron Benson",
+      "paper_url": "https://openreview.net/pdf?id=ua5MHdsbck",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_l4IHywGq6a",
+      "paper_id": "l4IHywGq6a",
+      "title": "Data-Efficient Graph Grammar Learning for Molecular Generation",
+      "authors": "Minghao Guo, Veronika Thost, Beichen Li, Payel Das, Jie Chen, Wojciech Matusik",
+      "paper_url": "https://openreview.net/pdf/c17b0db09f98b3279ad677650f18acbf907883ce.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Q_Jexl8-qDi",
+      "paper_id": "Q_Jexl8-qDi",
+      "title": "De Novo Molecular Generation via Connection-aware Motif Mining",
+      "authors": "Zijie Geng, Shufang Xie, Yingce Xia, Lijun Wu, Tao Qin, Jie Wang, Yongdong Zhang, Feng Wu, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/a9499c0afc7fb88fee1a3e168e3d543e7eb275ea.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_9UIGyJJpay",
+      "paper_id": "9UIGyJJpay",
+      "title": "De novo Protein Design Using Geometric Vector Field Networks",
+      "authors": "Weian Mao, Muzhi Zhu, Zheng Sun, Shuaike Shen, Lin Yuanbo Wu, Hao Chen, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=9UIGyJJpay",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Y3BbxvAQS9",
+      "paper_id": "Y3BbxvAQS9",
+      "title": "DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization",
+      "authors": "Xiangxin Zhou, Xiwei Cheng, Yuwei Yang, Yu Bao, Liang Wang, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=Y3BbxvAQS9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_UfBIxpTK10",
+      "paper_id": "UfBIxpTK10",
+      "title": "Deep Confident Steps to New Pockets: Strategies for Docking Generalization",
+      "authors": "Gabriele Corso, Arthur Deng, Nicholas Polizzi, Regina Barzilay, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf?id=UfBIxpTK10",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_4MsfQ2H0lP",
+      "paper_id": "4MsfQ2H0lP",
+      "title": "Deep Reinforcement Learning for Modelling Protein Complexes",
+      "authors": "Ziqi Gao, Tao Feng, Jiaxuan You, Chenyi Zi, Yan Zhou, Chen Zhang, Jia Li",
+      "paper_url": "https://openreview.net/pdf?id=4MsfQ2H0lP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xayT1nn8Mg",
+      "paper_id": "xayT1nn8Mg",
+      "title": "Deep Signature: Characterization of Large-Scale Molecular Dynamics",
+      "authors": "Tiexin Qin, Mengxu ZHU, Chunyang Li, Terry Lyons, Hong Yan, Haoliang Li",
+      "paper_url": "https://openreview.net/pdf?id=xayT1nn8Mg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ym7pr83XQr",
+      "paper_id": "ym7pr83XQr",
+      "title": "DenoiseVAE: Learning Molecule-Adaptive Noise Distributions for Denoising-based 3D Molecular Pre-training",
+      "authors": "Yurou Liu, Jiahao Chen, Rui Jiao, Jiangmeng Li, Wenbing Huang, Bing Su",
+      "paper_url": "https://openreview.net/pdf?id=ym7pr83XQr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DpLFmc09pC",
+      "paper_id": "DpLFmc09pC",
+      "title": "DEPfold: RNA Secondary Structure Prediction as Dependency Parsing.",
+      "authors": "KE WANG, Shay B Cohen",
+      "paper_url": "https://openreview.net/pdf?id=DpLFmc09pC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kKF8_K-mBbS",
+      "paper_id": "kKF8_K-mBbS",
+      "title": "DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking",
+      "authors": "Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf/1b5dd2372dc371a1494d3dcd7822710879750485.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_w_drCosT76",
+      "paper_id": "w_drCosT76",
+      "title": "Differentiable Scaffolding Tree for Molecule Optimization",
+      "authors": "Tianfan Fu, Wenhao Gao, Cao Xiao, Jacob Yasonik, Connor W. Coley, Jimeng Sun",
+      "paper_url": "https://openreview.net/pdf/af1f7e5614adea0e8575cc0ff017f48ce21789e3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_6TxBxqNME1Y",
+      "paper_id": "6TxBxqNME1Y",
+      "title": "Diffusion Probabilistic Modeling of Protein Backbones in 3D for the motif-scaffolding problem",
+      "authors": "Brian L. Trippe, Jason Yim, Doug Tischer, David Baker, Tamara Broderick, Regina Barzilay, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf/9674e0c41114fe41488ab7b7ea23289d7b213496.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_KXrgDM3mVD",
+      "paper_id": "KXrgDM3mVD",
+      "title": "Distilling Structural Representations into Protein Sequence Models",
+      "authors": "Jeffrey Ouyang-Zhang, Chengyue Gong, Yue Zhao, Philipp Kraehenbuehl, Adam Klivans, Daniel Jesus Diaz",
+      "paper_url": "https://openreview.net/pdf?id=KXrgDM3mVD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oMLQB4EZE1",
+      "paper_id": "oMLQB4EZE1",
+      "title": "DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genomes",
+      "authors": "Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana V Davuluri, Han Liu",
+      "paper_url": "https://openreview.net/pdf?id=oMLQB4EZE1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9rPyHyjfwP",
+      "paper_id": "9rPyHyjfwP",
+      "title": "Domain-Agnostic Molecular Generation with Chemical Feedback",
+      "authors": "Yin Fang, Ningyu Zhang, Zhuo Chen, Lingbing Guo, Xiaohui Fan, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=9rPyHyjfwP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5z9GjHgerY",
+      "paper_id": "5z9GjHgerY",
+      "title": "DPLM-2: A Multimodal Diffusion Protein Language Model",
+      "authors": "Xinyou Wang, Zaixiang Zheng, Fei YE, Dongyu Xue, Shujian Huang, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=5z9GjHgerY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jZPqf2G9Sw",
+      "paper_id": "jZPqf2G9Sw",
+      "title": "Dynamics-Informed Protein Design with Structure Conditioning",
+      "authors": "Urszula Julia Komorowska, Simon V Mathis, Kieran Didi, Francisco Vargas, Pietro Lio, Mateja Jamnik",
+      "paper_url": "https://openreview.net/pdf?id=jZPqf2G9Sw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mXHTifc1Fn",
+      "paper_id": "mXHTifc1Fn",
+      "title": "E(3)-equivariant models cannot learn chirality: Field-based molecular generation",
+      "authors": "Alexandru Dumitrescu, Dani Korpela, Markus Heinonen, Yogesh Verma, Valerii Iakovlev, Vikas Garg, Harri Lähdesmäki",
+      "paper_url": "https://openreview.net/pdf?id=mXHTifc1Fn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_sO1QiAftQFv",
+      "paper_id": "sO1QiAftQFv",
+      "title": "E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking",
+      "authors": "Yangtian Zhang, Huiyu Cai, Chence Shi, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/316cc340d0f6c5ff0eff49c211af90a0b26d6896.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_qg2boc2AwU",
+      "paper_id": "qg2boc2AwU",
+      "title": "EBMDock: Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model",
+      "authors": "Huaijin Wu, Wei Liu, Yatao Bian, Jiaxiang Wu, Nianzu Yang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=qg2boc2AwU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SBCMNc3Mq3",
+      "paper_id": "SBCMNc3Mq3",
+      "title": "ECD: A Machine Learning Benchmark for Predicting Enhanced-Precision Electronic Charge Density in Crystalline Inorganic Materials",
+      "authors": "Pin Chen, Zexin Xu, Qing Mo, Hongjin Zhong, Fengyang Xu, Yutong Lu",
+      "paper_url": "https://openreview.net/pdf?id=SBCMNc3Mq3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gVkX9QMBO3",
+      "paper_id": "gVkX9QMBO3",
+      "title": "Efficient Biological Data Acquisition through Inference Set Design",
+      "authors": "Ihor Neporozhnii, Julien Roy, Emmanuel Bengio, Jason Hartford",
+      "paper_url": "https://openreview.net/pdf?id=gVkX9QMBO3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_awWiNvQwf3",
+      "paper_id": "awWiNvQwf3",
+      "title": "Efficient Evolutionary Search Over Chemical Space with Large Language Models",
+      "authors": "Haorui Wang, Marta Skreta, Cher Tian Ser, Wenhao Gao, Lingkai Kong, Felix Strieth-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alan Aspuru-Guzik, Kirill Neklyudov, Chao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=awWiNvQwf3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Od39h4XQ3Y",
+      "paper_id": "Od39h4XQ3Y",
+      "title": "Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models",
+      "authors": "Yili Wang, Kaixiong Zhou, Ninghao Liu, Ying Wang, Xin Wang",
+      "paper_url": "https://openreview.net/pdf?id=Od39h4XQ3Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vBw8JGBJWj",
+      "paper_id": "vBw8JGBJWj",
+      "title": "Encoding Unitig-level Assembly Graphs with Heterophilous Constraints for Metagenomic Contigs Binning",
+      "authors": "Hansheng Xue, Vijini Mallawaarachchi, Lexing Xie, Vaibhav Rajan",
+      "paper_url": "https://openreview.net/pdf?id=vBw8JGBJWj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_smy4DsUbBo",
+      "paper_id": "smy4DsUbBo",
+      "title": "Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials",
+      "authors": "Ivan Grega, Ilyes Batatia, Gabor Csanyi, Sri Karlapati, Vikram Deshpande",
+      "paper_url": "https://openreview.net/pdf?id=smy4DsUbBo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_7QfLW-XZTl",
+      "paper_id": "7QfLW-XZTl",
+      "title": "Energy-Inspired Molecular Conformation Optimization",
+      "authors": "Jiaqi Guan, Wesley Wei Qian, qiang liu, Wei-Ying Ma, Jianzhu Ma, Jian Peng",
+      "paper_url": "https://openreview.net/pdf/4a1d13d340c8727a4bc1ddee07f22d749cf0db8d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_twEvvkQqPS",
+      "paper_id": "twEvvkQqPS",
+      "title": "Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems",
+      "authors": "Yunyang Li, Zaishuo Xia, Lin Huang, Xinran Wei, Samuel Harshe, Han Yang, Erpai Luo, Zun Wang, Jia Zhang, Chang Liu, Bin Shao, Mark Gerstein",
+      "paper_url": "https://openreview.net/pdf?id=twEvvkQqPS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_KwmPfARgOTD",
+      "paper_id": "KwmPfARgOTD",
+      "title": "Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs",
+      "authors": "Yi-Lun Liao, Tess Smidt",
+      "paper_url": "https://openreview.net/pdf/adc86be91e22b350b3f22fb21d5124250509a935.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_r0otLtOwYW",
+      "paper_id": "r0otLtOwYW",
+      "title": "Equivariant Energy-Guided SDE for Inverse Molecular Design",
+      "authors": "Fan Bao, Min Zhao, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf/7eccd68c8c19051056b77215ff617061615b0e5c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Nue5iMj8n6",
+      "paper_id": "Nue5iMj8n6",
+      "title": "Equivariant Masked Position Prediction for Efficient Molecular Representation",
+      "authors": "Junyi An, Chao Qu, Yun-Fei Shi, XinHao Liu, Qianwei Tang, Fenglei Cao, Yuan Qi",
+      "paper_url": "https://openreview.net/pdf?id=Nue5iMj8n6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BIveOmD1Nh",
+      "paper_id": "BIveOmD1Nh",
+      "title": "Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms",
+      "authors": "Bowen Jing, Tommi S. Jaakkola, Bonnie Berger",
+      "paper_url": "https://openreview.net/pdf?id=BIveOmD1Nh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_4MbGnp4iPQ",
+      "paper_id": "4MbGnp4iPQ",
+      "title": "Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design",
+      "authors": "Keir Adams, Connor W. Coley",
+      "paper_url": "https://openreview.net/pdf/42d19238140ebee340546b8dafb68f8b62d7cb2b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_zNHzqZ9wrRB",
+      "paper_id": "zNHzqZ9wrRB",
+      "title": "Equivariant Transformers for Neural Network based Molecular Potentials",
+      "authors": "Philipp Thölke, Gianni De Fabritiis",
+      "paper_url": "https://openreview.net/pdf/3567cf90fbb34ac3013bdb0c392a4d115421dec8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_KHkBpvmYVI",
+      "paper_id": "KHkBpvmYVI",
+      "title": "EVA: Geometric Inverse Design for Fast Protein Motif-Scaffolding with Coupled Flow",
+      "authors": "Yufei Huang, Yunshu Liu, Lirong Wu, Haitao Lin, Cheng Tan, Odin Zhang, Zhangyang Gao, Siyuan Li, Zicheng Liu, Yunfan Liu, Tailin Wu, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=KHkBpvmYVI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sTYuRVrdK3",
+      "paper_id": "sTYuRVrdK3",
+      "title": "Evaluating Representation Learning on the Protein Structure Universe",
+      "authors": "Arian Rokkum Jamasb, Alex Morehead, Chaitanya K. Joshi, Zuobai Zhang, Kieran Didi, Simon V Mathis, Charles Harris, Jian Tang, Jianlin Cheng, Pietro Lio, Tom Leon Blundell",
+      "paper_url": "https://openreview.net/pdf?id=sTYuRVrdK3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1iuaxjssVp",
+      "paper_id": "1iuaxjssVp",
+      "title": "Fast Uncovering of Protein Sequence Diversity from Structure",
+      "authors": "luca alessandro silva, Barthelemy Meynard-Piganeau, Carlo Lucibello, Christoph Feinauer",
+      "paper_url": "https://openreview.net/pdf?id=1iuaxjssVp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_vN9fpfqoP1",
+      "paper_id": "vN9fpfqoP1",
+      "title": "Fine-Tuned Language Models Generate Stable Inorganic Materials as Text",
+      "authors": "Nate Gruver, Anuroop Sriram, Andrea Madotto, Andrew Gordon Wilson, C. Lawrence Zitnick, Zachary Ward Ulissi",
+      "paper_url": "https://openreview.net/pdf?id=vN9fpfqoP1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_G328D1xt4W",
+      "paper_id": "G328D1xt4W",
+      "title": "Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design",
+      "authors": "Chenyu Wang, Masatoshi Uehara, Yichun He, Amy Wang, Avantika Lal, Tommi Jaakkola, Sergey Levine, Aviv Regev, Hanchen, Tommaso Biancalani",
+      "paper_url": "https://openreview.net/pdf?id=G328D1xt4W",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mMhZS7qt0U",
+      "paper_id": "mMhZS7qt0U",
+      "title": "Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models",
+      "authors": "Cong Fu, Xiner Li, Blake Olson, Heng Ji, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf?id=mMhZS7qt0U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sfi2j1Ot6j",
+      "paper_id": "sfi2j1Ot6j",
+      "title": "FreeCG: Free the Design Space of Clebsch-Gordan Transform for Machine Learning Force Fields",
+      "authors": "Shihao Shao, Haoran Geng, Zun Wang, Qinghua Cui",
+      "paper_url": "https://openreview.net/pdf?id=sfi2j1Ot6j",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PfPnugdxup",
+      "paper_id": "PfPnugdxup",
+      "title": "From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction",
+      "authors": "Nima Shoghi, Adeesh Kolluru, John R. Kitchin, Zachary Ward Ulissi, C. Lawrence Zitnick, Brandon M Wood",
+      "paper_url": "https://openreview.net/pdf?id=PfPnugdxup",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_-w2oomO6qgc",
+      "paper_id": "-w2oomO6qgc",
+      "title": "GeneDisco: A Benchmark for Experimental Design in Drug Discovery",
+      "authors": "Arash Mehrjou, Ashkan Soleymani, Andrew Jesson, Pascal Notin, Yarin Gal, Stefan Bauer, Patrick Schwab",
+      "paper_url": "https://openreview.net/pdf/46263f4b010fc363d4351c09cb675b69418c8680.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_pB1XSj2y4X",
+      "paper_id": "pB1XSj2y4X",
+      "title": "Generative Flows on Synthetic Pathway for Drug Design",
+      "authors": "Seonghwan Seo, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, Woo Youn Kim",
+      "paper_url": "https://openreview.net/pdf?id=pB1XSj2y4X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_PzcvxEMzvQC",
+      "paper_id": "PzcvxEMzvQC",
+      "title": "GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation",
+      "authors": "Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/d6be0299d7f2d2bf947d450fffe98c8395458c75.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_CS4463zx6Hi",
+      "paper_id": "CS4463zx6Hi",
+      "title": "Geometric Transformers for Protein Interface Contact Prediction",
+      "authors": "Alex Morehead, Chen Chen, Jianlin Cheng",
+      "paper_url": "https://openreview.net/pdf/539393e93bb75c9c05221839904c4d0b83d67adf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_owEQ0FTfVj",
+      "paper_id": "owEQ0FTfVj",
+      "title": "GlycanML: A Multi-Task and Multi-Structure Benchmark for Glycan Machine Learning",
+      "authors": "Minghao Xu, Yunteng Geng, Yihang Zhang, Ling Yang, Jian Tang, Wentao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=owEQ0FTfVj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FMMF1a9ifL",
+      "paper_id": "FMMF1a9ifL",
+      "title": "Gradual Optimization Learning for Conformational Energy Minimization",
+      "authors": "Artem Tsypin, Leonid Anatolievich Ugadiarov, Kuzma Khrabrov, Alexander Telepov, Egor Rumiantsev, Alexey Skrynnik, Aleksandr Panov, Dmitry P. Vetrov, Elena Tutubalina, Artur Kadurin",
+      "paper_url": "https://openreview.net/pdf?id=FMMF1a9ifL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lvw3UgeVxS",
+      "paper_id": "lvw3UgeVxS",
+      "title": "gRNAde: Geometric Deep Learning for 3D RNA inverse design",
+      "authors": "Chaitanya K. Joshi, Arian Rokkum Jamasb, Ramon Viñas Torné, Charles Harris, Simon V Mathis, Alex Morehead, Rishabh Anand, Pietro Lio",
+      "paper_url": "https://openreview.net/pdf?id=lvw3UgeVxS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zDC3iCBxJb",
+      "paper_id": "zDC3iCBxJb",
+      "title": "Group Ligands Docking to Protein Pockets",
+      "authors": "Jiaqi Guan, Jiahan Li, Xiangxin Zhou, Xingang Peng, Sheng Wang, Yunan Luo, Jian Peng, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf?id=zDC3iCBxJb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_F7QnIKlC1N",
+      "paper_id": "F7QnIKlC1N",
+      "title": "GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation",
+      "authors": "Guikun Xu, Yongquan Jiang, PengChuan Lei, Yan Yang, Jim Chen",
+      "paper_url": "https://openreview.net/pdf?id=F7QnIKlC1N",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_MMHqnUOnl0",
+      "paper_id": "MMHqnUOnl0",
+      "title": "HELM: Hierarchical Encoding for mRNA Language Modeling",
+      "authors": "Mehdi Yazdani-Jahromi, Mangal Prakash, Tommaso Mansi, Artem Moskalev, Rui Liao",
+      "paper_url": "https://openreview.net/pdf?id=MMHqnUOnl0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_YDJRFWBMNby",
+      "paper_id": "YDJRFWBMNby",
+      "title": "HotProtein: A Novel Framework for Protein Thermostability Prediction and Editing",
+      "authors": "Tianlong Chen, Chengyue Gong, Daniel Jesus Diaz, Xuxi Chen, Jordan Tyler Wells, qiang liu, Zhangyang Wang, Andrew Ellington, Alex Dimakis, Adam Klivans",
+      "paper_url": "https://openreview.net/pdf/2e8f5a95a911c55a1dbf828fed9a9e23a319b027.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_jqmptcSNVG",
+      "paper_id": "jqmptcSNVG",
+      "title": "Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension",
+      "authors": "Jiahan Li, Tong Chen, Shitong Luo, Chaoran Cheng, Jiaqi Guan, Ruihan Guo, Sheng Wang, Ge Liu, Jian Peng, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf?id=jqmptcSNVG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Yo06F8kfMa1",
+      "paper_id": "Yo06F8kfMa1",
+      "title": "How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules",
+      "authors": "Yutong Xie, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei",
+      "paper_url": "https://openreview.net/pdf/22143e65729a6950f65c1f05020b2dca91f0aa53.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_BBD6KXIGJL",
+      "paper_id": "BBD6KXIGJL",
+      "title": "Hybrid Directional Graph Neural Network for Molecules",
+      "authors": "Junyi An, Chao Qu, Zhipeng Zhou, Fenglei Cao, Xu Yinghui, Yuan Qi, Furao Shen",
+      "paper_url": "https://openreview.net/pdf?id=BBD6KXIGJL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zmmfsJpYcq",
+      "paper_id": "zmmfsJpYcq",
+      "title": "IgGM: A Generative Model for Functional Antibody and Nanobody Design",
+      "authors": "Rubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao",
+      "paper_url": "https://openreview.net/pdf?id=zmmfsJpYcq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hWmwL9gizZ",
+      "paper_id": "hWmwL9gizZ",
+      "title": "Immunogenicity Prediction with Dual Attention Enables Vaccine Target Selection",
+      "authors": "Song Li, Yang Tan, Song Ke, Liang Hong, Bingxin Zhou",
+      "paper_url": "https://openreview.net/pdf?id=hWmwL9gizZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rxlF2Zv8x0",
+      "paper_id": "rxlF2Zv8x0",
+      "title": "Improving protein optimization with smoothed fitness landscapes",
+      "authors": "Andrew Kirjner, Jason Yim, Raman Samusevich, Shahar Bracha, Tommi S. Jaakkola, Regina Barzilay, Ila R Fiete",
+      "paper_url": "https://openreview.net/pdf?id=rxlF2Zv8x0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_GQjaI9mLet",
+      "paper_id": "GQjaI9mLet",
+      "title": "Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking",
+      "authors": "Octavian-Eugen Ganea, Xinyuan Huang, Charlotte Bunne, Yatao Bian, Regina Barzilay, Tommi S. Jaakkola, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf/4b1b65283103b98ee8f765eb00dca5e4786fcf19.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9qS3HzSDNv",
+      "paper_id": "9qS3HzSDNv",
+      "title": "Integrating Protein Dynamics into Structure-Based Drug Design via Full-Atom Stochastic Flows",
+      "authors": "Xiangxin Zhou, Yi Xiao, Haowei Lin, Xinheng He, Jiaqi Guan, Yang Wang, Qiang Liu, Feng Zhou, Liang Wang, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf?id=9qS3HzSDNv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_l0mSUROpwY",
+      "paper_id": "l0mSUROpwY",
+      "title": "Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures",
+      "authors": "Pedro Hermosilla, Marco Schäfer, Matej Lang, Gloria Fackelmann, Pere-Pau Vázquez, Barbora Kozlikova, Michael Krone, Tobias Ritschel, Timo Ropinski",
+      "paper_url": "https://openreview.net/pdf/06a67dcf3e870e158211013994abdc6c41706fea.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_nYPuSzGE3X",
+      "paper_id": "nYPuSzGE3X",
+      "title": "InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization",
+      "authors": "Yifan Niu, Ziqi Gao, Tingyang Xu, Yang Liu, Yatao Bian, Yu Rong, Junzhou Huang, Jia Li",
+      "paper_url": "https://openreview.net/pdf?id=nYPuSzGE3X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_LI2bhrE_2A",
+      "paper_id": "LI2bhrE_2A",
+      "title": "Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design",
+      "authors": "Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf/f85e516c2ab137179adf7bda106ae34944694b9d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_3kiZ5S5WkY",
+      "paper_id": "3kiZ5S5WkY",
+      "title": "Iterative Substructure Extraction for Molecular Relational Learning with Interactive Graph Information Bottleneck",
+      "authors": "Shuai Zhang, Junfeng Fang, Xuqiang Li, hongxin xiang, ALAN XIA, Ye Wei, Wenjie Du, Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=3kiZ5S5WkY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_E1m5yGMOiV",
+      "paper_id": "E1m5yGMOiV",
+      "title": "KinPFN: Bayesian Approximation of RNA Folding Kinetics using Prior-Data Fitted Networks",
+      "authors": "Dominik Scheuer, Frederic Runge, Jörg K.H. Franke, Michael T. Wolfinger, Christoph Flamm, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf?id=E1m5yGMOiV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mpqMVWgqjn",
+      "paper_id": "mpqMVWgqjn",
+      "title": "KW-Design: Pushing the Limit of Protein Design via Knowledge Refinement",
+      "authors": "Zhangyang Gao, Cheng Tan, Xingran Chen, Yijie Zhang, Jun Xia, Siyuan Li, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=mpqMVWgqjn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_hVVUY7p64WL",
+      "paper_id": "hVVUY7p64WL",
+      "title": "Learnable Topological Features For Phylogenetic Inference via Graph Neural Networks",
+      "authors": "Cheng Zhang",
+      "paper_url": "https://openreview.net/pdf/94ddddee68e974505f45bc9249fcd649c1167f2c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_hm2tNDdgaFK",
+      "paper_id": "hm2tNDdgaFK",
+      "title": "Learning 3D Representations of Molecular Chirality with Invariance to Bond Rotations",
+      "authors": "Keir Adams, Lagnajit Pattanaik, Connor W. Coley",
+      "paper_url": "https://openreview.net/pdf/0bd5d5f64a3a1afccdb03997dd1aad21fe9c2aaa.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_FhBT596F1X",
+      "paper_id": "FhBT596F1X",
+      "title": "Learning Equivariant Non-Local Electron Density Functionals",
+      "authors": "Nicholas Gao, Eike Eberhard, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=FhBT596F1X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_1YLJDvSx6J4",
+      "paper_id": "1YLJDvSx6J4",
+      "title": "Learning from Protein Structure with Geometric Vector Perceptrons",
+      "authors": "Bowen Jing, Stephan Eismann, Patricia Suriana, Raphael John Lamarre Townshend, Ron Dror",
+      "paper_url": "https://openreview.net/pdf/9f3a4c7663dfbd524333bd5b864a86b7840e5808.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_ySCL-NG_I3",
+      "paper_id": "ySCL-NG_I3",
+      "title": "Learning Harmonic Molecular Representations on Riemannian Manifold",
+      "authors": "Yiqun Wang, Yuning Shen, Shi Chen, Lihao Wang, Fei YE, Hao Zhou",
+      "paper_url": "https://openreview.net/pdf/5f6bb5526d4345ce5ea70880325f7ecfccfb1fac.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_9X-hgLDLYkQ",
+      "paper_id": "9X-hgLDLYkQ",
+      "title": "Learning Hierarchical Protein Representations via Complete 3D Graph Networks",
+      "authors": "Limei Wang, Haoran Liu, Yi Liu, Jerry Kurtin, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf/77f0c38def3be1bf968bafcf011df4cf4570bbfe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_BbZy8nI1si",
+      "paper_id": "BbZy8nI1si",
+      "title": "Learning Molecular Representation in a Cell",
+      "authors": "Gang Liu, Srijit Seal, John Arevalo, Zhenwen Liang, Anne E Carpenter, Meng Jiang, Shantanu Singh",
+      "paper_url": "https://openreview.net/pdf?id=BbZy8nI1si",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_pAbm1qfheGk",
+      "paper_id": "pAbm1qfheGk",
+      "title": "Learning Neural Generative Dynamics for Molecular Conformation Generation",
+      "authors": "Minkai Xu, Shitong Luo, Yoshua Bengio, Jian Peng, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/90d50e0ca739c22ebb906023d446dc8c8f98a7e0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_NSDszJ2uIV",
+      "paper_id": "NSDszJ2uIV",
+      "title": "Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks",
+      "authors": "Yanqiao Zhu, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du, Jatin Chauhan, Olaf Wiest, Olexandr Isayev, Connor W. Coley, Yizhou Sun, Wei Wang",
+      "paper_url": "https://openreview.net/pdf?id=NSDszJ2uIV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xcMmebCT7s",
+      "paper_id": "xcMmebCT7s",
+      "title": "Learning to design protein-protein interactions with enhanced generalization",
+      "authors": "Anton Bushuiev, Roman Bushuiev, Petr Kouba, Anatolii Filkin, Marketa Gabrielova, Michal Gabriel, Jiri Sedlar, Tomas Pluskal, Jiri Damborsky, Stanislav Mazurenko, Josef Sivic",
+      "paper_url": "https://openreview.net/pdf?id=xcMmebCT7s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Mfnh1Sqdwf",
+      "paper_id": "Mfnh1Sqdwf",
+      "title": "Learning to Discover Regulatory Elements for Gene Expression Prediction",
+      "authors": "Xingyu Su, Haiyang Yu, Degui Zhi, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf?id=Mfnh1Sqdwf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_L238BAx0wP",
+      "paper_id": "L238BAx0wP",
+      "title": "Learning to engineer protein flexibility",
+      "authors": "Petr Kouba, Joan Planas-Iglesias, Jiri Damborsky, Jiri Sedlar, Stanislav Mazurenko, Josef Sivic",
+      "paper_url": "https://openreview.net/pdf?id=L238BAx0wP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ZTsoE8G3GG",
+      "paper_id": "ZTsoE8G3GG",
+      "title": "Learning to Extend Molecular Scaffolds with Structural Motifs",
+      "authors": "Krzysztof Maziarz, Henry Richard Jackson-Flux, Pashmina Cameron, Finton Sirockin, Nadine Schneider, Nikolaus Stiefl, Marwin Segler, Marc Brockschmidt",
+      "paper_url": "https://openreview.net/pdf/329f388ad7404ff01bdbb88c90c981af357646e0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_yu1vqQqKkx",
+      "paper_id": "yu1vqQqKkx",
+      "title": "LICO: Large Language Models for In-Context Molecular Optimization",
+      "authors": "Tung Nguyen, Aditya Grover",
+      "paper_url": "https://openreview.net/pdf?id=yu1vqQqKkx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uNomADvF3s",
+      "paper_id": "uNomADvF3s",
+      "title": "Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space",
+      "authors": "Mohamed Amine Ketata, Nicholas Gao, Johanna Sommer, Tom Wollschläger, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=uNomADvF3s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rvDQtdMnOl",
+      "paper_id": "rvDQtdMnOl",
+      "title": "Long-Short-Range Message-Passing: A Physics-Informed Framework to Capture Non-Local Interaction for Scalable Molecular Dynamics Simulation",
+      "authors": "Yunyang Li, Yusong Wang, Lin Huang, Han Yang, Xinran Wei, Jia Zhang, Tong Wang, Zun Wang, Bin Shao, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf?id=rvDQtdMnOl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_78tc3EiUrN",
+      "paper_id": "78tc3EiUrN",
+      "title": "MADGEN: Mass-Spec attends to De Novo Molecular generation",
+      "authors": "Yinkai Wang, Xiaohui Chen, Liping Liu, Soha Hassoun",
+      "paper_url": "https://openreview.net/pdf?id=78tc3EiUrN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5FXKgOxmb2",
+      "paper_id": "5FXKgOxmb2",
+      "title": "MAGNet: Motif-Agnostic Generation of Molecules from Scaffolds",
+      "authors": "Leon Hetzel, Johanna Sommer, Bastian Rieck, Fabian J Theis, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=5FXKgOxmb2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_itGkF993gz",
+      "paper_id": "itGkF993gz",
+      "title": "MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding",
+      "authors": "Lirong Wu, Yijun Tian, Yufei Huang, Siyuan Li, Haitao Lin, Nitesh V Chawla, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=itGkF993gz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_kHSu4ebxFXY",
+      "paper_id": "kHSu4ebxFXY",
+      "title": "MARS: Markov Molecular Sampling for Multi-objective Drug Discovery",
+      "authors": "Yutong Xie, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li",
+      "paper_url": "https://openreview.net/pdf/4f5a198cf9191eebd5788dea1fd15fcb151d8ef9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_q9VherQJd8_",
+      "paper_id": "q9VherQJd8_",
+      "title": "Matching receptor to odorant with protein language and graph neural networks",
+      "authors": "Matej Hladiš, Maxence Lalis, Sebastien Fiorucci, Jérémie Topin",
+      "paper_url": "https://openreview.net/pdf/0c3c2cbf58174d89f67e7d6f33a3653d69fd94fb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_AUBvo4sxVL",
+      "paper_id": "AUBvo4sxVL",
+      "title": "MatExpert: Decomposing Materials Discovery By Mimicking Human Experts",
+      "authors": "Qianggang Ding, Santiago Miret, Bang Liu",
+      "paper_url": "https://openreview.net/pdf?id=AUBvo4sxVL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ULfq0qR25dY",
+      "paper_id": "ULfq0qR25dY",
+      "title": "Maximum n-times Coverage for Vaccine Design",
+      "authors": "Ge Liu, Alexander Dimitrakakis, Brandon Carter, David Gifford",
+      "paper_url": "https://openreview.net/pdf/9d61f13ecd3d02a7e3ed6243e5e82f05c5f456cf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_KXRSh0sdVTP",
+      "paper_id": "KXRSh0sdVTP",
+      "title": "Meta-learning Adaptive Deep Kernel Gaussian Processes for Molecular Property Prediction",
+      "authors": "Wenlin Chen, Austin Tripp, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/60d3227f50f202e62dbd4dd6030d8ac2b29b5872.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_TUKt7ag0qq",
+      "paper_id": "TUKt7ag0qq",
+      "title": "Metalic: Meta-Learning In-Context with Protein Language Models",
+      "authors": "Jacob Beck, Shikha Surana, Manus McAuliffe, Oliver Bent, Thomas D Barrett, Juan Jose Garau-Luis, Paul Duckworth",
+      "paper_url": "https://openreview.net/pdf?id=TUKt7ag0qq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_noUF58SMra",
+      "paper_id": "noUF58SMra",
+      "title": "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction",
+      "authors": "Cheng Tan, Zhenxiao Cao, Zhangyang Gao, Lirong Wu, Siyuan Li, Yufei Huang, Jun Xia, Bozhen Hu, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=noUF58SMra",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0VBsoluxR2",
+      "paper_id": "0VBsoluxR2",
+      "title": "MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design",
+      "authors": "Xiang Fu, Tian Xie, Andrew Scott Rosen, Tommi S. Jaakkola, Jake Allen Smith",
+      "paper_url": "https://openreview.net/pdf?id=0VBsoluxR2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_dNT3abOsLo",
+      "paper_id": "dNT3abOsLo",
+      "title": "MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks",
+      "authors": "Nayoung Kim, Seongsu Kim, Minsu Kim, Jinkyoo Park, Sungsoo Ahn",
+      "paper_url": "https://openreview.net/pdf?id=dNT3abOsLo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Tlsdsb6l9n",
+      "paper_id": "Tlsdsb6l9n",
+      "title": "Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models",
+      "authors": "Yin Fang, Xiaozhuan Liang, Ningyu Zhang, Kangwei Liu, Rui Huang, Zhuo Chen, Xiaohui Fan, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=Tlsdsb6l9n",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_jevY-DtiZTR",
+      "paper_id": "jevY-DtiZTR",
+      "title": "Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules",
+      "authors": "Jun Xia, Chengshuai Zhao, Bozhen Hu, Zhangyang Gao, Cheng Tan, Yue Liu, Siyuan Li, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf/21b1918178090348ffb159460ee696cfe8360dd2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_CjTHVo1dvR",
+      "paper_id": "CjTHVo1dvR",
+      "title": "Molecular Geometry Pretraining with SE(3)-Invariant Denoising Distance Matching",
+      "authors": "Shengchao Liu, Hongyu Guo, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/9c1d1ecbf17ead138572cf85c7ea92842f80fafc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_Rq13idF0F73",
+      "paper_id": "Rq13idF0F73",
+      "title": "Molecule Generation For Target Protein Binding with Structural Motifs",
+      "authors": "ZAIXI ZHANG, Yaosen Min, Shuxin Zheng, Qi Liu",
+      "paper_url": "https://openreview.net/pdf/2f51ce0e41434fa7eac1af155e6ce6dbd0234098.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_jHefDGsorp5",
+      "paper_id": "jHefDGsorp5",
+      "title": "Molecule Optimization by Explainable Evolution",
+      "authors": "Binghong Chen, Tianzhe Wang, Chengtao Li, Hanjun Dai, Le Song",
+      "paper_url": "https://openreview.net/pdf/885e03a6e7ca9e559b96bce0daf001f769f98de4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_xJDxVDG3x2",
+      "paper_id": "xJDxVDG3x2",
+      "title": "MolSpectra: Pre-training 3D Molecular Representation with Multi-modal Energy Spectra",
+      "authors": "Liang Wang, Shaozhen Liu, Yu Rong, Deli Zhao, Qiang Liu, Shu Wu, Liang Wang",
+      "paper_url": "https://openreview.net/pdf?id=xJDxVDG3x2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_X9OfMNNepI",
+      "paper_id": "X9OfMNNepI",
+      "title": "MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses",
+      "authors": "Zonglin Yang, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=X9OfMNNepI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_DnG75_KyHjX",
+      "paper_id": "DnG75_KyHjX",
+      "title": "MoReL: Multi-omics Relational Learning",
+      "authors": "Arman Hasanzadeh, Ehsan Hajiramezanali, Nick Duffield, Xiaoning Qian",
+      "paper_url": "https://openreview.net/pdf/081ce5efc31fe21daad00db739aa3979506ff0d3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_g3VCIM94ke",
+      "paper_id": "g3VCIM94ke",
+      "title": "Multi-domain Distribution Learning for De Novo Drug Design",
+      "authors": "Arne Schneuing, Ilia Igashov, Adrian W. Dobbelstein, Thomas Castiglione, Michael M. Bronstein, Bruno Correia",
+      "paper_url": "https://openreview.net/pdf?id=g3VCIM94ke",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XGagtiJ8XC",
+      "paper_id": "XGagtiJ8XC",
+      "title": "Multi-level Protein Structure Pre-training via Prompt Learning",
+      "authors": "Zeyuan Wang, Qiang Zhang, Shuang-Wei HU, Haoran Yu, Xurui Jin, Zhichen Gong, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf/dc43e5fd99a5392aedf0a73a5a11819a2d7ec708.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_3MnMGLctKb",
+      "paper_id": "3MnMGLctKb",
+      "title": "Multi-Modal and Multi-Attribute Generation of Single Cells with CFGen",
+      "authors": "Alessandro Palma, Till Richter, Hanyi Zhang, Manuel Lubetzki, Alexander Tong, Andrea Dittadi, Fabian J Theis",
+      "paper_url": "https://openreview.net/pdf?id=3MnMGLctKb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4ktJJBvvUd",
+      "paper_id": "4ktJJBvvUd",
+      "title": "Multi-objective antibody design with constrained preference optimization",
+      "authors": "Milong Ren, ZaiKai He, Haicang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=4ktJJBvvUd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rQ7fz9NO7f",
+      "paper_id": "rQ7fz9NO7f",
+      "title": "Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning",
+      "authors": "Gang Liu, Michael Sun, Wojciech Matusik, Meng Jiang, Jie Chen",
+      "paper_url": "https://openreview.net/pdf?id=rQ7fz9NO7f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oM7Jbxdk6Z",
+      "paper_id": "oM7Jbxdk6Z",
+      "title": "Multimodal Molecular Pretraining via Modality Blending",
+      "authors": "Qiying Yu, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu",
+      "paper_url": "https://openreview.net/pdf?id=oM7Jbxdk6Z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_8efJYMBrNb",
+      "paper_id": "8efJYMBrNb",
+      "title": "Multiple sequence alignment as a sequence-to-sequence learning problem",
+      "authors": "Edo Dotan, Yonatan Belinkov, Oren Avram, Elya Wygoda, Noa Ecker, Michael Alburquerque, Omri Keren, Gil Loewenthal, Tal Pupko",
+      "paper_url": "https://openreview.net/pdf/24f63d3c1ae4f4aabbced2cb7f592b1352507e4c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_kzGuiRXZrQ",
+      "paper_id": "kzGuiRXZrQ",
+      "title": "Navigating the Design Space of Equivariant Diffusion-Based Generative Models for De Novo 3D Molecule Generation",
+      "authors": "Tuan Le, Julian Cremer, Frank Noe, Djork-Arné Clevert, Kristof T Schütt",
+      "paper_url": "https://openreview.net/pdf?id=kzGuiRXZrQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_CUfSCwcgqm",
+      "paper_id": "CUfSCwcgqm",
+      "title": "Neural Atoms: Propagating Long-range Interaction in Molecular Graphs through Efficient Communication Channel",
+      "authors": "Xuan Li, Zhanke Zhou, Jiangchao Yao, Yu Rong, Lu Zhang, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=CUfSCwcgqm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_TUBpc5rqGA",
+      "paper_id": "TUBpc5rqGA",
+      "title": "Neural Design for Genetic Perturbation Experiments",
+      "authors": "Aldo Pacchiano, Drausin Wulsin, Robert A Barton, Luis Voloch",
+      "paper_url": "https://openreview.net/pdf/f56ee4a8d1d86d0f8b8aba389f8502186aeab60b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_jv2zHOalpL",
+      "paper_id": "jv2zHOalpL",
+      "title": "Neural Phylogeny: Fine-Tuning Relationship Detection among Neural Networks",
+      "authors": "Runpeng Yu, Xinchao Wang",
+      "paper_url": "https://openreview.net/pdf?id=jv2zHOalpL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_snOgiCYZgJ7",
+      "paper_id": "snOgiCYZgJ7",
+      "title": "Neural representation and generation for RNA secondary structures",
+      "authors": "Zichao Yan, William L. Hamilton, Mathieu Blanchette",
+      "paper_url": "https://openreview.net/pdf/bc9ac721f355bf79861be2019a3d66689b2b8a33.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_p66a00KLWN",
+      "paper_id": "p66a00KLWN",
+      "title": "NExT-Mol: 3D Diffusion Meets 1D Language Modeling for 3D Molecule Generation",
+      "authors": "Zhiyuan Liu, Yanchen Luo, Han Huang, Enzhi Zhang, Sihang Li, Junfeng Fang, Yaorui Shi, Xiang Wang, Kenji Kawaguchi, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf?id=p66a00KLWN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zaq4LV55xHl",
+      "paper_id": "zaq4LV55xHl",
+      "title": "On Pre-training Language Model for Antibody",
+      "authors": "Danqing Wang, Fei YE, Hao Zhou",
+      "paper_url": "https://openreview.net/pdf/c0deacf9e860ac34392346ea2fea727ac90bec4a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_vZTp1oPV3PC",
+      "paper_id": "vZTp1oPV3PC",
+      "title": "One Transformer Can Understand Both 2D & 3D Molecular Data",
+      "authors": "Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He",
+      "paper_url": "https://openreview.net/pdf/1f1e2fe5093c5069af104d34dca2fbf3d580a644.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_yfe1VMYAXa4",
+      "paper_id": "yfe1VMYAXa4",
+      "title": "OntoProtein: Protein Pretraining With Gene Ontology Embedding",
+      "authors": "Ningyu Zhang, Zhen Bi, Xiaozhuan Liang, Siyuan Cheng, Haosen Hong, Shumin Deng, Qiang Zhang, Jiazhang Lian, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf/45d0f729743dae28d50e8c7e62050d0d95afbf43.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9YNyiCJE3k",
+      "paper_id": "9YNyiCJE3k",
+      "title": "OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents",
+      "authors": "Zhaolin Hu, Yixiao Zhou, Zhongan Wang, Xin Li, Weimin Yang, Hehe Fan, Yi Yang",
+      "paper_url": "https://openreview.net/pdf?id=9YNyiCJE3k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AkBrb7yQ0G",
+      "paper_id": "AkBrb7yQ0G",
+      "title": "Periodic Materials Generation using Text-Guided Joint Diffusion Model",
+      "authors": "KISHALAY DAS, Subhojyoti Khastagir, Pawan Goyal, Seung-Cheol Lee, Satadeep Bhattacharjee, Niloy Ganguly",
+      "paper_url": "https://openreview.net/pdf?id=AkBrb7yQ0G",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_27Qk18IZum",
+      "paper_id": "27Qk18IZum",
+      "title": "PharmacoMatch: Efficient 3D Pharmacophore Screening via Neural Subgraph Matching",
+      "authors": "Daniel Rose, Oliver Wieder, Thomas Seidel, Thierry Langer",
+      "paper_url": "https://openreview.net/pdf?id=27Qk18IZum",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hB7SlfEmze",
+      "paper_id": "hB7SlfEmze",
+      "title": "PhyloGFN: Phylogenetic inference with generative flow networks",
+      "authors": "Ming Yang Zhou, Zichao Yan, Elliot Layne, Nikolay Malkin, Dinghuai Zhang, Moksh Jain, Mathieu Blanchette, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=hB7SlfEmze",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Z8TglKXDWm",
+      "paper_id": "Z8TglKXDWm",
+      "title": "PhyloVAE: Unsupervised Learning of Phylogenetic Trees via Variational Autoencoders",
+      "authors": "Tianyu Xie, Harry Richman, Jiansi Gao, Frederick A Matsen, Cheng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Z8TglKXDWm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_oMsN9TYwJ0j",
+      "paper_id": "oMsN9TYwJ0j",
+      "title": "PiFold: Toward effective and efficient protein inverse folding",
+      "authors": "Zhangyang Gao, Cheng Tan, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf/e1a0ac295d7e905fb72e78968e396731ad364a0b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_6k7VdojAIK",
+      "paper_id": "6k7VdojAIK",
+      "title": "Practical Massively Parallel Monte-Carlo Tree Search Applied to Molecular Design",
+      "authors": "Xiufeng Yang, Tanuj Aasawat, Kazuki Yoshizoe",
+      "paper_url": "https://openreview.net/pdf/87e21d56e100df25c3170406746c2f73d33dfc66.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_xQUe1pOKPam",
+      "paper_id": "xQUe1pOKPam",
+      "title": "Pre-training Molecular Graph Representation with 3D Geometry",
+      "authors": "Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/a22cd0fe68ecdc04b0ffcd2cdeda6ba42dc8dffd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_BEH4mGo7zP",
+      "paper_id": "BEH4mGo7zP",
+      "title": "Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning",
+      "authors": "Youhan Lee, Hasun Yu, Jaemyung Lee, Jaehoon Kim",
+      "paper_url": "https://openreview.net/pdf?id=BEH4mGo7zP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_tYIMtogyee",
+      "paper_id": "tYIMtogyee",
+      "title": "Pre-training via Denoising for Molecular Property Prediction",
+      "authors": "Sheheryar Zaidi, Michael Schaarschmidt, James Martens, Hyunjik Kim, Yee Whye Teh, Alvaro Sanchez-Gonzalez, Peter Battaglia, Razvan Pascanu, Jonathan Godwin",
+      "paper_url": "https://openreview.net/pdf/5124e3ed078b69949b650fc3e97fcc328fafe4ff.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_OGfyzExd69",
+      "paper_id": "OGfyzExd69",
+      "title": "Procedural Synthesis of Synthesizable Molecules",
+      "authors": "Michael Sun, Alston Lo, Minghao Guo, Jie Chen, Connor W. Coley, Wojciech Matusik",
+      "paper_url": "https://openreview.net/pdf?id=OGfyzExd69",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0ctvBgKFgc",
+      "paper_id": "0ctvBgKFgc",
+      "title": "ProtComposer: Compositional Protein Structure Generation with 3D Ellipsoids",
+      "authors": "Hannes Stark, Bowen Jing, Tomas Geffner, Jason Yim, Tommi Jaakkola, Arash Vahdat, Karsten Kreis",
+      "paper_url": "https://openreview.net/pdf?id=0ctvBgKFgc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_zMPHKOmQNb",
+      "paper_id": "zMPHKOmQNb",
+      "title": "Protein Discovery with Discrete Walk-Jump Sampling",
+      "authors": "Nathan C. Frey, Dan Berenberg, Karina Zadorozhny, Joseph Kleinhenz, Julien Lafrance-Vanasse, Isidro Hotzel, Yan Wu, Stephen Ra, Richard Bonneau, Kyunghyun Cho, Andreas Loukas, Vladimir Gligorijevic, Saeed Saremi",
+      "paper_url": "https://openreview.net/pdf?id=zMPHKOmQNb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UvPdpa4LuV",
+      "paper_id": "UvPdpa4LuV",
+      "title": "Protein Language Model Fitness is a Matter of Preference",
+      "authors": "Cade W Gordon, Amy X. Lu, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=UvPdpa4LuV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_OHpvivXrQr",
+      "paper_id": "OHpvivXrQr",
+      "title": "Protein Multimer Structure Prediction via Prompt Learning",
+      "authors": "Ziqi Gao, Xiangguo Sun, Zijing Liu, Yu Li, Hong Cheng, Jia Li",
+      "paper_url": "https://openreview.net/pdf?id=OHpvivXrQr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_to3qCB3tOh9",
+      "paper_id": "to3qCB3tOh9",
+      "title": "Protein Representation Learning by Geometric Structure Pretraining",
+      "authors": "Zuobai Zhang, Minghao Xu, Arian Rokkum Jamasb, Vijil Chenthamarakshan, Aurelie Lozano, Payel Das, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/fcf1d34c0463c5072ee49ce930224e980675829b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_VbCMhg7MRmj",
+      "paper_id": "VbCMhg7MRmj",
+      "title": "Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning",
+      "authors": "Hong-Yu Zhou, Yunxiang Fu, Zhicheng Zhang, Bian Cheng, Yizhou Yu",
+      "paper_url": "https://openreview.net/pdf/e4ea10108dbde640764dcde0449ba8a267d56786.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_pRCMXcfdihq",
+      "paper_id": "pRCMXcfdihq",
+      "title": "Protein Sequence and Structure Co-Design with Equivariant Translation",
+      "authors": "Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang",
+      "paper_url": "https://openreview.net/pdf/eb4c9a122dd34e10a2a9eb419a4ba937bd7b32e5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_AXbN2qMNiW",
+      "paper_id": "AXbN2qMNiW",
+      "title": "Protein-ligand binding representation learning from fine-grained interactions",
+      "authors": "Shikun Feng, Minghao Li, Yinjun Jia, Wei-Ying Ma, Yanyan Lan",
+      "paper_url": "https://openreview.net/pdf?id=AXbN2qMNiW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_qH9nrMNTIW",
+      "paper_id": "qH9nrMNTIW",
+      "title": "Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models",
+      "authors": "Zhilin Huang, Ling Yang, Xiangxin Zhou, Zhilong Zhang, Wentao Zhang, Xiawu Zheng, Jie Chen, Yu Wang, Bin CUI, Wenming Yang",
+      "paper_url": "https://openreview.net/pdf?id=qH9nrMNTIW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TVQLu34bdw",
+      "paper_id": "TVQLu34bdw",
+      "title": "Proteina: Scaling Flow-based Protein Structure Generative Models",
+      "authors": "Tomas Geffner, Kieran Didi, Zuobai Zhang, Danny Reidenbach, Zhonglin Cao, Jason Yim, Mario Geiger, Christian Dallago, Emine Kucukbenli, Arash Vahdat, Karsten Kreis",
+      "paper_url": "https://openreview.net/pdf?id=TVQLu34bdw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BksqWM8737",
+      "paper_id": "BksqWM8737",
+      "title": "ProteinBench: A Holistic Evaluation of Protein Foundation Models",
+      "authors": "Fei YE, Zaixiang Zheng, Dongyu Xue, Yuning Shen, Lihao Wang, Yiming Ma, Yan Wang, Xinyou Wang, Xiangxin Zhou, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=BksqWM8737",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Nq7yKYL0Bp",
+      "paper_id": "Nq7yKYL0Bp",
+      "title": "ProtPainter: Draw or Drag Protein via Topology-guided Diffusion",
+      "authors": "Zhengxi Lu, Shizhuo Cheng, Tintin Jiang, Yan Zhang, Min Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Nq7yKYL0Bp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4S2L519nIX",
+      "paper_id": "4S2L519nIX",
+      "title": "Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling, and Zero-Shot Transfer",
+      "authors": "Zihan Pengmei, Zhengyuan Shen, Zichen Wang, Marcus D. Collins, Huzefa Rangwala",
+      "paper_url": "https://openreview.net/pdf?id=4S2L519nIX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_RemfXx7ebP",
+      "paper_id": "RemfXx7ebP",
+      "title": "RDesign: Hierarchical Data-efficient Representation Learning for Tertiary Structure-based RNA Design",
+      "authors": "Cheng Tan, Yijie Zhang, Zhangyang Gao, Bozhen Hu, Siyuan Li, Zicheng Liu, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=RemfXx7ebP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_WNIEr5kydF",
+      "paper_id": "WNIEr5kydF",
+      "title": "REBIND: Enhancing Ground-state Molecular Conformation Prediction via Force-Based Graph Rewiring",
+      "authors": "Taewon Kim, Hyunjin Seo, Sungsoo Ahn, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf?id=WNIEr5kydF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_S8gbnkCgxZ",
+      "paper_id": "S8gbnkCgxZ",
+      "title": "Redefining the task of Bioactivity Prediction",
+      "authors": "Yanwen Huang, Bowen Gao, Yinjun Jia, Hongbo Ma, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan",
+      "paper_url": "https://openreview.net/pdf?id=S8gbnkCgxZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RyWypcIMiE",
+      "paper_id": "RyWypcIMiE",
+      "title": "Reframing Structure-Based Drug Design Model Evaluation via Metrics Correlated to Practical Needs",
+      "authors": "Bowen Gao, Haichuan Tan, Yanwen Huang, Minsi Ren, Xiao Huang, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan",
+      "paper_url": "https://openreview.net/pdf?id=RyWypcIMiE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_F4IMiNhim1",
+      "paper_id": "F4IMiNhim1",
+      "title": "Regulatory DNA Sequence Design with Reinforcement Learning",
+      "authors": "Zhao Yang, Bing Su, Chuan Cao, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=F4IMiNhim1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7TOs9gjAg1",
+      "paper_id": "7TOs9gjAg1",
+      "title": "Removing Biases from Molecular Representations via Information Maximization",
+      "authors": "Chenyu Wang, Sharut Gupta, Caroline Uhler, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf?id=7TOs9gjAg1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uQnvYP7yX9",
+      "paper_id": "uQnvYP7yX9",
+      "title": "ReNovo: Retrieval-Based \\emph{De Novo} Mass Spectrometry Peptide Sequencing",
+      "authors": "Shaorong Chen, Jun Xia, Jingbo Zhou, Lecheng Zhang, Zhangyang Gao, Bozhen Hu, Cheng Tan, Wenjie Du, Stan Z. Li",
+      "paper_url": "https://openreview.net/pdf?id=uQnvYP7yX9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_j7cyANIAxV",
+      "paper_id": "j7cyANIAxV",
+      "title": "Rethinking the generalization of drug target affinity prediction algorithms via similarity aware evaluation",
+      "authors": "Chenbin Zhang, Zhiqiang Hu, Jiang Chuchu, Wen Chen, JIE XU, Shaoting Zhang",
+      "paper_url": "https://openreview.net/pdf?id=j7cyANIAxV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gzxDjnvBDa",
+      "paper_id": "gzxDjnvBDa",
+      "title": "Rethinking the role of frames for SE(3)-invariant crystal structure modeling",
+      "authors": "Yusei Ito, Tatsunori Taniai, Ryo Igarashi, Yoshitaka Ushiku, Kanta Ono",
+      "paper_url": "https://openreview.net/pdf?id=gzxDjnvBDa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_a6U41REOa5",
+      "paper_id": "a6U41REOa5",
+      "title": "Retrieval Augmented Diffusion Model for Structure-informed Antibody Design and Optimization",
+      "authors": "Zichen Wang, Yaokun Ji, Jianing Tian, Shuangjia Zheng",
+      "paper_url": "https://openreview.net/pdf?id=a6U41REOa5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_vDFA1tpuLvk",
+      "paper_id": "vDFA1tpuLvk",
+      "title": "Retrieval-based Controllable Molecule Generation",
+      "authors": "Zichao Wang, Weili Nie, Zhuoran Qiao, Chaowei Xiao, Richard Baraniuk, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf/22616ca08340c5ed2e05df70269bcf7e3ebf5592.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_dl0u4ODCuW",
+      "paper_id": "dl0u4ODCuW",
+      "title": "Retro-fallback: retrosynthetic planning in an uncertain world",
+      "authors": "Austin Tripp, Krzysztof Maziarz, Sarah Lewis, Marwin Segler, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf?id=dl0u4ODCuW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_770DetV8He",
+      "paper_id": "770DetV8He",
+      "title": "RetroBridge: Modeling Retrosynthesis with Markov Bridges",
+      "authors": "Ilia Igashov, Arne Schneuing, Marwin Segler, Michael M. Bronstein, Bruno Correia",
+      "paper_url": "https://openreview.net/pdf?id=770DetV8He",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_J6e4hurEKd",
+      "paper_id": "J6e4hurEKd",
+      "title": "RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning",
+      "authors": "Chenglong Kang, Xiaoyi Liu, Fei Guo",
+      "paper_url": "https://openreview.net/pdf?id=J6e4hurEKd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_B07dLVWLyD",
+      "paper_id": "B07dLVWLyD",
+      "title": "Revisiting Convolution Architecture in the Realm of DNA Foundation Models",
+      "authors": "Yu Bo, Weian Mao, Yanjun Shao, Weiqiang Bai, Peng Ye, Xinzhu Ma, Junbo Zhao, Hao Chen, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=B07dLVWLyD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_zgQ0PHeGnL",
+      "paper_id": "zgQ0PHeGnL",
+      "title": "Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction",
+      "authors": "Ziyang Yu, Wenbing Huang, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=zgQ0PHeGnL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23__X9Yl1K2mD",
+      "paper_id": "_X9Yl1K2mD",
+      "title": "Rotamer Density Estimator is an Unsupervised Learner of the Effect of Mutations on Protein-Protein Interaction",
+      "authors": "Shitong Luo, Yufeng Su, Zuofan Wu, Chenpeng Su, Jian Peng, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf/b9cb2b34bed45fb8e25ce997c680d28d8e7e2e1c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_hLwcNSFhC2",
+      "paper_id": "hLwcNSFhC2",
+      "title": "SAGEPhos: Sage Bio-Coupled and Augmented Fusion for Phosphorylation Site Detection",
+      "authors": "Jingjie Zhang, Hanqun CAO, Zijun Gao, Xiaorui Wang, Chunbin Gu",
+      "paper_url": "https://openreview.net/pdf?id=hLwcNSFhC2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Tuk3Pqaizx",
+      "paper_id": "Tuk3Pqaizx",
+      "title": "Sampling-free Inference for Ab-Initio Potential Energy Surface Networks",
+      "authors": "Nicholas Gao, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/a5756fcefef29c3d09901a10b7d41557dd6a5131.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_6MRm3G4NiU",
+      "paper_id": "6MRm3G4NiU",
+      "title": "SaProt: Protein Language Modeling with Structure-aware Vocabulary",
+      "authors": "Jin Su, Chenchen Han, Yuyang Zhou, Junjie Shan, Xibin Zhou, Fajie Yuan",
+      "paper_url": "https://openreview.net/pdf?id=6MRm3G4NiU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_wm4WlHoXpC",
+      "paper_id": "wm4WlHoXpC",
+      "title": "Scalable Diffusion for Materials Generation",
+      "authors": "Sherry Yang, KwangHwan Cho, Amil Merchant, Pieter Abbeel, Dale Schuurmans, Igor Mordatch, Ekin Dogus Cubuk",
+      "paper_url": "https://openreview.net/pdf?id=wm4WlHoXpC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wyF5vNIsO7",
+      "paper_id": "wyF5vNIsO7",
+      "title": "Scalable Universal T-Cell Receptor Embeddings from Adaptive Immune Repertoires",
+      "authors": "Paidamoyo Chapfuwa, Ilker Demirel, Lorenzo Pisani, Javier Zazo, Elon Portugaly, H. Jabran Zahid, Julia Greissl",
+      "paper_url": "https://openreview.net/pdf?id=wyF5vNIsO7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kJFIH23hXb",
+      "paper_id": "kJFIH23hXb",
+      "title": "SE(3)-Stochastic Flow Matching for Protein Backbone Generation",
+      "authors": "Joey Bose, Tara Akhound-Sadegh, Guillaume Huguet, Kilian FATRAS, Jarrid Rector-Brooks, Cheng-Hao Liu, Andrei Cristian Nica, Maksym Korablyov, Michael M. Bronstein, Alexander Tong",
+      "paper_url": "https://openreview.net/pdf?id=kJFIH23hXb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_nqlymMx42E",
+      "paper_id": "nqlymMx42E",
+      "title": "Searching for High-Value Molecules Using Reinforcement Learning and Transformers",
+      "authors": "Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth",
+      "paper_url": "https://openreview.net/pdf?id=nqlymMx42E",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UQ0RqfhgCk",
+      "paper_id": "UQ0RqfhgCk",
+      "title": "Self-Supervised Diffusion Models for Electron-Aware Molecular Representation Learning",
+      "authors": "Gyoung S. Na, Chanyoung Park",
+      "paper_url": "https://openreview.net/pdf?id=UQ0RqfhgCk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uMAujpVi9m",
+      "paper_id": "uMAujpVi9m",
+      "title": "Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment",
+      "authors": "Bowen Gao, Yinjun Jia, YuanLe Mo, Yuyan Ni, Wei-Ying Ma, Zhi-Ming Ma, Yanyan Lan",
+      "paper_url": "https://openreview.net/pdf?id=uMAujpVi9m",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KSLkFYHlYg",
+      "paper_id": "KSLkFYHlYg",
+      "title": "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design",
+      "authors": "Keir Adams, Kento Abeywardane, Jenna Fromer, Connor W. Coley",
+      "paper_url": "https://openreview.net/pdf?id=KSLkFYHlYg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_1wVvweK3oIb",
+      "paper_id": "1wVvweK3oIb",
+      "title": "Simple GNN Regularisation for 3D Molecular Property Prediction and Beyond",
+      "authors": "Jonathan Godwin, Michael Schaarschmidt, Alexander L Gaunt, Alvaro Sanchez-Gonzalez, Yulia Rubanova, Petar Veličković, James Kirkpatrick, Peter Battaglia",
+      "paper_url": "https://openreview.net/pdf/435f7c82f234394254199216f44bf92910d8c237.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_mkuB677eMM",
+      "paper_id": "mkuB677eMM",
+      "title": "SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark",
+      "authors": "Bin CAO, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=mkuB677eMM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QaTBHSqmH9",
+      "paper_id": "QaTBHSqmH9",
+      "title": "Size-Generalizable RNA Structure Evaluation by Exploring Hierarchical Geometries",
+      "authors": "Zongzhao Li, Jiacheng Cen, Wenbing Huang, Taifeng Wang, Le Song",
+      "paper_url": "https://openreview.net/pdf?id=QaTBHSqmH9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_liKkG1zcWq",
+      "paper_id": "liKkG1zcWq",
+      "title": "Sliced Denoising: A Physics-Informed Molecular Pre-Training Method",
+      "authors": "Yuyan Ni, Shikun Feng, Wei-Ying Ma, Zhi-Ming Ma, Yanyan Lan",
+      "paper_url": "https://openreview.net/pdf?id=liKkG1zcWq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_M29nUGozPa",
+      "paper_id": "M29nUGozPa",
+      "title": "SMI-Editor: Edit-based SMILES Language Model with Fragment-level Supervision",
+      "authors": "Kangjie Zheng, Siyue Liang, Junwei Yang, Bin Feng, Zequn Liu, Wei Ju, Zhiping Xiao, Ming Zhang",
+      "paper_url": "https://openreview.net/pdf?id=M29nUGozPa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jkvZ7v4OmP",
+      "paper_id": "jkvZ7v4OmP",
+      "title": "Space Group Constrained Crystal Generation",
+      "authors": "Rui Jiao, Wenbing Huang, Yu Liu, Deli Zhao, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=jkvZ7v4OmP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_w60btE_8T2m",
+      "paper_id": "w60btE_8T2m",
+      "title": "Spanning Tree-based Graph Generation for Molecules",
+      "authors": "Sungsoo Ahn, Binghong Chen, Tianzhe Wang, Le Song",
+      "paper_url": "https://openreview.net/pdf/dcb1134d836d26dc8ef7d83683aa9f5b35964eae.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_kavTY__jxp",
+      "paper_id": "kavTY__jxp",
+      "title": "Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery",
+      "authors": "Yulun Wu, Nicholas Choma, Andrew Deru Chen, Mikaela Cashman, Erica Teixeira Prates, Veronica G Melesse Vergara, Manesh B Shah, Austin Clyde, Thomas Brettin, Wibe Albert de Jong, Neeraj Kumar, Martha S Head, Rick L. Stevens, Peter Nugent, Daniel A Jacobson, James B Brown",
+      "paper_url": "https://openreview.net/pdf/b93cd097bbeb37eeacd8b044df00fd6143a092c6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_givsRXsOt9r",
+      "paper_id": "givsRXsOt9r",
+      "title": "Spherical Message Passing for 3D Molecular Graphs",
+      "authors": "Yi Liu, Limei Wang, Meng Liu, Yuchao Lin, Xuan Zhang, Bora Oztekin, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf/7601c409e12322f92ca5dd6beeaaab909fdd13b1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_PSiijdQjNU",
+      "paper_id": "PSiijdQjNU",
+      "title": "Steering Protein Family Design through Profile Bayesian Flow",
+      "authors": "Jingjing Gong, Yu Pei, Siyu Long, Yuxuan Song, Zhe Zhang, Wenhao Huang, Ziyao Cao, Shuyi Zhang, Hao Zhou, Wei-Ying Ma",
+      "paper_url": "https://openreview.net/pdf?id=PSiijdQjNU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_84WmbzikPP",
+      "paper_id": "84WmbzikPP",
+      "title": "Stiefel Flow Matching for Moment-Constrained Structure Elucidation",
+      "authors": "Austin Henry Cheng, Alston Lo, Kin Long Kelvin Lee, Santiago Miret, Alan Aspuru-Guzik",
+      "paper_url": "https://openreview.net/pdf?id=84WmbzikPP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_C4BikKsgmK",
+      "paper_id": "C4BikKsgmK",
+      "title": "Str2Str: A Score-based Framework for Zero-shot Protein Conformation Sampling",
+      "authors": "Jiarui Lu, Bozitao Zhong, Zuobai Zhang, Jian Tang",
+      "paper_url": "https://openreview.net/pdf?id=C4BikKsgmK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OzUNDnpQyd",
+      "paper_id": "OzUNDnpQyd",
+      "title": "Structure Language Models for Protein Conformation Generation",
+      "authors": "Jiarui Lu, Xiaoyin Chen, Stephen Zhewen Lu, Chence Shi, Hongyu Guo, Yoshua Bengio, Jian Tang",
+      "paper_url": "https://openreview.net/pdf?id=OzUNDnpQyd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xnssGv9rpW",
+      "paper_id": "xnssGv9rpW",
+      "title": "SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models",
+      "authors": "Daniel Levy, Siba Smarak Panigrahi, Sékou-Oumar Kaba, Qiang Zhu, Kin Long Kelvin Lee, Mikhail Galkin, Santiago Miret, Siamak Ravanbakhsh",
+      "paper_url": "https://openreview.net/pdf?id=xnssGv9rpW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_jEYKjPE1xYN",
+      "paper_id": "jEYKjPE1xYN",
+      "title": "Symmetry-Aware Actor-Critic for 3D Molecular Design",
+      "authors": "Gregor N. C. Simm, Robert Pinsler, Gábor Csányi, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/910f34d86d427e8bfed4af189076b9d497578643.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_MIEnYtlGyv",
+      "paper_id": "MIEnYtlGyv",
+      "title": "Symphony: Symmetry-Equivariant Point-Centered Spherical Harmonics for 3D Molecule Generation",
+      "authors": "Ameya Daigavane, Song Eun Kim, Mario Geiger, Tess Smidt",
+      "paper_url": "https://openreview.net/pdf?id=MIEnYtlGyv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uvHmnahyp1",
+      "paper_id": "uvHmnahyp1",
+      "title": "SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints",
+      "authors": "Miruna Cretu, Charles Harris, Ilia Igashov, Arne Schneuing, Marwin Segler, Bruno Correia, Julien Roy, Emmanuel Bengio, Pietro Lio",
+      "paper_url": "https://openreview.net/pdf?id=uvHmnahyp1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jlzNb1iWs3",
+      "paper_id": "jlzNb1iWs3",
+      "title": "The OMG dataset: An Open MetaGenomic corpus for mixed-modality genomic language modeling",
+      "authors": "Andre Cornman, Jacob West-Roberts, Antonio Pedro Camargo, Simon Roux, Martin Beracochea, Milot Mirdita, Sergey Ovchinnikov, Yunha Hwang",
+      "paper_url": "https://openreview.net/pdf?id=jlzNb1iWs3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_xI4yNlkaqh",
+      "paper_id": "xI4yNlkaqh",
+      "title": "Towards 3D Molecule-Text Interpretation in Language Models",
+      "authors": "Sihang Li, Zhiyuan Liu, Yanchen Luo, Xiang Wang, Xiangnan He, Kenji Kawaguchi, Tat-Seng Chua, Qi Tian",
+      "paper_url": "https://openreview.net/pdf?id=xI4yNlkaqh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1durmugh3I",
+      "paper_id": "1durmugh3I",
+      "title": "Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians",
+      "authors": "Ishan Amin, Sanjeev Raja, Aditi S. Krishnapriyan",
+      "paper_url": "https://openreview.net/pdf?id=1durmugh3I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Zc2aIcucwc",
+      "paper_id": "Zc2aIcucwc",
+      "title": "Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets",
+      "authors": "Dominique Beaini, Shenyang Huang, Joao Alex Cunha, Zhiyi Li, Gabriela Moisescu-Pareja, Oleksandr Dymov, Samuel Maddrell-Mander, Callum McLean, Frederik Wenkel, Luis Müller, Jama Hussein Mohamud, Ali Parviz, Michael Craig, Michał Koziarski, Jiarui Lu, Zhaocheng Zhu, Cristian Gabellini, Kerstin Klaser, Josef Dean, Cas Wognum, Maciej Sypetkowski, Guillaume Rabusseau, Reihaneh Rabbany, Jian Tang, Christopher Morris, Mirco Ravanelli, Guy Wolf, Prudencio Tossou, Hadrien Mary, Therence Bois, Andrew W Fitzgibbon, Blazej Banaszewski, Chad Martin, Dominic Masters",
+      "paper_url": "https://openreview.net/pdf?id=Zc2aIcucwc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_0jP2n0YFmKG",
+      "paper_id": "0jP2n0YFmKG",
+      "title": "Towards Training Billion Parameter Graph Neural Networks for Atomic Simulations",
+      "authors": "Anuroop Sriram, Abhishek Das, Brandon M Wood, Siddharth Goyal, C. Lawrence Zitnick",
+      "paper_url": "https://openreview.net/pdf/d00345679f2290baeabb225428516fad14fea79e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_X41c4uB4k0",
+      "paper_id": "X41c4uB4k0",
+      "title": "Training-free Multi-objective Diffusion Model for 3D Molecule Generation",
+      "authors": "Xu Han, Caihua Shan, Yifei Shen, Can Xu, Han Yang, Xiang Li, Dongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=X41c4uB4k0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_fylclEqgvgd",
+      "paper_id": "fylclEqgvgd",
+      "title": "Transformer protein language models are unsupervised structure learners",
+      "authors": "Roshan Rao, Joshua Meier, Tom Sercu, Sergey Ovchinnikov, Alexander Rives",
+      "paper_url": "https://openreview.net/pdf/df3dd5269b8d22f21bb9984deb359af57f4dc0e6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_6K2RM6wVqKu",
+      "paper_id": "6K2RM6wVqKu",
+      "title": "Uni-Mol: A Universal 3D Molecular Representation Learning Framework",
+      "authors": "Gengmo Zhou, Zhifeng Gao, Qiankun Ding, Hang Zheng, Hongteng Xu, Zhewei Wei, Linfeng Zhang, Guolin Ke",
+      "paper_url": "https://openreview.net/pdf/780538c1af2025ccd4b712b4da07ff67b7bcb2fc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_NSVtmmzeRB",
+      "paper_id": "NSVtmmzeRB",
+      "title": "Unified Generative Modeling of 3D Molecules with Bayesian Flow Networks",
+      "authors": "Yuxuan Song, Jingjing Gong, Hao Zhou, Mingyue Zheng, Jingjing Liu, Wei-Ying Ma",
+      "paper_url": "https://openreview.net/pdf?id=NSVtmmzeRB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Lb91pXwZMR",
+      "paper_id": "Lb91pXwZMR",
+      "title": "UniGEM: A Unified Approach to Generation and Property Prediction for Molecules",
+      "authors": "Shikun Feng, Yuyan Ni, Lu yan, Zhi-Ming Ma, Wei-Ying Ma, Yanyan Lan",
+      "paper_url": "https://openreview.net/pdf?id=Lb91pXwZMR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_v9EjwMM55Y",
+      "paper_id": "v9EjwMM55Y",
+      "title": "UniMatch: Universal Matching from Atom to Task for Few-Shot Drug Discovery",
+      "authors": "Ruifeng Li, Mingqian Li, Wei Liu, Yuhua Zhou, Xiangxin Zhou, Yuan Yao, Qiang Zhang, Hongyang Chen",
+      "paper_url": "https://openreview.net/pdf?id=v9EjwMM55Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4sDicVEy6M",
+      "paper_id": "4sDicVEy6M",
+      "title": "What Do You See in Common? Learning Hierarchical Prototypes over Tree-of-Life to Discover Evolutionary Traits",
+      "authors": "Harish Babu Manogaran, M. Maruf, Arka Daw, Kazi Sajeed Mehrab, Caleb Patrick Charpentier, Josef Uyeda, Wasila M Dahdul, Matthew J Thompson, Elizabeth G Campolongo, Kaiya L Provost, Wei-Lun Chao, Tanya Berger-Wolf, Paula Mabee, Hilmar Lapp, Anuj Karpatne",
+      "paper_url": "https://openreview.net/pdf?id=4sDicVEy6M",
+      "venue": "iclr25"
+    }
+  ]
+}

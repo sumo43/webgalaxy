@@ -1,0 +1,1189 @@
+{
+  "cluster_id": 109,
+  "papers": [
+    {
+      "id": "acl21_223",
+      "paper_id": "",
+      "title": "[RETRACTED] Breaking the Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training",
+      "authors": "Linqing Chen, Junhui Li, Zhengxian Gong, Boxing Chen, Weihua Luo, Min Zhang, Guodong Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.222.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_820",
+      "paper_id": "",
+      "title": "A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training",
+      "authors": "Nitay Calderon, Subhabrata Mukherjee, Roi Reichart, Amir Kantor",
+      "paper_url": "https://aclanthology.org/2023.acl-long.818.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_95",
+      "paper_id": "",
+      "title": "A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation",
+      "authors": "Shashi Narayan, Gonçalo Simões, Yao Zhao, Joshua Maynez, Dipanjan Das, Michael Collins, Mirella Lapata",
+      "paper_url": "https://aclanthology.org/2022.acl-long.94.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_691",
+      "paper_id": "",
+      "title": "Accelerating Transformer Inference for Translation via Parallel Decoding",
+      "authors": "Andrea Santilli, Silvio Severino, Emilian Postolache, Valentino Maiorca, Michele Mancusi, Riccardo Marin, Emanuele Rodola",
+      "paper_url": "https://aclanthology.org/2023.acl-long.689.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_461",
+      "paper_id": "",
+      "title": "Accurate Online Posterior Alignments for Principled Lexically-Constrained Decoding",
+      "authors": "Soumya Chatterjee, Sunita Sarawagi, Preethi Jyothi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.460.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_473",
+      "paper_id": "",
+      "title": "AD-KD: Attribution-Driven Knowledge Distillation for Language Model Compression",
+      "authors": "Siyue Wu, Hongzhan Chen, Xiaojun Quan, Qifan Wang, Rui Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.471.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1444",
+      "paper_id": "",
+      "title": "An Empirical Study of Iterative Refinements for Non-autoregressive Translation",
+      "authors": "Yisheng Xiao, Pei Guo, Zechen Sun, Juntao Li, Kai Song, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1443.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_12",
+      "paper_id": "",
+      "title": "Attention Temperature Matters in Abstractive Summarization Distillation",
+      "authors": "Shengqiang Zhang, Xingxing Zhang, Hangbo Bao, Furu Wei",
+      "paper_url": "https://aclanthology.org/2022.acl-long.11.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1279",
+      "paper_id": "",
+      "title": "Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation",
+      "authors": "Yuxuan Zhou, Margret Keuper, Mario Fritz",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1278.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1473",
+      "paper_id": "",
+      "title": "Basic Reading Distillation",
+      "authors": "Zhi Zhou, Sirui Miao, Xiangyu Duan, Hao Yang, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1472.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_486",
+      "paper_id": "",
+      "title": "BERT Learns to Teach: Knowledge Distillation with Meta Learning",
+      "authors": "Wangchunshu Zhou, Canwen Xu, Julian McAuley",
+      "paper_url": "https://aclanthology.org/2022.acl-long.485.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_504",
+      "paper_id": "",
+      "title": "BERTGen: Multi-task Generation through BERT",
+      "authors": "Faidon Mitzalis, Ozan Caglayan, Pranava Madhyastha, Lucia Specia",
+      "paper_url": "https://aclanthology.org/2021.acl-long.503.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_694",
+      "paper_id": "",
+      "title": "Best-k Search Algorithm for Neural Text Generation",
+      "authors": "Jiacheng Xu, Caiming Xiong, Silvio Savarese, Yingbo Zhou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.692.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1126",
+      "paper_id": "",
+      "title": "Beyond Logits: Aligning Feature Dynamics for Effective Knowledge Distillation",
+      "authors": "Guoqiang Gong, Jiaxing Wang, Jin Xu, Deping Xiang, Zicheng Zhang, Leqi Shen, Yifeng Zhang, JunhuaShu JunhuaShu, ZhaolongXing ZhaolongXing, Zhen Chen, Pengzhang Liu, Ke Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1125.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_563",
+      "paper_id": "",
+      "title": "Beyond Noise: Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation",
+      "authors": "Eleftheria Briakou, Marine Carpuat",
+      "paper_url": "https://aclanthology.org/2021.acl-long.562.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_201",
+      "paper_id": "",
+      "title": "Beyond Sentence-Level End-to-End Speech Translation: Context Helps",
+      "authors": "Biao Zhang, Ivan Titov, Barry Haddow, Rico Sennrich",
+      "paper_url": "https://aclanthology.org/2021.acl-long.200.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_139",
+      "paper_id": "",
+      "title": "BiTIIMT: A Bilingual Text-infilling Method for Interactive Machine Translation",
+      "authors": "Yanling Xiao, Lemao Liu, Guoping Huang, Qu Cui, Shujian Huang, Shuming Shi, Jiajun Chen",
+      "paper_url": "https://aclanthology.org/2022.acl-long.138.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_457",
+      "paper_id": "",
+      "title": "Bridging the Data Gap between Training and Inference for Unsupervised Neural Machine Translation",
+      "authors": "Zhiwei He, Xing Wang, Rui Wang, Shuming Shi, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.456.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_323",
+      "paper_id": "",
+      "title": "Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation",
+      "authors": "Zhiwei Cao, Baosong Yang, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2023.acl-long.321.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_740",
+      "paper_id": "",
+      "title": "Bridging the Gap between Decision and Logits in Decision-based Knowledge Distillation for Pre-trained Language Models",
+      "authors": "Qinhong Zhou, Zonghan Yang, Peng Li, Yang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.738.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_327",
+      "paper_id": "",
+      "title": "Can Synthetic Translations Improve Bitext Quality?",
+      "authors": "Eleftheria Briakou, Marine Carpuat",
+      "paper_url": "https://aclanthology.org/2022.acl-long.326.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_885",
+      "paper_id": "",
+      "title": "Causes and Cures for Interference in Multilingual Translation",
+      "authors": "Uri Shaham, Maha Elbayad, Vedanuj Goswami, Omer Levy, Shruti Bhosale",
+      "paper_url": "https://aclanthology.org/2023.acl-long.883.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_508",
+      "paper_id": "",
+      "title": "CCMatrix: Mining Billions of High-Quality Parallel Sentences on the Web",
+      "authors": "Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave, Armand Joulin, Angela Fan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.507.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_170",
+      "paper_id": "",
+      "title": "Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation",
+      "authors": "Songming Zhang, Yijin Liu, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2022.acl-long.169.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_207",
+      "paper_id": "",
+      "title": "Confidence Based Bidirectional Global Context Aware Training Framework for Neural Machine Translation",
+      "authors": "Chulun Zhou, Fandong Meng, Jie Zhou, Min Zhang, Hongji Wang, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2022.acl-long.206.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_445",
+      "paper_id": "",
+      "title": "Continual Knowledge Distillation for Neural Machine Translation",
+      "authors": "Yuanchi Zhang, Peng Li, Maosong Sun, Yang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.443.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_589",
+      "paper_id": "",
+      "title": "Continual Learning with Semi-supervised Contrastive Distillation for Incremental Neural Machine Translation",
+      "authors": "Yunlong Liang, Fandong Meng, Jiaan Wang, Jinan Xu, Yufeng Chen, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.588.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_689",
+      "paper_id": "",
+      "title": "Contrastive Decoding: Open-ended Text Generation as Optimization",
+      "authors": "Xiang Lisa Li, Ari Holtzman, Daniel Fried, Percy Liang, Jason Eisner, Tatsunori Hashimoto, Luke Zettlemoyer, Mike Lewis",
+      "paper_url": "https://aclanthology.org/2023.acl-long.687.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_22",
+      "paper_id": "",
+      "title": "Contrastive Learning for Many-to-many Multilingual Neural Machine Translation",
+      "authors": "Xiao Pan, Mingxuan Wang, Liwei Wu, Lei Li",
+      "paper_url": "https://aclanthology.org/2021.acl-long.21.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_363",
+      "paper_id": "",
+      "title": "Decoupled Vocabulary Learning Enables Zero-Shot Translation from Unseen Languages",
+      "authors": "Carlos Mullov, Quan Pham, Alexander Waibel",
+      "paper_url": "https://aclanthology.org/2024.acl-long.362.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_5",
+      "paper_id": "",
+      "title": "Detecting and Mitigating Hallucinations in Machine Translation: Model Internal Workings Alone Do Well, Sentence Similarity Even Better",
+      "authors": "David Dale, Elena Voita, Loic Barrault, Marta R. Costa-jussà",
+      "paper_url": "https://aclanthology.org/2023.acl-long.3.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_513",
+      "paper_id": "",
+      "title": "Determinantal Beam Search",
+      "authors": "Clara Meister, Martina Forster, Ryan Cotterell",
+      "paper_url": "https://aclanthology.org/2021.acl-long.512.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_123",
+      "paper_id": "",
+      "title": "Did Translation Models Get More Robust Without Anyone Even Noticing?",
+      "authors": "Ben Peters, Andre Martins",
+      "paper_url": "https://aclanthology.org/2025.acl-long.122.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_437",
+      "paper_id": "",
+      "title": "Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels",
+      "authors": "Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Mrinmaya Sachan, Ryan Cotterell",
+      "paper_url": "https://aclanthology.org/2023.acl-long.435.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_564",
+      "paper_id": "",
+      "title": "Discriminative Reranking for Neural Machine Translation",
+      "authors": "Ann Lee, Michael Auli, Marc’Aurelio Ranzato",
+      "paper_url": "https://aclanthology.org/2021.acl-long.563.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_105",
+      "paper_id": "",
+      "title": "Diverse Pretrained Context Encodings Improve Document Translation",
+      "authors": "Domenic Donato, Lei Yu, Chris Dyer",
+      "paper_url": "https://aclanthology.org/2021.acl-long.104.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1411",
+      "paper_id": "",
+      "title": "Diversity Explains Inference Scaling Laws: Through a Case Study of Minimum Bayes Risk Decoding",
+      "authors": "Hidetaka Kamigaito, Hiroyuki Deguchi, Yusuke Sakai, Katsuhiko Hayashi, Taro Watanabe",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1410.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_313",
+      "paper_id": "",
+      "title": "Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models",
+      "authors": "Lorenzo Lupo, Marco Dinarelli, Laurent Besacier",
+      "paper_url": "https://aclanthology.org/2022.acl-long.312.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_66",
+      "paper_id": "",
+      "title": "Do Context-Aware Translation Models Pay the Right Attention?",
+      "authors": "Kayo Yin, Patrick Fernandes, Danish Pruthi, Aditi Chaudhary, André F. T. Martins, Graham Neubig",
+      "paper_url": "https://aclanthology.org/2021.acl-long.65.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_713",
+      "paper_id": "",
+      "title": "Document-Level Machine Translation with Large-Scale Public Parallel Corpora",
+      "authors": "Proyag Pal, Alexandra Birch, Kenneth Heafield",
+      "paper_url": "https://aclanthology.org/2024.acl-long.712.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1371",
+      "paper_id": "",
+      "title": "Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport",
+      "authors": "Yuu Jinnai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1370.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_654",
+      "paper_id": "",
+      "title": "Don’t Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation",
+      "authors": "Giorgos Vernikos, Andrei Popescu-Belis",
+      "paper_url": "https://aclanthology.org/2024.acl-long.653.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_164",
+      "paper_id": "",
+      "title": "Dynamic and Efficient Inference for Text Generation via BERT Family",
+      "authors": "Xiaobo Liang, Juntao Li, Lijun Wu, Ziqiang Cao, Min Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.162.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_561",
+      "paper_id": "",
+      "title": "EAG: Extract and Generate Multi-way Aligned Corpus for Complete Multi-lingual Neural Machine Translation",
+      "authors": "Yulin Xu, Zhen Yang, Fandong Meng, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2022.acl-long.560.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_436",
+      "paper_id": "",
+      "title": "Easy Guided Decoding in Providing Suggestions for Interactive Machine Translation",
+      "authors": "Ke Wang, Xin Ge, Jiayi Wang, Yuqi Zhang, Yu Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.434.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_519",
+      "paper_id": "",
+      "title": "EEL: Efficiently Encoding Lattices for Reranking",
+      "authors": "Prasann Singhal, Jiacheng Xu, Xi Ye, Greg Durrett",
+      "paper_url": "https://aclanthology.org/2023.acl-long.517.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_155",
+      "paper_id": "",
+      "title": "Efficient Cluster-Based k-Nearest-Neighbor Machine Translation",
+      "authors": "Dexin Wang, Kai Fan, Boxing Chen, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2022.acl-long.154.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_312",
+      "paper_id": "",
+      "title": "End-to-End Lexically Constrained Machine Translation for Morphologically Rich Languages",
+      "authors": "Josef Jon, João Paulo Aires, Dusan Varis, Ondřej Bojar",
+      "paper_url": "https://aclanthology.org/2021.acl-long.311.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_350",
+      "paper_id": "",
+      "title": "Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models",
+      "authors": "Sumanta Bhattacharyya, Amirmohammad Rooshenas, Subhajit Naskar, Simeng Sun, Mohit Iyyer, Andrew McCallum",
+      "paper_url": "https://aclanthology.org/2021.acl-long.349.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_497",
+      "paper_id": "",
+      "title": "Enhancing Neural Machine Translation Through Target Language Data: A kNN-LM Approach for Domain Adaptation",
+      "authors": "Abudurexiti Reheman, Hongyu Liu, Junhao Ruan, Abudukeyumu Abudula, Yingfeng Luo, Tong Xiao, JingBo Zhu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.496.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_607",
+      "paper_id": "",
+      "title": "f-Divergence Minimization for Sequence-Level Knowledge Distillation",
+      "authors": "Yuqiao Wen, Zichao Li, Wenyu Du, Lili Mou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.605.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_247",
+      "paper_id": "",
+      "title": "Fast and Accurate Neural Machine Translation with Translation Memory",
+      "authors": "Qiuxiang He, Guoping Huang, Qu Cui, Li Li, Lemao Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.246.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1082",
+      "paper_id": "",
+      "title": "Flipping Knowledge Distillation: Leveraging Small Models’ Expertise to Enhance LLMs in Text Matching",
+      "authors": "Mingzhe Li, Jing Xiang, Qishen Zhang, Kaiyang Wan, Xiuying Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1081.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_90",
+      "paper_id": "",
+      "title": "Flow-Adapter Architecture for Unsupervised Machine Translation",
+      "authors": "Yihong Liu, Haris Jabbar, Hinrich Schuetze",
+      "paper_url": "https://aclanthology.org/2022.acl-long.89.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_268",
+      "paper_id": "",
+      "title": "G-Transformer for Document-Level Machine Translation",
+      "authors": "Guangsheng Bao, Yue Zhang, Zhiyang Teng, Boxing Chen, Weihua Luo",
+      "paper_url": "https://aclanthology.org/2021.acl-long.267.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_6",
+      "paper_id": "",
+      "title": "GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators",
+      "authors": "Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, Eng Siong Chng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.5.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_156",
+      "paper_id": "",
+      "title": "Glancing Transformer for Non-Autoregressive Neural Machine Translation",
+      "authors": "Lihua Qian, Hao Zhou, Yu Bao, Mingxuan Wang, Lin Qiu, Weinan Zhang, Yong Yu, Lei Li",
+      "paper_url": "https://aclanthology.org/2021.acl-long.155.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_224",
+      "paper_id": "",
+      "title": "Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation",
+      "authors": "Yang Feng, Shuhao Gu, Dengji Guo, Zhengxin Yang, Chenze Shao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.223.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_371",
+      "paper_id": "",
+      "title": "GWLAN: General Word-Level AutocompletioN for Computer-Aided Translation",
+      "authors": "Huayang Li, Lemao Liu, Guoping Huang, Shuming Shi",
+      "paper_url": "https://aclanthology.org/2021.acl-long.370.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_751",
+      "paper_id": "",
+      "title": "Impacts of Misspelled Queries on Translation and Product Search",
+      "authors": "Greg Hanneman, Natawut Monaikul, Taichi Nakatani",
+      "paper_url": "https://aclanthology.org/2024.acl-long.750.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_446",
+      "paper_id": "",
+      "title": "Importance-based Neuron Allocation for Multilingual Neural Machine Translation",
+      "authors": "Wanying Xie, Yang Feng, Shuhao Gu, Dong Yu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.445.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_102",
+      "paper_id": "",
+      "title": "Improving Zero-Shot Translation by Disentangling Positional Information",
+      "authors": "Danni Liu, Jan Niehues, James Cross, Francisco Guzmán, Xian Li",
+      "paper_url": "https://aclanthology.org/2021.acl-long.101.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1589",
+      "paper_id": "",
+      "title": "Inferring from Logits: Exploring Best Practices for Decoding-Free Generative Candidate Selection",
+      "authors": "Mingyu Derek Ma, Yanna Ding, Zijie Huang, Jianxi Gao, Yizhou Sun, Wei Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1589.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_890",
+      "paper_id": "",
+      "title": "INK: Injecting kNN Knowledge in Nearest Neighbor Machine Translation",
+      "authors": "Wenhao Zhu, Jingjing Xu, Shujian Huang, Lingpeng Kong, Jiajun Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.888.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_488",
+      "paper_id": "",
+      "title": "Integrating Vectorized Lexical Constraints for Neural Machine Translation",
+      "authors": "Shuo Wang, Zhixing Tan, Yang Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.487.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_107",
+      "paper_id": "",
+      "title": "kNN-TL: k-Nearest-Neighbor Transfer Learning for Low-Resource Neural Machine Translation",
+      "authors": "Shudong Liu, Xuebo Liu, Derek F. Wong, Zhaocong Li, Wenxiang Jiao, Lidia S. Chao, Min Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.105.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_854",
+      "paper_id": "",
+      "title": "Knowledge Transfer in Incremental Learning for Multilingual Neural Machine Translation",
+      "authors": "Kaiyu Huang, Peng Li, Jin Ma, Ting Yao, Yang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.852.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_657",
+      "paper_id": "",
+      "title": "LANDeRMT: Dectecting and Routing Language-Aware Neurons for Selectively Finetuning LLMs to Machine Translation",
+      "authors": "Shaolin Zhu, Leiyu Pan, Bo Li, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.656.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1569",
+      "paper_id": "",
+      "title": "LangMark: A Multilingual Dataset for Automatic Post-Editing",
+      "authors": "Diego Velazquez, Mikaela Grace, Konstantinos Karageorgos, Lawrence Carin, Aaron Schliem, Dimitrios Zaikis, Roger Wechsler",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1569.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_576",
+      "paper_id": "",
+      "title": "latent-GLAT: Glancing at Latent Variables for Parallel Text Generation",
+      "authors": "Yu Bao, Hao Zhou, Shujian Huang, Dongqi Wang, Lihua Qian, Xinyu Dai, Jiajun Chen, Lei Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.575.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_168",
+      "paper_id": "",
+      "title": "Learning Confidence for Transformer-based Neural Machine Translation",
+      "authors": "Yu Lu, Jiali Zeng, Jiajun Zhang, Shuangzhi Wu, Mu Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.167.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_26",
+      "paper_id": "",
+      "title": "Learning Language Specific Sub-network for Multilingual Machine Translation",
+      "authors": "Zehui Lin, Liwei Wu, Mingxuan Wang, Lei Li",
+      "paper_url": "https://aclanthology.org/2021.acl-long.25.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_827",
+      "paper_id": "",
+      "title": "Learning Language-Specific Layers for Multilingual Machine Translation",
+      "authors": "Telmo Pires, Robin Schmidt, Yi-Hsiu Liao, Stephan Peitz",
+      "paper_url": "https://aclanthology.org/2023.acl-long.825.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_547",
+      "paper_id": "",
+      "title": "Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation",
+      "authors": "Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Rong Jin",
+      "paper_url": "https://aclanthology.org/2022.acl-long.546.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_251",
+      "paper_id": "",
+      "title": "Lifting the Curse of Capacity Gap in Distilling Language Models",
+      "authors": "Chen Zhang, Yang Yang, Jiahao Liu, Jingang Wang, Yunsen Xian, Benyou Wang, Dawei Song",
+      "paper_url": "https://aclanthology.org/2023.acl-long.249.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_377",
+      "paper_id": "",
+      "title": "Lightweight reranking for language model generations",
+      "authors": "Siddhartha Jain, Xiaofei Ma, Anoop Deoras, Bing Xiang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.376.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_631",
+      "paper_id": "",
+      "title": "Lost in Literalism: How Supervised Training Shapes Translationese in LLMs",
+      "authors": "Yafu Li, Ronghao Zhang, Zhilin Wang, Huajian Zhang, Leyang Cui, Yongjing Yin, Tong Xiao, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.630.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_856",
+      "paper_id": "",
+      "title": "MAP’s not dead yet: Uncovering true language model modes by conditioning away degeneracy",
+      "authors": "Davis Yoshida, Kartik Goyal, Kevin Gimpel",
+      "paper_url": "https://aclanthology.org/2024.acl-long.855.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_229",
+      "paper_id": "",
+      "title": "Marginal Utility Diminishes: Exploring the Minimum Knowledge for BERT Knowledge Distillation",
+      "authors": "Yuanxin Liu, Fandong Meng, Zheng Lin, Weiping Wang, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.228.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_87",
+      "paper_id": "",
+      "title": "MATE-KD: Masked Adversarial TExt, a Companion to Knowledge Distillation",
+      "authors": "Ahmad Rashid, Vasileios Lioutas, Mehdi Rezagholizadeh",
+      "paper_url": "https://aclanthology.org/2021.acl-long.86.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1068",
+      "paper_id": "",
+      "title": "Maximizing the Effectiveness of Larger BERT Models for Compression",
+      "authors": "Wen-Shu Fan, Su Lu, Shangyu Xing, Xin-Chun Li, De-Chuan Zhan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1067.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_506",
+      "paper_id": "",
+      "title": "Measuring and Increasing Context Usage in Context-Aware Machine Translation",
+      "authors": "Patrick Fernandes, Kayo Yin, Graham Neubig, André F. T. Martins",
+      "paper_url": "https://aclanthology.org/2021.acl-long.505.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_10",
+      "paper_id": "",
+      "title": "Mention Flags (MF): Constraining Transformer-based Text Generators",
+      "authors": "Yufei Wang, Ian Wood, Stephen Wan, Mark Dras, Mark Johnson",
+      "paper_url": "https://aclanthology.org/2021.acl-long.9.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_237",
+      "paper_id": "",
+      "title": "Meta-KD: A Meta Knowledge Distillation Framework for Language Model Compression across Domains",
+      "authors": "Haojie Pan, Chengyu Wang, Minghui Qiu, Yichang Zhang, Yaliang Li, Jun Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.236.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_528",
+      "paper_id": "",
+      "title": "Mid-Air Hand Gestures for Post-Editing of Machine Translation",
+      "authors": "Rashad Albo Jamara, Nico Herbig, Antonio Krüger, Josef van Genabith",
+      "paper_url": "https://aclanthology.org/2021.acl-long.527.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_763",
+      "paper_id": "",
+      "title": "MLAS-LoRA: Language-Aware Parameters Detection and LoRA-Based Knowledge Transfer for Multilingual Machine Translation",
+      "authors": "Tianyu Dong, Bo Li, Jinsong Liu, Shaolin Zhu, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.762.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_445",
+      "paper_id": "",
+      "title": "Modeling Bilingual Conversational Characteristics for Neural Chat Translation",
+      "authors": "Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.444.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_425",
+      "paper_id": "",
+      "title": "MSP: Multi-Stage Prompting for Making Pre-trained Language Models Better Translators",
+      "authors": "Zhixing Tan, Xiangwen Zhang, Shuo Wang, Yang Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.424.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_72",
+      "paper_id": "",
+      "title": "Multi-Granularity Structural Knowledge Distillation for Language Model Compression",
+      "authors": "Chang Liu, Chongyang Tao, Jiazhan Feng, Dongyan Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.71.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1362",
+      "paper_id": "",
+      "title": "Multi-perspective Alignment for Increasing Naturalness in Neural Machine Translation",
+      "authors": "Huiyuan Lai, Esther Ploeger, Rik Van Noord, Antonio Toral",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1361.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_288",
+      "paper_id": "",
+      "title": "Multilingual Document-Level Translation Enables Zero-Shot Transfer From Sentences to Documents",
+      "authors": "Biao Zhang, Ankur Bapna, Melvin Johnson, Ali Dabirmoghaddam, Naveen Arivazhagan, Orhan Firat",
+      "paper_url": "https://aclanthology.org/2022.acl-long.287.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_283",
+      "paper_id": "",
+      "title": "Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation",
+      "authors": "Yong Cheng, Ankur Bapna, Orhan Firat, Yuan Cao, Pidong Wang, Wolfgang Macherey",
+      "paper_url": "https://aclanthology.org/2022.acl-long.282.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_767",
+      "paper_id": "",
+      "title": "Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation",
+      "authors": "Jiachen Zhao, Wenlong Zhao, Andrew Drozdov, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum",
+      "paper_url": "https://aclanthology.org/2024.acl-long.766.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_568",
+      "paper_id": "",
+      "title": "Neural Machine Translation with Monolingual Translation Memory",
+      "authors": "Deng Cai, Yan Wang, Huayang Li, Wai Lam, Lemao Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.567.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_530",
+      "paper_id": "",
+      "title": "NEUROSTRUCTURAL DECODING: Neural Text Generation with Structural Constraints",
+      "authors": "Mohaddeseh Bastan, Mihai Surdeanu, Niranjan Balasubramanian",
+      "paper_url": "https://aclanthology.org/2023.acl-long.528.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_82",
+      "paper_id": "",
+      "title": "On the Efficacy of Sampling Adapters",
+      "authors": "Clara Meister, Tiago Pimentel, Luca Malagutti, Ethan Wilcox, Ryan Cotterell",
+      "paper_url": "https://aclanthology.org/2023.acl-long.80.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_15",
+      "paper_id": "",
+      "title": "Open-ended Long Text Generation via Masked Language Modeling",
+      "authors": "Xiaobo Liang, Zecheng Tang, Juntao Li, Min Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.13.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_772",
+      "paper_id": "",
+      "title": "Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation",
+      "authors": "Nuno M. Guerreiro, Pierre Colombo, Pablo Piantanida, André Martins",
+      "paper_url": "https://aclanthology.org/2023.acl-long.770.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_144",
+      "paper_id": "",
+      "title": "Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation",
+      "authors": "Chenze Shao, Yang Feng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.143.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_308",
+      "paper_id": "",
+      "title": "Point, Disambiguate and Copy: Incorporating Bilingual Dictionaries for Neural Machine Translation",
+      "authors": "Tong Zhang, Long Zhang, Wei Ye, Bo Li, Jinan Sun, Xiaoyu Zhu, Wen Zhao, Shikun Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.307.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_468",
+      "paper_id": "",
+      "title": "POS-Constrained Parallel Decoding for Non-autoregressive Generation",
+      "authors": "Kexin Yang, Wenqiang Lei, Dayiheng Liu, Weizhen Qi, Jiancheng Lv",
+      "paper_url": "https://aclanthology.org/2021.acl-long.467.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_182",
+      "paper_id": "",
+      "title": "Pre-training Distillation for Large Language Models: A Design Space Exploration",
+      "authors": "Hao Peng, Xin Lv, Yushi Bai, Zijun Yao, Jiajie Zhang, Lei Hou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.181.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1304",
+      "paper_id": "",
+      "title": "Predicting Through Generation: Why Generation Is Better for Prediction",
+      "authors": "Md Kowsher, Nusrat Jahan Prottasha, Prakash Bhat, Chun-Nam Yu, Mojtaba Soltanalian, Ivan Garibay, Ozlem Garibay, Chen Chen, Niloofar Yousefi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1303.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_529",
+      "paper_id": "",
+      "title": "Prediction Difference Regularization against Perturbation for Neural Machine Translation",
+      "authors": "Dengji Guo, Zhengrui Ma, Min Zhang, Yang Feng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.528.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_65",
+      "paper_id": "",
+      "title": "Pretrained Bidirectional Distillation for Machine Translation",
+      "authors": "Yimeng Zhuang, Mei Tu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.63.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_269",
+      "paper_id": "",
+      "title": "Prevent the Language Model from being Overconfident in Neural Machine Translation",
+      "authors": "Mengqi Miao, Fandong Meng, Yijin Liu, Xiao-Hua Zhou, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.268.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_837",
+      "paper_id": "",
+      "title": "Quality-Aware Translation Models: Efficient Generation and Quality Estimation in a Single Model",
+      "authors": "Christian Tomani, David Vilar, Markus Freitag, Colin Cherry, Subhajit Naskar, Mara Finkelstein, Xavier Garcia, Daniel Cremers",
+      "paper_url": "https://aclanthology.org/2024.acl-long.836.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_249",
+      "paper_id": "",
+      "title": "Quantification of Large Language Model Distillation",
+      "authors": "Sunbowen Lee, Junting Zhou, Chang Ao, Kaige Li, Xeron Du, Sirui He, Haihong Wu, Tianci Liu, Jiaheng Liu, Hamid Alinejad-Rokny, Min Yang, Yitao Liang, Zhoufutu Wen, Shiwen Ni",
+      "paper_url": "https://aclanthology.org/2025.acl-long.248.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_173",
+      "paper_id": "",
+      "title": "Redistributing Low-Frequency Words: Making the Most of Monolingual Data in Non-Autoregressive Translation",
+      "authors": "Liang Ding, Longyue Wang, Shuming Shi, Dacheng Tao, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.172.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_115",
+      "paper_id": "",
+      "title": "Reflective Decoding: Beyond Unidirectional Generation with Off-the-Shelf Language Models",
+      "authors": "Peter West, Ximing Lu, Ari Holtzman, Chandra Bhagavatula, Jena D. Hwang, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2021.acl-long.114.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1053",
+      "paper_id": "",
+      "title": "Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation",
+      "authors": "Zhi Qu, Yiran Wang, Jiannan Mao, Chenchen Ding, Hideki Tanaka, Masao Utiyama, Taro Watanabe",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1052.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_267",
+      "paper_id": "",
+      "title": "Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation",
+      "authors": "Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.266.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_868",
+      "paper_id": "",
+      "title": "Revisiting Commonsense Reasoning in Machine Translation: Training, Evaluation and Challenge",
+      "authors": "Xuebo Liu, Yutong Wang, Derek F. Wong, Runzhe Zhan, Liangxuan Yu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.866.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_588",
+      "paper_id": "",
+      "title": "Revisiting Knowledge Distillation for Autoregressive Language Models",
+      "authors": "Qihuang Zhong, Liang Ding, Li Shen, Juhua Liu, Bo Du, Dacheng Tao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.587.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_444",
+      "paper_id": "",
+      "title": "Rewriter-Evaluator Architecture for Neural Machine Translation",
+      "authors": "Yangming Li, Kaisheng Yao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.443.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_301",
+      "paper_id": "",
+      "title": "Scheduled Multi-task Learning for Neural Chat Translation",
+      "authors": "Yunlong Liang, Fandong Meng, Jinan Xu, Yufeng Chen, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2022.acl-long.300.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_505",
+      "paper_id": "",
+      "title": "Selective Knowledge Distillation for Neural Machine Translation",
+      "authors": "Fusheng Wang, Jianhao Yan, Fandong Meng, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.504.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_222",
+      "paper_id": "",
+      "title": "Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation",
+      "authors": "Wenxiang Jiao, Xing Wang, Zhaopeng Tu, Shuming Shi, Michael Lyu, Irwin King",
+      "paper_url": "https://aclanthology.org/2021.acl-long.221.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_349",
+      "paper_id": "",
+      "title": "SemFace: Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation",
+      "authors": "Shuo Ren, Long Zhou, Shujie Liu, Furu Wei, Ming Zhou, Shuai Ma",
+      "paper_url": "https://aclanthology.org/2021.acl-long.348.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_707",
+      "paper_id": "",
+      "title": "Small But Funny: A Feedback-Driven Approach to Humor Distillation",
+      "authors": "Sahithya Ravi, Patrick Huber, Akshat Shrivastava, Vered Shwartz, Arash Einolghozati",
+      "paper_url": "https://aclanthology.org/2024.acl-long.706.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_886",
+      "paper_id": "",
+      "title": "Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs",
+      "authors": "Anshumann Anshumann, Mohd Abbas Zaidi, Akhil Kedia, Jinwoo Ahn, Taehwak Kwon, Kangwook Lee, Haejun Lee, Joohyung Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.885.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_47",
+      "paper_id": "",
+      "title": "Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor",
+      "authors": "Xinyu Wang, Yong Jiang, Zhaohui Yan, Zixia Jia, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.46.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_12",
+      "paper_id": "",
+      "title": "Subset Retrieval Nearest Neighbor Machine Translation",
+      "authors": "Hiroyuki Deguchi, Taro Watanabe, Yusuke Matsui, Masao Utiyama, Hideki Tanaka, Eiichiro Sumita",
+      "paper_url": "https://aclanthology.org/2023.acl-long.10.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_113",
+      "paper_id": "",
+      "title": "Tailoring Instructions to Student’s Learning Levels Boosts Knowledge Distillation",
+      "authors": "Yuxin Ren, Zihan Zhong, Xingjian Shi, Yi Zhu, Chun Yuan, Mu Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.111.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_601",
+      "paper_id": "",
+      "title": "Target-Side Augmentation for Document-Level Machine Translation",
+      "authors": "Guangsheng Bao, Zhiyang Teng, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.599.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_334",
+      "paper_id": "",
+      "title": "TasTe: Teaching Large Language Models to Translate through Self-Reflection",
+      "authors": "Yutong Wang, Jiali Zeng, Xuebo Liu, Fandong Meng, Jie Zhou, Min Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.333.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_443",
+      "paper_id": "",
+      "title": "Text Style Transfer Back-Translation",
+      "authors": "Daimeng Wei, Zhanglin Wu, Hengchao Shang, Zongyao Li, Minghan Wang, Jiaxin Guo, Xiaoyu Chen, Zhengzhe Yu, Hao Yang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.441.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_337",
+      "paper_id": "",
+      "title": "The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities",
+      "authors": "David Stap, Eva Hasler, Bill Byrne, Christof Monz, Ke Tran",
+      "paper_url": "https://aclanthology.org/2024.acl-long.336.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_794",
+      "paper_id": "",
+      "title": "Theoretical Guarantees for Minimum Bayes Risk Decoding",
+      "authors": "Yuki Ichihara, Yuu Jinnai, Kaito Ariu, Tetsuro Morimura, Eiji Uchibe",
+      "paper_url": "https://aclanthology.org/2025.acl-long.793.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_529",
+      "paper_id": "",
+      "title": "Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM",
+      "authors": "Chenxia Tang, Jianchun Liu, Hongli Xu, Liusheng Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.528.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_213",
+      "paper_id": "",
+      "title": "Towards Higher Pareto Frontier in Multilingual Machine Translation",
+      "authors": "Yichong Huang, Xiaocheng Feng, Xinwei Geng, Baohang Li, Bing Qin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.211.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_13",
+      "paper_id": "",
+      "title": "Towards Making the Most of Cross-Lingual Transfer for Zero-Shot Neural Machine Translation",
+      "authors": "Guanhua Chen, Shuming Ma, Yun Chen, Dongdong Zhang, Jia Pan, Wenping Wang, Furu Wei",
+      "paper_url": "https://aclanthology.org/2022.acl-long.12.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1098",
+      "paper_id": "",
+      "title": "Towards the Law of Capacity Gap in Distilling Language Models",
+      "authors": "Chen Zhang, Qiuchi Li, Dawei Song, Zheyu Ye, Yan Gao, Yao Hu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1097.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_450",
+      "paper_id": "",
+      "title": "Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation",
+      "authors": "Songming Zhang, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.448.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_311",
+      "paper_id": "",
+      "title": "Towards User-Driven Neural Machine Translation",
+      "authors": "Huan Lin, Liang Yao, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Degen Huang, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2021.acl-long.310.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_447",
+      "paper_id": "",
+      "title": "Transfer Learning for Sequence Generation: from Single-source to Multi-source",
+      "authors": "Xuancheng Huang, Jingfang Xu, Maosong Sun, Yang Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.446.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_727",
+      "paper_id": "",
+      "title": "Two Intermediate Translations Are Better Than One: Fine-tuning LLMs for Document-level Translation Refinement",
+      "authors": "Yichen Dong, Xinglin Lyu, Junhui Li, Daimeng Wei, Min Zhang, Shimin Tao, Hao Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.726.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_592",
+      "paper_id": "",
+      "title": "Uncertainty Determines the Adequacy of the Mode and the Tractability of Decoding in Sequence-to-Sequence Models",
+      "authors": "Felix Stahlberg, Ilia Kulikov, Shankar Kumar",
+      "paper_url": "https://aclanthology.org/2022.acl-long.591.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_210",
+      "paper_id": "",
+      "title": "Understanding and Addressing the Under-Translation Problem from the Perspective of Decoding Objective",
+      "authors": "Chenze Shao, Fandong Meng, Jiali Zeng, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.209.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_186",
+      "paper_id": "",
+      "title": "Understanding and Improving Sequence-to-Sequence Pretraining for Neural Machine Translation",
+      "authors": "Wenxuan Wang, Wenxiang Jiao, Yongchang Hao, Xing Wang, Shuming Shi, Zhaopeng Tu, Michael Lyu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.185.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_334",
+      "paper_id": "",
+      "title": "Understanding and Improving the Robustness of Terminology Constraints in Neural Machine Translation",
+      "authors": "Huaao Zhang, Qiang Wang, Bo Qin, Zelin Shi, Haibo Wang, Ming Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.332.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_23",
+      "paper_id": "",
+      "title": "Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation",
+      "authors": "Mathias Müller, Rico Sennrich",
+      "paper_url": "https://aclanthology.org/2021.acl-long.22.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_443",
+      "paper_id": "",
+      "title": "Universal Conditional Masked Language Pre-training for Neural Machine Translation",
+      "authors": "Pengfei Li, Liangyou Li, Meng Zhang, Minghao Wu, Qun Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.442.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_226",
+      "paper_id": "",
+      "title": "Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning",
+      "authors": "Cheonbok Park, Yunwon Tae, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park, Jaegul Choo",
+      "paper_url": "https://aclanthology.org/2021.acl-long.225.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_150",
+      "paper_id": "",
+      "title": "Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding for Neural Machine Translation",
+      "authors": "Boxuan Lyu, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura",
+      "paper_url": "https://aclanthology.org/2025.acl-long.149.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_339",
+      "paper_id": "",
+      "title": "Using Neural Machine Translation for Generating Diverse Challenging Exercises for Language Learner",
+      "authors": "Frank Palma Gomez, Subhadarshi Panda, Michael Flor, Alla Rozovskaya",
+      "paper_url": "https://aclanthology.org/2023.acl-long.337.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_163",
+      "paper_id": "",
+      "title": "Weight Distillation: Transferring the Knowledge in Neural Network Parameters",
+      "authors": "Ye Lin, Yanyang Li, Ziyang Wang, Bei Li, Quan Du, Tong Xiao, Jingbo Zhu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.162.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_38",
+      "paper_id": "",
+      "title": "When Does Translation Require Context? A Data-driven, Multilingual Exploration",
+      "authors": "Patrick Fernandes, Kayo Yin, Emmy Liu, André Martins, Graham Neubig",
+      "paper_url": "https://aclanthology.org/2023.acl-long.36.pdf",
+      "venue": "acl23"
+    }
+  ]
+}

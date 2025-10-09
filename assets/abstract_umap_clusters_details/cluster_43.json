@@ -1,0 +1,469 @@
+{
+  "cluster_id": 43,
+  "papers": [
+    {
+      "id": "corl24_GGuNkjQSrk",
+      "paper_id": "GGuNkjQSrk",
+      "title": "Action Space Design in Reinforcement Learning for Robot Motor Skills",
+      "authors": "Julian Eßer, Gabriel B. Margolis, Oliver Urbann, Sören Kerner, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=GGuNkjQSrk",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_O0oK2bVist",
+      "paper_id": "O0oK2bVist",
+      "title": "Adapting Humanoid Locomotion over Challenging Terrain via Two-Phase Training",
+      "authors": "Wenhao Cui, Shengtao Li, Huaxing Huang, Bangyu Qin, Tianchu Zhang, hanjinchao, Liang Zheng, Ziyang Tang, Chenxu Hu, NING Yan, Jiahao Chen, Zheyuan Jiang",
+      "paper_url": "https://openreview.net/pdf?id=O0oK2bVist",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_58",
+      "paper_id": "58",
+      "title": "Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning",
+      "authors": "Xinyang Gu, Yen-Jen Wang, Xiang Zhu, Chengming Shi, Yanjiang Guo, Yichen Liu, Jianyu ChenXinyang Gu, Yen-Jen Wang, Xiang Zhu, Chengming Shi, Yanjiang Guo, Yichen Liu, Jianyu Chen",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p058.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_59",
+      "paper_id": "59",
+      "title": "Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion",
+      "authors": "Tairan He, Chong Zhang, Wenli Xiao, Guanqi He, Changliu Liu, Guanya ShiTairan He, Chong Zhang, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p059.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_wH7Wv0nAm8",
+      "paper_id": "wH7Wv0nAm8",
+      "title": "Bi-Level Motion Imitation for Humanoid Robots",
+      "authors": "Wenshuai Zhao, Yi Zhao, Joni Pajarinen, Michael Muehlebach",
+      "paper_url": "https://openreview.net/pdf?id=wH7Wv0nAm8",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss21_61",
+      "paper_id": "61",
+      "title": "Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning",
+      "authors": "Jonah Siekmann (Oregon State University), Kevin Green (Oregon State University), John Warila (Oregon State University), Alan Fern (Oregon State University), Jonathan Hurst (Oregon State University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p061.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_MnANx01rV2w",
+      "paper_id": "MnANx01rV2w",
+      "title": "CAJun: Continuous Adaptive Jumping using a Learned Centroidal Controller",
+      "authors": "Yuxiang Yang, Guanya Shi, Xiangyun Meng, Wenhao Yu, Tingnan Zhang, Jie Tan, Byron Boots",
+      "paper_url": "https://openreview.net/pdf?id=MnANx01rV2w",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_50",
+      "paper_id": "50",
+      "title": "Centralized Model Predictive Control for Collaborative Loco-Manipulation",
+      "authors": "Flavio De Vincenti (ETH Zürich)*, Stelian Coros (ETH Zürich)Flavio De Vincenti (ETH Zürich)*, Stelian Coros (ETH Zürich)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p050.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl22_zldI4UpuG7v",
+      "paper_id": "zldI4UpuG7v",
+      "title": "Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion",
+      "authors": "Zipeng Fu, Xuxin Cheng, Deepak Pathak",
+      "paper_url": "https://openreview.net/pdf?id=zldI4UpuG7v",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_56",
+      "paper_id": "56",
+      "title": "Demonstrating A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning",
+      "authors": "Laura M Smith (University of California, Berkeley), Ilya Kostrikov (University of California, Berkeley)*, Sergey Levine (University of California, Berkeley)Laura M Smith (University of California, Berkeley), Ilya Kostrikov (University of California, Berkeley)*, Sergey Levine (University of California, Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p056.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_103",
+      "paper_id": "103",
+      "title": "Design and Control of a Bipedal Robotic Character",
+      "authors": "Ruben Grandia, Espen Knoop, Michael A. Hopkins, Georg Wiedebach, Jared Bishop, Steven Pickles, David Müller, Moritz BächerRuben Grandia, Espen Knoop, Michael A. Hopkins, Georg Wiedebach, Jared Bishop, Steven Pickles, David Müller, Moritz Bächer",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p103.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_nVJm2RdPDu",
+      "paper_id": "nVJm2RdPDu",
+      "title": "DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets",
+      "authors": "Xiaoyu Huang, Yufeng Chi, Ruofeng Wang, Zhongyu Li, Xue Bin Peng, Sophia Shao, Borivoje Nikolic, Koushil Sreenath",
+      "paper_url": "https://openreview.net/pdf?id=nVJm2RdPDu",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_107",
+      "paper_id": "107",
+      "title": "Expressive Whole-Body Control for Humanoid Robots",
+      "authors": "Xuxin Cheng, Yandong Ji, Junming Chen, Ruihan Yang, Ge Yang, Xiaolong WangXuxin Cheng, Yandong Ji, Junming Chen, Ruihan Yang, Ge Yang, Xiaolong Wang",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p107.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_vm8Hr9YJHZ1",
+      "paper_id": "vm8Hr9YJHZ1",
+      "title": "Fast and Efficient Locomotion via Learned Gait Transitions",
+      "authors": "Yuxiang Yang, Tingnan Zhang, Erwin Coumans, Jie Tan, Byron Boots",
+      "paper_url": "https://openreview.net/pdf?id=vm8Hr9YJHZ1",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_94",
+      "paper_id": "94",
+      "title": "Gait design for limbless obstacle aided locomotion using geometric mechanics",
+      "authors": "Baxi Chong (Georgia Tech)*, Tianyu Wang (Georgia Tech), Daniel Irvine (Georgia Tech), Velin Kojouharov  (Georgia Tech), Bo Lin (Georgia Tech), Howie Choset (Carnegie Mellon University), Daniel Goldman (Georgia Tech), Grigoriy Blekherman (Georgia Tech)Baxi Chong (Georgia Tech)*, Tianyu Wang (Georgia Tech), Daniel Irvine (Georgia Tech), Velin Kojouharov  (Georgia Tech), Bo Lin (Georgia Tech), Howie Choset (Carnegie Mellon University), Daniel Goldman (Georgia Tech), Grigoriy Blekherman (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p094.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_ySI0tBYxpz",
+      "paper_id": "ySI0tBYxpz",
+      "title": "Gaitor: Learning a Unified Representation Across Gaits for Real-World Quadruped Locomotion",
+      "authors": "Alexander Luis Mitchell, Wolfgang Merkt, Aristotelis Papatheodorou, Ioannis Havoutis, Ingmar Posner",
+      "paper_url": "https://openreview.net/pdf?id=ySI0tBYxpz",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_9XV3dBqcfe",
+      "paper_id": "9XV3dBqcfe",
+      "title": "Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior",
+      "authors": "Ruihan Yang, Zhuoqun Chen, Jianhan Ma, Chongyi Zheng, Yiyu Chen, Quan Nguyen, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=9XV3dBqcfe",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_mqry_xMzvCM",
+      "paper_id": "mqry_xMzvCM",
+      "title": "GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots",
+      "authors": "Gilbert Feng, Hongbo Zhang, Zhongyu Li, Xue Bin Peng, Bhuvan Basireddy, Linzhu Yue, ZHITAO SONG, Lizhi Yang, Yunhui Liu, Koushil Sreenath, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=mqry_xMzvCM",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss22_21",
+      "paper_id": "21",
+      "title": "Human Motion Control of Quadrupedal Robots using Deep Reinforcement Learning",
+      "authors": "Sunwoo Kim (Seoul National University), Maks Sorokin (Georgia Institute of Technology), Jehee Lee (Seoul National University), Sehoon Ha (Georgia Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p021.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_fs7ia3FqUM",
+      "paper_id": "fs7ia3FqUM",
+      "title": "Humanoid Parkour Learning",
+      "authors": "Ziwen Zhuang, Shenzhe Yao, Hang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=fs7ia3FqUM",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_61",
+      "paper_id": "61",
+      "title": "HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation",
+      "authors": "Carmelo Sferrazza, Dun-Ming Huang, Xingyu Lin, Youngwoon Lee, Pieter AbbeelCarmelo Sferrazza, Dun-Ming Huang, Xingyu Lin, Youngwoon Lee, Pieter Abbeel",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p061.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_67tTQeO4HQ",
+      "paper_id": "67tTQeO4HQ",
+      "title": "In-Flight Attitude Control of a Quadruped using Deep Reinforcement Learning",
+      "authors": "Tarek El-Agroudi, Finn Gross Maurer, Jørgen Anker Olsen, Kostas Alexis",
+      "paper_url": "https://openreview.net/pdf?id=67tTQeO4HQ",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_NCnplCf4wo",
+      "paper_id": "NCnplCf4wo",
+      "title": "Learning a Distributed Hierarchical Locomotion Controller for Embodied Cooperation",
+      "authors": "Chuye Hong, Kangyao Huang, Huaping Liu",
+      "paper_url": "https://openreview.net/pdf?id=NCnplCf4wo",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_x6INXlnUGro",
+      "paper_id": "x6INXlnUGro",
+      "title": "Learning Agile Skills via Adversarial Imitation of Rough Partial Demonstrations",
+      "authors": "Chenhao Li, Marin Vlastelica, Sebastian Blaes, Jonas Frey, Felix Grimminger, Georg Martius",
+      "paper_url": "https://openreview.net/pdf?id=x6INXlnUGro",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_51",
+      "paper_id": "51",
+      "title": "Learning and Adapting Agile Locomotion Skills by Transferring Experience",
+      "authors": "Laura M Smith (University of California, Berkeley)*, J. Chase Kew (Google Brain), Tianyu Li (Meta), Linda Luu (Google Inc), Xue Bin Peng (University of California, Berkeley\"), Sehoon Ha (Georgia Tech), Jie Tan (Google Inc), Sergey Levine (University of California, Berkeley)...more>Laura M Smith (University of California, Berkeley)*, J. Chase Kew (Google Brain), Tianyu Li (Meta), Linda Luu (Google Inc), Xue Bin Peng (University of California, Berkeley\"), Sehoon Ha (Georgia Tech), Jie Tan (Google Inc), Sergey Levine (University of California, Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p051.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_vhGkyWgctu",
+      "paper_id": "vhGkyWgctu",
+      "title": "Learning Decentralized Multi-Biped Control for Payload Transport",
+      "authors": "Bikram Pandit, Ashutosh Gupta, Mohitvishnu S. Gadde, Addison Johnson, Aayam Kumar Shrestha, Helei Duan, Jeremy Dao, Alan Fern",
+      "paper_url": "https://openreview.net/pdf?id=vhGkyWgctu",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_Qz2N4lWBk3",
+      "paper_id": "Qz2N4lWBk3",
+      "title": "Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope",
+      "authors": "Haodi Hu, Feifei Qian, Daniel Seita",
+      "paper_url": "https://openreview.net/pdf?id=Qz2N4lWBk3",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_uMZ2jnZUDX",
+      "paper_id": "uMZ2jnZUDX",
+      "title": "Learning H-Infinity Locomotion Control",
+      "authors": "Junfeng Long, Wenye Yu, Quanyi Li, ZiRui Wang, Dahua Lin, Jiangmiao Pang",
+      "paper_url": "https://openreview.net/pdf?id=uMZ2jnZUDX",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_XopATjibyz",
+      "paper_id": "XopATjibyz",
+      "title": "Learning Quadruped Locomotion Using Differentiable Simulation",
+      "authors": "Yunlong Song, Sang bae Kim, Davide Scaramuzza",
+      "paper_url": "https://openreview.net/pdf?id=XopATjibyz",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_1TEZ1hiY5m",
+      "paper_id": "1TEZ1hiY5m",
+      "title": "Learning Robotic Locomotion Affordances and Photorealistic Simulators from Human-Captured Data",
+      "authors": "Alejandro Escontrela, Justin Kerr, Kyle Stachowicz, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=1TEZ1hiY5m",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_R4E8wTUtxdl",
+      "paper_id": "R4E8wTUtxdl",
+      "title": "Learning to Jump from Pixels",
+      "authors": "Gabriel B Margolis, Tao Chen, Kartik Paigwar, Xiang Fu, Donghyun Kim, Sang bae Kim, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=R4E8wTUtxdl",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_wK2fDDJ5VcF",
+      "paper_id": "wK2fDDJ5VcF",
+      "title": "Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning",
+      "authors": "Nikita Rudin, David Hoeller, Philipp Reist, Marco Hutter",
+      "paper_url": "https://openreview.net/pdf?id=wK2fDDJ5VcF",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_Re3NjSwf0WF",
+      "paper_id": "Re3NjSwf0WF",
+      "title": "Legged Locomotion in Challenging Terrains using Egocentric Vision",
+      "authors": "Ananye Agarwal, Ashish Kumar, Jitendra Malik, Deepak Pathak",
+      "paper_url": "https://openreview.net/pdf?id=Re3NjSwf0WF",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_Lixj7WEGEy",
+      "paper_id": "Lixj7WEGEy",
+      "title": "MBC: Multi-Brain Collaborative Control for Quadruped Robots",
+      "authors": "Hang Liu, Yi Cheng, Rankun Li, Xiaowen Hu, Linqi Ye, Houde Liu",
+      "paper_url": "https://openreview.net/pdf?id=Lixj7WEGEy",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_PfC1Jr6gvuP",
+      "paper_id": "PfC1Jr6gvuP",
+      "title": "Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots",
+      "authors": "Zipeng Fu, Ashish Kumar, Jitendra Malik, Deepak Pathak",
+      "paper_url": "https://openreview.net/pdf?id=PfC1Jr6gvuP",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_31",
+      "paper_id": "31",
+      "title": "Moving sidewinding forward: optimizing contact patterns for limbless robots via geometric mechanics",
+      "authors": "Baxi Chong (Georgia Tech), Tianyu Wang (Georgia Tech), Bo Lin (Georgia Tech), Shengkai Li (Georgia Tech), Howie Choset (CMU), Grigoriy Blekherman (Georgia Tech), Daniel Goldman (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p031.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_2AZfKk9tRI",
+      "paper_id": "2AZfKk9tRI",
+      "title": "Multi-agent Reinforcement Learning with Hybrid Action Space for Free Gait Motion Planning of Hexapod Robots",
+      "authors": "Huiqiao Fu, Kaiqiang Tang, Peng Li, Guizhou Deng, Chunlin Chen",
+      "paper_url": "https://openreview.net/pdf?id=2AZfKk9tRI",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_PbQOZntuXO",
+      "paper_id": "PbQOZntuXO",
+      "title": "One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion",
+      "authors": "Nico Bohlinger, Grzegorz Czechmanowski, Maciej Piotr Krupka, Piotr Kicki, Krzysztof Walas, Jan Peters, Davide Tateo",
+      "paper_url": "https://openreview.net/pdf?id=PbQOZntuXO",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_22",
+      "paper_id": "22",
+      "title": "Rapid Locomotion via Reinforcement Learning",
+      "authors": "Gabriel B Margolis (Massachusetts Institute of Technology), Ge Yang (University of Chicago), Kartik Paigwar (Arizona State University), Tao Chen (Massachusetts Institute of Technology), Pulkit Agrawal (Massachusetts Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p022.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_57",
+      "paper_id": "57",
+      "title": "Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers",
+      "authors": "Fan Shi, Chong Zhang, Takahiro Miki, Joonho Lee, Marco Hutter, Stelian CorosFan Shi, Chong Zhang, Takahiro Miki, Joonho Lee, Marco Hutter, Stelian Coros",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p057.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_60",
+      "paper_id": "60",
+      "title": "RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion",
+      "authors": "Shangke Lyu, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin WangShangke Lyu, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin Wang",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p060.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_11",
+      "paper_id": "11",
+      "title": "RMA: Rapid Motor Adaptation for Legged Robots",
+      "authors": "Ashish Kumar (UC Berkeley), Zipeng Fu (CMU), Deepak Pathak (CMU), Jitendra Malik (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p011.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_uo937r5eTE",
+      "paper_id": "uo937r5eTE",
+      "title": "Robot Parkour Learning",
+      "authors": "Ziwen Zhuang, Zipeng Fu, Jianren Wang, Christopher G Atkeson, Sören Schwertfeger, Chelsea Finn, Hang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=uo937r5eTE",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_wcbrhPnOei",
+      "paper_id": "wcbrhPnOei",
+      "title": "RobotKeyframing: Learning Locomotion with High-Level Objectives via Mixture of Dense and Sparse Rewards",
+      "authors": "Fatemeh Zargarbashi, Jin Cheng, Dongho Kang, Robert Sumner, Stelian Coros",
+      "paper_url": "https://openreview.net/pdf?id=wcbrhPnOei",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_52",
+      "paper_id": "52",
+      "title": "Robust and Versatile Bipedal Jumping Control through Reinforcement Learning",
+      "authors": "Zhongyu Li (University of California, Berkeley)*, Xue Bin Peng (Simon Fraser University), Pieter Abbeel (University of California, Berkeley), Sergey Levine (University of California, Berkeley), Glen Berseth (Université de Montréal, Mila), Koushil Sreenath (University of California, Berkeley)Zhongyu Li (University of California, Berkeley)*, Xue Bin Peng (Simon Fraser University), Pieter Abbeel (University of California, Berkeley), Sergey Levine (University of California, Berkeley), Glen Berseth (Université de Montréal, Mila), Koushil Sreenath (University of California, Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p052.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_X7okQlJz9M",
+      "paper_id": "X7okQlJz9M",
+      "title": "Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control",
+      "authors": "David DeFazio, Eisuke Hirota, Shiqi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=X7okQlJz9M",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_AsbyZRdqPv",
+      "paper_id": "AsbyZRdqPv",
+      "title": "Simple Masked Training Strategies Yield Control Policies That Are Robust to Sensor Failure",
+      "authors": "Skand Skand, Bikram Pandit, Chanho Kim, Li Fuxin, Stefan Lee",
+      "paper_url": "https://openreview.net/pdf?id=AsbyZRdqPv",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_RMkdcKK7jq",
+      "paper_id": "RMkdcKK7jq",
+      "title": "SLR: Learning Quadruped Locomotion without Privileged Information",
+      "authors": "Shiyi Chen, Zeyu Wan, Shiyang Yan, Chun Zhang, Weiyi Zhang, Qiang Li, Debing Zhang, Fasih Ud Din Farrukh",
+      "paper_url": "https://openreview.net/pdf?id=RMkdcKK7jq",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_DSdAEsEGhE",
+      "paper_id": "DSdAEsEGhE",
+      "title": "SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience",
+      "authors": "Elliot Chane-Sane, Joseph Amigo, Thomas Flayols, Ludovic Righetti, Nicolas Mansard",
+      "paper_url": "https://openreview.net/pdf?id=DSdAEsEGhE",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_JT4orC5QaLQ",
+      "paper_id": "JT4orC5QaLQ",
+      "title": "Strength Through Diversity: Robust Behavior Learning via Mixture Policies",
+      "authors": "Tim Seyde, Wilko Schwarting, Igor Gilitschenski, Markus Wulfmeier, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf?id=JT4orC5QaLQ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_1yj7yMTtna",
+      "paper_id": "1yj7yMTtna",
+      "title": "Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion",
+      "authors": "Michael Bloesch, Jan Humplik, Viorica Patraucean, Roland Hafner, Tuomas Haarnoja, Arunkumar Byravan, Noah Yamamoto Siegel, Saran Tunyasuvunakool, Federico Casarini, Nathan Batchelor, Francesco Romano, Stefano Saliceti, Martin Riedmiller, S. M. Ali Eslami, Nicolas Heess",
+      "paper_url": "https://openreview.net/pdf?id=1yj7yMTtna",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_W7eg2NqFJ60",
+      "paper_id": "W7eg2NqFJ60",
+      "title": "Transforming a Quadruped into a Guide Robot for the Visually Impaired: Formalizing Wayfinding, Interaction Modeling, and Safety Mechanism",
+      "authors": "J. Taery Kim, Wenhao Yu, Yash Kothari, Bruce Walker, Jie Tan, Greg Turk, Sehoon Ha",
+      "paper_url": "https://openreview.net/pdf?id=W7eg2NqFJ60",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_3i7j8ZPnbm",
+      "paper_id": "3i7j8ZPnbm",
+      "title": "UMI-on-Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers",
+      "authors": "Huy Ha, Yihuai Gao, Zipeng Fu, Jie Tan, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=3i7j8ZPnbm",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_E4K3yLQQ7s",
+      "paper_id": "E4K3yLQQ7s",
+      "title": "Visual Manipulation with Legs",
+      "authors": "Xialin He, Chengjing Yuan, Wenxuan Zhou, Ruihan Yang, David Held, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=E4K3yLQQ7s",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_cT2N3p1AcE",
+      "paper_id": "cT2N3p1AcE",
+      "title": "Visual Whole-Body Control for Legged Loco-Manipulation",
+      "authors": "Minghuan Liu, Zixuan Chen, Xuxin Cheng, Yandong Ji, Ri-Zhao Qiu, Ruihan Yang, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=cT2N3p1AcE",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_NDYbXf-DvwZ",
+      "paper_id": "NDYbXf-DvwZ",
+      "title": "Visual-Locomotion: Learning to Walk on Complex Terrains with Vision",
+      "authors": "Wenhao Yu, Deepali Jain, Alejandro Escontrela, Atil Iscen, Peng Xu, Erwin Coumans, Sehoon Ha, Jie Tan, Tingnan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=NDYbXf-DvwZ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_52c5e73SlS2",
+      "paper_id": "52c5e73SlS2",
+      "title": "Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior",
+      "authors": "Gabriel B. Margolis, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=52c5e73SlS2",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_Czs2xH9114",
+      "paper_id": "Czs2xH9114",
+      "title": "WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts",
+      "authors": "Chong Zhang, Wenli Xiao, Tairan He, Guanya Shi",
+      "paper_url": "https://openreview.net/pdf?id=Czs2xH9114",
+      "venue": "corl24"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Perception & Mapping",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Multimodal sensor fusion",
+                    "what_is_covered": "Fuse heterogeneous sensors for richer scene understanding",
+                    "typical_examples": "LiDAR–Camera Fusion; Radar–Camera Fusion; V2X Cooperative Perception ...",
+                    "cluster": "0,6,7,8,14,16"
+                },
+                {
+                    "id": "1.2",
+                    "name": "3D reconstruct/occupancy",
+                    "what_is_covered": "Build dense or sparse geometric maps for localisation",
+                    "typical_examples": "3-D SLAM & Reconstruction; 3-D Occupancy; Efficient 3-D Representation",
+                    "cluster": "0,8,16"
+                },
+                {
+                    "id": "1.3",
+                    "name": "BEV / top-view mapping",
+                    "what_is_covered": "Bird’s-eye or top-down representations for planning",
+                    "typical_examples": "BEV Perception; V2X Collaborative Perception",
+                    "cluster": "0,14,16"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Manipulation & Grasping",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Dexterous grasping",
+                    "what_is_covered": "Multi-finger in-hand manipulation",
+                    "typical_examples": "Dexterous Robotic Grasping; Dexterous Grasp & Manipulation",
+                    "cluster": "11,12"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Generalist manipulation",
+                    "what_is_covered": "Single policy handles diverse objects/tasks",
+                    "typical_examples": "Generalist Robotic Manipulation; Robotic Manipulation; Humanoid Manipulation",
+                    "cluster": "3,4,9"
+                },
+                {
+                    "id": "2.3",
+                    "name": "Tactile-vision fusion",
+                    "what_is_covered": "Combine touch and vision for reactive grasps",
+                    "typical_examples": "Multimodal Tactile-Vision Learning",
+                    "cluster": "11"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Locomotion & Navigation",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Legged locomotion control",
+                    "what_is_covered": "Whole-body control and adaptation on uneven terrain",
+                    "typical_examples": "Legged Robot Locomotion; Learning-Based Control & Adaptation",
+                    "cluster": "17"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Embodied VL navigation",
+                    "what_is_covered": "Language-directed navigation with active mapping",
+                    "typical_examples": "Embodied Vision-Language Navigation; Active 3-D Mapping & Planning",
+                    "cluster": "7,19"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Planning & Control",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Language/hierarchical planning",
+                    "what_is_covered": "Translate language or high-level goals into executable skills",
+                    "typical_examples": "Language-Guided Planning & Control; Hierarchical Skill Planning & Adaptation",
+                    "cluster": "2,18"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Diffusion/Transformer policies",
+                    "what_is_covered": "Trajectory generation with generative sequence models",
+                    "typical_examples": "Diffusion Policies; Diffusion/Transformer Policy Models; Generative Diffusion Models",
+                    "cluster": "1,9,14"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Robot Learning & Adaptation",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "RL & imitation",
+                    "what_is_covered": "Learn skills from rewards, demonstrations or offline data",
+                    "typical_examples": "Robot Reinforcement Learning; Imitation Learning Policies; Sample-Efficient RL ...",
+                    "cluster": "3,9,15"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Sim to real & continual adaptation",
+                    "what_is_covered": "Transfer and improve policies across domains over time",
+                    "typical_examples": "Continual Sim-to-Real Adaptation; Sim-to-Real Transfer; Self-Supervised Distillation/Adaptation",
+                    "cluster": "0,4,15,16"
+                },
+                {
+                    "id": "5.3",
+                    "name": "Multitask / generalisable policies",
+                    "what_is_covered": "Single policy generalises across many tasks and embodiments",
+                    "typical_examples": "Multitask Generalisable Robotics",
+                    "cluster": "1"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Autonomous Driving",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Motion forecasting, perception & simulation",
+                    "what_is_covered": "Forecast traffic actors, all-weather perception, long-tail scenario simulation",
+                    "typical_examples": "Motion Forecasting; Trajectory Prediction; Driving Perception; Scenario Simulation",
+                    "cluster": "5,6,8,13,14"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Simulation & World Models",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "Generative world models",
+                    "what_is_covered": "Learn latent physics/world models for planning or RL",
+                    "typical_examples": "Generative World Models",
+                    "cluster": "12"
+                },
+                {
+                    "id": "7.2",
+                    "name": "Self-supervised simulation",
+                    "what_is_covered": "Expand synthetic experience using self-supervised signals",
+                    "typical_examples": "Self-Supervised Generative Simulation",
+                    "cluster": "5"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Embodied Language Robotics",
+            "subcategories": [
+                {
+                    "id": "8.1",
+                    "name": "LLM-driven robotics",
+                    "what_is_covered": "Use large language models for zero-shot policy/reasoning",
+                    "typical_examples": "LLM-Driven Robotics; LLM-Enhanced Driving; LLM-Driven Zero-Shot Planning",
+                    "cluster": "2,13,19"
+                },
+                {
+                    "id": "8.2",
+                    "name": "Vision-language control",
+                    "what_is_covered": "Pair vision with text to drive low-level actions",
+                    "typical_examples": "Vision-Language Robotic Control; Hierarchical Skill Planning & Adaptation",
+                    "cluster": "18"
+                },
+                {
+                    "id": "8.3",
+                    "name": "Open-vocabulary mapping",
+                    "what_is_covered": "Build scene maps labelled with free-form language",
+                    "typical_examples": "Open-Vocabulary Scene Mapping",
+                    "cluster": "19"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Safety & Robustness",
+            "subcategories": [
+                {
+                    "id": "9.1",
+                    "name": "Safety-aware planning",
+                    "what_is_covered": "Explicit risk reasoning during motion generation",
+                    "typical_examples": "Safety-Aware Motion Planning",
+                    "cluster": "10"
+                },
+                {
+                    "id": "9.2",
+                    "name": "Runtime monitoring",
+                    "what_is_covered": "Detect and mitigate failures on-the-fly",
+                    "typical_examples": "Failure Detection & Runtime Monitoring",
+                    "cluster": "18"
+                },
+                {
+                    "id": "9.3",
+                    "name": "Robust control",
+                    "what_is_covered": "Improve stability against disturbances and uncertainties",
+                    "typical_examples": "Safety & Robustness (Locomotion)",
+                    "cluster": "17"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Multi-Robot & Human Collaboration",
+            "subcategories": [
+                {
+                    "id": "10.1",
+                    "name": "Multi-agent collaboration",
+                    "what_is_covered": "Plan and act with other robots or humans in the loop",
+                    "typical_examples": "Multi-Agent / Human-Robot Collaboration",
+                    "cluster": "10"
+                }
+            ]
+        }
+    ]
+}

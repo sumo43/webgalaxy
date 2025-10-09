@@ -1,0 +1,1485 @@
+{
+  "cluster_id": 99,
+  "papers": [
+    {
+      "id": "acl22_346",
+      "paper_id": "",
+      "title": "A Comparative Study of Faithfulness Metrics for Model Interpretability Methods",
+      "authors": "Chun Sik Chan, Huanqi Kong, Liang Guanqing",
+      "paper_url": "https://aclanthology.org/2022.acl-long.345.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_482",
+      "paper_id": "",
+      "title": "A Rationale-Centric Framework for Human-in-the-loop Machine Learning",
+      "authors": "Jinghui Lu, Linyi Yang, Brian Namee, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.481.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_380",
+      "paper_id": "",
+      "title": "A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens",
+      "authors": "Zhijie Nie, Richong Zhang, Zhanyu Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.379.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_591",
+      "paper_id": "",
+      "title": "A Universal Discriminator for Zero-Shot Generalization",
+      "authors": "Haike Xu, Zongyu Lin, Jing Zhou, Yanan Zheng, Zhilin Yang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.589.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_418",
+      "paper_id": "",
+      "title": "Alignment Rationale for Natural Language Inference",
+      "authors": "Zhongtao Jiang, Yuanzhe Zhang, Zhao Yang, Jun Zhao, Kang Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.417.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_478",
+      "paper_id": "",
+      "title": "An Empirical Study on Explanations in Out-of-Domain Settings",
+      "authors": "George Chrysostomou, Nikolaos Aletras",
+      "paper_url": "https://aclanthology.org/2022.acl-long.477.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_33",
+      "paper_id": "",
+      "title": "An Information-Theoretic Approach to Analyze NLP Classification Tasks",
+      "authors": "Luran Wang, Mark Gales, Vatsal Raina",
+      "paper_url": "https://aclanthology.org/2024.acl-long.32.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_61",
+      "paper_id": "",
+      "title": "An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels",
+      "authors": "Taylor Sorensen, Joshua Robinson, Christopher Rytting, Alexander Shaw, Kyle Rogers, Alexia Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate",
+      "paper_url": "https://aclanthology.org/2022.acl-long.60.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_257",
+      "paper_id": "",
+      "title": "An Investigation of the (In)effectiveness of Counterfactually Augmented Data",
+      "authors": "Nitish Joshi, He He",
+      "paper_url": "https://aclanthology.org/2022.acl-long.256.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_92",
+      "paper_id": "",
+      "title": "Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation",
+      "authors": "Elena Voita, Rico Sennrich, Ivan Titov",
+      "paper_url": "https://aclanthology.org/2021.acl-long.91.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_895",
+      "paper_id": "",
+      "title": "Analyzing Transformers in Embedding Space",
+      "authors": "Guy Dar, Mor Geva, Ankit Gupta, Jonathan Berant",
+      "paper_url": "https://aclanthology.org/2023.acl-long.893.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_28",
+      "paper_id": "",
+      "title": "Answer is All You Need: Instruction-following Text Embedding via Answering the Question",
+      "authors": "Letian Peng, Yuwei Zhang, Zilong Wang, Jayanth Srinivasa, Gaowen Liu, Zihan Wang, Jingbo Shang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.27.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_102",
+      "paper_id": "",
+      "title": "AoE: Angle-optimized Embeddings for Semantic Textual Similarity",
+      "authors": "Xianming Li, Jing Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.101.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_823",
+      "paper_id": "",
+      "title": "Are Human Explanations Always Helpful? Towards Objective Evaluation of Human Natural Language Explanations",
+      "authors": "Bingsheng Yao, Prithviraj Sen, Lucian Popa, James Hendler, Dakuo Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.821.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_394",
+      "paper_id": "",
+      "title": "Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-text Rationales",
+      "authors": "Brihi Joshi, Ziyi Liu, Sahana Ramnath, Aaron Chan, Zhewei Tong, Shaoliang Nie, Qifan Wang, Yejin Choi, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2023.acl-long.392.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_167",
+      "paper_id": "",
+      "title": "Are Prompt-based Models Clueless?",
+      "authors": "Pride Kavumba, Ryo Takahashi, Yusuke Oda",
+      "paper_url": "https://aclanthology.org/2022.acl-long.166.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_104",
+      "paper_id": "",
+      "title": "Attention Calibration for Transformer in Neural Machine Translation",
+      "authors": "Yu Lu, Jiali Zeng, Jiajun Zhang, Shuangzhi Wu, Mu Li",
+      "paper_url": "https://aclanthology.org/2021.acl-long.103.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_429",
+      "paper_id": "",
+      "title": "BanditMTL: Bandit-based Multi-task Learning for Text Classification",
+      "authors": "Yuren Mao, Zekai Wang, Weiwei Liu, Xuemin Lin, Wenbin Hu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.428.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1322",
+      "paper_id": "",
+      "title": "Better Embeddings with Coupled Adam",
+      "authors": "Felix Stollenwerk, Tobias Stollenwerk",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1321.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_430",
+      "paper_id": "",
+      "title": "Can Explanations Be Useful for Calibrating Black Box Models?",
+      "authors": "Xi Ye, Greg Durrett",
+      "paper_url": "https://aclanthology.org/2022.acl-long.429.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_241",
+      "paper_id": "",
+      "title": "CELDA: Leveraging Black-box Language Model as Enhanced Classifier without Labels",
+      "authors": "Hyunsoo Cho, Youna Kim, Sang-goo Lee",
+      "paper_url": "https://aclanthology.org/2023.acl-long.239.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_728",
+      "paper_id": "",
+      "title": "Circuit Compositions: Exploring Modular Structures in Transformer-Based Language Models",
+      "authors": "Philipp Mondorf, Sondre Wold, Barbara Plank",
+      "paper_url": "https://aclanthology.org/2025.acl-long.727.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_443",
+      "paper_id": "",
+      "title": "Circuit Stability Characterizes Language Model Generalization",
+      "authors": "Alan Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.442.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_452",
+      "paper_id": "",
+      "title": "CLUES: A Benchmark for Learning Classifiers using Natural Language Explanations",
+      "authors": "Rakesh R. Menon, Sayan Ghosh, Shashank Srivastava",
+      "paper_url": "https://aclanthology.org/2022.acl-long.451.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_527",
+      "paper_id": "",
+      "title": "Cluster & Tune: Boost Cold Start Performance in Text Classification",
+      "authors": "Eyal Shnarch, Ariel Gera, Alon Halfon, Lena Dankin, Leshem Choshen, Ranit Aharonov, Noam Slonim",
+      "paper_url": "https://aclanthology.org/2022.acl-long.526.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_48",
+      "paper_id": "",
+      "title": "ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning",
+      "authors": "Shachar Don-Yehiya, Elad Venezian, Colin Raffel, Noam Slonim, Leshem Choshen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.46.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_143",
+      "paper_id": "",
+      "title": "Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach",
+      "authors": "Yue Yu, Rongzhi Zhang, Ran Xu, Jieyu Zhang, Jiaming Shen, Chao Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.141.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_459",
+      "paper_id": "",
+      "title": "Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals",
+      "authors": "Francesco Ortu, Zhijing Jin, Diego Doimo, Mrinmaya Sachan, Alberto Cazzaniga, Bernhard Schölkopf",
+      "paper_url": "https://aclanthology.org/2024.acl-long.458.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_389",
+      "paper_id": "",
+      "title": "Concept-Based Label Embedding via Dynamic Routing for Hierarchical Text Classification",
+      "authors": "Xuepeng Wang, Li Zhao, Bing Liu, Tao Chen, Feng Zhang, Di Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.388.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_280",
+      "paper_id": "",
+      "title": "ConSim: Measuring Concept-Based Explanations’ Effectiveness with Automated Simulatability",
+      "authors": "Antonin Poché, Alon Jacovi, Agustin Martin Picard, Victor Boutin, Fanny Jourdan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.279.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_356",
+      "paper_id": "",
+      "title": "Continuous Language Generative Flow",
+      "authors": "Zineng Tang, Shiyue Zhang, Hyounghun Kim, Mohit Bansal",
+      "paper_url": "https://aclanthology.org/2021.acl-long.355.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_360",
+      "paper_id": "",
+      "title": "Contrastive Learning with Adversarial Examples for Alleviating Pathology of Language Model",
+      "authors": "Pengwei Zhan, Jing Yang, Xiao Huang, Chunlei Jing, Jingying Li, Liming Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.358.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_660",
+      "paper_id": "",
+      "title": "Contrastive Novelty-Augmented Learning: Anticipating Outliers with Large Language Models",
+      "authors": "Albert Xu, Xiang Ren, Robin Jia",
+      "paper_url": "https://aclanthology.org/2023.acl-long.658.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_175",
+      "paper_id": "",
+      "title": "Contrastive Prompting Enhances Sentence Embeddings in LLMs through Inference-Time Steering",
+      "authors": "Zifeng Cheng, Zhonghui Wang, Yuchen Fu, Zhiwei Jiang, Yafeng Yin, Cong Wang, Qing Gu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.174.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_129",
+      "paper_id": "",
+      "title": "Controlling Learned Effects to Reduce Spurious Correlations in Text Classifiers",
+      "authors": "Parikshit Bansal, Amit Sharma",
+      "paper_url": "https://aclanthology.org/2023.acl-long.127.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_638",
+      "paper_id": "",
+      "title": "Counterfactual Active Learning for Out-of-Distribution Generalization",
+      "authors": "Xun Deng, Wenjie Wang, Fuli Feng, Hanwang Zhang, Xiangnan He, Yong Liao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.636.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_844",
+      "paper_id": "",
+      "title": "CREST: A Joint Framework for Rationalization and Counterfactual Text Generation",
+      "authors": "Marcos Treviso, Alexis Ross, Nuno M. Guerreiro, André Martins",
+      "paper_url": "https://aclanthology.org/2023.acl-long.842.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_646",
+      "paper_id": "",
+      "title": "DARE: Towards Robust Text Explanations in Biomedical and Healthcare Applications",
+      "authors": "Adam Ivankay, Mattia Rigotti, Pascal Frossard",
+      "paper_url": "https://aclanthology.org/2023.acl-long.644.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_151",
+      "paper_id": "",
+      "title": "DecompX: Explaining Transformers Decisions by Propagating Token Decomposition",
+      "authors": "Ali Modarressi, Mohsen Fayyaz, Ehsan Aghazadeh, Yadollah Yaghoobzadeh, Mohammad Taher Pilehvar",
+      "paper_url": "https://aclanthology.org/2023.acl-long.149.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_303",
+      "paper_id": "",
+      "title": "Digital Socrates: Evaluating LLMs through Explanation Critiques",
+      "authors": "Yuling Gu, Oyvind Tafjord, Peter Clark",
+      "paper_url": "https://aclanthology.org/2024.acl-long.302.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_304",
+      "paper_id": "",
+      "title": "DISCO: Distilling Counterfactuals with Large Language Models",
+      "authors": "Zeming Chen, Qiyue Gao, Antoine Bosselut, Ashish Sabharwal, Kyle Richardson",
+      "paper_url": "https://aclanthology.org/2023.acl-long.302.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_540",
+      "paper_id": "",
+      "title": "Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution",
+      "authors": "Jiacheng Xu, Greg Durrett",
+      "paper_url": "https://aclanthology.org/2021.acl-long.539.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_684",
+      "paper_id": "",
+      "title": "Downstream Datasets Make Surprisingly Good Pretraining Corpora",
+      "authors": "Kundan Krishna, Saurabh Garg, Jeffrey Bigham, Zachary Lipton",
+      "paper_url": "https://aclanthology.org/2023.acl-long.682.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_261",
+      "paper_id": "",
+      "title": "Dually Self-Improved Counterfactual Data Augmentation Using Large Language Model",
+      "authors": "Luhao Zhang, Xinyu Zhang, Linmei Hu, Dandan Song, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2025.acl-long.260.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_53",
+      "paper_id": "",
+      "title": "Early Stopping Based on Unlabeled Samples in Text Classification",
+      "authors": "HongSeok Choi, Dongha Choi, Hyunju Lee",
+      "paper_url": "https://aclanthology.org/2022.acl-long.52.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_485",
+      "paper_id": "",
+      "title": "Efficient Shapley Values Estimation by Amortization for Text Classification",
+      "authors": "Chenghao Yang, Fan Yin, He He, Kai-Wei Chang, Xiaofei Ma, Bing Xiang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.483.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_289",
+      "paper_id": "",
+      "title": "Enhancing Automated Interpretability with Output-Centric Feature Descriptions",
+      "authors": "Yoav Gur-Arieh, Roy Mayan, Chen Agassy, Atticus Geiger, Mor Geva",
+      "paper_url": "https://aclanthology.org/2025.acl-long.288.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_931",
+      "paper_id": "",
+      "title": "Enhancing Lexicon-Based Text Embeddings with Large Language Models",
+      "authors": "Yibin Lei, Tao Shen, Yu Cao, Andrew Yates",
+      "paper_url": "https://aclanthology.org/2025.acl-long.930.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_245",
+      "paper_id": "",
+      "title": "Enhancing Unsupervised Sentence Embeddings via Knowledge-Driven Data Augmentation and Gaussian-Decayed Contrastive Learning",
+      "authors": "Peichao Lai, Zhengfeng Zhang, Wentao Zhang, Fangcheng Fu, Bin Cui",
+      "paper_url": "https://aclanthology.org/2025.acl-long.244.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_774",
+      "paper_id": "",
+      "title": "Entailment as Robust Self-Learner",
+      "authors": "Jiaxin Ge, Hongyin Luo, Yoon Kim, James Glass",
+      "paper_url": "https://aclanthology.org/2023.acl-long.772.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_400",
+      "paper_id": "",
+      "title": "Evaluating Extreme Hierarchical Multi-label Classification",
+      "authors": "Enrique Amigo, Agustín Delgado",
+      "paper_url": "https://aclanthology.org/2022.acl-long.399.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_303",
+      "paper_id": "",
+      "title": "Explaining How Transformers Use Context to Build Predictions",
+      "authors": "Javier Ferrando, Gerard I. Gállego, Ioannis Tsiamas, Marta R. Costa-jussà",
+      "paper_url": "https://aclanthology.org/2023.acl-long.301.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_756",
+      "paper_id": "",
+      "title": "Explanation-aware Soft Ensemble Empowers Large Language Model In-context Learning",
+      "authors": "Yue Yu, Jiaming Shen, Tianqi Liu, Zhen Qin, Jing Nathan Yan, Jialu Liu, Chao Zhang, Michael Bendersky",
+      "paper_url": "https://aclanthology.org/2024.acl-long.755.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_244",
+      "paper_id": "",
+      "title": "Explanation-based Finetuning Makes Models More Robust to Spurious Cues",
+      "authors": "Josh Magnus Ludan, Yixuan Meng, Tai Nguyen, Saurabh Shah, Qing Lyu, Marianna Apidianaki, Chris Callison-Burch",
+      "paper_url": "https://aclanthology.org/2023.acl-long.242.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_29",
+      "paper_id": "",
+      "title": "Explore Spurious Correlations at the Concept Level in Language Models for Text Classification",
+      "authors": "Yuhang Zhou, Paiheng Xu, Xiaoyu Liu, Bang An, Wei Ai, Furong Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.28.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_434",
+      "paper_id": "",
+      "title": "Exploring Distantly-Labeled Rationales in Neural Network Models",
+      "authors": "Quzhe Huang, Shengqi Zhu, Yansong Feng, Dongyan Zhao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.433.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1156",
+      "paper_id": "",
+      "title": "Exploring Explanations Improves the Robustness of In-Context Learning",
+      "authors": "Ukyo Honda, Tatsushi Oka",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1155.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_862",
+      "paper_id": "",
+      "title": "Exploring Lottery Prompts for Pre-trained Language Models",
+      "authors": "Yulin Chen, Ning Ding, Xiaobin Wang, Shengding Hu, Haitao Zheng, Zhiyuan Liu, Pengjun Xie",
+      "paper_url": "https://aclanthology.org/2023.acl-long.860.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_27",
+      "paper_id": "",
+      "title": "Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis",
+      "authors": "Linyi Yang, Jiazheng Li, Padraig Cunningham, Yue Zhang, Barry Smyth, Ruihai Dong",
+      "paper_url": "https://aclanthology.org/2021.acl-long.26.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_557",
+      "paper_id": "",
+      "title": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+      "authors": "Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp",
+      "paper_url": "https://aclanthology.org/2022.acl-long.556.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_104",
+      "paper_id": "",
+      "title": "Few-shot Adaptation Works with UnpredicTable Data",
+      "authors": "Jun Shern Chan, Michael Pieler, Jonathan Jao, Jérémy Scheurer, Ethan Perez",
+      "paper_url": "https://aclanthology.org/2023.acl-long.102.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_585",
+      "paper_id": "",
+      "title": "Few-Shot Learning with Siamese Networks and Label Tuning",
+      "authors": "Thomas Müller, Guillermo Pérez-Torró, Marc Franco-Salvador",
+      "paper_url": "https://aclanthology.org/2022.acl-long.584.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_39",
+      "paper_id": "",
+      "title": "FewNLU: Benchmarking State-of-the-Art Methods for Few-Shot Natural Language Understanding",
+      "authors": "Yanan Zheng, Jing Zhou, Yujie Qian, Ming Ding, Chonghua Liao, Li Jian, Ruslan Salakhutdinov, Jie Tang, Sebastian Ruder, Zhilin Yang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.38.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_374",
+      "paper_id": "",
+      "title": "FLamE: Few-shot Learning from Natural Language Explanations",
+      "authors": "Yangqiaoyu Zhou, Yiming Zhang, Chenhao Tan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.372.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_524",
+      "paper_id": "",
+      "title": "GanLM: Encoder-Decoder Pre-training with an Auxiliary Discriminator",
+      "authors": "Jian Yang, Shuming Ma, Li Dong, Shaohan Huang, Haoyang Huang, Yuwei Yin, Dongdong Zhang, Liqun Yang, Furu Wei, Zhoujun Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.522.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_981",
+      "paper_id": "",
+      "title": "Generalized Attention Flow: Feature Attribution for Transformer Models via Maximum Flow",
+      "authors": "Behrooz Azarkhalili, Maxwell W. Libbrecht",
+      "paper_url": "https://aclanthology.org/2025.acl-long.980.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_671",
+      "paper_id": "",
+      "title": "Generalizing Backpropagation for Gradient-Based Interpretability",
+      "authors": "Kevin Du, Lucas Torroba Hennigen, Niklas Stoehr, Alex Warstadt, Ryan Cotterell",
+      "paper_url": "https://aclanthology.org/2023.acl-long.669.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_655",
+      "paper_id": "",
+      "title": "Generating and Evaluating Plausible Explanations for Knowledge Graph Completion",
+      "authors": "Antonio Di Mauro, Zhao Xu, Wiem Ben Rim, Timo Sztyler, Carolin Lawrence",
+      "paper_url": "https://aclanthology.org/2024.acl-long.654.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_191",
+      "paper_id": "",
+      "title": "Generating Data to Mitigate Spurious Correlations in Natural Language Inference Datasets",
+      "authors": "Yuxiang Wu, Matt Gardner, Pontus Stenetorp, Pradeep Dasigi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.190.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_27",
+      "paper_id": "",
+      "title": "GLM: General Language Model Pretraining with Autoregressive Blank Infilling",
+      "authors": "Zhengxiao Du, Yujie Qian, Xiao Liu, Ming Ding, Jiezhong Qiu, Zhilin Yang, Jie Tang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.26.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_3",
+      "paper_id": "",
+      "title": "GraphNarrator: Generating Textual Explanations for Graph Neural Networks",
+      "authors": "Bo Pan, Zhen Xiong, Guanchen Wu, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.2.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_692",
+      "paper_id": "",
+      "title": "Hard Sample Aware Prompt-Tuning",
+      "authors": "Yuanjian Xu, Qi An, Jiahuan Zhang, Peng Li, Zaiqing Nie",
+      "paper_url": "https://aclanthology.org/2023.acl-long.690.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_339",
+      "paper_id": "",
+      "title": "HiddenCut: Simple Data Augmentation for Natural Language Understanding with Better Generalizability",
+      "authors": "Jiaao Chen, Dinghan Shen, Weizhu Chen, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.338.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_166",
+      "paper_id": "",
+      "title": "Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification",
+      "authors": "Ke Ji, Yixin Lian, Jingsheng Gao, Baoyuan Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.164.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_338",
+      "paper_id": "",
+      "title": "Hierarchy-aware Label Semantics Matching Network for Hierarchical Text Classification",
+      "authors": "Haibin Chen, Qianli Ma, Zhenxi Lin, Jiangyue Yan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.337.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_434",
+      "paper_id": "",
+      "title": "HiTIN: Hierarchy-aware Tree Isomorphism Network for Hierarchical Text Classification",
+      "authors": "He Zhu, Chong Zhang, Junjie Huang, Junran Wu, Ke Xu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.432.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_976",
+      "paper_id": "",
+      "title": "Impartial Multi-task Representation Learning via Variance-invariant Probabilistic Decoding",
+      "authors": "Dou Hu, Lingwei Wei, Wei Zhou, Songlin Hu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.975.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_146",
+      "paper_id": "",
+      "title": "Improving Gradient Trade-offs between Tasks in Multi-task Text Classification",
+      "authors": "Heyan Chai, Jinhao Cui, Ye Wang, Min Zhang, Binxing Fang, Qing Liao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.144.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_45",
+      "paper_id": "",
+      "title": "Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation",
+      "authors": "Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.44.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_643",
+      "paper_id": "",
+      "title": "Improving Text Embeddings with Large Language Models",
+      "authors": "Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei",
+      "paper_url": "https://aclanthology.org/2024.acl-long.642.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_41",
+      "paper_id": "",
+      "title": "Improving the Faithfulness of Attention-based Explanations with Task-specific Information for Text Classification",
+      "authors": "George Chrysostomou, Nikolaos Aletras",
+      "paper_url": "https://aclanthology.org/2021.acl-long.40.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_803",
+      "paper_id": "",
+      "title": "Improving the robustness of NLI models with minimax training",
+      "authors": "Michalis Korakakis, Andreas Vlachos",
+      "paper_url": "https://aclanthology.org/2023.acl-long.801.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_263",
+      "paper_id": "",
+      "title": "Incorporating Attribution Importance for Improving Faithfulness Metrics",
+      "authors": "Zhixue Zhao, Nikolaos Aletras",
+      "paper_url": "https://aclanthology.org/2023.acl-long.261.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_492",
+      "paper_id": "",
+      "title": "Incorporating Hierarchy into Text Encoder: a Contrastive Learning Approach for Hierarchical Text Classification",
+      "authors": "Zihan Wang, Peiyi Wang, Lianzhe Huang, Xin Sun, Houfeng Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.491.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_15",
+      "paper_id": "",
+      "title": "Inference to the Best Explanation in Large Language Models",
+      "authors": "Dhairya Dalal, Marco Valentino, Andre Freitas, Paul Buitelaar",
+      "paper_url": "https://aclanthology.org/2024.acl-long.14.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_867",
+      "paper_id": "",
+      "title": "Inferring Functionality of Attention Heads from their Parameters",
+      "authors": "Amit Elhelo, Mor Geva",
+      "paper_url": "https://aclanthology.org/2025.acl-long.866.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_213",
+      "paper_id": "",
+      "title": "Insert or Attach: Taxonomy Completion via Box Embedding",
+      "authors": "Wei Xue, Yongliang Shen, Wenqi Ren, Jietian Guo, Shiliang Pu, Weiming Lu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.212.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_72",
+      "paper_id": "",
+      "title": "Integrated Directional Gradients: Feature Interaction Attribution for Neural NLP Models",
+      "authors": "Sandipan Sikdar, Parantapa Bhattacharya, Kieran Heese",
+      "paper_url": "https://aclanthology.org/2021.acl-long.71.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_60",
+      "paper_id": "",
+      "title": "Interlocking-free Selective Rationalization Through Genetic-based Learning",
+      "authors": "Federico Ruggeri, Gaetano Signorelli",
+      "paper_url": "https://aclanthology.org/2025.acl-long.59.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_197",
+      "paper_id": "",
+      "title": "Interpret and Improve In-Context Learning via the Lens of Input-Label Mappings",
+      "authors": "Chenghao Sun, Zhen Huang, Yonggang Zhang, Le Lu, Houqiang Li, Xinmei Tian, Xu Shen, Jieping Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.196.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_270",
+      "paper_id": "",
+      "title": "Is Attention Explanation? An Introduction to the Debate",
+      "authors": "Adrien Bibal, Rémi Cardon, David Alfter, Rodrigo Wilkens, Xiaoou Wang, Thomas François, Patrick Watrin",
+      "paper_url": "https://aclanthology.org/2022.acl-long.269.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1075",
+      "paper_id": "",
+      "title": "JoPA: Explaining Large Language Model’s Generation via Joint Prompt Attribution",
+      "authors": "Yurui Chang, Bochuan Cao, Yujia Wang, Jinghui Chen, Lu Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1074.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_197",
+      "paper_id": "",
+      "title": "KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference",
+      "authors": "Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen, Yin Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.196.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_159",
+      "paper_id": "",
+      "title": "Knowledgeable Prompt-tuning: Incorporating Knowledge into Prompt Verbalizer for Text Classification",
+      "authors": "Shengding Hu, Ning Ding, Huadong Wang, Zhiyuan Liu, Jingang Wang, Juanzi Li, Wei Wu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2022.acl-long.158.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_417",
+      "paper_id": "",
+      "title": "Label Augmentation for Zero-Shot Hierarchical Text Classification",
+      "authors": "Lorenzo Paletto, Valerio Basile, Roberto Esposito",
+      "paper_url": "https://aclanthology.org/2024.acl-long.416.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_571",
+      "paper_id": "",
+      "title": "Label Semantic Aware Pre-training for Few-shot Text Classification",
+      "authors": "Aaron Mueller, Jason Krone, Salvatore Romeo, Saab Mansour, Elman Mansimov, Yi Zhang, Dan Roth",
+      "paper_url": "https://aclanthology.org/2022.acl-long.570.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_299",
+      "paper_id": "",
+      "title": "Label-Specific Dual Graph Neural Network for Multi-Label Text Classification",
+      "authors": "Qianwen Ma, Chunyuan Yuan, Wei Zhou, Songlin Hu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.298.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1195",
+      "paper_id": "",
+      "title": "LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models",
+      "authors": "Hugo Pitorro, Marcos Vinicius Treviso",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1194.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_40",
+      "paper_id": "",
+      "title": "Learn to Adapt for Generalized Zero-Shot Text Classification",
+      "authors": "Yiwen Zhang, Caixia Yuan, Xiaojie Wang, Ziwei Bai, Yongbin Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.39.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_416",
+      "paper_id": "",
+      "title": "Learning to Explain: Generating Stable Explanations Fast",
+      "authors": "Xuelin Situ, Ingrid Zukerman, Cecile Paris, Sameen Maruf, Gholamreza Haffari",
+      "paper_url": "https://aclanthology.org/2021.acl-long.415.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_661",
+      "paper_id": "",
+      "title": "Learning to Initialize: Can Meta Learning Improve Cross-task Generalization in Prompt Tuning?",
+      "authors": "Chengwei Qin, Shafiq Joty, Qian Li, Ruochen Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.659.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1133",
+      "paper_id": "",
+      "title": "Learning to Look at the Other Side: A Semantic Probing Study of Word Embeddings in LLMs with Enabled Bidirectional Attention",
+      "authors": "Zhaoxin Feng, Jianfei Ma, Emmanuele Chersoni, Xiaojing Zhao, Xiaoyi Bao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1132.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1557",
+      "paper_id": "",
+      "title": "LETS-C: Leveraging Text Embedding for Time Series Classification",
+      "authors": "Rachneet Kaur, Zhen Zeng, Tucker Balch, Manuela Veloso",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1557.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_307",
+      "paper_id": "",
+      "title": "LLaMAs Have Feelings Too: Unveiling Sentiment and Emotion Representations in LLaMA Models Through Probing",
+      "authors": "Dario Di Palma, Alessandro De Bellis, Giovanni Servedio, Vito Walter Anelli, Fedelucio Narducci, Tommaso Di Noia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.306.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_434",
+      "paper_id": "",
+      "title": "LLMEmbed: Rethinking Lightweight LLM’s Genuine Function in Text Classification",
+      "authors": "Chun Liu, Hongguang Zhang, Kainan Zhao, Xinghai Ju, Lin Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.433.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_574",
+      "paper_id": "",
+      "title": "Local Interpretation of Transformer Based on Linear Decomposition",
+      "authors": "Sen Yang, Shujian Huang, Wei Zou, Jianbing Zhang, Xinyu Dai, Jiajun Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.572.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_408",
+      "paper_id": "",
+      "title": "Logic Traps in Evaluating Attribution Scores",
+      "authors": "Yiming Ju, Yuanzhe Zhang, Zhao Yang, Zhongtao Jiang, Kang Liu, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.407.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1114",
+      "paper_id": "",
+      "title": "Look Both Ways and No Sink: Converting LLMs into Text Encoders without Training",
+      "authors": "Ziyong Lin, Haoyi Wu, Shu Wang, Kewei Tu, Zilong Zheng, Zixia Jia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1113.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1326",
+      "paper_id": "",
+      "title": "MAGNET: Augmenting Generative Decoders with Representation Learning and Infilling Capabilities",
+      "authors": "Savya Khosla, Aditi Tiwari, Kushal Kafle, Simon Jenni, Handong Zhao, John Collomosse, Jing Shi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1325.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_296",
+      "paper_id": "",
+      "title": "Making Pre-trained Language Models Better Few-shot Learners",
+      "authors": "Tianyu Gao, Adam Fisch, Danqi Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.295.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1144",
+      "paper_id": "",
+      "title": "Mamba Knockout for Unraveling Factual Information Flow",
+      "authors": "Nir Endy, Idan Daniel Grosbard, Yuval Ran-Milo, Yonatan Slutzky, Itay Tshuva, Raja Giryes",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1143.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_283",
+      "paper_id": "",
+      "title": "Measuring Fine-Grained Domain Relevance of Terms: A Hierarchical Core-Fringe Approach",
+      "authors": "Jie Huang, Kevin Chang, JinJun Xiong, Wen-mei Hwu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.282.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_344",
+      "paper_id": "",
+      "title": "Measuring the Instability of Fine-Tuning",
+      "authors": "Yupei Du, Dong Nguyen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.342.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_547",
+      "paper_id": "",
+      "title": "Meta-Task Prompting Elicits Embeddings from Large Language Models",
+      "authors": "Yibin Lei, Di Wu, Tianyi Zhou, Tao Shen, Yu Cao, Chongyang Tao, Andrew Yates",
+      "paper_url": "https://aclanthology.org/2024.acl-long.546.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_717",
+      "paper_id": "",
+      "title": "MGR: Multi-generator Based Rationalization",
+      "authors": "Wei Liu, Haozhao Wang, Jun Wang, Ruixuan Li, Xinyang Li, YuanKai Zhang, Yang Qiu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.715.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_565",
+      "paper_id": "",
+      "title": "Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering",
+      "authors": "Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei, Christopher Manning",
+      "paper_url": "https://aclanthology.org/2021.acl-long.564.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_451",
+      "paper_id": "",
+      "title": "Mitigating Shortcut Learning with InterpoLated Learning",
+      "authors": "Michalis Korakakis, Andreas Vlachos, Adrian Weller",
+      "paper_url": "https://aclanthology.org/2025.acl-long.450.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_726",
+      "paper_id": "",
+      "title": "Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers",
+      "authors": "Linyuan Gong, Chenyan Xiong, Xiaodong Liu, Payal Bajaj, Yiqing Xie, Alvin Cheung, Jianfeng Gao, Xia Song",
+      "paper_url": "https://aclanthology.org/2023.acl-long.724.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_95",
+      "paper_id": "",
+      "title": "More Identifiable yet Equally Performant Transformers for Text Classification",
+      "authors": "Rishabh Bhardwaj, Navonil Majumder, Soujanya Poria, Eduard Hovy",
+      "paper_url": "https://aclanthology.org/2021.acl-long.94.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_489",
+      "paper_id": "",
+      "title": "MPII: Multi-Level Mutual Promotion for Inference and Interpretation",
+      "authors": "Yan Liu, Sanyuan Chen, Yazheng Yang, Qi Dai",
+      "paper_url": "https://aclanthology.org/2022.acl-long.488.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1554",
+      "paper_id": "",
+      "title": "Multi-Level Explanations for Generative Language Models",
+      "authors": "Lucas Monteiro Paes, Dennis Wei, Hyo Jin Do, Hendrik Strobelt, Ronny Luss, Amit Dhurandhar, Manish Nagireddy, Karthikeyan Natesan Ramamurthy, Prasanna Sattigeri, Werner Geyer, Soumya Ghosh",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1553.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_627",
+      "paper_id": "",
+      "title": "Multitask Pre-training of Modular Prompt for Chinese Few-Shot Learning",
+      "authors": "Tianxiang Sun, Zhengfu He, Qin Zhu, Xipeng Qiu, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.625.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1502",
+      "paper_id": "",
+      "title": "Negative Matters: Multi-Granularity Hard-Negative Synthesis and Anchor-Token-Aware Pooling for Enhanced Text Embeddings",
+      "authors": "Tengyu Pan, Zhichao Duan, Zhenyu Li, Bowen Dong, Ning Liu, Xiuxing Li, Jianyong Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1501.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1042",
+      "paper_id": "",
+      "title": "Neuron Empirical Gradient: Discovering and Quantifying Neurons’ Global Linear Controllability",
+      "authors": "Xin Zhao, Zehui Jiang, Naoki Yoshinaga",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1041.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_366",
+      "paper_id": "",
+      "title": "Noisy Channel Language Model Prompting for Few-Shot Text Classification",
+      "authors": "Sewon Min, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer",
+      "paper_url": "https://aclanthology.org/2022.acl-long.365.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_87",
+      "paper_id": "",
+      "title": "Normalized AOPC: Fixing Misleading Faithfulness Metrics for Feature Attributions Explainability",
+      "authors": "Joakim Edin, Andreas Geert Motzfeldt, Casper L. Christensen, Tuukka Ruotsalo, Lars Maaløe, Maria Maistro",
+      "paper_url": "https://aclanthology.org/2025.acl-long.86.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_420",
+      "paper_id": "",
+      "title": "On Sample Based Explanation Methods for NLP: Faithfulness, Efficiency and Semantic Evaluation",
+      "authors": "Wei Zhang, Ziming Huang, Yada Zhu, Guangnan Ye, Xiaodong Cui, Fan Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.419.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_508",
+      "paper_id": "",
+      "title": "On Support Samples of Next Word Prediction",
+      "authors": "Yuqian Li, Yupei Du, Yufang Liu, Feifei Feng, Mou Xiao Feng, Yuanbin Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.507.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_518",
+      "paper_id": "",
+      "title": "On the Efficacy of Adversarial Data Collection for Question Answering: Results from a Large-Scale Randomized Study",
+      "authors": "Divyansh Kaushik, Douwe Kiela, Zachary C. Lipton, Wen-tau Yih",
+      "paper_url": "https://aclanthology.org/2021.acl-long.517.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_439",
+      "paper_id": "",
+      "title": "On the Evaluation of Neural Selective Prediction Methods for Natural Language Processing",
+      "authors": "Zhengyao Gu, Mark Hopkins",
+      "paper_url": "https://aclanthology.org/2023.acl-long.437.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_189",
+      "paper_id": "",
+      "title": "On the Sensitivity and Stability of Model Interpretations in NLP",
+      "authors": "Fan Yin, Zhouxing Shi, Cho-Jui Hsieh, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.188.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_119",
+      "paper_id": "",
+      "title": "Open-Set Semi-Supervised Text Classification via Adversarial Disagreement Maximization",
+      "authors": "Junfan Chen, Richong Zhang, Junchi Chen, Chunming Hu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.118.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_647",
+      "paper_id": "",
+      "title": "PairCFR: Enhancing Model Training on Paired Counterfactually Augmented Data through Contrastive Learning",
+      "authors": "Xiaoqi Qiu, Yongjie Wang, Xu Guo, Zhiwei Zeng, Yu Yue, Yuhong Feng, Chunyan Miao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.646.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_209",
+      "paper_id": "",
+      "title": "Peer-Label Assisted Hierarchical Text Classification",
+      "authors": "Junru Song, Feifei Wang, Yang Yang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.207.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_834",
+      "paper_id": "",
+      "title": "PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification",
+      "authors": "Yau-Shian Wang, Ta-Chung Chi, Ruohong Zhang, Yiming Yang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.832.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_524",
+      "paper_id": "",
+      "title": "Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models",
+      "authors": "Tongshuang Wu, Marco Tulio Ribeiro, Jeffrey Heer, Daniel Weld",
+      "paper_url": "https://aclanthology.org/2021.acl-long.523.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_142",
+      "paper_id": "",
+      "title": "Position-aware Automatic Circuit Discovery",
+      "authors": "Tal Haklay, Hadas Orgad, David Bau, Aaron Mueller, Yonatan Belinkov",
+      "paper_url": "https://aclanthology.org/2025.acl-long.141.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_57",
+      "paper_id": "",
+      "title": "Post-Abstention: Towards Reliably Re-Attempting the Abstained Instances in QA",
+      "authors": "Neeraj Varshney, Chitta Baral",
+      "paper_url": "https://aclanthology.org/2023.acl-long.55.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_577",
+      "paper_id": "",
+      "title": "PPT: Pre-trained Prompt Tuning for Few-shot Learning",
+      "authors": "Yuxian Gu, Xu Han, Zhiyuan Liu, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.576.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_871",
+      "paper_id": "",
+      "title": "Pre-trained Language Models Can be Fully Zero-Shot Learners",
+      "authors": "Xuandong Zhao, Siqi Ouyang, Zhiguo Yu, Ming Wu, Lei Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.869.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1157",
+      "paper_id": "",
+      "title": "Prediction Hubs are Context-Informed Frequent Tokens in LLMs",
+      "authors": "Beatrix Miranda Ginn Nielsen, Iuri Macocco, Marco Baroni",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1156.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_255",
+      "paper_id": "",
+      "title": "Prompt-free and Efficient Few-shot Learning with Language Models",
+      "authors": "Rabeeh Karimi Mahabadi, Luke Zettlemoyer, James Henderson, Lambert Mathias, Marzieh Saeidi, Veselin Stoyanov, Majid Yazdani",
+      "paper_url": "https://aclanthology.org/2022.acl-long.254.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_369",
+      "paper_id": "",
+      "title": "Prompting Language Models for Linguistic Structure",
+      "authors": "Terra Blevins, Hila Gonen, Luke Zettlemoyer",
+      "paper_url": "https://aclanthology.org/2023.acl-long.367.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_227",
+      "paper_id": "",
+      "title": "ProtoLens: Advancing Prototype Learning for Fine-Grained Interpretability in Text Classification",
+      "authors": "Bowen Wei, Ziwei Zhu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.226.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_214",
+      "paper_id": "",
+      "title": "ProtoTEx: Explaining Model Decisions with Prototype Tensors",
+      "authors": "Anubrata Das, Chitrank Gupta, Venelin Kovatchev, Matthew Lease, Junyi Jessy Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.213.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_906",
+      "paper_id": "",
+      "title": "Prototype-Guided Pseudo Labeling for Semi-Supervised Text Classification",
+      "authors": "Weiyi Yang, Richong Zhang, Junfan Chen, Lihong Wang, Jaein Kim",
+      "paper_url": "https://aclanthology.org/2023.acl-long.904.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_484",
+      "paper_id": "",
+      "title": "Prototypical Verbalizer for Prompt-based Few-shot Tuning",
+      "authors": "Ganqu Cui, Shengding Hu, Ning Ding, Longtao Huang, Zhiyuan Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.483.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_589",
+      "paper_id": "",
+      "title": "Quantifying Semantic Emergence in Language Models",
+      "authors": "Hang Chen, Xinyu Yang, Jiaying Zhu, Wenya Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.588.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_4",
+      "paper_id": "",
+      "title": "Rare Tokens Degenerate All Tokens: Improving Neural Text Generation via Adaptive Gradient Gating for Rare Token Embeddings",
+      "authors": "Sangwon Yu, Jongyoon Song, Heeseung Kim, Seongmin Lee, Woo-Jong Ryu, Sungroh Yoon",
+      "paper_url": "https://aclanthology.org/2022.acl-long.3.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_471",
+      "paper_id": "",
+      "title": "RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations",
+      "authors": "Jing Huang, Zhengxuan Wu, Christopher Potts, Mor Geva, Atticus Geiger",
+      "paper_url": "https://aclanthology.org/2024.acl-long.470.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_760",
+      "paper_id": "",
+      "title": "Representation Learning with Conditional Information Flow Maximization",
+      "authors": "Dou Hu, Lingwei Wei, Wei Zhou, Songlin Hu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.759.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_662",
+      "paper_id": "",
+      "title": "Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale",
+      "authors": "Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, Sravan Bodapati, Katrin Kirchhoff, Dan Roth",
+      "paper_url": "https://aclanthology.org/2023.acl-long.660.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_118",
+      "paper_id": "",
+      "title": "Retrieval-guided Counterfactual Generation for QA",
+      "authors": "Bhargavi Paranjape, Matthew Lamm, Ian Tenney",
+      "paper_url": "https://aclanthology.org/2022.acl-long.117.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_168",
+      "paper_id": "",
+      "title": "Retrieve to Explain: Evidence-driven Predictions for Explainable Drug Target Identification",
+      "authors": "Ravi Patel, Angus Brayne, Rogier Hintzen, Daniel Jaroslawicz, Georgiana Neculae, Dane S. Corneil",
+      "paper_url": "https://aclanthology.org/2025.acl-long.167.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_114",
+      "paper_id": "",
+      "title": "REV: Information-Theoretic Evaluation of Free-Text Rationales",
+      "authors": "Hanjie Chen, Faeze Brahman, Xiang Ren, Yangfeng Ji, Yejin Choi, Swabha Swayamdipta",
+      "paper_url": "https://aclanthology.org/2023.acl-long.112.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_445",
+      "paper_id": "",
+      "title": "Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods",
+      "authors": "Haeun Yu, Pepa Atanasova, Isabelle Augenstein",
+      "paper_url": "https://aclanthology.org/2024.acl-long.444.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_587",
+      "paper_id": "",
+      "title": "Robust Representation Learning with Reliable Pseudo-labels Generation via Self-Adaptive Optimal Transport for Short Text Clustering",
+      "authors": "Xiaolin Zheng, Mengling Hu, Weiming Liu, Chaochao Chen, Xinting Liao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.585.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_61",
+      "paper_id": "",
+      "title": "RORA: Robust Free-Text Rationale Evaluation",
+      "authors": "Zhengping Jiang, Yining Lu, Hanjie Chen, Daniel Khashabi, Benjamin Van Durme, Anqi Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.60.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1161",
+      "paper_id": "",
+      "title": "Rubrik’s Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset",
+      "authors": "Diana Galvan-Sosa, Gabrielle Gaudeau, Pride Kavumba, Yunmeng Li, Hongyi Gu, Zheng Yuan, Keisuke Sakaguchi, Paula Buttery",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1160.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_392",
+      "paper_id": "",
+      "title": "Semi-Supervised Text Classification with Balanced Deep Representation Distributions",
+      "authors": "Changchun Li, Ximing Li, Jihong Ouyang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.391.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_494",
+      "paper_id": "",
+      "title": "Soft Alignment Objectives for Robust Adaptation of Language Generation",
+      "authors": "Michal Štefánik, Marek Kadlcik, Petr Sojka",
+      "paper_url": "https://aclanthology.org/2023.acl-long.492.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_114",
+      "paper_id": "",
+      "title": "SparseFit: Few-shot Prompting with Sparse Fine-tuning for Jointly Generating Predictions and Natural Language Explanations",
+      "authors": "Jesus Solano, Mardhiyah Sanni, Oana-Maria Camburu, Pasquale Minervini",
+      "paper_url": "https://aclanthology.org/2024.acl-long.113.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_264",
+      "paper_id": "",
+      "title": "Spectral Filters, Dark Signals, and Attention Sinks",
+      "authors": "Nicola Cancedda",
+      "paper_url": "https://aclanthology.org/2024.acl-long.263.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_19",
+      "paper_id": "",
+      "title": "Statistical Deficiency for Task Inclusion Estimation",
+      "authors": "Loïc Fosse, Frederic Bechet, Benoit Favre, Géraldine Damnati, Gwénolé Lecorvé, Maxime Darrin, Philippe Formont, Pablo Piantanida",
+      "paper_url": "https://aclanthology.org/2025.acl-long.18.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1392",
+      "paper_id": "",
+      "title": "Sticking to the Mean: Detecting Sticky Tokens in Text Embedding Models",
+      "authors": "Kexin Chen, Dongxia Wang, Yi Liu, Haonan Zhang, Wenhai Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1391.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_229",
+      "paper_id": "",
+      "title": "Tailor: Generating and Perturbing Text with Semantic Controls",
+      "authors": "Alexis Ross, Tongshuang Wu, Hao Peng, Matthew Peters, Matt Gardner",
+      "paper_url": "https://aclanthology.org/2022.acl-long.228.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_260",
+      "paper_id": "",
+      "title": "Taming Pre-trained Language Models with N-gram Representations for Low-Resource Domain Adaptation",
+      "authors": "Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song, Tong Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.259.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_619",
+      "paper_id": "",
+      "title": "TART: Improved Few-shot Text Classification Using Task-Adaptive Reference Transformation",
+      "authors": "Shuo Lei, Xuchao Zhang, Jianfeng He, Fanglan Chen, Chang-Tien Lu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.617.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1443",
+      "paper_id": "",
+      "title": "TaxoAdapt: Aligning LLM-Based Multidimensional Taxonomy Construction to Evolving Research Corpora",
+      "authors": "Priyanka Kargupta, Nan Zhang, Yunyi Zhang, Rui Zhang, Prasenjit Mitra, Jiawei Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1442.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_85",
+      "paper_id": "",
+      "title": "The Art of Abstention: Selective Prediction and Error Regularization for Natural Language Processing",
+      "authors": "Ji Xin, Raphael Tang, Yaoliang Yu, Jimmy Lin",
+      "paper_url": "https://aclanthology.org/2021.acl-long.84.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_517",
+      "paper_id": "",
+      "title": "The Knowledge Microscope: Features as Better Analytical Lenses than Neurons",
+      "authors": "Yuheng Chen, Pengfei Cao, Kang Liu, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.516.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_265",
+      "paper_id": "",
+      "title": "The Trade-offs of Domain Adaptation for Neural Language Models",
+      "authors": "David Grangier, Dan Iter",
+      "paper_url": "https://aclanthology.org/2022.acl-long.264.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_160",
+      "paper_id": "",
+      "title": "Token Prepending: A Training-Free Approach for Eliciting Better Sentence Embeddings from LLMs",
+      "authors": "Yuchen Fu, Zifeng Cheng, Zhiwei Jiang, Zhonghui Wang, Yafeng Yin, Zhengliang Li, Qing Gu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.159.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_564",
+      "paper_id": "",
+      "title": "Token-wise Decomposition of Autoregressive Language Model Hidden States for Analyzing Model Predictions",
+      "authors": "Byung-Doh Oh, William Schuler",
+      "paper_url": "https://aclanthology.org/2023.acl-long.562.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_667",
+      "paper_id": "",
+      "title": "Transfer and Active Learning for Dissonance Detection: Addressing the Rare-Class Challenge",
+      "authors": "Vasudha Varadarajan, Swanie Juhng, Syeda Mahwish, Xiaoran Liu, Jonah Luby, Christian Luhmann, H. Andrew Schwartz",
+      "paper_url": "https://aclanthology.org/2023.acl-long.665.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_709",
+      "paper_id": "",
+      "title": "Unsupervised Selective Rationalization with Noise Injection",
+      "authors": "Adam Storek, Melanie Subbiah, Kathleen McKeown",
+      "paper_url": "https://aclanthology.org/2023.acl-long.707.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1442",
+      "paper_id": "",
+      "title": "Unveiling the Potential of BERT-family: A New Recipe for Building Scalable, General and Competitive Large Language Models",
+      "authors": "Yisheng Xiao, Juntao Li, Wenpeng Hu, Zhunchen Luo, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1441.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_729",
+      "paper_id": "",
+      "title": "Using Natural Language Explanations to Improve Robustness of In-context Learning",
+      "authors": "Xuanli He, Yuxiang Wu, Oana-Maria Camburu, Pasquale Minervini, Pontus Stenetorp",
+      "paper_url": "https://aclanthology.org/2024.acl-long.728.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1012",
+      "paper_id": "",
+      "title": "Using Shapley interactions to understand how models use structure",
+      "authors": "Divyansh Singhvi, Diganta Misra, Andrej Erkelens, Raghav Jain, Isabel Papadimitriou, Naomi Saphra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1011.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_382",
+      "paper_id": "",
+      "title": "WARP: Word-level Adversarial ReProgramming",
+      "authors": "Karen Hambardzumyan, Hrant Khachatrian, Jonathan May",
+      "paper_url": "https://aclanthology.org/2021.acl-long.381.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_130",
+      "paper_id": "",
+      "title": "What Makes Pre-trained Language Models Better Zero-shot Learners?",
+      "authors": "Jinghui Lu, Dongsheng Zhu, Weidong Han, Rui Zhao, Brian Mac Namee, Fei Tan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.128.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_414",
+      "paper_id": "",
+      "title": "When Does Aggregating Multiple Skills with Multi-Task Learning Work? A Case Study in Financial NLP",
+      "authors": "Jingwei Ni, Zhijing Jin, Qian Wang, Mrinmaya Sachan, Markus Leippold",
+      "paper_url": "https://aclanthology.org/2023.acl-long.412.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_716",
+      "paper_id": "",
+      "title": "Word Matters: What Influences Domain Adaptation in Summarization?",
+      "authors": "Yinghao Li, Siyu Miao, Heyan Huang, Yang Gao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.715.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_131",
+      "paper_id": "",
+      "title": "Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations",
+      "authors": "Xinxi Lyu, Sewon Min, Iz Beltagy, Luke Zettlemoyer, Hannaneh Hajishirzi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.129.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_315",
+      "paper_id": "",
+      "title": "Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts",
+      "authors": "Mohna Chakraborty, Adithya Kulkarni, Qi Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.313.pdf",
+      "venue": "acl23"
+    }
+  ]
+}

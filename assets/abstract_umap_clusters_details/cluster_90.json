@@ -1,0 +1,1581 @@
+{
+  "cluster_id": 90,
+  "papers": [
+    {
+      "id": "acl23_600",
+      "paper_id": "",
+      "title": "A dynamic programming algorithm for span-based nested named-entity recognition in O(n2)",
+      "authors": "Caio Corro",
+      "paper_url": "https://aclanthology.org/2023.acl-long.598.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_408",
+      "paper_id": "",
+      "title": "A Knowledge-Guided Framework for Frame Identification",
+      "authors": "Xuefeng Su, Ru Li, Xiaoli Li, Jeff Z. Pan, Hu Zhang, Qinghua Chai, Xiaoqi Han",
+      "paper_url": "https://aclanthology.org/2021.acl-long.407.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_196",
+      "paper_id": "",
+      "title": "A Meta-framework for Spatiotemporal Quantity Extraction from Text",
+      "authors": "Qiang Ning, Ben Zhou, Hao Wu, Haoruo Peng, Chuchu Fan, Matt Gardner",
+      "paper_url": "https://aclanthology.org/2022.acl-long.195.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_220",
+      "paper_id": "",
+      "title": "A Neural Transition-based Joint Model for Disease Named Entity Recognition and Normalization",
+      "authors": "Zongcheng Ji, Tian Xia, Mei Han, Jing Xiao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.219.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_609",
+      "paper_id": "",
+      "title": "A Novel Table-to-Graph Generation Approach for Document-Level Joint Entity and Relation Extraction",
+      "authors": "Ruoyu Zhang, Yanzeng Li, Lei Zou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.607.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1300",
+      "paper_id": "",
+      "title": "A Self-Denoising Model for Robust Few-Shot Relation Extraction",
+      "authors": "Liang Zhang, Yang Zhang, Ziyao Lu, Fandong Meng, Jie Zhou, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1299.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_373",
+      "paper_id": "",
+      "title": "A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition",
+      "authors": "Fei Li, ZhiChao Lin, Meishan Zhang, Donghong Ji",
+      "paper_url": "https://aclanthology.org/2021.acl-long.372.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_452",
+      "paper_id": "",
+      "title": "A Unified Generative Framework for Various NER Subtasks",
+      "authors": "Hang Yan, Tao Gui, Junqi Dai, Qipeng Guo, Zheng Zhang, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.451.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_10",
+      "paper_id": "",
+      "title": "ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER",
+      "authors": "Sreyan Ghosh, Utkarsh Tyagi, Manan Suri, Sonal Kumar, Ramaneswaran S, Dinesh Manocha",
+      "paper_url": "https://aclanthology.org/2023.acl-long.8.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_275",
+      "paper_id": "",
+      "title": "Actively Supervised Clustering for Open Relation Extraction",
+      "authors": "Jun Zhao, Yongxin Zhang, Qi Zhang, Tao Gui, Zhongyu Wei, Minlong Peng, Mingming Sun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.273.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_520",
+      "paper_id": "",
+      "title": "Adapting Coreference Resolution Models through Active Learning",
+      "authors": "Michelle Yuan, Patrick Xia, Chandler May, Benjamin Van Durme, Jordan Boyd-Graber",
+      "paper_url": "https://aclanthology.org/2022.acl-long.519.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_363",
+      "paper_id": "",
+      "title": "AdaTag: Multi-Attribute Value Extraction from Product Profiles with Adaptive Decoding",
+      "authors": "Jun Yan, Nasser Zalmout, Yan Liang, Christan Grant, Xiang Ren, Xin Luna Dong",
+      "paper_url": "https://aclanthology.org/2021.acl-long.362.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1387",
+      "paper_id": "",
+      "title": "Adverse Event Extraction from Discharge Summaries: A New Dataset, Annotation Scheme, and Initial Findings",
+      "authors": "Imane Guellil, Salomé Andres, Atul Anand, Bruce Guthrie, Huayu Zhang, Abul Hasan, Honghan Wu, Beatrice Alex",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1386.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_62",
+      "paper_id": "",
+      "title": "AdvPicker: Effectively Leveraging Unlabeled Data via Adversarial Discriminator for Cross-Lingual NER",
+      "authors": "Weile Chen, Huiqiang Jiang, Qianhui Wu, Börje F. Karlsson, Yi Guan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.61.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_180",
+      "paper_id": "",
+      "title": "Alignment-Augmented Consistent Translation for Multilingual Open Information Extraction",
+      "authors": "Keshav Kolluru, Muqeeth Mohammed, Shubham Mittal, Soumen Chakrabarti, Mausam",
+      "paper_url": "https://aclanthology.org/2022.acl-long.179.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_617",
+      "paper_id": "",
+      "title": "AMPERE: AMR-Aware Prefix for Generation-Based Event Argument Extraction Model",
+      "authors": "I-Hung Hsu, Zhiyu Xie, Kuan-Hao Huang, Prem Natarajan, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.615.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_722",
+      "paper_id": "",
+      "title": "An AMR-based Link Prediction Approach for Document-level Event Argument Extraction",
+      "authors": "Yuqing Yang, Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.720.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_486",
+      "paper_id": "",
+      "title": "An End-to-End Progressive Multi-Task Learning Framework for Medical Named Entity Recognition and Normalization",
+      "authors": "Baohang Zhou, Xiangrui Cai, Ying Zhang, Xiaojie Yuan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.485.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_267",
+      "paper_id": "",
+      "title": "An Ordinal Latent Variable Model of Conflict Intensity",
+      "authors": "Niklas Stoehr, Lucas Torroba Hennigen, Josef Valvoda, Robert West, Ryan Cotterell, Aaron Schein",
+      "paper_url": "https://aclanthology.org/2023.acl-long.265.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_15",
+      "paper_id": "",
+      "title": "An Unsupervised Multiple-Task and Multiple-Teacher Model for Cross-lingual Named Entity Recognition",
+      "authors": "Zhuoran Li, Chunming Hu, Xiaohui Guo, Junfan Chen, Wenyi Qin, Richong Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.14.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_590",
+      "paper_id": "",
+      "title": "Annotating Mentions Alone Enables Efficient Domain Adaptation for Coreference Resolution",
+      "authors": "Nupoor Gandhi, Anjalie Field, Emma Strubell",
+      "paper_url": "https://aclanthology.org/2023.acl-long.588.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_497",
+      "paper_id": "",
+      "title": "Argument Pair Extraction via Attention-guided Multi-Layer Multi-Cross Encoding",
+      "authors": "Liying Cheng, Tianyu Wu, Lidong Bing, Luo Si",
+      "paper_url": "https://aclanthology.org/2021.acl-long.496.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_121",
+      "paper_id": "",
+      "title": "AtTGen: Attribute Tree Generation for Real-World Attribute Joint Extraction",
+      "authors": "Yanzeng Li, Bingcong Xue, Ruoyu Zhang, Lei Zou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.119.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_396",
+      "paper_id": "",
+      "title": "Automatic Creation of Named Entity Recognition Datasets by Querying Phrase Representations",
+      "authors": "Hyunjae Kim, Jaehyo Yoo, Seunghyun Yoon, Jaewoo Kang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.394.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_275",
+      "paper_id": "",
+      "title": "Automatic Error Analysis for Document-level Information Extraction",
+      "authors": "Aliva Das, Xinya Du, Barry Wang, Kejian Shi, Jiayuan Gu, Thomas Porter, Claire Cardie",
+      "paper_url": "https://aclanthology.org/2022.acl-long.274.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_308",
+      "paper_id": "",
+      "title": "BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation",
+      "authors": "Kiril Gashteovski, Mingying Yu, Bhushan Kotnis, Carolin Lawrence, Mathias Niepert, Goran Glavaš",
+      "paper_url": "https://aclanthology.org/2022.acl-long.307.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_365",
+      "paper_id": "",
+      "title": "Benchmarking Scalable Methods for Streaming Cross Document Entity Coreference",
+      "authors": "Robert L Logan IV, Andrew McCallum, Sameer Singh, Dan Bikel",
+      "paper_url": "https://aclanthology.org/2021.acl-long.364.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_483",
+      "paper_id": "",
+      "title": "BERTifying the Hidden Markov Model for Multi-Source Weakly Supervised Named Entity Recognition",
+      "authors": "Yinghao Li, Pranav Shetty, Lucas Liu, Chao Zhang, Le Song",
+      "paper_url": "https://aclanthology.org/2021.acl-long.482.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1198",
+      "paper_id": "",
+      "title": "BOOKCOREF: Coreference Resolution at Book Scale",
+      "authors": "Giuliano Martinelli, Tommaso Bonomo, Pere-Lluís Huguet Cabot, Roberto Navigli",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1197.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_491",
+      "paper_id": "",
+      "title": "Boundary Smoothing for Named Entity Recognition",
+      "authors": "Enwei Zhu, Jinpeng Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.490.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_140",
+      "paper_id": "",
+      "title": "Can NLI Provide Proper Indirect Supervision for Low-resource Biomedical Relation Extraction?",
+      "authors": "Jiashu Xu, Mingyu Derek Ma, Muhao Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.138.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_19",
+      "paper_id": "",
+      "title": "Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder",
+      "authors": "Xi Xiangyu, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang, Wei Wu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.18.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_484",
+      "paper_id": "",
+      "title": "CIL: Contrastive Instance Learning Framework for Distantly Supervised Relation Extraction",
+      "authors": "Tao Chen, Haizhou Shi, Siliang Tang, Zhigang Chen, Fei Wu, Yueting Zhuang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.483.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_492",
+      "paper_id": "",
+      "title": "CLEVE: Contrastive Pre-training for Event Extraction",
+      "authors": "Ziqi Wang, Xiaozhi Wang, Xu Han, Yankai Lin, Lei Hou, Zhiyuan Liu, Peng Li, Juanzi Li, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.491.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_204",
+      "paper_id": "",
+      "title": "Code4Struct: Code Generation for Few-Shot Event Structure Prediction",
+      "authors": "Xingyao Wang, Sha Li, Heng Ji",
+      "paper_url": "https://aclanthology.org/2023.acl-long.202.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_857",
+      "paper_id": "",
+      "title": "CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors",
+      "authors": "Peng Li, Tianxiang Sun, Qiong Tang, Hang Yan, Yuanbin Wu, Xuanjing Huang, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.855.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_332",
+      "paper_id": "",
+      "title": "CoLaDa: A Collaborative Label Denoising Framework for Cross-lingual Named Entity Recognition",
+      "authors": "Tingting Ma, Qianhui Wu, Huiqiang Jiang, Börje F. Karlsson, Tiejun Zhao, Chin-Yew Lin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.330.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_732",
+      "paper_id": "",
+      "title": "Combining Supervised Learning and Reinforcement Learning for Multi-Label Classification Tasks with Partial Labels",
+      "authors": "Zixia Jia, Junpeng Li, Shichuan Zhang, Anji Liu, Zilong Zheng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.731.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_460",
+      "paper_id": "",
+      "title": "Comparative evaluation of boundary-relaxed annotation for Entity Linking performance",
+      "authors": "Gabriel Herman Bernardim Andrade, Shuntaro Yada, Eiji Aramaki",
+      "paper_url": "https://aclanthology.org/2023.acl-long.458.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_411",
+      "paper_id": "",
+      "title": "Consistent Prototype Learning for Few-Shot Continual Relation Extraction",
+      "authors": "Xiudi Chen, Hui Wu, Xiaodong Shi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.409.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_57",
+      "paper_id": "",
+      "title": "Constrained Multi-Task Learning for Bridging Resolution",
+      "authors": "Hideo Kobayashi, Yufang Hou, Vincent Ng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.56.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_642",
+      "paper_id": "",
+      "title": "Constrained Tuple Extraction with Interaction-Aware Network",
+      "authors": "Xiaojun Xue, Chunxia Zhang, Tianxiang Xu, Zhendong Niu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.640.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_440",
+      "paper_id": "",
+      "title": "CONTaiNER: Few-Shot Named Entity Recognition via Contrastive Learning",
+      "authors": "Sarkar Snigdha Sarathi Das, Arzoo Katiyar, Rebecca Passonneau, Rui Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.439.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_741",
+      "paper_id": "",
+      "title": "Continual Contrastive Finetuning Improves Low-Resource Relation Extraction",
+      "authors": "Wenxuan Zhou, Sheng Zhang, Tristan Naumann, Muhao Chen, Hoifung Poon",
+      "paper_url": "https://aclanthology.org/2023.acl-long.739.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_199",
+      "paper_id": "",
+      "title": "Continual Few-shot Relation Learning via Embedding Space Regularization and Data Augmentation",
+      "authors": "Chengwei Qin, Shafiq Joty",
+      "paper_url": "https://aclanthology.org/2022.acl-long.198.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_449",
+      "paper_id": "",
+      "title": "Coreference Reasoning in Machine Reading Comprehension",
+      "authors": "Mingzhu Wu, Nafise Sadat Moosavi, Dan Roth, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2021.acl-long.448.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_364",
+      "paper_id": "",
+      "title": "CoRI: Collective Relation Integration with Data Augmentation for Open Information Extraction",
+      "authors": "Zhengbao Jiang, Jialong Han, Bunyamin Sisman, Xin Luna Dong",
+      "paper_url": "https://aclanthology.org/2021.acl-long.363.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_160",
+      "paper_id": "",
+      "title": "Cross-Lingual Contrastive Learning for Fine-Grained Entity Typing for Low-Resource Languages",
+      "authors": "Xu Han, Yuqi Luo, Weize Chen, Zhiyuan Liu, Maosong Sun, Zhou Botong, Hao Fei, Suncong Zheng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.159.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_433",
+      "paper_id": "",
+      "title": "Crowdsourcing Learning as Domain Adaptation: A Case Study on Named Entity Recognition",
+      "authors": "Xin Zhang, Guangwei Xu, Yueheng Sun, Meishan Zhang, Pengjun Xie",
+      "paper_url": "https://aclanthology.org/2021.acl-long.432.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_67",
+      "paper_id": "",
+      "title": "Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM’s Nest",
+      "authors": "Letian Peng, Zilong Wang, Feng Yao, Jingbo Shang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.66.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_60",
+      "paper_id": "",
+      "title": "De-Bias for Generative Extraction in Unified NER Task",
+      "authors": "Shuai Zhang, Yongliang Shen, Zeqi Tan, Yiquan Wu, Weiming Lu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.59.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_372",
+      "paper_id": "",
+      "title": "De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention",
+      "authors": "Wenkai Zhang, Hongyu Lin, Xianpei Han, Le Sun",
+      "paper_url": "https://aclanthology.org/2021.acl-long.371.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_124",
+      "paper_id": "",
+      "title": "DEEP: DEnoising Entity Pre-training for Neural Machine Translation",
+      "authors": "Junjie Hu, Hiroaki Hayashi, Kyunghyun Cho, Graham Neubig",
+      "paper_url": "https://aclanthology.org/2022.acl-long.123.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_345",
+      "paper_id": "",
+      "title": "Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks",
+      "authors": "Yuanhe Tian, Guimin Chen, Yan Song, Xiang Wan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.344.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_888",
+      "paper_id": "",
+      "title": "DICE: Data-Efficient Clinical Event Extraction with Generative Models",
+      "authors": "Mingyu Derek Ma, Alexander Taylor, Wei Wang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.886.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_356",
+      "paper_id": "",
+      "title": "Did the Models Understand Documents? Benchmarking Models for Language Understanding in Document-Level Relation Extraction",
+      "authors": "Haotian Chen, Bingsheng Chen, Xiangdong Zhou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.354.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_217",
+      "paper_id": "",
+      "title": "DiffusionNER: Boundary Diffusion for Named Entity Recognition",
+      "authors": "Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu, Yueting Zhuang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.215.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_350",
+      "paper_id": "",
+      "title": "DiFiNet: Boundary-Aware Semantic Differentiation and Filtration Network for Nested Named Entity Recognition",
+      "authors": "Yuxiang Cai, Qiao Liu, Yanglei Gan, Run Lin, Changlin Li, Xueyi Liu, Da Luo, JiayeYang JiayeYang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.349.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_64",
+      "paper_id": "",
+      "title": "Discontinuous Named Entity Recognition as Maximal Clique Discovery",
+      "authors": "Yucheng Wang, Bowen Yu, Hongsong Zhu, Tingwen Liu, Nan Yu, Limin Sun",
+      "paper_url": "https://aclanthology.org/2021.acl-long.63.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_731",
+      "paper_id": "",
+      "title": "Distantly Supervised Course Concept Extraction in MOOCs with Academic Discipline",
+      "authors": "Mengying Lu, Yuquan Wang, Jifan Yu, Yexing Du, Lei Hou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.729.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_499",
+      "paper_id": "",
+      "title": "Distantly Supervised Named Entity Recognition via Confidence-Based Multi-Class Positive and Unlabeled Learning",
+      "authors": "Kang Zhou, Yuepei Li, Qi Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.498.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_142",
+      "paper_id": "",
+      "title": "Divide and Denoise: Learning from Noisy Labels in Fine-Grained Entity Typing with Cluster-Wise Loss Correction",
+      "authors": "Kunyuan Pang, Haoyu Zhang, Jie Zhou, Ting Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.141.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_461",
+      "paper_id": "",
+      "title": "Do CoNLL-2003 Named Entity Taggers Still Work Well in 2023?",
+      "authors": "Shuheng Liu, Alan Ritter",
+      "paper_url": "https://aclanthology.org/2023.acl-long.459.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_534",
+      "paper_id": "",
+      "title": "Document-Level Event Argument Extraction With a Chain Reasoning Paradigm",
+      "authors": "Jian Liu, Chen Liang, Jinan Xu, Haoyan Liu, Zhe Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.532.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_275",
+      "paper_id": "",
+      "title": "Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker",
+      "authors": "Runxin Xu, Tianyu Liu, Lei Li, Baobao Chang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.274.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_493",
+      "paper_id": "",
+      "title": "Document-level Event Extraction via Parallel Prediction Networks",
+      "authors": "Hang Yang, Dianbo Sui, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.492.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1222",
+      "paper_id": "",
+      "title": "Document-Level Event-Argument Data Augmentation for Challenging Role Types",
+      "authors": "Joseph Gatto, Omar Sharif, Parker Seegmiller, Sarah M. Preum",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1221.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_565",
+      "paper_id": "",
+      "title": "Document-Level Multi-Event Extraction with Event Proxy Nodes and Hausdorff Distance Minimization",
+      "authors": "Xinyu Wang, Lin Gui, Yulan He",
+      "paper_url": "https://aclanthology.org/2023.acl-long.563.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_433",
+      "paper_id": "",
+      "title": "Does Recommend-Revise Produce Reliable Annotations? An Analysis on Missing Instances in DocRED",
+      "authors": "Quzhe Huang, Shibo Hao, Yuan Ye, Shengqi Zhu, Yansong Feng, Dongyan Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.432.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_853",
+      "paper_id": "",
+      "title": "Dual Cache for Long Document Neural Coreference Resolution",
+      "authors": "Qipeng Guo, Xiangkun Hu, Yue Zhang, Xipeng Qiu, Zheng Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.851.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_362",
+      "paper_id": "",
+      "title": "Dynamic Global Memory for Document-level Argument Extraction",
+      "authors": "Xinya Du, Sha Li, Heng Ji",
+      "paper_url": "https://aclanthology.org/2022.acl-long.361.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_359",
+      "paper_id": "",
+      "title": "Dynamic Prefix-Tuning for Generative Template-based Event Extraction",
+      "authors": "Xiao Liu, Heyan Huang, Ge Shi, Bo Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.358.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_362",
+      "paper_id": "",
+      "title": "Element Intervention for Open Relation Extraction",
+      "authors": "Fangchao Liu, Lingyong Yan, Hongyu Lin, Xianpei Han, Le Sun",
+      "paper_url": "https://aclanthology.org/2021.acl-long.361.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1135",
+      "paper_id": "",
+      "title": "Employing Discourse Coherence Enhancement to Improve Cross-Document Event and Entity Coreference Resolution",
+      "authors": "Xinyu Chen, Peifeng Li, Qiaoming Zhu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1134.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_325",
+      "paper_id": "",
+      "title": "End-to-End AMR Coreference Resolution",
+      "authors": "Qiankun Fu, Linfeng Song, Wenyu Du, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.324.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_392",
+      "paper_id": "",
+      "title": "End-to-end Learning of Logical Rules for Enhancing Document-level Relation Extraction",
+      "authors": "Kunxun Qi, Jianfeng Du, Hai Wan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.391.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_122",
+      "paper_id": "",
+      "title": "Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild",
+      "authors": "Ting Wu, Jingyi Liu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.121.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_765",
+      "paper_id": "",
+      "title": "Evaluating Design Decisions for Dual Encoder-based Entity Disambiguation",
+      "authors": "Susanna Rücker, Alan Akbik",
+      "paper_url": "https://aclanthology.org/2025.acl-long.764.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_864",
+      "paper_id": "",
+      "title": "Explicating the Implicit: Argument Detection Beyond Sentence Boundaries",
+      "authors": "Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, Valentina Pyatkin, Ido Dagan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.863.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_375",
+      "paper_id": "",
+      "title": "Exploiting Document Structures and Cluster Consistencies for Event Coreference Resolution",
+      "authors": "Hieu Minh Tran, Duy Phung, Thien Huu Nguyen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.374.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_178",
+      "paper_id": "",
+      "title": "ExtEnD: Extractive Entity Disambiguation",
+      "authors": "Edoardo Barba, Luigi Procopio, Roberto Navigli",
+      "paper_url": "https://aclanthology.org/2022.acl-long.177.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_249",
+      "paper_id": "",
+      "title": "Few-NERD: A Few-shot Named Entity Recognition Dataset",
+      "authors": "Ning Ding, Guangwei Xu, Yulin Chen, Xiaobin Wang, Xu Han, Pengjun Xie, Haitao Zheng, Zhiyuan Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.248.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_44",
+      "paper_id": "",
+      "title": "Few-Shot Class-Incremental Learning for Named Entity Recognition",
+      "authors": "Rui Wang, Tong Yu, Handong Zhao, Sungchul Kim, Subrata Mitra, Ruiyi Zhang, Ricardo Henao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.43.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_448",
+      "paper_id": "",
+      "title": "Few-Shot Document-Level Event Argument Extraction",
+      "authors": "Xianjun Yang, Yujie Lu, Linda Petzold",
+      "paper_url": "https://aclanthology.org/2023.acl-long.446.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_393",
+      "paper_id": "",
+      "title": "Few-shot Named Entity Recognition with Self-describing Networks",
+      "authors": "Jiawei Chen, Qing Liu, Hongyu Lin, Xianpei Han, Le Sun",
+      "paper_url": "https://aclanthology.org/2022.acl-long.392.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_490",
+      "paper_id": "",
+      "title": "Fine-grained Information Extraction from Biomedical Literature based on Knowledge-enriched Abstract Meaning Representation",
+      "authors": "Zixuan Zhang, Nikolaus Parulian, Heng Ji, Ahmed Elsayed, Skatje Myers, Martha Palmer",
+      "paper_url": "https://aclanthology.org/2021.acl-long.489.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_304",
+      "paper_id": "",
+      "title": "FiNER: Financial Numeric Entity Recognition for XBRL Tagging",
+      "authors": "Lefteris Loukas, Manos Fergadiotis, Ilias Chalkidis, Eirini Spyropoulou, Prodromos Malakasiotis, Ion Androutsopoulos, Georgios Paliouras",
+      "paper_url": "https://aclanthology.org/2022.acl-long.303.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_128",
+      "paper_id": "",
+      "title": "From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained",
+      "authors": "Hongliang Dai, Ziqian Zeng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.126.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_904",
+      "paper_id": "",
+      "title": "FSUIE: A Novel Fuzzy Span Mechanism for Universal Information Extraction",
+      "authors": "Tianshuo Peng, Zuchao Li, Lefei Zhang, Bo Du, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.902.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_205",
+      "paper_id": "",
+      "title": "GENEVA: Benchmarking Generalizability for Event Argument Extraction with Hundreds of Event Types and Argument Roles",
+      "authors": "Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.203.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_193",
+      "paper_id": "",
+      "title": "Good Examples Make A Faster Learner: Simple Demonstration-based Learning for Low-resource NER",
+      "authors": "Dong-Ho Lee, Akshen Kadakia, Kangmin Tan, Mahak Agarwal, Xinyu Feng, Takashi Shibuya, Ryosuke Mitani, Toshiyuki Sekiya, Jay Pujara, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2022.acl-long.192.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_274",
+      "paper_id": "",
+      "title": "Guide the Many-to-One Assignment: Open Information Extraction via IoU-aware Optimal Transport",
+      "authors": "Kaiwen Wei, Yiran Yang, Li Jin, Xian Sun, Zequn Zhang, Jingyuan Zhang, Xiao Li, Linhao Zhang, Jintao Liu, Guo Zhi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.272.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_182",
+      "paper_id": "",
+      "title": "HistRED: A Historical Document-Level Relation Extraction Dataset",
+      "authors": "Soyoung Yang, Minseok Choi, Youngwoo Cho, Jaegul Choo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.180.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_360",
+      "paper_id": "",
+      "title": "How Knowledge Graph and Attention Help? A Qualitative Analysis into Bag-level Relation Extraction",
+      "authors": "Zikun Hu, Yixin Cao, Lifu Huang, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2021.acl-long.359.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_503",
+      "paper_id": "",
+      "title": "Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction",
+      "authors": "Guangjun Zhang, Hu Zhang, YuJie Wang, Ru Li, Hongye Tan, Jiye Liang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.502.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_67",
+      "paper_id": "",
+      "title": "Improving Continual Relation Extraction by Distinguishing Analogous Semantics",
+      "authors": "Wenzheng Zhao, Yuanning Cui, Wei Hu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.65.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_217",
+      "paper_id": "",
+      "title": "Improving Event Representation via Simultaneous Weakly Supervised Contrastive Learning and Clustering",
+      "authors": "Jun Gao, Wei Wang, Changlong Yu, Huan Zhao, Wilfred Ng, Ruifeng Xu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.216.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_143",
+      "paper_id": "",
+      "title": "Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning",
+      "authors": "Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Zhongqiang Huang, Fei Huang, Kewei Tu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.142.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_224",
+      "paper_id": "",
+      "title": "Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning",
+      "authors": "Ran Zhou, Xin Li, Lidong Bing, Erik Cambria, Chunyan Miao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.222.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_489",
+      "paper_id": "",
+      "title": "Joint Biomedical Entity and Relation Extraction with Knowledge-Enhanced Collective Inference",
+      "authors": "Tuan Lai, Heng Ji, ChengXiang Zhai, Quan Hung Tran",
+      "paper_url": "https://aclanthology.org/2021.acl-long.488.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_586",
+      "paper_id": "",
+      "title": "Joint Document-Level Event Extraction via Token-Token Bidirectional Event Completed Graph",
+      "authors": "Qizhi Wan, Changxuan Wan, Keli Xiao, Dexi Liu, Chenliang Li, Bolong Zheng, Xiping Liu, Rong Hu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.584.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_815",
+      "paper_id": "",
+      "title": "Jointprop: Joint Semi-supervised Learning for Entity and Relation Extraction with Heterogeneous Graph-based Propagation",
+      "authors": "Yandan Zheng, Anran Hao, Anh Tuan Luu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.813.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_211",
+      "paper_id": "",
+      "title": "KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling",
+      "authors": "Xindi Wang, Robert Mercer, Frank Rudzicz",
+      "paper_url": "https://aclanthology.org/2022.acl-long.210.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_216",
+      "paper_id": "",
+      "title": "Large Margin Representation Learning for Robust Cross-lingual Named Entity Recognition",
+      "authors": "Guangcheng Zhu, Ruixuan Xiao, Haobo Wang, Zhen Zhu, Gengyu Lyu, Junbo Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.215.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_488",
+      "paper_id": "",
+      "title": "Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition",
+      "authors": "Meihan Tong, Shuai Wang, Bin Xu, Yixin Cao, Minghui Liu, Lei Hou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2021.acl-long.487.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_148",
+      "paper_id": "",
+      "title": "Learning from Sibling Mentions with Scalable Graph Inference in Fine-Grained Entity Typing",
+      "authors": "Yi Chen, Jiayang Cheng, Haiyun Jiang, Lemao Liu, Haisong Zhang, Shuming Shi, Ruifeng Xu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.147.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_766",
+      "paper_id": "",
+      "title": "Learning In-context Learning for Named Entity Recognition",
+      "authors": "Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao, Xianpei Han, Le Sun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.764.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_330",
+      "paper_id": "",
+      "title": "Learning “O” Helps for Learning More: Handling the Unlabeled Entity Problem for Class-incremental NER",
+      "authors": "Ruotian Ma, Xuanting Chen, Zhang Lin, Xin Zhou, Junzhe Wang, Tao Gui, Qi Zhang, Xiang Gao, Yun Wen Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.328.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_36",
+      "paper_id": "",
+      "title": "Leveraging Codebook Knowledge with NLI and ChatGPT for Zero-Shot Political Relation Classification",
+      "authors": "Yibo Hu, Erick Skorupa Parolin, Latifur Khan, Patrick Brandt, Javier Osorio, Vito D’Orazio",
+      "paper_url": "https://aclanthology.org/2024.acl-long.35.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_121",
+      "paper_id": "",
+      "title": "Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification",
+      "authors": "Rami Aly, Andreas Vlachos, Ryan McDonald",
+      "paper_url": "https://aclanthology.org/2021.acl-long.120.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_648",
+      "paper_id": "",
+      "title": "LLMs Learn Task Heuristics from Demonstrations: A Heuristic-Driven Prompting Strategy for Document-Level Event Argument Extraction",
+      "authors": "Hanzhang Zhou, Junlang Qian, Zijian Feng, Lu Hui, Zixiao Zhu, Kezhi Mao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.647.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_65",
+      "paper_id": "",
+      "title": "LNN-EL: A Neuro-Symbolic Approach to Short-text Entity Linking",
+      "authors": "Hang Jiang, Sairam Gurajada, Qiuhao Lu, Sumit Neelam, Lucian Popa, Prithviraj Sen, Yunyao Li, Alexander Gray",
+      "paper_url": "https://aclanthology.org/2021.acl-long.64.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_217",
+      "paper_id": "",
+      "title": "Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition",
+      "authors": "Yongliang Shen, Xinyin Ma, Zeqi Tan, Shuai Zhang, Wen Wang, Weiming Lu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.216.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_236",
+      "paper_id": "",
+      "title": "MANNER: A Variational Memory-Augmented Model for Cross Domain Few-Shot Named Entity Recognition",
+      "authors": "Jinyuan Fang, Xiaobin Wang, Zaiqiao Meng, Pengjun Xie, Fei Huang, Yong Jiang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.234.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_225",
+      "paper_id": "",
+      "title": "MAVEN-ARG: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation",
+      "authors": "Xiaozhi Wang, Hao Peng, Yong Guan, Kaisheng Zeng, Jianhui Chen, Lei Hou, Xu Han, Yankai Lin, Zhiyuan Liu, Ruobing Xie, Jie Zhou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.224.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_723",
+      "paper_id": "",
+      "title": "Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends",
+      "authors": "Giuliano Martinelli, Edoardo Barba, Roberto Navigli",
+      "paper_url": "https://aclanthology.org/2024.acl-long.722.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_161",
+      "paper_id": "",
+      "title": "MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER",
+      "authors": "Ran Zhou, Xin Li, Ruidan He, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.160.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_522",
+      "paper_id": "",
+      "title": "Memorisation versus Generalisation in Pre-trained Language Models",
+      "authors": "Michael Tänzer, Sebastian Ruder, Marek Rei",
+      "paper_url": "https://aclanthology.org/2022.acl-long.521.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_479",
+      "paper_id": "",
+      "title": "MILIE: Modular & Iterative Multilingual Open Information Extraction",
+      "authors": "Bhushan Kotnis, Kiril Gashteovski, Daniel Rubio, Ammar Shaker, Vanesa Rodriguez-Tembras, Makoto Takamoto, Mathias Niepert, Carolin Lawrence",
+      "paper_url": "https://aclanthology.org/2022.acl-long.478.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_384",
+      "paper_id": "",
+      "title": "MINER: Improving Out-of-Vocabulary Named Entity Recognition from an Information Theoretic Perspective",
+      "authors": "Xiao Wang, Shihan Dou, Limao Xiong, Yicheng Zou, Qi Zhang, Tao Gui, Liang Qiao, Zhanzhan Cheng, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.383.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_531",
+      "paper_id": "",
+      "title": "Mitigating Non-Representative Prototypes and Representation Bias in Few-Shot Continual Relation Extraction",
+      "authors": "Thanh Duc Pham, Nam Le Hai, Linh Ngo Van, Nguyen Thi Ngoc Diep, Sang Dinh, Thien Huu Nguyen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.530.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_374",
+      "paper_id": "",
+      "title": "MLBiNet: A Cross-Sentence Collective Event Detection Network",
+      "authors": "Dongfang Lou, Zhilin Liao, Shumin Deng, Ningyu Zhang, Huajun Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.373.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_161",
+      "paper_id": "",
+      "title": "Modeling Fine-Grained Entity Types with Box Embeddings",
+      "authors": "Yasumasa Onoe, Michael Boratko, Andrew McCallum, Greg Durrett",
+      "paper_url": "https://aclanthology.org/2021.acl-long.160.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_768",
+      "paper_id": "",
+      "title": "Modeling Instance Interactions for Joint Information Extraction with Neural High-Order Conditional Random Field",
+      "authors": "Zixia Jia, Zhaohui Yan, Wenjuan Han, Zilong Zheng, Kewei Tu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.766.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_18",
+      "paper_id": "",
+      "title": "Modularized Interaction Network for Named Entity Recognition",
+      "authors": "Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He, Meihuizi Jia",
+      "paper_url": "https://aclanthology.org/2021.acl-long.17.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_538",
+      "paper_id": "",
+      "title": "More than Classification: A Unified Framework for Event Temporal Relation Extraction",
+      "authors": "Quzhe Huang, Yutong Hu, Shengqi Zhu, Yansong Feng, Chang Liu, Dongyan Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.536.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_454",
+      "paper_id": "",
+      "title": "MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER",
+      "authors": "Linlin Liu, Bosheng Ding, Lidong Bing, Shafiq Joty, Luo Si, Chunyan Miao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.453.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_514",
+      "paper_id": "",
+      "title": "Multi-hop Graph Convolutional Network with High-order Chebyshev Approximation for Text Reasoning",
+      "authors": "Shuoran Jiang, Qingcai Chen, Xin Liu, Baotian Hu, Lisai Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.513.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_576",
+      "paper_id": "",
+      "title": "Multilingual Event Extraction from Historical Newspaper Adverts",
+      "authors": "Nadav Borenstein, Natália da Silva Perez, Isabelle Augenstein",
+      "paper_url": "https://aclanthology.org/2023.acl-long.574.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_318",
+      "paper_id": "",
+      "title": "Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction",
+      "authors": "Kuan-Hao Huang, I-Hung Hsu, Prem Natarajan, Kai-Wei Chang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.317.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_212",
+      "paper_id": "",
+      "title": "MultiTACRED: A Multilingual Version of the TAC Relation Extraction Dataset",
+      "authors": "Leonhard Hennig, Philippe Thomas, Sebastian Möller",
+      "paper_url": "https://aclanthology.org/2023.acl-long.210.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_137",
+      "paper_id": "",
+      "title": "MUSTIE: Multimodal Structural Transformer for Web Information Extraction",
+      "authors": "Qifan Wang, Jingang Wang, Xiaojun Quan, Fuli Feng, Zenglin Xu, Shaoliang Nie, Sinong Wang, Madian Khabsa, Hamed Firooz, Dongfang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.135.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_584",
+      "paper_id": "",
+      "title": "Naamapadam: A Large-Scale Named Entity Annotated Data for Indic Languages",
+      "authors": "Arnav Mhaske, Harshit Kedia, Sumanth Doddapaneni, Mitesh M. Khapra, Pratyush Kumar, Rudra Murthy, Anoop Kunchukuttan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.582.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_141",
+      "paper_id": "",
+      "title": "Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Data",
+      "authors": "Haoming Jiang, Danqing Zhang, Tianyu Cao, Bing Yin, Tuo Zhao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.140.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_429",
+      "paper_id": "",
+      "title": "Nested Named Entity Recognition as Latent Lexicalized Constituency Parsing",
+      "authors": "Chao Lou, Songlin Yang, Kewei Tu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.428.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_276",
+      "paper_id": "",
+      "title": "Nested Named Entity Recognition via Explicitly Excluding the Influence of the Best Path",
+      "authors": "Yiran Wang, Hiroyuki Shindo, Yuji Matsumoto, Taro Watanabe",
+      "paper_url": "https://aclanthology.org/2021.acl-long.275.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_64",
+      "paper_id": "",
+      "title": "Nested Named Entity Recognition with Span-level Graphs",
+      "authors": "Juncheng Wan, Dongyu Ru, Weinan Zhang, Yong Yu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.63.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_625",
+      "paper_id": "",
+      "title": "OD-RTE: A One-Stage Object Detection Framework for Relational Triple Extraction",
+      "authors": "Jinzhong Ning, Zhihao Yang, Yuanyuan Sun, Zhizheng Wang, Hongfei Lin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.623.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_431",
+      "paper_id": "",
+      "title": "OIE@OIA: an Adaptable and Efficient Open Information Extraction Framework",
+      "authors": "Xin Wang, Minlong Peng, Mingming Sun, Ping Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.430.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_527",
+      "paper_id": "",
+      "title": "Open Set Relation Extraction via Unknown-Aware Training",
+      "authors": "Jun Zhao, Xin Zhao, WenYu Zhan, Qi Zhang, Tao Gui, Zhongyu Wei, Yun Wen Chen, Xiang Gao, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.525.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_86",
+      "paper_id": "",
+      "title": "Open-World Attribute Mining for E-Commerce Products with Multimodal Self-Correction Instruction Tuning",
+      "authors": "Jiaqi Li, Yanming Li, Xiaoli Shen, Chuanyi Zhang, Guilin Qi, Sheng Bi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.85.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_422",
+      "paper_id": "",
+      "title": "Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition",
+      "authors": "Huiming Wang, Liying Cheng, Wenxuan Zhang, De Wen Soh, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2024.acl-long.421.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_338",
+      "paper_id": "",
+      "title": "Packed Levitated Marker for Entity and Relation Extraction",
+      "authors": "Deming Ye, Yankai Lin, Peng Li, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2022.acl-long.337.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_385",
+      "paper_id": "",
+      "title": "PairSpanBERT: An Enhanced Language Model for Bridging Resolution",
+      "authors": "Hideo Kobayashi, Yufang Hou, Vincent Ng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.383.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_68",
+      "paper_id": "",
+      "title": "Parallel Instance Query Network for Named Entity Recognition",
+      "authors": "Yongliang Shen, Xiaobin Wang, Zeqi Tan, Guangwei Xu, Pengjun Xie, Fei Huang, Weiming Lu, Yueting Zhuang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.67.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_486",
+      "paper_id": "",
+      "title": "PeerDA: Data Augmentation via Modeling Peer Relation for Span Identification Tasks",
+      "authors": "Weiwen Xu, Xin Li, Yang Deng, Wai Lam, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2023.acl-long.484.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_398",
+      "paper_id": "",
+      "title": "Pre-training to Match for Unified Low-shot Relation Extraction",
+      "authors": "Fangchao Liu, Hongyu Lin, Xianpei Han, Boxi Cao, Le Sun",
+      "paper_url": "https://aclanthology.org/2022.acl-long.397.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_487",
+      "paper_id": "",
+      "title": "PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction",
+      "authors": "Hengyi Zheng, Rui Wen, Xi Chen, Yifan Yang, Yunyan Zhang, Ziheng Zhang, Ningyu Zhang, Bin Qin, Xu Ming, Yefeng Zheng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.486.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_467",
+      "paper_id": "",
+      "title": "Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction",
+      "authors": "Yubo Ma, Zehao Wang, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.466.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_56",
+      "paper_id": "",
+      "title": "Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning",
+      "authors": "Rongzhi Zhang, Yue Yu, Pranav Shetty, Le Song, Chao Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.55.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_700",
+      "paper_id": "",
+      "title": "PromptNER: Prompt Locating and Typing for Named Entity Recognition",
+      "authors": "Yongliang Shen, Zeqi Tan, Shuhui Wu, Wenqi Zhang, Rongsheng Zhang, Yadong Xi, Weiming Lu, Yueting Zhuang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.698.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_18",
+      "paper_id": "",
+      "title": "Prompts Can Play Lottery Tickets Well: Achieving Lifelong Information Extraction via Lottery Prompt Tuning",
+      "authors": "Zujie Liang, Feng Wei, Yin Jie, Yuxi Qian, Zhenghong Hao, Bing Han",
+      "paper_url": "https://aclanthology.org/2023.acl-long.16.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_371",
+      "paper_id": "",
+      "title": "RE-Matching: A Fine-Grained Semantic Matching Method for Zero-Shot Relation Extraction",
+      "authors": "Jun Zhao, WenYu Zhan, Xin Zhao, Qi Zhang, Tao Gui, Zhongyu Wei, Junzhe Wang, Minlong Peng, Mingming Sun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.369.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_650",
+      "paper_id": "",
+      "title": "Recall, Expand, and Multi-Candidate Cross-Encode: Fast and Accurate Ultra-Fine Entity Typing",
+      "authors": "Chengyue Jiang, Wenyang Hui, Yong Jiang, Xiaobin Wang, Pengjun Xie, Kewei Tu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.648.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_239",
+      "paper_id": "",
+      "title": "REDFM: a Filtered and Multilingual Relation Extraction Dataset",
+      "authors": "‪Pere-Lluís Huguet Cabot, Simone Tedeschi, Axel-Cyrille Ngonga Ngomo, Roberto Navigli",
+      "paper_url": "https://aclanthology.org/2023.acl-long.237.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_21",
+      "paper_id": "",
+      "title": "Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction",
+      "authors": "Li Cui, Deqing Yang, Jiaxin Yu, Chengwei Hu, Jiayang Cheng, Jingjie Yi, Yanghua Xiao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.20.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_498",
+      "paper_id": "",
+      "title": "Rethinking Negative Sampling for Handling Missing Entity Annotations",
+      "authors": "Yangming Li, Lemao Liu, Shuming Shi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.497.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_19",
+      "paper_id": "",
+      "title": "Retrieve-and-Sample: Document-level Event Argument Extraction via Hybrid Retrieval Augmentation",
+      "authors": "Yubing Ren, Yanan Cao, Ping Guo, Fang Fang, Wei Ma, Zheng Lin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.17.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_703",
+      "paper_id": "",
+      "title": "Revisiting Event Argument Extraction: Can EAE Models Learn Better When Being Aware of Event Co-occurrences?",
+      "authors": "Yuxin He, Jingyue Hu, Buzhou Tang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.701.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_870",
+      "paper_id": "",
+      "title": "Revisiting Relation Extraction in the era of Large Language Models",
+      "authors": "Somin Wadhwa, Silvio Amir, Byron Wallace",
+      "paper_url": "https://aclanthology.org/2023.acl-long.868.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_278",
+      "paper_id": "",
+      "title": "Revisiting the Negative Data of Distantly Supervised Relation Extraction",
+      "authors": "Chenhao Xie, Jiaqing Liang, Jingping Liu, Chengsong Huang, Wenhao Huang, Yanghua Xiao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.277.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_502",
+      "paper_id": "",
+      "title": "Reward-based Input Construction for Cross-document Relation Extraction",
+      "authors": "Byeonghu Na, Suhyeon Jo, Yeongmin Kim, Il-chul Moon",
+      "paper_url": "https://aclanthology.org/2024.acl-long.501.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_457",
+      "paper_id": "",
+      "title": "S2ynRE: Two-stage Self-training with Synthetic data for Low-resource Relation Extraction",
+      "authors": "Benfeng Xu, Quan Wang, Yajuan Lyu, Dai Dai, Yongdong Zhang, Zhendong Mao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.455.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_488",
+      "paper_id": "",
+      "title": "Selecting and Merging: Towards Adaptable and Scalable Named Entity Recognition with Large Language Models",
+      "authors": "Zhuojun Ding, Wei Wei, Chenghao Fan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.487.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_343",
+      "paper_id": "",
+      "title": "Semantic Representation for Dialogue Modeling",
+      "authors": "Xuefeng Bai, Yulong Chen, Linfeng Song, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.342.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_485",
+      "paper_id": "",
+      "title": "SENT: Sentence-level Distant Relation Extraction via Negative Training",
+      "authors": "Ruotian Ma, Tao Gui, Linyang Li, Qi Zhang, Xuanjing Huang, Yaqian Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.484.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_559",
+      "paper_id": "",
+      "title": "SpanNER: Named Entity Re-/Recognition as Span Prediction",
+      "authors": "Jinlan Fu, Xuanjing Huang, Pengfei Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.558.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_23",
+      "paper_id": "",
+      "title": "SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres",
+      "authors": "Shumin Deng, Shengyu Mao, Ningyu Zhang, Bryan Hooi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.21.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_376",
+      "paper_id": "",
+      "title": "StereoRel: Relational Triple Extraction from a Stereoscopic Perspective",
+      "authors": "Xuetao Tian, Liping Jing, Lu He, Feng Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.375.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_333",
+      "paper_id": "",
+      "title": "Subsequence Based Deep Active Learning for Named Entity Recognition",
+      "authors": "Puria Radmard, Yassir Fathullah, Aldo Lipani",
+      "paper_url": "https://aclanthology.org/2021.acl-long.332.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_321",
+      "paper_id": "",
+      "title": "Supporting Land Reuse of Former Open Pit Mining Sites using Text Classification and Active Learning",
+      "authors": "Christopher Schröder, Kim Bürgl, Yves Annanias, Andreas Niekler, Lydia Müller, Daniel Wiegreffe, Christian Bender, Christoph Mengs, Gerik Scheuermann, Gerhard Heyer",
+      "paper_url": "https://aclanthology.org/2021.acl-long.320.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1522",
+      "paper_id": "",
+      "title": "TACLR: A Scalable and Efficient Retrieval-based Method for Industrial Product Attribute Value Identification",
+      "authors": "Yindu Su, Huike Zou, Lin Sun, Ting Zhang, Haiyang Yang, Chen Li Yu, David Lo, Qingheng Zhang, Shuguang Han, Jufeng Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1521.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_725",
+      "paper_id": "",
+      "title": "TAGPRIME: A Unified Framework for Relational Structure Extraction",
+      "authors": "I-Hung Hsu, Kuan-Hao Huang, Shuning Zhang, Wenxin Cheng, Prem Natarajan, Kai-Wei Chang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.723.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_218",
+      "paper_id": "",
+      "title": "Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction",
+      "authors": "Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, Jialong Tang, Annan Li, Le Sun, Meng Liao, Shaoyi Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.217.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_843",
+      "paper_id": "",
+      "title": "The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources",
+      "authors": "Akshatha Arodi, Martin Pömsl, Kaheer Suleman, Adam Trischler, Alexandra Olteanu, Jackie Chi Kit Cheung",
+      "paper_url": "https://aclanthology.org/2023.acl-long.841.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_319",
+      "paper_id": "",
+      "title": "Towards a More Generalized Approach in Open Relation Extraction",
+      "authors": "Qing Wang, Yuepei Li, Qiao Qiao, Kang Zhou, Qi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.318.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_685",
+      "paper_id": "",
+      "title": "Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach",
+      "authors": "Liyan Xu, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.683.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1361",
+      "paper_id": "",
+      "title": "Towards Robust Universal Information Extraction: Dataset, Evaluation, and Solution",
+      "authors": "Jizhao Zhu, Akang Shi, Zixuan Li, Long Bai, Xiaolong Jin, Jiafeng Guo, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1360.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_92",
+      "paper_id": "",
+      "title": "Tracing Origins: Coreference-aware Machine Reading Comprehension",
+      "authors": "Baorong Huang, Zhuosheng Zhang, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.91.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_361",
+      "paper_id": "",
+      "title": "Trigger is Not Sufficient: Exploiting Frame-aware Knowledge for Implicit Event Argument Extraction",
+      "authors": "Kaiwen Wei, Xian Sun, Zequn Zhang, Jingyuan Zhang, Guo Zhi, Li Jin",
+      "paper_url": "https://aclanthology.org/2021.acl-long.360.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_27",
+      "paper_id": "",
+      "title": "TTM-RE: Memory-Augmented Document-Level Relation Extraction",
+      "authors": "Chufan Gao, Xuan Wang, Jimeng Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.26.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_142",
+      "paper_id": "",
+      "title": "Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model",
+      "authors": "Hongliang Dai, Yangqiu Song, Haixun Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.141.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_891",
+      "paper_id": "",
+      "title": "Uncertainty Guided Label Denoising for Document-level Distant Relation Extraction",
+      "authors": "Qi Sun, Kun Huang, Xiaocui Yang, Pengfei Hong, Kun Zhang, Soujanya Poria",
+      "paper_url": "https://aclanthology.org/2023.acl-long.889.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_909",
+      "paper_id": "",
+      "title": "UniEX: An Effective and Efficient Framework for Unified Information Extraction via a Span-extractive Perspective",
+      "authors": "Yang Ping, JunYu Lu, Ruyi Gan, Junjie Wang, Yuxiang Zhang, Pingjian Zhang, Jiaxing Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.907.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_396",
+      "paper_id": "",
+      "title": "Unified Structure Generation for Universal Information Extraction",
+      "authors": "Yaojie Lu, Qing Liu, Dai Dai, Xinyan Xiao, Hongyu Lin, Xianpei Han, Le Sun, Hua Wu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.395.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_20",
+      "paper_id": "",
+      "title": "UniRE: A Unified Label Space for Entity Relation Extraction",
+      "authors": "Yijun Wang, Changzhi Sun, Yuanbin Wu, Hao Zhou, Lei Li, Junchi Yan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.19.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_228",
+      "paper_id": "",
+      "title": "UTC-IE: A Unified Token-pair Classification Architecture for Information Extraction",
+      "authors": "Hang Yan, Yu Sun, Xiaonan Li, Yunhua Zhou, Xuanjing Huang, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.226.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_200",
+      "paper_id": "",
+      "title": "Variational Graph Autoencoding as Cheap Supervision for AMR Coreference Resolution",
+      "authors": "Irene Li, Linfeng Song, Kun Xu, Dong Yu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.199.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_135",
+      "paper_id": "",
+      "title": "VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models",
+      "authors": "Seoyeon Kim, Kwangwook Seo, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee",
+      "paper_url": "https://aclanthology.org/2024.acl-long.134.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_798",
+      "paper_id": "",
+      "title": "Weaker Than You Think: A Critical Look at Weakly Supervised Learning",
+      "authors": "Dawei Zhu, Xiaoyu Shen, Marius Mosbach, Andreas Stephan, Dietrich Klakow",
+      "paper_url": "https://aclanthology.org/2023.acl-long.796.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_353",
+      "paper_id": "",
+      "title": "Weakly Supervised Named Entity Tagging with Learnable Logical Rules",
+      "authors": "Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley, Zhe Feng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.352.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_430",
+      "paper_id": "",
+      "title": "WebIE: Faithful and Robust Information Extraction on the Web",
+      "authors": "Chenxi Whitehouse, Clara Vania, Alham Fikri Aji, Christos Christodoulopoulos, Andrea Pierleoni",
+      "paper_url": "https://aclanthology.org/2023.acl-long.428.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_26",
+      "paper_id": "",
+      "title": "What Is Overlap Knowledge in Event Argument Extraction? APE: A Cross-datasets Transfer Learning Model for EAE",
+      "authors": "Kaihang Zhang, Kai Shuang, Xinyue Yang, Xuyang Yao, Jinyu Guo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.24.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_392",
+      "paper_id": "",
+      "title": "When and how to paraphrase for named entity recognition?",
+      "authors": "Saket Sharma, Aviral Joshi, Yiyun Zhao, Namrata Mukhija, Hanoz Bhathena, Prateek Singh, Sashank Santhanam",
+      "paper_url": "https://aclanthology.org/2023.acl-long.390.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_710",
+      "paper_id": "",
+      "title": "When Phrases Meet Probabilities: Enabling Open Relation Extraction with Cooperating Large Language Models",
+      "authors": "Jiaxin Wang, Lingling Zhang, Wee Sun Lee, Yujie Zhong, Liwei Kang, Jun Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.709.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_55",
+      "paper_id": "",
+      "title": "When to Use What: An In-Depth Comparative Empirical Analysis of OpenIE Systems for Downstream Applications",
+      "authors": "Kevin Pei, Ishan Jindal, Kevin Chen-Chuan Chang, ChengXiang Zhai, Yunyao Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.53.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_693",
+      "paper_id": "",
+      "title": "WikiBio: a Semantic Resource for the Intersectional Analysis of Biographical Events",
+      "authors": "Marco Antonio Stranisci, Rossana Damiano, Enrico Mensa, Viviana Patti, Daniele Radicioni, Tommaso Caselli",
+      "paper_url": "https://aclanthology.org/2023.acl-long.691.pdf",
+      "venue": "acl23"
+    }
+  ]
+}

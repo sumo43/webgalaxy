@@ -1,0 +1,2413 @@
+{
+  "cluster_id": 64,
+  "papers": [
+    {
+      "id": "iclr21_T6AxtOaWydQ",
+      "paper_id": "T6AxtOaWydQ",
+      "title": "$i$-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning",
+      "authors": "Kibok Lee, Yian Zhu, Kihyuk Sohn, Chun-Liang Li, Jinwoo Shin, Honglak Lee",
+      "paper_url": "https://openreview.net/pdf/c7fd4a731db5f1505f19ca2c4439421df41a8c7b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_YnkGMIh0gvX",
+      "paper_id": "YnkGMIh0gvX",
+      "title": "A Call to Reflect on Evaluation Practices for Failure Detection in Image Classification",
+      "authors": "Paul F Jaeger, Carsten Tim Lüth, Lukas Klein, Till J. Bungert",
+      "paper_url": "https://openreview.net/pdf/a5de8999d6fc1e463fee479f14b17ae999f6cbc2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_Iuubb9W6Jtk",
+      "paper_id": "Iuubb9W6Jtk",
+      "title": "A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet",
+      "authors": "Ido Galil, Mohammed Dabbah, Ran El-Yaniv",
+      "paper_url": "https://openreview.net/pdf/973b16b739dacc7aaa862e3a74f9469f31742eb0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Ixi4j6LtdX",
+      "paper_id": "Ixi4j6LtdX",
+      "title": "A Good Learner can Teach Better: Teacher-Student Collaborative Knowledge Distillation",
+      "authors": "Ayan Sengupta, Shantanu Dixit, Md Shad Akhtar, Tanmoy Chakraborty",
+      "paper_url": "https://openreview.net/pdf?id=Ixi4j6LtdX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_aFzaXRImWE",
+      "paper_id": "aFzaXRImWE",
+      "title": "A Holistic View of Label Noise Transition Matrix in Deep Learning and Beyond",
+      "authors": "LIN Yong, Renjie Pi, WEIZHONG ZHANG, Xiaobo Xia, Jiahui Gao, Xiao Zhou, Tongliang Liu, Bo Han",
+      "paper_url": "https://openreview.net/pdf/405fab9c74f731a957a6e9ee24c23a06a6809b77.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Oy9WeuZD51",
+      "paper_id": "Oy9WeuZD51",
+      "title": "A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks",
+      "authors": "Matan Haroush, Tzviel Frostig, Ruth Heller, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf/8ab4fc0f10bb1b17497961ee8ff9912af8ed2cc3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_PeLLMw3wLX",
+      "paper_id": "PeLLMw3wLX",
+      "title": "A transfer learning framework for weak to strong generalization",
+      "authors": "Seamus Somerstep, Felipe Maia Polo, Moulinath Banerjee, Yaacov Ritov, Mikhail Yurochkin, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf?id=PeLLMw3wLX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_rWXfFogxRJN",
+      "paper_id": "rWXfFogxRJN",
+      "title": "AdaAug: Learning Class- and Instance-adaptive Data Augmentation Policies",
+      "authors": "Tsz-Him Cheung, Dit-Yan Yeung",
+      "paper_url": "https://openreview.net/pdf/178ea7fe9306b26e1d623abc89a015f272a95bab.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_3yJ-hcJBqe",
+      "paper_id": "3yJ-hcJBqe",
+      "title": "Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data",
+      "authors": "Hitesh Sapkota, Qi Yu",
+      "paper_url": "https://openreview.net/pdf/9f55825130626be96ff0171db6bbf752500eeeda.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1F8xTfv6ah",
+      "paper_id": "1F8xTfv6ah",
+      "title": "Advancing Out-of-Distribution Detection via Local Neuroplasticity",
+      "authors": "Alessandro Canevaro, Julian Schmidt, Mohammad Sajad Marvi, Hang Yu, Georg Martius, Julian Jordan",
+      "paper_url": "https://openreview.net/pdf?id=1F8xTfv6ah",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_o8tjamaJ80",
+      "paper_id": "o8tjamaJ80",
+      "title": "Adversarial AutoMixup",
+      "authors": "Huafeng Qin, Xin Jin, Yun Jiang, Mounîm El-Yacoubi, Xinbo Gao",
+      "paper_url": "https://openreview.net/pdf?id=o8tjamaJ80",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lS2SGfWizd",
+      "paper_id": "lS2SGfWizd",
+      "title": "Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step",
+      "authors": "Mingyuan Zhou, Huangjie Zheng, Yi Gu, Zhendong Wang, Hai Huang",
+      "paper_url": "https://openreview.net/pdf?id=lS2SGfWizd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_t8fu5m8R5m",
+      "paper_id": "t8fu5m8R5m",
+      "title": "Adversarially Robust Anomaly Detection through Spurious Negative Pair Mitigation",
+      "authors": "Hossein Mirzaei, Mojtaba Nafez, Jafar Habibi, Mohammad Sabokrou, Mohammad Hossein Rohban",
+      "paper_url": "https://openreview.net/pdf?id=t8fu5m8R5m",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GrDne4055L",
+      "paper_id": "GrDne4055L",
+      "title": "Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings",
+      "authors": "Hossein Mirzaei, Mackenzie W Mathis",
+      "paper_url": "https://openreview.net/pdf?id=GrDne4055L",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_9OmCr1q54Z",
+      "paper_id": "9OmCr1q54Z",
+      "title": "AE-FLOW: Autoencoders with Normalizing Flows  for  Medical Images Anomaly Detection",
+      "authors": "Yuzhong Zhao, Qiaoqiao Ding, Xiaoqun Zhang",
+      "paper_url": "https://openreview.net/pdf/fdb302140f3d4345b9a8529ccdf5a33ee5e47bd6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_XYRPm8rAGM",
+      "paper_id": "XYRPm8rAGM",
+      "title": "Agree to Disagree: Demystifying Homogeneous Deep Ensembles through Distributional Equivalence",
+      "authors": "Yipei Wang, Xiaoqian Wang",
+      "paper_url": "https://openreview.net/pdf?id=XYRPm8rAGM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_K7CbYQbyYhY",
+      "paper_id": "K7CbYQbyYhY",
+      "title": "Agree to Disagree: Diversity through Disagreement for Better Transferability",
+      "authors": "Matteo Pagliardini, Martin Jaggi, François Fleuret, Sai Praneeth Karimireddy",
+      "paper_url": "https://openreview.net/pdf/bffcee09d1939996b54123724697afa1a9d4df37.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_ecH2FKaARUp",
+      "paper_id": "ecH2FKaARUp",
+      "title": "An Information Fusion Approach to Learning with Instance-Dependent Label Noise",
+      "authors": "Zhimeng Jiang, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu",
+      "paper_url": "https://openreview.net/pdf/a975e6d9572bb58e97d4302f7bd2b003d925154b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_buC4E91xZE",
+      "paper_id": "buC4E91xZE",
+      "title": "AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection",
+      "authors": "Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen",
+      "paper_url": "https://openreview.net/pdf?id=buC4E91xZE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_avgclFZ221l",
+      "paper_id": "avgclFZ221l",
+      "title": "Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks",
+      "authors": "S Chandra Mouli, Bruno Ribeiro",
+      "paper_url": "https://openreview.net/pdf/f15da1dc02ded9aba4a26e8ade750b28429da30f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_fcqWJ8JgMR",
+      "paper_id": "fcqWJ8JgMR",
+      "title": "AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation",
+      "authors": "Zihao TANG, Zheqi Lv, Shengyu Zhang, Yifan Zhou, Xinyu Duan, Fei Wu, Kun Kuang",
+      "paper_url": "https://openreview.net/pdf?id=fcqWJ8JgMR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_kPPVmUF6bM_",
+      "paper_id": "kPPVmUF6bM_",
+      "title": "Augmentation with Projection: Towards an Effective and Efficient Data Augmentation Paradigm for Distillation",
+      "authors": "Ziqi Wang, Yuexin Wu, Frederick Liu, Daogao Liu, Le Hou, Hongkun Yu, Jing Li, Heng Ji",
+      "paper_url": "https://openreview.net/pdf/fde269800382d4ef28ff4cff9a8757680b4210fa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ErQPdaD5wJ",
+      "paper_id": "ErQPdaD5wJ",
+      "title": "AutoUAD: Hyper-parameter Optimization for Unsupervised Anomaly Detection",
+      "authors": "Wei Dai, Jicong Fan",
+      "paper_url": "https://openreview.net/pdf?id=ErQPdaD5wJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_n7wIfYPdVet",
+      "paper_id": "n7wIfYPdVet",
+      "title": "Auxiliary Learning by Implicit Differentiation",
+      "authors": "Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya",
+      "paper_url": "https://openreview.net/pdf/2571967094ddf29d39923e16c68d6ddb7f5bb72e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_1GTma8HwlYp",
+      "paper_id": "1GTma8HwlYp",
+      "title": "AUXILIARY TASK UPDATE DECOMPOSITION: THE GOOD, THE BAD AND THE NEUTRAL",
+      "authors": "Lucio M. Dery, Yann Dauphin, David Grangier",
+      "paper_url": "https://openreview.net/pdf/abc70350e11147c46076e6b97c615c42e2ab46d5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_N0uJGWDw21d",
+      "paper_id": "N0uJGWDw21d",
+      "title": "Bag of Instances Aggregation Boosts Self-supervised Distillation",
+      "authors": "Haohang Xu, Jiemin Fang, XIAOPENG ZHANG, Lingxi Xie, Xinggang Wang, Wenrui Dai, Hongkai Xiong, Qi Tian",
+      "paper_url": "https://openreview.net/pdf/43c928d51f32bf6433e4fb0642c8ef6ee1a4af36.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_yV6wwEbtkR",
+      "paper_id": "yV6wwEbtkR",
+      "title": "Bayes Conditional Distribution Estimation for Knowledge Distillation Based on Conditional Mutual Information",
+      "authors": "Linfeng Ye, Shayan Mohajer Hamidi, Renhao Tan, EN-HUI YANG",
+      "paper_url": "https://openreview.net/pdf?id=yV6wwEbtkR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_M0_sUuEyHs",
+      "paper_id": "M0_sUuEyHs",
+      "title": "Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation",
+      "authors": "Martin Zong, Zengyu Qiu, Xinzhu Ma, Kunlin Yang, Chunya Liu, Jun Hou, Shuai Yi, Wanli Ouyang",
+      "paper_url": "https://openreview.net/pdf/2fb7e9a90ff72f47a0a922f31bcff587c30cc103.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_2RfWRKwxYh",
+      "paper_id": "2RfWRKwxYh",
+      "title": "Boost Self-Supervised Dataset Distillation via Parameterization, Predefined Augmentation, and Approximation",
+      "authors": "Sheng-Feng Yu, Jia-Jiun Yao, Wei-Chen Chiu",
+      "paper_url": "https://openreview.net/pdf?id=2RfWRKwxYh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3xqqYOKILp",
+      "paper_id": "3xqqYOKILp",
+      "title": "BrainOOD: Out-of-distribution Generalizable Brain Network Analysis",
+      "authors": "Jiaxing Xu, Yongqiang Chen, Xia Dong, Mengcheng Lan, Tiancheng HUANG, Qingtian Bian, James Cheng, Yiping Ke",
+      "paper_url": "https://openreview.net/pdf?id=3xqqYOKILp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_X0CxfByJog",
+      "paper_id": "X0CxfByJog",
+      "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
+      "authors": "Xin Zhang, Jiawei Du, Ping Liu, Joey Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf?id=X0CxfByJog",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_-jTaz3CMk72",
+      "paper_id": "-jTaz3CMk72",
+      "title": "Breaking Correlation Shift via Conditional Invariant Regularizer",
+      "authors": "Mingyang Yi, Ruoyu Wang, Jiacheng Sun, Zhenguo Li, Zhi-Ming Ma",
+      "paper_url": "https://openreview.net/pdf/f48bf469639b94c10700368ae8e9c35026d31565.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_mQPBmvyAuk",
+      "paper_id": "mQPBmvyAuk",
+      "title": "BREEDS: Benchmarks for Subpopulation Shift",
+      "authors": "Shibani Santurkar, Dimitris Tsipras, Aleksander Madry",
+      "paper_url": "https://openreview.net/pdf/267e1b0387f6edaaa3b1145def1009b6803d55b6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_falBlwUsIH",
+      "paper_id": "falBlwUsIH",
+      "title": "Can We Ignore Labels in Out of Distribution Detection?",
+      "authors": "Hong Yang, Qi Yu, Travis Desell",
+      "paper_url": "https://openreview.net/pdf?id=falBlwUsIH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Fk5IzauJ7F",
+      "paper_id": "Fk5IzauJ7F",
+      "title": "Candidate Label Set Pruning: A Data-centric Perspective for Deep Partial-label Learning",
+      "authors": "Shuo He, Chaojie Wang, Guowu Yang, Lei Feng",
+      "paper_url": "https://openreview.net/pdf?id=Fk5IzauJ7F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_pw2ssoOTpo",
+      "paper_id": "pw2ssoOTpo",
+      "title": "CIFAR-10-Warehouse: Broad and More Realistic Testbeds in Model Generalization Analysis",
+      "authors": "Xiaoxiao Sun, Xingjian Leng, Zijian Wang, Yang Yang, Zi Huang, Liang Zheng",
+      "paper_url": "https://openreview.net/pdf?id=pw2ssoOTpo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_gvxJzw8kW4b",
+      "paper_id": "gvxJzw8kW4b",
+      "title": "Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity",
+      "authors": "JangHyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song",
+      "paper_url": "https://openreview.net/pdf/199727fa0bf10af61eddaed5e0c98ee9bbcfdea3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_g11CZSghXyY",
+      "paper_id": "g11CZSghXyY",
+      "title": "Combining Ensembles and Data Augmentation Can Harm Your Calibration",
+      "authors": "Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W Dusenberry, Jasper Snoek, Balaji Lakshminarayanan, Dustin Tran",
+      "paper_url": "https://openreview.net/pdf/875497073e0d6dda023f1158c03b2fbccf68aaea.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_LPRxGZ7Oax",
+      "paper_id": "LPRxGZ7Oax",
+      "title": "Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement",
+      "authors": "Yuhang Li, Zhuying Li, Yuheng Jia",
+      "paper_url": "https://openreview.net/pdf?id=LPRxGZ7Oax",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_gPvB4pdu_Z",
+      "paper_id": "gPvB4pdu_Z",
+      "title": "Compositional Training for End-to-End Deep AUC Maximization",
+      "authors": "Zhuoning Yuan, Zhishuai Guo, Nitesh Chawla, Tianbao Yang",
+      "paper_url": "https://openreview.net/pdf/a32a2790db0163f6e6f71daa98631818c4713912.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_1pSL2cXWoz",
+      "paper_id": "1pSL2cXWoz",
+      "title": "ConjNorm: Tractable Density Estimation for Out-of-Distribution Detection",
+      "authors": "Bo Peng, Yadan Luo, Yonggang Zhang, Yixuan Li, Zhen Fang",
+      "paper_url": "https://openreview.net/pdf?id=1pSL2cXWoz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3lH8WT0fhu",
+      "paper_id": "3lH8WT0fhu",
+      "title": "ConMix: Contrastive Mixup at Representation Level for Long-tailed Deep Clustering",
+      "authors": "Zhixin Li, Yuheng Jia",
+      "paper_url": "https://openreview.net/pdf?id=3lH8WT0fhu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fW7DOHDQvF",
+      "paper_id": "fW7DOHDQvF",
+      "title": "Consistent Multi-Class Classification from Multiple Unlabeled Datasets",
+      "authors": "Zixi Wei, Senlin Shu, Yuzhou Cao, Hongxin Wei, Bo An, Lei Feng",
+      "paper_url": "https://openreview.net/pdf?id=fW7DOHDQvF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Q4EUywJIkqr",
+      "paper_id": "Q4EUywJIkqr",
+      "title": "Contemplating Real-World Object Classification",
+      "authors": "ali borji",
+      "paper_url": "https://openreview.net/pdf/da3b5f5536c36c813eb1a7429c2e8b83585bc6d9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3Y7r6xueJJ",
+      "paper_id": "3Y7r6xueJJ",
+      "title": "Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline",
+      "authors": "Donggyu Lee, Sangwon Jung, Taesup Moon",
+      "paper_url": "https://openreview.net/pdf?id=3Y7r6xueJJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_BXewfAYMmJw",
+      "paper_id": "BXewfAYMmJw",
+      "title": "Counterfactual Generative Networks",
+      "authors": "Axel Sauer, Andreas Geiger",
+      "paper_url": "https://openreview.net/pdf/ef0dd5122ec4977085ea0ac017f21a3cb33377c5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_RgUPdudkWlN",
+      "paper_id": "RgUPdudkWlN",
+      "title": "CUDA: Curriculum of Data Augmentation for Long-tailed Recognition",
+      "authors": "Sumyeong Ahn, Jongwoo Ko, Se-Young Yun",
+      "paper_url": "https://openreview.net/pdf/653fc91920f2396c3eec7c4aab421dc95ba6ccf5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_1NHgmKqOzZ",
+      "paper_id": "1NHgmKqOzZ",
+      "title": "Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality",
+      "authors": "Xuxi Chen, Yu Yang, Zhangyang Wang, Baharan Mirzasoleiman",
+      "paper_url": "https://openreview.net/pdf?id=1NHgmKqOzZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_mSAKhLYLSsl",
+      "paper_id": "mSAKhLYLSsl",
+      "title": "Dataset Condensation with Gradient Matching",
+      "authors": "Bo Zhao, Konda Reddy Mopuri, Hakan Bilen",
+      "paper_url": "https://openreview.net/pdf/f6babe705b5d43a6a88ee3b553c209341b63a5e0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_c61unr33XA",
+      "paper_id": "c61unr33XA",
+      "title": "Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-training of Deep Networks",
+      "authors": "Siddharth Joshi, Jiayi Ni, Baharan Mirzasoleiman",
+      "paper_url": "https://openreview.net/pdf?id=c61unr33XA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_l-PrrQrK0QR",
+      "paper_id": "l-PrrQrK0QR",
+      "title": "Dataset Meta-Learning from Kernel Ridge-Regression",
+      "authors": "Timothy Nguyen, Zhourong Chen, Jaehoon Lee",
+      "paper_url": "https://openreview.net/pdf/e5bd67ca9948951b21c82c12b69280270a7bfe71.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_9B8o9AxSyb",
+      "paper_id": "9B8o9AxSyb",
+      "title": "DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery",
+      "authors": "Yuanpei Liu, Kai Han",
+      "paper_url": "https://openreview.net/pdf?id=9B8o9AxSyb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Cri3xz59ga",
+      "paper_id": "Cri3xz59ga",
+      "title": "Deciphering and Optimizing Multi-Task Learning: a Random Matrix Approach",
+      "authors": "Malik Tiomoko, Hafiz Tiomoko Ali, Romain Couillet",
+      "paper_url": "https://openreview.net/pdf/4484f1a7adf7cb2152f913693079ef4764c69462.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_lKOfilXucGB",
+      "paper_id": "lKOfilXucGB",
+      "title": "Decompositional Generation Process for Instance-Dependent Partial Label Learning",
+      "authors": "Congyu Qiao, Ning Xu, Xin Geng",
+      "paper_url": "https://openreview.net/pdf/e5ce2d07910993cab2778e9cb83312b7e51599e4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_bcYZwYo-0t",
+      "paper_id": "bcYZwYo-0t",
+      "title": "Decoupled Training for Long-Tailed  Classification With Stochastic Representations",
+      "authors": "Giung Nam, Sunguk Jang, Juho Lee",
+      "paper_url": "https://openreview.net/pdf/18f57e331e1ebd747dd0054541bbe9d3c88ae48d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_St-53J9ZARf",
+      "paper_id": "St-53J9ZARf",
+      "title": "Deep AutoAugment",
+      "authors": "Yu Zheng, Zhi Zhang, Shen Yan, Mi Zhang",
+      "paper_url": "https://openreview.net/pdf/4b43ec70e4b68159b4b57b68a3bf89106e693152.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23__qVhsWyWB9",
+      "paper_id": "_qVhsWyWB9",
+      "title": "Deep Learning From Crowdsourced Labels: Coupled Cross-Entropy Minimization, Identifiability, and Regularization",
+      "authors": "Shahana Ibrahim, Tri Nguyen, Xiao Fu",
+      "paper_url": "https://openreview.net/pdf/49ef61c9a86ec546eaf7789c562a056aff1ad491.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_cJs4oE4m9Q",
+      "paper_id": "cJs4oE4m9Q",
+      "title": "Deep Orthogonal Hypersphere Compression for Anomaly Detection",
+      "authors": "Yunhe Zhang, Yan Sun, Jinyu Cai, Jicong Fan",
+      "paper_url": "https://openreview.net/pdf?id=cJs4oE4m9Q",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_zDjtZZBZtqK",
+      "paper_id": "zDjtZZBZtqK",
+      "title": "Denoising Masked Autoencoders Help Robust Classification",
+      "authors": "QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He",
+      "paper_url": "https://openreview.net/pdf/eb383598b65499174e21e2475c8f9f0442264ccb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_R2ZlTVPx0Gk",
+      "paper_id": "R2ZlTVPx0Gk",
+      "title": "DICE: Diversity in Deep Ensembles via Conditional Redundancy Adversarial Estimation",
+      "authors": "Alexandre Rame, Matthieu Cord",
+      "paper_url": "https://openreview.net/pdf/d1c240af3d07df28ebfbd88feefb18b1e55be44e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_A4mJuFRMN8",
+      "paper_id": "A4mJuFRMN8",
+      "title": "Dirichlet-based Per-Sample Weighting by Transition Matrix for Noisy Label Learning",
+      "authors": "HeeSun Bae, Seungjae Shin, Byeonghu Na, Il-chul Moon",
+      "paper_url": "https://openreview.net/pdf?id=A4mJuFRMN8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_icTZCUbtD6",
+      "paper_id": "icTZCUbtD6",
+      "title": "Dissecting Sample Hardness: A Fine-Grained Analysis of Hardness Characterization Methods for Data-Centric AI",
+      "authors": "Nabeel Seedat, Fergus Imrie, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=icTZCUbtD6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_99RpBVpLiX",
+      "paper_id": "99RpBVpLiX",
+      "title": "Distilling Model Failures as Directions in Latent Space",
+      "authors": "Saachi Jain, Hannah Lawrence, Ankur Moitra, Aleksander Madry",
+      "paper_url": "https://openreview.net/pdf/c9daa261ea96d95a6dee52da157a59e14333cf07.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_RVTOp3MwT3n",
+      "paper_id": "RVTOp3MwT3n",
+      "title": "Diversify and Disambiguate: Out-of-Distribution Robustness via Disagreement",
+      "authors": "Yoonho Lee, Huaxiu Yao, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf/129fbcfd8020755648ecd2355fbd7899e2e45c08.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_lJ66m0ibQL",
+      "paper_id": "lJ66m0ibQL",
+      "title": "Diversity-Rewarded CFG Distillation",
+      "authors": "Geoffrey Cideron, Andrea Agostinelli, Johan Ferret, Sertan Girgin, Romuald Elie, Olivier Bachem, Sarah Perrin, Alexandre Rame",
+      "paper_url": "https://openreview.net/pdf?id=lJ66m0ibQL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_yUxUNaj2Sl",
+      "paper_id": "yUxUNaj2Sl",
+      "title": "Does enhanced shape bias improve neural network robustness to common corruptions?",
+      "authors": "Chaithanya Kumar Mummadi, Ranjitha Subramaniam, Robin Hutmacher, Julien Vitay, Volker Fischer, Jan Hendrik Metzen",
+      "paper_url": "https://openreview.net/pdf/afd34372762e3e8c1a3e742ee5fa8ae88e866c47.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_TN9gQ4x0Ep3",
+      "paper_id": "TN9gQ4x0Ep3",
+      "title": "Don’t fear the unlabelled: safe semi-supervised learning via debiasing",
+      "authors": "Hugo Schmutz, Olivier HUMBERT, Pierre-Alexandre Mattei",
+      "paper_url": "https://openreview.net/pdf/bb8cb58cb71312b4eb0ae8c65988dbe094f7094f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_39z0zPZ0AvB",
+      "paper_id": "39z0zPZ0AvB",
+      "title": "Don’t forget the nullspace! Nullspace occupancy as a mechanism for out of distribution failure",
+      "authors": "Daksh Idnani, Vivek Madan, Naman Goyal, David J. Schwab, Shanmukha Ramakrishna Vedantam",
+      "paper_url": "https://openreview.net/pdf/db9b6c631e14f77256d03c03af1728ef41406450.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_iriEqxFB4y",
+      "paper_id": "iriEqxFB4y",
+      "title": "DOS: Diverse Outlier Sampling for Out-of-Distribution Detection",
+      "authors": "Wenyu Jiang, Hao Cheng, MingCai Chen, Chongjun Wang, Hongxin Wei",
+      "paper_url": "https://openreview.net/pdf?id=iriEqxFB4y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_CMzF2aOfqp",
+      "paper_id": "CMzF2aOfqp",
+      "title": "Early Stopping Against Label Noise Without Validation Data",
+      "authors": "Suqin Yuan, Lei Feng, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=CMzF2aOfqp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_cbpRzMy-UZH",
+      "paper_id": "cbpRzMy-UZH",
+      "title": "Effective Self-supervised Pre-training on Low-compute Networks without Distillation",
+      "authors": "Fuwen Tan, Fatemeh Sadat Saleh, Brais Martinez",
+      "paper_url": "https://openreview.net/pdf/ac14c4b70b2efd3b6c4e244137ae56017267bf5d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Y5LjYI4N6P",
+      "paper_id": "Y5LjYI4N6P",
+      "title": "Efficient stagewise pretraining via progressive subnetworks",
+      "authors": "Abhishek Panigrahi, Nikunj Saunshi, Kaifeng Lyu, Sobhan Miryoosefi, Sashank J. Reddi, Satyen Kale, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf?id=Y5LjYI4N6P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yklJpvB7Dq",
+      "paper_id": "yklJpvB7Dq",
+      "title": "ELFS: Label-Free Coreset Selection with Proxy Training Dynamics",
+      "authors": "Haizhong Zheng, Elisa Tsai, Yifu Lu, Jiachen Sun, Brian R. Bartoldson, Bhavya Kailkhura, Atul Prakash",
+      "paper_url": "https://openreview.net/pdf?id=yklJpvB7Dq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_55pCDKiS8B",
+      "paper_id": "55pCDKiS8B",
+      "title": "Elucidating the Preconditioning in Consistency Distillation",
+      "authors": "Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=55pCDKiS8B",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PLoWVP7Mjc",
+      "paper_id": "PLoWVP7Mjc",
+      "title": "Embarrassingly Simple Dataset Distillation",
+      "authors": "Yunzhen Feng, Shanmukha Ramakrishna Vedantam, Julia Kempe",
+      "paper_url": "https://openreview.net/pdf?id=PLoWVP7Mjc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_jrA5GAccy_",
+      "paper_id": "jrA5GAccy_",
+      "title": "Empirical or Invariant Risk Minimization? A Sample Complexity Perspective",
+      "authors": "Kartik Ahuja, Jun Wang, Amit Dhurandhar, Karthikeyan Shanmugam, Kush R. Varshney",
+      "paper_url": "https://openreview.net/pdf/276b48d5dd233a104c8c4d2cffbcf0e687e83747.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_6ARlSgun7J",
+      "paper_id": "6ARlSgun7J",
+      "title": "Enhancing Tail Performance in Extreme Classifiers by Label Variance Reduction",
+      "authors": "Anirudh Buvanesh, Rahul Chand, Jatin Prakash, Bhawna Paliwal, Mudit Dhawan, Neelabh Madan, Deepesh Hada, Vidit Jain, SONU MEHTA, Yashoteja Prabhu, Manish Gupta, Ramachandran Ramjee, Manik Varma",
+      "paper_url": "https://openreview.net/pdf?id=6ARlSgun7J",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vSwu81S33z",
+      "paper_id": "vSwu81S33z",
+      "title": "Enhancing Transfer Learning with Flexible Nonparametric Posterior Sampling",
+      "authors": "Hyungi Lee, Giung Nam, Edwin Fong, Juho Lee",
+      "paper_url": "https://openreview.net/pdf?id=vSwu81S33z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zKvrOOBouT",
+      "paper_id": "zKvrOOBouT",
+      "title": "EvA: Erasing Spurious Correlations with Activations",
+      "authors": "Qiyuan He, Kai Xu, Angela Yao",
+      "paper_url": "https://openreview.net/pdf?id=zKvrOOBouT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_hsFN92eQEla",
+      "paper_id": "hsFN92eQEla",
+      "title": "EVALUATION OF NEURAL ARCHITECTURES TRAINED WITH SQUARE LOSS VS CROSS-ENTROPY IN CLASSIFICATION TASKS",
+      "authors": "Like Hui, Mikhail Belkin",
+      "paper_url": "https://openreview.net/pdf/374e8d19ecea989cd40fe8978d54d9435fb6a677.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_A5VV3UyIQz",
+      "paper_id": "A5VV3UyIQz",
+      "title": "Explainable Deep One-Class Classification",
+      "authors": "Philipp Liznerski, Lukas Ruff, Robert A. Vandermeulen, Billy Joe Franks, Marius Kloft, Klaus Robert Muller",
+      "paper_url": "https://openreview.net/pdf/faaddd67b70d461702cda54ff0c68b47fbf56d03.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_qqdXHUGec9h",
+      "paper_id": "qqdXHUGec9h",
+      "title": "Exploiting Class Activation Value for Partial-Label Learning",
+      "authors": "Fei Zhang, Lei Feng, Bo Han, Tongliang Liu, Gang Niu, Tao Qin, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf/c3254feff27af6a4191d7d320290953ea6656e5d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_OqtLIabPTit",
+      "paper_id": "OqtLIabPTit",
+      "title": "Exploring Balanced Feature Spaces for Representation Learning",
+      "authors": "Bingyi Kang, Yu Li, Sa Xie, Zehuan Yuan, Jiashi Feng",
+      "paper_url": "https://openreview.net/pdf/a6e3728ce8efd94d339778f7a7bd85042c5df475.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_JsnR0YO4Fq",
+      "paper_id": "JsnR0YO4Fq",
+      "title": "Exploring Weight Balancing on Long-Tailed Recognition Problem",
+      "authors": "Naoya Hasegawa, Issei Sato",
+      "paper_url": "https://openreview.net/pdf?id=JsnR0YO4Fq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_cMAjKYftNwx",
+      "paper_id": "cMAjKYftNwx",
+      "title": "Extracting Robust Models with Uncertain Examples",
+      "authors": "Guanlin Li, Guowen Xu, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang",
+      "paper_url": "https://openreview.net/pdf/722f2b14072c35db58ad81fd31b4692034751c95.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_ndYXTEL6cZz",
+      "paper_id": "ndYXTEL6cZz",
+      "title": "Extremely Simple Activation Shaping for Out-of-Distribution Detection",
+      "authors": "Andrija Djurisic, Nebojsa Bozanic, Arjun Ashok, Rosanne Liu",
+      "paper_url": "https://openreview.net/pdf/c54d38c0073dfa4bf694d5a8084860f468aa3e4b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_QWQM0ZwZdRS",
+      "paper_id": "QWQM0ZwZdRS",
+      "title": "Fake It Until You Make It : Towards Accurate Near-Distribution Novelty Detection",
+      "authors": "Hossein Mirzaei, Mohammadreza Salehi, Sajjad Shahabi, Efstratios Gavves, Cees G. M. Snoek, Mohammad Sabokrou, Mohammad Hossein Rohban",
+      "paper_url": "https://openreview.net/pdf/adb38cfa18f4064baa8532ba96fd48c4ad2cf87a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_m50eKHCttz",
+      "paper_id": "m50eKHCttz",
+      "title": "Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model",
+      "authors": "Karsten Roth, Lukas Thede, A. Sophia Koepke, Oriol Vinyals, Olivier J Henaff, Zeynep Akata",
+      "paper_url": "https://openreview.net/pdf?id=m50eKHCttz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_tBIQEvApZK5",
+      "paper_id": "tBIQEvApZK5",
+      "title": "Feature Kernel Distillation",
+      "authors": "Bobby He, Mete Ozay",
+      "paper_url": "https://openreview.net/pdf/60c40aa9a9f7d00701fc1025d8f2d4245ad5ced2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_UYneFzXSJWh",
+      "paper_id": "UYneFzXSJWh",
+      "title": "Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution",
+      "authors": "Ananya Kumar, Aditi Raghunathan, Robbie Matthew Jones, Tengyu Ma, Percy Liang",
+      "paper_url": "https://openreview.net/pdf/5d8a4ae4492042b22b07eabc7a9abcfa517f419c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ZV7CLf0RHK",
+      "paper_id": "ZV7CLf0RHK",
+      "title": "Fine-tuning with Reserved Majority for Noise Reduction",
+      "authors": "Shuyang Jiang, Yusheng Liao, Ya Zhang, Yanfeng Wang, Yu Wang",
+      "paper_url": "https://openreview.net/pdf?id=ZV7CLf0RHK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LCL8SMGxDY",
+      "paper_id": "LCL8SMGxDY",
+      "title": "For Better or For Worse? Learning Minimum Variance Features With Label Augmentation",
+      "authors": "Muthu Chidambaram, Rong Ge",
+      "paper_url": "https://openreview.net/pdf?id=LCL8SMGxDY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Srmggo3b3X6",
+      "paper_id": "Srmggo3b3X6",
+      "title": "For self-supervised learning, Rationality implies generalization, provably",
+      "authors": "Yamini Bansal, Gal Kaplun, Boaz Barak",
+      "paper_url": "https://openreview.net/pdf/111c52ee7a399d9253f0dc005866fa6a4b705dc7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_W2Wkp9MQsF",
+      "paper_id": "W2Wkp9MQsF",
+      "title": "Forget the Data and Fine-Tuning! Just Fold the Network to Compress",
+      "authors": "Dong Wang, Haris Šikić, Lothar Thiele, Olga Saukh",
+      "paper_url": "https://openreview.net/pdf?id=W2Wkp9MQsF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7XNgVPxCiA",
+      "paper_id": "7XNgVPxCiA",
+      "title": "Forte : Finding Outliers with Representation Typicality Estimation",
+      "authors": "Debargha Ganguly, Warren Richard Morningstar, Andrew Seohwan Yu, Vipin Chaudhary",
+      "paper_url": "https://openreview.net/pdf?id=7XNgVPxCiA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_pgHNOcxEdRI",
+      "paper_id": "pgHNOcxEdRI",
+      "title": "Function-Consistent Feature Distillation",
+      "authors": "Dongyang Liu, Meina Kan, Shiguang Shan, Xilin CHEN",
+      "paper_url": "https://openreview.net/pdf/49cf06e39cb1b464f0f63c3e11a2a9c7e6614a2c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_PnfghHD4Pi",
+      "paper_id": "PnfghHD4Pi",
+      "title": "Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher",
+      "authors": "Yong Guo, Shulian Zhang, Haolin Pan, Jing Liu, Yulun Zhang, Jian Chen",
+      "paper_url": "https://openreview.net/pdf?id=PnfghHD4Pi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_EGdFhBzmAwB",
+      "paper_id": "EGdFhBzmAwB",
+      "title": "Generalization bounds via distillation",
+      "authors": "Daniel Hsu, Ziwei Ji, Matus Telgarsky, Lan Wang",
+      "paper_url": "https://openreview.net/pdf/dd9e76980b62282e3d975f3ba1c97b2e689d7f50.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_GySIAKEwtZ",
+      "paper_id": "GySIAKEwtZ",
+      "title": "Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions",
+      "authors": "Lingjie Yi, Jiachen Yao, Weimin Lyu, Haibin Ling, Raphael Douady, Chao Chen",
+      "paper_url": "https://openreview.net/pdf?id=GySIAKEwtZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FoF5RaA3ug",
+      "paper_id": "FoF5RaA3ug",
+      "title": "GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
+      "authors": "Xinyi Shang, Peng Sun, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=FoF5RaA3ug",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0no1Wp2R2j",
+      "paper_id": "0no1Wp2R2j",
+      "title": "Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information",
+      "authors": "Xinhao Zhong, Bin Chen, Hao Fang, Xulin Gu, Shu-Tao Xia, EN-HUI YANG",
+      "paper_url": "https://openreview.net/pdf?id=0no1Wp2R2j",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_y3zswp3gek",
+      "paper_id": "y3zswp3gek",
+      "title": "HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models",
+      "authors": "Seanie Lee, Haebin Seong, Dong Bok Lee, Minki Kang, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf?id=y3zswp3gek",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_boNyg20-JDm",
+      "paper_id": "boNyg20-JDm",
+      "title": "Harnessing Out-Of-Distribution Examples via Augmenting Content and Style",
+      "authors": "Zhuo Huang, Xiaobo Xia, Li Shen, Bo Han, Mingming Gong, Chen Gong, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf/ead13866b1d8951f087779370b079c54800f219e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_mEdwVCRJuX4",
+      "paper_id": "mEdwVCRJuX4",
+      "title": "Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization",
+      "authors": "Kaidi Cao, Yining Chen, Junwei Lu, Nikos Arechiga, Adrien Gaidon, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/99d4ce0622fd824cd067efb8dda5611146eb4070.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_1xzqz73hvL",
+      "paper_id": "1xzqz73hvL",
+      "title": "High-dimensional Analysis of Knowledge Distillation: Weak-to-Strong Generalization and Scaling Laws",
+      "authors": "Muhammed Emrullah Ildiz, Halil Alperen Gozeten, Ege Onur Taga, Marco Mondelli, Samet Oymak",
+      "paper_url": "https://openreview.net/pdf?id=1xzqz73hvL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_8yKEo06dKNo",
+      "paper_id": "8yKEo06dKNo",
+      "title": "How Does Mixup Help With Robustness and Generalization?",
+      "authors": "Linjun Zhang, Zhun Deng, Kenji Kawaguchi, Amirata Ghorbani, James Zou",
+      "paper_url": "https://openreview.net/pdf/3f1f8d26c6d14576d3b00d41ecdf274465cf649b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Dzmd-Cc8OI",
+      "paper_id": "Dzmd-Cc8OI",
+      "title": "How Does Semi-supervised Learning with Pseudo-labelers Work? A Case Study",
+      "authors": "Yiwen Kou, Zixiang Chen, Yuan Cao, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf/2e8b65692961f8f668e6c4f616e9634a70af579c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_jlEjB8MVGa",
+      "paper_id": "jlEjB8MVGa",
+      "title": "How Does Unlabeled Data Provably Help Out-of-Distribution Detection?",
+      "authors": "Xuefeng Du, Zhen Fang, Ilias Diakonikolas, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf?id=jlEjB8MVGa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_3aQs3MCSexD",
+      "paper_id": "3aQs3MCSexD",
+      "title": "How Much Data Are Augmentations Worth?  An Investigation into Scaling Laws, Invariance, and Implicit Regularization",
+      "authors": "Jonas Geiping, Micah Goldblum, Gowthami Somepalli, Ravid Shwartz-Ziv, Tom Goldstein, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf/e58b505f873eb3d7715d84faba7dbb45dd3b6295.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_LiXDW7CF94J",
+      "paper_id": "LiXDW7CF94J",
+      "title": "How robust is unsupervised representation learning to distribution shift?",
+      "authors": "Yuge Shi, Imant Daunhawer, Julia E Vogt, Philip Torr, Amartya Sanyal",
+      "paper_url": "https://openreview.net/pdf/4e056f415188ed58053ecc69d8168e2e3af4699f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_aEFaE0W5pAd",
+      "paper_id": "aEFaE0W5pAd",
+      "title": "How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?",
+      "authors": "Yifei Ming, Yiyou Sun, Ousmane Dia, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf/96af0ad9159e6cf51a92e3b3d04b6260cb65b51e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_qiMXBIf4NfB",
+      "paper_id": "qiMXBIf4NfB",
+      "title": "How unlabeled data improve generalization in self-training? A one-hidden-layer theoretical analysis",
+      "authors": "Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong",
+      "paper_url": "https://openreview.net/pdf/86dd54f483759d42c389b5c48000ced72778d937.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_EwqEx5ipbOu",
+      "paper_id": "EwqEx5ipbOu",
+      "title": "How Well Does Self-Supervised Pre-Training Perform with Streaming Data?",
+      "authors": "Dapeng Hu, Shipeng Yan, Qizhengqiu Lu, Lanqing HONG, Hailin Hu, Yifan Zhang, Zhenguo Li, Xinchao Wang, Jiashi Feng",
+      "paper_url": "https://openreview.net/pdf/a00f82e4a4b8bc53140104602610c56f5dea871e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_VXak3CZZGC",
+      "paper_id": "VXak3CZZGC",
+      "title": "HYPO: Hyperspherical Out-Of-Distribution Generalization",
+      "authors": "Haoyue Bai, Yifei Ming, Julian Katz-Samuels, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf?id=VXak3CZZGC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_mfwdY3U_9ea",
+      "paper_id": "mfwdY3U_9ea",
+      "title": "Igeood: An Information Geometry Approach to Out-of-Distribution Detection",
+      "authors": "Eduardo Dadalto Camara Gomes, Florence Alberge, Pierre Duhamel, Pablo Piantanida",
+      "paper_url": "https://openreview.net/pdf/63528e722b436ffe0f150c1de5ef3b5ad5c47352.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ym0ubZrsmm",
+      "paper_id": "ym0ubZrsmm",
+      "title": "Image Background Serves as Good Proxy for Out-of-distribution Data",
+      "authors": "Sen Pei",
+      "paper_url": "https://openreview.net/pdf?id=ym0ubZrsmm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_VTYg5ykEGS",
+      "paper_id": "VTYg5ykEGS",
+      "title": "ImageNet-OOD: Deciphering Modern Out-of-Distribution Detection Algorithms",
+      "authors": "William Yang, Byron Zhang, Olga Russakovsky",
+      "paper_url": "https://openreview.net/pdf?id=VTYg5ykEGS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_HXz7Vcm3VgM",
+      "paper_id": "HXz7Vcm3VgM",
+      "title": "ImageNet-X: Understanding Model Mistakes with Factor of Variation Annotations",
+      "authors": "Badr Youbi Idrissi, Diane Bouchacourt, Randall Balestriero, Ivan Evtimov, Caner Hazirbas, Nicolas Ballas, Pascal Vincent, Michal Drozdzal, David Lopez-Paz, Mark Ibrahim",
+      "paper_url": "https://openreview.net/pdf/33fbd8d8db5f01fb273b222f69e3719afd7a9778.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_rVM8wD2G7Dy",
+      "paper_id": "rVM8wD2G7Dy",
+      "title": "Imbalanced Semi-supervised Learning with Bias Adaptive Classifier",
+      "authors": "Renzhen Wang, Xixi Jia, Quanziang Wang, Yichen Wu, Deyu Meng",
+      "paper_url": "https://openreview.net/pdf/ce2d7303e3379522b33ee866e6f80db67acce889.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_uKhGRvM8QNH",
+      "paper_id": "uKhGRvM8QNH",
+      "title": "Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors",
+      "authors": "Linfeng Zhang, Kaisheng Ma",
+      "paper_url": "https://openreview.net/pdf/1e6969024e2fab8681c02ff62a2dbfc4feedcff4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_0f-0I6RFAch",
+      "paper_id": "0f-0I6RFAch",
+      "title": "Improving Out-of-distribution Generalization with Indirection Representations",
+      "authors": "Kha Pham, Hung Le, Man Ngo, Truyen Tran",
+      "paper_url": "https://openreview.net/pdf/cdaaa1cced73d8e888cf3d024b9b09980756d6b4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_J_PHjw4gvXJ",
+      "paper_id": "J_PHjw4gvXJ",
+      "title": "Improving the Accuracy of Learning Example Weights for Imbalance Classification",
+      "authors": "Yuqi Liu, Bin Cao, Jing Fan",
+      "paper_url": "https://openreview.net/pdf/43e63bb40f4809118c1924577a2cac09588d2c23.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_-ODN6SbiUU",
+      "paper_id": "-ODN6SbiUU",
+      "title": "In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning",
+      "authors": "Mamshad Nayeem Rizve, Kevin Duarte, Yogesh S Rawat, Mubarak Shah",
+      "paper_url": "https://openreview.net/pdf/c979bcaed90f2b14dbf27b5e90fdbb74407f161b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_jznizqvr15J",
+      "paper_id": "jznizqvr15J",
+      "title": "In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness",
+      "authors": "Sang Michael Xie, Ananya Kumar, Robbie Jones, Fereshte Khani, Tengyu Ma, Percy Liang",
+      "paper_url": "https://openreview.net/pdf/b003dea7a8dcfbb18d462cb7ce96b56a1a484fc6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_juKVq5dWTR",
+      "paper_id": "juKVq5dWTR",
+      "title": "Indirect Gradient Matching for Adversarial Robust Distillation",
+      "authors": "Hongsin Lee, Seungju Cho, Changick Kim",
+      "paper_url": "https://openreview.net/pdf?id=juKVq5dWTR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0whx8MhysK",
+      "paper_id": "0whx8MhysK",
+      "title": "Influence-Guided Diffusion for Dataset Distillation",
+      "authors": "Mingyang Chen, Jiawei Du, Bo Huang, Yi Wang, Xiaobo Zhang, Wei Wang",
+      "paper_url": "https://openreview.net/pdf?id=0whx8MhysK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_m6ahb1mpwwX",
+      "paper_id": "m6ahb1mpwwX",
+      "title": "InPL: Pseudo-labeling the Inliers First for Imbalanced Semi-supervised Learning",
+      "authors": "Zhuoran Yu, Yin Li, Yong Jae Lee",
+      "paper_url": "https://openreview.net/pdf/28067dde30cf45081461f843391290cdf29d0146.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ByCV9xWfNK",
+      "paper_id": "ByCV9xWfNK",
+      "title": "Intermediate Layer Classifiers for OOD generalization",
+      "authors": "Arnas Uselis, Seong Joon Oh",
+      "paper_url": "https://openreview.net/pdf?id=ByCV9xWfNK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_-e4EXDWXnSn",
+      "paper_id": "-e4EXDWXnSn",
+      "title": "Invariant Causal Representation Learning for Out-of-Distribution Generalization",
+      "authors": "Chaochao Lu, Yuhuai Wu, José Miguel Hernández-Lobato, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/131aed68985b1886dbcb75f29a9399e1da984948.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_PObuuGVrGaZ",
+      "paper_id": "PObuuGVrGaZ",
+      "title": "Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study",
+      "authors": "Zhiqiang Shen, Zechun Liu, Dejia Xu, Zitian Chen, Kwang-Ting Cheng, Marios Savvides",
+      "paper_url": "https://openreview.net/pdf/eef0d3feb201e5b62ae6a912c1b6f67a7c531e39.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_RzY9qQHUXy",
+      "paper_id": "RzY9qQHUXy",
+      "title": "Kill Two Birds with One Stone: Rethinking Data Augmentation for Deep Long-tailed Learning",
+      "authors": "Binwu Wang, Pengkun Wang, Wei Xu, Xu Wang, Yudong Zhang, Kun Wang, Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=RzY9qQHUXy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_m4UCf24r0Y",
+      "paper_id": "m4UCf24r0Y",
+      "title": "Knowledge Distillation as Semiparametric Inference",
+      "authors": "Tri Dao, Govinda M Kamath, Vasilis Syrgkanis, Lester Mackey",
+      "paper_url": "https://openreview.net/pdf/1ff09cb99e2aa00a9e0a0dfe445b3bc32eee2418.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_MJ3K7uDGGl",
+      "paper_id": "MJ3K7uDGGl",
+      "title": "Knowledge Distillation Based on Transformed Teacher Matching",
+      "authors": "Kaixiang Zheng, EN-HUI YANG",
+      "paper_url": "https://openreview.net/pdf?id=MJ3K7uDGGl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_ZzwDy_wiWv",
+      "paper_id": "ZzwDy_wiWv",
+      "title": "Knowledge distillation via softmax regression representation learning",
+      "authors": "Jing Yang, Brais Martinez, Adrian Bulat, Georgios Tzimiropoulos",
+      "paper_url": "https://openreview.net/pdf/94c700e0e7f29d564e416cc3b56b6b350c29aafb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_PPazOk82Sq",
+      "paper_id": "PPazOk82Sq",
+      "title": "Label Noise Gradient Descent Improves Generalization in the Low SNR Regime",
+      "authors": "Wei Huang, Andi Han, Yujin Song, Yilan Chen, Denny Wu, Difan Zou, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=PPazOk82Sq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2p03KljxE9",
+      "paper_id": "2p03KljxE9",
+      "title": "Language-Assisted Feature Transformation for Anomaly Detection",
+      "authors": "EungGu Yun, Heonjin Ha, Yeongwoo Nam, Bryan Dongik Lee",
+      "paper_url": "https://openreview.net/pdf?id=2p03KljxE9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Zb6c8A-Fghk",
+      "paper_id": "Zb6c8A-Fghk",
+      "title": "Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations",
+      "authors": "Polina Kirichenko, Pavel Izmailov, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf/f0a7c2996eab5d56791cb5d7feebe23aa9ca27c4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_HCSgyPUfeDj",
+      "paper_id": "HCSgyPUfeDj",
+      "title": "Learning and Evaluating Representations for Deep One-Class Classification",
+      "authors": "Kihyuk Sohn, Chun-Liang Li, Jinsung Yoon, Minho Jin, Tomas Pfister",
+      "paper_url": "https://openreview.net/pdf/8d26ea264a20bf96973da687dd1e99b4054b6388.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_5NsEIflpbSv",
+      "paper_id": "5NsEIflpbSv",
+      "title": "Learning Better Structured Representations Using Low-rank Adaptive Label Smoothing",
+      "authors": "Asish Ghoshal, Xilun Chen, Sonal Gupta, Luke Zettlemoyer, Yashar Mehdad",
+      "paper_url": "https://openreview.net/pdf/4538feaf2c0ace4bc3472484186d4cda25dc7c01.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_hb1sDDSLbV",
+      "paper_id": "hb1sDDSLbV",
+      "title": "Learning explanations that are hard to vary",
+      "authors": "Giambattista Parascandolo, Alexander Neitz, Antonio Orvieto, Luigi Gresele, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/3609f7deb3e0f3fe924d4bcc0ad5015cebf79bad.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_6SRDbbvU8s",
+      "paper_id": "6SRDbbvU8s",
+      "title": "Learning Multimodal Data Augmentation in Feature Space",
+      "authors": "Zichang Liu, Zhiqiang Tang, Xingjian Shi, Aston Zhang, Mu Li, Anshumali Shrivastava, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf/32d27280c4c7b2da8c17dcd9e4ef4b4f16ec9733.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5o0phqAhsP",
+      "paper_id": "5o0phqAhsP",
+      "title": "Learning under Temporal Label Noise",
+      "authors": "Sujay Nagaraj, Walter Gerych, Sana Tonekaboni, Anna Goldenberg, Berk Ustun, Thomas Hartvigsen",
+      "paper_url": "https://openreview.net/pdf?id=5o0phqAhsP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ZPa2SyGcbwh",
+      "paper_id": "ZPa2SyGcbwh",
+      "title": "Learning with Feature-Dependent Label Noise: A Progressive Approach",
+      "authors": "Yikai Zhang, Songzhu Zheng, Pengxiang Wu, Mayank Goswami, Chao Chen",
+      "paper_url": "https://openreview.net/pdf/2223330f69a5f2c06d8e54f79e3935f8da43de13.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_2VXyy9mIyU3",
+      "paper_id": "2VXyy9mIyU3",
+      "title": "Learning with Instance-Dependent Label Noise: A Sample Sieve Approach",
+      "authors": "Hao Cheng, Zhaowei Zhu, Xingyu Li, Yifei Gong, Xing Sun, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/d1f9063b86dd15432acc0f429ea3d22cbb41ae74.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_uNkKaD3MCs",
+      "paper_id": "uNkKaD3MCs",
+      "title": "Learning with Mixture of Prototypes for Out-of-Distribution Detection",
+      "authors": "Haodong Lu, Dong Gong, Shuo Wang, Jason Xue, Lina Yao, Kristen Moore",
+      "paper_url": "https://openreview.net/pdf?id=uNkKaD3MCs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_TBWA6PLJZQm",
+      "paper_id": "TBWA6PLJZQm",
+      "title": "Learning with Noisy Labels Revisited: A Study Using Real-World Human Annotations",
+      "authors": "Jiaheng Wei, Zhaowei Zhu, Hao Cheng, Tongliang Liu, Gang Niu, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/fcda4f135277eb47cf549ba438285dc78fe27977.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_OZitfSXpdT",
+      "paper_id": "OZitfSXpdT",
+      "title": "Less or More From Teacher: Exploiting Trilateral Geometry For Knowledge Distillation",
+      "authors": "Chengming Hu, Haolun Wu, Xuan Li, Chen Ma, Xi Chen, Boyu Wang, Jun Yan, Xue Liu",
+      "paper_url": "https://openreview.net/pdf?id=OZitfSXpdT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_o_HsiMPYh_x",
+      "paper_id": "o_HsiMPYh_x",
+      "title": "Leveraging unlabeled data to predict out-of-distribution performance",
+      "authors": "Saurabh Garg, Sivaraman Balakrishnan, Zachary Chase Lipton, Behnam Neyshabur, Hanie Sedghi",
+      "paper_url": "https://openreview.net/pdf/f94008d1c0cfc4177d8617db211b62b1f85906ea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_89A5c6enfc",
+      "paper_id": "89A5c6enfc",
+      "title": "Local Graph Clustering with Noisy Labels",
+      "authors": "Artur Back de Luca, Kimon Fountoulakis, Shenghao Yang",
+      "paper_url": "https://openreview.net/pdf?id=89A5c6enfc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4ua4wyAQLm",
+      "paper_id": "4ua4wyAQLm",
+      "title": "Local Patterns Generalize Better for Novel Anomalies",
+      "authors": "Yalong Jiang",
+      "paper_url": "https://openreview.net/pdf?id=4ua4wyAQLm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Ew3VifXaxZ",
+      "paper_id": "Ew3VifXaxZ",
+      "title": "Local-Prompt: Extensible Local Prompts for Few-Shot Out-of-Distribution Detection",
+      "authors": "Fanhu Zeng, Zhen Cheng, Fei Zhu, Hongxin Wei, Xu-Yao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Ew3VifXaxZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_37nvvqkCo5",
+      "paper_id": "37nvvqkCo5",
+      "title": "Long-tail learning via logit adjustment",
+      "authors": "Aditya Krishna Menon, Sadeep Jayasumana, Ankit Singh Rawat, Himanshu Jain, Andreas Veit, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf/7b399c4dfe989810af6c9881d1716bd2ae07b903.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_vM94dZiqx4",
+      "paper_id": "vM94dZiqx4",
+      "title": "Long-tailed Adversarial Training with Self-Distillation",
+      "authors": "Seungju Cho, Hongsin Lee, Changick Kim",
+      "paper_url": "https://openreview.net/pdf?id=vM94dZiqx4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_S-h1oFv-mq",
+      "paper_id": "S-h1oFv-mq",
+      "title": "Long-Tailed Learning Requires Feature Learning",
+      "authors": "Thomas Laurent, James von Brecht, Xavier Bresson",
+      "paper_url": "https://openreview.net/pdf/bd53d16e3aa9f810431b28a022d8123ea795ac69.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_sXfWoK4KvSW",
+      "paper_id": "sXfWoK4KvSW",
+      "title": "Long-Tailed Partial Label Learning via Dynamic Rebalancing",
+      "authors": "Feng Hong, Jiangchao Yao, Zhihan Zhou, Ya Zhang, Yanfeng Wang",
+      "paper_url": "https://openreview.net/pdf/318115286f07cfda977b9ade502830c961c8a335.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_D9I3drBz4UC",
+      "paper_id": "D9I3drBz4UC",
+      "title": "Long-tailed Recognition by Routing Diverse Distribution-Aware Experts",
+      "authors": "Xudong Wang, Long Lian, Zhongqi Miao, Ziwei Liu, Stella Yu",
+      "paper_url": "https://openreview.net/pdf/a53160f4df3e5d7b2d13f02d20579f6dd0460010.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Rz4UkJziFe",
+      "paper_id": "Rz4UkJziFe",
+      "title": "Medium-Difficulty Samples Constitute Smoothed Decision Boundary for Knowledge Distillation on Pruned Datasets",
+      "authors": "Yudong Chen, Xuwei Xu, Frank de Hoog, Jiajun Liu, Sen Wang",
+      "paper_url": "https://openreview.net/pdf?id=Rz4UkJziFe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9qpdDiDQ2H",
+      "paper_id": "9qpdDiDQ2H",
+      "title": "MetaOOD: Automatic Selection of OOD Detection Models",
+      "authors": "Yuehan Qin, Yichi Zhang, Yi Nian, Xueying Ding, Yue Zhao",
+      "paper_url": "https://openreview.net/pdf?id=9qpdDiDQ2H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_MTex8qKavoS",
+      "paper_id": "MTex8qKavoS",
+      "title": "MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts",
+      "authors": "Weixin Liang, James Zou",
+      "paper_url": "https://openreview.net/pdf/a72720590882b735ca852bb280cdb6545e03794d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_m1CD7tPubNy",
+      "paper_id": "m1CD7tPubNy",
+      "title": "Mind the Pad -- CNNs Can Develop Blind Spots",
+      "authors": "Bilal Alsallakh, Narine Kokhlikyan, Vivek Miglani, Jun Yuan, Orion Reblitz-Richardson",
+      "paper_url": "https://openreview.net/pdf/70ef163f0737eab414d51c5c352b8292272c77d4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_6qcYDVlVLnK",
+      "paper_id": "6qcYDVlVLnK",
+      "title": "Mitigating Memorization of Noisy Labels via Regularization between Representations",
+      "authors": "Hao Cheng, Zhaowei Zhu, Xing Sun, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/67fbfc36cf99ba2642db423695e9c98a9b281f14.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_UFGEelJkLu5",
+      "paper_id": "UFGEelJkLu5",
+      "title": "MixKD: Towards Efficient Distillation of Large-scale Language Models",
+      "authors": "Kevin J Liang, Weituo Hao, Dinghan Shen, Yufan Zhou, Weizhu Chen, Changyou Chen, Lawrence Carin",
+      "paper_url": "https://openreview.net/pdf/1973dfb092fcfb9ef04acaf338a759f67dcc68b8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_XjYgR6gbCEc",
+      "paper_id": "XjYgR6gbCEc",
+      "title": "MODALS: Modality-agnostic Automated Data Augmentation in the Latent Space",
+      "authors": "Tsz-Him Cheung, Dit-Yan Yeung",
+      "paper_url": "https://openreview.net/pdf/83d8754b7f6d39240200978f99334ce755678fb1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_9YlaeLfuhJF",
+      "paper_id": "9YlaeLfuhJF",
+      "title": "Model Patching: Closing the Subgroup Performance Gap with Data Augmentation",
+      "authors": "Karan Goel, Albert Gu, Yixuan Li, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/a78017923e9af1b5c37e2ec56d3564794b91dd79.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_uyqks-LILZX",
+      "paper_id": "uyqks-LILZX",
+      "title": "Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization",
+      "authors": "Jivat Neet Kaur, Emre Kiciman, Amit Sharma",
+      "paper_url": "https://openreview.net/pdf/4048ed797cd1ecee3eb0807128459f763f1cd777.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_7D5EECbOaf9",
+      "paper_id": "7D5EECbOaf9",
+      "title": "Moderate Coreset: A Universal Method of Data Selection for Real-world Data-efficient Deep Learning",
+      "authors": "Xiaobo Xia, Jiale Liu, Jun Yu, Xu Shen, Bo Han, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf/a3ac5cd8f08debe7b45e110c1b5a43a6d3615056.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_0-EYBhgw80y",
+      "paper_id": "0-EYBhgw80y",
+      "title": "MoPro: Webly Supervised Learning with Momentum Prototypes",
+      "authors": "Junnan Li, Caiming Xiong, Steven Hoi",
+      "paper_url": "https://openreview.net/pdf/129bfcc800abbeedcdbb1bdfc2e469f06974f5a8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_xoHdgbQJohv",
+      "paper_id": "xoHdgbQJohv",
+      "title": "Multiscale Score Matching for Out-of-Distribution Detection",
+      "authors": "Ahsan Mahmood, Junier Oliva, Martin Andreas Styner",
+      "paper_url": "https://openreview.net/pdf/639279c160eb93e79cf2ee33db8f9dc5b040f345.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_AHgc5SMdtd",
+      "paper_id": "AHgc5SMdtd",
+      "title": "MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images",
+      "authors": "Xurui Li, Ziming Huang, Feng Xue, Yu Zhou",
+      "paper_url": "https://openreview.net/pdf?id=AHgc5SMdtd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_EUrxG8IBCrC",
+      "paper_id": "EUrxG8IBCrC",
+      "title": "Mutual Partial Label Learning with Competitive Label Noise",
+      "authors": "Yan Yan, Yuhong Guo",
+      "paper_url": "https://openreview.net/pdf/d4d4aafdbb05dbe6ade49564f966110dd5f1e18a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_9ROuKblmi7",
+      "paper_id": "9ROuKblmi7",
+      "title": "NECO: NEural Collapse Based Out-of-distribution detection",
+      "authors": "Mouïn Ben Ammar, Nacim Belkhir, Sebastian Popescu, Antoine Manzanera, Gianni Franchi",
+      "paper_url": "https://openreview.net/pdf?id=9ROuKblmi7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Ovp8dvB8IBH",
+      "paper_id": "Ovp8dvB8IBH",
+      "title": "Negative Data Augmentation",
+      "authors": "Abhishek Sinha, Kumar Ayush, Jiaming Song, Burak Uzkent, Hongxia Jin, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/3f45494e997f0d54f6dc5dac083f571047ee0c92.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_xUO1HXz4an",
+      "paper_id": "xUO1HXz4an",
+      "title": "Negative Label Guided OOD Detection with Pretrained Vision-Language Models",
+      "authors": "Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=xUO1HXz4an",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SNGXbZtK6Q",
+      "paper_id": "SNGXbZtK6Q",
+      "title": "Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization",
+      "authors": "Yibing Liu, Chris XING TIAN, Haoliang Li, Lei Ma, Shiqi Wang",
+      "paper_url": "https://openreview.net/pdf?id=SNGXbZtK6Q",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_193sEnKY1ij",
+      "paper_id": "193sEnKY1ij",
+      "title": "No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep Networks",
+      "authors": "Shyamgopal Karthik, Ameya Prabhu, Puneet K. Dokania, Vineet Gandhi",
+      "paper_url": "https://openreview.net/pdf/1a3cb262b1a7bf8a9f26a4734b5d77ea7f544937.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_3Y5Uhf5KgGK",
+      "paper_id": "3Y5Uhf5KgGK",
+      "title": "No Reason for No Supervision: Improved Generalization in Supervised Models",
+      "authors": "Mert Bülent Sarıyıldız, Yannis Kalantidis, Karteek Alahari, Diane Larlus",
+      "paper_url": "https://openreview.net/pdf/ebca9fb533c934341267ac07467bc1bb652f422e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_80FMcTSZ6J0",
+      "paper_id": "80FMcTSZ6J0",
+      "title": "Noise against noise: stochastic label noise helps combat inherent label noise",
+      "authors": "Pengfei Chen, Guangyong Chen, Junjie Ye, jingwei zhao, Pheng-Ann Heng",
+      "paper_url": "https://openreview.net/pdf/cb07afb92c9402f5b191a438058b6a911ae61ba1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_gmSZ-GPNY6",
+      "paper_id": "gmSZ-GPNY6",
+      "title": "Noise Injection Node Regularization for Robust Learning",
+      "authors": "Noam Itzhak Levi, Itay Mimouni Bloch, Marat Freytsis, Tomer Volansky",
+      "paper_url": "https://openreview.net/pdf/4c91ec48b89ce6f6d8504f69ae9036330c105901.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_gl3D-xY7wLq",
+      "paper_id": "gl3D-xY7wLq",
+      "title": "Noise or Signal: The Role of Image Backgrounds in Object Recognition",
+      "authors": "Kai Yuanqing Xiao, Logan Engstrom, Andrew Ilyas, Aleksander Madry",
+      "paper_url": "https://openreview.net/pdf/16106e84acc8eb97c1a091b0c318d22052d9ab9b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_TOahfjA3sP",
+      "paper_id": "TOahfjA3sP",
+      "title": "Noise Separation guided Candidate Label Reconstruction for Noisy Partial Label Learning",
+      "authors": "Xiaorui Peng, Yuheng Jia, Fuchao Yang, Ran Wang, Min-Ling Zhang",
+      "paper_url": "https://openreview.net/pdf?id=TOahfjA3sP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dlIMcmlAdk",
+      "paper_id": "dlIMcmlAdk",
+      "title": "Noise-free Score Distillation",
+      "authors": "Oren Katzir, Or Patashnik, Daniel Cohen-Or, Dani Lischinski",
+      "paper_url": "https://openreview.net/pdf?id=dlIMcmlAdk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_vJb4I2ANmy",
+      "paper_id": "vJb4I2ANmy",
+      "title": "Noisy Feature Mixup",
+      "authors": "Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney",
+      "paper_url": "https://openreview.net/pdf/4a18925f14f56e9ae86ffe5ebb83e50a2d418c34.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_JHklpEZqduQ",
+      "paper_id": "JHklpEZqduQ",
+      "title": "Non-parametric Outlier Synthesis",
+      "authors": "Leitian Tao, Xuefeng Du, Jerry Zhu, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf/cad83237af6ddb0e9d1ec444c3e8c113cb2d4916.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_CRNwGauQpb6",
+      "paper_id": "CRNwGauQpb6",
+      "title": "NORM: Knowledge Distillation via N-to-One Representation Matching",
+      "authors": "Xiaolong Liu, LUKING LI, Chao Li, Anbang Yao",
+      "paper_url": "https://openreview.net/pdf/0788e1e89189e5c6c54dfc29c3a06c8c32c669af.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_7FNqrcPtieT",
+      "paper_id": "7FNqrcPtieT",
+      "title": "On Data-Augmentation and Consistency-Based Semi-Supervised Learning",
+      "authors": "Atin Ghosh, Alexandre H. Thiery",
+      "paper_url": "https://openreview.net/pdf/b336e63b29c715b76018ba42cb29f2592569ab56.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_6yVvwR9H9Oj",
+      "paper_id": "6yVvwR9H9Oj",
+      "title": "On Non-Random Missing Labels in Semi-Supervised Learning",
+      "authors": "Xinting Hu, Yulei Niu, Chunyan Miao, Xian-Sheng Hua, Hanwang Zhang",
+      "paper_url": "https://openreview.net/pdf/5b4b2c13eef5b39bb9f1edf005023f268f76c88d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_v8JIQdiN9Sh",
+      "paper_id": "v8JIQdiN9Sh",
+      "title": "On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning.",
+      "authors": "Jianhong Bai, Zuozhu Liu, Hualiang Wang, Jin Hao, YANG FENG, Huanpeng Chu, Haoji Hu",
+      "paper_url": "https://openreview.net/pdf/fe3d1728386c7084b9aaf9b51488e79d39cc9c4f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rmXXKxQpOR",
+      "paper_id": "rmXXKxQpOR",
+      "title": "On the Provable Advantage of Unsupervised Pretraining",
+      "authors": "Jiawei Ge, Shange Tang, Jianqing Fan, Chi Jin",
+      "paper_url": "https://openreview.net/pdf?id=rmXXKxQpOR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_uz5uw6gM0m",
+      "paper_id": "uz5uw6gM0m",
+      "title": "One Network Fits All? Modular versus Monolithic Task Formulations in Neural Networks",
+      "authors": "Atish Agarwala, Abhimanyu Das, Brendan Juba, Rina Panigrahy, Vatsal Sharan, Xin Wang, Qiuyi Zhang",
+      "paper_url": "https://openreview.net/pdf/c3144d0b41029c0a6eb962e25853af28fe75daf2.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Zzs3JwknAY",
+      "paper_id": "Zzs3JwknAY",
+      "title": "One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning",
+      "authors": "Wenxi Lv, Qinliang Su, Wenchao Xu",
+      "paper_url": "https://openreview.net/pdf?id=Zzs3JwknAY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_5hLP5JY9S2d",
+      "paper_id": "5hLP5JY9S2d",
+      "title": "Open-Set Recognition: A Good Closed-Set Classifier is All You Need",
+      "authors": "Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman",
+      "paper_url": "https://openreview.net/pdf/a9e422d293a936fe65575b5e1ea6a86549b84bca.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_t98k9ePQQpn",
+      "paper_id": "t98k9ePQQpn",
+      "title": "Optimal Transport for Long-Tailed Recognition with Learnable Cost Matrix",
+      "authors": "Hanyu Peng, Mingming Sun, Ping Li",
+      "paper_url": "https://openreview.net/pdf/d835dec4f40d7fbc936204b98e3ddea446bc757c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_KkazG4lgKL",
+      "paper_id": "KkazG4lgKL",
+      "title": "Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy",
+      "authors": "Jinsong Zhang, Qiang Fu, Xu Chen, Lun Du, Zelin Li, Gang Wang, xiaoguang Liu, Shi Han, Dongmei Zhang",
+      "paper_url": "https://openreview.net/pdf/db847582b0289141e0a8fd4a951dd9cc96f9c347.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_AcRfzLS6se",
+      "paper_id": "AcRfzLS6se",
+      "title": "Out-of-Distribution Detection by Leveraging Between-Layer Transformation Smoothness",
+      "authors": "Fran Jelenić, Josip Jukić, Martin Tutek, Mate Puljiz, Jan Snajder",
+      "paper_url": "https://openreview.net/pdf?id=AcRfzLS6se",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_hdghx6wbGuD",
+      "paper_id": "hdghx6wbGuD",
+      "title": "Out-of-distribution Detection with Implicit Outlier Transformation",
+      "authors": "Qizhou Wang, Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye HAO, Bo Han",
+      "paper_url": "https://openreview.net/pdf/01c1df8311eac17049936b939528937c192b0812.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_nanyAujl6e",
+      "paper_id": "nanyAujl6e",
+      "title": "Out-of-Distribution Detection with Negative Prompts",
+      "authors": "Jun Nie, Yonggang Zhang, Zhen Fang, Tongliang Liu, Bo Han, Xinmei Tian",
+      "paper_url": "https://openreview.net/pdf?id=nanyAujl6e",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_c4wEKJOjY3",
+      "paper_id": "c4wEKJOjY3",
+      "title": "Out-of-distribution Generalization for Total Variation based Invariant Risk Minimization",
+      "authors": "Yuanchao Wang, Zhao-Rong Lai, Tianqi Zhong",
+      "paper_url": "https://openreview.net/pdf?id=c4wEKJOjY3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_12RoR2o32T",
+      "paper_id": "12RoR2o32T",
+      "title": "Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations",
+      "authors": "Aahlad Manas Puli, Lily H Zhang, Eric Karl Oermann, Rajesh Ranganath",
+      "paper_url": "https://openreview.net/pdf/7128d52f12e20439db2d07083f3de3995967bb53.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Bo6GpQ3B9a",
+      "paper_id": "Bo6GpQ3B9a",
+      "title": "Out-Of-Domain Unlabeled Data Improves Generalization",
+      "authors": "seyed amir hossein saberi, Amir Najafi, Alireza Heidari, Mohammad Hosein Movasaghinia, Abolfazl Motahari, Babak Khalaj",
+      "paper_url": "https://openreview.net/pdf?id=Bo6GpQ3B9a",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_zwMfg9PfPs",
+      "paper_id": "zwMfg9PfPs",
+      "title": "Out-of-Variable Generalisation for Discriminative Models",
+      "authors": "Siyuan Guo, Jonas Bernhard Wildberger, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=zwMfg9PfPs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_N6ba2xsmds",
+      "paper_id": "N6ba2xsmds",
+      "title": "Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection",
+      "authors": "Hengzhuang Li, Teng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=N6ba2xsmds",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JmkjrlVE-DG",
+      "paper_id": "JmkjrlVE-DG",
+      "title": "Over-Training with Mixup May Hurt Generalization",
+      "authors": "Zixuan Liu, Ziqiao Wang, Hongyu Guo, Yongyi Mao",
+      "paper_url": "https://openreview.net/pdf/9b1abc99da7f78ec360a4288ad20cecabb1eed6a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_esFxSb_0pSL",
+      "paper_id": "esFxSb_0pSL",
+      "title": "Pareto Invariant Risk Minimization: Towards Mitigating the Optimization Dilemma in Out-of-Distribution Generalization",
+      "authors": "Yongqiang Chen, Kaiwen Zhou, Yatao Bian, Binghui Xie, Bingzhe Wu, Yonggang Zhang, MA KAILI, Han Yang, Peilin Zhao, Bo Han, James Cheng",
+      "paper_url": "https://openreview.net/pdf/df932dac4f2586ee97ae1e6e9371a256d7a727e2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_NoB8YgRuoFU",
+      "paper_id": "NoB8YgRuoFU",
+      "title": "PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks",
+      "authors": "Siyan Liu, Pei Zhang, Dan Lu, Guannan Zhang",
+      "paper_url": "https://openreview.net/pdf/84a3741f26e65df3c7b232779bcfb5dac283d41e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_EhYjZy6e1gJ",
+      "paper_id": "EhYjZy6e1gJ",
+      "title": "PiCO: Contrastive Label Disambiguation for Partial Label Learning",
+      "authors": "Haobo Wang, Ruixuan Xiao, Yixuan Li, Lei Feng, Gang Niu, Gang Chen, Junbo Zhao",
+      "paper_url": "https://openreview.net/pdf/f9275b96d741f229db4e61a15ce5f2a499c9ee67.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_DASh78rJ7g",
+      "paper_id": "DASh78rJ7g",
+      "title": "Plugin estimators for selective classification with out-of-distribution detection",
+      "authors": "Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf?id=DASh78rJ7g",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_2Mo7v69otj",
+      "paper_id": "2Mo7v69otj",
+      "title": "Pooling Image Datasets with Multiple Covariate Shift and Imbalance",
+      "authors": "Sotirios Panagiotis Chytas, Vishnu Suresh Lokhande, Vikas Singh",
+      "paper_url": "https://openreview.net/pdf?id=2Mo7v69otj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_-TwO99rbVRu",
+      "paper_id": "-TwO99rbVRu",
+      "title": "PseudoSeg: Designing Pseudo Labels for Semantic Segmentation",
+      "authors": "Yuliang Zou, Zizhao Zhang, Han Zhang, Chun-Liang Li, Xiao Bian, Jia-Bin Huang, Tomas Pfister",
+      "paper_url": "https://openreview.net/pdf/0ed366ea64452ea749b2aea97df25aa09830f5e1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_LW55JrLYPg",
+      "paper_id": "LW55JrLYPg",
+      "title": "Pursuing Better Decision Boundaries for Long-Tailed Object Detection via Category Information Amount",
+      "authors": "Yanbiao Ma, Wei Dai, Jiayi Chen",
+      "paper_url": "https://openreview.net/pdf?id=LW55JrLYPg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mUXdysoxEP",
+      "paper_id": "mUXdysoxEP",
+      "title": "Pursuing Feature Separation based on Neural Collapse for Out-of-Distribution Detection",
+      "authors": "Yingwen Wu, Ruiji Yu, Xinwen Cheng, Zhengbao He, Xiaolin Huang",
+      "paper_url": "https://openreview.net/pdf?id=mUXdysoxEP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jTSKkcbEsj",
+      "paper_id": "jTSKkcbEsj",
+      "title": "Pushing Boundaries: Mixup's Influence on Neural Collapse",
+      "authors": "Quinn LeBlanc Fisher, Haoming Meng, Vardan Papyan",
+      "paper_url": "https://openreview.net/pdf?id=jTSKkcbEsj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_xzmqxHdZAwO",
+      "paper_id": "xzmqxHdZAwO",
+      "title": "Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore",
+      "authors": "Guoyang Xie, Jinbao Wang, Jiaqi Liu, Yaochu Jin, Feng Zheng",
+      "paper_url": "https://openreview.net/pdf/f976a1589f4738386a65f414cce8966e059b37a9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_WPsnH6875d",
+      "paper_id": "WPsnH6875d",
+      "title": "Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model",
+      "authors": "Rundong He, Yicong Dong, Lan-Zhe Guo, Yilong Yin, Tailin Wu",
+      "paper_url": "https://openreview.net/pdf?id=WPsnH6875d",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FtX6oAW7Dd",
+      "paper_id": "FtX6oAW7Dd",
+      "title": "Realistic Evaluation of Deep Partial-Label Learning Algorithms",
+      "authors": "Wei Wang, Dong-Dong Wu, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf?id=FtX6oAW7Dd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_RvUVMjfp8i",
+      "paper_id": "RvUVMjfp8i",
+      "title": "Realistic Evaluation of Semi-supervised Learning Algorithms in Open Environments",
+      "authors": "Lin-Han Jia, Lan-Zhe Guo, Zhi Zhou, Yu-Feng Li",
+      "paper_url": "https://openreview.net/pdf?id=RvUVMjfp8i",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_z37tDDHHgi",
+      "paper_id": "z37tDDHHgi",
+      "title": "Red PANDA: Disambiguating Image Anomaly Detection by Removing Nuisance Factors",
+      "authors": "Niv Cohen, Jonathan Kahana, Yedid Hoshen",
+      "paper_url": "https://openreview.net/pdf/36721fffb6a7cf770f5f686f7eda3b23393106ea.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_7B9FCDoUzB",
+      "paper_id": "7B9FCDoUzB",
+      "title": "Regretful Decisions under Label Noise",
+      "authors": "Sujay Nagaraj, Yang Liu, Flavio Calmon, Berk Ustun",
+      "paper_url": "https://openreview.net/pdf?id=7B9FCDoUzB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Lbx9zdURxe",
+      "paper_id": "Lbx9zdURxe",
+      "title": "Regularizing Energy among Training Samples for Out-of-Distribution Generalization",
+      "authors": "Yiting Chen, Qitian Wu, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=Lbx9zdURxe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_u6TRGdzhfip",
+      "paper_id": "u6TRGdzhfip",
+      "title": "Reliable Adversarial Distillation with Unreliable Teachers",
+      "authors": "Jianing Zhu, Jiangchao Yao, Bo Han, Jingfeng Zhang, Tongliang Liu, Gang Niu, Jingren Zhou, Jianliang Xu, Hongxia Yang",
+      "paper_url": "https://openreview.net/pdf/eac811eb67d636dd867f0cf3166da4e08c31d495.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_eIHYL6fpbkA",
+      "paper_id": "eIHYL6fpbkA",
+      "title": "Removing Undesirable Feature Contributions Using Out-of-Distribution Data",
+      "authors": "Saehyung Lee, Changhwa Park, Hyungyu Lee, Jihun Yi, Jonghyun Lee, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf/ad4c27af4a6e3b2fdbb296b3a6f43b65b85aab49.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_aYAA-XHKyk",
+      "paper_id": "aYAA-XHKyk",
+      "title": "Rethinking Class-Prior Estimation for Positive-Unlabeled Learning",
+      "authors": "Yu Yao, Tongliang Liu, Bo Han, Mingming Gong, Gang Niu, Masashi Sugiyama, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf/edf5d059e7a69954e63ffc928b52490879c12cdb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_OeKp3AdiVO",
+      "paper_id": "OeKp3AdiVO",
+      "title": "Rethinking Classifier Re-Training in Long-Tailed Recognition: Label Over-Smooth Can Balance",
+      "authors": "Siyu Sun, Han Lu, Jiangtong Li, Yichen Xie, Tianjiao Li, Xiaokang Yang, Liqing Zhang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=OeKp3AdiVO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EJfLvrzh2Q",
+      "paper_id": "EJfLvrzh2Q",
+      "title": "Rethinking Self-Distillation: Label Averaging and Enhanced Soft Label Refinement with Partial Labels",
+      "authors": "Hyeonsu Jeong, Hye Won Chung",
+      "paper_url": "https://openreview.net/pdf?id=EJfLvrzh2Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_gIHd-5X324",
+      "paper_id": "gIHd-5X324",
+      "title": "Rethinking Soft Labels for Knowledge Distillation: A Bias–Variance Tradeoff Perspective",
+      "authors": "Helong Zhou, Liangchen Song, Jiajie Chen, Ye Zhou, Guoli Wang, Junsong Yuan, Qian Zhang",
+      "paper_url": "https://openreview.net/pdf/2e59cd77d556e74ed337a3cd2829da3be79dc212.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_Jjcv9MTqhcq",
+      "paper_id": "Jjcv9MTqhcq",
+      "title": "Rethinking Supervised Pre-Training for Better Downstream Transferring",
+      "authors": "Yutong Feng, Jianwen Jiang, Mingqian Tang, Rong Jin, Yue Gao",
+      "paper_url": "https://openreview.net/pdf/a343ccb79799f29dc7462f132c0c658e9714c2b3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_6y2KBh-0Fd9",
+      "paper_id": "6y2KBh-0Fd9",
+      "title": "Revisiting flow generative models for Out-of-distribution detection",
+      "authors": "Dihong Jiang, Sun Sun, Yaoliang Yu",
+      "paper_url": "https://openreview.net/pdf/beca73c1366c5e014f7cb574e09aa9de9598f794.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_9G5MIc-goqB",
+      "paper_id": "9G5MIc-goqB",
+      "title": "Reweighting Augmented Samples by Minimizing the Maximal Expected Loss",
+      "authors": "Mingyang Yi, Lu Hou, Lifeng Shang, Xin Jiang, Qun Liu, Zhi-Ming Ma",
+      "paper_url": "https://openreview.net/pdf/e4c9206df0bf95f0a614a0ac2cc2acd08f5125ce.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_BVSM0x3EDK6",
+      "paper_id": "BVSM0x3EDK6",
+      "title": "Robust and Generalizable Visual Representation Learning via Random Convolutions",
+      "authors": "Zhenlin Xu, Deyi Liu, Junlin Yang, Colin Raffel, Marc Niethammer",
+      "paper_url": "https://openreview.net/pdf/10040feb356410f9e8b8ee9678ecb702e0534990.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_wfgZc3IMqo",
+      "paper_id": "wfgZc3IMqo",
+      "title": "Robust Classification via Regression for Learning with Noisy Labels",
+      "authors": "Erik Englesson, Hossein Azizpour",
+      "paper_url": "https://openreview.net/pdf?id=wfgZc3IMqo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_lmTWnm3coJJ",
+      "paper_id": "lmTWnm3coJJ",
+      "title": "Robust Curriculum Learning: from clean label detection to noisy label self-correction",
+      "authors": "Tianyi Zhou, Shengjie Wang, Jeff Bilmes",
+      "paper_url": "https://openreview.net/pdf/06ca7281bb3ba57d591dedb4b5127373e0c1d429.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Eql5b1_hTE4",
+      "paper_id": "Eql5b1_hTE4",
+      "title": "Robust early-learning: Hindering the memorization of noisy labels",
+      "authors": "Xiaobo Xia, Tongliang Liu, Bo Han, Chen Gong, Nannan Wang, Zongyuan Ge, Yi Chang",
+      "paper_url": "https://openreview.net/pdf/8bcbd9a8ffef76580768ad0f329dcc1cae3be97e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_SuH5SdOXpe",
+      "paper_id": "SuH5SdOXpe",
+      "title": "Robustness Reprogramming for Representation Learning",
+      "authors": "Zhichao Hou, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu",
+      "paper_url": "https://openreview.net/pdf?id=SuH5SdOXpe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Ad81awoBVS",
+      "paper_id": "Ad81awoBVS",
+      "title": "Rotation Has Two Sides: Evaluating Data Augmentation for Deep One-class Classification",
+      "authors": "Guodong Wang, Yunhong Wang, Xiuguo Bao, Di Huang",
+      "paper_url": "https://openreview.net/pdf?id=Ad81awoBVS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_qL6brrBDk2",
+      "paper_id": "qL6brrBDk2",
+      "title": "SAFLEX: Self-Adaptive Augmentation via Feature Label Extrapolation",
+      "authors": "Mucong Ding, Bang An, Yuancheng Xu, Anirudh Satheesh, Furong Huang",
+      "paper_url": "https://openreview.net/pdf?id=qL6brrBDk2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_c9-WeM-ceB",
+      "paper_id": "c9-WeM-ceB",
+      "title": "Saliency is a Possible Red Herring When Diagnosing Poor Generalization",
+      "authors": "Joseph D Viviano, Becks Simpson, Francis Dutil, Yoshua Bengio, Joseph Paul Cohen",
+      "paper_url": "https://openreview.net/pdf/11d962b7010ee77620458bfc746f11370a23e2dc.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_-M0QkvBGTTq",
+      "paper_id": "-M0QkvBGTTq",
+      "title": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization",
+      "authors": "A F M Shahab Uddin, Mst. Sirazam Monira, Wheemyung Shin, TaeChoong Chung, Sung-Ho Bae",
+      "paper_url": "https://openreview.net/pdf/05e902b237602356704a807abbdec8f2a5ab6414.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_XVPqLyNxSyh",
+      "paper_id": "XVPqLyNxSyh",
+      "title": "Salient ImageNet: How to discover spurious features in Deep Learning?",
+      "authors": "Sahil Singla, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/078e6e26ef046a2af14430f17a7b149613824cc7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_xENf4QUL4LW",
+      "paper_id": "xENf4QUL4LW",
+      "title": "Sample Selection with Uncertainty of Losses for Learning with Noisy Labels",
+      "authors": "Xiaobo Xia, Tongliang Liu, Bo Han, Mingming Gong, Jun Yu, Gang Niu, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf/0ebab5bba4b36eec025abfd2e21f947e05d6e662.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_23ZjUGpjcc",
+      "paper_id": "23ZjUGpjcc",
+      "title": "Scalable Transfer Learning with Expert Models",
+      "authors": "Joan Puigcerver, Carlos Riquelme Ruiz, Basil Mustafa, Cedric Renggli, André Susano Pinto, Sylvain Gelly, Daniel Keysers, Neil Houlsby",
+      "paper_url": "https://openreview.net/pdf/659e2338755eb562f4d6d679d55eb83e71fa5007.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_RDSTjtnqCg",
+      "paper_id": "RDSTjtnqCg",
+      "title": "Scaling for Training Time and Post-hoc Out-of-distribution Detection Enhancement",
+      "authors": "Kai Xu, Rongyu Chen, Gianni Franchi, Angela Yao",
+      "paper_url": "https://openreview.net/pdf?id=RDSTjtnqCg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_AHm3dbp7D1D",
+      "paper_id": "AHm3dbp7D1D",
+      "title": "SEED: Self-supervised Distillation For Visual Representation",
+      "authors": "Zhiyuan Fang, Jianfeng Wang, Lijuan Wang, Lei Zhang, Yezhou Yang, Zicheng Liu",
+      "paper_url": "https://openreview.net/pdf/1f85b790d971bca718badf148e1c89397c3c4d90.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_rxVBKhyfSo",
+      "paper_id": "rxVBKhyfSo",
+      "title": "Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Objectives",
+      "authors": "Shrinivas Ramasubramanian, Harsh Rangwani, Sho Takemori, Kunal Samanta, Yuhei Umeda, Venkatesh Babu Radhakrishnan",
+      "paper_url": "https://openreview.net/pdf?id=rxVBKhyfSo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_h57gkDO2Yg",
+      "paper_id": "h57gkDO2Yg",
+      "title": "Self-Supervised Dataset Distillation for Transfer Learning",
+      "authors": "Dong Bok Lee, Seanie Lee, Joonho Ko, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf?id=h57gkDO2Yg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_4AZz9osqrar",
+      "paper_id": "4AZz9osqrar",
+      "title": "Self-supervised Learning is More Robust to Dataset Imbalance",
+      "authors": "Hong Liu, Jeff Z. HaoChen, Adrien Gaidon, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/8dbaf8d4a30f70cb8b4967ee6b1814c513bc92e6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_H4iVLvRusn",
+      "paper_id": "H4iVLvRusn",
+      "title": "SelKD: Selective Knowledge Distillation via Optimal Transport Perspective",
+      "authors": "Liangliang Shi, Zhengyan Shi, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=H4iVLvRusn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zOHQGKO3WGY",
+      "paper_id": "zOHQGKO3WGY",
+      "title": "Semi-supervised learning with a principled likelihood from a generative model of data curation",
+      "authors": "Stoil Krasimirov Ganev, Laurence Aitchison",
+      "paper_url": "https://openreview.net/pdf/8ef08a13d823e8db4ab1c9d60fedf5e49c81c66b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_NcFEZOi-rLa",
+      "paper_id": "NcFEZOi-rLa",
+      "title": "Shape or Texture: Understanding Discriminative Features in CNNs",
+      "authors": "Md Amirul Islam, Matthew Kowal, Patrick Esser, Sen Jia, Björn Ommer, Konstantinos G. Derpanis, Neil Bruce",
+      "paper_url": "https://openreview.net/pdf/bec98c0c8f3a77adc5822b10b5fd4273ff383136.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Db4yerZTYkz",
+      "paper_id": "Db4yerZTYkz",
+      "title": "Shape-Texture Debiased Neural Network Training",
+      "authors": "Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, Wei Shen, Alan Yuille, cihang xie",
+      "paper_url": "https://openreview.net/pdf/95feebd9ddd0cc554ef18bf3b5cfce3f76bb9dd6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_2bO2x8NAIMB",
+      "paper_id": "2bO2x8NAIMB",
+      "title": "Should We Be Pre-training? An Argument for End-task Aware Training as an Alternative",
+      "authors": "Lucio M. Dery, Paul Michel, Ameet Talwalkar, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/691ed677722bace4faaff6140d7c50eac5c22122.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_9HiGqC9C-KA",
+      "paper_id": "9HiGqC9C-KA",
+      "title": "simpleKT: A Simple But Tough-to-Beat Baseline for Knowledge Tracing",
+      "authors": "Zitao Liu, Qiongqiong Liu, Jiahao Chen, Shuyan Huang, Weiqi Luo",
+      "paper_url": "https://openreview.net/pdf/d9869b82d0c8374bd652a9c12018e7a37a26ff2d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_DmEHmZ89iB",
+      "paper_id": "DmEHmZ89iB",
+      "title": "Single Teacher, Multiple Perspectives: Teacher Knowledge Augmentation for Enhanced Knowledge Distillation",
+      "authors": "Md Imtiaz Hossain, Sharmen Akhter, Choong Seon Hong, Eui-Nam Huh",
+      "paper_url": "https://openreview.net/pdf?id=DmEHmZ89iB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_79ZkWgY2FI",
+      "paper_id": "79ZkWgY2FI",
+      "title": "Small-to-Large Generalization: Training Data Influences Models Consistently Across Scale",
+      "authors": "Alaa Khaddaj, Logan Engstrom, Aleksander Madry",
+      "paper_url": "https://openreview.net/pdf?id=79ZkWgY2FI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EgJhwYR2tB",
+      "paper_id": "EgJhwYR2tB",
+      "title": "Speculative Knowledge Distillation: Bridging the Teacher-Student Gap Through Interleaved Sampling",
+      "authors": "Wenda Xu, Rujun Han, Zifeng Wang, Long Le, Dhruv Madeka, Lei Li, William Yang Wang, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister",
+      "paper_url": "https://openreview.net/pdf?id=EgJhwYR2tB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_d6H4RBi7RH",
+      "paper_id": "d6H4RBi7RH",
+      "title": "Spurious Feature Diversification Improves Out-of-distribution Generalization",
+      "authors": "LIN Yong, Lu Tan, Yifan HAO, Ho Nam Wong, Hanze Dong, WEIZHONG ZHANG, Yujiu Yang, Tong Zhang",
+      "paper_url": "https://openreview.net/pdf?id=d6H4RBi7RH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_v5gjXpmR8J",
+      "paper_id": "v5gjXpmR8J",
+      "title": "SSD: A Unified Framework for Self-Supervised Outlier Detection",
+      "authors": "Vikash Sehwag, Mung Chiang, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf/89219c090f5f217510ca46c6b68a0b62df071e81.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_HxKSzulSD1",
+      "paper_id": "HxKSzulSD1",
+      "title": "Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization",
+      "authors": "Wenkai Yang, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Gong Zhi, Yankai Lin, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=HxKSzulSD1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8jU7wy7N7mA",
+      "paper_id": "8jU7wy7N7mA",
+      "title": "Supervision Complexity and its Role in Knowledge Distillation",
+      "authors": "Hrayr Harutyunyan, Ankit Singh Rawat, Aditya Krishna Menon, Seungyeon Kim, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf/e129ac7ac66f9fbb8997557423dfd3fe9e4ca72c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_P7t2niLbvw",
+      "paper_id": "P7t2niLbvw",
+      "title": "Swift Hydra:  Self-Reinforcing Generative Framework for Anomaly Detection with Multiple Mamba Models",
+      "authors": "Nguyen Hoang Khoi Do, Truc Nguyen, Malik Hassanaly, raed alharbi, Jung Taek Seo, My T. Thai",
+      "paper_url": "https://openreview.net/pdf?id=P7t2niLbvw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_b9PoimzZFJ",
+      "paper_id": "b9PoimzZFJ",
+      "title": "Systematic generalisation with group invariant predictions",
+      "authors": "Faruk Ahmed, Yoshua Bengio, Harm van Seijen, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/245d90bc6bda1f04d5147ba12d683ab7d6b4d243.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_3ygfMPLv0P",
+      "paper_id": "3ygfMPLv0P",
+      "title": "Tailoring Mixup to Data for Calibration",
+      "authors": "Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc",
+      "paper_url": "https://openreview.net/pdf?id=3ygfMPLv0P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_GVSf7Z7DbYL",
+      "paper_id": "GVSf7Z7DbYL",
+      "title": "Teacher Guided Training: An Efficient Framework for Knowledge Transfer",
+      "authors": "Manzil Zaheer, Ankit Singh Rawat, Seungyeon Kim, Chong You, Himanshu Jain, Andreas Veit, Rob Fergus, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf/fc2352cc277d4c634bf33e196742780db863eab2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_4RbdgBh9gE",
+      "paper_id": "4RbdgBh9gE",
+      "title": "Teaching with Commentaries",
+      "authors": "Aniruddh Raghu, Maithra Raghu, Simon Kornblith, David Duvenaud, Geoffrey Hinton",
+      "paper_url": "https://openreview.net/pdf/f5e220ca55cfe80991bc55b5fde70e5a2e3b7d71.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_xLr0I_xYGAs",
+      "paper_id": "xLr0I_xYGAs",
+      "title": "The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition",
+      "authors": "Jun CEN, Di Luan, Shiwei Zhang, Yixuan Pei, Yingya Zhang, Deli Zhao, Shaojie Shen, Qifeng Chen",
+      "paper_url": "https://openreview.net/pdf/b7fff2c7db3869908cb083516d6b3d4f29eeabbc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_DXPftn5kjQK",
+      "paper_id": "DXPftn5kjQK",
+      "title": "The Rich Get Richer: Disparate Impact of Semi-Supervised Learning",
+      "authors": "Zhaowei Zhu, Tianyi Luo, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/512dd2bf00378d8e1ddb8ff29166f99a1339d921.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_BbNIbVPJ-42",
+      "paper_id": "BbNIbVPJ-42",
+      "title": "The Risks of Invariant Risk Minimization",
+      "authors": "Elan Rosenfeld, Pradeep Kumar Ravikumar, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf/28dd76f69ec8c36b1e5610943745438b4d6ca498.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_YlGsTZODyjz",
+      "paper_id": "YlGsTZODyjz",
+      "title": "The Tilted Variational Autoencoder: Improving Out-of-Distribution Detection",
+      "authors": "Griffin Floto, Stefan Kremer, Mihai Nica",
+      "paper_url": "https://openreview.net/pdf/ddcfada43c19a37098f4bac6359901c459890a8e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_rC8sJ4i6kaH",
+      "paper_id": "rC8sJ4i6kaH",
+      "title": "Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data",
+      "authors": "Colin Wei, Kendrick Shen, Yining Chen, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/fe47b1d2bc77e31125aa9437f2979edc98a6d02c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_nUBLhhVM1l",
+      "paper_id": "nUBLhhVM1l",
+      "title": "Tight Rates in Supervised Outlier Transfer Learning",
+      "authors": "Mohammadreza Mousavi Kalan, Samory Kpotufe",
+      "paper_url": "https://openreview.net/pdf?id=nUBLhhVM1l",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ylMq8MBnAp",
+      "paper_id": "ylMq8MBnAp",
+      "title": "Topology-aware Robust Optimization for Out-of-Distribution Generalization",
+      "authors": "Fengchun Qiao, Xi Peng",
+      "paper_url": "https://openreview.net/pdf/059e26bad7131b93661128c88df3bf50bf86f1bd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_wsWGcw6qKD",
+      "paper_id": "wsWGcw6qKD",
+      "title": "Toward Student-oriented Teacher Network Training for Knowledge Distillation",
+      "authors": "Chengyu Dong, Liyuan Liu, Jingbo Shang",
+      "paper_url": "https://openreview.net/pdf?id=wsWGcw6qKD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_IMPnRXEWpvr",
+      "paper_id": "IMPnRXEWpvr",
+      "title": "Towards Impartial Multi-task Learning",
+      "authors": "Liyang Liu, Yi Li, Zhanghui Kuang, Jing-Hao Xue, Yimin Chen, Wenming Yang, Qingmin Liao, Wayne Zhang",
+      "paper_url": "https://openreview.net/pdf/1641df474b8e0e2f7dd6c0dda99081b06fed400c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_-vKlt84fHs",
+      "paper_id": "-vKlt84fHs",
+      "title": "Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection",
+      "authors": "Xu Zhang, Yuan Zhao, Ziang Cui, Liqun Li, Shilin He, Qingwei Lin, Yingnong Dang, Saravan Rajmohan, Dongmei Zhang",
+      "paper_url": "https://openreview.net/pdf/ea37f32b32fc362c6fe8adbf6720a9b0a5fe2b48.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rTBL8OhdhH",
+      "paper_id": "rTBL8OhdhH",
+      "title": "Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching",
+      "authors": "Ziyao Guo, Kai Wang, George Cazenavette, HUI LI, Kaipeng Zhang, Yang You",
+      "paper_url": "https://openreview.net/pdf?id=rTBL8OhdhH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_dm8e7gsH0d",
+      "paper_id": "dm8e7gsH0d",
+      "title": "Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection",
+      "authors": "Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, Stephen Gould",
+      "paper_url": "https://openreview.net/pdf?id=dm8e7gsH0d",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vePdNU3u6n",
+      "paper_id": "vePdNU3u6n",
+      "title": "Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation",
+      "authors": "Yaofo Chen, Shuaicheng Niu, Yaowei Wang, Shoukai Xu, Hengjie Song, Mingkui Tan",
+      "paper_url": "https://openreview.net/pdf?id=vePdNU3u6n",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_tPEwSYPtAC",
+      "paper_id": "tPEwSYPtAC",
+      "title": "Towards Robust Out-of-Distribution Generalization Bounds via Sharpness",
+      "authors": "Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong-Li Lee, Wynne Hsu",
+      "paper_url": "https://openreview.net/pdf?id=tPEwSYPtAC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Uuf2q9TfXGA",
+      "paper_id": "Uuf2q9TfXGA",
+      "title": "Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning",
+      "authors": "Zeyuan Allen-Zhu, Yuanzhi Li",
+      "paper_url": "https://openreview.net/pdf/fbebb24f15ad18f41fae9b87ca59c93d0a7de7f2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_ieNJYujcGDO",
+      "paper_id": "ieNJYujcGDO",
+      "title": "Towards Understanding the Data Dependency of Mixup-style Training",
+      "authors": "Muthu Chidambaram, Xiang Wang, Yuzheng Hu, Chenwei Wu, Rong Ge",
+      "paper_url": "https://openreview.net/pdf/da2d0598034ce31ec61b7322e921e2900518e9f3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_6oWFn6fY4A",
+      "paper_id": "6oWFn6fY4A",
+      "title": "Towards Understanding Why Label Smoothing Degrades Selective Classification and How to Fix It",
+      "authors": "Guoxuan Xia, Olivier Laurent, Gianni Franchi, Christos-Savvas Bouganis",
+      "paper_url": "https://openreview.net/pdf?id=6oWFn6fY4A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ZcKPWuhG6wy",
+      "paper_id": "ZcKPWuhG6wy",
+      "title": "Tradeoffs in Data Augmentation: An Empirical Study",
+      "authors": "Raphael Gontijo-Lopes, Sylvia Smullin, Ekin Dogus Cubuk, Ethan Dyer",
+      "paper_url": "https://openreview.net/pdf/3d2fc5aa6c81e18581fdf14b971478263093ec81.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_OGg9XnKxFAH",
+      "paper_id": "OGg9XnKxFAH",
+      "title": "Training independent subnetworks for robust prediction",
+      "authors": "Marton Havasi, Rodolphe Jenatton, Stanislav Fort, Jeremiah Zhe Liu, Jasper Snoek, Balaji Lakshminarayanan, Andrew Mingbo Dai, Dustin Tran",
+      "paper_url": "https://openreview.net/pdf/685ca0ecb292949cd9ede19a51143b8505e9b854.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_C_vsGwEIjAr",
+      "paper_id": "C_vsGwEIjAr",
+      "title": "Trivial or Impossible --- dichotomous data difficulty masks model differences (on ImageNet and beyond)",
+      "authors": "Kristof Meding, Luca M. Schulze Buschoff, Robert Geirhos, Felix A. Wichmann",
+      "paper_url": "https://openreview.net/pdf/d76062ba60abbde95bd2a493d0d7749efdfd41c0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_M3kBtqpys5",
+      "paper_id": "M3kBtqpys5",
+      "title": "Trusted Multi-View Classification via Evolutionary Multi-View Fusion",
+      "authors": "Xinyan Liang, Pinhan Fu, Yuhua Qian, Qian Guo, Guoqing Liu",
+      "paper_url": "https://openreview.net/pdf?id=M3kBtqpys5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_6HN7LHyzGgC",
+      "paper_id": "6HN7LHyzGgC",
+      "title": "Uncertainty Modeling for Out-of-Distribution Generalization",
+      "authors": "Xiaotong Li, Yongxing Dai, Yixiao Ge, Jun Liu, Ying Shan, LINGYU DUAN",
+      "paper_url": "https://openreview.net/pdf/8b458e772747ce913aafc8c12549f3d6efa75dd9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_TjhUtloBZU",
+      "paper_id": "TjhUtloBZU",
+      "title": "Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks",
+      "authors": "Hao Chen, Jindong Wang, Ankit Shah, Ran Tao, Hongxin Wei, Xing Xie, Masashi Sugiyama, Bhiksha Raj",
+      "paper_url": "https://openreview.net/pdf?id=TjhUtloBZU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_6ET9SzlgNX",
+      "paper_id": "6ET9SzlgNX",
+      "title": "Understanding Intrinsic Robustness Using Label Uncertainty",
+      "authors": "Xiao Zhang, David Evans",
+      "paper_url": "https://openreview.net/pdf/7fac6994dd2b9e6641f9bacef039b34d4d5dd804.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_DBMttEEoLbw",
+      "paper_id": "DBMttEEoLbw",
+      "title": "Understanding new tasks through the lens of training data via exponential tilting",
+      "authors": "Subha Maity, Mikhail Yurochkin, Moulinath Banerjee, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf/30408afe2b1120d0a3085f6b35df853174c6ac8f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_fSTD6NFIW_b",
+      "paper_id": "fSTD6NFIW_b",
+      "title": "Understanding the failure modes of out-of-distribution generalization",
+      "authors": "Vaishnavh Nagarajan, Anders Andreassen, Behnam Neyshabur",
+      "paper_url": "https://openreview.net/pdf/2790b3f2ccfda08399e0549ba75e2da20bd2d1b1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_0zvfm-nZqQs",
+      "paper_id": "0zvfm-nZqQs",
+      "title": "Undistillable: Making A Nasty Teacher That CANNOT teach students",
+      "authors": "Haoyu Ma, Tianlong Chen, Ting-Kuei Hu, Chenyu You, Xiaohui Xie, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/42f6ff4cc0e85c1f3a226c56205d2f78953cdc7c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Lvf7GnaLru",
+      "paper_id": "Lvf7GnaLru",
+      "title": "Unraveling the Key Components of OOD Generalization via Diversification",
+      "authors": "Harold Luc Benoit, Liangze Jiang, Andrei Atanov, Oguzhan Fatih Kar, Mattia Rigotti, Amir Zamir",
+      "paper_url": "https://openreview.net/pdf?id=Lvf7GnaLru",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_enoVQWLsfyL",
+      "paper_id": "enoVQWLsfyL",
+      "title": "Viewmaker Networks: Learning Views for Unsupervised Representation Learning",
+      "authors": "Alex Tamkin, Mike Wu, Noah Goodman",
+      "paper_url": "https://openreview.net/pdf/c5ab1b6ae923a3e1807e6a3b96739798c0021c90.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_mutJBk3ILg",
+      "paper_id": "mutJBk3ILg",
+      "title": "Views Can Be Deceiving: Improved SSL Through Feature Space Augmentation",
+      "authors": "Kimia Hamidieh, Haoran Zhang, Swami Sankaranarayanan, Marzyeh Ghassemi",
+      "paper_url": "https://openreview.net/pdf?id=mutJBk3ILg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_TW7d65uYu5M",
+      "paper_id": "TW7d65uYu5M",
+      "title": "VOS: Learning What You Don't Know by Virtual Outlier Synthesis",
+      "authors": "Xuefeng Du, Zhaoning Wang, Mu Cai, Yixuan Li",
+      "paper_url": "https://openreview.net/pdf/6faea9b02b55e27b924aea7fe1a92365b3b12a27.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_uogG8BfLs2",
+      "paper_id": "uogG8BfLs2",
+      "title": "Weak-to-Strong Generalization Through the Data-Centric Lens",
+      "authors": "Changho Shin, John Cooper, Frederic Sala",
+      "paper_url": "https://openreview.net/pdf?id=uogG8BfLs2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Ucx3DQbC9GH",
+      "paper_id": "Ucx3DQbC9GH",
+      "title": "What Makes Better Augmentation Strategies? Augment Difficult but Not too Different",
+      "authors": "Jaehyung Kim, Dongyeop Kang, Sungsoo Ahn, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/133b80ca3acfcd64abacb3126997fc8a6c4b95ea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_tC6iW2UUbJf",
+      "paper_id": "tC6iW2UUbJf",
+      "title": "What Makes Instance Discrimination Good for Transfer Learning?",
+      "authors": "Nanxuan Zhao, Zhirong Wu, Rynson W. H. Lau, Stephen Lin",
+      "paper_url": "https://openreview.net/pdf/a051d411b95ea8650fc38090dc6150f3d948d35c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_tW4QEInpni",
+      "paper_id": "tW4QEInpni",
+      "title": "When Do Curricula Work?",
+      "authors": "Xiaoxia Wu, Ethan Dyer, Behnam Neyshabur",
+      "paper_url": "https://openreview.net/pdf/a6f2f483d8e768e936c0ab7b9c6f8209e4fb79a4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_WesiCoRVQ15",
+      "paper_id": "WesiCoRVQ15",
+      "title": "When Optimizing  $f$-Divergence is Robust with Label Noise",
+      "authors": "Jiaheng Wei, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/74da9f07c5ba5a2355f050ac33cbbaa462c63e3d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_NH29920YEmj",
+      "paper_id": "NH29920YEmj",
+      "title": "Who Is Your Right Mixup Partner in Positive and Unlabeled Learning",
+      "authors": "Changchun Li, Ximing Li, Lei Feng, Jihong Ouyang",
+      "paper_url": "https://openreview.net/pdf/d687929225415551919e783b0c52f61382054101.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_3aZCPl3ZvR",
+      "paper_id": "3aZCPl3ZvR",
+      "title": "Why is SAM Robust to Label Noise?",
+      "authors": "Christina Baek, J Zico Kolter, Aditi Raghunathan",
+      "paper_url": "https://openreview.net/pdf?id=3aZCPl3ZvR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_P3Bh01hBYTH",
+      "paper_id": "P3Bh01hBYTH",
+      "title": "X-model: Improving Data Efficiency in Deep Learning with A Minimax Model",
+      "authors": "Ximei Wang, Xinyang Chen, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf/21f01d34ca3af217c072e1f376fb6c73e1709aee.pdf",
+      "venue": "iclr22"
+    }
+  ]
+}

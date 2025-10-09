@@ -1,0 +1,605 @@
+{
+  "cluster_id": 133,
+  "papers": [
+    {
+      "id": "siggraph23_papers_722",
+      "paper_id": "papers_722",
+      "title": "3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models",
+      "authors": "Biao Zhang, Jiapeng Tang, Matthias Nießner, Peter Wonka",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_152",
+      "paper_id": "papers_152",
+      "title": "Adaptive Local Basis Functions for Shape Completion",
+      "authors": "Hui Ying, Tianjia Shao, He Wang, Yin Yang, Kun Zhou",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_295",
+      "paper_id": "papers_295",
+      "title": "ArrangementNet: Learning Scene Arrangements for Vectorized Indoor Scene Modeling",
+      "authors": "Jingwei Huang, Shanshan Zhang, Bo Duan, Yanfeng Zhang, Xiaoyang Guo, Mingwei Sun, Li Yi",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_312",
+      "paper_id": "papers_312",
+      "title": "B-rep Matching for Collaborating Across CAD Systems",
+      "authors": "Benjamin Jones, James Noeckel, Milin Kodnongbua, Ilya Baran, Adriana Schulz",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_535",
+      "paper_id": "papers_535",
+      "title": "Boundary-sampled Halfspaces: A New Representation for Constructive Solid Modeling",
+      "authors": "Xingyi Du, Qingnan Zhou, Nathan Carr, Tao Ju",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_cbeb75426d",
+      "paper_id": "cbeb75426d",
+      "title": "BrepDiff: Single-Stage B-rep Diffusion Model",
+      "authors": "Mingi Lee, Dongsu Zhang, Clément Jambon, Young Min Kim",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_162",
+      "paper_id": "papers_162",
+      "title": "BrepGen: A B-rep Generative Diffusion Model With Structured Latent Geometry",
+      "authors": "Xiang Xu, Joseph Lambourne, Pradeep Jayaraman, Zhengqing Wang, Karl Willis, Yasutaka Furukawa",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_08ae3caa31",
+      "paper_id": "08ae3caa31",
+      "title": "CageNet: A Meta-Framework for Learning on Wild Meshes",
+      "authors": "Michal Edelstein, Hsueh-Ti Derek Liu, Mirela Ben-Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_84e6c9b1f7",
+      "paper_id": "84e6c9b1f7",
+      "title": "CLR-Wire: Towards Continuous Latent Representations for 3D Curve Wireframe Generation",
+      "authors": "Xueqi Ma, Yilin Liu, Tianlong Gao, Qirui Huang, Hui Huang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_292",
+      "paper_id": "papers_292",
+      "title": "CNS-Edit: 3D Shape Editing via Coupled Neural Shape Optimization",
+      "authors": "Jingyu Hu, Ka-Hei Hui, Zhengzhe Liu, Hao Zhang, Chi-Wing Fu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_222",
+      "paper_id": "papers_222",
+      "title": "ComplexGen: CAD Reconstruction by B-rep Chain Complex Generation",
+      "authors": "Haoxiang Guo, Shilin Liu, Hao Pan, Yang Liu, Xin Tong, Baining Guo",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_1282",
+      "paper_id": "papers_1282",
+      "title": "DAE-Net: Deforming Auto-Encoder for Fine-grained Shape Co-segmentation",
+      "authors": "Zhiqin Chen, Qimin Chen, Hang Zhou, Hao Zhang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_341",
+      "paper_id": "papers_341",
+      "title": "DAG Amendment for Inverse Control of Parametric Shapes",
+      "authors": "Élie Michel, Tamy Boubekeur",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_8ab9fdf00e",
+      "paper_id": "8ab9fdf00e",
+      "title": "DeepMill: Neural Accessibility Learning for Subtractive Manufacturing",
+      "authors": "Fanchao Zhong, Yang Wang, Peng-Shuai Wang, Lin Lu, Haisen Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_505",
+      "paper_id": "papers_505",
+      "title": "DEF: Deep Estimation of Sharp Geometric Features in 3D Shapes",
+      "authors": "Albert Matveev, Ruslan Rakhimov, Alexey Artemov, Gleb Bobrovskikh, Vage Egiazarian, Emil Bogomolov, Daniele Panozzo, Denis Zorin, Evgeny Burnaev",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_144a3754d6",
+      "paper_id": "144a3754d6",
+      "title": "DeFillet: Detection and Removal of Fillet Regions in Polygonal CAD Models",
+      "authors": "Jing-En Jiang, Hanxiao Wang, Mingyang Zhao, Dong-Ming Yan, Shuangmin Chen, Shiqing Xin, Changhe Tu, Wenping Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_643",
+      "paper_id": "papers_643",
+      "title": "DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds",
+      "authors": "Ruben Timotheues Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_1268",
+      "paper_id": "papers_1268",
+      "title": "DiffCAD: Weakly-supervised Probabilistic CAD Model Retrieval and Alignment From an RGB Image",
+      "authors": "Daoyi Gao, David Rozenberszki, Stefan Leutenegger, Angela Dai",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_paperstog_118",
+      "paper_id": "paperstog_118",
+      "title": "DiffusionNet: Discretization Agnostic Learning on Surfaces",
+      "authors": "Nicholas Sharp, Souhaib Attaiki, Keenan Crane, Maks Ovsjanikov, Nicholas Sharp",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_183bd503b3",
+      "paper_id": "183bd503b3",
+      "title": "Divide-and-Conquer Embedding",
+      "authors": "Yuan-Yuan Cheng, Qing Fang, Ligang Liu, Xiao-Ming Fu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_153",
+      "paper_id": "paperstog_153",
+      "title": "DSG-Net: Learning Disentangled Structure and Geometry for 3D Shape Generation",
+      "authors": "Jie Yang, Kaichun Mo, Yu-Kun Lai, Leonidas J. Guibas, Lin Gao, Yu-Kun Lai",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_278",
+      "paper_id": "papers_278",
+      "title": "Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations",
+      "authors": "Peng-Shuai Wang, Yang Liu, Xin Tong",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_607",
+      "paper_id": "papers_607",
+      "title": "Eliminating Topological Errors in Neural Network Rotation Estimation Using Self-selecting Ensembles",
+      "authors": "Sitao Xiang",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_261",
+      "paper_id": "papers_261",
+      "title": "Example-based Procedural Modeling Using Graph Grammars",
+      "authors": "Paul Merrell",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_642",
+      "paper_id": "papers_642",
+      "title": "Fabricable 3D Wire Art",
+      "authors": "Kenji Tojo, Ariel Shamir, Bernd Bickel, Nobuyuki Umetani",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_480",
+      "paper_id": "papers_480",
+      "title": "Free2CAD: Parsing Freehand Drawings Into CAD Commands",
+      "authors": "Changjian Li, Hao Pan, Adrien Bousseau, Niloy Mitra",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_331",
+      "paper_id": "papers_331",
+      "title": "Fusion 360 Gallery: A Dataset and Environment for Programmatic CAD Construction From Human Design Sequences",
+      "authors": "Karl D.D. Willis, Yewen Pu, Jieliang Luo, Hang Chu, Tao Du, Joseph G. Lambourne, Armando Solar-Lezama, Wojciech Matusik",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_325",
+      "paper_id": "papers_325",
+      "title": "GEM3D: GEnerative Medial Abstractions for 3D Shape Synthesis",
+      "authors": "Dmitrii Petrov, Pradyumn Goyal, Vikas Thamizharasan, Vladimir Kim, Matheus Gadelha, Melinos Averkiou, Siddhartha Chaudhuri, Evangelos Kalogerakis",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_8f16b29796",
+      "paper_id": "8f16b29796",
+      "title": "GenAnalysis: Joint Shape Analysis by Learning Man-Made Shape Generators with Deformation Regularizations",
+      "authors": "Yuezhi Yang, Haitao Yang, George Kiyohiro Nakayama, Xiangru Huang, Leonidas Guibas, Qixing Huang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_fac9e3af77",
+      "paper_id": "fac9e3af77",
+      "title": "Hand-Shadow Poser",
+      "authors": "Hao Xu, Yinqiao Wang, Niloy Mitra, Shuaicheng Liu, Pheng Ann Heng, Chi-Wing Fu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_290",
+      "paper_id": "papers_290",
+      "title": "HodgeNet: Learning Spectral Geometry on Triangle Meshes",
+      "authors": "Dmitriy Smirnov, Justin Solomon",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_5337d679a4",
+      "paper_id": "5337d679a4",
+      "title": "HoLa: B-Rep Generation using a Holistic Latent Representation",
+      "authors": "Yilin Liu, Duoteng Xu, Xingyao Yu, Xiang Xu, Daniel Cohen-Or, Hao Zhang, Hui Huang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_728",
+      "paper_id": "papers_728",
+      "title": "ImLoveNet: Misaligned Image-supported Registration Network for Low-overlap Point Cloud Pairs",
+      "authors": "Honghua Chen, Zeyong Wei, Yabin Xu, Mingqiang Wei, Jun Wang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_698",
+      "paper_id": "papers_698",
+      "title": "Juxtaform: Interactive Visual Summarization for Exploratory Shape Design",
+      "authors": "Karran Pandey, Fanny Chevalier, Karan Singh",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_344",
+      "paper_id": "papers_344",
+      "title": "Learning Smooth Neural Functions via Lipschitz Regularization",
+      "authors": "Hsueh-Ti Derek Liu, Francis Williams, Alec Jacobson, Sanja Fidler, Or Litany",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_916bd5a65e",
+      "paper_id": "916bd5a65e",
+      "title": "MASH: Masked Anchored SpHerical Distances for 3D Shape Representation and Generation",
+      "authors": "Changhao Li, Yu Xin, Xiaowei Zhou, Ariel Shamir, Hao Zhang, Ligang Liu, Ruizhen Hu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_146",
+      "paper_id": "papers_146",
+      "title": "Mesh Neural Cellular Automata",
+      "authors": "Ehsan Pajouheshgar, Yitao Xu, Alexander Mordvintsev, Eyvind Niklasson, Tong Zhang, Sabine Süsstrunk",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_447",
+      "paper_id": "papers_447",
+      "title": "Möbius Convolutions for Spherical CNNs",
+      "authors": "Thomas Mitchel, Noam Aigerman, Vladimir G. Kim, Michael Kazhdan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_b6127fe2c9",
+      "paper_id": "b6127fe2c9",
+      "title": "NAM: Neural Adjoint Maps for refinement of shape correspondences",
+      "authors": "Giulio Viganò, Maks Ovsjanikov, Simone Melzi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_520",
+      "paper_id": "papers_520",
+      "title": "Neural Jacobian Fields: Learning Intrinsic Mappings of Arbitrary Meshes",
+      "authors": "Noam Aigerman, Kunal Gupta, Vladimir Kim, Jun Saito, Siddhartha Chaudhuri, Thibault Groueix",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_476",
+      "paper_id": "papers_476",
+      "title": "NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature",
+      "authors": "Qiujie Dong, Rui Xu, Pengfei Wang, Shuangmin Chen, Shiqing Xin, Xiaohong Jia, Wenping Wang, Changhe Tu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_335",
+      "paper_id": "papers_335",
+      "title": "OctFormer: Octree-based Transformers for 3D Point Clouds",
+      "authors": "Peng-Shuai Wang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_pos_190",
+      "paper_id": "pos_190",
+      "title": "OpenMfx: An API for Cross-software Non-destructible Mesh Effects",
+      "authors": "Élie Michel",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_1041a5c3f1",
+      "paper_id": "1041a5c3f1",
+      "title": "Patch-Grid: An Efficient and Feature-Preserving Neural Implicit Surface Representation",
+      "authors": "Guying Lin, Lei Yang, Congyi Zhang, Hao Pan, Yuhan Ping, Guodong Wei, Taku Komura, John Keyser, Wenping Wang, Guying Lin",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_579",
+      "paper_id": "papers_579",
+      "title": "Patternshop: Editing Point Patterns by Image Manipulation",
+      "authors": "Xingchang Huang, Tobias Ritschel, Hans-Peter Seidel, Pooran Memari, Gurprit Singh",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_paperstog_135",
+      "paper_id": "paperstog_135",
+      "title": "PCEDNet: A Lightweight Neural Network for Fast and Interactive Edge Detection in 3D Point Clouds",
+      "authors": "Chems-Eddine Himeur, Thibault Lejemble, Thomas Pellegrini, Mathias Paulin, Loic Barthe, Nicolas Mellado, Chems-Eddine Himeur",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_c5c01bf8db",
+      "paper_id": "c5c01bf8db",
+      "title": "PDT: Point Distribution Transformation with Diffusion Models",
+      "authors": "Jionghao Wang, Cheng Lin, Yuan Liu, Rui Xu, Zhiyang Dou, Xiaoxiao Long, Haoxiang Guo, Taku Komura, Xin Li, Wenping Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_279",
+      "paper_id": "papers_279",
+      "title": "Photo-to-shape Material Transfer for Diverse Structures",
+      "authors": "Ruizhen Hu, Xiangyu Su, Xiangkai Chen, Oliver van Kaick, Hui Huang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_8d3043b77f",
+      "paper_id": "8d3043b77f",
+      "title": "PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive transformer",
+      "authors": "Jingwen Ye, Yuze He, Yanning Zhou, Yiqin Zhu, Kaiwen Xiao, Yong-Jin Liu, Wei Yang, Xiao Han",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_ff27aa5ca4",
+      "paper_id": "ff27aa5ca4",
+      "title": "PS-CAD: Local Geometry Guidance via Prompting and Selection for CAD Reconstruction",
+      "authors": "Bingchen Yang, Haiyong Jiang, Hao Pan, Guosheng Lin, Jun Xiao, Peter Wonka, Bingchen Yang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_326",
+      "paper_id": "papers_326",
+      "title": "Random Walks for Adversarial Meshes",
+      "authors": "Amir Belder, Gal Yefet, Ran Ben-Itzhak, Ayellet Tal",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_210",
+      "paper_id": "papers_210",
+      "title": "Recompose Grammars for Procedural Architecture",
+      "authors": "Niklaus Houska, Cheryl Lau, Matthias Specht",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_ad86a9142d",
+      "paper_id": "ad86a9142d",
+      "title": "Revisiting Tradition and Beyond: A Customized Bilateral Filtering Framework for Point Cloud Denoising",
+      "authors": "Peng Li, Zeyong Wei, Honghua Chen, Xuefeng Yan, Mingqiang Wei",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_139",
+      "paper_id": "paperstog_139",
+      "title": "Self-Sampling for Neural Point Cloud Consolidation",
+      "authors": "Gal Metzer, Rana Hanocka, Raja Giryes, Daniel Cohen-Or, Gal Metzer",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_401",
+      "paper_id": "papers_401",
+      "title": "Semantic Shape Editing With Parametric Implicit Templates",
+      "authors": "Uday Kusupati, Mathieu Gaillard, Jean-Marc Thiery, Adrien Kaiser",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_264116b170",
+      "paper_id": "264116b170",
+      "title": "Shape Space Spectra",
+      "authors": "Yue Chang, Otman Benchekroun, Maurizio M. Chiaramonte, Peter Yichen Chen, Eitan Grinspun",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_563",
+      "paper_id": "papers_563",
+      "title": "ShapeCoder: Discovering Abstractions for Visual Programs From Unstructured Primitives",
+      "authors": "R. Kenny Jones, Paul Guerrero, Niloy J. Mitra, Daniel Ritchie",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_335",
+      "paper_id": "papers_335",
+      "title": "ShapeMOD: Macro Operation Discovery for 3D Shape Programs",
+      "authors": "R. Kenny Jones, David Charatan, Paul Guerrero, Niloy Mitra, Daniel Ritchie",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_paperstog_145",
+      "paper_id": "paperstog_145",
+      "title": "Skeletonization via Local Separators",
+      "authors": "J. Andreas Bærentzen, Eva Rotenberg, J. Andreas Bærentzen",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_208",
+      "paper_id": "papers_208",
+      "title": "SP-GAN: Sphere-guided 3D Shape Generation and Manipulation",
+      "authors": "Ruihui Li, Xianzhi Li, Ka-Hei Hui, Chi-Wing Fu",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_263",
+      "paper_id": "papers_263",
+      "title": "SPAGHETTI: Editing Implicit Shapes Through Part Aware Generation",
+      "authors": "Amir Hertz, Or Perel, Raja Giryes, Olga Sorkine-Hornung, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_331",
+      "paper_id": "papers_331",
+      "title": "Split-and-Fit: Learning B-Reps via Structure-aware Voronoi Partitioning",
+      "authors": "Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, Hui Huang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_2ea6787f62",
+      "paper_id": "2ea6787f62",
+      "title": "Stitch-A-Shape: Bottom-up Learning for B-Rep Generation",
+      "authors": "Pu Li, Wenhao Zhang, Jinglu Chen, Dongming Yan",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_9d259949ee",
+      "paper_id": "9d259949ee",
+      "title": "StructRe: Rewriting for Structured Shape Modeling",
+      "authors": "Jiepeng Wang, Hao Pan, Yang Liu, Xin Tong, Taku Komura, Wenping Wang, Jiepeng Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_121",
+      "paper_id": "paperstog_121",
+      "title": "Subdivision Based Convolutional Networks",
+      "authors": "Shi-min Hu, Zheng-Ning Liu, Meng-Hao Guo, Jun-Xiong Cai, Jiahui Huang, Tai-Jiang Mu, Ralph R. Martin, Zheng-Ning Liu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_481",
+      "paper_id": "papers_481",
+      "title": "Surface and Edge Detection for Primitive Fitting of Point Clouds",
+      "authors": "Yuanqi Li, Shun Liu, Xinran Yang, Jianwei Guo, Jie Guo, Yanwen Guo",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_920",
+      "paper_id": "papers_920",
+      "title": "Temporally Stable Metropolis Light Transport Denoising Using Recurrent Transformer Blocks",
+      "authors": "Chuhao Chen, Yuze He, Tzu-mao Li",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_f5f483e82b",
+      "paper_id": "f5f483e82b",
+      "title": "Train Once, Generate Anywhere: Discretization Agnostic Neural Cellular Automata Using SPH Method",
+      "authors": "Hyunsoo Kim, Jinah Park",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_f29030419c",
+      "paper_id": "f29030419c",
+      "title": "Unsupervised Decomposition of 3D Shapes into Expressive and Editable Extruded Profile Primitives",
+      "authors": "Chunyi Sun, Junlin Han, Runjia Li, Weijian Deng, Dylan Campbell, Stephen Gould",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_554",
+      "paper_id": "papers_554",
+      "title": "Unsupervised Learning for Cuboid Shape Abstraction via Joint Segmentation From Point Clouds",
+      "authors": "Kaizhi Yang, Xuejin Chen",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_213",
+      "paper_id": "papers_213",
+      "title": "Unsupervised Learning of Robust Spectral Shape Matching",
+      "authors": "Dongliang Cao, Paul Roetzer, Florian Bernard",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_paperstog_144",
+      "paper_id": "paperstog_144",
+      "title": "Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective",
+      "authors": "Lei Chu, Hao Pan, Wenping Wang, Hao Pan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_380",
+      "paper_id": "papers_380",
+      "title": "UrbanBIS: A Large-scale Benchmark for Fine-grained Urban Building Instance Segmentation",
+      "authors": "Guoqing Yang, Fuyou Xue, Qi Zhang, Ke Xie, Chi-Wing Fu, Hui Huang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_40e0c4ad24",
+      "paper_id": "40e0c4ad24",
+      "title": "Variable Shared Template for Consistent Non-rigid ICP",
+      "authors": "Yucheol Jung, Hyomin Kim, Hyejeong Yoon, Yoonha Hwang, Seungyong Lee",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_289",
+      "paper_id": "papers_289",
+      "title": "WireRoom: Model-guided Explorative Design of Abstract Wire Art",
+      "authors": "Zhijin Yang, Pengfei Xu, Hongbo Fu, Hui Huang",
+      "paper_url": "",
+      "venue": "siggraph21"
+    }
+  ]
+}

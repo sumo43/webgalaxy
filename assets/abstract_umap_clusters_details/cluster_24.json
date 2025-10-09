@@ -1,0 +1,2149 @@
+{
+  "cluster_id": 24,
+  "papers": [
+    {
+      "id": "cvpr24_1845",
+      "paper_id": "",
+      "title": "360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries",
+      "authors": "Huajian Huang, Changkun Liu, Yipeng Zhu, Hui Cheng, Tristan Braud, Sai-Kit Yeung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_360Loc_A_Dataset_and_Benchmark_for_Omnidirectional_Visual_Localization_with_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1486",
+      "paper_id": "",
+      "title": "3D-LFM: Lifting Foundation Model",
+      "authors": "Mosam Dabhi, László A. Jeni, Simon Lucey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dabhi_3D-LFM_Lifting_Foundation_Model_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2471",
+      "paper_id": "",
+      "title": "6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation",
+      "authors": "Li Xu, Haoxuan Qu, Yujun Cai, Jun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_6D-Diff_A_Keypoint_Diffusion_Framework_for_6D_Object_Pose_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1616",
+      "paper_id": "",
+      "title": "A Functional Approach to Rotation Equivariant Non-Linearities for Tensor Field Networks.",
+      "authors": "Adrien Poulenard, Leonidas J. Guibas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Poulenard_A_Functional_Approach_to_Rotation_Equivariant_Non-Linearities_for_Tensor_Field_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1246",
+      "paper_id": "",
+      "title": "A Light Touch Approach to Teaching Transformers Multi-View Geometry",
+      "authors": "Yash Bhalgat, João F. Henriques, Andrew Zisserman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bhalgat_A_Light_Touch_Approach_to_Teaching_Transformers_Multi-View_Geometry_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_780",
+      "paper_id": "",
+      "title": "A Regularization-Guided Equivariant Approach for Image Restoration",
+      "authors": "Yulu Bai, Jiahong Fu, Qi Xie, Deyu Meng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_A_Regularization-Guided_Equivariant_Approach_for_Image_Restoration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1715",
+      "paper_id": "",
+      "title": "A Rotation-Translation-Decoupled Solution for Robust and Efficient Visual-Inertial Initialization",
+      "authors": "Yijia He, Bo Xu, Zhanpeng Ouyang, Hongdong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/He_A_Rotation-Translation-Decoupled_Solution_for_Robust_and_Efficient_Visual-Inertial_Initialization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2133",
+      "paper_id": "",
+      "title": "Absolute Pose from One or Two Scaled and Oriented Features",
+      "authors": "Jonathan Ventura, Zuzana Kukelova, Torsten Sattler, Dániel Baráth",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2332",
+      "paper_id": "",
+      "title": "Accelerated Coordinate Encoding: Learning to Relocalize in Minutes Using RGB and Poses",
+      "authors": "Eric Brachmann, Tommaso Cavallari, Victor Adrian Prisacariu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Brachmann_Accelerated_Coordinate_Encoding_Learning_to_Relocalize_in_Minutes_Using_RGB_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_507",
+      "paper_id": "",
+      "title": "Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning",
+      "authors": "Youqi Pan, Wugen Zhou, Yingdian Cao, Hongbin Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_Adaptive_VIO_Deep_Visual-Inertial_Odometry_with_Online_Continual_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2034",
+      "paper_id": "",
+      "title": "AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis",
+      "authors": "Khiem Vuong, Anurag Ghosh, Deva Ramanan, Srinivasa Narasimhan, Shubham Tulsiani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Vuong_AerialMegaDepth_Learning_Aerial-Ground_Reconstruction_and_View_Synthesis_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_471",
+      "paper_id": "",
+      "title": "Affine Equivariant Networks Based on Differential Invariants",
+      "authors": "Yikang Li, Yeqing Qiu, Yuxuan Chen, Lingshen He, Zhouchen Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Affine_Equivariant_Networks_Based_on_Differential_Invariants_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_2041",
+      "paper_id": "",
+      "title": "AirObject: A Temporally Evolving Graph Embedding for Object Identification",
+      "authors": "Nikhil Varma Keetha, Chen Wang, Yuheng Qiu, Kuan Xu, Sebastian Scherer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Keetha_AirObject_A_Temporally_Evolving_Graph_Embedding_for_Object_Identification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_646",
+      "paper_id": "",
+      "title": "AirRoom: Objects Matter in Room Reidentification",
+      "authors": "Runmao Yao, Yi Du, Zhuoqun Chen, Haoze Zheng, Chen Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yao_AirRoom_Objects_Matter_in_Room_Reidentification_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_714",
+      "paper_id": "",
+      "title": "Alias-Free Convnets: Fractional Shift Invariance via Polynomial Activations",
+      "authors": "Hagay Michaeli, Tomer Michaeli, Daniel Soudry",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Michaeli_Alias-Free_Convnets_Fractional_Shift_Invariance_via_Polynomial_Activations_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_116",
+      "paper_id": "",
+      "title": "Any6D: Model-free 6D Pose Estimation of Novel Objects",
+      "authors": "Taeyeop Lee, Bowen Wen, Minjun Kang, Gyuree Kang, In So Kweon, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Any6D_Model-free_6D_Pose_Estimation_of_Novel_Objects_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2321",
+      "paper_id": "",
+      "title": "Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation",
+      "authors": "Nicolas Dufour, Vicky Kalogeiton, David Picard, Loic Landrieu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dufour_Around_the_World_in_80_Timesteps_A_Generative_Approach_to_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_722",
+      "paper_id": "",
+      "title": "Back to the Feature: Learning Robust Camera Localization From Pixels To Pose",
+      "authors": "Paul-Edouard Sarlin, Ajaykumar Unagar, Mans Larsson, Hugo Germain, Carl Toft, Viktor Larsson, Marc Pollefeys, Vincent Lepetit, Lars Hammarstrand, Fredrik Kahl, Torsten Sattler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sarlin_Back_to_the_Feature_Learning_Robust_Camera_Localization_From_Pixels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_698",
+      "paper_id": "",
+      "title": "BCOT: A Markerless High-Precision 3D Object Tracking Benchmark",
+      "authors": "Jiachen Li, Bin Wang, Shiqiang Zhu, Xin Cao, Fan Zhong, Wenxuan Chen, Te Li, Jason Gu, Xueying Qin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_BCOT_A_Markerless_High-Precision_3D_Object_Tracking_Benchmark_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_2054",
+      "paper_id": "",
+      "title": "Beyond Cross-View Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image",
+      "authors": "Yujiao Shi, Hongdong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Beyond_Cross-View_Image_Retrieval_Highly_Accurate_Vehicle_Localization_Using_Satellite_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2221",
+      "paper_id": "",
+      "title": "BoQ: A Place is Worth a Bag of Learnable Queries",
+      "authors": "Amar Ali-bey, Brahim Chaib-draa, Philippe Giguère",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ali-bey_BoQ_A_Place_is_Worth_a_Bag_of_Learnable_Queries_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1721",
+      "paper_id": "",
+      "title": "BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects",
+      "authors": "Bowen Wen, Jonathan Tremblay, Valts Blukis, Stephen Tyree, Thomas Müller, Alex Evans, Dieter Fox, Jan Kautz, Stan Birchfield",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_BundleSDF_Neural_6-DoF_Tracking_and_3D_Reconstruction_of_Unknown_Objects_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_281",
+      "paper_id": "",
+      "title": "Can Generative Video Models Help Pose Estimation?",
+      "authors": "Ruojin Cai, Jason Y. Zhang, Philipp Henzler, Zhengqi Li, Noah Snavely, Ricardo Martin-Brualla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cai_Can_Generative_Video_Models_Help_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_154",
+      "paper_id": "",
+      "title": "CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image",
+      "authors": "Jingshun Huang, Haitao Lin, Tianyu Wang, Yanwei Fu, Xiangyang Xue, Yi Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_CAP-Net_A_Unified_Network_for_6D_Pose_and_Size_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1515",
+      "paper_id": "",
+      "title": "Co-Domain Symmetry for Complex-Valued Deep Learning",
+      "authors": "Utkarsh Singhal, Yifei Xing, Stella X. Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Singhal_Co-Domain_Symmetry_for_Complex-Valued_Deep_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2313",
+      "paper_id": "",
+      "title": "Co-op: Correspondence-based Novel Object Pose Estimation",
+      "authors": "Sungphill Moon, Hyeontae Son, Dongcheol Hur, Sangwook Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Moon_Co-op_Correspondence-based_Novel_Object_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_549",
+      "paper_id": "",
+      "title": "Coming Down to Earth: Satellite-to-Street View Synthesis for Geo-Localization",
+      "authors": "Aysim Toker, Qunjie Zhou, Maxim Maximov, Laura Leal-Taixe",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Toker_Coming_Down_to_Earth_Satellite-to-Street_View_Synthesis_for_Geo-Localization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_843",
+      "paper_id": "",
+      "title": "ConDor: Self-Supervised Canonicalization of 3D Pose for Partial Shapes",
+      "authors": "Rahul Sajnani, Adrien Poulenard, Jivitesh Jain, Radhika Dua, Leonidas J. Guibas, Srinath Sridhar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sajnani_ConDor_Self-Supervised_Canonicalization_of_3D_Pose_for_Partial_Shapes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_346",
+      "paper_id": "",
+      "title": "Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)",
+      "authors": "Tsu-Ching Hsiao, Hao-Wei Chen, Hsuan-Kung Yang, Chun-Yi Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hsiao_Confronting_Ambiguity_in_6D_Object_Pose_Estimation_via_Score-Based_Diffusion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_675",
+      "paper_id": "",
+      "title": "Constrained Evolutionary Diffusion Filter for Monocular Endoscope Tracking",
+      "authors": "Xiongbiao Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_Constrained_Evolutionary_Diffusion_Filter_for_Monocular_Endoscope_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1434",
+      "paper_id": "",
+      "title": "Coupled Iterative Refinement for 6D Multi-Object Pose Estimation",
+      "authors": "Lahav Lipson, Zachary Teed, Ankit Goyal, Jia Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lipson_Coupled_Iterative_Refinement_for_6D_Multi-Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_875",
+      "paper_id": "",
+      "title": "CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild",
+      "authors": "Yang You, Ruoxi Shi, Weiming Wang, Cewu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/You_CPPF_Towards_Robust_Category-Level_9D_Pose_Estimation_in_the_Wild_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2361",
+      "paper_id": "",
+      "title": "CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition",
+      "authors": "Feng Lu, Xiangyuan Lan, Lijun Zhang, Dongmei Jiang, Yaowei Wang, Chun Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_CricaVPR_Cross-image_Correlation-aware_Representation_Learning_for_Visual_Place_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1085",
+      "paper_id": "",
+      "title": "CRISP: Object Pose and Shape Estimation with Test-Time Adaptation",
+      "authors": "Jingnan Shi, Rajat Talak, Harry Zhang, David Jin, Luca Carlone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_CRISP_Object_Pose_and_Shape_Estimation_with_Test-Time_Adaptation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_337",
+      "paper_id": "",
+      "title": "CroCoDL: Cross-device Collaborative Dataset for Localization",
+      "authors": "Hermann Blum, Alessandro Mercurio, Joshua O'Reilly, Tim Engelbracht, Mihai Dusmanu, Marc Pollefeys, Zuria Bauer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Blum_CroCoDL_Cross-device_Collaborative_Dataset_for_Localization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1104",
+      "paper_id": "",
+      "title": "CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data",
+      "authors": "Qi Yan, Jianhao Zheng, Simon Reding, Shanci Li, Iordan Doytchinov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_CrossLoc_Scalable_Aerial_Localization_Assisted_by_Multimodal_Synthetic_Data_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1262",
+      "paper_id": "",
+      "title": "Data-Efficient Large Scale Place Recognition With Graded Similarity Supervision",
+      "authors": "María Leyva-Vallina, Nicola Strisciuglio, Nicolai Petkov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Leyva-Vallina_Data-Efficient_Large_Scale_Place_Recognition_With_Graded_Similarity_Supervision_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_2005",
+      "paper_id": "",
+      "title": "Deep Visual Geo-Localization Benchmark",
+      "authors": "Gabriele Berton, Riccardo Mereu, Gabriele Trivigno, Carlo Masone, Gabriela Csurka, Torsten Sattler, Barbara Caputo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Berton_Deep_Visual_Geo-Localization_Benchmark_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_447",
+      "paper_id": "",
+      "title": "DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization",
+      "authors": "Chao Chen, Xinhao Liu, Yiming Li, Li Ding, Chen Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_DeepMapping2_Self-Supervised_Large-Scale_LiDAR_Map_Optimization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1579",
+      "paper_id": "",
+      "title": "Delving Into Discrete Normalizing Flows on SO(3) Manifold for Probabilistic Rotation Modeling",
+      "authors": "Yulin Liu, Haoran Liu, Yingda Yin, Yang Wang, Baoquan Chen, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Delving_Into_Discrete_Normalizing_Flows_on_SO3_Manifold_for_Probabilistic_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_522",
+      "paper_id": "",
+      "title": "Dense Match Summarization for Faster Two-view Estimation",
+      "authors": "Jonathan Astermark, Anders Heyden, Viktor Larsson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Astermark_Dense_Match_Summarization_for_Faster_Two-view_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2180",
+      "paper_id": "",
+      "title": "Detector-Free Structure from Motion",
+      "authors": "Xingyi He, Jiaming Sun, Yifan Wang, Sida Peng, Qixing Huang, Hujun Bao, Xiaowei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/He_Detector-Free_Structure_from_Motion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_533",
+      "paper_id": "",
+      "title": "DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation",
+      "authors": "Tuo Cao, Fei Luo, Yanping Fu, Wenxiao Zhang, Shengjie Zheng, Chunxia Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_DGECN_A_Depth-Guided_Edge_Convolutional_Network_for_End-to-End_6D_Pose_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1946",
+      "paper_id": "",
+      "title": "DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-Based Refinement",
+      "authors": "Yongshu Huang, Chen Liu, Minghang Zhu, Sheng Ao, Chenglu Wen, Cheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_DiffLO_Semantic-Aware_LiDAR_Odometry_with_Diffusion-Based_Refinement_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_720",
+      "paper_id": "",
+      "title": "DiffLoc: Diffusion Model for Outdoor LiDAR Localization",
+      "authors": "Wen Li, Yuyang Yang, Shangshu Yu, Guosheng Hu, Chenglu Wen, Ming Cheng, Cheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_DiffLoc_Diffusion_Model_for_Outdoor_LiDAR_Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_215",
+      "paper_id": "",
+      "title": "DiffPoseNet: Direct Differentiable Camera Pose Estimation",
+      "authors": "Chethan M. Parameshwara, Gokul Hari, Cornelia Fermüller, Nitin J. Sanket, Yiannis Aloimonos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Parameshwara_DiffPoseNet_Direct_Differentiable_Camera_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_618",
+      "paper_id": "",
+      "title": "Discovering Relationships Between Object Categories via Universal Canonical Maps",
+      "authors": "Natalia Neverova, Artsiom Sanakoyeu, Patrick Labatut, David Novotny, Andrea Vedaldi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Neverova_Discovering_Relationships_Between_Object_Categories_via_Universal_Canonical_Maps_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1279",
+      "paper_id": "",
+      "title": "DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-Scale Consistency",
+      "authors": "Zongxin Yang, Xin Yu, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_DSC-PoseNet_Learning_6DoF_Object_Pose_Estimation_via_Dual-Scale_Consistency_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1324",
+      "paper_id": "",
+      "title": "Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval",
+      "authors": "Rohan Sarkar, Avinash Kak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sarkar_Dual_Pose-invariant_Embeddings_Learning_Category_and_Object-specific_Discriminative_Representations_for_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_416",
+      "paper_id": "",
+      "title": "DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses",
+      "authors": "Chen Zhao, Tong Zhang, Zheng Dang, Mathieu Salzmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DVMNet_Computing_Relative_Pose_for_Unseen_Objects_Beyond_Hypotheses_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2107",
+      "paper_id": "",
+      "title": "E2PN: Efficient SE(3)-Equivariant Point Network",
+      "authors": "Minghan Zhu, Maani Ghaffari, William A. Clark, Huei Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_E2PN_Efficient_SE3-Equivariant_Point_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1192",
+      "paper_id": "",
+      "title": "EarthLoc: Astronaut Photography Localization by Indexing Earth from Space",
+      "authors": "Gabriele Berton, Alex Stoken, Barbara Caputo, Carlo Masone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Berton_EarthLoc_Astronaut_Photography_Localization_by_Indexing_Earth_from_Space_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_701",
+      "paper_id": "",
+      "title": "Efficient Detection of Long Consistent Cycles and its Application to Distributed Synchronization",
+      "authors": "Shaohan Li, Yunpeng Shi, Gilad Lerman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Efficient_Detection_of_Long_Consistent_Cycles_and_its_Application_to_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_608",
+      "paper_id": "",
+      "title": "Efficient Initial Pose-Graph Generation for Global SfM",
+      "authors": "Daniel Barath, Dmytro Mishkin, Ivan Eichhardt, Ilia Shipachev, Jiri Matas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Barath_Efficient_Initial_Pose-Graph_Generation_for_Global_SfM_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1680",
+      "paper_id": "",
+      "title": "Efficient Large-Scale Localization by Global Instance Recognition",
+      "authors": "Fei Xue, Ignas Budvytis, Daniel Olmeda Reino, Roberto Cipolla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Efficient_Large-Scale_Localization_by_Global_Instance_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_867",
+      "paper_id": "",
+      "title": "Efficient Map Sparsification Based on 2D and 3D Discretized Grids",
+      "authors": "Xiaoyu Zhang, Yun-Hui Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Efficient_Map_Sparsification_Based_on_2D_and_3D_Discretized_Grids_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1443",
+      "paper_id": "",
+      "title": "Efficient Privacy-Preserving Visual Localization Using 3D Ray Clouds",
+      "authors": "Heejoon Moon, Chunghwan Lee, Je Hyeong Hong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Efficient_Privacy-Preserving_Visual_Localization_Using_3D_Ray_Clouds_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1783",
+      "paper_id": "",
+      "title": "Enabling Equivariance for Arbitrary Lie Groups",
+      "authors": "Lachlan E. MacDonald, Sameera Ramasinghe, Simon Lucey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/MacDonald_Enabling_Equivariance_for_Arbitrary_Lie_Groups_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_375",
+      "paper_id": "",
+      "title": "End-to-End Rotation Averaging With Multi-Source Propagation",
+      "authors": "Luwei Yang, Heng Li, Jamal Ahmed Rahim, Zhaopeng Cui, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_End-to-End_Rotation_Averaging_With_Multi-Source_Propagation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_440",
+      "paper_id": "",
+      "title": "EPro-PnP: Generalized End-to-End Probabilistic Perspective-N-Points for Monocular Object Pose Estimation",
+      "authors": "Hansheng Chen, Pichao Wang, Fan Wang, Wei Tian, Lu Xiong, Hao Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1369",
+      "paper_id": "",
+      "title": "EquiPose: Exploiting Permutation Equivariance for Relative Camera Pose Estimation",
+      "authors": "Yuzhen Liu, Qiulei Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_EquiPose_Exploiting_Permutation_Equivariance_for_Relative_Camera_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_364",
+      "paper_id": "",
+      "title": "Equivariant Point Cloud Analysis via Learning Orientations for Message Passing",
+      "authors": "Shitong Luo, Jiahan Li, Jiaqi Guan, Yufeng Su, Chaoran Cheng, Jian Peng, Jianzhu Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Equivariant_Point_Cloud_Analysis_via_Learning_Orientations_for_Message_Passing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_553",
+      "paper_id": "",
+      "title": "Equivariant Point Network for 3D Point Cloud Analysis",
+      "authors": "Haiwei Chen, Shichen Liu, Weikai Chen, Hao Li, Randall Hill",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Equivariant_Point_Network_for_3D_Point_Cloud_Analysis_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1334",
+      "paper_id": "",
+      "title": "ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework",
+      "authors": "Ningkai Mo, Wanshui Gan, Naoto Yokoya, Shifeng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mo_ES6D_A_Computation_Efficient_and_Symmetry-Aware_6D_Pose_Regression_Framework_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_210",
+      "paper_id": "",
+      "title": "Estimating Extreme 3D Image Rotations using Cascaded Attention",
+      "authors": "Shay Dekel, Yosi Keller, Martin Cadik",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dekel_Estimating_Extreme_3D_Image_Rotations_using_Cascaded_Attention_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2652",
+      "paper_id": "",
+      "title": "Extreme Rotation Estimation in the Wild",
+      "authors": "Hana Bezalel, Dotan Ankri, Ruojin Cai, Hadar Averbach-Elor",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bezalel_Extreme_Rotation_Estimation_in_the_Wild_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1039",
+      "paper_id": "",
+      "title": "Extreme Rotation Estimation Using Dense Correlation Volumes",
+      "authors": "Ruojin Cai, Bharath Hariharan, Noah Snavely, Hadar Averbuch-Elor",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cai_Extreme_Rotation_Estimation_Using_Dense_Correlation_Volumes_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1330",
+      "paper_id": "",
+      "title": "F3Loc: Fusion and Filtering for Floorplan Localization",
+      "authors": "Changan Chen, Rui Wang, Christoph Vogel, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_F3Loc_Fusion_and_Filtering_for_Floorplan_Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_875",
+      "paper_id": "",
+      "title": "FAR: Flexible Accurate and Robust 6DoF Relative Camera Pose Estimation",
+      "authors": "Chris Rockwell, Nilesh Kulkarni, Linyi Jin, Jeong Joon Park, Justin Johnson, David F. Fouhey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Rockwell_FAR_Flexible_Accurate_and_Robust_6DoF_Relative_Camera_Pose_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_969",
+      "paper_id": "",
+      "title": "FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation",
+      "authors": "Yisheng He, Haibin Huang, Haoqiang Fan, Qifeng Chen, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/He_FFB6D_A_Full_Flow_Bidirectional_Fusion_Network_for_6D_Pose_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1214",
+      "paper_id": "",
+      "title": "FG^2: Fine-Grained Cross-View Localization by Fine-Grained Feature Matching",
+      "authors": "Zimin Xia, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_FG2_Fine-Grained_Cross-View_Localization_by_Fine-Grained_Feature_Matching_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1052",
+      "paper_id": "",
+      "title": "FisherMatch: Semi-Supervised Rotation Regression via Entropy-Based Filtering",
+      "authors": "Yingda Yin, Yingcheng Cai, He Wang, Baoquan Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_FisherMatch_Semi-Supervised_Rotation_Regression_via_Entropy-Based_Filtering_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1038",
+      "paper_id": "",
+      "title": "Focal Length and Object Pose Estimation via Render and Compare",
+      "authors": "Georgy Ponimatkin, Yann Labbé, Bryan Russell, Mathieu Aubry, Josef Sivic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ponimatkin_Focal_Length_and_Object_Pose_Estimation_via_Render_and_Compare_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2715",
+      "paper_id": "",
+      "title": "ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images",
+      "authors": "Yanqing Shen, Turcan Tuna, Marco Hutter, Cesar Cadena, Nanning Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_ForestLPR_LiDAR_Place_Recognition_in_Forests_Attentioning_Multiple_BEV_Density_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_235",
+      "paper_id": "",
+      "title": "FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects",
+      "authors": "Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1444",
+      "paper_id": "",
+      "title": "Frame Averaging for Equivariant Shape Space Learning",
+      "authors": "Matan Atzmon, Koki Nagano, Sanja Fidler, Sameh Khamis, Yaron Lipman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Atzmon_Frame_Averaging_for_Equivariant_Shape_Space_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1636",
+      "paper_id": "",
+      "title": "From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting",
+      "authors": "Zhiwei Huang, Hailin Yu, Yichun Shentu, Jin Yuan, Guofeng Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_From_Sparse_to_Dense_Camera_Relocalization_with_Scene-Specific_Detector_from_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_334",
+      "paper_id": "",
+      "title": "From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers",
+      "authors": "Swaminathan Gurumurthy, Karnik Ram, Bingqing Chen, Zachary Manchester, Zico Kolter",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gurumurthy_From_Variance_to_Veracity_Unbundling_and_Mitigating_Gradient_Variance_in_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_696",
+      "paper_id": "",
+      "title": "FS-Net: Fast Shape-Based Network for Category-Level 6D Object Pose Estimation With Decoupled Rotation Mechanism",
+      "authors": "Wei Chen, Xi Jia, Hyung Jin Chang, Jinming Duan, Linlin Shen, Ales Leonardis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_FS-Net_Fast_Shape-Based_Network_for_Category-Level_6D_Object_Pose_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_863",
+      "paper_id": "",
+      "title": "FS6D: Few-Shot 6D Pose Estimation of Novel Objects",
+      "authors": "Yisheng He, Yao Wang, Haoqiang Fan, Jian Sun, Qifeng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/He_FS6D_Few-Shot_6D_Pose_Estimation_of_Novel_Objects_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1610",
+      "paper_id": "",
+      "title": "Fully Geometric Panoramic Localization",
+      "authors": "Junho Kim, Jiwon Jeong, Young Min Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Fully_Geometric_Panoramic_Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_504",
+      "paper_id": "",
+      "title": "Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty",
+      "authors": "Bingbing Zhuang, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhuang_Fusing_the_Old_with_the_New_Learning_Relative_Camera_Pose_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2246",
+      "paper_id": "",
+      "title": "Gaussian Splatting Feature Fields for (Privacy-Preserving) Visual Localization",
+      "authors": "Maxime Pietrantoni, Gabriela Csurka, Torsten Sattler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Pietrantoni_Gaussian_Splatting_Feature_Fields_for_Privacy-Preserving_Visual_Localization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2445",
+      "paper_id": "",
+      "title": "GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation",
+      "authors": "Weihang Li, Hongli XU, Junwen Huang, Hyunjun Jung, Peter KT Yu, Nassir Navab, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1535",
+      "paper_id": "",
+      "title": "GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation",
+      "authors": "Gu Wang, Fabian Manhardt, Federico Tombari, Xiangyang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_GDR-Net_Geometry-Guided_Direct_Regression_Network_for_Monocular_6D_Object_Pose_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1440",
+      "paper_id": "",
+      "title": "Generalizable Local Feature Pre-Training for Deformable Shape Analysis",
+      "authors": "Souhaib Attaiki, Lei Li, Maks Ovsjanikov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Attaiki_Generalizable_Local_Feature_Pre-Training_for_Deformable_Shape_Analysis_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1504",
+      "paper_id": "",
+      "title": "Generalizing to the Open World: Deep Visual Odometry With Online Adaptation",
+      "authors": "Shunkai Li, Xin Wu, Yingdian Cao, Hongbin Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Generalizing_to_the_Open_World_Deep_Visual_Odometry_With_Online_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2118",
+      "paper_id": "",
+      "title": "GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects",
+      "authors": "Sungphill Moon, Hyeontae Son, Dongcheol Hur, Sangwook Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_GenFlow_Generalizable_Recurrent_Flow_for_6D_Pose_Refinement_of_Novel_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_306",
+      "paper_id": "",
+      "title": "GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement",
+      "authors": "Linfang Zheng, Tze Ho Elden Tse, Chen Wang, Yinghan Sun, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_GeoReF_Geometric_Alignment_Across_Shape_Variation_for_Category-level_Object_Pose_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2225",
+      "paper_id": "",
+      "title": "GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence",
+      "authors": "Van Nguyen Nguyen, Thibault Groueix, Mathieu Salzmann, Vincent Lepetit",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Nguyen_GigaPose_Fast_and_Robust_Novel_Object_Pose_Estimation_via_One_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_106",
+      "paper_id": "",
+      "title": "GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation",
+      "authors": "Ziqin Huang, Gu Wang, Chenyangguang Zhang, Ruida Zhang, Xiu Li, Xiangyang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_GIVEPose_Gradual_Intra-class_Variation_Elimination_for_RGB-based_Category-Level_Object_Pose_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_795",
+      "paper_id": "",
+      "title": "GLACE: Global Local Accelerated Coordinate Encoding",
+      "authors": "Fangjinhua Wang, Xudong Jiang, Silvano Galliani, Christoph Vogel, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_GLACE_Global_Local_Accelerated_Coordinate_Encoding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_198",
+      "paper_id": "",
+      "title": "Globally Optimal Relative Pose Estimation With Gravity Prior",
+      "authors": "Yaqing Ding, Daniel Barath, Jian Yang, Hui Kong, Zuzana Kukelova",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_Globally_Optimal_Relative_Pose_Estimation_With_Gravity_Prior_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_859",
+      "paper_id": "",
+      "title": "GPS as a Control Signal for Image Generation",
+      "authors": "Chao Feng, Ziyang Chen, Aleksander Holynski, Alexei A. Efros, Andrew Owens",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_GPS_as_a_Control_Signal_for_Image_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1046",
+      "paper_id": "",
+      "title": "GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting",
+      "authors": "Yan Di, Ruida Zhang, Zhiqiang Lou, Fabian Manhardt, Xiangyang Ji, Nassir Navab, Federico Tombari",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_956",
+      "paper_id": "",
+      "title": "GPVK-VL: Geometry-Preserving Virtual Keyframes for Visual Localization under Large Viewpoint Changes",
+      "authors": "Yunxuan Li, Lei Fan, Xiaoying Xing, Jianxiong Zhou, Ying Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GPVK-VL_Geometry-Preserving_Virtual_Keyframes_for_Visual_Localization_under_Large_Viewpoint_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1175",
+      "paper_id": "",
+      "title": "HARA: A Hierarchical Approach for Robust Rotation Averaging",
+      "authors": "Seong Hun Lee, Javier Civera",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_HARA_A_Hierarchical_Approach_for_Robust_Rotation_Averaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1863",
+      "paper_id": "",
+      "title": "HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation",
+      "authors": "Yongliang Lin, Yongzhi Su, Praveen Nathan, Sandeep Inuganti, Yan Di, Martin Sundermeyer, Fabian Manhardt, Didier Stricker, Jason Rambach, Yu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_HiPose_Hierarchical_Binary_Surface_Encoding_and_Correspondence_Pruning_for_RGB-D_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1135",
+      "paper_id": "",
+      "title": "HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views",
+      "authors": "Ethan Griffiths, Maryam Haghighat, Simon Denman, Clinton Fookes, Milad Ramezani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Griffiths_HOTFormerLoc_Hierarchical_Octree_Transformer_for_Versatile_Lidar_Place_Recognition_Across_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1836",
+      "paper_id": "",
+      "title": "HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios",
+      "authors": "HyunJun Jung, Shun-Cheng Wu, Patrick Ruhkamp, Guangyao Zhai, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1011",
+      "paper_id": "",
+      "title": "How Privacy-Preserving Are Line Clouds? Recovering Scene Details From 3D Lines",
+      "authors": "Kunal Chelani, Fredrik Kahl, Torsten Sattler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chelani_How_Privacy-Preserving_Are_Line_Clouds_Recovering_Scene_Details_From_3D_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2045",
+      "paper_id": "",
+      "title": "HS-Pose: Hybrid Scope Feature Extraction for Category-Level Object Pose Estimation",
+      "authors": "Linfang Zheng, Chen Wang, Yinghan Sun, Esha Dasgupta, Hua Chen, Aleš Leonardis, Wei Zhang, Hyung Jin Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_HS-Pose_Hybrid_Scope_Feature_Extraction_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1384",
+      "paper_id": "",
+      "title": "Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach",
+      "authors": "Yu Chen, Ji Zhao, Laurent Kneip",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Hybrid_Rotation_Averaging_A_Fast_and_Robust_Rotation_Averaging_Approach_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1127",
+      "paper_id": "",
+      "title": "Hyperdimensional Computing as a Framework for Systematic Aggregation of Image Descriptors",
+      "authors": "Peer Neubert, Stefan Schubert",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Neubert_Hyperdimensional_Computing_as_a_Framework_for_Systematic_Aggregation_of_Image_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_328",
+      "paper_id": "",
+      "title": "HyperPose: Hypernetwork-Infused Camera Pose Localization and an Extended Cambridge Landmarks Dataset",
+      "authors": "Ron Ferens, Yosi Keller",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ferens_HyperPose_Hypernetwork-Infused_Camera_Pose_Localization_and_an_Extended_Cambridge_Landmarks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_852",
+      "paper_id": "",
+      "title": "HypLiLoc: Towards Effective LiDAR Pose Regression With Hyperbolic Fusion",
+      "authors": "Sijie Wang, Qiyu Kang, Rui She, Wei Wang, Kai Zhao, Yang Song, Wee Peng Tay",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_HypLiLoc_Towards_Effective_LiDAR_Pose_Regression_With_Hyperbolic_Fusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1532",
+      "paper_id": "",
+      "title": "IFOR: Iterative Flow Minimization for Robotic Object Rearrangement",
+      "authors": "Ankit Goyal, Arsalan Mousavian, Chris Paxton, Yu-Wei Chao, Brian Okorn, Jia Deng, Dieter Fox",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Goyal_IFOR_Iterative_Flow_Minimization_for_Robotic_Object_Rearrangement_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2710",
+      "paper_id": "",
+      "title": "iG-6DoF: Model-free 6DoF Pose Estimation for Unseen Object via Iterative 3D Gaussian Splatting",
+      "authors": "Tuo Cao, Fei Luo, Jiongming Qin, Yu Jiang, Yusen Wang, Chunxia Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_iG-6DoF_Model-free_6DoF_Pose_Estimation_for_Unseen_Object_via_Iterative_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_949",
+      "paper_id": "",
+      "title": "IMP: Iterative Matching and Pose Estimation With Adaptive Pooling",
+      "authors": "Fei Xue, Ignas Budvytis, Roberto Cipolla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2585",
+      "paper_id": "",
+      "title": "Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation",
+      "authors": "Xiao Lin, Wenfei Yang, Yuan Gao, Tianzhu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_664",
+      "paper_id": "",
+      "title": "Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering",
+      "authors": "Vivek Gopalakrishnan, Neel Dey, Polina Golland",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gopalakrishnan_Intraoperative_2D3D_Image_Registration_via_Differentiable_X-ray_Rendering_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_103",
+      "paper_id": "",
+      "title": "Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects",
+      "authors": "Manuel Stoiber, Martin Sundermeyer, Rudolph Triebel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Stoiber_Iterative_Corresponding_Geometry_Fusing_Region_and_Depth_for_Highly_Efficient_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_902",
+      "paper_id": "",
+      "title": "Keypoint-Graph-Driven Learning Framework for Object Pose Estimation",
+      "authors": "Shaobo Zhang, Wanqing Zhao, Ziyu Guan, Xianlin Peng, Jinye Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Keypoint-Graph-Driven_Learning_Framework_for_Object_Pose_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_323",
+      "paper_id": "",
+      "title": "Large-Scale Localization Datasets in Crowded Indoor Spaces",
+      "authors": "Donghwan Lee, Soohyun Ryu, Suyong Yeon, Yonghan Lee, Deokhwa Kim, Cheolho Han, Yohann Cabon, Philippe Weinzaepfel, Nicolas Guerin, Gabriela Csurka, Martin Humenberger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Large-Scale_Localization_Datasets_in_Crowded_Indoor_Spaces_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1910",
+      "paper_id": "",
+      "title": "LASER: LAtent SpacE Rendering for 2D Visual Localization",
+      "authors": "Zhixiang Min, Naji Khosravan, Zachary Bessinger, Manjunath Narayana, Sing Bing Kang, Enrique Dunn, Ivaylo Boyadzhiev",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Min_LASER_LAtent_SpacE_Rendering_for_2D_Visual_Localization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2577",
+      "paper_id": "",
+      "title": "LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry",
+      "authors": "Weirong Chen, Le Chen, Rui Wang, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LEAP-VO_Long-term_Effective_Any_Point_Tracking_for_Visual_Odometry_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_251",
+      "paper_id": "",
+      "title": "Learning ABCs: Approximate Bijective Correspondence for Isolating Factors of Variation With Weak Supervision",
+      "authors": "Kieran A. Murphy, Varun Jampani, Srikumar Ramalingam, Ameesh Makadia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Murphy_Learning_ABCs_Approximate_Bijective_Correspondence_for_Isolating_Factors_of_Variation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_772",
+      "paper_id": "",
+      "title": "Learning Camera Localization via Dense Scene Matching",
+      "authors": "Shitao Tang, Chengzhou Tang, Rui Huang, Siyu Zhu, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Learning_Camera_Localization_via_Dense_Scene_Matching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1545",
+      "paper_id": "",
+      "title": "Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares",
+      "authors": "Dominik Muhle, Lukas Koestler, Krishna Murthy Jatavallabhula, Daniel Cremers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Muhle_Learning_Correspondence_Uncertainty_via_Differentiable_Nonlinear_Least_Squares_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_335",
+      "paper_id": "",
+      "title": "Learning Neural Representation of Camera Pose with Matrix Representation of Pose Shift via View Synthesis",
+      "authors": "Yaxuan Zhu, Ruiqi Gao, Siyuan Huang, Song-Chun Zhu, Ying Nian Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Learning_Neural_Representation_of_Camera_Pose_with_Matrix_Representation_of_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_101",
+      "paper_id": "",
+      "title": "Learning Rotation-Equivariant Features for Visual Correspondence",
+      "authors": "Jongmin Lee, Byungjin Kim, Seungwook Kim, Minsu Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Learning_Rotation-Equivariant_Features_for_Visual_Correspondence_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1659",
+      "paper_id": "",
+      "title": "Learning To Detect Scene Landmarks for Camera Localization",
+      "authors": "Tien Do, Ondrej Miksik, Joseph DeGol, Hyun Soo Park, Sudipta N. Sinha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Do_Learning_To_Detect_Scene_Landmarks_for_Camera_Localization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_454",
+      "paper_id": "",
+      "title": "Learning to Filter Outlier Edges in Global SfM",
+      "authors": "Nicole Damblon, Marc Pollefeys, Daniel Barath",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Damblon_Learning_to_Filter_Outlier_Edges_in_Global_SfM_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1264",
+      "paper_id": "",
+      "title": "Learning to Produce Semi-dense Correspondences for Visual Localization",
+      "authors": "Khang Truong Giang, Soohwan Song, Sungho Jo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Giang_Learning_to_Produce_Semi-dense_Correspondences_for_Visual_Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2511",
+      "paper_id": "",
+      "title": "Leveraging 3D Geometric Priors in 2D Rotation Symmetry Detection",
+      "authors": "Ahyun Seo, Minsu Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Seo_Leveraging_3D_Geometric_Priors_in_2D_Rotation_Symmetry_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_767",
+      "paper_id": "",
+      "title": "Leveraging Camera Triplets for Efficient and Accurate Structure-from-Motion",
+      "authors": "Lalit Manam, Venu Madhav Govindu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Manam_Leveraging_Camera_Triplets_for_Efficient_and_Accurate_Structure-from-Motion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_2001",
+      "paper_id": "",
+      "title": "Leveraging Equivariant Features for Absolute Pose Regression",
+      "authors": "Mohamed Adel Musallam, Vincent Gaudillière, Miguel Ortiz del Castillo, Kassem Al Ismaeil, Djamila Aouada",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Musallam_Leveraging_Equivariant_Features_for_Absolute_Pose_Regression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2567",
+      "paper_id": "",
+      "title": "Leveraging Global Stereo Consistency for Category-Level Shape and 6D Pose Estimation from Stereo Images",
+      "authors": "Junning Qiu, Minglei Lu, Fei Wang, Yu Guo, Yonggen Ling",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qiu_Leveraging_Global_Stereo_Consistency_for_Category-Level_Shape_and_6D_Pose_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1848",
+      "paper_id": "",
+      "title": "LightLoc: Learning Outdoor LiDAR Localization at Light Speed",
+      "authors": "Wen Li, Chen Liu, Shangshu Yu, Dunqiang Liu, Yin Zhou, Siqi Shen, Chenglu Wen, Cheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_LightLoc_Learning_Outdoor_LiDAR_Localization_at_Light_Speed_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2200",
+      "paper_id": "",
+      "title": "LiSA: LiDAR Localization with Semantic Awareness",
+      "authors": "Bochun Yang, Zijun Li, Wen Li, Zhipeng Cai, Chenglu Wen, Yu Zang, Matthias Muller, Cheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_LiSA_LiDAR_Localization_with_Semantic_Awareness_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1996",
+      "paper_id": "",
+      "title": "Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis",
+      "authors": "Yiyang Chen, Lunhao Duan, Shanshan Zhao, Changxing Ding, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Local-consistent_Transformation_Learning_for_Rotation-invariant_Point_Cloud_Analysis_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1261",
+      "paper_id": "",
+      "title": "Long-Term Visual Localization With Mobile Sensors",
+      "authors": "Shen Yan, Yu Liu, Long Wang, Zehong Shen, Zhen Peng, Haomin Liu, Maojun Zhang, Guofeng Zhang, Xiaowei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Long-Term_Visual_Localization_With_Mobile_Sensors_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1004",
+      "paper_id": "",
+      "title": "Long-Term Visual Map Sparsification With Heterogeneous GNN",
+      "authors": "Ming-Fang Chang, Yipu Zhao, Rajvi Shah, Jakob J. Engel, Michael Kaess, Simon Lucey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_Long-Term_Visual_Map_Sparsification_With_Heterogeneous_GNN_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_699",
+      "paper_id": "",
+      "title": "Look, Radiate, and Learn: Self-Supervised Localisation via Radio-Visual Correspondence",
+      "authors": "Mohammed Alloulah, Maximilian Arnold",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Alloulah_Look_Radiate_and_Learn_Self-Supervised_Localisation_via_Radio-Visual_Correspondence_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1676",
+      "paper_id": "",
+      "title": "MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing",
+      "authors": "Shuo Wang, Wanting Li, Yongcai Wang, Zhaoxin Fan, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MambaVO_Deep_Visual_Odometry_Based_on_Sequential_Matching_Refinement_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_534",
+      "paper_id": "",
+      "title": "Map-Relative Pose Regression for Visual Re-Localization",
+      "authors": "Shuai Chen, Tommaso Cavallari, Victor Adrian Prisacariu, Eric Brachmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Map-Relative_Pose_Regression_for_Visual_Re-Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1339",
+      "paper_id": "",
+      "title": "Markerless Camera-to-Robot Pose Estimation via Self-Supervised Sim-to-Real Transfer",
+      "authors": "Jingpei Lu, Florian Richter, Michael C. Yip",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Markerless_Camera-to-Robot_Pose_Estimation_via_Self-Supervised_Sim-to-Real_Transfer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2085",
+      "paper_id": "",
+      "title": "Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences",
+      "authors": "Axel Barroso-Laguna, Sowmya Munukutla, Victor Adrian Prisacariu, Eric Brachmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Barroso-Laguna_Matching_2D_Images_in_3D_Metric_Relative_Pose_from_Metric_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_64",
+      "paper_id": "",
+      "title": "MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images",
+      "authors": "Junwen Huang, Hao Yu, Kuan-Ting Yu, Nassir Navab, Slobodan Ilic, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_MatchU_Matching_Unseen_Objects_for_6D_Pose_Estimation_from_RGB-D_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2272",
+      "paper_id": "",
+      "title": "Modality-Invariant Visual Odometry for Embodied Vision",
+      "authors": "Marius Memmel, Roman Bachmann, Amir Zamir",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Memmel_Modality-Invariant_Visual_Odometry_for_Embodied_Vision_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1033",
+      "paper_id": "",
+      "title": "MRC-Net: 6-DoF Pose Estimation with MultiScale Residual Correlation",
+      "authors": "Yuelong Li, Yafei Mao, Raja Bala, Sunil Hadap",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MRC-Net_6-DoF_Pose_Estimation_with_MultiScale_Residual_Correlation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_111",
+      "paper_id": "",
+      "title": "Multi-Modal Aerial-Ground Cross-View Place Recognition with Neural ODEs",
+      "authors": "Sijie Wang, Rui She, Qiyu Kang, Siqi Li, Disheng Li, Tianyu Geng, Shangshu Yu, Wee Peng Tay",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Multi-Modal_Aerial-Ground_Cross-View_Place_Recognition_with_Neural_ODEs_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_555",
+      "paper_id": "",
+      "title": "NeRD: Neural 3D Reflection Symmetry Detector",
+      "authors": "Yichao Zhou, Shichen Liu, Yi Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_NeRD_Neural_3D_Reflection_Symmetry_Detector_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1494",
+      "paper_id": "",
+      "title": "NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization",
+      "authors": "Shitao Tang, Sicong Tang, Andrea Tagliasacchi, Ping Tan, Yasutaka Furukawa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_NeuMap_Neural_Coordinate_Mapping_by_Auto-Transdecoder_for_Camera_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1085",
+      "paper_id": "",
+      "title": "Neural Inertial Localization",
+      "authors": "Sachini Herath, David Caruso, Chen Liu, Yufan Chen, Yasutaka Furukawa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Herath_Neural_Inertial_Localization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1770",
+      "paper_id": "",
+      "title": "Neural Refinement for Absolute Pose Regression with Feature Synthesis",
+      "authors": "Shuai Chen, Yash Bhalgat, Xinghui Li, Jia-Wang Bian, Kejie Li, Zirui Wang, Victor Adrian Prisacariu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Neural_Refinement_for_Absolute_Pose_Regression_with_Feature_Synthesis_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_688",
+      "paper_id": "",
+      "title": "Neural Reprojection Error: Merging Feature Learning and Camera Pose Estimation",
+      "authors": "Hugo Germain, Vincent Lepetit, Guillaume Bourmaud",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Germain_Neural_Reprojection_Error_Merging_Feature_Learning_and_Camera_Pose_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1691",
+      "paper_id": "",
+      "title": "NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning",
+      "authors": "Tony Ng, Hyo Jin Kim, Vincent T. Lee, Daniel DeTone, Tsun-Yi Yang, Tianwei Shen, Eddy Ilg, Vassileios Balntas, Krystian Mikolajczyk, Chris Sweeney",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ng_NinjaDesc_Content-Concealing_Visual_Descriptors_via_Adversarial_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_405",
+      "paper_id": "",
+      "title": "NOPE: Novel Object Pose Estimation from a Single Image",
+      "authors": "Van Nguyen Nguyen, Thibault Groueix, Georgy Ponimatkin, Yinlin Hu, Renaud Marlet, Mathieu Salzmann, Vincent Lepetit",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Nguyen_NOPE_Novel_Object_Pose_Estimation_from_a_Single_Image_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2678",
+      "paper_id": "",
+      "title": "Object Pose Estimation via the Aggregation of Diffusion Features",
+      "authors": "Tianfu Wang, Guosheng Hu, Hongguang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Object_Pose_Estimation_via_the_Aggregation_of_Diffusion_Features_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1762",
+      "paper_id": "",
+      "title": "Object Pose Estimation With Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation",
+      "authors": "Heng Yang, Marco Pavone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Object_Pose_Estimation_With_Statistical_Guarantees_Conformal_Keypoint_Detection_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_963",
+      "paper_id": "",
+      "title": "ObjectMatch: Robust Registration Using Canonical Object Correspondences",
+      "authors": "Can Gümeli, Angela Dai, Matthias Nießner",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gumeli_ObjectMatch_Robust_Registration_Using_Canonical_Object_Correspondences_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_379",
+      "paper_id": "",
+      "title": "OmniCity: Omnipotent City Understanding With Multi-Level and Multi-View Images",
+      "authors": "Weijia Li, Yawen Lai, Linning Xu, Yuanbo Xiangli, Jinhua Yu, Conghui He, Gui-Song Xia, Dahua Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_OmniCity_Omnipotent_City_Understanding_With_Multi-Level_and_Multi-View_Images_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1512",
+      "paper_id": "",
+      "title": "On the Estimation of Image-matching Uncertainty in Visual Place Recognition",
+      "authors": "Mubariz Zaffar, Liangliang Nan, Julian F. P. Kooij",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zaffar_On_the_Estimation_of_Image-matching_Uncertainty_in_Visual_Place_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_594",
+      "paper_id": "",
+      "title": "ONDA-Pose: Occlusion-Aware Neural Domain Adaptation for Self-Supervised 6D Object Pose Estimation",
+      "authors": "Tao Tan, Qiulei Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_ONDA-Pose_Occlusion-Aware_Neural_Domain_Adaptation_for_Self-Supervised_6D_Object_Pose_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2621",
+      "paper_id": "",
+      "title": "One-shot 3D Object Canonicalization based on Geometric and Semantic Consistency",
+      "authors": "Li Jin, Yujie Wang, Wenzheng Chen, Qiyu Dai, Qingzhe Gao, Xueying Qin, Baoquan Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jin_One-shot_3D_Object_Canonicalization_based_on_Geometric_and_Semantic_Consistency_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1914",
+      "paper_id": "",
+      "title": "One2Any: One-Reference 6D Pose Estimation for Any Object",
+      "authors": "Mengya Liu, Siyuan Li, Ajad Chhatkuli, Prune Truong, Luc Van Gool, Federico Tombari",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_One2Any_One-Reference_6D_Pose_Estimation_for_Any_Object_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1345",
+      "paper_id": "",
+      "title": "OnePose: One-Shot Object Pose Estimation Without CAD Models",
+      "authors": "Jiaming Sun, Zihao Wang, Siyu Zhang, Xingyi He, Hongcheng Zhao, Guofeng Zhang, Xiaowei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_OnePose_One-Shot_Object_Pose_Estimation_Without_CAD_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2197",
+      "paper_id": "",
+      "title": "Open-Vocabulary Object 6D Pose Estimation",
+      "authors": "Jaime Corsetti, Davide Boscaini, Changjae Oh, Andrea Cavallaro, Fabio Poiesi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Corsetti_Open-Vocabulary_Object_6D_Pose_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1256",
+      "paper_id": "",
+      "title": "OpenStreetView-5M: The Many Roads to Global Visual Geolocation",
+      "authors": "Guillaume Astruc, Nicolas Dufour, Ioannis Siglidis, Constantin Aronssohn, Nacim Bouia, Stephanie Fu, Romain Loiseau, Van Nguyen Nguyen, Charles Raude, Elliot Vincent, Lintao Xu, Hongyu Zhou, Loic Landrieu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Astruc_OpenStreetView-5M_The_Many_Roads_to_Global_Visual_Geolocation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_477",
+      "paper_id": "",
+      "title": "Optimal Transport Aggregation for Visual Place Recognition",
+      "authors": "Sergio Izquierdo, Javier Civera",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Izquierdo_Optimal_Transport_Aggregation_for_Visual_Place_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1776",
+      "paper_id": "",
+      "title": "OrienterNet: Visual Localization in 2D Public Maps With Neural Matching",
+      "authors": "Paul-Edouard Sarlin, Daniel DeTone, Tsun-Yi Yang, Armen Avetisyan, Julian Straub, Tomasz Malisiewicz, Samuel Rota Bulò, Richard Newcombe, Peter Kontschieder, Vasileios Balntas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sarlin_OrienterNet_Visual_Localization_in_2D_Public_Maps_With_Neural_Matching_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1755",
+      "paper_id": "",
+      "title": "OSOP: A Multi-Stage One Shot Object Pose Estimation Framework",
+      "authors": "Ivan Shugurov, Fu Li, Benjamin Busam, Slobodan Ilic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shugurov_OSOP_A_Multi-Stage_One_Shot_Object_Pose_Estimation_Framework_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_639",
+      "paper_id": "",
+      "title": "OVE6D: Object Viewpoint Encoding for Depth-Based 6D Object Pose Estimation",
+      "authors": "Dingding Cai, Janne Heikkilä, Esa Rahtu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_OVE6D_Object_Viewpoint_Encoding_for_Depth-Based_6D_Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1515",
+      "paper_id": "",
+      "title": "Paired-Point Lifting for Enhanced Privacy-Preserving Visual Localization",
+      "authors": "Chunghwan Lee, Jaihoon Kim, Chanhyuk Yun, Je Hyeong Hong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Paired-Point_Lifting_for_Enhanced_Privacy-Preserving_Visual_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1605",
+      "paper_id": "",
+      "title": "PanoPose: Self-supervised Relative Pose Estimation for Panoramic Images",
+      "authors": "Diantao Tu, Hainan Cui, Xianwei Zheng, Shuhan Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_11",
+      "paper_id": "",
+      "title": "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition",
+      "authors": "Stephen Hausler, Sourav Garg, Ming Xu, Michael Milford, Tobias Fischer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hausler_Patch-NetVLAD_Multi-Scale_Fusion_of_Locally-Global_Descriptors_for_Place_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1265",
+      "paper_id": "",
+      "title": "PCLs: Geometry-Aware Neural Reconstruction of 3D Pose With Perspective Crop Layers",
+      "authors": "Frank Yu, Mathieu Salzmann, Pascal Fua, Helge Rhodin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_PCLs_Geometry-Aware_Neural_Reconstruction_of_3D_Pose_With_Perspective_Crop_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_70",
+      "paper_id": "",
+      "title": "PhoCaL: A Multi-Modal Dataset for Category-Level Object Pose Estimation With Photometrically Challenging Objects",
+      "authors": "Pengyuan Wang, HyunJun Jung, Yitong Li, Siyuan Shen, Rahul Parthasarathy Srikanth, Lorenzo Garattoni, Sven Meier, Nassir Navab, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PhoCaL_A_Multi-Modal_Dataset_for_Category-Level_Object_Pose_Estimation_With_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1389",
+      "paper_id": "",
+      "title": "PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers",
+      "authors": "Wooju Lee, Juhye Park, Dasol Hong, Changki Sung, Youngwoo Seo, DongWan Kang, Hyun Myung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_PIDLoc_Cross-View_Pose_Optimization_Network_Inspired_by_PID_Controllers_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_861",
+      "paper_id": "",
+      "title": "PIGEON: Predicting Image Geolocations",
+      "authors": "Lukas Haas, Michal Skreta, Silas Alberti, Chelsea Finn",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Haas_PIGEON_Predicting_Image_Geolocations_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_931",
+      "paper_id": "",
+      "title": "Pos3R: 6D Pose Estimation for Unseen Objects Made Easy",
+      "authors": "Weijian Deng, Dylan Campbell, Chunyi Sun, Jiahao Zhang, Shubham Kanitkar, Matt E. Shaffer, Stephen Gould",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_Pos3R_6D_Pose_Estimation_for_Unseen_Objects_Made_Easy_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2183",
+      "paper_id": "",
+      "title": "Pose Synchronization Under Multiple Pair-Wise Relative Poses",
+      "authors": "Yifan Sun, Qixing Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Pose_Synchronization_Under_Multiple_Pair-Wise_Relative_Poses_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_622",
+      "paper_id": "",
+      "title": "Pose-Transformed Equivariant Network for 3D Point Trajectory Prediction",
+      "authors": "Ruixuan Yu, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Pose-Transformed_Equivariant_Network_for_3D_Point_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_617",
+      "paper_id": "",
+      "title": "Prior-free 3D Object Tracking",
+      "authors": "Xiuqiang Song, Li Jin, Zhengxian Zhang, Jiachen Li, Fan Zhong, Guofeng Zhang, Xueying Qin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_Prior-free_3D_Object_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_14",
+      "paper_id": "",
+      "title": "Privacy Preserving Localization and Mapping From Uncalibrated Cameras",
+      "authors": "Marcel Geppert, Viktor Larsson, Pablo Speciale, Johannes L. Schonberger, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Geppert_Privacy_Preserving_Localization_and_Mapping_From_Uncalibrated_Cameras_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1414",
+      "paper_id": "",
+      "title": "Privacy Preserving Partial Localization",
+      "authors": "Marcel Geppert, Viktor Larsson, Johannes L. Schönberger, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Geppert_Privacy_Preserving_Partial_Localization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_265",
+      "paper_id": "",
+      "title": "Privacy-Preserving Image Features via Adversarial Affine Subspace Embeddings",
+      "authors": "Mihai Dusmanu, Johannes L. Schonberger, Sudipta N. Sinha, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dusmanu_Privacy-Preserving_Image_Features_via_Adversarial_Affine_Subspace_Embeddings_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1616",
+      "paper_id": "",
+      "title": "Privacy-Preserving Representations Are Not Enough: Recovering Scene Content From Camera Poses",
+      "authors": "Kunal Chelani, Torsten Sattler, Fredrik Kahl, Zuzana Kukelova",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chelani_Privacy-Preserving_Representations_Are_Not_Enough_Recovering_Scene_Content_From_Camera_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_122",
+      "paper_id": "",
+      "title": "Projective Manifold Gradient Layer for Deep Rotation Regression",
+      "authors": "Jiayi Chen, Yingda Yin, Tolga Birdal, Baoquan Chen, Leonidas J. Guibas, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Projective_Manifold_Gradient_Layer_for_Deep_Rotation_Regression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1743",
+      "paper_id": "",
+      "title": "PVO: Panoptic Visual Odometry",
+      "authors": "Weicai Ye, Xinyue Lan, Shuo Chen, Yuhang Ming, Xingyuan Yu, Hujun Bao, Zhaopeng Cui, Guofeng Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_PVO_Panoptic_Visual_Odometry_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1352",
+      "paper_id": "",
+      "title": "PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization",
+      "authors": "Guangming Wang, Xinrui Wu, Zhe Liu, Hesheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PWCLO-Net_Deep_LiDAR_Odometry_in_3D_Point_Clouds_Using_Hierarchical_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1594",
+      "paper_id": "",
+      "title": "PyPose: A Library for Robot Learning With Physics-Based Optimization",
+      "authors": "Chen Wang, Dasong Gao, Kuan Xu, Junyi Geng, Yaoyu Hu, Yuheng Qiu, Bowen Li, Fan Yang, Brady Moon, Abhinav Pandey,  Aryan, Jiahe Xu, Tianhao Wu, Haonan He, Daning Huang, Zhongqiang Ren, Shibo Zhao, Taimeng Fu, Pranay Reddy, Xiao Lin, Wenshan Wang, Jingnan Shi, Rajat Talak, Kun Cao, Yi Du, Han Wang, Huai Yu, Shanzhao Wang, Siyu Chen, Ananth Kashyap, Rohan Bandaru, Karthik Dantu, Jiajun Wu, Lihua Xie, Luca Carlone, Marco Hutter, Sebastian Scherer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_PyPose_A_Library_for_Robot_Learning_With_Physics-Based_Optimization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1421",
+      "paper_id": "",
+      "title": "R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization",
+      "authors": "Xudong Jiang, Fangjinhua Wang, Silvano Galliani, Christoph Vogel, Marc Pollefeys",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_R-SCoRe_Revisiting_Scene_Coordinate_Regression_for_Robust_Large-Scale_Visual_Localization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1945",
+      "paper_id": "",
+      "title": "R2Former: Unified Retrieval and Reranking Transformer for Place Recognition",
+      "authors": "Sijie Zhu, Linjie Yang, Chen Chen, Mubarak Shah, Xiaohui Shen, Heng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_R2Former_Unified_Retrieval_and_Reranking_Transformer_for_Place_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_135",
+      "paper_id": "",
+      "title": "RAGO: Recurrent Graph Optimizer for Multiple Rotation Averaging",
+      "authors": "Heng Li, Zhaopeng Cui, Shuaicheng Liu, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_RAGO_Recurrent_Graph_Optimizer_for_Multiple_Rotation_Averaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1737",
+      "paper_id": "",
+      "title": "RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings",
+      "authors": "Aayush Dhakal, Srikumar Sastry, Subash Khanal, Adeel Ahmad, Eric Xing, Nathan Jacobs",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dhakal_RANGE_Retrieval_Augmented_Neural_Fields_for_Multi-Resolution_Geo-Embeddings_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1879",
+      "paper_id": "",
+      "title": "Recognizing Rigid Patterns of Unlabeled Point Clouds by Complete and Continuous Isometry Invariants With No False Negatives and No False Positives",
+      "authors": "Daniel Widdowson, Vitaliy Kurlin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Widdowson_Recognizing_Rigid_Patterns_of_Unlabeled_Point_Clouds_by_Complete_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_867",
+      "paper_id": "",
+      "title": "Reflection and Rotation Symmetry Detection via Equivariant Learning",
+      "authors": "Ahyun Seo, Byungjin Kim, Suha Kwak, Minsu Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_Reflection_and_Rotation_Symmetry_Detection_via_Equivariant_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2185",
+      "paper_id": "",
+      "title": "RefPose: Leveraging Reference Geometric Correspondences for Accurate 6D Pose Estimation of Unseen Objects",
+      "authors": "Jaeguk Kim, Jaewoo Park, Keuntek Lee, Nam Ik Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_RefPose_Leveraging_Reference_Geometric_Correspondences_for_Accurate_6D_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1227",
+      "paper_id": "",
+      "title": "Relative Pose Estimation through Affine Corrections of Monocular Depth Priors",
+      "authors": "Yifan Yu, Shaohui Liu, Rémi Pautrat, Marc Pollefeys, Viktor Larsson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Relative_Pose_Estimation_through_Affine_Corrections_of_Monocular_Depth_Priors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_51",
+      "paper_id": "",
+      "title": "Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization",
+      "authors": "Siyan Dong, Shuzhe Wang, Shaohui Liu, Lulu Cai, Qingnan Fan, Juho Kannala, Yanchao Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Reloc3r_Large-Scale_Training_of_Relative_Camera_Pose_Regression_for_Generalizable_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1403",
+      "paper_id": "",
+      "title": "Rethinking Correspondence-based Category-Level Object Pose Estimation",
+      "authors": "Huan Ren, Wenfei Yang, Shifeng Zhang, Tianzhu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ren_Rethinking_Correspondence-based_Category-Level_Object_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_995",
+      "paper_id": "",
+      "title": "Rethinking Visual Geo-Localization for Large-Scale Applications",
+      "authors": "Gabriele Berton, Carlo Masone, Barbara Caputo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Berton_Rethinking_Visual_Geo-Localization_for_Large-Scale_Applications_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_181",
+      "paper_id": "",
+      "title": "Revisiting Global Translation Estimation with Feature Tracks",
+      "authors": "Peilin Tao, Hainan Cui, Mengqi Rong, Shuhan Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_230",
+      "paper_id": "",
+      "title": "Revisiting Rotation Averaging: Uncertainties and Robust Losses",
+      "authors": "Ganlin Zhang, Viktor Larsson, Daniel Barath",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Revisiting_Rotation_Averaging_Uncertainties_and_Robust_Losses_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2095",
+      "paper_id": "",
+      "title": "Rigidity-Aware Detection for 6D Object Pose Estimation",
+      "authors": "Yang Hai, Rui Song, Jiaojiao Li, Mathieu Salzmann, Yinlin Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Rigidity-Aware_Detection_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1233",
+      "paper_id": "",
+      "title": "RIO: Rotation-Equivariance Supervised Learning of Robust Inertial Odometry",
+      "authors": "Xiya Cao, Caifa Zhou, Dandan Zeng, Yongliang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_RIO_Rotation-Equivariance_Supervised_Learning_of_Robust_Inertial_Odometry_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1006",
+      "paper_id": "",
+      "title": "RNNPose: Recurrent 6-DoF Object Pose Refinement With Robust Correspondence Field Estimation and Pose Optimization",
+      "authors": "Yan Xu, Kwan-Yee Lin, Guofeng Zhang, Xiaogang Wang, Hongsheng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RNNPose_Recurrent_6-DoF_Object_Pose_Refinement_With_Robust_Correspondence_Field_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1470",
+      "paper_id": "",
+      "title": "RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training",
+      "authors": "Raktim Gautam Goswami, Prashanth Krishnamurthy, Yann LeCun, Farshad Khorrami",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Goswami_RoboPEPP_Vision-Based_Robot_Pose_and_Joint_Angle_Estimation_through_Embedding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_947",
+      "paper_id": "",
+      "title": "Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation From Image Sequence",
+      "authors": "Yang Tian, Jiyao Zhang, Zekai Yin, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Robot_Structure_Prior_Guided_Temporal_Attention_for_Camera-to-Robot_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_43",
+      "paper_id": "",
+      "title": "Robust 3D Shape Classification via Non-Local Graph Attention Network",
+      "authors": "Shengwei Qin, Zhong Li, Ligang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Robust_3D_Shape_Classification_via_Non-Local_Graph_Attention_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1545",
+      "paper_id": "",
+      "title": "Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments",
+      "authors": "Siyan Dong, Qingnan Fan, He Wang, Ji Shi, Li Yi, Thomas Funkhouser, Baoquan Chen, Leonidas J. Guibas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dong_Robust_Neural_Routing_Through_Space_Partitions_for_Camera_Relocalization_in_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_748",
+      "paper_id": "",
+      "title": "Rotation-Only Bundle Adjustment",
+      "authors": "Seong Hun Lee, Javier Civera",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Rotation-Only_Bundle_Adjustment_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_59",
+      "paper_id": "",
+      "title": "Rotationally Equivariant 3D Object Detection",
+      "authors": "Hong-Xing Yu, Jiajun Wu, Li Yi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Rotationally_Equivariant_3D_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1400",
+      "paper_id": "",
+      "title": "RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges",
+      "authors": "Thibaut Loiseau, Guillaume Bourmaud",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Loiseau_RUBIK_A_Structured_Benchmark_for_Image_Matching_across_Geometric_Challenges_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2434",
+      "paper_id": "",
+      "title": "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation",
+      "authors": "Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_SAM-6D_Segment_Anything_Model_Meets_Zero-Shot_6D_Object_Pose_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1404",
+      "paper_id": "",
+      "title": "SAR-Net: Shape Alignment and Recovery Network for Category-Level 6D Object Pose and Size Estimation",
+      "authors": "Haitao Lin, Zichang Liu, Chilam Cheang, Yanwei Fu, Guodong Guo, Xiangyang Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SAR-Net_Shape_Alignment_and_Recovery_Network_for_Category-Level_6D_Object_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_453",
+      "paper_id": "",
+      "title": "Scene-agnostic Pose Regression for Visual Localization",
+      "authors": "Junwei Zheng, Ruiping Liu, Yufan Chen, Zhenfang Chen, Kailun Yang, Jiaming Zhang, Rainer Stiefelhagen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Scene-agnostic_Pose_Regression_for_Visual_Localization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_358",
+      "paper_id": "",
+      "title": "SceneSqueezer: Learning To Compress Scene for Camera Relocalization",
+      "authors": "Luwei Yang, Rakesh Shrestha, Wenbo Li, Shuaicheng Liu, Guofeng Zhang, Zhaopeng Cui, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_SceneSqueezer_Learning_To_Compress_Scene_for_Camera_Relocalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1281",
+      "paper_id": "",
+      "title": "SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow",
+      "authors": "Qingyuan Wang, Rui Song, Jiaojiao Li, Kerui Cheng, David Ferstl, Yinlin Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SCFlow2_Plug-and-Play_Object_Pose_Refiner_with_Shape-Constraint_Scene_Flow_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_890",
+      "paper_id": "",
+      "title": "SchurVINS: Schur Complement-Based Lightweight Visual Inertial Navigation System",
+      "authors": "Yunfei Fan, Tianyu Zhao, Guidong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_SchurVINS_Schur_Complement-Based_Lightweight_Visual_Inertial_Navigation_System_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1180",
+      "paper_id": "",
+      "title": "SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation",
+      "authors": "Yamei Chen, Yan Di, Guangyao Zhai, Fabian Manhardt, Chenyangguang Zhang, Ruida Zhang, Federico Tombari, Nassir Navab, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SecondPose_SE3-Consistent_Dual-Stream_Feature_Fusion_for_Category-Level_Pose_Estimation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1323",
+      "paper_id": "",
+      "title": "Seeing Behind Objects for 3D Multi-Object Tracking in RGB-D Sequences",
+      "authors": "Norman Muller, Yu-Shiang Wong, Niloy J. Mitra, Angela Dai, Matthias Niessner",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Muller_Seeing_Behind_Objects_for_3D_Multi-Object_Tracking_in_RGB-D_Sequences_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2069",
+      "paper_id": "",
+      "title": "SegLoc: Learning Segmentation-Based Representations for Privacy-Preserving Visual Localization",
+      "authors": "Maxime Pietrantoni, Martin Humenberger, Torsten Sattler, Gabriela Csurka",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pietrantoni_SegLoc_Learning_Segmentation-Based_Representations_for_Privacy-Preserving_Visual_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1394",
+      "paper_id": "",
+      "title": "Self-Supervised Spatial Reasoning on Multi-View Line Drawings",
+      "authors": "Siyuan Xiang, Anbang Yang, Yanfei Xue, Yaoqing Yang, Chen Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xiang_Self-Supervised_Spatial_Reasoning_on_Multi-View_Line_Drawings_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_169",
+      "paper_id": "",
+      "title": "SFD2: Semantic-Guided Feature Detection and Description",
+      "authors": "Fei Xue, Ignas Budvytis, Roberto Cipolla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_SFD2_Semantic-Guided_Feature_Detection_and_Description_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2570",
+      "paper_id": "",
+      "title": "SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation",
+      "authors": "Junyan Ye, Qiyan Luo, Jinhua Yu, Huaping Zhong, Zhimeng Zheng, Conghui He, Weijia Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_SG-BEV_Satellite-Guided_BEV_Fusion_for_Cross-View_Semantic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_797",
+      "paper_id": "",
+      "title": "SGLoc: Scene Geometry Encoding for Outdoor LiDAR Localization",
+      "authors": "Wen Li, Shangshu Yu, Cheng Wang, Guosheng Hu, Siqi Shen, Chenglu Wen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SGLoc_Scene_Geometry_Encoding_for_Outdoor_LiDAR_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_727",
+      "paper_id": "",
+      "title": "Shape-Constraint Recurrent Flow for 6D Object Pose Estimation",
+      "authors": "Yang Hai, Rui Song, Jiaojiao Li, Yinlin Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hai_Shape-Constraint_Recurrent_Flow_for_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1799",
+      "paper_id": "",
+      "title": "ShapeMatcher: Self-Supervised Joint Shape Canonicalization Segmentation Retrieval and Deformation",
+      "authors": "Yan Di, Chenyangguang Zhang, Chaowei Wang, Ruida Zhang, Guangyao Zhai, Yanyan Li, Bowen Fu, Xiangyang Ji, Shan Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Di_ShapeMatcher_Self-Supervised_Joint_Shape_Canonicalization_Segmentation_Retrieval_and_Deformation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_76",
+      "paper_id": "",
+      "title": "Single-View Robot Pose and Joint Angle Estimation via Render & Compare",
+      "authors": "Yann Labbe, Justin Carpentier, Mathieu Aubry, Josef Sivic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Labbe_Single-View_Robot_Pose_and_Joint_Angle_Estimation_via_Render__CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_81",
+      "paper_id": "",
+      "title": "SliceMatch: Geometry-Guided Aggregation for Cross-View Pose Estimation",
+      "authors": "Ted Lentsch, Zimin Xia, Holger Caesar, Julian F. P. Kooij",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lentsch_SliceMatch_Geometry-Guided_Aggregation_for_Cross-View_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_522",
+      "paper_id": "",
+      "title": "SMOC-Net: Leveraging Camera Pose for Self-Supervised Monocular Object Pose Estimation",
+      "authors": "Tao Tan, Qiulei Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_SMOC-Net_Leveraging_Camera_Pose_for_Self-Supervised_Monocular_Object_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_390",
+      "paper_id": "",
+      "title": "SOE-Net: A Self-Attention and Orientation Encoding Network for Point Cloud Based Place Recognition",
+      "authors": "Yan Xia, Yusheng Xu, Shuang Li, Rui Wang, Juan Du, Daniel Cremers, Uwe Stilla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_SOE-Net_A_Self-Attention_and_Orientation_Encoding_Network_for_Point_Cloud_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1224",
+      "paper_id": "",
+      "title": "SparsePose: Sparse-View Camera Pose Regression and Refinement",
+      "authors": "Samarth Sinha, Jason Y. Zhang, Andrea Tagliasacchi, Igor Gilitschenski, David B. Lindell",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sinha_SparsePose_Sparse-View_Camera_Pose_Regression_and_Refinement_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1483",
+      "paper_id": "",
+      "title": "SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration",
+      "authors": "Sheng Ao, Qingyong Hu, Bo Yang, Andrew Markham, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ao_SpinNet_Learning_a_General_Surface_Descriptor_for_3D_Point_Cloud_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1556",
+      "paper_id": "",
+      "title": "StablePose: Learning 6D Object Poses From Geometrically Stable Patches",
+      "authors": "Yifei Shi, Junwen Huang, Xin Xu, Yifan Zhang, Kai Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_StablePose_Learning_6D_Object_Poses_From_Geometrically_Stable_Patches_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_167",
+      "paper_id": "",
+      "title": "Steerers: A Framework for Rotation Equivariant Keypoint Descriptors",
+      "authors": "Georg Bökman, Johan Edstedt, Michael Felsberg, Fredrik Kahl",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bokman_Steerers_A_Framework_for_Rotation_Equivariant_Keypoint_Descriptors_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1912",
+      "paper_id": "",
+      "title": "Structure-Aware Correspondence Learning for Relative Pose Estimation",
+      "authors": "Yihan Chen, Wenfei Yang, Huan Ren, Shifeng Zhang, Tianzhu Zhang, Feng Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Structure-Aware_Correspondence_Learning_for_Relative_Pose_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_952",
+      "paper_id": "",
+      "title": "StructVPR: Distill Structural Knowledge With Weighting Samples for Visual Place Recognition",
+      "authors": "Yanqing Shen, Sanping Zhou, Jingwen Fu, Ruotong Wang, Shitao Chen, Nanning Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_StructVPR_Distill_Structural_Knowledge_With_Weighting_Samples_for_Visual_Place_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2237",
+      "paper_id": "",
+      "title": "SubT-MRS Dataset: Pushing SLAM Towards All-weather Environments",
+      "authors": "Shibo Zhao, Yuanjun Gao, Tianhao Wu, Damanpreet Singh, Rushan Jiang, Haoxiang Sun, Mansi Sarawata, Yuheng Qiu, Warren Whittaker, Ian Higgins, Yi Du, Shaoshu Su, Can Xu, John Keller, Jay Karhade, Lucas Nogueira, Sourojit Saha, Ji Zhang, Wenshan Wang, Chen Wang, Sebastian Scherer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_SubT-MRS_Dataset_Pushing_SLAM_Towards_All-weather_Environments_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_722",
+      "paper_id": "",
+      "title": "SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation With Learnt Surface Embeddings",
+      "authors": "Rasmus Laurvig Haugaard, Anders Glent Buch",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Haugaard_SurfEmb_Dense_and_Continuous_Correspondence_Distributions_for_Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_449",
+      "paper_id": "",
+      "title": "Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation",
+      "authors": "Nathaniel Merrill, Yuliang Guo, Xingxing Zuo, Xinyu Huang, Stefan Leutenegger, Xi Peng, Liu Ren, Guoquan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1241",
+      "paper_id": "",
+      "title": "Symmetry Strikes Back: From Single-Image Symmetry Detection to 3D Generation",
+      "authors": "Xiang Li, Zixuan Huang, Anh Thai, James M. Rehg",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Symmetry_Strikes_Back_From_Single-Image_Symmetry_Detection_to_3D_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_702",
+      "paper_id": "",
+      "title": "Tangent Space Backpropagation for 3D Transformation Groups",
+      "authors": "Zachary Teed, Jia Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Teed_Tangent_Space_Backpropagation_for_3D_Transformation_Groups_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_124",
+      "paper_id": "",
+      "title": "Tartan IMU: A Light Foundation Model for Inertial Positioning in Robotics",
+      "authors": "Shibo Zhao, Sifan Zhou, Raphael Blanchard, Yuheng Qiu, Wenshan Wang, Sebastian Scherer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Tartan_IMU_A_Light_Foundation_Model_for_Inertial_Positioning_in_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1528",
+      "paper_id": "",
+      "title": "Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions",
+      "authors": "Van Nguyen Nguyen, Yinlin Hu, Yang Xiao, Mathieu Salzmann, Vincent Lepetit",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_Templates_for_3D_Object_Pose_Estimation_Revisited_Generalization_to_New_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1819",
+      "paper_id": "",
+      "title": "TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis",
+      "authors": "Pavlo Melnyk, Andreas Robinson, Michael Felsberg, Mårten Wadenbäck",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Melnyk_TetraSphere_A_Neural_Descriptor_for_O3-Invariant_Point_Cloud_Analysis_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_546",
+      "paper_id": "",
+      "title": "TexPose: Neural Texture Learning for Self-Supervised 6D Object Pose Estimation",
+      "authors": "Hanzhi Chen, Fabian Manhardt, Nassir Navab, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TexPose_Neural_Texture_Learning_for_Self-Supervised_6D_Object_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1887",
+      "paper_id": "",
+      "title": "The Devil Is in the Pose: Ambiguity-Free 3D Rotation-Invariant Learning via Pose-Aware Convolution",
+      "authors": "Ronghan Chen, Yang Cong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_The_Devil_Is_in_the_Pose_Ambiguity-Free_3D_Rotation-Invariant_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_865",
+      "paper_id": "",
+      "title": "The Probabilistic Normal Epipolar Constraint for Frame-to-Frame Rotation Optimization Under Uncertain Feature Positions",
+      "authors": "Dominik Muhle, Lukas Koestler, Nikolaus Demmel, Florian Bernard, Daniel Cremers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Muhle_The_Probabilistic_Normal_Epipolar_Constraint_for_Frame-to-Frame_Rotation_Optimization_Under_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2534",
+      "paper_id": "",
+      "title": "The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement",
+      "authors": "Gabriele Trivigno, Carlo Masone, Barbara Caputo, Torsten Sattler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Trivigno_The_Unreasonable_Effectiveness_of_Pre-Trained_Features_for_Camera_Pose_Refinement_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1838",
+      "paper_id": "",
+      "title": "Towards Co-Evaluation of Cameras HDR and Algorithms for Industrial-Grade 6DoF Pose Estimation",
+      "authors": "Agastya Kalra, Guy Stoppi, Dmitrii Marin, Vage Taamazyan, Aarrushi Shandilya, Rishav Agarwal, Anton Boykov, Tze Hao Chong, Michael Stark",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kalra_Towards_Co-Evaluation_of_Cameras_HDR_and_Algorithms_for_Industrial-Grade_6DoF_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_107",
+      "paper_id": "",
+      "title": "TransGeo: Transformer Is All You Need for Cross-View Image Geo-Localization",
+      "authors": "Sijie Zhu, Mubarak Shah, Chen Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2445",
+      "paper_id": "",
+      "title": "TransLoc4D: Transformer-based 4D Radar Place Recognition",
+      "authors": "Guohao Peng, Heshan Li, Yangyang Zhao, Jun Zhang, Zhenyu Wu, Pengyu Zheng, Danwei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_TransLoc4D_Transformer-based_4D_Radar_Place_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_2044",
+      "paper_id": "",
+      "title": "TransVPR: Transformer-Based Place Recognition With Multi-Level Attention Aggregation",
+      "authors": "Ruotong Wang, Yanqing Shen, Weiliang Zuo, Sanping Zhou, Nanning Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_TransVPR_Transformer-Based_Place_Recognition_With_Multi-Level_Attention_Aggregation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_765",
+      "paper_id": "",
+      "title": "Truly Shift-Invariant Convolutional Neural Networks",
+      "authors": "Anadi Chaman, Ivan Dokmanic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chaman_Truly_Shift-Invariant_Convolutional_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_21",
+      "paper_id": "",
+      "title": "UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References",
+      "authors": "Ming-Feng Li, Xin Yang, Fu-En Wang, Hritam Basak, Yuyin Sun, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_UA-Pose_Uncertainty-Aware_6D_Object_Pose_Estimation_and_Online_Object_Completion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1921",
+      "paper_id": "",
+      "title": "UDA-COPE: Unsupervised Domain Adaptation for Category-Level Object Pose Estimation",
+      "authors": "Taeyeop Lee, Byeong-Uk Lee, Inkyu Shin, Jaesung Choe, Ukcheol Shin, In So Kweon, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_UDA-COPE_Unsupervised_Domain_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_473",
+      "paper_id": "",
+      "title": "Uncertainty-Aware Camera Pose Estimation From Points and Lines",
+      "authors": "Alexander Vakhitov, Luis Ferraz, Antonio Agudo, Francesc Moreno-Noguer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Vakhitov_Uncertainty-Aware_Camera_Pose_Estimation_From_Points_and_Lines_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1601",
+      "paper_id": "",
+      "title": "Uncertainty-Aware Vision-Based Metric Cross-View Geolocalization",
+      "authors": "Florian Fervers, Sebastian Bullinger, Christoph Bodensteiner, Michael Arens, Rainer Stiefelhagen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fervers_Uncertainty-Aware_Vision-Based_Metric_Cross-View_Geolocalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_245",
+      "paper_id": "",
+      "title": "Uni6D: A Unified CNN Framework Without Projection Breakdown for 6D Pose Estimation",
+      "authors": "Xiaoke Jiang, Donghai Li, Hao Chen, Ye Zheng, Rui Zhao, Liwei Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Uni6D_A_Unified_CNN_Framework_Without_Projection_Breakdown_for_6D_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1802",
+      "paper_id": "",
+      "title": "Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization",
+      "authors": "Guopeng Li, Ming Qian, Gui-Song Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Unleashing_Unlabeled_Data_A_Paradigm_for_Cross-View_Geo-Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1599",
+      "paper_id": "",
+      "title": "UNOPose: Unseen Object Pose Estimation with an Unposed RGB-D Reference Image",
+      "authors": "Xingyu Liu, Gu Wang, Ruida Zhang, Chenyangguang Zhang, Federico Tombari, Xiangyang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_UNOPose_Unseen_Object_Pose_Estimation_with_an_Unposed_RGB-D_Reference_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_313",
+      "paper_id": "",
+      "title": "Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos",
+      "authors": "Leonhard Sommer, Artur Jesslen, Eddy Ilg, Adam Kortylewski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sommer_Unsupervised_Learning_of_Category-Level_3D_Pose_from_Object-Centric_Videos_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1643",
+      "paper_id": "",
+      "title": "Upright-Net: Learning Upright Orientation for 3D Point Cloud",
+      "authors": "Xufang Pang, Feng Li, Ning Ding, Xiaopin Zhong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Upright-Net_Learning_Upright_Orientation_for_3D_Point_Cloud_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_649",
+      "paper_id": "",
+      "title": "View From Above: Orthogonal-View aware Cross-view Localization",
+      "authors": "Shan Wang, Chuong Nguyen, Jiawei Liu, Yanhao Zhang, Sundaram Muthu, Fahira Afzal Maken, Kaihao Zhang, Hongdong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_View_From_Above_Orthogonal-View_aware_Cross-view_Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1427",
+      "paper_id": "",
+      "title": "VIGOR: Cross-View Image Geo-Localization Beyond One-to-One Retrieval",
+      "authors": "Sijie Zhu, Taojiannan Yang, Chen Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1738",
+      "paper_id": "",
+      "title": "Virtual Correspondence: Humans as a Cue for Extreme-View Geometry",
+      "authors": "Wei-Chiu Ma, Anqi Joyce Yang, Shenlong Wang, Raquel Urtasun, Antonio Torralba",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Virtual_Correspondence_Humans_as_a_Cue_for_Extreme-View_Geometry_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1740",
+      "paper_id": "",
+      "title": "Visual Localization Using Imperfect 3D Models From the Internet",
+      "authors": "Vojtech Panek, Zuzana Kukelova, Torsten Sattler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Panek_Visual_Localization_Using_Imperfect_3D_Models_From_the_Internet_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1362",
+      "paper_id": "",
+      "title": "VS-Net: Voting With Segmentation for Visual Localization",
+      "authors": "Zhaoyang Huang, Han Zhou, Yijin Li, Bangbang Yang, Yan Xu, Xiaowei Zhou, Hujun Bao, Guofeng Zhang, Hongsheng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_VS-Net_Voting_With_Segmentation_for_Visual_Localization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1272",
+      "paper_id": "",
+      "title": "Where We Are and What We're Looking At: Query Based Worldwide Image Geo-Localization Using Hierarchies and Scenes",
+      "authors": "Brandon Clark, Alec Kerrigan, Parth Parag Kulkarni, Vicente Vivanco Cepeda, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Clark_Where_We_Are_and_What_Were_Looking_At_Query_Based_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1152",
+      "paper_id": "",
+      "title": "Wide-Baseline Relative Camera Pose Estimation With Directional Learning",
+      "authors": "Kefan Chen, Noah Snavely, Ameesh Makadia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Wide-Baseline_Relative_Camera_Pose_Estimation_With_Directional_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_37",
+      "paper_id": "",
+      "title": "Wide-Depth-Range 6D Object Pose Estimation in Space",
+      "authors": "Yinlin Hu, Sebastien Speierer, Wenzel Jakob, Pascal Fua, Mathieu Salzmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Wide-Depth-Range_6D_Object_Pose_Estimation_in_Space_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_22",
+      "paper_id": "",
+      "title": "ZebraPose: Coarse To Fine Surface Encoding for 6DoF Object Pose Estimation",
+      "authors": "Yongzhi Su, Mahdi Saleh, Torben Fetzer, Jason Rambach, Nassir Navab, Benjamin Busam, Didier Stricker, Federico Tombari",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Su_ZebraPose_Coarse_To_Fine_Surface_Encoding_for_6DoF_Object_Pose_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2787",
+      "paper_id": "",
+      "title": "ZeroVO: Visual Odometry with Minimal Assumptions",
+      "authors": "Lei Lai, Zekai Yin, Eshed Ohn-Bar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_ZeroVO_Visual_Odometry_with_Minimal_Assumptions_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1513",
+      "paper_id": "",
+      "title": "ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds",
+      "authors": "Georg Bökman, Fredrik Kahl, Axel Flinth",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bokman_ZZ-Net_A_Universal_Rotation_Equivariant_Architecture_for_2D_Point_Clouds_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    }
+  ]
+}

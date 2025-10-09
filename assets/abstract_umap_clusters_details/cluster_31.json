@@ -1,0 +1,541 @@
+{
+  "cluster_id": 31,
+  "papers": [
+    {
+      "id": "corl23_nyY6UgXYyfF",
+      "paper_id": "nyY6UgXYyfF",
+      "title": "Adv3D: Generating Safety-Critical 3D Objects through Closed-Loop Simulation",
+      "authors": "Jay Sarva, Jingkang Wang, James Tu, Yuwen Xiong, Sivabalan Manivasagam, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=nyY6UgXYyfF",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_tmZsuYPmQ9m",
+      "paper_id": "tmZsuYPmQ9m",
+      "title": "Anomaly Detection in Multi-Agent Trajectories for Automated Driving",
+      "authors": "Julian Wiederer, Arij Bouazizi, Marco Troina, Ulrich Kressel, Vasileios Belagiannis",
+      "paper_url": "https://openreview.net/pdf?id=tmZsuYPmQ9m",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss24_20",
+      "paper_id": "20",
+      "title": "Blending Data-Driven Priors in Dynamic Games",
+      "authors": "Justin Lidard, Haimin Hu, Asher Hancock, Zixu Zhang, Albert Gimo Contreras, Vikash Modi, Jonathan DeCastro, Deepak Gopinath, Guy Rosman, Naomi Leonard, Maria Santos, Jaime Fernández FisacJustin Lidard, Haimin Hu, Asher Hancock, Zixu Zhang, Albert Gimo Contreras, Vikash Modi, Jonathan DeCastro, Deepak Gopinath, Guy Rosman, Naomi Leonard, Maria Santos, Jaime Fernández Fisac",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p020.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_Mp3Y5jd7rnW",
+      "paper_id": "Mp3Y5jd7rnW",
+      "title": "CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation",
+      "authors": "Jingkang Wang, Sivabalan Manivasagam, Yun Chen, Ze Yang, Ioan Andrei Bârsan, Anqi Joyce Yang, Wei-Chiu Ma, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=Mp3Y5jd7rnW",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_VtJqMs9ig20",
+      "paper_id": "VtJqMs9ig20",
+      "title": "CAT: Closed-loop Adversarial Training for Safe End-to-End Driving",
+      "authors": "Linrui Zhang, Zhenghao Peng, Quanyi Li, Bolei Zhou",
+      "paper_url": "https://openreview.net/pdf?id=VtJqMs9ig20",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_wyCdmAJJY1F",
+      "paper_id": "wyCdmAJJY1F",
+      "title": "CausalAF: Causal Autoregressive Flow for Safety-Critical Driving Scenario Generation",
+      "authors": "Wenhao Ding, Haohong Lin, Bo Li, Ding Zhao",
+      "paper_url": "https://openreview.net/pdf?id=wyCdmAJJY1F",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_101",
+      "paper_id": "101",
+      "title": "CCIL: Context-conditioned imitation learning for urban driving",
+      "authors": "Ke Guo (The University of Hong Kong)*, Wei Jing (Alibaba), Junbo Chen (Alibaba ), Jia Pan (The University of Hong Kong)Ke Guo (The University of Hong Kong)*, Wei Jing (Alibaba), Junbo Chen (Alibaba ), Jia Pan (The University of Hong Kong)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p101.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_aaY5fVFMVf",
+      "paper_id": "aaY5fVFMVf",
+      "title": "Conformal Prediction for Semantically-Aware Autonomous Perception in Urban Environments",
+      "authors": "Achref Doula, Tobias Güdelhöfer, Max Mühlhäuser, Alejandro Sanchez Guinea",
+      "paper_url": "https://openreview.net/pdf?id=aaY5fVFMVf",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_MfIUKzihC8",
+      "paper_id": "MfIUKzihC8",
+      "title": "CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning",
+      "authors": "Luke Rowe, Roger Girgis, Anthony Gosselin, Bruno Carrez, Florian Golemo, Felix Heide, Liam Paull, Christopher Pal",
+      "paper_url": "https://openreview.net/pdf?id=MfIUKzihC8",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_iM932PeUi_7",
+      "paper_id": "iM932PeUi_7",
+      "title": "Decentralized Data Collection for Robotic Fleet Learning: A Game-Theoretic Approach",
+      "authors": "Oguzhan Akcin, Po-han Li, Shubhankar Agarwal, Sandeep P. Chinchali",
+      "paper_url": "https://openreview.net/pdf?id=iM932PeUi_7",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_teEnA3L4aRe",
+      "paper_id": "teEnA3L4aRe",
+      "title": "DiffStack: A Differentiable and Modular Control Stack for Autonomous Vehicles",
+      "authors": "Peter Karkus, Boris Ivanovic, Shie Mannor, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=teEnA3L4aRe",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss24_76",
+      "paper_id": "76",
+      "title": "Dynamic Adversarial Attacks on Autonomous Driving Systems",
+      "authors": "Amirhosein Chahe, Chenan Wang, Abhishek Jeyapratap, Kaidi Xu, Lifeng ZhouAmirhosein Chahe, Chenan Wang, Abhishek Jeyapratap, Kaidi Xu, Lifeng Zhou",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p076.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_102",
+      "paper_id": "102",
+      "title": "Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors",
+      "authors": "Letian Wang (University of Toronto), Jie Liu (Beihang University), Hao Shao (Tsinghua University), Wenshuo Wang (McGill University), Ruobing Chen (Sensetime Group), Yu Liu (Sensetime Group)*, Steven L Waslander (University of Toronto)Letian Wang (University of Toronto), Jie Liu (Beihang University), Hao Shao (Tsinghua University), Wenshuo Wang (McGill University), Ruobing Chen (Sensetime Group), Yu Liu (Sensetime Group)*, Steven L Waslander (University of Toronto)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p102.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl22_cF1dxVGxic-",
+      "paper_id": "cF1dxVGxic-",
+      "title": "Embedding Synthetic Off-Policy Experience for Autonomous Driving via Zero-Shot Curricula",
+      "authors": "Eli Bronstein, Sirish Srinivasan, Supratik Paul, Aman Sinha, Matthew O'Kelly, Payam Nikdel, Shimon Whiteson",
+      "paper_url": "https://openreview.net/pdf?id=cF1dxVGxic-",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_Eyb4e3GBuuR",
+      "paper_id": "Eyb4e3GBuuR",
+      "title": "Energy-based Potential Games for Joint Motion Forecasting and Control",
+      "authors": "Christopher Diehl, Tobias Klosek, Martin Krueger, Nils Murzyn, Timo Osterburg, Torsten Bertram",
+      "paper_url": "https://openreview.net/pdf?id=Eyb4e3GBuuR",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_1IzW0aniyg",
+      "paper_id": "1IzW0aniyg",
+      "title": "EscIRL: Evolving Self-Contrastive IRL for Trajectory Prediction in Autonomous Driving",
+      "authors": "Siyue Wang, Zhaorun Chen, Zhuokai Zhao, Chaoli Mao, Yiyang Zhou, Jiayu He, Albert Sibo Hu",
+      "paper_url": "https://openreview.net/pdf?id=1IzW0aniyg",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_m5k1XdK5nI2",
+      "paper_id": "m5k1XdK5nI2",
+      "title": "Exploring Adversarial Robustness of Multi-sensor Perception Systems in Self Driving",
+      "authors": "James Tu, Huichen Li, Xinchen Yan, Mengye Ren, Yun Chen, Ming Liang, Eilyan Bitar, Ersin Yumer, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=m5k1XdK5nI2",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_low-53sFqn",
+      "paper_id": "low-53sFqn",
+      "title": "Fleet Active Learning: A Submodular Maximization Approach",
+      "authors": "Oguzhan Akcin, Orhan Unuvar, Onat Ure, Sandeep P. Chinchali",
+      "paper_url": "https://openreview.net/pdf?id=low-53sFqn",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_3bcujpPikC",
+      "paper_id": "3bcujpPikC",
+      "title": "FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality",
+      "authors": "Keyu Chen, Yuheng Lei, Hao Cheng, Haoran Wu, Wenchao Sun, Sifa Zheng",
+      "paper_url": "https://openreview.net/pdf?id=3bcujpPikC",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_HTfApPeT4DZ",
+      "paper_id": "HTfApPeT4DZ",
+      "title": "Generating Scenarios with Diverse Pedestrian Behaviors for Autonomous Vehicle Testing",
+      "authors": "Maria Priisalu, Aleksis Pirinen, Ciprian Paduraru, Cristian Sminchisescu",
+      "paper_url": "https://openreview.net/pdf?id=HTfApPeT4DZ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_4uFVn6WHyzo",
+      "paper_id": "4uFVn6WHyzo",
+      "title": "Generating Transferable Adversarial Simulation Scenarios for Self-Driving via Neural Rendering",
+      "authors": "Yasasa Abeysirigoonawardena, Kevin Xie, Chuhan Chen, Salar Hosseini Khorasgani, Ruiting Chen, Ruiqi Wang, Florian Shkurti",
+      "paper_url": "https://openreview.net/pdf?id=4uFVn6WHyzo",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_30",
+      "paper_id": "30",
+      "title": "Inferring Objectives in Continuous Dynamic Games from Noise-Corrupted Partial State Observations",
+      "authors": "Lasse Peters (University of Bonn), David  Fridovich-Keil (Stanford University), Vicenç Rubies Royo (UC Berkeley), Claire Tomlin (UC Berkeley), Cyrill Stachniss (University of Bonn)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p030.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_EvuAJ0wD98",
+      "paper_id": "EvuAJ0wD98",
+      "title": "Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning",
+      "authors": "Xiyang Wu, Rohan Chandra, Tianrui Guan, Amrit Bedi, Dinesh Manocha",
+      "paper_url": "https://openreview.net/pdf?id=EvuAJ0wD98",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_fnaMlJbRc4t",
+      "paper_id": "fnaMlJbRc4t",
+      "title": "Interpretable Self-Aware Neural Networks for Robust Trajectory Prediction",
+      "authors": "Masha Itkina, Mykel Kochenderfer",
+      "paper_url": "https://openreview.net/pdf?id=fnaMlJbRc4t",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_2CSj965d9O4",
+      "paper_id": "2CSj965d9O4",
+      "title": "Is Anyone There? Learning a Planner Contingent on Perceptual Uncertainty",
+      "authors": "Charles Packer, Nicholas Rhinehart, Rowan Thomas McAllister, Matthew A. Wright, Xin Wang, Jeff He, Sergey Levine, Joseph E. Gonzalez",
+      "paper_url": "https://openreview.net/pdf?id=2CSj965d9O4",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_Y42uoIekm5b",
+      "paper_id": "Y42uoIekm5b",
+      "title": "JFP: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving",
+      "authors": "Wenjie Luo, Cheol Park, Andre Cornman, Benjamin Sapp, Dragomir Anguelov",
+      "paper_url": "https://openreview.net/pdf?id=Y42uoIekm5b",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_OznnnxPLiH",
+      "paper_id": "OznnnxPLiH",
+      "title": "JointMotion: Joint Self-Supervision for Joint Motion Prediction",
+      "authors": "Royden Wagner, Omer Sahin Tas, Marvin Klemp, Carlos Fernandez",
+      "paper_url": "https://openreview.net/pdf?id=OznnnxPLiH",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_xQ8rr3-zpiH",
+      "paper_id": "xQ8rr3-zpiH",
+      "title": "Just Label What You Need: Fine-Grained Active Selection for P&P through Partially Labeled Scenes",
+      "authors": "Sean Segal, Nishanth Kumar, Sergio Casas, Wenyuan Zeng, Mengye Ren, Jingkang Wang, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=xQ8rr3-zpiH",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_PK2debCKaG",
+      "paper_id": "PK2debCKaG",
+      "title": "Language Conditioned Traffic Generation",
+      "authors": "Shuhan Tan, Boris Ivanovic, Xinshuo Weng, Marco Pavone, Philipp Kraehenbuehl",
+      "paper_url": "https://openreview.net/pdf?id=PK2debCKaG",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_nKWQnYkkwX",
+      "paper_id": "nKWQnYkkwX",
+      "title": "Language-Guided Traffic Simulation via Scene-Level Diffusion",
+      "authors": "Ziyuan Zhong, Davis Rempe, Yuxiao Chen, Boris Ivanovic, Yulong Cao, Danfei Xu, Marco Pavone, Baishakhi Ray",
+      "paper_url": "https://openreview.net/pdf?id=nKWQnYkkwX",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_u4QXJbcvx8u",
+      "paper_id": "u4QXJbcvx8u",
+      "title": "Laplace Approximation Based Epistemic Uncertainty Estimation in 3D Object Detection",
+      "authors": "Peng Yun, Ming Liu",
+      "paper_url": "https://openreview.net/pdf?id=u4QXJbcvx8u",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_DE8rdNuGj_7",
+      "paper_id": "DE8rdNuGj_7",
+      "title": "LEADER: Learning Attention over Driving Behaviors for Planning under Uncertainty",
+      "authors": "Mohamad Hosein Danesh, Panpan Cai, David Hsu",
+      "paper_url": "https://openreview.net/pdf?id=DE8rdNuGj_7",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss22_51",
+      "paper_id": "51",
+      "title": "Learning Mixed Strategies in Trajectory Games",
+      "authors": "Lasse Peters (Delft University of Technology), David Fridovich-Keil (Stanford University), Laura Ferranti (Delft University of Technology), Cyrill Stachniss (University of Bonn), Javier Alonso-Mora (Delft University of Technology), Forrest J Laine (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p051.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23_yobahDU4HPP",
+      "paper_id": "yobahDU4HPP",
+      "title": "Learning Realistic Trafﬁc Agents in Closed-loop",
+      "authors": "Chris Zhang, James Tu, Lunjun Zhang, Kelvin Wong, Simon Suo, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=yobahDU4HPP",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_DLkubm-dq-y",
+      "paper_id": "DLkubm-dq-y",
+      "title": "Learning Road Scene-level Representations via Semantic Region Prediction",
+      "authors": "Zihao Xiao, Alan Yuille, Yi-Ting Chen",
+      "paper_url": "https://openreview.net/pdf?id=DLkubm-dq-y",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_6a4sECAMCA",
+      "paper_id": "6a4sECAMCA",
+      "title": "Learning to Drive Anywhere",
+      "authors": "Ruizhao Zhu, Peng Huang, Eshed Ohn-Bar, Venkatesh Saligrama",
+      "paper_url": "https://openreview.net/pdf?id=6a4sECAMCA",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_GhMZNcr54zt",
+      "paper_id": "GhMZNcr54zt",
+      "title": "Learning to Predict Vehicle Trajectories with Model-based Planning",
+      "authors": "Haoran Song, Di Luan, Wenchao Ding, Michael Y Wang, Qifeng Chen",
+      "paper_url": "https://openreview.net/pdf?id=GhMZNcr54zt",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_MwZJ96Okl3",
+      "paper_id": "MwZJ96Okl3",
+      "title": "Modeling Drivers’ Situational Awareness from Eye Gaze for Driving Assistance",
+      "authors": "Abhijat Biswas, Pranay Gupta, Shreeya Khurana, David Held, Henny Admoni",
+      "paper_url": "https://openreview.net/pdf?id=MwZJ96Okl3",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_4u25M570Iji",
+      "paper_id": "4u25M570Iji",
+      "title": "Motion Forecasting with Unlikelihood Training in Continuous Space",
+      "authors": "Deyao Zhu, Mohamed Zahran, Li Erran Li, Mohamed Elhoseiny",
+      "paper_url": "https://openreview.net/pdf?id=4u25M570Iji",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_tVgD4METs6o",
+      "paper_id": "tVgD4METs6o",
+      "title": "Motion Style Transfer: Modular Low-Rank Adaptation for Deep Motion Forecasting",
+      "authors": "Parth Kothari, Danya Li, Yuejiang Liu, Alexandre Alahi",
+      "paper_url": "https://openreview.net/pdf?id=tVgD4METs6o",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_lAtePxetBNb",
+      "paper_id": "lAtePxetBNb",
+      "title": "Multi-Agent Trajectory Prediction by Combining Egocentric and Allocentric Views",
+      "authors": "Xiaosong Jia, Liting Sun, Hang Zhao, Masayoshi Tomizuka, Wei Zhan",
+      "paper_url": "https://openreview.net/pdf?id=lAtePxetBNb",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_MF_cS7TCYk",
+      "paper_id": "MF_cS7TCYk",
+      "title": "Multi-Predictor Fusion: Combining Learning-based and Rule-based Trajectory Predictors",
+      "authors": "Sushant Veer, Apoorva Sharma, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=MF_cS7TCYk",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_X3OfR3axX4",
+      "paper_id": "X3OfR3axX4",
+      "title": "Multi-Transmotion: Pre-trained Model for Human Motion Prediction",
+      "authors": "Yang Gao, Po-Chien Luan, Alexandre Alahi",
+      "paper_url": "https://openreview.net/pdf?id=X3OfR3axX4",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_hu7b7MPCqiC",
+      "paper_id": "hu7b7MPCqiC",
+      "title": "Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals",
+      "authors": "Nachiket Deo, Eric Wolff, Oscar Beijbom",
+      "paper_url": "https://openreview.net/pdf?id=hu7b7MPCqiC",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_37",
+      "paper_id": "37",
+      "title": "On complementing end-to-end human behavior predictors with planning",
+      "authors": "Liting  Sun (UC Berkeley), Xiaogang Jia (UC Berkeley), Anca Dragan (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p037.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_o82EXEK5hu6",
+      "paper_id": "o82EXEK5hu6",
+      "title": "Parting with Misconceptions about Learning-based Vehicle Motion Planning",
+      "authors": "Daniel Dauner, Marcel Hallgarten, Andreas Geiger, Kashyap Chitta",
+      "paper_url": "https://openreview.net/pdf?id=o82EXEK5hu6",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_pVSaWTgDmCu",
+      "paper_id": "pVSaWTgDmCu",
+      "title": "Planning Paths through Occlusions in Urban Environments",
+      "authors": "Yutao Han, Youya Xia, Guo-Jun Qi, Mark Campbell",
+      "paper_url": "https://openreview.net/pdf?id=pVSaWTgDmCu",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_80vpxjt3vq",
+      "paper_id": "80vpxjt3vq",
+      "title": "PlanT: Explainable Planning Transformers via Object-Level Representations",
+      "authors": "Katrin Renz, Kashyap Chitta, Otniel-Bogdan Mercea, A. Sophia Koepke, Zeynep Akata, Andreas Geiger",
+      "paper_url": "https://openreview.net/pdf?id=80vpxjt3vq",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_84",
+      "paper_id": "84",
+      "title": "Potential iLQR: A Potential-Minimizing Controller for Planning Multi-Agent Interactive Trajectories",
+      "authors": "Talha Kavuncu (UIUC), Ayberk Yaraneri (UIUC), Negar Mehr (UIUC)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p084.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_5iXG6EgByK",
+      "paper_id": "5iXG6EgByK",
+      "title": "Promptable Closed-loop Traffic Simulation",
+      "authors": "Shuhan Tan, Boris Ivanovic, Yuxiao Chen, Boyi Li, Xinshuo Weng, Yulong Cao, Philipp Kraehenbuehl, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=5iXG6EgByK",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_bftFwjSJxk",
+      "paper_id": "bftFwjSJxk",
+      "title": "Rate-Informed Discovery via Bayesian Adaptive Multifidelity Sampling",
+      "authors": "Aman Sinha, Payam Nikdel, Supratik Paul, Shimon Whiteson",
+      "paper_url": "https://openreview.net/pdf?id=bftFwjSJxk",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss21_49",
+      "paper_id": "49",
+      "title": "Resolving Conflict in Decision-Making for Autonomous Driving",
+      "authors": "Jack Geary (University of Edinburgh), Subramanian Ramamoorthy (University of Edinburgh), Henry Gouk (University of Edinburgh)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p049.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_uhhA2OryTjj",
+      "paper_id": "uhhA2OryTjj",
+      "title": "Robust Trajectory Prediction against Adversarial Attacks",
+      "authors": "Yulong Cao, Danfei Xu, Xinshuo Weng, Zhuoqing Mao, Anima Anandkumar, Chaowei Xiao, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=uhhA2OryTjj",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_66",
+      "paper_id": "66",
+      "title": "Safe Occlusion-Aware Autonomous Driving via Game-Theoretic Active Perception",
+      "authors": "Zixu Zhang (Princeton University), Jaime F Fisac (Princeton University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p066.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_qzMY915hCYX",
+      "paper_id": "qzMY915hCYX",
+      "title": "Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer",
+      "authors": "Hao Shao, Letian Wang, Ruobing Chen, Hongsheng Li, Yu Liu",
+      "paper_url": "https://openreview.net/pdf?id=qzMY915hCYX",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_eyxfGTFZbNQ",
+      "paper_id": "eyxfGTFZbNQ",
+      "title": "Sim-to-Real via Sim-to-Seg: End-to-end Off-road Autonomous Driving Without Real Data",
+      "authors": "John So, Amber Xie, Sunggoo Jung, Jeffrey Edlund, Rohan Thakker, Ali-akbar Agha-mohammadi, Pieter Abbeel, Stephen James",
+      "paper_url": "https://openreview.net/pdf?id=eyxfGTFZbNQ",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_KXkzplx6H2K",
+      "paper_id": "KXkzplx6H2K",
+      "title": "Socially-Attentive Policy Optimization in Multi-Agent Self-Driving System",
+      "authors": "Zipeng Dai, Tianze Zhou, Kun Shao, David Henry Mguni, Bin Wang, Jianye HAO",
+      "paper_url": "https://openreview.net/pdf?id=KXkzplx6H2K",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_fXMV2CEwNVo",
+      "paper_id": "fXMV2CEwNVo",
+      "title": "SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving",
+      "authors": "Prarthana Bhattacharyya, Chengjie Huang, Krzysztof Czarnecki",
+      "paper_url": "https://openreview.net/pdf?id=fXMV2CEwNVo",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_fSmkKmWM5Ry",
+      "paper_id": "fSmkKmWM5Ry",
+      "title": "Stochastic Occupancy Grid Map Prediction in Dynamic Scenes",
+      "authors": "Zhanteng Xie, Philip Dames",
+      "paper_url": "https://openreview.net/pdf?id=fSmkKmWM5Ry",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_100",
+      "paper_id": "100",
+      "title": "Task-Aware Risk Estimation of Perception Failures for Autonomous Vehicles",
+      "authors": "Pasquale Antonante (Massachusetts Institute of Technology)*, Sushant Veer (NVIDIA), Karen Leung (NVIDIA), Xinshuo Weng (NVIDIA), Luca Carlone (Massachusetts Institute of Technology), Marco Pavone (NVIDIA)Pasquale Antonante (Massachusetts Institute of Technology)*, Sushant Veer (NVIDIA), Karen Leung (NVIDIA), Xinshuo Weng (NVIDIA), Luca Carlone (Massachusetts Institute of Technology), Marco Pavone (NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p100.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl22_oPRhm0Aben_",
+      "paper_id": "oPRhm0Aben_",
+      "title": "Task-Relevant Failure Detection for Trajectory Predictors in Autonomous Vehicles",
+      "authors": "Alec Farid, Sushant Veer, Boris Ivanovic, Karen Leung, Marco Pavone",
+      "paper_url": "https://openreview.net/pdf?id=oPRhm0Aben_",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_PZiKO7mjC43",
+      "paper_id": "PZiKO7mjC43",
+      "title": "Towards Capturing the Temporal Dynamics for Trajectory Prediction: a Coarse-to-Fine Approach",
+      "authors": "Xiaosong Jia, Li Chen, Penghao Wu, Jia Zeng, Junchi Yan, Hongyang Li, Yu Qiao",
+      "paper_url": "https://openreview.net/pdf?id=PZiKO7mjC43",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_Q9ezhChqnL",
+      "paper_id": "Q9ezhChqnL",
+      "title": "Towards Scalable Coverage-Based Testing of Autonomous Vehicles",
+      "authors": "James Tu, Simon Suo, Chris Zhang, Kelvin Wong, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=Q9ezhChqnL",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_TgJ8vJUVUBR",
+      "paper_id": "TgJ8vJUVUBR",
+      "title": "TraCo: Learning Virtual Traffic Coordinator for Cooperation with Multi-Agent Reinforcement Learning",
+      "authors": "Weiwei Liu, Wei Jing, lingping Gao, Ke Guo, Gang Xu, Yong Liu",
+      "paper_url": "https://openreview.net/pdf?id=TgJ8vJUVUBR",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_LiwdXkMsDv",
+      "paper_id": "LiwdXkMsDv",
+      "title": "Uncertainty-Aware Decision Transformer for Stochastic Driving Environments",
+      "authors": "Zenan Li, Fan Nie, Qiao Sun, Fang Da, Hang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=LiwdXkMsDv",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_ibktAcINCaj",
+      "paper_id": "ibktAcINCaj",
+      "title": "Urban Driver: Learning to Drive from Real-world Demonstrations Using Policy Gradients",
+      "authors": "Oliver Scheel, Luca Bergamini, Maciej Wolczyk, Błażej Osiński, Peter Ondruska",
+      "paper_url": "https://openreview.net/pdf?id=ibktAcINCaj",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss24_116",
+      "paper_id": "116",
+      "title": "Who Plays First? Optimizing the Order of Play in Stackelberg Games with Many Robots",
+      "authors": "Haimin Hu, Gabriele Dragotto, Zixu Zhang, Kaiqu Liang, Bartolomeo Stellato, Jaime Fernández FisacHaimin Hu, Gabriele Dragotto, Zixu Zhang, Kaiqu Liang, Bartolomeo Stellato, Jaime Fernández Fisac",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p116.pdf",
+      "venue": "rss24"
+    }
+  ]
+}

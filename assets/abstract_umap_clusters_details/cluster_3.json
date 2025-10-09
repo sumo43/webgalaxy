@@ -1,0 +1,2437 @@
+{
+  "cluster_id": 3,
+  "papers": [
+    {
+      "id": "cvpr21_986",
+      "paper_id": "",
+      "title": "A Fourier-Based Framework for Domain Generalization",
+      "authors": "Qinwei Xu, Ruipeng Zhang, Ya Zhang, Yanfeng Wang, Qi Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_A_Fourier-Based_Framework_for_Domain_Generalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1190",
+      "paper_id": "",
+      "title": "A Probabilistic Framework for Lifelong Test-Time Adaptation",
+      "authors": "Dhanajit Brahma, Piyush Rai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Brahma_A_Probabilistic_Framework_for_Lifelong_Test-Time_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1831",
+      "paper_id": "",
+      "title": "A Simple Episodic Linear Probe Improves Visual Recognition in the Wild",
+      "authors": "Yuanzhi Liang, Linchao Zhu, Xiaohan Wang, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_A_Simple_Episodic_Linear_Probe_Improves_Visual_Recognition_in_the_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_331",
+      "paper_id": "",
+      "title": "A Simple Recipe for Language-guided Domain Generalized Segmentation",
+      "authors": "Mohammad Fahes, Tuan-Hung Vu, Andrei Bursuc, Patrick Pérez, Raoul de Charette",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fahes_A_Simple_Recipe_for_Language-guided_Domain_Generalized_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2226",
+      "paper_id": "",
+      "title": "A Strong Baseline for Generalized Few-Shot Semantic Segmentation",
+      "authors": "Sina Hajimiri, Malik Boudiaf, Ismail Ben Ayed, Jose Dolz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hajimiri_A_Strong_Baseline_for_Generalized_Few-Shot_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_95",
+      "paper_id": "",
+      "title": "A Theory of Learning Unified Model via Knowledge Integration from Label Space Varying Domains",
+      "authors": "Dexuan Zhang, Thomas Westfechtel, Tatsuya Harada",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_A_Theory_of_Learning_Unified_Model_via_Knowledge_Integration_from_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_675",
+      "paper_id": "",
+      "title": "A Unified Framework for Heterogeneous Semi-supervised Learning",
+      "authors": "Marzi Heidari, Abdullah Alchihabi, Hao Yan, Yuhong Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Heidari_A_Unified_Framework_for_Heterogeneous_Semi-supervised_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1491",
+      "paper_id": "",
+      "title": "A Versatile Framework for Continual Test-Time Domain Adaptation: Balancing Discriminability and Generalizability",
+      "authors": "Xu Yang, Xuan Chen, Moqi Li, Kun Wei, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Versatile_Framework_for_Continual_Test-Time_Domain_Adaptation_Balancing_Discriminability_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1061",
+      "paper_id": "",
+      "title": "A2XP: Towards Private Domain Generalization",
+      "authors": "Geunhyeok Yu, Hyoseok Hwang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_A2XP_Towards_Private_Domain_Generalization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1063",
+      "paper_id": "",
+      "title": "Active Domain Adaptation with False Negative Prediction for Object Detection",
+      "authors": "Yuzuru Nakamura, Yasunori Ishii, Takayoshi Yamashita",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Nakamura_Active_Domain_Adaptation_with_False_Negative_Prediction_for_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2072",
+      "paper_id": "",
+      "title": "ActMAD: Activation Matching To Align Distributions for Test-Time-Training",
+      "authors": "Muhammad Jehanzeb Mirza, Pol Jané Soneira, Wei Lin, Mateusz Kozinski, Horst Possegger, Horst Bischof",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mirza_ActMAD_Activation_Matching_To_Align_Distributions_for_Test-Time-Training_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_839",
+      "paper_id": "",
+      "title": "Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation",
+      "authors": "Jonas Herzog",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Herzog_Adapt_Before_Comparison_A_New_Perspective_on_Cross-Domain_Few-Shot_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1333",
+      "paper_id": "",
+      "title": "Adaptive Methods for Real-World Domain Generalization",
+      "authors": "Abhimanyu Dubey, Vignesh Ramanathan, Alex Pentland, Dhruv Mahajan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1505",
+      "paper_id": "",
+      "title": "ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation",
+      "authors": "Seunghun Lee, Wonhyeok Choi, Changjae Kim, Minwoo Choi, Sunghoon Im",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_ADAS_A_Direct_Adaptation_Strategy_for_Multi-Target_Domain_Adaptive_Semantic_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1025",
+      "paper_id": "",
+      "title": "Addressing Background Context Bias in Few-Shot Segmentation through Iterative Modulation",
+      "authors": "Lanyun Zhu, Tianrun Chen, Jianxiong Yin, Simon See, Jun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Addressing_Background_Context_Bias_in_Few-Shot_Segmentation_through_Iterative_Modulation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1559",
+      "paper_id": "",
+      "title": "ADeLA: Automatic Dense Labeling With Attention for Viewpoint Shift in Semantic Segmentation",
+      "authors": "Hanxiang Ren, Yanchao Yang, He Wang, Bokui Shen, Qingnan Fan, Youyi Zheng, C. Karen Liu, Leonidas J. Guibas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_ADeLA_Automatic_Dense_Labeling_With_Attention_for_Viewpoint_Shift_in_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_766",
+      "paper_id": "",
+      "title": "Adjustment and Alignment for Unbiased Open Set Domain Adaptation",
+      "authors": "Wuyang Li, Jie Liu, Bo Han, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2653",
+      "paper_id": "",
+      "title": "ADU: Adaptive Detection of Unknown Categories in Black-Box Domain Adaptation",
+      "authors": "Yushan Lai, Guowen Li, Haoyuan Liang, Juepeng Zheng, Zhiyu Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_ADU_Adaptive_Detection_of_Unknown_Categories_in_Black-Box_Domain_Adaptation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_492",
+      "paper_id": "",
+      "title": "Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization",
+      "authors": "Zhipeng Xu, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_971",
+      "paper_id": "",
+      "title": "Adversarially Adaptive Normalization for Single Domain Generalization",
+      "authors": "Xinjie Fan, Qifei Wang, Junjie Ke, Feng Yang, Boqing Gong, Mingyuan Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1498",
+      "paper_id": "",
+      "title": "AETTA: Label-Free Accuracy Estimation for Test-Time Adaptation",
+      "authors": "Taeckyung Lee, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_AETTA_Label-Free_Accuracy_Estimation_for_Test-Time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1960",
+      "paper_id": "",
+      "title": "ALOFT: A Lightweight MLP-Like Architecture With Dynamic Low-Frequency Transform for Domain Generalization",
+      "authors": "Jintao Guo, Na Wang, Lei Qi, Yinghuan Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_ALOFT_A_Lightweight_MLP-Like_Architecture_With_Dynamic_Low-Frequency_Transform_for_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1092",
+      "paper_id": "",
+      "title": "Anchor-based Robust Finetuning of Vision-Language Models",
+      "authors": "Jinwei Han, Zhiwen Lin, Zhongyisun Sun, Yingguo Gao, Ke Yan, Shouhong Ding, Yuan Gao, Gui-Song Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Han_Anchor-based_Robust_Finetuning_of_Vision-Language_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_992",
+      "paper_id": "",
+      "title": "Anti-Aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation",
+      "authors": "Binghao Liu, Yao Ding, Jianbin Jiao, Xiangyang Ji, Qixiang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Anti-Aliasing_Semantic_Reconstruction_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_383",
+      "paper_id": "",
+      "title": "APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation",
+      "authors": "Weizhao He, Yang Zhang, Wei Zhuo, Linlin Shen, Jiaqi Yang, Songhe Deng, Liang Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/He_APSeg_Auto-Prompt_Network_for_Cross-Domain_Few-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2127",
+      "paper_id": "",
+      "title": "AsyFOD: An Asymmetric Adaptation Paradigm for Few-Shot Domain Adaptive Object Detection",
+      "authors": "Yipeng Gao, Kun-Yu Lin, Junkai Yan, Yaowei Wang, Wei-Shi Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_AsyFOD_An_Asymmetric_Adaptation_Paradigm_for_Few-Shot_Domain_Adaptive_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_435",
+      "paper_id": "",
+      "title": "AutoLabel: CLIP-Based Framework for Open-Set Video Domain Adaptation",
+      "authors": "Giacomo Zara, Subhankar Roy, Paolo Rota, Elisa Ricci",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zara_AutoLabel_CLIP-Based_Framework_for_Open-Set_Video_Domain_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1333",
+      "paper_id": "",
+      "title": "Back to the Source: Diffusion-Driven Adaptation To Test-Time Corruption",
+      "authors": "Jin Gao, Jialing Zhang, Xihui Liu, Trevor Darrell, Evan Shelhamer, Dequan Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Back_to_the_Source_Diffusion-Driven_Adaptation_To_Test-Time_Corruption_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1083",
+      "paper_id": "",
+      "title": "Backpropagation-free Network for 3D Test-time Adaptation",
+      "authors": "Yanshuo Wang, Ali Cheraghian, Zeeshan Hayder, Jie Hong, Sameera Ramasinghe, Shafin Rahman, David Ahmedt-Aristizabal, Xuesong Li, Lars Petersson, Mehrtash Harandi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Backpropagation-free_Network_for_3D_Test-time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_147",
+      "paper_id": "",
+      "title": "Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization",
+      "authors": "Xiran Wang, Jian Zhang, Lei Qi, Yinghuan Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Balanced_Direction_from_Multifarious_Choices_Arithmetic_Meta-Learning_for_Domain_Generalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1143",
+      "paper_id": "",
+      "title": "Benchmarking Object Detectors under Real-World Distribution Shifts in Satellite Imagery",
+      "authors": "Sara A. Al-Emadi, Yin Yang, Ferda Ofli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Al-Emadi_Benchmarking_Object_Detectors_under_Real-World_Distribution_Shifts_in_Satellite_Imagery_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1485",
+      "paper_id": "",
+      "title": "BoosterNet: Improving Domain Generalization of Deep Neural Nets Using Culpability-Ranked Features",
+      "authors": "Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bayasi_BoosterNet_Improving_Domain_Generalization_of_Deep_Neural_Nets_Using_Culpability-Ranked_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1921",
+      "paper_id": "",
+      "title": "Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation",
+      "authors": "Xu Zheng, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_842",
+      "paper_id": "",
+      "title": "C-SFDA: A Curriculum Learning Aided Self-Training Framework for Efficient Source Free Domain Adaptation",
+      "authors": "Nazmul Karim, Niluthpol Chowdhury Mithun, Abhinav Rajvanshi, Han-pang Chiu, Supun Samarasekera, Nazanin Rahnavard",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Karim_C-SFDA_A_Curriculum_Learning_Aided_Self-Training_Framework_for_Efficient_Source_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_40",
+      "paper_id": "",
+      "title": "CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection",
+      "authors": "Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, Robby T. Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kennerley_CAT_Exploiting_Inter-Class_Dynamics_for_Domain_Adaptive_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_225",
+      "paper_id": "",
+      "title": "Category Contrast for Unsupervised Domain Adaptation in Visual Tasks",
+      "authors": "Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu, Ling Shao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Category_Contrast_for_Unsupervised_Domain_Adaptation_in_Visual_Tasks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_745",
+      "paper_id": "",
+      "title": "Causality Inspired Representation Learning for Domain Generalization",
+      "authors": "Fangrui Lv, Jian Liang, Shuang Li, Bin Zang, Chi Harold Liu, Ziteng Wang, Di Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lv_Causality_Inspired_Representation_Learning_for_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2175",
+      "paper_id": "",
+      "title": "CIGAR: Cross-Modality Graph Reasoning for Domain Adaptive Object Detection",
+      "authors": "Yabo Liu, Jinghua Wang, Chao Huang, Yaowei Wang, Yong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_CIGAR_Cross-Modality_Graph_Reasoning_for_Domain_Adaptive_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1657",
+      "paper_id": "",
+      "title": "Class Relationship Embedded Learning for Source-Free Unsupervised Domain Adaptation",
+      "authors": "Yixin Zhang, Zilei Wang, Weinan He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Class_Relationship_Embedded_Learning_for_Source-Free_Unsupervised_Domain_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1902",
+      "paper_id": "",
+      "title": "Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation",
+      "authors": "Ruihuang Li, Shuai Li, Chenhang He, Yabin Zhang, Xu Jia, Lei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Class-Balanced_Pixel-Level_Self-Labeling_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_338",
+      "paper_id": "",
+      "title": "CLIP the Gap: A Single Domain Generalization Approach for Object Detection",
+      "authors": "Vidit Vidit, Martin Engilberge, Mathieu Salzmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Vidit_CLIP_the_Gap_A_Single_Domain_Generalization_Approach_for_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1190",
+      "paper_id": "",
+      "title": "CLIP-driven Coarse-to-fine Semantic Guidance for Fine-grained Open-set Semi-supervised Learning",
+      "authors": "Xiaokun Li, Yaping Huang, Qingji Guan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CLIP-driven_Coarse-to-fine_Semantic_Guidance_for_Fine-grained_Open-set_Semi-supervised_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2046",
+      "paper_id": "",
+      "title": "Cloud-Device Collaborative Adaptation to Continual Changing Environments in the Real-World",
+      "authors": "Yulu Gan, Mingjie Pan, Rongyu Zhang, Zijian Ling, Lingran Zhao, Jiaming Liu, Shanghang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Cloud-Device_Collaborative_Adaptation_to_Continual_Changing_Environments_in_the_Real-World_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_138",
+      "paper_id": "",
+      "title": "Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation",
+      "authors": "Rui Gong, Yuhua Chen, Danda Pani Paudel, Yawei Li, Ajad Chhatkuli, Wen Li, Dengxin Dai, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_Cluster_Split_Fuse_and_Update_Meta-Learning_for_Open_Compound_Domain_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1262",
+      "paper_id": "",
+      "title": "Coarse-To-Fine Domain Adaptive Semantic Segmentation With Photometric Alignment and Category-Center Regularization",
+      "authors": "Haoyu Ma, Xiangru Lin, Zifeng Wu, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Coarse-To-Fine_Domain_Adaptive_Semantic_Segmentation_With_Photometric_Alignment_and_Category-Center_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_891",
+      "paper_id": "",
+      "title": "Collaborating Foundation Models for Domain Generalized Semantic Segmentation",
+      "authors": "Yasser Benigmim, Subhankar Roy, Slim Essid, Vicky Kalogeiton, Stéphane Lathuilière",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Benigmim_Collaborating_Foundation_Models_for_Domain_Generalized_Semantic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1805",
+      "paper_id": "",
+      "title": "Compound Domain Generalization via Meta-Knowledge Encoding",
+      "authors": "Chaoqi Chen, Jiongcheng Li, Xiaoguang Han, Xiaoqing Liu, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Compound_Domain_Generalization_via_Meta-Knowledge_Encoding_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_256",
+      "paper_id": "",
+      "title": "Conditional Bures Metric for Domain Adaptation",
+      "authors": "You-Wei Luo, Chuan-Xian Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_881",
+      "paper_id": "",
+      "title": "Continual Test-Time Domain Adaptation",
+      "authors": "Qin Wang, Olga Fink, Luc Van Gool, Dengxin Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Test-Time_Domain_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1303",
+      "paper_id": "",
+      "title": "Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation",
+      "authors": "Jiaming Liu, Ran Xu, Senqiao Yang, Renrui Zhang, Qizhe Zhang, Zehui Chen, Yandong Guo, Shanghang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Continual-MAE_Adaptive_Distribution_Masked_Autoencoders_for_Continual_Test-Time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2314",
+      "paper_id": "",
+      "title": "Continuous Pseudo-Label Rectified Domain Adaptive Semantic Segmentation With Implicit Neural Representations",
+      "authors": "Rui Gong, Qin Wang, Martin Danelljan, Dengxin Dai, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gong_Continuous_Pseudo-Label_Rectified_Domain_Adaptive_Semantic_Segmentation_With_Implicit_Neural_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1367",
+      "paper_id": "",
+      "title": "Contrastive Mean Teacher for Domain Adaptive Object Detectors",
+      "authors": "Shengcao Cao, Dhiraj Joshi, Liang-Yan Gui, Yu-Xiong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Contrastive_Mean_Teacher_for_Domain_Adaptive_Object_Detectors_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1100",
+      "paper_id": "",
+      "title": "Contrastive Test-Time Adaptation",
+      "authors": "Dian Chen, Dequan Wang, Trevor Darrell, Sayna Ebrahimi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Contrastive_Test-Time_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_389",
+      "paper_id": "",
+      "title": "COT: Unsupervised Domain Adaptation With Clustering and Optimal Transport",
+      "authors": "Yang Liu, Zhipeng Zhou, Baigui Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_COT_Unsupervised_Domain_Adaptation_With_Clustering_and_Optimal_Transport_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1427",
+      "paper_id": "",
+      "title": "Cross Domain Object Detection by Target-Perceived Dual Branch Distillation",
+      "authors": "Mengzhe He, Yali Wang, Jiaxi Wu, Yiru Wang, Hanqing Li, Bo Li, Weihao Gan, Wei Wu, Yu Qiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/He_Cross_Domain_Object_Detection_by_Target-Perceived_Dual_Branch_Distillation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_827",
+      "paper_id": "",
+      "title": "Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation",
+      "authors": "Jichang Li, Guanbin Li, Yemin Shi, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Cross-Domain_Adaptive_Clustering_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1900",
+      "paper_id": "",
+      "title": "Cross-Domain Adaptive Teacher for Object Detection",
+      "authors": "Yu-Jhe Li, Xiaoliang Dai, Chih-Yao Ma, Yen-Cheng Liu, Kan Chen, Bichen Wu, Zijian He, Kris Kitani, Peter Vajda",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Domain_Adaptive_Teacher_for_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1109",
+      "paper_id": "",
+      "title": "Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining",
+      "authors": "Jiahao Nie, Yun Xing, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-Peng Tan, Alex C. Kot, Shijian Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Nie_Cross-Domain_Few-Shot_Segmentation_via_Iterative_Support-Query_Correspondence_Mining_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1115",
+      "paper_id": "",
+      "title": "Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation",
+      "authors": "Zhekai Du, Jingjing Li, Hongzu Su, Lei Zhu, Ke Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Du_Cross-Domain_Gradient_Discrepancy_Minimization_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_800",
+      "paper_id": "",
+      "title": "Cross-View Regularization for Domain Adaptive Panoptic Segmentation",
+      "authors": "Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Cross-View_Regularization_for_Domain_Adaptive_Panoptic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2198",
+      "paper_id": "",
+      "title": "Crossing the Gap: Domain Generalization for Image Captioning",
+      "authors": "Yuchen Ren, Zhendong Mao, Shancheng Fang, Yan Lu, Tong He, Hao Du, Yongdong Zhang, Wanli Ouyang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Crossing_the_Gap_Domain_Generalization_for_Image_Captioning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1293",
+      "paper_id": "",
+      "title": "Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation",
+      "authors": "Subhankar Roy, Evgeny Krivosheev, Zhun Zhong, Nicu Sebe, Elisa Ricci",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Roy_Curriculum_Graph_Co-Teaching_for_Multi-Target_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_999",
+      "paper_id": "",
+      "title": "D3T: Distinctive Dual-Domain Teacher Zigzagging Across RGB-Thermal Gap for Domain-Adaptive Object Detection",
+      "authors": "Dinh Phat Do, Taehoon Kim, Jaemin Na, Jiwon Kim, Keonho Lee, Kyunghwan Cho, Wonjun Hwang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Phat_D3T_Distinctive_Dual-Domain_Teacher_Zigzagging_Across_RGB-Thermal_Gap_for_Domain-Adaptive_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1282",
+      "paper_id": "",
+      "title": "D^3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation",
+      "authors": "Jichun Zhao, Haiyong Jiang, Haoxuan Song, Jun Xiao, Dong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_D3CTTA_Domain-Dependent_Decorrelation_for_Continual_Test-Time_Adaption_of_3D_LiDAR_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_629",
+      "paper_id": "",
+      "title": "DA-DETR: Domain Adaptive Detection Transformer With Information Fusion",
+      "authors": "Jingyi Zhang, Jiaxing Huang, Zhipeng Luo, Gongjie Zhang, Xiaoqin Zhang, Shijian Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_DA-DETR_Domain_Adaptive_Detection_Transformer_With_Information_Fusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1881",
+      "paper_id": "",
+      "title": "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation",
+      "authors": "Lukas Hoyer, Dengxin Dai, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hoyer_DAFormer_Improving_Network_Architectures_and_Training_Strategies_for_Domain-Adaptive_Semantic_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1490",
+      "paper_id": "",
+      "title": "DARE-GRAM: Unsupervised Domain Adaptation Regression by Aligning Inverse Gram Matrices",
+      "authors": "Ismail Nejjar, Qin Wang, Olga Fink",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nejjar_DARE-GRAM_Unsupervised_Domain_Adaptation_Regression_by_Aligning_Inverse_Gram_Matrices_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_135",
+      "paper_id": "",
+      "title": "DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks",
+      "authors": "Samyak Jain, Sravanti Addepalli, Pawan Kumar Sahu, Priyam Dey, R. Venkatesh Babu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_DART_Diversify-Aggregate-Repeat_Training_Improves_Generalization_of_Neural_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1082",
+      "paper_id": "",
+      "title": "Decompose, Adjust, Compose: Effective Normalization by Playing With Frequency for Domain Generalization",
+      "authors": "Sangrok Lee, Jongseong Bae, Ha Young Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Decompose_Adjust_Compose_Effective_Normalization_by_Playing_With_Frequency_for_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_3",
+      "paper_id": "",
+      "title": "Deep Frequency Filtering for Domain Generalization",
+      "authors": "Shiqi Lin, Zhizheng Zhang, Zhipeng Huang, Yan Lu, Cuiling Lan, Peng Chu, Quanzeng You, Jiang Wang, Zicheng Liu, Amey Parulkar, Viraj Navkal, Zhibo Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Deep_Frequency_Filtering_for_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1916",
+      "paper_id": "",
+      "title": "DETR With Additional Global Aggregation for Cross-Domain Weakly Supervised Object Detection",
+      "authors": "Zongheng Tang, Yifan Sun, Si Liu, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_DETR_With_Additional_Global_Aggregation_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2194",
+      "paper_id": "",
+      "title": "DiGA: Distil To Generalize and Then Adapt for Domain Adaptive Semantic Segmentation",
+      "authors": "Fengyi Shen, Akhil Gurram, Ziyuan Liu, He Wang, Alois Knoll",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DiGA_Distil_To_Generalize_and_Then_Adapt_for_Domain_Adaptive_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_46",
+      "paper_id": "",
+      "title": "DINE: Domain Adaptation From Single and Multiple Black-Box Predictors",
+      "authors": "Jian Liang, Dapeng Hu, Jiashi Feng, Ran He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liang_DINE_Domain_Adaptation_From_Single_and_Multiple_Black-Box_Predictors_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1466",
+      "paper_id": "",
+      "title": "Discriminative Pattern Calibration Mechanism for Source-Free Domain Adaptation",
+      "authors": "Haifeng Xia, Siyu Xia, Zhengming Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Discriminative_Pattern_Calibration_Mechanism_for_Source-Free_Domain_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2328",
+      "paper_id": "",
+      "title": "Disentangled Prompt Representation for Domain Generalization",
+      "authors": "De Cheng, Zhipeng Xu, Xinyang Jiang, Nannan Wang, Dongsheng Li, Xinbo Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1812",
+      "paper_id": "",
+      "title": "Distinguish Then Exploit: Source-free Open Set Domain Adaptation via Weight Barcode Estimation and Sparse Label Assignment",
+      "authors": "Weiming Liu, Jun Dan, Fan Wang, Xinting Liao, Junhao Dong, Hua Yu, Shunjie Dong, Lianyong Qi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Distinguish_Then_Exploit_Source-free_Open_Set_Domain_Adaptation_via_Weight_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_233",
+      "paper_id": "",
+      "title": "Divergence Optimization for Noisy Universal Domain Adaptation",
+      "authors": "Qing Yu, Atsushi Hashimoto, Yoshitaka Ushiku",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Divergence_Optimization_for_Noisy_Universal_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1917",
+      "paper_id": "",
+      "title": "Divide and Adapt: Active Domain Adaptation via Customized Learning",
+      "authors": "Duojun Huang, Jichang Li, Weikai Chen, Junshi Huang, Zhenhua Chai, Guanbin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Divide_and_Adapt_Active_Domain_Adaptation_via_Customized_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_693",
+      "paper_id": "",
+      "title": "Domain Adaptation With Auxiliary Target Domain-Oriented Classifier",
+      "authors": "Jian Liang, Dapeng Hu, Jiashi Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liang_Domain_Adaptation_With_Auxiliary_Target_Domain-Oriented_Classifier_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1274",
+      "paper_id": "",
+      "title": "Domain Adaptive Diabetic Retinopathy Grading with Model Absence and Flowing Data",
+      "authors": "Wenxin Su, Song Tang, Xiaofeng Liu, Xiaojing Yi, Mao Ye, Chunxiao Zu, Jiahao Li, Xiatian Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Su_Domain_Adaptive_Diabetic_Retinopathy_Grading_with_Model_Absence_and_Flowing_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_275",
+      "paper_id": "",
+      "title": "Domain Consensus Clustering for Universal Domain Adaptation",
+      "authors": "Guangrui Li, Guoliang Kang, Yi Zhu, Yunchao Wei, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Domain_Consensus_Clustering_for_Universal_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2014",
+      "paper_id": "",
+      "title": "Domain Generalization in CLIP via Learning with Diverse Text Prompts",
+      "authors": "Changsong Wen, Zelin Peng, Yu Huang, Xiaokang Yang, Wei Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1877",
+      "paper_id": "",
+      "title": "Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation",
+      "authors": "Zhekai Du, Xinyao Li, Fengling Li, Ke Lu, Lei Zhu, Jingjing Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Du_Domain-Agnostic_Mutual_Prompting_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1635",
+      "paper_id": "",
+      "title": "Domain-Agnostic Prior for Transfer Semantic Segmentation",
+      "authors": "Xinyue Huo, Lingxi Xie, Hengtong Hu, Wengang Zhou, Houqiang Li, Qi Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huo_Domain-Agnostic_Prior_for_Transfer_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1010",
+      "paper_id": "",
+      "title": "Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation",
+      "authors": "Jiapeng Su, Qi Fan, Wenjie Pei, Guangming Lu, Fanglin Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Su_Domain-Rectifying_Adapter_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_539",
+      "paper_id": "",
+      "title": "Domain-Specific Block Selection and Paired-View Pseudo-Labeling for Online Test-Time Adaptation",
+      "authors": "Yeonguk Yu, Sungho Shin, Seunghyeok Back, Mihwan Ko, Sangjun Noh, Kyoobin Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Domain-Specific_Block_Selection_and_Paired-View_Pseudo-Labeling_for_Online_Test-Time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_638",
+      "paper_id": "",
+      "title": "Domain-Specific Suppression for Adaptive Object Detection",
+      "authors": "Yu Wang, Rui Zhang, Shuo Zhang, Miao Li, Yangyang Xia, Xishan Zhang, Shaoli Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Domain-Specific_Suppression_for_Adaptive_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_134",
+      "paper_id": "",
+      "title": "DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles",
+      "authors": "Rui Zhao, Weijia Mao, Mike Zheng Shou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_DoraCycle_Domain-Oriented_Adaptation_of_Unified_Generative_Model_in_Multimodal_Cycles_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_98",
+      "paper_id": "",
+      "title": "DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation",
+      "authors": "Seunghun Lee, Sunghyun Cho, Sunghoon Im",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_DRANet_Disentangling_Representation_and_Adaptation_Networks_for_Unsupervised_Cross-Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2360",
+      "paper_id": "",
+      "title": "DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for Robust Few-Shot Segmentation",
+      "authors": "Amin Karimi, Charalambos Poullis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Karimi_DSV-LFS_Unifying_LLM-Driven_Semantic_Cues_with_Visual_Features_for_Robust_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1347",
+      "paper_id": "",
+      "title": "Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation",
+      "authors": "Zhaoyang Li, Yuan Wang, Wangkai Li, Tianzhu Zhang, Xiang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_678",
+      "paper_id": "",
+      "title": "Dynamic Domain Adaptation for Efficient Inference",
+      "authors": "Shuang Li, JinMing Zhang, Wenxuan Ma, Chi Harold Liu, Wei Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Domain_Adaptation_for_Efficient_Inference_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_504",
+      "paper_id": "",
+      "title": "Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation",
+      "authors": "Jie Liu, Yanqi Bao, Guo-Sen Xie, Huan Xiong, Jan-Jakob Sonke, Efstratios Gavves",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Dynamic_Prototype_Convolution_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1319",
+      "paper_id": "",
+      "title": "Dynamic Transfer for Multi-Source Domain Adaptation",
+      "authors": "Yunsheng Li, Lu Yuan, Yinpeng Chen, Pei Wang, Nuno Vasconcelos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Transfer_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_956",
+      "paper_id": "",
+      "title": "Dynamic Weighted Learning for Unsupervised Domain Adaptation",
+      "authors": "Ni Xiao, Lei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Dynamic_Weighted_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_18",
+      "paper_id": "",
+      "title": "Dynamically Instance-Guided Adaptation: A Backward-Free Approach for Test-Time Domain Adaptive Semantic Segmentation",
+      "authors": "Wei Wang, Zhun Zhong, Weijie Wang, Xi Chen, Charles Ling, Boyu Wang, Nicu Sebe",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Dynamically_Instance-Guided_Adaptation_A_Backward-Free_Approach_for_Test-Time_Domain_Adaptive_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2370",
+      "paper_id": "",
+      "title": "Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation",
+      "authors": "Ziyang Chen, Yongsheng Pan, Yiwen Ye, Mengkang Lu, Yong Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Each_Test_Image_Deserves_A_Specific_Prompt_Continual_Test-Time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_29",
+      "paper_id": "",
+      "title": "EcoTTA: Memory-Efficient Continual Test-Time Adaptation via Self-Distilled Regularization",
+      "authors": "Junha Song, Jungsoo Lee, In So Kweon, Sungha Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Song_EcoTTA_Memory-Efficient_Continual_Test-Time_Adaptation_via_Self-Distilled_Regularization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_565",
+      "paper_id": "",
+      "title": "Efficient Test-time Adaptive Object Detection via Sensitivity-Guided Pruning",
+      "authors": "Kunyu Wang, Xueyang Fu, Xin Lu, Chengjie Ge, Chengzhi Cao, Wei Zhai, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Efficient_Test-time_Adaptive_Object_Detection_via_Sensitivity-Guided_Pruning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_914",
+      "paper_id": "",
+      "title": "Effortless Active Labeling for Long-Term Test-Time Adaptation",
+      "authors": "Guowei Wang, Changxing Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Effortless_Active_Labeling_for_Long-Term_Test-Time_Adaptation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1685",
+      "paper_id": "",
+      "title": "Equivariance Allows Handling Multiple Nuisance Variables When Analyzing Pooled Neuroimaging Datasets",
+      "authors": "Vishnu Suresh Lokhande, Rudrasis Chakraborty, Sathya N. Ravi, Vikas Singh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lokhande_Equivariance_Allows_Handling_Multiple_Nuisance_Variables_When_Analyzing_Pooled_Neuroimaging_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_68",
+      "paper_id": "",
+      "title": "Everything to the Synthetic: Diffusion-driven Test-time Adaptation via Synthetic-Domain Alignment",
+      "authors": "Jiayi Guo, Junhao Zhao, Chaoqun Du, Yulin Wang, Chunjiang Ge, Zanlin Ni, Shiji Song, Humphrey Shi, Gao Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Everything_to_the_Synthetic_Diffusion-driven_Test-time_Adaptation_via_Synthetic-Domain_Alignment_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1616",
+      "paper_id": "",
+      "title": "Explaining Domain Shifts in Language: Concept Erasing for Interpretable Image Classification",
+      "authors": "Zequn Zeng, Yudi Su, Jianqiao Sun, Tiansheng Wen, Hao Zhang, Zhengjue Wang, Bo Chen, Hongwei Liu, Jiawei Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zeng_Explaining_Domain_Shifts_in_Language_Concept_Erasing_for_Interpretable_Image_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_268",
+      "paper_id": "",
+      "title": "Exploring Domain-Invariant Parameters for Source Free Domain Adaptation",
+      "authors": "Fan Wang, Zhongyi Han, Yongshun Gong, Yilong Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Exploring_Domain-Invariant_Parameters_for_Source_Free_Domain_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_846",
+      "paper_id": "",
+      "title": "Exploring Endogenous Shift for Cross-Domain Detection: A Large-Scale Benchmark and Perturbation Suppression Network",
+      "authors": "Renshuai Tao, Hainan Li, Tianbo Wang, Yanlu Wei, Yifu Ding, Bowei Jin, Hongping Zhi, Xianglong Liu, Aishan Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_Exploring_Endogenous_Shift_for_Cross-Domain_Detection_A_Large-Scale_Benchmark_and_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1646",
+      "paper_id": "",
+      "title": "Failure Modes of Domain Generalization Algorithms",
+      "authors": "Tigran Galstyan, Hrayr Harutyunyan, Hrant Khachatrian, Greg Ver Steeg, Aram Galstyan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Galstyan_Failure_Modes_of_Domain_Generalization_Algorithms_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1532",
+      "paper_id": "",
+      "title": "Fast Adaptation for Human Pose Estimation via Meta-Optimization",
+      "authors": "Shengxiang Hu, Huaijiang Sun, Bin Li, Dong Wei, Weiqing Li, Jianfeng Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Fast_Adaptation_for_Human_Pose_Estimation_via_Meta-Optimization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2257",
+      "paper_id": "",
+      "title": "Feature Alignment and Uniformity for Test Time Adaptation",
+      "authors": "Shuai Wang, Daoan Zhang, Zipei Yan, Jianguo Zhang, Rui Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Feature_Alignment_and_Uniformity_for_Test_Time_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1597",
+      "paper_id": "",
+      "title": "Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need?",
+      "authors": "Malik Boudiaf, Hoel Kervadec, Ziko Imtiaz Masud, Pablo Piantanida, Ismail Ben Ayed, Jose Dolz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Boudiaf_Few-Shot_Segmentation_Without_Meta-Learning_A_Good_Transductive_Inference_Is_All_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2348",
+      "paper_id": "",
+      "title": "FisherTune: Fisher-Guided Robust Tuning of Vision Foundation Models for Domain Generalized Segmentation",
+      "authors": "Dong Zhao, Jinlong Li, Shuang Wang, Mengyao Wu, Qi Zang, Nicu Sebe, Zhun Zhong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_FisherTune_Fisher-Guided_Robust_Tuning_of_Vision_Foundation_Models_for_Domain_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_763",
+      "paper_id": "",
+      "title": "FixBi: Bridging Domain Spaces for Unsupervised Domain Adaptation",
+      "authors": "Jaemin Na, Heechul Jung, Hyung Jin Chang, Wonjun Hwang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Na_FixBi_Bridging_Domain_Spaces_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1433",
+      "paper_id": "",
+      "title": "Flatten Long-Range Loss Landscapes for Cross-Domain Few-Shot Learning",
+      "authors": "Yixiong Zou, Yicong Liu, Yiman Hu, Yuhua Li, Ruixuan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zou_Flatten_Long-Range_Loss_Landscapes_for_Cross-Domain_Few-Shot_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_948",
+      "paper_id": "",
+      "title": "FREDOM: Fairness Domain Adaptation Approach to Semantic Scene Understanding",
+      "authors": "Thanh-Dat Truong, Ngan Le, Bhiksha Raj, Jackson Cothren, Khoa Luu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Truong_FREDOM_Fairness_Domain_Adaptation_Approach_to_Semantic_Scene_Understanding_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1484",
+      "paper_id": "",
+      "title": "FSDR: Frequency Space Domain Randomization for Domain Generalization",
+      "authors": "Jiaxing Huang, Dayan Guan, Aoran Xiao, Shijian Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_FSDR_Frequency_Space_Domain_Randomization_for_Domain_Generalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1299",
+      "paper_id": "",
+      "title": "GDA: Generalized Diffusion for Robust Test-time Adaptation",
+      "authors": "Yun-Yun Tsai, Fu-Chen Chen, Albert Y. C. Chen, Junfeng Yang, Che-Chun Su, Min Sun, Cheng-Hao Kuo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tsai_GDA_Generalized_Diffusion_for_Robust_Test-time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_65",
+      "paper_id": "",
+      "title": "Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections",
+      "authors": "Prashant Pandey, Mrigank Raman, Sumanth Varambally, Prathosh AP",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Pandey_Generalization_on_Unseen_Domains_via_Inference-Time_Label-Preserving_Target_Projections_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2588",
+      "paper_id": "",
+      "title": "Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection",
+      "authors": "Boyong He, Yuxiang Ji, Qianwen Ye, Zhuoyue Tan, Liaoni Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/He_Generalized_Diffusion_Detector_Mining_Robust_Features_from_Diffusion_Models_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1035",
+      "paper_id": "",
+      "title": "Generalized Domain Adaptation",
+      "authors": "Yu Mitsuzumi, Go Irie, Daiki Ikami, Takashi Shibata",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Mitsuzumi_Generalized_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_753",
+      "paper_id": "",
+      "title": "Generalized Few-Shot Semantic Segmentation",
+      "authors": "Zhuotao Tian, Xin Lai, Li Jiang, Shu Liu, Michelle Shu, Hengshuang Zhao, Jiaya Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tian_Generalized_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1243",
+      "paper_id": "",
+      "title": "Generalized UAV Object Detection via Frequency Domain Disentanglement",
+      "authors": "Kunyu Wang, Xueyang Fu, Yukun Huang, Chengzhi Cao, Gege Shi, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Generalized_UAV_Object_Detection_via_Frequency_Domain_Disentanglement_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1901",
+      "paper_id": "",
+      "title": "Geometric Anchor Correspondence Mining With Uncertainty Modeling for Universal Domain Adaptation",
+      "authors": "Liang Chen, Yihang Lou, Jianzhong He, Tao Bai, Minghua Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Geometric_Anchor_Correspondence_Mining_With_Uncertainty_Modeling_for_Universal_Domain_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2160",
+      "paper_id": "",
+      "title": "GeoNet: Benchmarking Unsupervised Adaptation Across Geographies",
+      "authors": "Tarun Kalluri, Wangdong Xu, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kalluri_GeoNet_Benchmarking_Unsupervised_Adaptation_Across_Geographies_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_505",
+      "paper_id": "",
+      "title": "Gradient-Guided Annealing for Domain Generalization",
+      "authors": "Aristotelis Ballas, Christos Diou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ballas_Gradient-Guided_Annealing_for_Domain_Generalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1436",
+      "paper_id": "",
+      "title": "Guiding Pseudo-Labels With Uncertainty Estimation for Source-Free Unsupervised Domain Adaptation",
+      "authors": "Mattia Litrico, Alessio Del Bue, Pietro Morerio",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Litrico_Guiding_Pseudo-Labels_With_Uncertainty_Estimation_for_Source-Free_Unsupervised_Domain_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1115",
+      "paper_id": "",
+      "title": "H2FA R-CNN: Holistic and Hierarchical Feature Alignment for Cross-Domain Weakly Supervised Object Detection",
+      "authors": "Yunqiu Xu, Yifan Sun, Zongxin Yang, Jiaxu Miao, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_H2FA_R-CNN_Holistic_and_Hierarchical_Feature_Alignment_for_Cross-Domain_Weakly_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_578",
+      "paper_id": "",
+      "title": "Harmonious Teacher for Cross-Domain Object Detection",
+      "authors": "Jinhong Deng, Dongli Xu, Wen Li, Lixin Duan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Deng_Harmonious_Teacher_for_Cross-Domain_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_37",
+      "paper_id": "",
+      "title": "HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation",
+      "authors": "Jian Ding, Nan Xue, Gui-Song Xia, Bernt Schiele, Dengxin Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_HGFormer_Hierarchical_Grouping_Transformer_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1742",
+      "paper_id": "",
+      "title": "Hierarchical Dense Correlation Distillation for Few-Shot Segmentation",
+      "authors": "Bohao Peng, Zhuotao Tian, Xiaoyang Wu, Chengyao Wang, Shu Liu, Jingyong Su, Jiaya Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1586",
+      "paper_id": "",
+      "title": "HPL-ESS: Hybrid Pseudo-Labeling for Unsupervised Event-based Semantic Segmentation",
+      "authors": "Linglin Jing, Yiming Ding, Yunpeng Gao, Zhigang Wang, Xu Yan, Dong Wang, Gerald Schaefer, Hui Fang, Bin Zhao, Xuelong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jing_HPL-ESS_Hybrid_Pseudo-Labeling_for_Unsupervised_Event-based_Semantic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_23",
+      "paper_id": "",
+      "title": "I3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors",
+      "authors": "Chaoqi Chen, Zebiao Zheng, Yue Huang, Xinghao Ding, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_I3Net_Implicit_Instance-Invariant_Network_for_Adapting_One-Stage_Object_Detectors_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_987",
+      "paper_id": "",
+      "title": "Improved Self-Training for Test-Time Adaptation",
+      "authors": "Jing Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Improved_Self-Training_for_Test-Time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_762",
+      "paper_id": "",
+      "title": "Improved Test-Time Adaptation for Domain Generalization",
+      "authors": "Liang Chen, Yong Zhang, Yibing Song, Ying Shan, Lingqiao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Improved_Test-Time_Adaptation_for_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_298",
+      "paper_id": "",
+      "title": "Improving Generalization With Domain Convex Game",
+      "authors": "Fangrui Lv, Jian Liang, Shuang Li, Jinming Zhang, Di Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Improving_Generalization_With_Domain_Convex_Game_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1346",
+      "paper_id": "",
+      "title": "Improving Single Domain-Generalized Object Detection: A Focus on Diversification and Alignment",
+      "authors": "Muhammad Sohail Danish, Muhammad Haris Khan, Muhammad Akhtar Munir, M. Saquib Sarfraz, Mohsen Ali",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Danish_Improving_Single_Domain-Generalized_Object_Detection_A_Focus_on_Diversification_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_332",
+      "paper_id": "",
+      "title": "Incremental Few-Shot Instance Segmentation",
+      "authors": "Dan Andrei Ganea, Bas Boom, Ronald Poppe",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ganea_Incremental_Few-Shot_Instance_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_214",
+      "paper_id": "",
+      "title": "Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection",
+      "authors": "Luwei Hou, Yu Zhang, Kui Fu, Jia Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Informative_and_Consistent_Correspondence_Mining_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1516",
+      "paper_id": "",
+      "title": "Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation",
+      "authors": "Astuti Sharma, Tarun Kalluri, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Instance_Level_Affinity-Based_Transfer_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2192",
+      "paper_id": "",
+      "title": "Instance Relation Graph Guided Source-Free Domain Adaptive Object Detection",
+      "authors": "Vibashan VS, Poojan Oza, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/VS_Instance_Relation_Graph_Guided_Source-Free_Domain_Adaptive_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1171",
+      "paper_id": "",
+      "title": "Integrative Few-Shot Learning for Classification and Segmentation",
+      "authors": "Dahyun Kang, Minsu Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Integrative_Few-Shot_Learning_for_Classification_and_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_876",
+      "paper_id": "",
+      "title": "Interact Before Align: Leveraging Cross-Modal Knowledge for Domain Adaptive Action Recognition",
+      "authors": "Lijin Yang, Yifei Huang, Yusuke Sugano, Yoichi Sato",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Interact_Before_Align_Leveraging_Cross-Modal_Knowledge_for_Domain_Adaptive_Action_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_542",
+      "paper_id": "",
+      "title": "Interactron: Embodied Adaptive Object Detection",
+      "authors": "Klemen Kotar, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kotar_Interactron_Embodied_Adaptive_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_685",
+      "paper_id": "",
+      "title": "Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection",
+      "authors": "Marc-Antoine Lavoie, Anas Mahmoud, Steven L. Waslander",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lavoie_Large_Self-Supervised_Models_Bridge_the_Gap_in_Domain_Adaptive_Object_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1729",
+      "paper_id": "",
+      "title": "LEAD: Learning Decomposition for Source-free Universal Domain Adaptation",
+      "authors": "Sanqing Qu, Tianpei Zou, Lianghua He, Florian Röhrbein, Alois Knoll, Guang Chen, Changjun Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_LEAD_Learning_Decomposition_for_Source-free_Universal_Domain_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2141",
+      "paper_id": "",
+      "title": "Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation",
+      "authors": "Ba Hung Ngo, Nhat-Tuong Do-Tran, Tuan-Ngoc Nguyen, Hae-Gon Jeon, Tae Jong Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ngo_Learning_CNN_on_ViT_A_Hybrid_Model_to_Explicitly_Class-specific_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1083",
+      "paper_id": "",
+      "title": "Learning Distinctive Margin Toward Active Domain Adaptation",
+      "authors": "Ming Xie, Yuxi Li, Yabiao Wang, Zekun Luo, Zhenye Gan, Zhongyi Sun, Mingmin Chi, Chengjie Wang, Pei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Learning_Distinctive_Margin_Toward_Active_Domain_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1446",
+      "paper_id": "",
+      "title": "Learning Invariant Representations and Risks for Semi-Supervised Domain Adaptation",
+      "authors": "Bo Li, Yezhen Wang, Shanghang Zhang, Dongsheng Li, Kurt Keutzer, Trevor Darrell, Han Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Learning_Invariant_Representations_and_Risks_for_Semi-Supervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1922",
+      "paper_id": "",
+      "title": "Learning Non-Target Knowledge for Few-Shot Semantic Segmentation",
+      "authors": "Yuanwei Liu, Nian Liu, Qinglong Cao, Xiwen Yao, Junwei Han, Ling Shao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_Non-Target_Knowledge_for_Few-Shot_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1638",
+      "paper_id": "",
+      "title": "Learning Orthogonal Prototypes for Generalized Few-Shot Semantic Segmentation",
+      "authors": "Sun-Ao Liu, Yiheng Zhang, Zhaofan Qiu, Hongtao Xie, Yongdong Zhang, Ting Yao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Learning_Orthogonal_Prototypes_for_Generalized_Few-Shot_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1296",
+      "paper_id": "",
+      "title": "Learning Part Segmentation Through Unsupervised Domain Adaptation From Synthetic Vehicles",
+      "authors": "Qing Liu, Adam Kortylewski, Zhishuai Zhang, Zizhang Li, Mengqi Guo, Qihao Liu, Xiaoding Yuan, Jiteng Mu, Weichao Qiu, Alan Yuille",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Learning_Part_Segmentation_Through_Unsupervised_Domain_Adaptation_From_Synthetic_Vehicles_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1170",
+      "paper_id": "",
+      "title": "Learning Textual Prompts for Open-World Semi-Supervised Learning",
+      "authors": "Yuxin Fan, Junbiao Cui, Jiye Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Learning_Textual_Prompts_for_Open-World_Semi-Supervised_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1158",
+      "paper_id": "",
+      "title": "Learning To Relate Depth and Semantics for Unsupervised Domain Adaptation",
+      "authors": "Suman Saha, Anton Obukhov, Danda Pani Paudel, Menelaos Kanakis, Yuhua Chen, Stamatios Georgoulis, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Saha_Learning_To_Relate_Depth_and_Semantics_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_226",
+      "paper_id": "",
+      "title": "Learning Transformations To Reduce the Geometric Shift in Object Detection",
+      "authors": "Vidit Vidit, Martin Engilberge, Mathieu Salzmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Vidit_Learning_Transformations_To_Reduce_the_Geometric_Shift_in_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1986",
+      "paper_id": "",
+      "title": "Learning What Not To Segment: A New Perspective on Few-Shot Segmentation",
+      "authors": "Chunbo Lang, Gong Cheng, Binfei Tu, Junwei Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lang_Learning_What_Not_To_Segment_A_New_Perspective_on_Few-Shot_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_575",
+      "paper_id": "",
+      "title": "Limitations of Post-Hoc Feature Alignment for Robustness",
+      "authors": "Collin Burns, Jacob Steinhardt",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Burns_Limitations_of_Post-Hoc_Feature_Alignment_for_Robustness_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1303",
+      "paper_id": "",
+      "title": "Link-based Contrastive Learning for One-Shot Unsupervised Domain Adaptation",
+      "authors": "Yue Zhang, Mingyue Bin, Yuyang Zhang, Zhongyuan Wang, Zhen Han, Chao Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Link-based_Contrastive_Learning_for_One-Shot_Unsupervised_Domain_Adaptation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_763",
+      "paper_id": "",
+      "title": "Localized Adversarial Domain Generalization",
+      "authors": "Wei Zhu, Le Lu, Jing Xiao, Mei Han, Jiebo Luo, Adam P. Harrison",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Localized_Adversarial_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1598",
+      "paper_id": "",
+      "title": "Maintaining Consistent Inter-Class Topology in Continual Test-Time Adaptation",
+      "authors": "Chenggong Ni, Fan Lyu, Jiayao Tan, Fuyuan Hu, Rui Yao, Tao Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_Maintaining_Consistent_Inter-Class_Topology_in_Continual_Test-Time_Adaptation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_443",
+      "paper_id": "",
+      "title": "Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation",
+      "authors": "Xin Zhang, Robby T. Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Mamba_as_a_Bridge_Where_Vision_Foundation_Models_Meet_Vision_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2110",
+      "paper_id": "",
+      "title": "MedBN: Robust Test-Time Adaptation against Malicious Test Samples",
+      "authors": "Hyejin Park, Jeongyeon Hwang, Sunung Mun, Sangdon Park, Jungseul Ok",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Park_MedBN_Robust_Test-Time_Adaptation_against_Malicious_Test_Samples_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1007",
+      "paper_id": "",
+      "title": "MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection",
+      "authors": "Vibashan VS, Vikram Gupta, Poojan Oza, Vishwanath A. Sindagi, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_547",
+      "paper_id": "",
+      "title": "Meta Convolutional Neural Networks for Single Domain Generalization",
+      "authors": "Chaoqun Wan, Xu Shen, Yonggang Zhang, Zhiheng Yin, Xinmei Tian, Feng Gao, Jianqiang Huang, Xian-Sheng Hua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wan_Meta_Convolutional_Neural_Networks_for_Single_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1631",
+      "paper_id": "",
+      "title": "Meta-Causal Learning for Single Domain Generalization",
+      "authors": "Jin Chen, Zhi Gao, Xinxiao Wu, Jiebo Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Meta-Causal_Learning_for_Single_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1494",
+      "paper_id": "",
+      "title": "MetaAlign: Coordinating Domain Alignment and Classification for Unsupervised Domain Adaptation",
+      "authors": "Guoqiang Wei, Cuiling Lan, Wenjun Zeng, Zhibo Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_MetaAlign_Coordinating_Domain_Alignment_and_Classification_for_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1376",
+      "paper_id": "",
+      "title": "MetaCorrection: Domain-Aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation",
+      "authors": "Xiaoqing Guo, Chen Yang, Baopu Li, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_480",
+      "paper_id": "",
+      "title": "MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation",
+      "authors": "Fan Wang, Zhongyi Han, Zhiyan Zhang, Rundong He, Yilong Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MHPL_Minimum_Happy_Points_Learning_for_Active_Source_Free_Domain_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_387",
+      "paper_id": "",
+      "title": "MIANet: Aggregating Unbiased Instance and General Information for Few-Shot Semantic Segmentation",
+      "authors": "Yong Yang, Qiong Chen, Yuan Feng, Tianlin Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_MIANet_Aggregating_Unbiased_Instance_and_General_Information_for_Few-Shot_Semantic_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1220",
+      "paper_id": "",
+      "title": "MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation",
+      "authors": "Lukas Hoyer, Dengxin Dai, Haoran Wang, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hoyer_MIC_Masked_Image_Consistency_for_Context-Enhanced_Domain_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_799",
+      "paper_id": "",
+      "title": "MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation",
+      "authors": "Inkyu Shin, Yi-Hsuan Tsai, Bingbing Zhuang, Samuel Schulter, Buyu Liu, Sparsh Garg, In So Kweon, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shin_MM-TTA_Multi-Modal_Test-Time_Adaptation_for_3D_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1948",
+      "paper_id": "",
+      "title": "Modality-Agnostic Debiasing for Single Domain Generalization",
+      "authors": "Sanqing Qu, Yingwei Pan, Guang Chen, Ting Yao, Changjun Jiang, Tao Mei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Modality-Agnostic_Debiasing_for_Single_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1873",
+      "paper_id": "",
+      "title": "Modality-Collaborative Test-Time Adaptation for Action Recognition",
+      "authors": "Baochen Xiong, Xiaoshan Yang, Yaguang Song, Yaowei Wang, Changsheng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_Modality-Collaborative_Test-Time_Adaptation_for_Action_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2537",
+      "paper_id": "",
+      "title": "MODfinity: Unsupervised Domain Adaptation with Multimodal Information Flow Intertwining",
+      "authors": "Shanglin Liu, Jianming Lv, Jingdan Kang, Huaidong Zhang, Zequan Liang, Shengfeng He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MODfinity_Unsupervised_Domain_Adaptation_with_Multimodal_Information_Flow_Intertwining_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_264",
+      "paper_id": "",
+      "title": "MOT: Masked Optimal Transport for Partial Domain Adaptation",
+      "authors": "You-Wei Luo, Chuan-Xian Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_593",
+      "paper_id": "",
+      "title": "MRFP: Learning Generalizable Semantic Segmentation from Sim-2-Real with Multi-Resolution Feature Perturbation",
+      "authors": "Sumanth Udupa, Prajwal Gurunath, Aniruddh Sikdar, Suresh Sundaram",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Udupa_MRFP_Learning_Generalizable_Semantic_Segmentation_from_Sim-2-Real_with_Multi-Resolution_Feature_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1776",
+      "paper_id": "",
+      "title": "Multi-Granularity Alignment Domain Adaptation for Object Detection",
+      "authors": "Wenzhang Zhou, Dawei Du, Libo Zhang, Tiejian Luo, Yanjun Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Multi-Granularity_Alignment_Domain_Adaptation_for_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_69",
+      "paper_id": "",
+      "title": "Multi-Granularity Class Prototype Topology Distillation for Class-Incremental Source-Free Unsupervised Domain Adaptation",
+      "authors": "Peihua Deng, Jiehua Zhang, Xichun Sheng, Chenggang Yan, Yaoqi Sun, Ying Fu, Liang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_Multi-Granularity_Class_Prototype_Topology_Distillation_for_Class-Incremental_Source-Free_Unsupervised_Domain_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_951",
+      "paper_id": "",
+      "title": "Multi-Source Domain Adaptation With Collaborative Learning for Semantic Segmentation",
+      "authors": "Jianzhong He, Xu Jia, Shuaijun Chen, Jianzhuang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/He_Multi-Source_Domain_Adaptation_With_Collaborative_Learning_for_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1603",
+      "paper_id": "",
+      "title": "Multi-Target Domain Adaptation With Collaborative Consistency Learning",
+      "authors": "Takashi Isobe, Xu Jia, Shuaijun Chen, Jianzhong He, Yongjie Shi, Jianzhuang Liu, Huchuan Lu, Shengjin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Isobe_Multi-Target_Domain_Adaptation_With_Collaborative_Consistency_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2187",
+      "paper_id": "",
+      "title": "Multi-View Adversarial Discriminator: Mine the Non-Causal Factors for Object Detection in Unseen Domains",
+      "authors": "Mingjun Xu, Lingyun Qin, Weijie Chen, Shiliang Pu, Lei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Multi-View_Adversarial_Discriminator_Mine_the_Non-Causal_Factors_for_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_199",
+      "paper_id": "",
+      "title": "Mutual CRF-GNN for Few-Shot Learning",
+      "authors": "Shixiang Tang, Dapeng Chen, Lei Bai, Kaijian Liu, Yixiao Ge, Wanli Ouyang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Mutual_CRF-GNN_for_Few-Shot_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_689",
+      "paper_id": "",
+      "title": "NC-TTT: A Noise Constrastive Approach for Test-Time Training",
+      "authors": "David Osowiechi, Gustavo A. Vargas Hakim, Mehrdad Noori, Milad Cheraghalikhani, Ali Bahri, Moslem Yazdanpanah, Ismail Ben Ayed, Christian Desrosiers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Osowiechi_NC-TTT_A_Noise_Constrastive_Approach_for_Test-Time_Training_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2012",
+      "paper_id": "",
+      "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+      "authors": "Yushun Tang, Ce Zhang, Heng Xu, Shuoshuo Chen, Jie Cheng, Luziwei Leng, Qinghai Guo, Zhihai He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_670",
+      "paper_id": "",
+      "title": "NICO++: Towards Better Benchmarking for Domain Generalization",
+      "authors": "Xingxuan Zhang, Yue He, Renzhe Xu, Han Yu, Zheyan Shen, Peng Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_NICO_Towards_Better_Benchmarking_for_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_251",
+      "paper_id": "",
+      "title": "Object Detection With Self-Supervised Scene Adaptation",
+      "authors": "Zekun Zhang, Minh Hoai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Object_Detection_With_Self-Supervised_Scene_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_934",
+      "paper_id": "",
+      "title": "OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad",
+      "authors": "Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Zeyu Zhang, Yue Huang, Kun Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_OCRT_Boosting_Foundation_Models_in_the_Open_World_with_Object-Concept-Relation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1065",
+      "paper_id": "",
+      "title": "On the Road to Online Adaptation for Semantic Image Segmentation",
+      "authors": "Riccardo Volpi, Pau De Jorge, Diane Larlus, Gabriela Csurka",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Volpi_On_the_Road_to_Online_Adaptation_for_Semantic_Image_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1290",
+      "paper_id": "",
+      "title": "Open Domain Generalization with Domain-Augmented Meta-Learning",
+      "authors": "Yang Shu, Zhangjie Cao, Chenyu Wang, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_634",
+      "paper_id": "",
+      "title": "Open Set Label Shift with Test Time Out-of-Distribution Reference",
+      "authors": "Changkun Ye, Russell Tsuchida, Lars Petersson, Nick Barnes",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_Open_Set_Label_Shift_with_Test_Time_Out-of-Distribution_Reference_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_182",
+      "paper_id": "",
+      "title": "Open-Set Domain Adaptation for Semantic Segmentation",
+      "authors": "Seun-An Choe, Ah-Hyung Shin, Keon-Hee Park, Jinwoo Choi, Gyeong-Moon Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Choe_Open-Set_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1508",
+      "paper_id": "",
+      "title": "OSAN: A One-Stage Alignment Network To Unify Multimodal Alignment and Unsupervised Domain Adaptation",
+      "authors": "Ye Liu, Lingfeng Qiao, Changchong Lu, Di Yin, Chen Lin, Haoyuan Peng, Bo Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_OSAN_A_One-Stage_Alignment_Network_To_Unify_Multimodal_Alignment_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1006",
+      "paper_id": "",
+      "title": "OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP",
+      "authors": "Mohamad Hassan N C, Divyam Gupta, Mainak Singha, Sai Bhargav Rongali, Ankit Jha, Muhammad Haris Khan, Biplab Banerjee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/C_OSLoPrompt_Bridging_Low-Supervision_Challenges_and_Open-Set_Domain_Generalization_in_CLIP_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_867",
+      "paper_id": "",
+      "title": "OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations",
+      "authors": "Yang Tan, Yang Li, Shao-Lun Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_OTCE_A_Transferability_Metric_for_Cross-Domain_Cross-Task_Representations_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1362",
+      "paper_id": "",
+      "title": "Parameter-Free Online Test-Time Adaptation",
+      "authors": "Malik Boudiaf, Romain Mueller, Ismail Ben Ayed, Luca Bertinetto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Boudiaf_Parameter-Free_Online_Test-Time_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1219",
+      "paper_id": "",
+      "title": "Partial Feature Selection and Alignment for Multi-Source Domain Adaptation",
+      "authors": "Yangye Fu, Ming Zhang, Xing Xu, Zuo Cao, Chao Ma, Yanli Ji, Kai Zuo, Huimin Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Partial_Feature_Selection_and_Alignment_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_689",
+      "paper_id": "",
+      "title": "Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective",
+      "authors": "Jinjing Zhu, Haotian Bai, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Patch-Mix_Transformer_for_Unsupervised_Domain_Adaptation_A_Game_Perspective_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_721",
+      "paper_id": "",
+      "title": "PCL: Proxy-Based Contrastive Learning for Domain Generalization",
+      "authors": "Xufeng Yao, Yang Bai, Xinyun Zhang, Yuechen Zhang, Qi Sun, Ran Chen, Ruiyu Li, Bei Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yao_PCL_Proxy-Based_Contrastive_Learning_for_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1134",
+      "paper_id": "",
+      "title": "PEER Pressure: Model-to-Model Regularization for Single Source Domain Generalization",
+      "authors": "Dong Kyu Cho, Inwoo Hwang, Sanghack Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_2012",
+      "paper_id": "",
+      "title": "Pin the Memory: Learning To Generalize Semantic Segmentation",
+      "authors": "Jin Kim, Jiyoung Lee, Jungin Park, Dongbo Min, Kwanghoon Sohn",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Pin_the_Memory_Learning_To_Generalize_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_344",
+      "paper_id": "",
+      "title": "PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training",
+      "authors": "Luke Melas-Kyriazi, Arjun K. Manrai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Melas-Kyriazi_PixMatch_Unsupervised_Domain_Adaptation_via_Pixelwise_Consistency_Training_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_160",
+      "paper_id": "",
+      "title": "PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization",
+      "authors": "Zining Chen, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1867",
+      "paper_id": "",
+      "title": "Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation",
+      "authors": "Tung-Long Vuong, Hoang Phan, Vy Vo, Anh Bui, Thanh-Toan Do, Trung Le, Dinh Phung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Vuong_Preserving_Clusters_in_Prompt_Learning_for_Unsupervised_Domain_Adaptation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1727",
+      "paper_id": "",
+      "title": "ProD: Prompting-To-Disentangle Domain Knowledge for Cross-Domain Few-Shot Image Classification",
+      "authors": "Tianyi Ma, Yifan Sun, Zongxin Yang, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_ProD_Prompting-To-Disentangle_Domain_Knowledge_for_Cross-Domain_Few-Shot_Image_Classification_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1622",
+      "paper_id": "",
+      "title": "Progressive Domain Expansion Network for Single Domain Generalization",
+      "authors": "Lei Li, Ke Gao, Juan Cao, Ziyao Huang, Yepeng Weng, Xiaoyue Mi, Zhengze Yu, Xiaoya Li, Boyang Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Domain_Expansion_Network_for_Single_Domain_Generalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1442",
+      "paper_id": "",
+      "title": "Progressive Random Convolutions for Single Domain Generalization",
+      "authors": "Seokeon Choi, Debasmit Das, Sungha Choi, Seunghan Yang, Hyunsin Park, Sungrack Yun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Progressive_Random_Convolutions_for_Single_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2340",
+      "paper_id": "",
+      "title": "Promoting Semantic Connectivity: Dual Nearest Neighbors Contrastive Learning for Unsupervised Domain Generalization",
+      "authors": "Yuchen Liu, Yaoming Wang, Yabo Chen, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Promoting_Semantic_Connectivity_Dual_Nearest_Neighbors_Contrastive_Learning_for_Unsupervised_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1323",
+      "paper_id": "",
+      "title": "Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization",
+      "authors": "Deng Li, Aming Wu, Yaowei Wang, Yahong Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Prompt-Driven_Dynamic_Object-Centric_Learning_for_Single_Domain_Generalization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_452",
+      "paper_id": "",
+      "title": "Prototypical Cross-Domain Self-Supervised Learning for Few-Shot Unsupervised Domain Adaptation",
+      "authors": "Xiangyu Yue, Zangwei Zheng, Shanghang Zhang, Yang Gao, Trevor Darrell, Kurt Keutzer, Alberto Sangiovanni Vincentelli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yue_Prototypical_Cross-Domain_Self-Supervised_Learning_for_Few-Shot_Unsupervised_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_728",
+      "paper_id": "",
+      "title": "Prototypical Pseudo Label Denoising and Target Structure Learning for Domain Adaptive Semantic Segmentation",
+      "authors": "Pan Zhang, Bo Zhang, Ting Zhang, Dong Chen, Yong Wang, Fang Wen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Prototypical_Pseudo_Label_Denoising_and_Target_Structure_Learning_for_Domain_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_846",
+      "paper_id": "",
+      "title": "PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking",
+      "authors": "Zekai Shao, Yufan Hu, Bin Fan, Hongmin Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shao_PURA_Parameter_Update-Recovery_Test-Time_Adaption_for_RGB-T_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_613",
+      "paper_id": "",
+      "title": "Reducing Domain Gap by Reducing Style Bias",
+      "authors": "Hyeonseob Nam, HyunJae Lee, Jongchan Park, Wonjun Yoon, Donggeun Yoo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Nam_Reducing_Domain_Gap_by_Reducing_Style_Bias_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_109",
+      "paper_id": "",
+      "title": "Regressive Domain Adaptation for Unsupervised Keypoint Detection",
+      "authors": "Junguang Jiang, Yifei Ji, Ximei Wang, Yufeng Liu, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Regressive_Domain_Adaptation_for_Unsupervised_Keypoint_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1519",
+      "paper_id": "",
+      "title": "Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via Meta-Memory Transfer",
+      "authors": "Wenjian Wang, Lijuan Duan, Yuxi Wang, Qing En, Junsong Fan, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Remember_the_Difference_Cross-Domain_Few-Shot_Semantic_Segmentation_via_Meta-Memory_Transfer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2061",
+      "paper_id": "",
+      "title": "Rethinking Multi-domain Generalization with A General Learning Objective",
+      "authors": "Zhaorui Tan, Xi Yang, Kaizhu Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Rethinking_Multi-domain_Generalization_with_A_General_Learning_Objective_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1502",
+      "paper_id": "",
+      "title": "Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation",
+      "authors": "Jin Wang, Bingfeng Zhang, Jian Pang, Honglong Chen, Weifeng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Rethinking_Prior_Information_Generation_with_CLIP_for_Few-Shot_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2036",
+      "paper_id": "",
+      "title": "Rethinking the Correlation in Few-Shot Segmentation: A Buoys View",
+      "authors": "Yuan Wang, Rui Sun, Tianzhu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Rethinking_the_Correlation_in_Few-Shot_Segmentation_A_Buoys_View_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_293",
+      "paper_id": "",
+      "title": "Rethinking the Evaluation Protocol of Domain Generalization",
+      "authors": "Han Yu, Xingxuan Zhang, Renzhe Xu, Jiashuo Liu, Yue He, Peng Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Rethinking_the_Evaluation_Protocol_of_Domain_Generalization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1723",
+      "paper_id": "",
+      "title": "Reusing the Task-Specific Classifier as a Discriminator: Discriminator-Free Adversarial Domain Adaptation",
+      "authors": "Lin Chen, Huaian Chen, Zhixiang Wei, Xin Jin, Xiao Tan, Yi Jin, Enhong Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Reusing_the_Task-Specific_Classifier_as_a_Discriminator_Discriminator-Free_Adversarial_Domain_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1263",
+      "paper_id": "",
+      "title": "Revisiting Source-Free Domain Adaptation: Insights into Representativeness, Generalization, and Variety",
+      "authors": "Ronghang Zhu, Mengxuan Hu, Weiming Zhuang, Lingjuan Lyu, Xiang Yu, Sheng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Revisiting_Source-Free_Domain_Adaptation_Insights_into_Representativeness_Generalization_and_Variety_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_129",
+      "paper_id": "",
+      "title": "Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer",
+      "authors": "Wenqiao Zhang, Zheqi Lv, Hao Zhou, Jia-Wei Liu, Juncheng Li, Mengze Li, Yunfei Li, Dongping Zhang, Yueting Zhuang, Siliang Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Revisiting_the_Domain_Shift_and_Sample_Uncertainty_in_Multi-source_Active_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1236",
+      "paper_id": "",
+      "title": "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+      "authors": "Mario Döbler, Robert A. Marsden, Bin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dobler_Robust_Mean_Teacher_for_Continual_and_Gradual_Test-Time_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_470",
+      "paper_id": "",
+      "title": "Robust Test-Time Adaptation in Dynamic Scenarios",
+      "authors": "Longhui Yuan, Binhui Xie, Shuang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_Robust_Test-Time_Adaptation_in_Dynamic_Scenarios_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_240",
+      "paper_id": "",
+      "title": "RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening",
+      "authors": "Sungha Choi, Sanghun Jung, Huiwon Yun, Joanne T. Kim, Seungryong Kim, Jaegul Choo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_RobustNet_Improving_Domain_Generalization_in_Urban-Scene_Segmentation_via_Instance_Selective_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_352",
+      "paper_id": "",
+      "title": "RPN Prototype Alignment for Domain Adaptive Object Detector",
+      "authors": "Yixin Zhang, Zilei Wang, Yushi Mao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_181",
+      "paper_id": "",
+      "title": "Safe Self-Refinement for Transformer-Based Domain Adaptation",
+      "authors": "Tao Sun, Cheng Lu, Tianshuo Zhang, Haibin Ling",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Safe_Self-Refinement_for_Transformer-Based_Domain_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_422",
+      "paper_id": "",
+      "title": "Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation",
+      "authors": "Guo-Sen Xie, Jie Liu, Huan Xiong, Ling Shao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_924",
+      "paper_id": "",
+      "title": "Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes",
+      "authors": "Aodi Li, Liansheng Zhuang, Xiao Long, Minghong Yao, Shafei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Seeking_Consistent_Flat_Minima_for_Better_Domain_Generalization_via_Refining_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_467",
+      "paper_id": "",
+      "title": "SEEN-DA: SEmantic ENtropy guided Domain-aware Attention for Domain Adaptive Object Detection",
+      "authors": "Haochen Li, Rui Zhang, Hantao Yao, Xin Zhang, Yifan Hao, Xinkai Song, Shaohui Peng, Yongwei Zhao, Chen Zhao, Yanjun Wu, Ling Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_SEEN-DA_SEmantic_ENtropy_guided_Domain-aware_Attention_for_Domain_Adaptive_Object_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1125",
+      "paper_id": "",
+      "title": "Self-Guided and Cross-Guided Learning for Few-Shot Segmentation",
+      "authors": "Bingfeng Zhang, Jimin Xiao, Terry Qin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Self-Guided_and_Cross-Guided_Learning_for_Few-Shot_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_499",
+      "paper_id": "",
+      "title": "Self-Supervised Augmentation Consistency for Adapting Semantic Segmentation",
+      "authors": "Nikita Araslanov, Stefan Roth",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Araslanov_Self-Supervised_Augmentation_Consistency_for_Adapting_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2242",
+      "paper_id": "",
+      "title": "Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation",
+      "authors": "Reza Qorbani, Gianluca Villani, Theodoros Panagiotakopoulos, Marc Botet Colomer, Linus Härenstam-Nielsen, Mattia Segu, Pier Luigi Dovesi, Jussi Karlgren, Daniel Cremers, Federico Tombari, Matteo Poggi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qorbani_Semantic_Library_Adaptation_LoRA_Retrieval_and_Fusion_for_Open-Vocabulary_Semantic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_2043",
+      "paper_id": "",
+      "title": "Semantic-Aware Domain Generalized Segmentation",
+      "authors": "Duo Peng, Yinjie Lei, Munawar Hayat, Yulan Guo, Wen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1409",
+      "paper_id": "",
+      "title": "Semantics Distortion and Style Matter: Towards Source-free UDA for Panoramic Segmentation",
+      "authors": "Xu Zheng, Pengyuan Zhou, Athanasios V. Vasilakos, Lin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Semantics_Distortion_and_Style_Matter_Towards_Source-free_UDA_for_Panoramic_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_218",
+      "paper_id": "",
+      "title": "Semi-Supervised Domain Adaptation Based on Dual-Level Domain Mixing for Semantic Segmentation",
+      "authors": "Shuaijun Chen, Xu Jia, Jianzhong He, Yongjie Shi, Jianzhuang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Semi-Supervised_Domain_Adaptation_Based_on_Dual-Level_Domain_Mixing_for_Semantic_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1825",
+      "paper_id": "",
+      "title": "Semi-Supervised Domain Adaptation With Source Label Adaptation",
+      "authors": "Yu-Chu Yu, Hsuan-Tien Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Semi-Supervised_Domain_Adaptation_With_Source_Label_Adaptation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_732",
+      "paper_id": "",
+      "title": "SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation",
+      "authors": "Hritam Basak, Zhaozheng Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Basak_SemiDAViL_Semi-supervised_Domain_Adaptation_with_Vision-Language_Guidance_for_Semantic_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1036",
+      "paper_id": "",
+      "title": "Sharpness-Aware Gradient Matching for Domain Generalization",
+      "authors": "Pengfei Wang, Zhaoxiang Zhang, Zhen Lei, Lei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Sharpness-Aware_Gradient_Matching_for_Domain_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1363",
+      "paper_id": "",
+      "title": "SIGMA: Semantic-Complete Graph Matching for Domain Adaptive Object Detection",
+      "authors": "Wuyang Li, Xinyu Liu, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SIGMA_Semantic-Complete_Graph_Matching_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1508",
+      "paper_id": "",
+      "title": "SimT: Handling Open-Set Noise for Domain Adaptive Semantic Segmentation",
+      "authors": "Xiaoqing Guo, Jie Liu, Tongliang Liu, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1963",
+      "paper_id": "",
+      "title": "Single-Domain Generalized Object Detection in Urban Scene via Cyclic-Disentangled Self-Distillation",
+      "authors": "Aming Wu, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Single-Domain_Generalized_Object_Detection_in_Urban_Scene_via_Cyclic-Disentangled_Self-Distillation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_787",
+      "paper_id": "",
+      "title": "Slimmable Domain Adaptation",
+      "authors": "Rang Meng, Weijie Chen, Shicai Yang, Jie Song, Luojun Lin, Di Xie, Shiliang Pu, Xinchao Wang, Mingli Song, Yueting Zhuang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Slimmable_Domain_Adaptation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1688",
+      "paper_id": "",
+      "title": "SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning",
+      "authors": "Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yun_SoMA_Singular_Value_Decomposed_Minor_Components_Adaptation_for_Domain_Generalizable_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_247",
+      "paper_id": "",
+      "title": "Source-Free Domain Adaptation for Semantic Segmentation",
+      "authors": "Yuang Liu, Wei Zhang, Jun Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Source-Free_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_844",
+      "paper_id": "",
+      "title": "Source-Free Domain Adaptation via Distribution Estimation",
+      "authors": "Ning Ding, Yixing Xu, Yehui Tang, Chao Xu, Yunhe Wang, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Source-Free_Domain_Adaptation_via_Distribution_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2134",
+      "paper_id": "",
+      "title": "Source-Free Domain Adaptation with Frozen Multimodal Foundation Model",
+      "authors": "Song Tang, Wenxin Su, Mao Ye, Xiatian Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Source-Free_Domain_Adaptation_with_Frozen_Multimodal_Foundation_Model_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_356",
+      "paper_id": "",
+      "title": "Source-Free Object Detection by Learning To Overlook Domain Style",
+      "authors": "Shuaifeng Li, Mao Ye, Xiatian Zhu, Lihua Zhou, Lin Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Source-Free_Object_Detection_by_Learning_To_Overlook_Domain_Style_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1577",
+      "paper_id": "",
+      "title": "Source-Free Video Domain Adaptation With Spatial-Temporal-Historical Consistency Learning",
+      "authors": "Kai Li, Deep Patel, Erik Kruus, Martin Renqiang Min",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Source-Free_Video_Domain_Adaptation_With_Spatial-Temporal-Historical_Consistency_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_714",
+      "paper_id": "",
+      "title": "Spatio-temporal Contrastive Domain Adaptation for Action Recognition",
+      "authors": "Xiaolin Song, Sicheng Zhao, Jingyu Yang, Huanjing Yue, Pengfei Xu, Runbo Hu, Hua Chai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Spatio-temporal_Contrastive_Domain_Adaptation_for_Action_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1660",
+      "paper_id": "",
+      "title": "Spatio-Temporal Pixel-Level Contrastive Learning-Based Source-Free Domain Adaptation for Video Semantic Segmentation",
+      "authors": "Shao-Yuan Lo, Poojan Oza, Sumanth Chennupati, Alejandro Galindo, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lo_Spatio-Temporal_Pixel-Level_Contrastive_Learning-Based_Source-Free_Domain_Adaptation_for_Video_Semantic_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_686",
+      "paper_id": "",
+      "title": "Spectral Unsupervised Domain Adaptation for Visual Recognition",
+      "authors": "Jingyi Zhang, Jiaxing Huang, Zichen Tian, Shijian Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spectral_Unsupervised_Domain_Adaptation_for_Visual_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_48",
+      "paper_id": "",
+      "title": "Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation",
+      "authors": "Xinyao Li, Yuke Li, Zhekai Du, Fengling Li, Ke Lu, Jingjing Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Split_to_Merge_Unifying_Separated_Modalities_for_Unsupervised_Domain_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2017",
+      "paper_id": "",
+      "title": "Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation",
+      "authors": "Dong Zhao, Shuang Wang, Qi Zang, Licheng Jiao, Nicu Sebe, Zhun Zhong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Stable_Neighbor_Denoising_for_Source-free_Domain_Adaptive_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1935",
+      "paper_id": "",
+      "title": "Stronger Fewer & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation",
+      "authors": "Zhixiang Wei, Lin Chen, Yi Jin, Xiaoxiao Ma, Tianle Liu, Pengyang Ling, Ben Wang, Huaian Chen, Jinjin Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_Stronger_Fewer__Superior_Harnessing_Vision_Foundation_Models_for_Domain_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2523",
+      "paper_id": "",
+      "title": "Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning",
+      "authors": "Woo-Jin Ahn, Geun-Yeong Yang, Hyun-Duck Choi, Myo-Taeg Lim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ahn_Style_Blind_Domain_Generalized_Semantic_Segmentation_via_Covariance_Alignment_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1424",
+      "paper_id": "",
+      "title": "Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection",
+      "authors": "Zihao Zhang, Aming Wu, Yahong Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1229",
+      "paper_id": "",
+      "title": "Style Neophile: Constantly Seeking Novel Styles for Domain Generalization",
+      "authors": "Juwon Kang, Sohyun Lee, Namyup Kim, Suha Kwak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kang_Style_Neophile_Constantly_Seeking_Novel_Styles_for_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_178",
+      "paper_id": "",
+      "title": "Style Projected Clustering for Domain Generalized Semantic Segmentation",
+      "authors": "Wei Huang, Chang Chen, Yong Li, Jiacheng Li, Cheng Li, Fenglong Song, Youliang Yan, Zhiwei Xiong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Style_Projected_Clustering_for_Domain_Generalized_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2156",
+      "paper_id": "",
+      "title": "StyleAdv: Meta Style Adversarial Training for Cross-Domain Few-Shot Learning",
+      "authors": "Yuqian Fu, Yu Xie, Yanwei Fu, Yu-Gang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_StyleAdv_Meta_Style_Adversarial_Training_for_Cross-Domain_Few-Shot_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2053",
+      "paper_id": "",
+      "title": "SURGEON: Memory-Adaptive Fully Test-Time Adaptation via Dynamic Activation Sparsity",
+      "authors": "Ke Ma, Jiaqi Tang, Bin Guo, Fan Dang, Sicong Liu, Zhui Zhu, Lei Wu, Cheng Fang, Ying-Cong Chen, Zhiwen Yu, Yunhao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ma_SURGEON_Memory-Adaptive_Fully_Test-Time_Adaptation_via_Dynamic_Activation_Sparsity_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_167",
+      "paper_id": "",
+      "title": "Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection",
+      "authors": "Jiaxi Wu, Jiaxin Chen, Mengzhe He, Yiru Wang, Bo Li, Bingqi Ma, Weihao Gan, Wei Wu, Yali Wang, Di Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Target-Relevant_Knowledge_Preservation_for_Multi-Source_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1235",
+      "paper_id": "",
+      "title": "TAROT: Towards Essentially Domain-Invariant Robustness with Theoretical Justification",
+      "authors": "Dongyoon Yang, Jihu Lee, Yongdai Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_TAROT_Towards_Essentially_Domain-Invariant_Robustness_with_Theoretical_Justification_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1486",
+      "paper_id": "",
+      "title": "Task-Specific Inconsistency Alignment for Domain Adaptive Object Detection",
+      "authors": "Liang Zhao, Limin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Task-Specific_Inconsistency_Alignment_for_Domain_Adaptive_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2387",
+      "paper_id": "",
+      "title": "TEA: Test-time Energy Adaptation",
+      "authors": "Yige Yuan, Bingbing Xu, Liang Hou, Fei Sun, Huawei Shen, Xueqi Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_TEA_Test-time_Energy_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2307",
+      "paper_id": "",
+      "title": "TeSLA: Test-Time Self-Learning With Automatic Adversarial Augmentation",
+      "authors": "Devavrat Tomar, Guillaume Vray, Behzad Bozorgtabar, Jean-Philippe Thiran",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tomar_TeSLA_Test-Time_Self-Learning_With_Automatic_Adversarial_Augmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1433",
+      "paper_id": "",
+      "title": "Test Time Adaptation With Regularized Loss for Weakly Supervised Salient Object Detection",
+      "authors": "Olga Veksler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Veksler_Test_Time_Adaptation_With_Regularized_Loss_for_Weakly_Supervised_Salient_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1954",
+      "paper_id": "",
+      "title": "Test-Time Adaptation for Depth Completion",
+      "authors": "Hyoungseob Park, Anjali Gupta, Alex Wong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Test-Time_Adaptation_for_Depth_Completion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1498",
+      "paper_id": "",
+      "title": "Test-time Augmentation Improves Efficiency in Conformal Prediction",
+      "authors": "Divya Shanmugam, Helen Lu, Swami Sankaranarayanan, John Guttag",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shanmugam_Test-time_Augmentation_Improves_Efficiency_in_Conformal_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2683",
+      "paper_id": "",
+      "title": "Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation",
+      "authors": "Xingguo Lv, Xingbo Dong, Liwen Wang, Jiewen Yang, Lei Zhao, Bin Pu, Zhe Jin, Xuejun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2222",
+      "paper_id": "",
+      "title": "The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation",
+      "authors": "Yuhan Liu, Yixiong Zou, Yuhua Li, Ruixuan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_The_Devil_is_in_Low-Level_Features_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_616",
+      "paper_id": "",
+      "title": "The Norm Must Go On: Dynamic Unsupervised Domain Adaptation by Normalization",
+      "authors": "M. Jehanzeb Mirza, Jakub Micorek, Horst Possegger, Horst Bischof",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mirza_The_Norm_Must_Go_On_Dynamic_Unsupervised_Domain_Adaptation_by_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2783",
+      "paper_id": "",
+      "title": "TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction",
+      "authors": "Aishwarya Agarwal, Srikrishna Karanam, Vineet Gandhi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Agarwal_TIDE_Training_Locally_Interpretable_Domain_Generalization_Models_Enables_Test-time_Correction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_398",
+      "paper_id": "",
+      "title": "TIPI: Test Time Adaptation With Transformation Invariance",
+      "authors": "A. Tuan Nguyen, Thanh Nguyen-Tang, Ser-Nam Lim, Philip H.S. Torr",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nguyen_TIPI_Test_Time_Adaptation_With_Transformation_Invariance_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1603",
+      "paper_id": "",
+      "title": "Towards Better Stability and Adaptability: Improve Online Self-Training for Model Adaptation in Semantic Segmentation",
+      "authors": "Dong Zhao, Shuang Wang, Qi Zang, Dou Quan, Xiutiao Ye, Licheng Jiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Towards_Better_Stability_and_Adaptability_Improve_Online_Self-Training_for_Model_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_163",
+      "paper_id": "",
+      "title": "Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation",
+      "authors": "Binhui Xie, Longhui Yuan, Shuang Li, Chi Harold Liu, Xinjing Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Towards_Fewer_Annotations_Active_Learning_via_Region_Impurity_and_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1762",
+      "paper_id": "",
+      "title": "Towards Generalizing to Unseen Domains with Few Labels",
+      "authors": "Chamuditha Jayanga Galappaththige, Sanoojan Baliah, Malitha Gunawardhana, Muhammad Haris Khan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Galappaththige_Towards_Generalizing_to_Unseen_Domains_with_Few_Labels_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_598",
+      "paper_id": "",
+      "title": "Towards Robust Adaptive Object Detection Under Noisy Annotations",
+      "authors": "Xinyu Liu, Wuyang Li, Qiushi Yang, Baopu Li, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_Adaptive_Object_Detection_Under_Noisy_Annotations_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1988",
+      "paper_id": "",
+      "title": "Towards Unsupervised Domain Generalization",
+      "authors": "Xingxuan Zhang, Linjun Zhou, Renzhe Xu, Peng Cui, Zheyan Shen, Haoxin Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Towards_Unsupervised_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_325",
+      "paper_id": "",
+      "title": "Train/Test-Time Adaptation With Retrieval",
+      "authors": "Luca Zancato, Alessandro Achille, Tian Yu Liu, Matthew Trager, Pramuditha Perera, Stefano Soatto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zancato_TrainTest-Time_Adaptation_With_Retrieval_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1236",
+      "paper_id": "",
+      "title": "Transferable Query Selection for Active Domain Adaptation",
+      "authors": "Bo Fu, Zhangjie Cao, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_Transferable_Query_Selection_for_Active_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_904",
+      "paper_id": "",
+      "title": "Transferable Semantic Augmentation for Domain Adaptation",
+      "authors": "Shuang Li, Mixue Xie, Kaixiong Gong, Chi Harold Liu, Yulin Wang, Wei Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Transferable_Semantic_Augmentation_for_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1072",
+      "paper_id": "",
+      "title": "TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation",
+      "authors": "Taeyeop Lee, Jonathan Tremblay, Valts Blukis, Bowen Wen, Byeong-Uk Lee, Inkyu Shin, Stan Birchfield, In So Kweon, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_TTA-COPE_Test-Time_Adaptation_for_Category-Level_Object_Pose_Estimation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1736",
+      "paper_id": "",
+      "title": "Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection",
+      "authors": "Yajing Liu, Shijun Zhou, Xiyao Liu, Chunhui Hao, Baojie Fan, Jiandong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1472",
+      "paper_id": "",
+      "title": "Unbiased Mean Teacher for Cross-Domain Object Detection",
+      "authors": "Jinhong Deng, Wen Li, Yuhua Chen, Lixin Duan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Unbiased_Mean_Teacher_for_Cross-Domain_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_469",
+      "paper_id": "",
+      "title": "Uncertainty Reduction for Model Adaptation in Semantic Segmentation",
+      "authors": "Prabhu Teja S, Francois Fleuret",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_684",
+      "paper_id": "",
+      "title": "Uncertainty-Guided Model Generalization to Unseen Domains",
+      "authors": "Fengchun Qiao, Xi Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Qiao_Uncertainty-Guided_Model_Generalization_to_Unseen_Domains_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2223",
+      "paper_id": "",
+      "title": "Understanding and Improving Source-free Domain Adaptation from a Theoretical Perspective",
+      "authors": "Yu Mitsuzumi, Akisato Kimura, Hisashi Kashima",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mitsuzumi_Understanding_and_Improving_Source-free_Domain_Adaptation_from_a_Theoretical_Perspective_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1045",
+      "paper_id": "",
+      "title": "Undoing the Damage of Label Shift for Cross-Domain Semantic Segmentation",
+      "authors": "Yahao Liu, Jinhong Deng, Jiale Tao, Tong Chu, Lixin Duan, Wen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Undoing_the_Damage_of_Label_Shift_for_Cross-Domain_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2320",
+      "paper_id": "",
+      "title": "UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration",
+      "authors": "Jingyi Zhang, Jiaxing Huang, Xiaoqin Zhang, Shijian Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_UniDAformer_Unified_Domain_Adaptive_Panoptic_Segmentation_Transformer_via_Hierarchical_Mask_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_256",
+      "paper_id": "",
+      "title": "Unified Entropy Optimization for Open-Set Test-Time Adaptation",
+      "authors": "Zhengqing Gao, Xu-Yao Zhang, Cheng-Lin Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Unified_Entropy_Optimization_for_Open-Set_Test-Time_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1685",
+      "paper_id": "",
+      "title": "Unified Language-driven Zero-shot Domain Adaptation",
+      "authors": "Senqiao Yang, Zhuotao Tian, Li Jiang, Jiaya Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Unified_Language-driven_Zero-shot_Domain_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_363",
+      "paper_id": "",
+      "title": "Universal Domain Adaptation for Semantic Segmentation",
+      "authors": "Seun-An Choe, Keon-Hee Park, Jinwoo Choi, Gyeong-Moon Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Choe_Universal_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2586",
+      "paper_id": "",
+      "title": "Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias",
+      "authors": "Wenyu Zhang, Qingmu Liu, Felix Ong Wei Cong, Mohamed Ragab, Chuan-Sheng Foo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Universal_Semi-Supervised_Domain_Adaptation_by_Mitigating_Common-Class_Bias_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2066",
+      "paper_id": "",
+      "title": "Unknown Prompt the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization",
+      "authors": "Mainak Singha, Ankit Jha, Shirsha Bose, Ashwin Nair, Moloud Abdar, Biplab Banerjee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2109",
+      "paper_id": "",
+      "title": "Unlocking the Potential of Unlabeled Data in Semi-Supervised Domain Generalization",
+      "authors": "Dongkwan Lee, Kyomin Hwang, Nojun Kwak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Unlocking_the_Potential_of_Unlabeled_Data_in_Semi-Supervised_Domain_Generalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1027",
+      "paper_id": "",
+      "title": "Unsupervised Domain Generalization by Learning a Bridge Across Domains",
+      "authors": "Sivan Harary, Eli Schwartz, Assaf Arbelle, Peter Staar, Shady Abu-Hussein, Elad Amrani, Roei Herzig, Amit Alfassy, Raja Giryes, Hilde Kuehne, Dina Katabi, Kate Saenko, Rogerio S. Feris, Leonid Karlinsky",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Harary_Unsupervised_Domain_Generalization_by_Learning_a_Bridge_Across_Domains_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_681",
+      "paper_id": "",
+      "title": "Unsupervised Multi-Source Domain Adaptation Without Access to Source Data",
+      "authors": "Sk Miraj Ahmed, Dripta S. Raychaudhuri, Sujoy Paul, Samet Oymak, Amit K. Roy-Chowdhury",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ahmed_Unsupervised_Multi-Source_Domain_Adaptation_Without_Access_to_Source_Data_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1783",
+      "paper_id": "",
+      "title": "Unsupervised Video Domain Adaptation with Masked Pre-Training and Collaborative Self-Training",
+      "authors": "Arun Reddy, William Paul, Corban Rivera, Ketul Shah, Celso M. de Melo, Rama Chellappa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Reddy_Unsupervised_Video_Domain_Adaptation_with_Masked_Pre-Training_and_Collaborative_Self-Training_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2580",
+      "paper_id": "",
+      "title": "Unveiling the Unknown: Unleashing the Power of Unknown to Known in Open-Set Source-Free Domain Adaptation",
+      "authors": "Fuli Wan, Han Zhao, Xu Yang, Cheng Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wan_Unveiling_the_Unknown_Unleashing_the_Power_of_Unknown_to_Known_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_812",
+      "paper_id": "",
+      "title": "Upcycling Models Under Domain and Category Shift",
+      "authors": "Sanqing Qu, Tianpei Zou, Florian Röhrbein, Cewu Lu, Guang Chen, Dacheng Tao, Changjun Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Upcycling_Models_Under_Domain_and_Category_Shift_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1642",
+      "paper_id": "",
+      "title": "Video Test-Time Adaptation for Action Recognition",
+      "authors": "Wei Lin, Muhammad Jehanzeb Mirza, Mateusz Kozinski, Horst Possegger, Hilde Kuehne, Horst Bischof",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Video_Test-Time_Adaptation_for_Action_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_72",
+      "paper_id": "",
+      "title": "Visualizing Adapted Knowledge in Domain Transfer",
+      "authors": "Yunzhong Hou, Liang Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Visualizing_Adapted_Knowledge_in_Domain_Transfer_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_151",
+      "paper_id": "",
+      "title": "Wasserstein Barycenter for Multi-Source Domain Adaptation",
+      "authors": "Eduardo Fernandes Montesuma, Fred Maurice Ngole Mboula",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1933",
+      "paper_id": "",
+      "title": "Weak-Shot Object Detection Through Mutual Knowledge Transfer",
+      "authors": "Xuanyi Du, Weitao Wan, Chong Sun, Chen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Weak-Shot_Object_Detection_Through_Mutual_Knowledge_Transfer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2009",
+      "paper_id": "",
+      "title": "Weakly-Supervised Domain Adaptive Semantic Segmentation With Prototypical Contrastive Learning",
+      "authors": "Anurag Das, Yongqin Xian, Dengxin Dai, Bernt Schiele",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Das_Weakly-Supervised_Domain_Adaptive_Semantic_Segmentation_With_Prototypical_Contrastive_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_596",
+      "paper_id": "",
+      "title": "What How and When Should Object Detectors Update in Continually Changing Test Domains?",
+      "authors": "Jayeon Yoo, Dongkwan Lee, Inseop Chung, Donghyun Kim, Nojun Kwak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yoo_What_How_and_When_Should_Object_Detectors_Update_in_Continually_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_949",
+      "paper_id": "",
+      "title": "WildNet: Learning Domain Generalized Semantic Segmentation From the Wild",
+      "authors": "Suhyeon Lee, Hongje Seong, Seongwon Lee, Euntai Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_WildNet_Learning_Domain_Generalized_Semantic_Segmentation_From_the_Wild_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    }
+  ]
+}

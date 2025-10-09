@@ -1,0 +1,581 @@
+{
+  "cluster_id": 121,
+  "papers": [
+    {
+      "id": "siggraph22_papers_544",
+      "paper_id": "papers_544",
+      "title": "A Clebsch Method for Free-surface Vortical Flow Simulation",
+      "authors": "Shiying Xiong, Zhecheng Wang, Mengdi Wang, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_237",
+      "paper_id": "papers_237",
+      "title": "A Contact Proxy Splitting Method for Lagrangian Solid-fluid Coupling",
+      "authors": "Tianyi Xie, Minchen Li, Yin Yang, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_paperstog_124",
+      "paper_id": "paperstog_124",
+      "title": "A Dual-Particle Approach for Incompressible SPH Fluids",
+      "authors": "Shusen Liu, Xiaowei He, Yuzhong Guo, Yue Chang, Wencheng Wang, Shusen Liu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_610",
+      "paper_id": "papers_610",
+      "title": "A Dynamic Duo of Finite Elements and Material Points",
+      "authors": "Xuan Li, Minchen Li, Xuchen Han, Huamin Wang, Yin Yang, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_385",
+      "paper_id": "papers_385",
+      "title": "A Fast Unsmoothed Aggregation Algebraic Multigrid Framework for the Large-scale Simulation of Incompressible Flow",
+      "authors": "Han Shao, Libo Huang, Dominik Michels",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_b20aa9dd62",
+      "paper_id": "b20aa9dd62",
+      "title": "A Hybrid Near-wall Model for Kinetic Simulation of Turbulent Boundary Layer Flows",
+      "authors": "Mengyun Liu, Kai Bai, Xiaopei Liu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_561",
+      "paper_id": "papers_561",
+      "title": "A Momentum-conserving Implicit Material Point Method for Surface Tension With Contact Angles and Spatial Gradients",
+      "authors": "Jingyu Chen, Victoria Kala, Alan Marquez-Razon, Elias Gueidon, David Andrew B. Hyde, Joseph Teran",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_692",
+      "paper_id": "papers_692",
+      "title": "A Moving Eulerian-Lagrangian Particle Method for Thin Film and Foam Simulation",
+      "authors": "Yitong Deng, Mengdi Wang, Xiangxin Kong, Shiying Xiong, Zangyueyang Xian, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_paperstog_112",
+      "paper_id": "paperstog_112",
+      "title": "A Practical Model for Realistic Butterfly Flight Simulation",
+      "authors": "Qiang Chen, Tingsong Lu, Yang Tong, Guoliang Luo, Xiaogang Jin, Zhigang Deng, Qiang Chen",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_paperstog_102",
+      "paper_id": "paperstog_102",
+      "title": "A Sparse Distributed Gigascale Resolution Material Point Method",
+      "authors": "Yuxing Qiu, Samuel Temple Reeve, Minchen Li, Yin Yang, Stuart Slattery, Chenfanfu Jiang, Yuxing Qiu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_333",
+      "paper_id": "papers_333",
+      "title": "A Unified Second-order Accurate in Time MPM Formulation for Simulating Viscoelastic Liquids With Phase Change",
+      "authors": "Haozhe Su, Tao Xue, Chengguizi Han, Chenfanfu Jiang, Mridul Aanjaneya",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_389",
+      "paper_id": "papers_389",
+      "title": "A Vortex Particle-on-mesh Method for Soap Film Simulation",
+      "authors": "Ningxiao Tao, Liangwang Ruan, Yitong Deng, Bo Zhu, Bin Wang, Baoquan Chen",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_1000a5f819",
+      "paper_id": "1000a5f819",
+      "title": "Adaptive Phase-Field-FLIP for Very Large Scale Two-Phase Fluid Simulation",
+      "authors": "Bernhard Braun, Jan Bender, Nils Thuerey",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_102",
+      "paper_id": "paperstog_102",
+      "title": "An Efficient B-spline Lagrangian/Eulerian Method for Compressible Flow, Shock Waves, and Fracturing Solids",
+      "authors": "Yadi Cao, Yunuo Chen, Minchen Li, Yin Yang, Xinxin Zhang, Mridul Aanjaneya, Chenfanfu Jiang, Yadi Cao",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_138",
+      "paper_id": "papers_138",
+      "title": "An Induce-on-Boundary Magnetostatic Solver for Grid-based Ferrofluids",
+      "authors": "Xingyu Ni, Ruicheng Wang, Bin Wang, Baoquan Chen",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_93be9243b0",
+      "paper_id": "93be9243b0",
+      "title": "Arenite: A Physics-based Sandstone Simulator",
+      "authors": "Zhanyu Yang, Aryamaan Jain, Guillaume Cordonnier, Marie-Paule Cani, Zhaopeng Wang, Bedrich Benes",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_483",
+      "paper_id": "papers_483",
+      "title": "Building a Virtual Weakly-compressible Wind Tunnel Testing Facility",
+      "authors": "Chaoyang Lyu, Kai Bai, Yiheng Wu, Mathieu Desbrun, Changxi Zheng, Xiaopei Liu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_ecb94a4ace",
+      "paper_id": "ecb94a4ace",
+      "title": "Cirrus: Adaptive Hybrid Particle-Grid Flow Maps on GPU",
+      "authors": "Mengdi Wang, Fan Feng, Junlin Li, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_13cc2f85c0",
+      "paper_id": "13cc2f85c0",
+      "title": "CK-MPM: A Compact-Kernel Material Point Method",
+      "authors": "Michael Liu, Xinlei Wang, Minchen Li",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_520",
+      "paper_id": "papers_520",
+      "title": "Clebsch Gauge Fluid",
+      "authors": "Shuqi Yang, Shiying Xiong, Yaorui Zhang, Fan Feng, Jinyuan Liu, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_565f159112",
+      "paper_id": "565f159112",
+      "title": "Clebsch Gauge Fluid on Particle Flow Maps",
+      "authors": "Zhiqi Li, Candong Lin, Duowen Chen, Xinyi Zhou, Shiying Xiong, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_bb5578d50f",
+      "paper_id": "bb5578d50f",
+      "title": "Controllable Complex Freezing Dynamics Simulation on Thin Films",
+      "authors": "Yijie Liu, Taiyuan Zhang, Xiaoxiao Yan, Nuoming Liu, Bo Ren",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_434",
+      "paper_id": "papers_434",
+      "title": "Covector Fluids",
+      "authors": "Mohammad Sina Nabizadeh, Stephanie Wang, Ravi Ramamoorthi, Albert Chern",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_14ce595b84",
+      "paper_id": "14ce595b84",
+      "title": "Creating Fluid-Interactive Virtual Agents by an Efficient Simulator with Local-domain Control",
+      "authors": "Wenbin Song, Heng Zhang, Yang Wang, Xiaopei Liu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_266",
+      "paper_id": "papers_266",
+      "title": "Cyclogenesis: Simulating Hurricanes and Tornadoes",
+      "authors": "Jorge Alejandro Amador Herrera, Jonathan Klein, Daoming Liu, Wojtek Pałubicki, Sören Pirk, Dominik L. Michels",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_bb17bfecb9",
+      "paper_id": "bb17bfecb9",
+      "title": "Digital Animation of Powder-Snow Avalanches",
+      "authors": "Filipe Nascimento, Fabricio S. Sousa, Afonso Paiva",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_paperstog_121",
+      "paper_id": "paperstog_121",
+      "title": "Dynamic Upsampling of Smoke Through Dictionary-based Learning",
+      "authors": "Kai Bai, Wei Li, Mathieu Desbrun, Xiaopei Liu",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_960f9207c5",
+      "paper_id": "960f9207c5",
+      "title": "EDGE: Epsilon-Difference Gradient Evolution for Buffer-Free Flow Maps",
+      "authors": "Zhiqi Li, Ruicheng Wang, Junlin Li, Duowen Chen, Sinan Wang, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_892",
+      "paper_id": "papers_892",
+      "title": "Efficient Debris-flow Simulation for Steep Terrain Erosion",
+      "authors": "Aryamaan Jain, Bedrich Benes, Guillaume Cordonnier",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_477",
+      "paper_id": "papers_477",
+      "title": "Efficient Kinetic Simulation of Two-Phase Flows",
+      "authors": "Wei Li, Yihui Ma, Xiaopei Liu, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_571",
+      "paper_id": "papers_571",
+      "title": "Eulerian-Lagrangian Fluid Simulation on Particle Flow Maps",
+      "authors": "Junwei Zhou, Duowen Chen, Molin Deng, Yitong Deng, Yuchen Sun, Sinan Wang, Shiying Xiong, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_d5929497ff",
+      "paper_id": "d5929497ff",
+      "title": "Exploring Real-Time Water Surface Simulation for Immersive Virtual Reality Using Marker-Based Tracking",
+      "authors": "Li-En Lai, Chi-Yu Lin, Tse-Yu Pan, Ping-Hsuan Han",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_8ee6b3de81",
+      "paper_id": "8ee6b3de81",
+      "title": "Fast Subspace Fluid Simulation with a Temporally-Aware Basis",
+      "authors": "Siyuan Chen, Yixin Chen, Jonathan Panuelos, Otman Benchekroun, Yue Chang, Eitan Grinspun, Zhecheng Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_500",
+      "paper_id": "papers_500",
+      "title": "Fluid Cohomology",
+      "authors": "Hang Yin, Mohammad Sina Nabizadeh, Baichuan Wu, Stephanie Wang, Albert Chern",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_754",
+      "paper_id": "papers_754",
+      "title": "Fluid Control With Laplacian Eigenfunctions",
+      "authors": "Yixin Chen, David Levin, Timothy Langlois",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_8eb4bf87e0",
+      "paper_id": "8eb4bf87e0",
+      "title": "Fluid Simulation on Compressible Flow Maps",
+      "authors": "Duowen Chen, Zhiqi Li, Taiyuan Zhang, Jinjin He, Junwei Zhou, Bart G. van Bloemen Waanders, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_a4fa18f8ff",
+      "paper_id": "a4fa18f8ff",
+      "title": "Fluid Simulation on Vortex Particle Flow Maps",
+      "authors": "Sinan Wang, Junwei Zhou, Fan Feng, Zhiqi Li, Yuchen Sun, Duowen Chen, Greg Turk, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_392",
+      "paper_id": "papers_392",
+      "title": "Fluid-solid Coupling in Kinetic Two-phase Flow Simulation",
+      "authors": "Wei Li, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_584",
+      "paper_id": "papers_584",
+      "title": "Forming Terrains by Glacial Erosion",
+      "authors": "Guillaume Cordonnier, Guillaume Jouvet, Adrien Peytavie, Jean Braun, Marie-Paule Cani, Bedrich Benes, Eric Galin, Eric Guerin, James Gain",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_18afefbcbd",
+      "paper_id": "18afefbcbd",
+      "title": "Gaussian Fluids: A Grid-Free Fluid Solver based on Gaussian Spatial Representation",
+      "authors": "Jingrui Xing, Bin Wang, Mengyu Chu, Baoquan Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_167",
+      "paper_id": "papers_167",
+      "title": "Generalizing Shallow Water Simulations With Dispersive Surface Waves",
+      "authors": "Stefan Jeschke, Chris Wojtan",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_378",
+      "paper_id": "papers_378",
+      "title": "Going With the Flow",
+      "authors": "Yousuf Soliman, Marcel Padilla, Oliver Gross, Felix Knöppel, Ulrich Pinkall, Peter Schröder",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_pos_133",
+      "paper_id": "pos_133",
+      "title": "GPGPU Accelerated Flow Diagrams",
+      "authors": "Daniel Bird, Stephen Laycock",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_148",
+      "paper_id": "papers_148",
+      "title": "Guided Bubbles and Wet Foam for Realistic Whitewater Simulation",
+      "authors": "Joel Wretborn, Sean Flynn, Alexey Stomakhin",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_paperstog_116",
+      "paper_id": "paperstog_116",
+      "title": "Implicit Surface Tension for SPH Fluid Simulation",
+      "authors": "Stefan Rhys Jeske, Lukas Westhofen, Fabian Löschner, José Antonio Fernández-Fernández, Jan Bender, Stefan Rhys Jeske",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_605",
+      "paper_id": "papers_605",
+      "title": "Improved Water Sound Synthesis Using Coupled Bubbles",
+      "authors": "Kangrui Xue, Doug L. James, Jui-Hsien Wang, Ryan Aronson, Timothy Langlois",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_pos_248",
+      "paper_id": "pos_248",
+      "title": "In Situ Segmentation of Turbulent Flow With Topological Data Analysis",
+      "authors": "Florent Nauleau, Benjamin Fovet, Fabien Vivodtzev",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_518",
+      "paper_id": "papers_518",
+      "title": "Incompressible Flow Simulation on Vortex Segment Clouds",
+      "authors": "Shiying Xiong, Rui Tao, Yaorui Zhang, Fan Feng, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_563",
+      "paper_id": "papers_563",
+      "title": "Kinetic Simulation of Turbulent Multifluid Flows",
+      "authors": "Wei Li, Kui Wu, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_1106",
+      "paper_id": "papers_1106",
+      "title": "Lagrangian Covector Fluid With Free Surface",
+      "authors": "Zhiqi Li, Barnabás Börcsök, Duowen Chen, Yutong Sun, Bo Zhu, Greg Turk",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_3c48c7849a",
+      "paper_id": "3c48c7849a",
+      "title": "Leapfrog Flow Maps for Real-Time Fluid Simulation",
+      "authors": "Yuchen Sun, Junlin Li, Ruicheng Wang, Sinan Wang, Zhiqi Li, Bart G. van Bloemen Waanders, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_414",
+      "paper_id": "papers_414",
+      "title": "Learning Meaningful Controls for Fluids",
+      "authors": "Mengyu Chu, Nils Thuerey, Hans-Peter Seidel, Christian Theobalt, Rhaleb Zayer",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_147",
+      "paper_id": "papers_147",
+      "title": "Loki: A Unified Multiphysics Simulation Framework for Production",
+      "authors": "Steve Lesser, Alexey Stomakhin, Gilles Daviet, Joel Wretborn, John Edholm, Noh-hoon Lee, Eston Schweickart, Xiao Zhai, Sean Flynn, Andrew Moffat",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_569",
+      "paper_id": "papers_569",
+      "title": "Neural Monte Carlo Fluid Simulation",
+      "authors": "Pranav Jain, Ziyin Qu, Peter Yichen Chen, Oded Stein",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_paperstog_126",
+      "paper_id": "paperstog_126",
+      "title": "Optimized Refinement for Spatially Adaptive SPH",
+      "authors": "Rene Winchenbach, Andreas Kolb",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_672",
+      "paper_id": "papers_672",
+      "title": "Physics Informed Neural Fields for Smoke Reconstruction With Sparse Data",
+      "authors": "Mengyu Chu, Lingjie Liu, Quan Zheng, Erik Franz, Hans-Peter Seidel, Christian Theobalt, Rhaleb Zayer",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_paperstog_151",
+      "paper_id": "paperstog_151",
+      "title": "Physics-based Combustion Simulation",
+      "authors": "Michael B. Nielsen, Robert Bridson, Morten Bojsen-Hansen, Konstantinos Stamatelos, Michael B. Nielsen, Robert Bridson",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_880",
+      "paper_id": "papers_880",
+      "title": "Physics-informed Learning of Characteristic Trajectories for Smoke Reconstruction",
+      "authors": "Yiming Wang, Siyu Tang, Mengyu Chu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_453",
+      "paper_id": "papers_453",
+      "title": "PolyStokes: A Polynomial Model Reduction Method for Viscous Fluid Simulation",
+      "authors": "Jonathan Panuelos, Ryan Goldade, Eitan Grinspun, David Levin, Christopher Batty",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_e6907ba9a3",
+      "paper_id": "e6907ba9a3",
+      "title": "Quadtree Tall Cells for Eulerian Liquid Simulation",
+      "authors": "Fumiya Narita, Nimiko Ochiai, Takashi Kanai, Ryoichi Ando",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_492",
+      "paper_id": "papers_492",
+      "title": "Real-time Wing Deformation Simulations for Flying Insects",
+      "authors": "Qiang Chen, Zhigang Deng, Feng Li, Yuming Fang, Tingsong Lu, Yang Tong, Yifan Zuo",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_138",
+      "paper_id": "papers_138",
+      "title": "Revisiting Integration in the Material Point Method: A Scheme for Easier Separation and Less Dissipation",
+      "authors": "Yun (Raymond) Fei, Qi Guo, Rundong Wu, Li Huang, Ming Gao",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_5e018bee0a",
+      "paper_id": "5e018bee0a",
+      "title": "Scalable Volume Rendering of Billion-Cell CFD Simulations Using VFX Pipelines",
+      "authors": "Petr Strakos, Milan Jaros, Tomas Brzobohaty, Marketa Faltynkova, Ondrej Meca, Lubomir Riha",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_508",
+      "paper_id": "papers_508",
+      "title": "Solid-fluid Interaction With Surface-tension-dominant Contact",
+      "authors": "Liangwang Ruan, Jinyuan Liu, Bo Zhu, Shinjiro Sueda, Bin Wang, Baoquan Chen",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_429",
+      "paper_id": "papers_429",
+      "title": "Stream-guided Smoke Simulations",
+      "authors": "Syuhei Sato, Yoshinori Dobashi, Theodore Kim",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_778",
+      "paper_id": "papers_778",
+      "title": "Terrain Amplification Using Multi Scale Erosion",
+      "authors": "Hugo Schott, Eric Galin, Eric Guérin, Axel Paris, Adrien Peytavie",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_172",
+      "paper_id": "papers_172",
+      "title": "The Power Particle-in-Cell Method",
+      "authors": "Ziyin Qu, Minchen Li, Fernando de Goes, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_514",
+      "paper_id": "papers_514",
+      "title": "Thin-film Smoothed Particle Hydrodynamics Fluid",
+      "authors": "Mengdi Wang, Yitong Deng, Xiangxin Kong, Aditya Prasad, Shiying Xiong, Bo Zhu",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_201",
+      "paper_id": "papers_201",
+      "title": "Unified Particle System for Multiple-fluid Flow and Porous Material",
+      "authors": "Bo Ren, Ben Xu, Chenfeng Li",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_6064e86e33",
+      "paper_id": "6064e86e33",
+      "title": "Unified Pressure, Surface Tension and Friction for SPH Fluids",
+      "authors": "Timo Probst, Matthias Teschner, Timo Probst",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_241",
+      "paper_id": "papers_241",
+      "title": "Velocity-based Monte Carlo Fluids",
+      "authors": "Ryusuke Sugimoto, Christopher Batty, Toshiya Hachisuka",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_503",
+      "paper_id": "papers_503",
+      "title": "VEMPIC: Particle-in-polyhedron Fluid Simulation for Intricate Solid Boundaries",
+      "authors": "Michael Tao, Christopher Batty, Mirela Ben-Chen, Eugene Fiume, David Levin",
+      "paper_url": "",
+      "venue": "siggraph22"
+    }
+  ]
+}

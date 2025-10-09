@@ -1,0 +1,2893 @@
+{
+  "cluster_id": 14,
+  "papers": [
+    {
+      "id": "cvpr23_1376",
+      "paper_id": "",
+      "title": "3D Concept Learning and Reasoning From Multi-View Images",
+      "authors": "Yining Hong, Chunru Lin, Yilun Du, Zhenfang Chen, Joshua B. Tenenbaum, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hong_3D_Concept_Learning_and_Reasoning_From_Multi-View_Images_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_856",
+      "paper_id": "",
+      "title": "3D Human Action Representation Learning via Cross-View Consistency Pursuit",
+      "authors": "Linguo Li, Minsi Wang, Bingbing Ni, Hang Wang, Jiancheng Yang, Wenjun Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_3D_Human_Action_Representation_Learning_via_Cross-View_Consistency_Pursuit_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_189",
+      "paper_id": "",
+      "title": "3D Spatial Multimodal Knowledge Accumulation for Scene Graph Prediction in Point Cloud",
+      "authors": "Mingtao Feng, Haoran Hou, Liang Zhang, Zijie Wu, Yulan Guo, Ajmal Mian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_3D_Spatial_Multimodal_Knowledge_Accumulation_for_Scene_Graph_Prediction_in_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_30",
+      "paper_id": "",
+      "title": "3D-Aware Object Goal Navigation via Simultaneous Exploration and Identification",
+      "authors": "Jiazhao Zhang, Liu Dai, Fanpeng Meng, Qingnan Fan, Xuelin Chen, Kai Xu, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_3D-Aware_Object_Goal_Navigation_via_Simultaneous_Exploration_and_Identification_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2834",
+      "paper_id": "",
+      "title": "3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination",
+      "authors": "Jianing Yang, Xuweiyi Chen, Nikhil Madaan, Madhavan Iyengar, Shengyi Qian, David F. Fouhey, Joyce Chai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_3D-GRAND_A_Million-Scale_Dataset_for_3D-LLMs_with_Better_Grounding_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_512",
+      "paper_id": "",
+      "title": "3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer",
+      "authors": "Jiajun Deng, Tianyu He, Li Jiang, Tianyu Wang, Feras Dayoub, Ian Reid",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_3D-LLaVA_Towards_Generalist_3D_LMMs_with_Omni_Superpoint_Transformer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2275",
+      "paper_id": "",
+      "title": "3D-Mem: 3D Scene Memory for Embodied Exploration and Reasoning",
+      "authors": "Yuncong Yang, Han Yang, Jiachen Zhou, Peihao Chen, Hongxin Zhang, Yilun Du, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_3D-Mem_3D_Scene_Memory_for_Embodied_Exploration_and_Reasoning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1463",
+      "paper_id": "",
+      "title": "3D-MVP: 3D Multiview Pretraining for Manipulation",
+      "authors": "Shengyi Qian, Kaichun Mo, Valts Blukis, David F. Fouhey, Dieter Fox, Ankit Goyal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qian_3D-MVP_3D_Multiview_Pretraining_for_Manipulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1908",
+      "paper_id": "",
+      "title": "3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection",
+      "authors": "Junyu Luo, Jiahui Fu, Xianghao Kong, Chen Gao, Haibing Ren, Hao Shen, Huaxia Xia, Si Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_3D-SPS_Single-Stage_3D_Visual_Grounding_via_Referred_Point_Progressive_Selection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_103",
+      "paper_id": "",
+      "title": "3DInAction: Understanding Human Actions in 3D Point Clouds",
+      "authors": "Yizhak Ben-Shabat, Oren Shrout, Stephen Gould",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ben-Shabat_3DInAction_Understanding_Human_Actions_in_3D_Point_Clouds_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_106",
+      "paper_id": "",
+      "title": "3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds",
+      "authors": "Daigang Cai, Lichen Zhao, Jing Zhang, Lu Sheng, Dong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_3DJCG_A_Unified_Framework_for_Joint_Dense_Captioning_and_Visual_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1759",
+      "paper_id": "",
+      "title": "3Mformer: Multi-Order Multi-Mode Transformer for Skeletal Action Recognition",
+      "authors": "Lei Wang, Piotr Koniusz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2405",
+      "paper_id": "",
+      "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
+      "authors": "Wanhua Li, Renping Zhou, Jiawei Zhou, Yingwei Song, Johannes Herter, Minghan Qin, Gao Huang, Hanspeter Pfister",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_4D_LangSplat_4D_Language_Gaussian_Splatting_via_Multimodal_Large_Language_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_938",
+      "paper_id": "",
+      "title": "A Category Agnostic Model for Visual Rearrangment",
+      "authors": "Yuyi Liu, Xinhang Song, Weijie Li, Xiaohan Wang, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_A_Category_Agnostic_Model_for_Visual_Rearrangment_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1750",
+      "paper_id": "",
+      "title": "A Hybrid Egocentric Activity Anticipation Framework via Memory-Augmented Recurrent and One-Shot Representation Forecasting",
+      "authors": "Tianshan Liu, Kin-Man Lam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_Hybrid_Egocentric_Activity_Anticipation_Framework_via_Memory-Augmented_Recurrent_and_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1568",
+      "paper_id": "",
+      "title": "A New Path: Scaling Vision-and-Language Navigation With Synthetic Instructions and Imitation Learning",
+      "authors": "Aishwarya Kamath, Peter Anderson, Su Wang, Jing Yu Koh, Alexander Ku, Austin Waters, Yinfei Yang, Jason Baldridge, Zarana Parekh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kamath_A_New_Path_Scaling_Vision-and-Language_Navigation_With_Synthetic_Instructions_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1618",
+      "paper_id": "",
+      "title": "Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition",
+      "authors": "Lilang Lin, Jiahang Zhang, Jiaying Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Actionlet-Dependent_Contrastive_Learning_for_Unsupervised_Skeleton-Based_Action_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1530",
+      "paper_id": "",
+      "title": "Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations",
+      "authors": "Lei Fan, Jianxiong Zhou, Xiaoying Xing, Ying Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Active_Open-Vocabulary_Recognition_Let_Intelligent_Moving_Mitigate_CLIP_Limitations_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1231",
+      "paper_id": "",
+      "title": "ADAPT: Vision-Language Navigation With Modality-Aligned Action Prompts",
+      "authors": "Bingqian Lin, Yi Zhu, Zicong Chen, Xiwen Liang, Jianzhuang Liu, Xiaodan Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_ADAPT_Vision-Language_Navigation_With_Modality-Aligned_Action_Prompts_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1045",
+      "paper_id": "",
+      "title": "Adaptive Zone-Aware Hierarchical Planner for Vision-Language Navigation",
+      "authors": "Chen Gao, Xingyu Peng, Mi Yan, He Wang, Lirong Yang, Haibing Ren, Hongsheng Li, Si Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1795",
+      "paper_id": "",
+      "title": "Affordances From Human Videos as a Versatile Representation for Robotics",
+      "authors": "Shikhar Bahl, Russell Mendonca, Lili Chen, Unnat Jain, Deepak Pathak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bahl_Affordances_From_Human_Videos_as_a_Versatile_Representation_for_Robotics_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_305",
+      "paper_id": "",
+      "title": "AffordDP: Generalizable Diffusion Policy with Transferable Affordance",
+      "authors": "Shijie Wu, Yihang Zhu, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, Ye Shi, Jingya Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_AffordDP_Generalizable_Diffusion_Policy_with_Transferable_Affordance_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1976",
+      "paper_id": "",
+      "title": "An Interactive Navigation Method with Effect-oriented Affordance",
+      "authors": "Xiaohan Wang, Yuehu Liu, Xinhang Song, Yuyi Liu, Sixian Zhang, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_An_Interactive_Navigation_Method_with_Effect-oriented_Affordance_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2055",
+      "paper_id": "",
+      "title": "AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents",
+      "authors": "Jieming Cui, Tengyu Liu, Nian Liu, Yaodong Yang, Yixin Zhu, Siyuan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cui_AnySkill_Learning_Open-Vocabulary_Physical_Skill_for_Interactive_Agents_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_266",
+      "paper_id": "",
+      "title": "Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?",
+      "authors": "Jianyang Xie, Yitian Zhao, Yanda Meng, He Zhao, Anh Nguyen, Yalin Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Are_Spatial-Temporal_Graph_Convolution_Networks_for_Human_Action_Recognition_Over-Parameterized_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2421",
+      "paper_id": "",
+      "title": "ASHiTA: Automatic Scene-grounded HIerarchical Task Analysis",
+      "authors": "Yun Chang, Leonor Fermoselle, Duy Ta, Bernadette Bucher, Luca Carlone, Jiuguang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_ASHiTA_Automatic_Scene-grounded_HIerarchical_Task_Analysis_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2274",
+      "paper_id": "",
+      "title": "AssistGUI: Task-Oriented PC Graphical User Interface Automation",
+      "authors": "Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_AssistGUI_Task-Oriented_PC_Graphical_User_Interface_Automation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2117",
+      "paper_id": "",
+      "title": "Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft",
+      "authors": "Hao Li, Xue Yang, Zhaokai Wang, Xizhou Zhu, Jie Zhou, Yu Qiao, Xiaogang Wang, Hongsheng Li, Lewei Lu, Jifeng Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Auto_MC-Reward_Automated_Dense_Reward_Design_with_Large_Language_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_415",
+      "paper_id": "",
+      "title": "Autonomous Manipulation Learning for Similar Deformable Objects via Only One Demonstration",
+      "authors": "Yu Ren, Ronghan Chen, Yang Cong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Autonomous_Manipulation_Learning_for_Similar_Deformable_Objects_via_Only_One_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_886",
+      "paper_id": "",
+      "title": "Behavioral Analysis of Vision-and-Language Navigation Agents",
+      "authors": "Zijiao Yang, Arjun Majumdar, Stefan Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Behavioral_Analysis_of_Vision-and-Language_Navigation_Agents_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2191",
+      "paper_id": "",
+      "title": "Beyond Human Perception: Understanding Multi-Object World from Monocular View",
+      "authors": "Keyu Guo, Yongle Huang, Shijie Sun, Xiangyu Song, Mingtao Feng, Zedong Liu, Huansheng Song, Tiantian Wang, Jianxin Li, Naveed Akhtar, Ajmal Saeed Mian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Beyond_Human_Perception_Understanding_Multi-Object_World_from_Monocular_View_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2814",
+      "paper_id": "",
+      "title": "BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence",
+      "authors": "Xuewu Lin, Tianwei Lin, Lichao Huang, Hongyu Xie, Zhizhong Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_BIP3D_Bridging_2D_Images_and_3D_Perception_for_Embodied_Intelligence_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1201",
+      "paper_id": "",
+      "title": "Bipartite Graph Network With Adaptive Message Passing for Unbiased Scene Graph Generation",
+      "authors": "Rongjie Li, Songyang Zhang, Bo Wan, Xuming He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Bipartite_Graph_Network_With_Adaptive_Message_Passing_for_Unbiased_Scene_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1914",
+      "paper_id": "",
+      "title": "BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition",
+      "authors": "Yuxuan Zhou, Xudong Yan, Zhi-Qi Cheng, Yan Yan, Qi Dai, Xian-Sheng Hua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_BlockGCN_Redefine_Topology_Awareness_for_Skeleton-Based_Action_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_580",
+      "paper_id": "",
+      "title": "Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation",
+      "authors": "Yicong Hong, Zun Wang, Qi Wu, Stephen Gould",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Bridging_the_Gap_Between_Learning_in_Discrete_and_Continuous_Environments_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_591",
+      "paper_id": "",
+      "title": "CAD-Llama: Leveraging Large Language Models for Computer-Aided Design Parametric 3D Model Generation",
+      "authors": "Jiahao Li, Weijian Ma, Xueyang Li, Yunzhong Lou, Guichun Zhou, Xiangdong Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CAD-Llama_Leveraging_Large_Language_Models_for_Computer-Aided_Design_Parametric_3D_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_97",
+      "paper_id": "",
+      "title": "Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing",
+      "authors": "Xiaoxue Chen, Tianyu Liu, Hao Zhao, Guyue Zhou, Ya-Qin Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Cerberus_Transformer_Joint_Semantic_Affordance_and_Attribute_Parsing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_797",
+      "paper_id": "",
+      "title": "Chain of Semantics Programming in 3D Gaussian Splatting Representation for 3D Vision Grounding",
+      "authors": "Jiaxin Shi, Mingyue Xiang, Hao Sun, Yixuan Huang, Zhi Weng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shi_Chain_of_Semantics_Programming_in_3D_Gaussian_Splatting_Representation_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_464",
+      "paper_id": "",
+      "title": "CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation",
+      "authors": "Yuxing Long, Jiyao Zhang, Mingjie Pan, Tianshu Wu, Taewhan Kim, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Long_CheckManual_A_New_Challenge_and_Benchmark_for_Manual-based_Appliance_Manipulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1638",
+      "paper_id": "",
+      "title": "CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos",
+      "authors": "Xinhao Liu, Jintong Li, Yicheng Jiang, Niranjan Sujay, Zhicheng Yang, Juexiao Zhang, John Abanes, Jing Zhang, Chen Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_CityWalker_Learning_Embodied_Urban_Navigation_from_Web-Scale_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_203",
+      "paper_id": "",
+      "title": "Classification-Then-Grounding: Reformulating Video Scene Graphs As Temporal Bipartite Graphs",
+      "authors": "Kaifeng Gao, Long Chen, Yulei Niu, Jian Shao, Jun Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Classification-Then-Grounding_Reformulating_Video_Scene_Graphs_As_Temporal_Bipartite_Graphs_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1134",
+      "paper_id": "",
+      "title": "CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning",
+      "authors": "Lianggangxu Chen, Xuejiao Wang, Jiale Lu, Shaohui Lin, Changbo Wang, Gaoqi He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_CLIP-Driven_Open-Vocabulary_3D_Scene_Graph_Generation_via_Cross-Modality_Contrastive_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1905",
+      "paper_id": "",
+      "title": "CLIP2: Contrastive Language-Image-Point Pretraining From Real-World Point Cloud Data",
+      "authors": "Yihan Zeng, Chenhan Jiang, Jiageng Mao, Jianhua Han, Chaoqiang Ye, Qingqiu Huang, Dit-Yan Yeung, Zhen Yang, Xiaodan Liang, Hang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_CLIP2_Contrastive_Language-Image-Point_Pretraining_From_Real-World_Point_Cloud_Data_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1182",
+      "paper_id": "",
+      "title": "CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework",
+      "authors": "Yanlong Xu, Haoxuan Qu, Jun Liu, Wenxiao Zhang, Xun Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_CMMLoc_Advancing_Text-to-PointCloud_Localization_with_Cauchy-Mixture-Model_Based_Framework_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_792",
+      "paper_id": "",
+      "title": "Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model",
+      "authors": "Benlin Liu, Yuhao Dong, Yiqin Wang, Zixian Ma, Yansong Tang, Luming Tang, Yongming Rao, Wei-Chiu Ma, Ranjay Krishna",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Coarse_Correspondences_Boost_Spatial-Temporal_Reasoning_in_Multimodal_Language_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1960",
+      "paper_id": "",
+      "title": "Coarse-To-Fine Q-Attention: Efficient Learning for Visual Robotic Manipulation via Discretisation",
+      "authors": "Stephen James, Kentaro Wada, Tristan Laidlow, Andrew J. Davison",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/James_Coarse-To-Fine_Q-Attention_Efficient_Learning_for_Visual_Robotic_Manipulation_via_Discretisation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1501",
+      "paper_id": "",
+      "title": "Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection",
+      "authors": "Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Code-as-Monitor_Constraint-aware_Visual_Programming_for_Reactive_and_Proactive_Robotic_Failure_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2500",
+      "paper_id": "",
+      "title": "CogAgent: A Visual Language Model for GUI Agents",
+      "authors": "Wenyi Hong, Weihan Wang, Qingsong Lv, Jiazheng Xu, Wenmeng Yu, Junhui Ji, Yan Wang, Zihan Wang, Yuxiao Dong, Ming Ding, Jie Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_CogAgent_A_Visual_Language_Model_for_GUI_Agents_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_663",
+      "paper_id": "",
+      "title": "Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration",
+      "authors": "Lizheng Zu, Lin Lin, Song Fu, Na Zhao, Pan Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zu_Collaborative_Tree_Search_for_Enhancing_Embodied_Multi-Agent_Collaboration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1802",
+      "paper_id": "",
+      "title": "ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems",
+      "authors": "Xiangyuan Xue, Zeyu Lu, Di Huang, Zidong Wang, Wanli Ouyang, Lei Bai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_ComfyBench_Benchmarking_LLM-based_Agents_in_ComfyUI_for_Autonomously_Designing_Collaborative_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2282",
+      "paper_id": "",
+      "title": "Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation",
+      "authors": "Sayak Nag, Udita Ghosh, Calvin-Khang Ta, Sarosij Bose, Jiachen Li, Amit K. Roy-Chowdhury",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Nag_Conformal_Prediction_and_MLLM_aided_Uncertainty_Quantification_in_Scene_Graph_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1453",
+      "paper_id": "",
+      "title": "Context-Aware Alignment and Mutual Masking for 3D-Language Pre-Training",
+      "authors": "Zhao Jin, Munawar Hayat, Yuwei Yang, Yulan Guo, Yinjie Lei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Context-Aware_Alignment_and_Mutual_Masking_for_3D-Language_Pre-Training_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1848",
+      "paper_id": "",
+      "title": "Continuous Scene Representations for Embodied AI",
+      "authors": "Samir Yitzhak Gadre, Kiana Ehsani, Shuran Song, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gadre_Continuous_Scene_Representations_for_Embodied_AI_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_458",
+      "paper_id": "",
+      "title": "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models",
+      "authors": "Qingqing Zhao, Yao Lu, Moo Jin Kim, Zipeng Fu, Zhuoyang Zhang, Yecheng Wu, Zhaoshuo Li, Qianli Ma, Song Han, Chelsea Finn, Ankur Handa, Tsung-Yi Lin, Gordon Wetzstein, Ming-Yu Liu, Donglai Xiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_CoT-VLA_Visual_Chain-of-Thought_Reasoning_for_Vision-Language-Action_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_606",
+      "paper_id": "",
+      "title": "Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation",
+      "authors": "Hanqing Wang, Wei Liang, Jianbing Shen, Luc Van Gool, Wenguan Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Counterfactual_Cycle-Consistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_751",
+      "paper_id": "",
+      "title": "Coupling Vision and Proprioception for Navigation of Legged Robots",
+      "authors": "Zipeng Fu, Ashish Kumar, Ananye Agarwal, Haozhi Qi, Jitendra Malik, Deepak Pathak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Fu_Coupling_Vision_and_Proprioception_for_Navigation_of_Legged_Robots_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2174",
+      "paper_id": "",
+      "title": "CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation",
+      "authors": "Samir Yitzhak Gadre, Mitchell Wortsman, Gabriel Ilharco, Ludwig Schmidt, Shuran Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gadre_CoWs_on_Pasture_Baselines_and_Benchmarks_for_Language-Driven_Zero-Shot_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1440",
+      "paper_id": "",
+      "title": "Cross-Modal and Uncertainty-Aware Agglomeration for Open-Vocabulary 3D Scene Understanding",
+      "authors": "Jinlong Li, Cristiano Saltori, Fabio Poiesi, Nicu Sebe",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Cross-Modal_and_Uncertainty-Aware_Agglomeration_for_Open-Vocabulary_3D_Scene_Understanding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_40",
+      "paper_id": "",
+      "title": "Cross-Modal Map Learning for Vision and Language Navigation",
+      "authors": "Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, Soham Dan, Eleni Miltsakaki, Dan Roth, Kostas Daniilidis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Georgakis_Cross-Modal_Map_Learning_for_Vision_and_Language_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1934",
+      "paper_id": "",
+      "title": "CrossOver: 3D Scene Cross-Modal Alignment",
+      "authors": "Sayan Deb Sarkar, Ondrej Miksik, Marc Pollefeys, Daniel Barath, Iro Armeni",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sarkar_CrossOver_3D_Scene_Cross-Modal_Alignment_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2207",
+      "paper_id": "",
+      "title": "CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation",
+      "authors": "Jun Wang, Yuzhe Qin, Kaiming Kuang, Yigit Korkmaz, Akhilan Gurumoorthy, Hao Su, Xiaolong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_CyberDemo_Augmenting_Simulated_Human_Demonstration_for_Real-World_Dexterous_Manipulation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1027",
+      "paper_id": "",
+      "title": "Devil's on the Edges: Selective Quad Attention for Scene Graph Generation",
+      "authors": "Deunsol Jung, Sanghyun Kim, Won Hwa Kim, Minsu Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jung_Devils_on_the_Edges_Selective_Quad_Attention_for_Scene_Graph_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_102",
+      "paper_id": "",
+      "title": "DexArt: Benchmarking Generalizable Dexterous Manipulation With Articulated Objects",
+      "authors": "Chen Bao, Helin Xu, Yuzhe Qin, Xiaolong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_DexArt_Benchmarking_Generalizable_Dexterous_Manipulation_With_Articulated_Objects_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2384",
+      "paper_id": "",
+      "title": "DexHandDiff: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation",
+      "authors": "Zhixuan Liang, Yao Mu, Yixiao Wang, Tianxing Chen, Wenqi Shao, Wei Zhan, Masayoshi Tomizuka, Ping Luo, Mingyu Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_DexHandDiff_Interaction-aware_Diffusion_Planning_for_Adaptive_Dexterous_Manipulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1059",
+      "paper_id": "",
+      "title": "DiaLoc: An Iterative Approach to Embodied Dialog Localization",
+      "authors": "Chao Zhang, Mohan Li, Ignas Budvytis, Stephan Liwicki",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DiaLoc_An_Iterative_Approach_to_Embodied_Dialog_Localization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1827",
+      "paper_id": "",
+      "title": "Diffusion-EDFs: Bi-equivariant Denoising Generative Modeling on SE(3) for Visual Robotic Manipulation",
+      "authors": "Hyunwoo Ryu, Jiwoo Kim, Hyunseok An, Junwoo Chang, Joohwan Seo, Taehan Kim, Yubin Kim, Chaewon Hwang, Jongeun Choi, Roberto Horowitz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ryu_Diffusion-EDFs_Bi-equivariant_Denoising_Generative_Modeling_on_SE3_for_Visual_Robotic_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1030",
+      "paper_id": "",
+      "title": "Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous and Instruction-guided Driving",
+      "authors": "Brian Yang, Huangyuan Su, Nikolaos Gkanatsios, Tsung-Wei Ke, Ayush Jain, Jeff Schneider, Katerina Fragkiadaki",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Diffusion-ES_Gradient-free_Planning_with_Diffusion_for_Autonomous_and_Instruction-guided_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1831",
+      "paper_id": "",
+      "title": "DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving",
+      "authors": "Bencheng Liao, Shaoyu Chen, Haoran Yin, Bo Jiang, Cheng Wang, Sixu Yan, Xinbang Zhang, Xiangyu Li, Ying Zhang, Qian Zhang, Xinggang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liao_DiffusionDrive_Truncated_Diffusion_Model_for_End-to-End_Autonomous_Driving_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2586",
+      "paper_id": "",
+      "title": "DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation",
+      "authors": "Mu Chen, Liulei Li, Wenguan Wang, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_DiffVsgg_Diffusion-Driven_Online_Video_Scene_Graph_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_700",
+      "paper_id": "",
+      "title": "Do Visual Imaginations Improve Vision-and-Language Navigation Agents?",
+      "authors": "Akhil Perincherry, Jacob Krantz, Stefan Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Perincherry_Do_Visual_Imaginations_Improve_Vision-and-Language_Navigation_Agents_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_573",
+      "paper_id": "",
+      "title": "Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration",
+      "authors": "Kim Jun-Seong, GeonU Kim, Kim Yu-Ji, Yu-Chiang Frank Wang, Jaesung Choe, Tae-Hyun Oh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2510",
+      "paper_id": "",
+      "title": "DSGG: Dense Relation Transformer for an End-to-end Scene Graph Generation",
+      "authors": "Zeeshan Hayder, Xuming He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hayder_DSGG_Dense_Relation_Transformer_for_an_End-to-end_Scene_Graph_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2649",
+      "paper_id": "",
+      "title": "DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering",
+      "authors": "Jingzhou Luo, Yang Liu, Weixing Chen, Zhen Li, Yaowei Wang, Guanbin Li, Liang Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_DSPNet_Dual-vision_Scene_Perception_for_Robust_3D_Question_Answering_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_408",
+      "paper_id": "",
+      "title": "Dual-View Visual Contextualization for Web Navigation",
+      "authors": "Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kil_Dual-View_Visual_Contextualization_for_Web_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_911",
+      "paper_id": "",
+      "title": "Dynamic Scene Graph Generation via Anticipatory Pre-Training",
+      "authors": "Yiming Li, Xiaoshan Yang, Changsheng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_4",
+      "paper_id": "",
+      "title": "DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI",
+      "authors": "Sangmin Lee, Sungyong Park, Heewon Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1446",
+      "paper_id": "",
+      "title": "EC2: Emergent Communication for Embodied Control",
+      "authors": "Yao Mu, Shunyu Yao, Mingyu Ding, Ping Luo, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mu_EC2_Emergent_Communication_for_Embodied_Control_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2100",
+      "paper_id": "",
+      "title": "EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding",
+      "authors": "Yanmin Wu, Xinhua Cheng, Renrui Zhang, Zesen Cheng, Jian Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_EDA_Explicit_Text-Decoupling_and_Dense_Alignment_for_3D_Visual_Grounding_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_818",
+      "paper_id": "",
+      "title": "Egocentric Prediction of Action Target in 3D",
+      "authors": "Yiming Li, Ziang Cao, Andrew Liang, Benjamin Liang, Luoyao Chen, Hang Zhao, Chen Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Egocentric_Prediction_of_Action_Target_in_3D_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_2071",
+      "paper_id": "",
+      "title": "Egocentric Scene Understanding via Multimodal Spatial Rectifier",
+      "authors": "Tien Do, Khiem Vuong, Hyun Soo Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Do_Egocentric_Scene_Understanding_via_Multimodal_Spatial_Rectifier_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2056",
+      "paper_id": "",
+      "title": "EGTR: Extracting Graph from Transformer for Scene Graph Generation",
+      "authors": "Jinbae Im, JeongYeon Nam, Nokyung Park, Hyungmin Lee, Seunghyun Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Im_EGTR_Extracting_Graph_from_Transformer_for_Scene_Graph_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1831",
+      "paper_id": "",
+      "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
+      "authors": "Yijun Yang, Tianyi Zhou, Kanxue Li, Dapeng Tao, Lusong Li, Li Shen, Xiaodong He, Jing Jiang, Yuhui Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Embodied_Multi-Modal_Agent_trained_by_an_LLM_from_a_Parallel_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1054",
+      "paper_id": "",
+      "title": "EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI",
+      "authors": "Tai Wang, Xiaohan Mao, Chenming Zhu, Runsen Xu, Ruiyuan Lyu, Peisen Li, Xiao Chen, Wenwei Zhang, Kai Chen, Tianfan Xue, Xihui Liu, Cewu Lu, Dahua Lin, Jiangmiao Pang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_EmbodiedScan_A_Holistic_Multi-Modal_3D_Perception_Suite_Towards_Embodied_AI_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1014",
+      "paper_id": "",
+      "title": "Empowering Large Language Models with 3D Situation Awareness",
+      "authors": "Zhihao Yuan, Yibo Peng, Jinke Ren, Yinghong Liao, Yatong Han, Chun-Mei Feng, Hengshuang Zhao, Guanbin Li, Shuguang Cui, Zhen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yuan_Empowering_Large_Language_Models_with_3D_Situation_Awareness_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1074",
+      "paper_id": "",
+      "title": "End-to-End 3D Dense Captioning With Vote2Cap-DETR",
+      "authors": "Sijin Chen, Hongyuan Zhu, Xin Chen, Yinjie Lei, Gang Yu, Tao Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_End-to-End_3D_Dense_Captioning_With_Vote2Cap-DETR_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_446",
+      "paper_id": "",
+      "title": "Energy-Based Learning for Scene Graph Generation",
+      "authors": "Mohammed Suhail, Abhay Mittal, Behjat Siddiquie, Chris Broaddus, Jayan Eledath, Gerard Medioni, Leonid Sigal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Suhail_Energy-Based_Learning_for_Scene_Graph_Generation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_945",
+      "paper_id": "",
+      "title": "EnvEdit: Environment Editing for Vision-and-Language Navigation",
+      "authors": "Jialu Li, Hao Tan, Mohit Bansal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_EnvEdit_Environment_Editing_for_Vision-and-Language_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2530",
+      "paper_id": "",
+      "title": "Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception",
+      "authors": "Lei Fan, Mingfu Liang, Yunxuan Li, Gang Hua, Ying Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_582",
+      "paper_id": "",
+      "title": "EXCALIBUR: Encouraging and Evaluating Embodied Exploration",
+      "authors": "Hao Zhu, Raghav Kapoor, So Yeon Min, Winson Han, Jiatai Li, Kaiwen Geng, Graham Neubig, Yonatan Bisk, Aniruddha Kembhavi, Luca Weihs",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_572",
+      "paper_id": "",
+      "title": "Exploiting Edge-Oriented Reasoning for 3D Point-Based Scene Graph Analysis",
+      "authors": "Chaoyi Zhang, Jianhui Yu, Yang Song, Weidong Cai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Exploiting_Edge-Oriented_Reasoning_for_3D_Point-Based_Scene_Graph_Analysis_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2664",
+      "paper_id": "",
+      "title": "Exploration-Driven Generative Interactive Environments",
+      "authors": "Nedko Savov, Naser Kazemi, Mohammad Mahdi, Danda Pani Paudel, Xi Wang, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Savov_Exploration-Driven_Generative_Interactive_Environments_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1975",
+      "paper_id": "",
+      "title": "Fast Contextual Scene Graph Generation With Unbiased Context Augmentation",
+      "authors": "Tianlei Jin, Fangtai Guo, Qiwei Meng, Shiqiang Zhu, Xiangming Xi, Wen Wang, Zonghao Mu, Wei Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Fast_Contextual_Scene_Graph_Generation_With_Unbiased_Context_Augmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2644",
+      "paper_id": "",
+      "title": "Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields",
+      "authors": "Shijie Zhou, Hui Ren, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Feature4X_Bridging_Any_Monocular_Video_to_4D_Agentic_AI_with_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1787",
+      "paper_id": "",
+      "title": "FIction: 4D Future Interaction Prediction from Video",
+      "authors": "Kumar Ashutosh, Georgios Pavlakos, Kristen Grauman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ashutosh_FIction_4D_Future_Interaction_Prediction_from_Video_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_752",
+      "paper_id": "",
+      "title": "Fine-Grained Predicates Learning for Scene Graph Generation",
+      "authors": "Xinyu Lyu, Lianli Gao, Yuyu Guo, Zhou Zhao, Hao Huang, Heng Tao Shen, Jingkuan Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lyu_Fine-Grained_Predicates_Learning_for_Scene_Graph_Generation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1526",
+      "paper_id": "",
+      "title": "FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement",
+      "authors": "Ian Huang, Yanan Bao, Karen Truong, Howard Zhou, Cordelia Schmid, Leonidas Guibas, Alireza Fathi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_FirePlace_Geometric_Refinements_of_LLM_Common_Sense_Reasoning_for_3D_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_281",
+      "paper_id": "",
+      "title": "Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction",
+      "authors": "Yining Hong, Kaichun Mo, Li Yi, Leonidas J. Guibas, Antonio Torralba, Joshua B. Tenenbaum, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Fixing_Malfunctional_Objects_With_Learned_Physical_Simulation_and_Functional_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1879",
+      "paper_id": "",
+      "title": "FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation",
+      "authors": "Sen Wang, Le Wang, Sanping Zhou, Jingyi Tian, Jiayi Li, Haowen Sun, Wei Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_FlowRAM_Grounding_Flow_Matching_Policy_with_Region-Aware_Mamba_Framework_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2307",
+      "paper_id": "",
+      "title": "From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons",
+      "authors": "Andrew Szot, Bogdan Mazoure, Omar Attia, Aleksei Timofeev, Harsh Agrawal, Devon Hjelm, Zhe Gan, Zsolt Kira, Alexander Toshev",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Szot_From_Multimodal_LLMs_to_Generalist_Embodied_Agents_Methods_and_Lessons_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2653",
+      "paper_id": "",
+      "title": "From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models",
+      "authors": "Rongjie Li, Songyang Zhang, Dahua Lin, Kai Chen, Xuming He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_From_Pixels_to_Graphs_Open-Vocabulary_Scene_Graph_Generation_with_Vision-Language_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2144",
+      "paper_id": "",
+      "title": "Frustratingly Easy Regularization on Representation Can Boost Deep Reinforcement Learning",
+      "authors": "Qiang He, Huangyuan Su, Jieyu Zhang, Xinwen Hou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/He_Frustratingly_Easy_Regularization_on_Representation_Can_Boost_Deep_Reinforcement_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_436",
+      "paper_id": "",
+      "title": "Fully Convolutional Scene Graph Generation",
+      "authors": "Hengyue Liu, Ning Yan, Masood Mortazavi, Bir Bhanu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Fully_Convolutional_Scene_Graph_Generation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_288",
+      "paper_id": "",
+      "title": "Functionality Understanding and Segmentation in 3D Scenes",
+      "authors": "Jaime Corsetti, Francesco Giuliari, Alice Fasoli, Davide Boscaini, Fabio Poiesi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Corsetti_Functionality_Understanding_and_Segmentation_in_3D_Scenes_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1365",
+      "paper_id": "",
+      "title": "g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks",
+      "authors": "Zihan Wang, Gim Hee Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_g3D-LF_Generalizable_3D-Language_Feature_Fields_for_Embodied_Tasks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1613",
+      "paper_id": "",
+      "title": "G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation",
+      "authors": "Tianxing Chen, Yao Mu, Zhixuan Liang, Zanxin Chen, Shijia Peng, Qiangyu Chen, Mingkun Xu, Ruizhen Hu, Hongyuan Zhang, Xuelong Li, Ping Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_G3Flow_Generative_3D_Semantic_Flow_for_Pose-aware_and_Generalizable_Object_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2417",
+      "paper_id": "",
+      "title": "G^3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding",
+      "authors": "Yuan Wang, Yali Li, Shengjin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_G3-LQ_Marrying_Hyperbolic_Alignment_with_Explicit_Semantic-Geometric_Modeling_for_3D_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2150",
+      "paper_id": "",
+      "title": "Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-per-Second",
+      "authors": "Vincent-Pierre Berges, Andrew Szot, Devendra Singh Chaplot, Aaron Gokaslan, Roozbeh Mottaghi, Dhruv Batra, Eric Undersander",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Berges_Galactic_Scaling_End-to-End_Reinforcement_Learning_for_Rearrangement_at_100k_Steps-per-Second_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1053",
+      "paper_id": "",
+      "title": "GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts",
+      "authors": "Haoran Geng, Helin Xu, Chengyang Zhao, Chao Xu, Li Yi, Siyuan Huang, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Geng_GAPartNet_Cross-Category_Domain-Generalizable_Object_Perception_and_Manipulation_via_Generalizable_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2208",
+      "paper_id": "",
+      "title": "GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation",
+      "authors": "Ruihai Wu, Ziyu Zhu, Yuran Wang, Yue Chen, Jiarui Wang, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_GarmentPile_Point-Level_Visual_Affordance_Guided_Retrieval_and_Adaptation_for_Cluttered_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_565",
+      "paper_id": "",
+      "title": "GATSBI: Generative Agent-Centric Spatio-Temporal Object Interaction",
+      "authors": "Cheol-Hui Min, Jinseok Bae, Junho Lee, Young Min Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Min_GATSBI_Generative_Agent-Centric_Spatio-Temporal_Object_Interaction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1268",
+      "paper_id": "",
+      "title": "GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency",
+      "authors": "Dongyue Lu, Lingdong Kong, Tianxin Huang, Gim Hee Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_GEAL_Generalizable_3D_Affordance_Learning_with_Cross-Modal_Consistency_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_483",
+      "paper_id": "",
+      "title": "GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
+      "authors": "Mariam Hassan, Sebastian Stapf, Ahmad Rahimi, Pedro M B Rezende, Yasaman Haghighi, David Brüggemann, Isinsu Katircioglu, Lin Zhang, Xiaoran Chen, Suman Saha, Marco Cannici, Elie Aljalbout, Botao Ye, Xi Wang, Aram Davtyan, Mathieu Salzmann, Davide Scaramuzza, Marc Pollefeys, Paolo Favaro, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hassan_GEM_A_Generalizable_Ego-Vision_Multimodal_World_Model_for_Fine-Grained_Ego-Motion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1592",
+      "paper_id": "",
+      "title": "Generate Subgoal Images before Act: Unlocking the Chain-of-Thought Reasoning in Diffusion Model for Robot Manipulation with Multimodal Prompts",
+      "authors": "Fei Ni, Jianye Hao, Shiguang Wu, Longxin Kou, Jiashun Liu, Yan Zheng, Bin Wang, Yuzheng Zhuang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1884",
+      "paper_id": "",
+      "title": "GenH2R: Learning Generalizable Human-to-Robot Handover via Scalable Simulation Demonstration and Imitation",
+      "authors": "Zifan Wang, Junyu Chen, Ziqing Chen, Pengwei Xie, Rui Chen, Li Yi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_GenH2R_Learning_Generalizable_Human-to-Robot_Handover_via_Scalable_Simulation_Demonstration_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_981",
+      "paper_id": "",
+      "title": "GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation",
+      "authors": "Ning Gao, Yilun Chen, Shuai Yang, Xinyi Chen, Yang Tian, Hao Li, Haifeng Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_GENMANIP_LLM-driven_Simulation_for_Generalizable_Instruction-Following_Manipulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1847",
+      "paper_id": "",
+      "title": "Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding",
+      "authors": "Guofeng Mei, Luigi Riz, Yiming Wang, Fabio Poiesi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mei_Geometrically-driven_Aggregation_for_Zero-shot_3D_Point_Cloud_Understanding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1320",
+      "paper_id": "",
+      "title": "GeoVLN: Learning Geometry-Enhanced Visual Representation With Slot Attention for Vision-and-Language Navigation",
+      "authors": "Jingyang Huo, Qiang Sun, Boyan Jiang, Haitao Lin, Yanwei Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huo_GeoVLN_Learning_Geometry-Enhanced_Visual_Representation_With_Slot_Attention_for_Vision-and-Language_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_375",
+      "paper_id": "",
+      "title": "Ges3ViG : Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding",
+      "authors": "Atharv Mahesh Mane, Dulanga Weerakoon, Vigneshwaran Subbaraju, Sougata Sen, Sanjay E. Sarma, Archan Misra",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mane_Ges3ViG__Incorporating_Pointing_Gestures_into_Language-Based_3D_Visual_Grounding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1622",
+      "paper_id": "",
+      "title": "Global-Local Tree Search in VLMs for 3D Indoor Scene Generation",
+      "authors": "Wei Deng, Mengshi Qi, Huadong Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Deng_Global-Local_Tree_Search_in_VLMs_for_3D_Indoor_Scene_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1955",
+      "paper_id": "",
+      "title": "GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation",
+      "authors": "Mukul Khanna, Ram Ramrakhya, Gunjan Chhablani, Sriram Yenamandra, Theophile Gervet, Matthew Chang, Zsolt Kira, Devendra Singh Chaplot, Dhruv Batra, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Khanna_GOAT-Bench_A_Benchmark_for_Multi-Modal_Lifelong_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_245",
+      "paper_id": "",
+      "title": "GPT4Point: A Unified Framework for Point-Language Understanding and Generation",
+      "authors": "Zhangyang Qi, Ye Fang, Zeyi Sun, Xiaoyang Wu, Tong Wu, Jiaqi Wang, Dahua Lin, Hengshuang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_GPT4Point_A_Unified_Framework_for_Point-Language_Understanding_and_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1155",
+      "paper_id": "",
+      "title": "GraphMimic: Graph-to-Graphs Generative Modeling from Videos for Policy Learning",
+      "authors": "Guangyan Chen, Te Cui, Meiling Wang, Chengcai Yang, Mengxiao Hu, Haoyang Lu, Yao Mu, Zicai Peng, Tianxing Zhou, Xinran Jiang, Yi Yang, Yufeng Yue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_GraphMimic_Graph-to-Graphs_Generative_Modeling_from_Videos_for_Policy_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_2",
+      "paper_id": "",
+      "title": "Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction",
+      "authors": "Bohan Wu, Suraj Nair, Roberto Martin-Martin, Li Fei-Fei, Chelsea Finn",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Greedy_Hierarchical_Variational_Autoencoders_for_Large-Scale_Video_Prediction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1837",
+      "paper_id": "",
+      "title": "GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill",
+      "authors": "Jieming Cui, Tengyu Liu, Ziyu Meng, Jiale Yu, Ran Song, Wei Zhang, Yixin Zhu, Siyuan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cui_GROVE_A_Generalized_Reward_for_Learning_Open-Vocabulary_Physical_Skill_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_777",
+      "paper_id": "",
+      "title": "GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration",
+      "authors": "Yuchen Sun, Shanhui Zhao, Tao Yu, Hao Wen, Samith Va, Mengwei Xu, Yuanchun Li, Chongyang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_GUI-Xplore_Empowering_Generalizable_GUI_Agents_with_One_Exploration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_785",
+      "paper_id": "",
+      "title": "Habitat Synthetic Scenes Dataset (HSSD-200): An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation",
+      "authors": "Mukul Khanna, Yongsen Mao, Hanxiao Jiang, Sanjay Haresh, Brennan Shacklett, Dhruv Batra, Alexander Clegg, Eric Undersander, Angel X. Chang, Manolis Savva",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Khanna_Habitat_Synthetic_Scenes_Dataset_HSSD-200_An_Analysis_of_3D_Scene_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1029",
+      "paper_id": "",
+      "title": "Habitat-Matterport 3D Semantics Dataset",
+      "authors": "Karmesh Yadav, Ram Ramrakhya, Santhosh Kumar Ramakrishnan, Theo Gervet, John Turner, Aaron Gokaslan, Noah Maestre, Angel Xuan Chang, Dhruv Batra, Manolis Savva, Alexander William Clegg, Devendra Singh Chaplot",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yadav_Habitat-Matterport_3D_Semantics_Dataset_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_864",
+      "paper_id": "",
+      "title": "Habitat-Web: Learning Embodied Object-Search Strategies From Human Demonstrations at Scale",
+      "authors": "Ram Ramrakhya, Eric Undersander, Dhruv Batra, Abhishek Das",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ramrakhya_Habitat-Web_Learning_Embodied_Object-Search_Strategies_From_Human_Demonstrations_at_Scale_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_936",
+      "paper_id": "",
+      "title": "HaLP: Hallucinating Latent Positives for Skeleton-Based Self-Supervised Learning of Actions",
+      "authors": "Anshul Shah, Aniket Roy, Ketul Shah, Shlok Mishra, David Jacobs, Anoop Cherian, Rama Chellappa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shah_HaLP_Hallucinating_Latent_Positives_for_Skeleton-Based_Self-Supervised_Learning_of_Actions_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1265",
+      "paper_id": "",
+      "title": "Heterogeneous Skeleton-Based Action Representation Learning",
+      "authors": "Hongsong Wang, Xiaoyan Ma, Jidong Kuang, Jie Gui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Heterogeneous_Skeleton-Based_Action_Representation_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_882",
+      "paper_id": "",
+      "title": "Hierarchical and Partially Observable Goal-Driven Policy Learning With Goals Relational Graph",
+      "authors": "Xin Ye, Yezhou Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Hierarchical_and_Partially_Observable_Goal-Driven_Policy_Learning_With_Goals_Relational_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_562",
+      "paper_id": "",
+      "title": "Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation",
+      "authors": "Xiao Ma, Sumit Patidar, Iain Haughton, Stephen James",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Hierarchical_Diffusion_Policy_for_Kinematics-Aware_Multi-Task_Robotic_Manipulation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_705",
+      "paper_id": "",
+      "title": "Hierarchical Video Prediction Using Relational Layouts for Human-Object Interactions",
+      "authors": "Navaneeth Bodla, Gaurav Shrivastava, Rama Chellappa, Abhinav Shrivastava",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bodla_Hierarchical_Video_Prediction_Using_Relational_Layouts_for_Human-Object_Interactions_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1201",
+      "paper_id": "",
+      "title": "HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation",
+      "authors": "Ce Zhang, Simon Stepputtis, Joseph Campbell, Katia Sycara, Yaqi Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_HiKER-SGG_Hierarchical_Knowledge_Enhanced_Robust_Scene_Graph_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1451",
+      "paper_id": "",
+      "title": "HL-Net: Heterophily Learning Network for Scene Graph Generation",
+      "authors": "Xin Lin, Changxing Ding, Yibing Zhan, Zijian Li, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_HL-Net_Heterophily_Learning_Network_for_Scene_Graph_Generation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_731",
+      "paper_id": "",
+      "title": "Holodeck: Language Guided Generation of 3D Embodied AI Environments",
+      "authors": "Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1821",
+      "paper_id": "",
+      "title": "HOP: History-and-Order Aware Pre-Training for Vision-and-Language Navigation",
+      "authors": "Yanyuan Qiao, Yuankai Qi, Yicong Hong, Zheng Yu, Peng Wang, Qi Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Qiao_HOP_History-and-Order_Aware_Pre-Training_for_Vision-and-Language_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_941",
+      "paper_id": "",
+      "title": "Hybrid Reciprocal Transformer with Triplet Feature Alignment for Scene Graph Generation",
+      "authors": "Jiawei Fu, Tiantian Zhang, Kai Chen, Qi Dou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Hybrid_Reciprocal_Transformer_with_Triplet_Feature_Alignment_for_Scene_Graph_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2226",
+      "paper_id": "",
+      "title": "Imagine Before Go: Self-Supervised Generative Map for Object Goal Navigation",
+      "authors": "Sixian Zhang, Xinyao Yu, Xinhang Song, Xiaohan Wang, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Imagine_Before_Go_Self-Supervised_Generative_Map_for_Object_Goal_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1266",
+      "paper_id": "",
+      "title": "Imitation Learning As State Matching via Differentiable Physics",
+      "authors": "Siwei Chen, Xiao Ma, Zhongwen Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Imitation_Learning_As_State_Matching_via_Differentiable_Physics_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2338",
+      "paper_id": "",
+      "title": "Improving Vision-and-Language Navigation by Generating Future-View Image Semantics",
+      "authors": "Jialu Li, Mohit Bansal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Improving_Vision-and-Language_Navigation_by_Generating_Future-View_Image_Semantics_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_543",
+      "paper_id": "",
+      "title": "Incremental 3D Semantic Scene Graph Prediction From RGB Sequences",
+      "authors": "Shun-Cheng Wu, Keisuke Tateno, Nassir Navab, Federico Tombari",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Incremental_3D_Semantic_Scene_Graph_Prediction_From_RGB_Sequences_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1182",
+      "paper_id": "",
+      "title": "InfoGCN: Representation Learning for Human Skeleton-Based Action Recognition",
+      "authors": "Hyung-gun Chi, Myoung Hoon Ha, Seunggeun Chi, Sang Wan Lee, Qixing Huang, Karthik Ramani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2622",
+      "paper_id": "",
+      "title": "Inst3D-LMM: Instance-Aware 3D Scene Understanding with Multi-modal Instruction Tuning",
+      "authors": "Hanxun Yu, Wentong Li, Song Wang, Junbo Chen, Jianke Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Inst3D-LMM_Instance-Aware_3D_Scene_Understanding_with_Multi-modal_Instruction_Tuning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_671",
+      "paper_id": "",
+      "title": "Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation",
+      "authors": "Xiaohan Lei, Min Wang, Wengang Zhou, Li Li, Houqiang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lei_Instance-aware_Exploration-Verification-Exploitation_for_Instance_ImageGoal_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_971",
+      "paper_id": "",
+      "title": "Is Mapping Necessary for Realistic PointGoal Navigation?",
+      "authors": "Ruslan Partsey, Erik Wijmans, Naoki Yokoyama, Oles Dobosevych, Dhruv Batra, Oleksandr Maksymets",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Partsey_Is_Mapping_Necessary_for_Realistic_PointGoal_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1196",
+      "paper_id": "",
+      "title": "IS-GGT: Iterative Scene Graph Generation With Generative Transformers",
+      "authors": "Sanjoy Kundu, Sathyanarayanan N. Aakur",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kundu_IS-GGT_Iterative_Scene_Graph_Generation_With_Generative_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_657",
+      "paper_id": "",
+      "title": "Iterative Vision-and-Language Navigation",
+      "authors": "Jacob Krantz, Shurjo Banerjee, Wang Zhu, Jason Corso, Peter Anderson, Stefan Lee, Jesse Thomason",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Krantz_Iterative_Vision-and-Language_Navigation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1560",
+      "paper_id": "",
+      "title": "Joint Hand Motion and Interaction Hotspots Prediction From Egocentric Videos",
+      "authors": "Shaowei Liu, Subarna Tripathi, Somdeb Majumdar, Xiaolong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1993",
+      "paper_id": "",
+      "title": "KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation",
+      "authors": "Xiangyang Li, Zihan Wang, Jiahao Yang, Yaowei Wang, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_KERM_Knowledge_Enhanced_Reasoning_for_Vision-and-Language_Navigation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_265",
+      "paper_id": "",
+      "title": "L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction in 3D Point Cloud Stream",
+      "authors": "Jingtao Sun, Yaonan Wang, Mingtao Feng, Yulan Guo, Ajmal Mian, Mike Zheng Shou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_L4D-Track_Language-to-4D_Modeling_Towards_6-DoF_Tracking_and_Shape_Reconstruction_in_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1088",
+      "paper_id": "",
+      "title": "LANA: A Language-Capable Navigator for Instruction Following and Generation",
+      "authors": "Xiaohan Wang, Wenguan Wang, Jiayi Shao, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LANA_A_Language-Capable_Navigator_for_Instruction_Following_and_Generation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_859",
+      "paper_id": "",
+      "title": "LangSplat: 3D Language Gaussian Splatting",
+      "authors": "Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_LangSplat_3D_Language_Gaussian_Splatting_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2313",
+      "paper_id": "",
+      "title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding",
+      "authors": "Jin-Chuan Shi, Miao Wang, Hao-Bin Duan, Shao-Hua Guan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_Language_Embedded_3D_Gaussians_for_Open-Vocabulary_Scene_Understanding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2170",
+      "paper_id": "",
+      "title": "LASO: Language-guided Affordance Segmentation on 3D Object",
+      "authors": "Yicong Li, Na Zhao, Junbin Xiao, Chun Feng, Xiang Wang, Tat-seng Chua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LASO_Language-guided_Affordance_Segmentation_on_3D_Object_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_917",
+      "paper_id": "",
+      "title": "LATTE-MV: Learning to Anticipate Table Tennis Hits from Monocular Videos",
+      "authors": "Daniel Etaat, Dvij Kalaria, Nima Rahmanian, S. Shankar Sastry",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Etaat_LATTE-MV_Learning_to_Anticipate_Table_Tennis_Hits_from_Monocular_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1569",
+      "paper_id": "",
+      "title": "Layout-Based Causal Inference for Object Navigation",
+      "authors": "Sixian Zhang, Xinhang Song, Weijie Li, Yubing Bai, Xinyao Yu, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Layout-Based_Causal_Inference_for_Object_Navigation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1759",
+      "paper_id": "",
+      "title": "LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models",
+      "authors": "Fan-Yun Sun, Weiyu Liu, Siyi Gu, Dylan Lim, Goutam Bhat, Federico Tombari, Manling Li, Nick Haber, Jiajun Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_LayoutVLM_Differentiable_Optimization_of_3D_Layout_via_Vision-Language_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2774",
+      "paper_id": "",
+      "title": "Learning 4D Panoptic Scene Graph Generation from Rich 2D Visual Scene",
+      "authors": "Shengqiong Wu, Hao Fei, Jingkang Yang, Xiangtai Li, Juncheng Li, Hanwang Zhang, Tat-seng Chua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Learning_4D_Panoptic_Scene_Graph_Generation_from_Rich_2D_Visual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1492",
+      "paper_id": "",
+      "title": "Learning Discriminative Representations for Skeleton Based Action Recognition",
+      "authors": "Huanyu Zhou, Qingjie Liu, Yunhong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_858",
+      "paper_id": "",
+      "title": "Learning Goals From Failure",
+      "authors": "Dave Epstein, Carl Vondrick",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Epstein_Learning_Goals_From_Failure_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_954",
+      "paper_id": "",
+      "title": "Learning Human-to-Robot Handovers From Point Clouds",
+      "authors": "Sammy Christen, Wei Yang, Claudia Pérez-D’Arpino, Otmar Hilliges, Dieter Fox, Yu-Wei Chao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Christen_Learning_Human-to-Robot_Handovers_From_Point_Clouds_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1521",
+      "paper_id": "",
+      "title": "Learning the Predictability of the Future",
+      "authors": "Didac Suris, Ruoshi Liu, Carl Vondrick",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Suris_Learning_the_Predictability_of_the_Future_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1271",
+      "paper_id": "",
+      "title": "Learning To Anticipate Future With Dynamic Context Removal",
+      "authors": "Xinyu Xu, Yong-Lu Li, Cewu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Learning_To_Anticipate_Future_With_Dynamic_Context_Removal_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_181",
+      "paper_id": "",
+      "title": "Learning To Generate Language-Supervised and Open-Vocabulary Scene Graph Using Pre-Trained Visual-Semantic Space",
+      "authors": "Yong Zhang, Yingwei Pan, Ting Yao, Rui Huang, Tao Mei, Chang-Wen Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Learning_To_Generate_Language-Supervised_and_Open-Vocabulary_Scene_Graph_Using_Pre-Trained_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1103",
+      "paper_id": "",
+      "title": "Learning to Navigate Efficiently and Precisely in Real Environments",
+      "authors": "Guillaume Bono, Hervé Poirier, Leonid Antsfeld, Gianluca Monaci, Boris Chidlovskii, Christian Wolf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bono_Learning_to_Navigate_Efficiently_and_Precisely_in_Real_Environments_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_672",
+      "paper_id": "",
+      "title": "Learning View-Disentangled Human Pose Representation by Contrastive Cross-View Mutual Information Maximization",
+      "authors": "Long Zhao, Yuxiao Wang, Jiaping Zhao, Liangzhe Yuan, Jennifer J. Sun, Florian Schroff, Hartwig Adam, Xi Peng, Dimitris Metaxas, Ting Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_View-Disentangled_Human_Pose_Representation_by_Contrastive_Cross-View_Mutual_Information_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1697",
+      "paper_id": "",
+      "title": "LEGO-Net: Learning Regular Rearrangements of Objects in Rooms",
+      "authors": "Qiuhong Anna Wei, Sijie Ding, Jeong Joon Park, Rahul Sajnani, Adrien Poulenard, Srinath Sridhar, Leonidas Guibas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_LEGO-Net_Learning_Regular_Rearrangements_of_Objects_in_Rooms_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_320",
+      "paper_id": "",
+      "title": "Less Is More: Generating Grounded Navigation Instructions From Landmarks",
+      "authors": "Su Wang, Ceslee Montgomery, Jordi Orbay, Vighnesh Birodkar, Aleksandra Faust, Izzeddin Gur, Natasha Jaques, Austin Waters, Jason Baldridge, Peter Anderson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Less_Is_More_Generating_Grounded_Navigation_Instructions_From_Landmarks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2254",
+      "paper_id": "",
+      "title": "Let Humanoids Hike! Integrative Skill Development on Complex Trails",
+      "authors": "Kwan-Yee Lin, Stella X. Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Let_Humanoids_Hike_Integrative_Skill_Development_on_Complex_Trails_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_351",
+      "paper_id": "",
+      "title": "Leveraging Predicate and Triplet Learning for Scene Graph Generation",
+      "authors": "Jiankai Li, Yunhong Wang, Xiefan Guo, Ruijie Yang, Weixin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Leveraging_Predicate_and_Triplet_Learning_for_Scene_Graph_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1634",
+      "paper_id": "",
+      "title": "Lift3D Policy: Lifting 2D Foundation Models for Robust 3D Robotic Manipulation",
+      "authors": "Yueru Jia, Jiaming Liu, Sixiang Chen, Chenyang Gu, Zhilve Wang, Longzan Luo, Xiaoqi Li, Pengwei Wang, Zhongyuan Wang, Renrui Zhang, Shanghang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jia_Lift3D_Policy_Lifting_2D_Foundation_Models_for_Robust_3D_Robotic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1635",
+      "paper_id": "",
+      "title": "Linguistic Structures As Weak Supervision for Visual Scene Graph Generation",
+      "authors": "Keren Ye, Adriana Kovashka",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Linguistic_Structures_As_Weak_Supervision_for_Visual_Scene_Graph_Generation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_949",
+      "paper_id": "",
+      "title": "LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding Reasoning and Planning",
+      "authors": "Sijin Chen, Xin Chen, Chi Zhang, Mingsheng Li, Gang Yu, Hao Fei, Hongyuan Zhu, Jiayuan Fan, Tao Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LL3DA_Visual_Interactive_Instruction_Tuning_for_Omni-3D_Understanding_Reasoning_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_174",
+      "paper_id": "",
+      "title": "LLM4SGG: Large Language Models for Weakly Supervised Scene Graph Generation",
+      "authors": "Kibum Kim, Kanghoon Yoon, Jaehyeong Jeon, Yeonjun In, Jinyoung Moon, Donghyun Kim, Chanyoung Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_LLM4SGG_Large_Language_Models_for_Weakly_Supervised_Scene_Graph_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_277",
+      "paper_id": "",
+      "title": "LLMs are Good Action Recognizers",
+      "authors": "Haoxuan Qu, Yujun Cai, Jun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_LLMs_are_Good_Action_Recognizers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1357",
+      "paper_id": "",
+      "title": "Local-Guided Global: Paired Similarity Representation for Visual Reinforcement Learning",
+      "authors": "Hyesong Choi, Hunsang Lee, Wonil Song, Sangryul Jeon, Kwanghoon Sohn, Dongbo Min",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Local-Guided_Global_Paired_Similarity_Representation_for_Visual_Reinforcement_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2409",
+      "paper_id": "",
+      "title": "Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation",
+      "authors": "Zihan Wang, Xiangyang Li, Jiahao Yang, Yeqi Liu, Junjie Hu, Ming Jiang, Shuqiang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Lookahead_Exploration_with_Neural_Radiance_Representation_for_Continuous_Vision-Language_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1922",
+      "paper_id": "",
+      "title": "LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences",
+      "authors": "Hongyan Zhi, Peihao Chen, Junyan Li, Shuailei Ma, Xinyu Sun, Tianhang Xiang, Yinjie Lei, Mingkui Tan, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhi_LSceneLLM_Enhancing_Large_3D_Scene_Understanding_Using_Adaptive_Visual_Preferences_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1738",
+      "paper_id": "",
+      "title": "Magma: A Foundation Model for Multimodal AI Agents",
+      "authors": "Jianwei Yang, Reuben Tan, Qianhui Wu, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Jianfeng Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Magma_A_Foundation_Model_for_Multimodal_AI_Agents_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1037",
+      "paper_id": "",
+      "title": "ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation",
+      "authors": "Xiaoqi Li, Mingxu Zhang, Yiran Geng, Haoran Geng, Yuxing Long, Yan Shen, Renrui Zhang, Jiaming Liu, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_354",
+      "paper_id": "",
+      "title": "ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning",
+      "authors": "Kailin Li, Puhao Li, Tengyu Liu, Yuyang Li, Siyuan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_ManipTrans_Efficient_Dexterous_Bimanual_Manipulation_Transfer_via_Residual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_44",
+      "paper_id": "",
+      "title": "ManipulaTHOR: A Framework for Visual Object Manipulation",
+      "authors": "Kiana Ehsani, Winson Han, Alvaro Herrasti, Eli VanderBilt, Luca Weihs, Eric Kolve, Aniruddha Kembhavi, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ehsani_ManipulaTHOR_A_Framework_for_Visual_Object_Manipulation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2208",
+      "paper_id": "",
+      "title": "MaskCLR: Attention-Guided Contrastive Learning for Robust Action Representation Learning",
+      "authors": "Mohamed Abdelfattah, Mariam Hassan, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Abdelfattah_MaskCLR_Attention-Guided_Contrastive_Learning_for_Robust_Action_Representation_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2272",
+      "paper_id": "",
+      "title": "MemoNav: Working Memory Model for Visual Navigation",
+      "authors": "Hongxin Li, Zeyu Wang, Xu Yang, Yuran Yang, Shuqi Mei, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MemoNav_Working_Memory_Model_for_Visual_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_760",
+      "paper_id": "",
+      "title": "Meta-Explore: Exploratory Hierarchical Vision-and-Language Navigation Using Scene Object Spectrum Grounding",
+      "authors": "Minyoung Hwang, Jaeyeon Jeong, Minsoo Kim, Yoonseon Oh, Songhwai Oh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hwang_Meta-Explore_Exploratory_Hierarchical_Vision-and-Language_Navigation_Using_Scene_Object_Spectrum_Grounding_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1093",
+      "paper_id": "",
+      "title": "METASCENES: Towards Automated Replica Creation for Real-world 3D Scans",
+      "authors": "Huangyue Yu, Baoxiong Jia, Yixin Chen, Yandan Yang, Puhao Li, Rongpeng Su, Jiaxin Li, Qing Li, Wei Liang, Song-Chun Zhu, Tengyu Liu, Siyuan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_METASCENES_Towards_Automated_Replica_Creation_for_Real-world_3D_Scans_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1598",
+      "paper_id": "",
+      "title": "MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding",
+      "authors": "Chun-Peng Chang, Shaoxiang Wang, Alain Pagani, Didier Stricker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chang_MiKASA_Multi-Key-Anchor__Scene-Aware_Transformer_for_3D_Visual_Grounding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2607",
+      "paper_id": "",
+      "title": "Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation",
+      "authors": "Jiaming Zhou, Teli Ma, Kun-Yu Lin, Zifan Wang, Ronghe Qiu, Junwei Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Mitigating_the_Human-Robot_Domain_Discrepancy_in_Visual_Pre-training_for_Robotic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1819",
+      "paper_id": "",
+      "title": "MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments",
+      "authors": "Ege Özsoy, Chantal Pellegrini, Tobias Czempiel, Felix Tristram, Kun Yuan, David Bani-Harouni, Ulrich Eck, Benjamin Busam, Matthias Keicher, Nassir Navab",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ozsoy_MM-OR_A_Large_Multimodal_Operating_Room_Dataset_for_Semantic_Understanding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2377",
+      "paper_id": "",
+      "title": "MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data",
+      "authors": "Zifan Wang, Ziqing Chen, Junyu Chen, Jilong Wang, Yuxin Yang, Yunze Liu, Xueyi Liu, He Wang, Li Yi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MobileH2R_Learning_Generalizable_Human_to_Mobile_Robot_Handover_Exclusively_from_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_271",
+      "paper_id": "",
+      "title": "Model Adaptation for Time Constrained Embodied Control",
+      "authors": "Jaehyun Song, Minjong Yoo, Honguk Woo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Model_Adaptation_for_Time_Constrained_Embodied_Control_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_89",
+      "paper_id": "",
+      "title": "Modular Action Concept Grounding in Semantic Video Prediction",
+      "authors": "Wei Yu, Wenxin Chen, Songheng Yin, Steve Easterbrook, Animesh Garg",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Modular_Action_Concept_Grounding_in_Semantic_Video_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1687",
+      "paper_id": "",
+      "title": "MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation",
+      "authors": "Zhenyu Wu, Yuheng Zhou, Xiuwei Xu, Ziwei Wang, Haibin Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_MoManipVLA_Transferring_Vision-language-action_Models_for_General_Mobile_Manipulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_961",
+      "paper_id": "",
+      "title": "MP-GUI: Modality Perception with MLLMs for GUI Understanding",
+      "authors": "Ziwei Wang, Weizhi Chen, Leyang Yang, Sheng Zhou, Shengchu Zhao, Hanbei Zhan, Jiongchao Jin, Liangcheng Li, Zirui Shao, Jiajun Bu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MP-GUI_Modality_Perception_with_MLLMs_for_GUI_Understanding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1596",
+      "paper_id": "",
+      "title": "MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception",
+      "authors": "Yiran Qin, Enshen Zhou, Qichang Liu, Zhenfei Yin, Lu Sheng, Ruimao Zhang, Yu Qiao, Jing Shao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_MP5_A_Multi-modal_Open-ended_Embodied_System_in_Minecraft_via_Active_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_637",
+      "paper_id": "",
+      "title": "Multi-Attribute Interactions Matter for 3D Visual Grounding",
+      "authors": "Can Xu, Yuehui Han, Rui Xu, Le Hui, Jin Xie, Jian Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Multi-Attribute_Interactions_Matter_for_3D_Visual_Grounding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1435",
+      "paper_id": "",
+      "title": "Multi-View Transformer for 3D Visual Grounding",
+      "authors": "Shijia Huang, Yilun Chen, Jiaya Jia, Liwei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Multi-View_Transformer_for_3D_Visual_Grounding_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1074",
+      "paper_id": "",
+      "title": "MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World",
+      "authors": "Yining Hong, Zishuo Zheng, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_MultiPLY_A_Multisensory_Object-Centric_Embodied_Large_Language_Model_in_3D_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2073",
+      "paper_id": "",
+      "title": "Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners",
+      "authors": "Chun Feng, Joy Hsu, Weiyu Liu, Jiajun Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Feng_Naturally_Supervised_3D_Visual_Grounding_with_Language-Regularized_Concept_Learners_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2419",
+      "paper_id": "",
+      "title": "Navigating the Unseen: Zero-shot Scene Graph Generation via Capsule-Based Equivariant Features",
+      "authors": "Wenhuan Huang, Yi JI, Guiqian Zhu, Li Ying, Chunping Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Navigating_the_Unseen_Zero-shot_Scene_Graph_Generation_via_Capsule-Based_Equivariant_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2277",
+      "paper_id": "",
+      "title": "Navigation World Models",
+      "authors": "Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bar_Navigation_World_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1493",
+      "paper_id": "",
+      "title": "NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis",
+      "authors": "Allan Zhou, Moo Jin Kim, Lirui Wang, Pete Florence, Chelsea Finn",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_NeRF_in_the_Palm_of_Your_Hand_Corrective_Augmentation_for_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_566",
+      "paper_id": "",
+      "title": "Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition",
+      "authors": "Xinghan Wang, Xin Xu, Yadong Mu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_159",
+      "paper_id": "",
+      "title": "Neural Motion Simulator Pushing the Limit of World Models in Reinforcement Learning",
+      "authors": "Chenjie Hao, Weyl Lu, Yifan Xu, Yubei Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hao_Neural_Motion_Simulator_Pushing_the_Limit_of_World_Models_in_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2237",
+      "paper_id": "",
+      "title": "Neural Volumetric Memory for Visual Locomotion Control",
+      "authors": "Ruihan Yang, Ge Yang, Xiaolong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Neural_Volumetric_Memory_for_Visual_Locomotion_Control_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1890",
+      "paper_id": "",
+      "title": "Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition",
+      "authors": "Yang Chen, Jingcai Guo, Song Guo, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Neuron_Learning_Context-Aware_Evolving_Representations_for_Zero-Shot_Skeleton_Action_Recognition_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_379",
+      "paper_id": "",
+      "title": "NewtonianVAE: Proportional Control and Goal Identification From Pixels via Physical Latent Spaces",
+      "authors": "Miguel Jaques, Michael Burke, Timothy M. Hospedales",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Jaques_NewtonianVAE_Proportional_Control_and_Goal_Identification_From_Pixels_via_Physical_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1658",
+      "paper_id": "",
+      "title": "Not All Relations Are Equal: Mining Informative Labels for Scene Graph Generation",
+      "authors": "Arushi Goel, Basura Fernando, Frank Keller, Hakan Bilen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Goel_Not_All_Relations_Are_Equal_Mining_Informative_Labels_for_Scene_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_205",
+      "paper_id": "",
+      "title": "NS3D: Neuro-Symbolic Grounding of 3D Objects and Relations",
+      "authors": "Joy Hsu, Jiayuan Mao, Jiajun Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_NS3D_Neuro-Symbolic_Grounding_of_3D_Objects_and_Relations_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1747",
+      "paper_id": "",
+      "title": "Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation",
+      "authors": "Xiaoqi Li, Jingyun Xu, Mingxu Zhang, Jiaming Liu, Yan Shen, Iaroslav Ponomarenko, Jiahui Xu, Liang Heng, Siyuan Huang, Shanghang Zhang, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Object-Centric_Prompt-Driven_Vision-Language-Action_Model_for_Robotic_Manipulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1392",
+      "paper_id": "",
+      "title": "Object-Goal Visual Navigation via Effective Exploration of Relations Among Historical Navigation States",
+      "authors": "Heming Du, Lincheng Li, Zi Huang, Xin Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2599",
+      "paper_id": "",
+      "title": "OED: Towards One-stage End-to-End Dynamic Scene Graph Generation",
+      "authors": "Guan Wang, Zhimin Li, Qingchao Chen, Yang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_OED_Towards_One-stage_End-to-End_Dynamic_Scene_Graph_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1815",
+      "paper_id": "",
+      "title": "Omni-Q: Omni-Directional Scene Understanding for Unsupervised Visual Grounding",
+      "authors": "Sai Wang, Yutian Lin, Yu Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Omni-Q_Omni-Directional_Scene_Understanding_for_Unsupervised_Visual_Grounding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2767",
+      "paper_id": "",
+      "title": "OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints",
+      "authors": "Mingjie Pan, Jiyao Zhang, Tianshu Wu, Yinghao Zhao, Wenlong Gao, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_OmniManip_Towards_General_Robotic_Manipulation_via_Object-Centric_Interaction_Primitives_as_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_366",
+      "paper_id": "",
+      "title": "One Step at a Time: Long-Horizon Vision-and-Language Navigation With Milestones",
+      "authors": "Chan Hee Song, Jihyung Kil, Tai-Yu Pan, Brian M. Sadler, Wei-Lun Chao, Yu Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Song_One_Step_at_a_Time_Long-Horizon_Vision-and-Language_Navigation_With_Milestones_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1689",
+      "paper_id": "",
+      "title": "One-Shot Open Affordance Learning with Foundation Models",
+      "authors": "Gen Li, Deqing Sun, Laura Sevilla-Lara, Varun Jampani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_One-Shot_Open_Affordance_Learning_with_Foundation_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_82",
+      "paper_id": "",
+      "title": "Online Learning of Reusable Abstract Models for Object Goal Navigation",
+      "authors": "Tommaso Campari, Leonardo Lamanna, Paolo Traverso, Luciano Serafini, Lamberto Ballan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Campari_Online_Learning_of_Reusable_Abstract_Models_for_Object_Goal_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2089",
+      "paper_id": "",
+      "title": "Open-Vocabulary Functional 3D Scene Graphs for Real-World Indoor Spaces",
+      "authors": "Chenyangguang Zhang, Alexandros Delitzas, Fangjinhua Wang, Ruida Zhang, Xiangyang Ji, Marc Pollefeys, Francis Engelmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Open-Vocabulary_Functional_3D_Scene_Graphs_for_Real-World_Indoor_Spaces_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1738",
+      "paper_id": "",
+      "title": "Open-World Multi-Task Control Through Goal-Aware Representation Learning and Adaptive Horizon Prediction",
+      "authors": "Shaofei Cai, Zihao Wang, Xiaojian Ma, Anji Liu, Yitao Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cai_Open-World_Multi-Task_Control_Through_Goal-Aware_Representation_Learning_and_Adaptive_Horizon_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_468",
+      "paper_id": "",
+      "title": "Open3DSG: Open-Vocabulary 3D Scene Graphs from Point Clouds with Queryable Objects and Open-Set Relationships",
+      "authors": "Sebastian Koch, Narunas Vaskevicius, Mirco Colosi, Pedro Hermosilla, Timo Ropinski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Koch_Open3DSG_Open-Vocabulary_3D_Scene_Graphs_from_Point_Clouds_with_Queryable_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1305",
+      "paper_id": "",
+      "title": "OpenScene: 3D Scene Understanding With Open Vocabularies",
+      "authors": "Songyou Peng, Kyle Genova, Chiyu “Max” Jiang, Andrea Tagliasacchi, Marc Pollefeys, Thomas Funkhouser",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_OpenScene_3D_Scene_Understanding_With_Open_Vocabularies_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_984",
+      "paper_id": "",
+      "title": "Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy",
+      "authors": "Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Optimus-2_Multimodal_Minecraft_Agent_with_Goal-Observation-Action_Conditioned_Policy_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_898",
+      "paper_id": "",
+      "title": "OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and StructurEd Representation",
+      "authors": "Ganlong Zhao, Guanbin Li, Weikai Chen, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_OVER-NAV_Elevating_Iterative_Vision-and-Language_Navigation_with_Open-Vocabulary_Detection_and_StructurEd_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1292",
+      "paper_id": "",
+      "title": "PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding",
+      "authors": "Hongjia Zhai, Hai Li, Zhenzhe Li, Xiaokun Pan, Yijia He, Guofeng Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhai_PanoGS_Gaussian-based_Panoptic_Segmentation_for_3D_Open_Vocabulary_Scene_Understanding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1233",
+      "paper_id": "",
+      "title": "Panoptic Video Scene Graph Generation",
+      "authors": "Jingkang Yang, Wenxuan Peng, Xiangtai Li, Zujin Guo, Liangyu Chen, Bo Li, Zheng Ma, Kaiyang Zhou, Wayne Zhang, Chen Change Loy, Ziwei Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Panoptic_Video_Scene_Graph_Generation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_459",
+      "paper_id": "",
+      "title": "Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition",
+      "authors": "Anqi Zhu, Qiuhong Ke, Mingming Gong, James Bailey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1334",
+      "paper_id": "",
+      "title": "PartManip: Learning Cross-Category Generalizable Part Manipulation Policy From Point Cloud Observations",
+      "authors": "Haoran Geng, Ziming Li, Yiran Geng, Jiayi Chen, Hao Dong, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Geng_PartManip_Learning_Cross-Category_Generalizable_Part_Manipulation_Policy_From_Point_Cloud_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1808",
+      "paper_id": "",
+      "title": "PDFactor: Learning Tri-Perspective View Policy Diffusion Field for Multi-Task Robotic Manipulation",
+      "authors": "Jingyi Tian, Le Wang, Sanping Zhou, Sen Wang, Jiayi Li, Haowen Sun, Wei Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tian_PDFactor_Learning_Tri-Perspective_View_Policy_Diffusion_Field_for_Multi-Task_Robotic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1101",
+      "paper_id": "",
+      "title": "PerLA: Perceptive 3D Language Assistant",
+      "authors": "Guofeng Mei, Wei Lin, Luigi Riz, Yujiao Wu, Fabio Poiesi, Yiming Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mei_PerLA_Perceptive_3D_Language_Assistant_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2396",
+      "paper_id": "",
+      "title": "Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction",
+      "authors": "Wenke Xia, Ruoxuan Feng, Dong Wang, Di Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_Phoenix_A_Motion-based_Self-Reflection_Framework_for_Fine-grained_Robotic_Action_Correction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_821",
+      "paper_id": "",
+      "title": "Phone2Proc: Bringing Robust Robots Into Our Chaotic World",
+      "authors": "Matt Deitke, Rose Hendrix, Ali Farhadi, Kiana Ehsani, Aniruddha Kembhavi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Deitke_Phone2Proc_Bringing_Robust_Robots_Into_Our_Chaotic_World_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2283",
+      "paper_id": "",
+      "title": "PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI",
+      "authors": "Yandan Yang, Baoxiong Jia, Peiyuan Zhi, Siyuan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_813",
+      "paper_id": "",
+      "title": "PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability",
+      "authors": "Weijie Zhou, Manli Tao, Chaoyang Zhao, Haiyun Guo, Honghui Dong, Ming Tang, Jinqiao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_PhysVLM_Enabling_Visual_Language_Models_to_Understand_Robotic_Physical_Reachability_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_510",
+      "paper_id": "",
+      "title": "PIRLNav: Pretraining With Imitation and RL Finetuning for ObjectNav",
+      "authors": "Ram Ramrakhya, Dhruv Batra, Erik Wijmans, Abhishek Das",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ramrakhya_PIRLNav_Pretraining_With_Imitation_and_RL_Finetuning_for_ObjectNav_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_829",
+      "paper_id": "",
+      "title": "POCE: Primal Policy Optimization with Conservative Estimation for Multi-constraint Offline Reinforcement Learning",
+      "authors": "Jiayi Guan, Li Shen, Ao Zhou, Lusong Li, Han Hu, Xiaodong He, Guang Chen, Changjun Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Guan_POCE_Primal_Policy_Optimization_with_Conservative_Estimation_for_Multi-constraint_Offline_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1878",
+      "paper_id": "",
+      "title": "Policy Adaptation From Foundation Model Feedback",
+      "authors": "Yuying Ge, Annabella Macaluso, Li Erran Li, Ping Luo, Xiaolong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ge_Policy_Adaptation_From_Foundation_Model_Feedback_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_592",
+      "paper_id": "",
+      "title": "PONI: Potential Functions for ObjectGoal Navigation With Interaction-Free Learning",
+      "authors": "Santhosh Kumar Ramakrishnan, Devendra Singh Chaplot, Ziad Al-Halah, Jitendra Malik, Kristen Grauman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ramakrishnan_PONI_Potential_Functions_for_ObjectGoal_Navigation_With_Interaction-Free_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_749",
+      "paper_id": "",
+      "title": "PPDL: Predicate Probability Distribution Based Loss for Unbiased Scene Graph Generation",
+      "authors": "Wei Li, Haiwei Zhang, Qijie Bai, Guoqing Zhao, Ning Jiang, Xiaojie Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PPDL_Predicate_Probability_Distribution_Based_Loss_for_Unbiased_Scene_Graph_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1884",
+      "paper_id": "",
+      "title": "Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models",
+      "authors": "Hao Ren, Yiming Zeng, Zetong Bi, Zhaoliang Wan, Junlong Huang, Hui Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ren_Prior_Does_Matter_Visual_Navigation_via_Denoising_Diffusion_Bridge_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1507",
+      "paper_id": "",
+      "title": "Probabilistic Debiasing of Scene Graphs",
+      "authors": "Bashirul Azam Biswas, Qiang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Biswas_Probabilistic_Debiasing_of_Scene_Graphs_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_987",
+      "paper_id": "",
+      "title": "Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation",
+      "authors": "Gengcong Yang, Jingyi Zhang, Yong Zhang, Baoyuan Wu, Yujiu Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Probabilistic_Modeling_of_Semantic_Ambiguity_for_Scene_Graph_Generation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1653",
+      "paper_id": "",
+      "title": "Prof. Robot: Differentiable Robot Rendering Without Static and Self-Collisions",
+      "authors": "Quanyuan Ruan, Jiabao Lei, Wenhao Yuan, Yanglin Zhang, Dekun Lu, Guiliang Liu, Kui Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ruan_Prof._Robot_Differentiable_Robot_Rendering_Without_Static_and_Self-Collisions_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_778",
+      "paper_id": "",
+      "title": "Prompt-Guided Zero-Shot Anomaly Action Recognition Using Pretrained Deep Skeleton Features",
+      "authors": "Fumiaki Sato, Ryo Hachiuma, Taiki Sekii",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1744",
+      "paper_id": "",
+      "title": "Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences",
+      "authors": "Minyoung Hwang, Luca Weihs, Chanwoo Park, Kimin Lee, Aniruddha Kembhavi, Kiana Ehsani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hwang_Promptable_Behaviors_Personalizing_Multi-Objective_Rewards_from_Human_Preferences_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1802",
+      "paper_id": "",
+      "title": "Prototype-Based Embedding Network for Scene Graph Generation",
+      "authors": "Chaofan Zheng, Xinyu Lyu, Lianli Gao, Bo Dai, Jingkuan Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Prototype-Based_Embedding_Network_for_Scene_Graph_Generation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2104",
+      "paper_id": "",
+      "title": "ProxyTransformation: Preshaping Point Cloud Manifold With Proxy Attention For 3D Visual Grounding",
+      "authors": "Qihang Peng, Henry Zheng, Gao Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_ProxyTransformation_Preshaping_Point_Cloud_Manifold_With_Proxy_Attention_For_3D_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1406",
+      "paper_id": "",
+      "title": "Pushing It Out of the Way: Interactive Visual Navigation",
+      "authors": "Kuo-Hao Zeng, Luca Weihs, Ali Farhadi, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zeng_Pushing_It_Out_of_the_Way_Interactive_Visual_Navigation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2475",
+      "paper_id": "",
+      "title": "R2C: Mapping Room to Chessboard to Unlock LLM As Low-Level Action Planner",
+      "authors": "Ziyi Bai, Hanxuan Li, Bin Fu, Chuyan Xiong, Ruiping Wang, Xilin Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_R2C_Mapping_Room_to_Chessboard_to_Unlock_LLM_As_Low-Level_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2508",
+      "paper_id": "",
+      "title": "Rapid Motor Adaptation for Robotic Manipulator Arms",
+      "authors": "Yichao Liang, Kevin Ellis, João Henriques",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Rapid_Motor_Adaptation_for_Robotic_Manipulator_Arms_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2249",
+      "paper_id": "",
+      "title": "READ: Retrieval-Enhanced Asymmetric Diffusion for Motion Planning",
+      "authors": "Takeru Oba, Matthew Walter, Norimichi Ukita",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Oba_READ_Retrieval-Enhanced_Asymmetric_Diffusion_for_Motion_Planning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2462",
+      "paper_id": "",
+      "title": "ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning",
+      "authors": "Zhenyang Liu, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_ReasonGrounder_LVLM-Guided_Hierarchical_Feature_Splatting_for_Open-Vocabulary_3D_Visual_Grounding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2204",
+      "paper_id": "",
+      "title": "Reasoning in Visual Navigation of End-to-end Trained Agents: A Dynamical Systems Approach",
+      "authors": "Steeven Janny, Hervé Poirier, Leonid Antsfeld, Guillaume Bono, Gianluca Monaci, Boris Chidlovskii, Francesco Giuliari, Alessio Del Bue, Christian Wolf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Janny_Reasoning_in_Visual_Navigation_of_End-to-end_Trained_Agents_A_Dynamical_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1259",
+      "paper_id": "",
+      "title": "Recognizing Actions in Videos From Unseen Viewpoints",
+      "authors": "AJ Piergiovanni, Michael S. Ryoo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Piergiovanni_Recognizing_Actions_in_Videos_From_Unseen_Viewpoints_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1445",
+      "paper_id": "",
+      "title": "ReCoRe: Regularized Contrastive Representation Learning of World Model",
+      "authors": "Rudra P.K. Poudel, Harit Pandya, Stephan Liwicki, Roberto Cipolla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Poudel_ReCoRe_Regularized_Contrastive_Representation_Learning_of_World_Model_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_919",
+      "paper_id": "",
+      "title": "Refer-It-in-RGBD: A Bottom-Up Approach for 3D Visual Grounding in RGBD Images",
+      "authors": "Haolin Liu, Anran Lin, Xiaoguang Han, Lei Yang, Yizhou Yu, Shuguang Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Refer-It-in-RGBD_A_Bottom-Up_Approach_for_3D_Visual_Grounding_in_RGBD_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1908",
+      "paper_id": "",
+      "title": "Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning",
+      "authors": "Pehuen Moure, Longbiao Cheng, Joachim Ott, Zuowen Wang, Shih-Chii Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_91",
+      "paper_id": "",
+      "title": "Reinforced Structured State-Evolution for Vision-Language Navigation",
+      "authors": "Jinyu Chen, Chen Gao, Erli Meng, Qiong Zhang, Si Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Reinforced_Structured_State-Evolution_for_Vision-Language_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2251",
+      "paper_id": "",
+      "title": "RelationField: Relate Anything in Radiance Fields",
+      "authors": "Sebastian Koch, Johanna Wald, Mirco Colosi, Narunas Vaskevicius, Pedro Hermosilla, Federico Tombari, Timo Ropinski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Koch_RelationField_Relate_Anything_in_Radiance_Fields_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1627",
+      "paper_id": "",
+      "title": "Renderable Neural Radiance Map for Visual Navigation",
+      "authors": "Obin Kwon, Jeongho Park, Songhwai Oh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kwon_Renderable_Neural_Radiance_Map_for_Visual_Navigation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1642",
+      "paper_id": "",
+      "title": "Retrieval-Augmented Embodied Agents",
+      "authors": "Yichen Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Retrieval-Augmented_Embodied_Agents_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1506",
+      "paper_id": "",
+      "title": "Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition",
+      "authors": "Hongda Liu, Yunfan Liu, Min Ren, Hao Wang, Yunlong Wang, Zhenan Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Revealing_Key_Details_to_See_Differences_A_Novel_Prototypical_Perspective_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1156",
+      "paper_id": "",
+      "title": "Revisiting Skeleton-Based Action Recognition",
+      "authors": "Haodong Duan, Yue Zhao, Kai Chen, Dahua Lin, Bo Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Duan_Revisiting_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_193",
+      "paper_id": "",
+      "title": "RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation",
+      "authors": "Zeyuan Yang, Jiageng Liu, Peihao Chen, Anoop Cherian, Tim K. Marks, Jonathan Le Roux, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_431",
+      "paper_id": "",
+      "title": "RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete",
+      "authors": "Yuheng Ji, Huajie Tan, Jiayu Shi, Xiaoshuai Hao, Yuan Zhang, Hengyuan Zhang, Pengwei Wang, Mengdi Zhao, Yao Mu, Pengju An, Xinda Xue, Qinghang Su, Huaihai Lyu, Xiaolong Zheng, Jiaming Liu, Zhongyuan Wang, Shanghang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ji_RoboBrain_A_Unified_Brain_Model_for_Robotic_Manipulation_from_Abstract_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1311",
+      "paper_id": "",
+      "title": "RoboGround: Robotic Manipulation with Grounded Vision-Language Priors",
+      "authors": "Haifeng Huang, Xinyi Chen, Yilun Chen, Hao Li, Xiaoshen Han, Zehan Wang, Tai Wang, Jiangmiao Pang, Zhou Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1627",
+      "paper_id": "",
+      "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+      "authors": "Chan Hee Song, Valts Blukis, Jonathan Tremblay, Stephen Tyree, Yu Su, Stan Birchfield",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_RoboSpatial_Teaching_Spatial_Understanding_to_2D_and_3D_Vision-Language_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2830",
+      "paper_id": "",
+      "title": "Robotic Visual Instruction",
+      "authors": "Yanbang Li, Ziyang Gong, Haoyang Li, Xiaoqi Huang, Haolan Kang, Guangping Bai, Xianzheng Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Robotic_Visual_Instruction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_989",
+      "paper_id": "",
+      "title": "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins",
+      "authors": "Yao Mu, Tianxing Chen, Zanxin Chen, Shijia Peng, Zhiqian Lan, Zeyu Gao, Zhixuan Liang, Qiaojun Yu, Yude Zou, Mingkun Xu, Lunkai Lin, Zhiqiang Xie, Mingyu Ding, Ping Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mu_RoboTwin_Dual-Arm_Robot_Benchmark_with_Generative_Digital_Twins_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2612",
+      "paper_id": "",
+      "title": "ROCKET-1: Mastering Open-World Interaction with Visual-Temporal Context Prompting",
+      "authors": "Shaofei Cai, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cai_ROCKET-1_Mastering_Open-World_Interaction_with_Visual-Temporal_Context_Prompting_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_552",
+      "paper_id": "",
+      "title": "Room-and-Object Aware Knowledge Reasoning for Remote Embodied Referring Expression",
+      "authors": "Chen Gao, Jinyu Chen, Si Liu, Luting Wang, Qiong Zhang, Qi Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Room-and-Object_Aware_Knowledge_Reasoning_for_Remote_Embodied_Referring_Expression_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2428",
+      "paper_id": "",
+      "title": "RoomTour3D: Geometry-Aware Video-Instruction Tuning for Embodied Navigation",
+      "authors": "Mingfei Han, Liang Ma, Kamila Zhumakhanova, Ekaterina Radionova, Jingyi Zhang, Xiaojun Chang, Xiaodan Liang, Ivan Laptev",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Han_RoomTour3D_Geometry-Aware_Video-Instruction_Tuning_for_Embodied_Navigation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1823",
+      "paper_id": "",
+      "title": "RU-Net: Regularized Unrolling Network for Scene Graph Generation",
+      "authors": "Xin Lin, Changxing Ding, Jing Zhang, Yibing Zhan, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_RU-Net_Regularized_Unrolling_Network_for_Scene_Graph_Generation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1938",
+      "paper_id": "",
+      "title": "Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents",
+      "authors": "Yunseok Jang, Yeda Song, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-Ki Kim, Kyunghoon Bae, Honglak Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jang_Scalable_Video-to-Dataset_Generation_for_Cross-Platform_Mobile_Agents_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_990",
+      "paper_id": "",
+      "title": "Scan2Cap: Context-Aware Dense Captioning in RGB-D Scans",
+      "authors": "Zhenyu Chen, Ali Gholami, Matthias Niessner, Angel X. Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scan2Cap_Context-Aware_Dense_Captioning_in_RGB-D_Scans_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_888",
+      "paper_id": "",
+      "title": "ScanQA: 3D Question Answering for Spatial Scene Understanding",
+      "authors": "Daichi Azuma, Taiki Miyanishi, Shuhei Kurita, Motoaki Kawanabe",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_745",
+      "paper_id": "",
+      "title": "Scene Essence",
+      "authors": "Jiayan Qiu, Yiding Yang, Xinchao Wang, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Qiu_Scene_Essence_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1855",
+      "paper_id": "",
+      "title": "Scene Map-based Prompt Tuning for Navigation Instruction Generation",
+      "authors": "Sheng Fan, Rui Liu, Wenguan Wang, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Scene_Map-based_Prompt_Tuning_for_Navigation_Instruction_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_46",
+      "paper_id": "",
+      "title": "Scene-Intuitive Agent for Remote Embodied Visual Grounding",
+      "authors": "Xiangru Lin, Guanbin Li, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Scene-Intuitive_Agent_for_Remote_Embodied_Visual_Grounding_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_675",
+      "paper_id": "",
+      "title": "SceneFun3D: Fine-Grained Functionality and Affordance Understanding in 3D Scenes",
+      "authors": "Alexandros Delitzas, Ayca Takmaz, Federico Tombari, Robert Sumner, Marc Pollefeys, Francis Engelmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Delitzas_SceneFun3D_Fine-Grained_Functionality_and_Affordance_Understanding_in_3D_Scenes_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_984",
+      "paper_id": "",
+      "title": "SceneGraphFusion: Incremental 3D Scene Graph Prediction From RGB-D Sequences",
+      "authors": "Shun-Cheng Wu, Johanna Wald, Keisuke Tateno, Nassir Navab, Federico Tombari",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_SceneGraphFusion_Incremental_3D_Scene_Graph_Prediction_From_RGB-D_Sequences_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2318",
+      "paper_id": "",
+      "title": "SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding",
+      "authors": "Rong Li, Shijie Li, Lingdong Kong, Xulei Yang, Junwei Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_SeeGround_See_and_Ground_for_Zero-Shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_158",
+      "paper_id": "",
+      "title": "Seeing the Unseen: Visual Common Sense for Semantic Placement",
+      "authors": "Ram Ramrakhya, Aniruddha Kembhavi, Dhruv Batra, Zsolt Kira, Kuo-Hao Zeng, Luca Weihs",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ramrakhya_Seeing_the_Unseen_Visual_Common_Sense_for_Semantic_Placement_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_480",
+      "paper_id": "",
+      "title": "Semantic-guided Cross-Modal Prompt Learning for Skeleton-based Zero-shot Action Recognition",
+      "authors": "Anqi Zhu, Jingmin Zhu, James Bailey, Mingming Gong, Qiuhong Ke",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Semantic-guided_Cross-Modal_Prompt_Learning_for_Skeleton-based_Zero-shot_Action_Recognition_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2359",
+      "paper_id": "",
+      "title": "SeqAfford: Sequential 3D Affordance Reasoning via Multimodal Large Language Model",
+      "authors": "Chunlin Yu, Hanqing Wang, Ye Shi, Haoyang Luo, Sibei Yang, Jingyi Yu, Jingya Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_SeqAfford_Sequential_3D_Affordance_Reasoning_via_Multimodal_Large_Language_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1381",
+      "paper_id": "",
+      "title": "SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks",
+      "authors": "Yaxu Xie, Alain Pagani, Didier Stricker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SG-PGM_Partial_Graph_Matching_Network_with_Semantic_Geometric_Fusion_for_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1706",
+      "paper_id": "",
+      "title": "SGTR: End-to-End Scene Graph Generation With Transformer",
+      "authors": "Rongjie Li, Songyang Zhang, Xuming He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_SGTR_End-to-End_Scene_Graph_Generation_With_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2666",
+      "paper_id": "",
+      "title": "ShowUI: One Vision-Language-Action Model for GUI Visual Agent",
+      "authors": "Kevin Qinghong Lin, Linjie Li, Difei Gao, Zhengyuan Yang, Shiwei Wu, Zechen Bai, Stan Weixian Lei, Lijuan Wang, Mike Zheng Shou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_ShowUI_One_Vision-Language-Action_Model_for_GUI_Visual_Agent_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_869",
+      "paper_id": "",
+      "title": "Simple but Effective: CLIP Embeddings for Embodied AI",
+      "authors": "Apoorv Khandelwal, Luca Weihs, Roozbeh Mottaghi, Aniruddha Kembhavi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Khandelwal_Simple_but_Effective_CLIP_Embeddings_for_Embodied_AI_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_808",
+      "paper_id": "",
+      "title": "Situational Awareness Matters in 3D Vision Language Reasoning",
+      "authors": "Yunze Man, Liang-Yan Gui, Yu-Xiong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Man_Situational_Awareness_Matters_in_3D_Vision_Language_Reasoning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1936",
+      "paper_id": "",
+      "title": "SKE-Layout: Spatial Knowledge Enhanced Layout Generation with LLMs",
+      "authors": "Junsheng Wang, Nieqing Cao, Yan Ding, Mengying Xie, Fuqiang Gu, Chao Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SKE-Layout_Spatial_Knowledge_Enhanced_Layout_Generation_with_LLMs_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_992",
+      "paper_id": "",
+      "title": "SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution",
+      "authors": "Zhixuan Liang, Yao Mu, Hengbo Ma, Masayoshi Tomizuka, Mingyu Ding, Ping Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_SkillDiffuser_Interpretable_Hierarchical_Planning_via_Skill_Abstractions_in_Diffusion-Based_Task_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_667",
+      "paper_id": "",
+      "title": "SkillMimic: Learning Basketball Interaction Skills from Demonstrations",
+      "authors": "Yinhuai Wang, Qihan Zhao, Runyi Yu, Hok Wai Tsui, Ailing Zeng, Jing Lin, Zhengyi Luo, Jiwen Yu, Xiu Li, Qifeng Chen, Jian Zhang, Lei Zhang, Ping Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SkillMimic_Learning_Basketball_Interaction_Skills_from_Demonstrations_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2505",
+      "paper_id": "",
+      "title": "Smart Help: Strategic Opponent Modeling for Proactive and Adaptive Robot Assistance in Households",
+      "authors": "Zhihao Cao, Zidong Wang, Siwen Xie, Anji Liu, Lifeng Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Smart_Help_Strategic_Opponent_Modeling_for_Proactive_and_Adaptive_Robot_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_847",
+      "paper_id": "",
+      "title": "SOON: Scenario Oriented Object Navigation With Graph-Based Exploration",
+      "authors": "Fengda Zhu, Xiwen Liang, Yi Zhu, Qizhi Yu, Xiaojun Chang, Xiaodan Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_SOON_Scenario_Oriented_Object_Navigation_With_Graph-Based_Exploration_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1686",
+      "paper_id": "",
+      "title": "Spatial Commonsense Graph for Object Localisation in Partial Scenes",
+      "authors": "Francesco Giuliari, Geri Skenderi, Marco Cristani, Yiming Wang, Alessio Del Bue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Giuliari_Spatial_Commonsense_Graph_for_Object_Localisation_in_Partial_Scenes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2780",
+      "paper_id": "",
+      "title": "Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation",
+      "authors": "Qi Lv, Hao Li, Xiang Deng, Rui Shao, Yinchuan Li, Jianye Hao, Longxiang Gao, Michael Yu Wang, Liqiang Nie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lv_Spatial-Temporal_Graph_Diffusion_Policy_with_Kinematic_Modeling_for_Bimanual_Robotic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2844",
+      "paper_id": "",
+      "title": "Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Mutimodal Models",
+      "authors": "Xingrui Wang, Wufei Ma, Tiezheng Zhang, Celso M de Melo, Jieneng Chen, Alan Yuille",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Spatial457_A_Diagnostic_Benchmark_for_6D_Spatial_Reasoning_of_Large_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2618",
+      "paper_id": "",
+      "title": "SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language",
+      "authors": "Zehan Wang, Sashuai Zhou, Shaoxuan He, Haifeng Huang, Lihe Yang, Ziang Zhang, Xize Cheng, Shengpeng Ji, Tao Jin, Hengshuang Zhao, Zhou Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_SpatialCLIP_Learning_3D-aware_Image_Representations_from_Spatially_Discriminative_Language_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2721",
+      "paper_id": "",
+      "title": "SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models",
+      "authors": "Wufei Ma, Luoxin Ye, Celso M de Melo, Alan Yuille, Jieneng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ma_SpatialLLM_A_Compound_3D-Informed_Design_towards_Spatially-Intelligent_Large_Multimodal_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2002",
+      "paper_id": "",
+      "title": "SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities",
+      "authors": "Boyuan Chen, Zhuo Xu, Sean Kirmani, Brain Ichter, Dorsa Sadigh, Leonidas Guibas, Fei Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2714",
+      "paper_id": "",
+      "title": "SPIN: Simultaneous Perception Interaction and Navigation",
+      "authors": "Shagun Uppal, Ananye Agarwal, Haoyu Xiong, Kenneth Shaw, Deepak Pathak",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Uppal_SPIN_Simultaneous_Perception_Interaction_and_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1490",
+      "paper_id": "",
+      "title": "SpiritSight Agent: Advanced GUI Agent with One Look",
+      "authors": "Zhiyuan Huang, Ziming Cheng, Junting Pan, Zhaohui Hou, Mingjie Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_SpiritSight_Agent_Advanced_GUI_Agent_with_One_Look_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1043",
+      "paper_id": "",
+      "title": "SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World",
+      "authors": "Kiana Ehsani, Tanmay Gupta, Rose Hendrix, Jordi Salvador, Luca Weihs, Kuo-Hao Zeng, Kunal Pratap Singh, Yejin Kim, Winson Han, Alvaro Herrasti, Ranjay Krishna, Dustin Schwenk, Eli VanderBilt, Aniruddha Kembhavi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ehsani_SPOC_Imitating_Shortest_Paths_in_Simulation_Enables_Effective_Navigation_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1289",
+      "paper_id": "",
+      "title": "Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation",
+      "authors": "Xingning Dong, Tian Gan, Xuemeng Song, Jianlong Wu, Yuan Cheng, Liqiang Nie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Stacked_Hybrid-Attention_and_Group_Collaborative_Learning_for_Unbiased_Scene_Graph_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1100",
+      "paper_id": "",
+      "title": "StarCraftImage: A Dataset for Prototyping Spatial Reasoning Methods for Multi-Agent Environments",
+      "authors": "Sean Kulinski, Nicholas R. Waytowich, James Z. Hare, David I. Inouye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kulinski_StarCraftImage_A_Dataset_for_Prototyping_Spatial_Reasoning_Methods_for_Multi-Agent_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1779",
+      "paper_id": "",
+      "title": "STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition",
+      "authors": "Xiaoyu Zhu, Po-Yao Huang, Junwei Liang, Celso M. de Melo, Alexander G. Hauptmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_STMT_A_Spatial-Temporal_Mesh_Transformer_for_MoCap-Based_Action_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_635",
+      "paper_id": "",
+      "title": "Structured Scene Memory for Vision-Language Navigation",
+      "authors": "Hanqing Wang, Wenguan Wang, Wei Liang, Caiming Xiong, Jianbing Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Structured_Scene_Memory_for_Vision-Language_Navigation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1436",
+      "paper_id": "",
+      "title": "Structured Sparse R-CNN for Direct Scene Graph Generation",
+      "authors": "Yao Teng, Limin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Teng_Structured_Sparse_R-CNN_for_Direct_Scene_Graph_Generation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1276",
+      "paper_id": "",
+      "title": "SUGAR: Pre-training 3D Visual Representations for Robotics",
+      "authors": "Shizhe Chen, Ricardo Garcia, Ivan Laptev, Cordelia Schmid",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SUGAR_Pre-training_3D_Visual_Representations_for_Robotics_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_2040",
+      "paper_id": "",
+      "title": "Symmetry-Aware Neural Architecture for Embodied Visual Exploration",
+      "authors": "Shuang Liu, Takayuki Okatani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Symmetry-Aware_Neural_Architecture_for_Embodied_Visual_Exploration_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2488",
+      "paper_id": "",
+      "title": "Synthetic Visual Genome",
+      "authors": "Jae Sung Park, Zixian Ma, Linjie Li, Chenhao Zheng, Cheng-Yu Hsieh, Ximing Lu, Khyathi Chandu, Quan Kong, Norimasa Kobori, Ali Farhadi, Yejin Choi, Ranjay Krishna",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Park_Synthetic_Visual_Genome_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2053",
+      "paper_id": "",
+      "title": "TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding",
+      "authors": "Zhihao Zhang, Shengcao Cao, Yu-Xiong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TAMM_TriAdapter_Multi-Modal_Learning_for_3D_Shape_Understanding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_91",
+      "paper_id": "",
+      "title": "TANGO: Training-free Embodied AI Agents for Open-world Tasks",
+      "authors": "Filippo Ziliotto, Tommaso Campari, Luciano Serafini, Lamberto Ballan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ziliotto_TANGO_Training-free_Embodied_AI_Agents_for_Open-world_Tasks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2348",
+      "paper_id": "",
+      "title": "Task-Conditioned Adaptation of Visual Features in Multi-Task Policy Learning",
+      "authors": "Pierre Marza, Laetitia Matignon, Olivier Simonin, Christian Wolf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Marza_Task-Conditioned_Adaptation_of_Visual_Features_in_Multi-Task_Policy_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2611",
+      "paper_id": "",
+      "title": "Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding",
+      "authors": "Wenxuan Guo, Xiuwei Xu, Ziwei Wang, Jianjiang Feng, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Text-guided_Sparse_Voxel_Pruning_for_Efficient_3D_Visual_Grounding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_43",
+      "paper_id": "",
+      "title": "Text2Loc: 3D Point Cloud Localization from Natural Language",
+      "authors": "Yan Xia, Letian Shi, Zifeng Ding, Joao F. Henriques, Daniel Cremers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1251",
+      "paper_id": "",
+      "title": "Text2Pos: Text-to-Point-Cloud Cross-Modal Localization",
+      "authors": "Manuel Kolmet, Qunjie Zhou, Aljoša Ošep, Laura Leal-Taixé",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kolmet_Text2Pos_Text-to-Point-Cloud_Cross-Modal_Localization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1506",
+      "paper_id": "",
+      "title": "The Devil Is in the Labels: Noisy Label Correction for Robust Scene Graph Generation",
+      "authors": "Lin Li, Long Chen, Yifeng Huang, Zhimeng Zhang, Songyang Zhang, Jun Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_The_Devil_Is_in_the_Labels_Noisy_Label_Correction_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1673",
+      "paper_id": "",
+      "title": "Think Global, Act Local: Dual-Scale Graph Transformer for Vision-and-Language Navigation",
+      "authors": "Shizhe Chen, Pierre-Louis Guhur, Makarand Tapaswi, Cordelia Schmid, Ivan Laptev",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Think_Global_Act_Local_Dual-Scale_Graph_Transformer_for_Vision-and-Language_Navigation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1685",
+      "paper_id": "",
+      "title": "Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation",
+      "authors": "Yuanqi Yao, Siao Liu, Haoming Song, Delin Qu, Qizhi Chen, Yan Ding, Bin Zhao, Zhigang Wang, Xuelong Li, Dong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yao_Think_Small_Act_Big_Primitive_Prompt_Learning_for_Lifelong_Robot_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_725",
+      "paper_id": "",
+      "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+      "authors": "Jihan Yang, Shusheng Yang, Anjali W. Gupta, Rilyn Han, Li Fei-Fei, Saining Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Thinking_in_Space_How_Multimodal_Large_Language_Models_See_Remember_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_762",
+      "paper_id": "",
+      "title": "Topological Planning With Transformers for Vision-and-Language Navigation",
+      "authors": "Kevin Chen, Junshen K. Chen, Jo Chuang, Marynel Vazquez, Silvio Savarese",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Topological_Planning_With_Transformers_for_Vision-and-Language_Navigation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2347",
+      "paper_id": "",
+      "title": "Towards Autonomous Micromobility through Scalable Urban Simulation",
+      "authors": "Wayne Wu, Honglin He, Chaoyuan Zhang, Jack He, Seth Z. Zhao, Ran Gong, Quanyi Li, Bolei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Towards_Autonomous_Micromobility_through_Scalable_Urban_Simulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_476",
+      "paper_id": "",
+      "title": "Towards CLIP-driven Language-free 3D Visual Grounding via 2D-3D Relational Enhancement and Consistency",
+      "authors": "Yuqi Zhang, Han Luo, Yinjie Lei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Towards_CLIP-driven_Language-free_3D_Visual_Grounding_via_2D-3D_Relational_Enhancement_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_288",
+      "paper_id": "",
+      "title": "Towards Learning a Generalist Model for Embodied Navigation",
+      "authors": "Duo Zheng, Shijia Huang, Lin Zhao, Yiwu Zhong, Liwei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Towards_Learning_a_Generalist_Model_for_Embodied_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2759",
+      "paper_id": "",
+      "title": "Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method",
+      "authors": "Xinshuai Song, Weixing Chen, Yang Liu, Weikai Chen, Guanbin Li, Liang Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_Towards_Long-Horizon_Vision-Language_Navigation_Platform_Benchmark_and_Method_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_878",
+      "paper_id": "",
+      "title": "Towards Precise Embodied Dialogue Localization via Causality Guided Diffusion",
+      "authors": "Haoyu Wang, Le Wang, Sanping Zhou, Jingyi Tian, Zheng Qin, Yabing Wang, Gang Hua, Wei Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Towards_Precise_Embodied_Dialogue_Localization_via_Causality_Guided_Diffusion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_822",
+      "paper_id": "",
+      "title": "Towards Real-World Navigation With Deep Differentiable Planners",
+      "authors": "Shu Ishida, João F. Henriques",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ishida_Towards_Real-World_Navigation_With_Deep_Differentiable_Planners_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2365",
+      "paper_id": "",
+      "title": "Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation",
+      "authors": "Rohith Peddi, Saurabh Saurabh, Ayush Abhay Shrivastava, Parag Singla, Vibhav Gogate",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Peddi_Towards_Unbiased_and_Robust_Spatio-Temporal_Scene_Graph_Generation_and_Anticipation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_809",
+      "paper_id": "",
+      "title": "Tra-MoE: Learning Trajectory Prediction Model from Multiple Domains for Adaptive Policy Conditioning",
+      "authors": "Jiange Yang, Haoyi Zhu, Yating Wang, Gangshan Wu, Tong He, Limin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Tra-MoE_Learning_Trajectory_Prediction_Model_from_Multiple_Domains_for_Adaptive_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_610",
+      "paper_id": "",
+      "title": "ULIP-2: Towards Scalable Multimodal Pre-training for 3D Understanding",
+      "authors": "Le Xue, Ning Yu, Shu Zhang, Artemis Panagopoulou, Junnan Li, Roberto Martín-Martín, Jiajun Wu, Caiming Xiong, Ran Xu, Juan Carlos Niebles, Silvio Savarese",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xue_ULIP-2_Towards_Scalable_Multimodal_Pre-training_for_3D_Understanding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1609",
+      "paper_id": "",
+      "title": "Unbiased Scene Graph Generation in Videos",
+      "authors": "Sayak Nag, Kyle Min, Subarna Tripathi, Amit K. Roy-Chowdhury",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Nag_Unbiased_Scene_Graph_Generation_in_Videos_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2352",
+      "paper_id": "",
+      "title": "Unbiased Video Scene Graph Generation via Visual and Semantic Dual Debiasing",
+      "authors": "Yanjun Li, Zhaoyang Li, Honghui Chen, Lizhi Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Unbiased_Video_Scene_Graph_Generation_via_Visual_and_Semantic_Dual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1869",
+      "paper_id": "",
+      "title": "Unified Keypoint-Based Action Recognition Framework via Structured Keypoint Pooling",
+      "authors": "Ryo Hachiuma, Fumiaki Sato, Taiki Sekii",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hachiuma_Unified_Keypoint-Based_Action_Recognition_Framework_via_Structured_Keypoint_Pooling_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_636",
+      "paper_id": "",
+      "title": "UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence",
+      "authors": "Ruihai Wu, Haoran Lu, Yiyan Wang, Yubo Wang, Hao Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_UniGarmentManip_A_Unified_Framework_for_Category-Level_Garment_Manipulation_via_Dense_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_242",
+      "paper_id": "",
+      "title": "UniGoal: Towards Universal Zero-shot Goal-oriented Navigation",
+      "authors": "Hang Yin, Xiuwei Xu, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_UniGoal_Towards_Universal_Zero-shot_Goal-oriented_Navigation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_448",
+      "paper_id": "",
+      "title": "Universal Actions for Enhanced Embodied Foundation Models",
+      "authors": "Jinliang Zheng, Jianxiong Li, Dongxiu Liu, Yinan Zheng, Zhihao Wang, Zhonghong Ou, Yu Liu, Jingjing Liu, Ya-Qin Zhang, Xianyuan Zhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Universal_Actions_for_Enhanced_Embodied_Foundation_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2713",
+      "paper_id": "",
+      "title": "Universal Scene Graph Generation",
+      "authors": "Shengqiong Wu, Hao Fei, Tat-seng Chua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Universal_Scene_Graph_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_600",
+      "paper_id": "",
+      "title": "Unsupervised Visual Attention and Invariance for Reinforcement Learning",
+      "authors": "Xudong Wang, Long Lian, Stella X. Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Unsupervised_Visual_Attention_and_Invariance_for_Reinforcement_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1237",
+      "paper_id": "",
+      "title": "Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis",
+      "authors": "Jiangyong Huang, Baoxiong Jia, Yan Wang, Ziyu Zhu, Xiongkun Linghu, Qing Li, Song-Chun Zhu, Siyuan Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Unveiling_the_Mist_over_3D_Vision-Language_Understanding_Object-centric_Evaluation_with_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2381",
+      "paper_id": "",
+      "title": "Versatile Navigation Under Partial Observability via Value-guided Diffusion Policy",
+      "authors": "Gengyu Zhang, Hao Tang, Yan Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Versatile_Navigation_Under_Partial_Observability_via_Value-guided_Diffusion_Policy_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2513",
+      "paper_id": "",
+      "title": "Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation",
+      "authors": "Ziyang Xie, Zhizheng Liu, Zhenghao Peng, Wayne Wu, Bolei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Vid2Sim_Realistic_and_Interactive_Simulation_from_Video_for_Urban_Navigation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_936",
+      "paper_id": "",
+      "title": "VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation",
+      "authors": "Hanzhi Chen, Boyang Sun, Anran Zhang, Marc Pollefeys, Stefan Leutenegger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_VidBot_Learning_Generalizable_3D_Actions_from_In-the-Wild_2D_Human_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2519",
+      "paper_id": "",
+      "title": "Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding",
+      "authors": "Duo Zheng, Shijia Huang, Liwei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Video-3D_LLM_Learning_Position-Aware_Video_Representation_for_3D_Scene_Understanding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1427",
+      "paper_id": "",
+      "title": "VideoWorld: Exploring Knowledge Learning from Unlabeled Videos",
+      "authors": "Zhongwei Ren, Yunchao Wei, Xun Guo, Yao Zhao, Bingyi Kang, Jiashi Feng, Xiaojie Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ren_VideoWorld_Exploring_Knowledge_Learning_from_Unlabeled_Videos_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2594",
+      "paper_id": "",
+      "title": "Viewpoint-Aware Visual Grounding in 3D Scenes",
+      "authors": "Xiangxi Shi, Zhonghua Wu, Stefan Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_Viewpoint-Aware_Visual_Grounding_in_3D_Scenes_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_344",
+      "paper_id": "",
+      "title": "Vision-and-Language Navigation via Causal Learning",
+      "authors": "Liuyi Wang, Zongtao He, Ronghao Dang, Mengjiao Shen, Chengju Liu, Qijun Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_567",
+      "paper_id": "",
+      "title": "Visual Agentic AI for Spatial Reasoning with a Dynamic API",
+      "authors": "Damiano Marsili, Rohun Agrawal, Yisong Yue, Georgia Gkioxari",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Marsili_Visual_Agentic_AI_for_Spatial_Reasoning_with_a_Dynamic_API_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_852",
+      "paper_id": "",
+      "title": "Visual Navigation With Spatial Attention",
+      "authors": "Bar Mayo, Tamir Hazan, Ayellet Tal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Mayo_Visual_Navigation_With_Spatial_Attention_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1550",
+      "paper_id": "",
+      "title": "Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding",
+      "authors": "Zhihao Yuan, Jinke Ren, Chun-Mei Feng, Hengshuang Zhao, Shuguang Cui, Zhen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_746",
+      "paper_id": "",
+      "title": "Visual Room Rearrangement",
+      "authors": "Luca Weihs, Matt Deitke, Aniruddha Kembhavi, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Weihs_Visual_Room_Rearrangement_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_997",
+      "paper_id": "",
+      "title": "VL-SAT: Visual-Linguistic Semantics Assisted Training for 3D Semantic Scene Graph Prediction in Point Cloud",
+      "authors": "Ziqin Wang, Bowen Cheng, Lichen Zhao, Dong Xu, Yang Tang, Lu Sheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_VL-SAT_Visual-Linguistic_Semantics_Assisted_Training_for_3D_Semantic_Scene_Graph_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2151",
+      "paper_id": "",
+      "title": "VLMs-Guided Representation Distillation for Efficient Vision-Based Reinforcement Learning",
+      "authors": "Haoran Xu, Peixi Peng, Guang Tan, Yiqian Chang, Luntong Li, Yonghong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_VLMs-Guided_Representation_Distillation_for_Efficient_Vision-Based_Reinforcement_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1073",
+      "paper_id": "",
+      "title": "VLN BERT: A Recurrent Vision-and-Language BERT for Navigation",
+      "authors": "Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-Opazo, Stephen Gould",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_VLN_BERT_A_Recurrent_Vision-and-Language_BERT_for_Navigation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1454",
+      "paper_id": "",
+      "title": "Volumetric Environment Representation for Vision-Language Navigation",
+      "authors": "Rui Liu, Wenguan Wang, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Volumetric_Environment_Representation_for_Vision-Language_Navigation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_290",
+      "paper_id": "",
+      "title": "What Do Navigation Agents Learn About Their Environment?",
+      "authors": "Kshitij Dwivedi, Gemma Roig, Aniruddha Kembhavi, Roozbeh Mottaghi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dwivedi_What_Do_Navigation_Agents_Learn_About_Their_Environment_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_764",
+      "paper_id": "",
+      "title": "X-Trans2Cap: Cross-Modal Knowledge Transfer Using Transformer for 3D Dense Captioning",
+      "authors": "Zhihao Yuan, Xu Yan, Yinghong Liao, Yao Guo, Guanbin Li, Shuguang Cui, Zhen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_X-Trans2Cap_Cross-Modal_Knowledge_Transfer_Using_Transformer_for_3D_Dense_Captioning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1534",
+      "paper_id": "",
+      "title": "Zero Experience Required: Plug & Play Modular Transfer Learning for Semantic Visual Navigation",
+      "authors": "Ziad Al-Halah, Santhosh Kumar Ramakrishnan, Kristen Grauman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Al-Halah_Zero_Experience_Required_Plug__Play_Modular_Transfer_Learning_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2161",
+      "paper_id": "",
+      "title": "Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression",
+      "authors": "Hsiang-Wei Huang, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Lu Xia, Sanghun Jung, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-Hao Kuo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Zero-shot_3D_Question_Answering_via_Voxel-based_Dynamic_Token_Compression_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2650",
+      "paper_id": "",
+      "title": "Zero-Shot 4D Lidar Panoptic Segmentation",
+      "authors": "Yushan Zhang, Aljoša Ošep, Laura Leal-Taixé, Tim Meinhardt",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Zero-Shot_4D_Lidar_Panoptic_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    }
+  ]
+}

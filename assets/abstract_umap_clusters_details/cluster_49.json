@@ -1,0 +1,429 @@
+{
+  "cluster_id": 49,
+  "papers": [
+    {
+      "id": "corl23_AIgm8ZE_DlD",
+      "paper_id": "AIgm8ZE_DlD",
+      "title": "A Universal Semantic-Geometric Representation for Robotic Manipulation",
+      "authors": "Tong Zhang, Yingdong Hu, Hanchen Cui, Hang Zhao, Yang Gao",
+      "paper_url": "https://openreview.net/pdf?id=AIgm8ZE_DlD",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_qVc7NWYTRZ6",
+      "paper_id": "qVc7NWYTRZ6",
+      "title": "An Unbiased Look at Datasets for Visuo-Motor Pre-Training",
+      "authors": "Sudeep Dasari, Mohan Kumar Srirama, Unnat Jain, Abhinav Gupta",
+      "paper_url": "https://openreview.net/pdf?id=qVc7NWYTRZ6",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_70",
+      "paper_id": "70",
+      "title": "Broadcasting Support Relations Recursively from Local Dynamics for Object Retrieval in Clutters",
+      "authors": "Yitong Li, Ruihai Wu, Haoran Lu, Chuanruo Ning, Yan Shen, Guanqi Zhan, Hao DongYitong Li, Ruihai Wu, Haoran Lu, Chuanruo Ning, Yan Shen, Guanqi Zhan, Hao Dong",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p070.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_74",
+      "paper_id": "74",
+      "title": "CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory",
+      "authors": "Nur Muhammad \t❨Mahi❩ Shafiullah (New York University)*, Chris Paxton (Meta AI), Lerrel Pinto (New York University), Soumith Chintala (Meta), Arthur Szlam (Meta)Nur Muhammad \t❨Mahi❩ Shafiullah (New York University)*, Chris Paxton (Meta AI), Lerrel Pinto (New York University), Soumith Chintala (Meta), Arthur Szlam (Meta)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p074.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_k0ogr4dnhG",
+      "paper_id": "k0ogr4dnhG",
+      "title": "ClutterGen: A Cluttered Scene Generator for Robot Learning",
+      "authors": "Yinsen Jia, Boyuan Chen",
+      "paper_url": "https://openreview.net/pdf?id=k0ogr4dnhG",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_Uaaj4MaVIQ",
+      "paper_id": "Uaaj4MaVIQ",
+      "title": "D$^3$Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement",
+      "authors": "Yixuan Wang, Mingtong Zhang, Zhuoran Li, Tarik Kelestemur, Katherine Rose Driggs-Campbell, Jiajun Wu, Li Fei-Fei, Yunzhu Li",
+      "paper_url": "https://openreview.net/pdf?id=Uaaj4MaVIQ",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_HlxRd529nG",
+      "paper_id": "HlxRd529nG",
+      "title": "Detect Everything with Few Examples",
+      "authors": "Xinyu Zhang, Yuhan Liu, Yuting Wang, Abdeslam Boularias",
+      "paper_url": "https://openreview.net/pdf?id=HlxRd529nG",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_Rb0nGIt_kh5",
+      "paper_id": "Rb0nGIt_kh5",
+      "title": "Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation",
+      "authors": "William Shen, Ge Yang, Alan Yu, Jansen Wong, Leslie Pack Kaelbling, Phillip Isola",
+      "paper_url": "https://openreview.net/pdf?id=Rb0nGIt_kh5",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_ar8FMzaZbcq",
+      "paper_id": "ar8FMzaZbcq",
+      "title": "Fully Self-Supervised Class Awareness in Dense Object Descriptors",
+      "authors": "Denis Hadjivelichkov, Dimitrios Kanoulas",
+      "paper_url": "https://openreview.net/pdf?id=ar8FMzaZbcq",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss22_67",
+      "paper_id": "67",
+      "title": "FuseBot: RF-Visual Mechanical Search",
+      "authors": "Tara Boroushaki, Laura Dodds, Nazish Naeem, Fadel Adib (Massachusetts Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p067.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss21_60",
+      "paper_id": "60",
+      "title": "GIFT: Generalizable Interaction-aware Functional Tool Affordances without Labels",
+      "authors": "Dylan Turpin (University of Toronto), Liquan Wang (University of Toronto), Stavros Tsogkas (University of Toronto), Sven Dickinson (University of Toronto), Animesh Garg (University of Toronto, Vector Institute, NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p060.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_b1tl3aOt2R2",
+      "paper_id": "b1tl3aOt2R2",
+      "title": "GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields",
+      "authors": "Yanjie Ze, Ge Yan, Yueh-Hua Wu, Annabella Macaluso, Yuying Ge, Jianglong Ye, Nicklas Hansen, Li Erran Li, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=b1tl3aOt2R2",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_68",
+      "paper_id": "68",
+      "title": "HRP: Human affordances for Robotic Pre-training",
+      "authors": "Mohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav GuptaMohan Kumar Srirama, Sudeep Dasari, Shikhar Bahl, Abhinav Gupta",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p068.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_11",
+      "paper_id": "11",
+      "title": "Human-oriented Representation Learning for Robotic Manipulation",
+      "authors": "Mingxiao Huo, Mingyu Ding, Chenfeng Xu, Thomas Tian, Xinghao Zhu, Yao Mu, Lingfeng Sun, Masayoshi Tomizuka, Wei ZhanMingxiao Huo, Mingyu Ding, Chenfeng Xu, Thomas Tian, Xinghao Zhu, Yao Mu, Lingfeng Sun, Masayoshi Tomizuka, Wei Zhan",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p011.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_32",
+      "paper_id": "32",
+      "title": "Language-Driven Representation Learning for Robotics",
+      "authors": "Siddharth Karamcheti (Stanford University)*, Suraj Nair (Stanford University), Annie S Chen (Stanford University), Thomas Kollar (Toyota Research Institute), Chelsea Finn (Stanford University), Dorsa Sadigh (Stanford University), Percy Liang (Stanford University)Siddharth Karamcheti (Stanford University)*, Suraj Nair (Stanford University), Annie S Chen (Stanford University), Thomas Kollar (Toyota Research Institute), Chelsea Finn (Stanford University), Dorsa Sadigh (Stanford University), Percy Liang (Stanford University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p032.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_35",
+      "paper_id": "35",
+      "title": "Learning Instance-Level N-Ary Semantic Knowledge At Scale For Robots Operating in Everyday Environments",
+      "authors": "Weiyu Liu (Georgia Tech), Dhruva Bansal (Georgia Tech), Angel Daruna (Georgia Tech), Sonia Chernova (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p035.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss24_123",
+      "paper_id": "123",
+      "title": "Learning Manipulation by Predicting Interaction",
+      "authors": "Jia Zeng, Qingwen Bu, Bangjun Wang, Wenke Xia, Li Chen, Hao Dong, Haoming Song, Dong Wang, Di Hu, Ping Luo, Heming Cui, Bin Zhao, Xuelong Li, Yu Qiao, Hongyang LiJia Zeng, Qingwen Bu, Bangjun Wang, Wenke Xia, Li Chen, Hao Dong, Haoming Song, Dong Wang, Di Hu, Ping Luo, Heming Cui, Bin Zhao, Xuelong Li, Yu Qiao, Hongyang Li",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p123.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_Bf6on28H0Jv",
+      "paper_id": "Bf6on28H0Jv",
+      "title": "Masked World Models for Visual Control",
+      "authors": "Younggyo Seo, Danijar Hafner, Hao Liu, Fangchen Liu, Stephen James, Kimin Lee, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=Bf6on28H0Jv",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_AmPeAFzU3a4",
+      "paper_id": "AmPeAFzU3a4",
+      "title": "MIRA: Mental Imagery for Robotic Affordances",
+      "authors": "Yen-Chen Lin, Pete Florence, Andy Zeng, Jonathan T. Barron, Yilun Du, Wei-Chiu Ma, Anthony Simeonov, Alberto Rodriguez Garcia, Phillip Isola",
+      "paper_url": "https://openreview.net/pdf?id=AmPeAFzU3a4",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_44",
+      "paper_id": "44",
+      "title": "MQA: Answering the Question via Robotic Manipulation",
+      "authors": "Yuhong Deng (Tsinghua University), Di Guo (Tsinghua University), Xiaofeng Guo (Tsinghua University), NAIFU ZHANG (Tsinghua University), Huaping Liu (Tsinghua University), Fuchun Sun (Tsinghua University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p044.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl21_Ei3MOY2rDHB",
+      "paper_id": "Ei3MOY2rDHB",
+      "title": "My House, My Rules: Learning Tidying Preferences with Graph Neural Networks",
+      "authors": "Ivan Kapelyukh, Edward Johns",
+      "paper_url": "https://openreview.net/pdf?id=Ei3MOY2rDHB",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_72",
+      "paper_id": "72",
+      "title": "NeRP: Neural Rearrangement Planning for Unknown Objects",
+      "authors": "Ahmed H Qureshi (UC San Diego), Arsalan Mousavian (NVIDIA), Chris Paxton (NVIDIA), Michael Yip (UC San Diego), Dieter Fox (NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p072.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_AGG1zlrrMw",
+      "paper_id": "AGG1zlrrMw",
+      "title": "Neural Attention Field: Emerging Point Relevance in 3D Scenes for One-Shot Dexterous Grasping",
+      "authors": "Qianxu Wang, Congyue Deng, Tyler Ga Wei Lum, Yuanpei Chen, Yaodong Yang, Jeannette Bohg, Yixin Zhu, Leonidas Guibas",
+      "paper_url": "https://openreview.net/pdf?id=AGG1zlrrMw",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_rvKWXxIvj0",
+      "paper_id": "rvKWXxIvj0",
+      "title": "Non-rigid Relative Placement through 3D Dense Diffusion",
+      "authors": "Eric Cai, Octavian Donca, Ben Eisner, David Held",
+      "paper_url": "https://openreview.net/pdf?id=rvKWXxIvj0",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_EougVeukEH9",
+      "paper_id": "EougVeukEH9",
+      "title": "O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning",
+      "authors": "Kaichun Mo, Yuzhe Qin, Fanbo Xiang, Hao Su, Leonidas Guibas",
+      "paper_url": "https://openreview.net/pdf?id=EougVeukEH9",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_33",
+      "paper_id": "33",
+      "title": "On Minimizing the Number of Running Buffers for Tabletop Rearrangement",
+      "authors": "Kai Gao (Rutgers University), Siwei Feng (Rutgers University), Jingjin Yu (Rutgers University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p033.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_GeM6VUwYinO",
+      "paper_id": "GeM6VUwYinO",
+      "title": "One-Shot Transfer of Affordance Regions? AffCorrs!",
+      "authors": "Denis Hadjivelichkov, Sicelukwanda Zwane, Lourdes Agapito, Marc Peter Deisenroth, Dimitrios Kanoulas",
+      "paper_url": "https://openreview.net/pdf?id=GeM6VUwYinO",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_Q8BGLiWn2X",
+      "paper_id": "Q8BGLiWn2X",
+      "title": "PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining",
+      "authors": "Garrett Thomas, Ching-An Cheng, Ricky Loynd, Felipe Vieira Frujeri, Vibhav Vineet, Mihai Jalobeanu, Andrey Kolobov",
+      "paper_url": "https://openreview.net/pdf?id=Q8BGLiWn2X",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_5DjX89Wyhk-",
+      "paper_id": "5DjX89Wyhk-",
+      "title": "Predicting Stable Configurations for Semantic Placement of Novel Objects",
+      "authors": "Chris Paxton, Chris Xie, Tucker Hermans, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=5DjX89Wyhk-",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_tGbpgz6yOrI",
+      "paper_id": "tGbpgz6yOrI",
+      "title": "R3M: A Universal Visual Representation for Robot Manipulation",
+      "authors": "Suraj Nair, Aravind Rajeswaran, Vikash Kumar, Chelsea Finn, Abhinav Gupta",
+      "paper_url": "https://openreview.net/pdf?id=tGbpgz6yOrI",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_KWCZfuqshd",
+      "paper_id": "KWCZfuqshd",
+      "title": "Real-World Robot Learning with Masked Visual Pre-training",
+      "authors": "Ilija Radosavovic, Tete Xiao, Stephen James, Pieter Abbeel, Jitendra Malik, Trevor Darrell",
+      "paper_url": "https://openreview.net/pdf?id=KWCZfuqshd",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_14",
+      "paper_id": "14",
+      "title": "Rearrangement on Lattices with Swaps: Optimality Structures and Efficient Algorithms",
+      "authors": "Jingjin Yu (Rutgers University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p014.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_9iG3SEbMnL",
+      "paper_id": "9iG3SEbMnL",
+      "title": "ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation",
+      "authors": "Wenlong Huang, Chen Wang, Yunzhu Li, Ruohan Zhang, Li Fei-Fei",
+      "paper_url": "https://openreview.net/pdf?id=9iG3SEbMnL",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_0f7gUXVAcE9",
+      "paper_id": "0f7gUXVAcE9",
+      "title": "RICE: Refining Instance Masks in Cluttered Environments with Graph Neural Networks",
+      "authors": "Chris Xie, Arsalan Mousavian, Yu Xiang, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=0f7gUXVAcE9",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_UHxPZgK33I",
+      "paper_id": "UHxPZgK33I",
+      "title": "RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation",
+      "authors": "Hanxiao Jiang, Binghao Huang, Ruihai Wu, Zhuoran Li, Shubham Garg, Hooshang Nayyeri, Shenlong Wang, Yunzhu Li",
+      "paper_url": "https://openreview.net/pdf?id=UHxPZgK33I",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_LunGpKUNIR",
+      "paper_id": "LunGpKUNIR",
+      "title": "SE(3)-Equivariant Relational Rearrangement with Neural Descriptor Fields",
+      "authors": "Anthony Simeonov, Yilun Du, Yen-Chen Lin, Alberto Rodriguez Garcia, Leslie Pack Kaelbling, Tomás Lozano-Pérez, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=LunGpKUNIR",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_2cEjfernc5P",
+      "paper_id": "2cEjfernc5P",
+      "title": "Selective Object Rearrangement in Clutter",
+      "authors": "Bingjie Tang, Gaurav S. Sukhatme",
+      "paper_url": "https://openreview.net/pdf?id=2cEjfernc5P",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_17",
+      "paper_id": "17",
+      "title": "Self-Supervised Unseen Object Instance Segmentation via Long-Term Robot Interaction",
+      "authors": "Yangxiao Lu (UT Dallas)*, Ninad A Khargonkar (UT Dallas), Zesheng Xu (UT Dallas), Charles Averill (UT Dallas), Kamalesh Palanisamy (UT Dallas), Kaiyu Hang (Rice University), Yunhui Guo (UT Dallas), Nicholas Ruozzi (UT Dallas), Yu Xiang (UT Dallas)Yangxiao Lu (UT Dallas)*, Ninad A Khargonkar (UT Dallas), Zesheng Xu (UT Dallas), Charles Averill (UT Dallas), Kamalesh Palanisamy (UT Dallas), Kaiyu Hang (Rice University), Yunhui Guo (UT Dallas), Nicholas Ruozzi (UT Dallas), Yu Xiang (UT Dallas)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p017.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_95",
+      "paper_id": "95",
+      "title": "Set It Up!: Functional Object Arrangement with Compositional Generative Models",
+      "authors": "Yiqing Xu, Jiayuan Mao, Yilun Du, Tomás Lozano-Pérez, Leslie Pack Kaelbling, David HsuYiqing Xu, Jiayuan Mao, Yilun Du, Tomás Lozano-Pérez, Leslie Pack Kaelbling, David Hsu",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p095.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23__xFJuqBId8c",
+      "paper_id": "_xFJuqBId8c",
+      "title": "Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement",
+      "authors": "Anthony Simeonov, Ankit Goyal, Lucas Manuelli, Yen-Chen Lin, Alina Sarmiento, Alberto Rodriguez Garcia, Pulkit Agrawal, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=_xFJuqBId8c",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_mOLu2rODIJF",
+      "paper_id": "mOLu2rODIJF",
+      "title": "SORNet: Spatial Object-Centric Representations for Sequential Manipulation",
+      "authors": "Wentao Yuan, Chris Paxton, Karthik Desingh, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=mOLu2rODIJF",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_8XFT1PatHy",
+      "paper_id": "8XFT1PatHy",
+      "title": "Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting",
+      "authors": "Olaolu Shorinwa, Johnathan Tucker, Aliyah Smith, Aiden Swann, Timothy Chen, Roya Firoozi, Monroe David Kennedy, Mac Schwager",
+      "paper_url": "https://openreview.net/pdf?id=8XFT1PatHy",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_48qUHKUEdBf",
+      "paper_id": "48qUHKUEdBf",
+      "title": "STOW: Discrete-Frame Segmentation and Tracking of Unseen Objects for Warehouse Picking Robots",
+      "authors": "Yi Li, Muru Zhang, Markus Grotz, Kaichun Mo, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=48qUHKUEdBf",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_31",
+      "paper_id": "31",
+      "title": "StructDiffusion: Language-Guided Creation of Physically-Valid Structures using Unseen Objects",
+      "authors": "Weiyu Liu (Georgia Tech)*, Yilun Du (Massachusetts Institute of Technology), Tucker Hermans (University of Utah), Sonia Chernova (Georgia Tech), Chris Paxton (Meta AI)Weiyu Liu (Georgia Tech)*, Yilun Du (Massachusetts Institute of Technology), Tucker Hermans (University of Utah), Sonia Chernova (Georgia Tech), Chris Paxton (Meta AI)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p031.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_D0X97ODIYK",
+      "paper_id": "D0X97ODIYK",
+      "title": "Structural Concept Learning via Graph Attention for Multi-Level Rearrangement Planning",
+      "authors": "Manav Kulshrestha, Ahmed H Qureshi",
+      "paper_url": "https://openreview.net/pdf?id=D0X97ODIYK",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_-8Kt5J-9AI",
+      "paper_id": "-8Kt5J-9AI",
+      "title": "Tailoring Visual Object Representations to Human Requirements: A Case Study with a Recycling Robot",
+      "authors": "Debasmita Ghose, Michal Adam Lewkowicz, Kaleb Gezahegn, Julian Lee, Timothy Adamson, Marynel Vazquez, Brian Scassellati",
+      "paper_url": "https://openreview.net/pdf?id=-8Kt5J-9AI",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_EiqQEsOMZt",
+      "paper_id": "EiqQEsOMZt",
+      "title": "TaMMa: Target-driven Multi-subscene Mobile Manipulation",
+      "authors": "Jiawei Hou, Tianyu Wang, Tongying Pan, Shouyan Wang, Xiangyang Xue, Yanwei Fu",
+      "paper_url": "https://openreview.net/pdf?id=EiqQEsOMZt",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_hV97HJm7Ag",
+      "paper_id": "hV97HJm7Ag",
+      "title": "Task-Oriented Hierarchical Object Decomposition for Visuomotor Control",
+      "authors": "Jianing Qian, Yunshuang Li, Bernadette Bucher, Dinesh Jayaraman",
+      "paper_url": "https://openreview.net/pdf?id=hV97HJm7Ag",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_nWLt35BU1z_",
+      "paper_id": "nWLt35BU1z_",
+      "title": "Taskography: Evaluating robot task planning over large 3D scene graphs",
+      "authors": "Christopher Agia, Krishna Murthy Jatavallabhula, Mohamed Khodeir, Ondrej Miksik, Vibhav Vineet, Mustafa Mukadam, Liam Paull, Florian Shkurti",
+      "paper_url": "https://openreview.net/pdf?id=nWLt35BU1z_",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_YmJi0bTfeNX",
+      "paper_id": "YmJi0bTfeNX",
+      "title": "TAX-Pose: Task-Specific Cross-Pose Estimation for Robot Manipulation",
+      "authors": "Chuer Pan, Brian Okorn, Harry Zhang, Ben Eisner, David Held",
+      "paper_url": "https://openreview.net/pdf?id=YmJi0bTfeNX",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_ylZHvlwUcI",
+      "paper_id": "ylZHvlwUcI",
+      "title": "Theia: Distilling Diverse Vision Foundation Models for Robot Learning",
+      "authors": "Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant",
+      "paper_url": "https://openreview.net/pdf?id=ylZHvlwUcI",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_sIVC-oZN1PQ",
+      "paper_id": "sIVC-oZN1PQ",
+      "title": "Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views",
+      "authors": "Jingyun Yang, Hsiao-Yu Tung, Yunchu Zhang, Gaurav Pathak, Ashwini Pokle, Christopher G Atkeson, Katerina Fragkiadaki",
+      "paper_url": "https://openreview.net/pdf?id=sIVC-oZN1PQ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_A1hpY5RNiH",
+      "paper_id": "A1hpY5RNiH",
+      "title": "What Makes Pre-Trained Visual Representations Successful for Robust Manipulation?",
+      "authors": "Kaylee Burns, Zach Witzel, Jubayer Ibn Hamid, Tianhe Yu, Chelsea Finn, Karol Hausman",
+      "paper_url": "https://openreview.net/pdf?id=A1hpY5RNiH",
+      "venue": "corl24"
+    }
+  ]
+}

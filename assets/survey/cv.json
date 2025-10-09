@@ -1,0 +1,238 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Robust & Generalizable Learning",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Adversarial / OOD Robustness",
+                    "what_is_covered": "Defending against or detecting malicious, anomalous or out-of-distribution inputs.",
+                    "typical_examples": "adversarial robustness; deepfake detection; anomaly detection; out-of-distribution detection",
+                    "cluster": "0,2,5"
+                },
+                {
+                    "id": "1.2",
+                    "name": "Domain Adaptation & Generalization",
+                    "what_is_covered": "Transferring models across different domains, devices or persons without performance drop.",
+                    "typical_examples": "domain adaptation; domain generalization; test-time adaptation; person re-identification",
+                    "cluster": "3,6"
+                },
+                {
+                    "id": "1.3",
+                    "name": "Low-Data Learning",
+                    "what_is_covered": "Learning reliably from scarce, imbalanced or continually arriving data.",
+                    "typical_examples": "few-shot learning; continual learning; long-tailed recognition; federated learning",
+                    "cluster": "0,1,2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Representation & Model Efficiency",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Representation Learning & Distillation",
+                    "what_is_covered": "Un/semisupervised learning and distillation techniques that build informative, explainable features.",
+                    "typical_examples": "self-supervised learning; semi-supervised segmentation; pseudo-label consistency; representation learning; knowledge distillation; explainability",
+                    "cluster": "4,5,7,10"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Efficient Architectures",
+                    "what_is_covered": "Designing compact, hardware-friendly or automatically searched neural networks.",
+                    "typical_examples": "efficient vision transformers; neural architecture compression; sparse NAS; quantized NAS",
+                    "cluster": "9"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Generative Modeling & Editing",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "2D Generative Imaging",
+                    "what_is_covered": "Synthesising or editing images/videos with controllable appearance or compression.",
+                    "typical_examples": "generative adversarial networks; image inpainting; image translation; neural style transfer; diffusion-based image/video generation; controllable generative editing; neural compression",
+                    "cluster": "18,21,23"
+                },
+                {
+                    "id": "3.2",
+                    "name": "3D Neural Rendering & Scene Generation",
+                    "what_is_covered": "Generating or reconstructing 3-D scenes via implicit or explicit neural representations.",
+                    "typical_examples": "neural radiance fields; 3D scene generation; 3D Gaussian splatting; dynamic scene reconstruction; neural rendering",
+                    "cluster": "25,28,29"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "2D Perception & Enhancement",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Detection & Segmentation",
+                    "what_is_covered": "Locating objects or semantic regions in images/videos.",
+                    "typical_examples": "object detection; semantic segmentation; few-shot detection",
+                    "cluster": "1,10,16"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Tracking & Motion Estimation",
+                    "what_is_covered": "Following objects or estimating pixel correspondences over time.",
+                    "typical_examples": "object tracking; correspondence; registration; optical flow; UAV surveillance",
+                    "cluster": "13,20"
+                },
+                {
+                    "id": "4.3",
+                    "name": "Matting & Transparency",
+                    "what_is_covered": "Separating foreground layers or transparency effects in images/videos.",
+                    "typical_examples": "image/video matting; trimap guidance; mask guidance; transformer-based matting models",
+                    "cluster": "19"
+                },
+                {
+                    "id": "4.4",
+                    "name": "Restoration & Enhancement",
+                    "what_is_covered": "Improving quality of degraded images/videos or reconstructing HDR.",
+                    "typical_examples": "image/video restoration; diffusion models for restoration; HDR reconstruction",
+                    "cluster": "21,27"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "3D Perception & Geometry",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Depth & Reconstruction",
+                    "what_is_covered": "Estimating depth or reconstructing 3-D structure from images.",
+                    "typical_examples": "depth estimation; stereo matching; 3D reconstruction",
+                    "cluster": "26"
+                },
+                {
+                    "id": "5.2",
+                    "name": "LiDAR & 3D Detection",
+                    "what_is_covered": "Understanding point clouds for object detection and semantic segmentation.",
+                    "typical_examples": "LiDAR point clouds; 3D object detection; 3D semantic segmentation",
+                    "cluster": "16"
+                },
+                {
+                    "id": "5.3",
+                    "name": "Pose & Localization",
+                    "what_is_covered": "Estimating 6-D object poses or localizing cameras in space.",
+                    "typical_examples": "6D pose estimation; visual localization; equivariant features",
+                    "cluster": "24"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Video & Temporal Understanding",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Temporal Action & Video Reasoning",
+                    "what_is_covered": "Recognising and localising actions or reasoning over temporal video cues.",
+                    "typical_examples": "temporal action localization; video representation learning; multimodal reasoning",
+                    "cluster": "12"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Multimodal & Vision-Language Systems",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "Vision-Language Pretraining & Retrieval",
+                    "what_is_covered": "Learning cross-modal representations for zero-shot tasks or retrieval.",
+                    "typical_examples": "vision-language pretraining; zero-shot learning; cross-modal retrieval",
+                    "cluster": "8"
+                },
+                {
+                    "id": "7.2",
+                    "name": "Multimodal Large Models & Grounding",
+                    "what_is_covered": "Large models that jointly reason over vision and language with grounding.",
+                    "typical_examples": "multimodal large language models; visual grounding; visual reasoning; benchmark datasets; 3D vision-language grounding; scene graph generation",
+                    "cluster": "11,14"
+                },
+                {
+                    "id": "7.3",
+                    "name": "Audio / Sign / Gaze Multimodality",
+                    "what_is_covered": "Integrating audio, sign language or gaze with vision tasks.",
+                    "typical_examples": "audio-visual learning; sign language processing; gaze estimation",
+                    "cluster": "15"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Human-Centric Understanding & Animation",
+            "subcategories": [
+                {
+                    "id": "8.1",
+                    "name": "Pose & Interaction",
+                    "what_is_covered": "Estimating human body pose and modelling human-object interactions.",
+                    "typical_examples": "3D human pose estimation; human-object interaction; transformer-based motion generation",
+                    "cluster": "22"
+                },
+                {
+                    "id": "8.2",
+                    "name": "Avatars & Animation",
+                    "what_is_covered": "Building and animating realistic 3-D human avatars.",
+                    "typical_examples": "3D human avatars; pose-driven animation; neural rendering of humans",
+                    "cluster": "28"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Embodied & Autonomous Systems",
+            "subcategories": [
+                {
+                    "id": "9.1",
+                    "name": "Embodied Navigation & Mapping",
+                    "what_is_covered": "Perception and planning for agents navigating 3-D environments.",
+                    "typical_examples": "embodied navigation; HD-map generation; lane generation",
+                    "cluster": "14,17"
+                },
+                {
+                    "id": "9.2",
+                    "name": "Trajectory Prediction & Traffic Simulation",
+                    "what_is_covered": "Forecasting future paths and simulating realistic traffic participants.",
+                    "typical_examples": "trajectory prediction; data-driven traffic simulation",
+                    "cluster": "17"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Event-Based & Computational Imaging",
+            "subcategories": [
+                {
+                    "id": "10.1",
+                    "name": "Event & Computational Imaging",
+                    "what_is_covered": "Using non-standard sensors and algorithms for high-speed or HDR imaging.",
+                    "typical_examples": "event-based vision; computational imaging; depth reconstruction; HDR reconstruction",
+                    "cluster": "27"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Biomedical Vision",
+            "subcategories": [
+                {
+                    "id": "11.1",
+                    "name": "Medical Image Analysis",
+                    "what_is_covered": "Applying vision methods to medical imagery with limited labels.",
+                    "typical_examples": "semi-supervised segmentation; medical image analysis",
+                    "cluster": "7"
+                }
+            ]
+        }
+    ]
+}

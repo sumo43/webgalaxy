@@ -1,0 +1,392 @@
+{
+    "22": {
+        "rank": 0,
+        "keywords": "Program synthesis, Code generation, Theorem proving",
+        "slope": 0.01398696155369783,
+        "color": "#00ff80",
+        "proportions": {
+            "2021": 0.020954598370197905,
+            "2022": 0.010968921389396709,
+            "2023": 0.019707565162110616,
+            "2024": 0.04989059080962801,
+            "2025": 0.07142857142857142
+        }
+    },
+    "11": {
+        "rank": 1,
+        "keywords": "vision-language reasoning, knowledge graph learning, compositional generalization",
+        "slope": 0.011525403062846964,
+        "color": "#00ef88",
+        "proportions": {
+            "2021": 0.006984866123399301,
+            "2022": 0.01736745886654479,
+            "2023": 0.02542911633820725,
+            "2024": 0.03851203501094092,
+            "2025": 0.05403959336543606
+        }
+    },
+    "15": {
+        "rank": 2,
+        "keywords": "language-modeling, retrieval-augmentation, representation-learning",
+        "slope": 0.01088536514067015,
+        "color": "#00eb8a",
+        "proportions": {
+            "2021": 0.027939464493597205,
+            "2022": 0.031078610603290677,
+            "2023": 0.036872218690400506,
+            "2024": 0.052954048140043765,
+            "2025": 0.07142857142857142
+        }
+    },
+    "1": {
+        "rank": 3,
+        "keywords": "Generative modeling, Image synthesis/editing, Diffusion-based methods",
+        "slope": 0.009534213251190547,
+        "color": "#00e28e",
+        "proportions": {
+            "2021": 0.01979045401629802,
+            "2022": 0.022851919561243144,
+            "2023": 0.03242212333121424,
+            "2024": 0.05076586433260394,
+            "2025": 0.05350454788657036
+        }
+    },
+    "9": {
+        "rank": 4,
+        "keywords": "3D shape generation, neural implicit representations, point cloud reconstruction",
+        "slope": 0.009469426151355024,
+        "color": "#00e28e",
+        "proportions": {
+            "2021": 0.004656577415599534,
+            "2022": 0.015539305301645339,
+            "2023": 0.02225047679593134,
+            "2024": 0.03982494529540481,
+            "2025": 0.039860888175494914
+        }
+    },
+    "26": {
+        "rank": 5,
+        "keywords": "dialogue systems, multi-agent collaboration, reinforcement learning",
+        "slope": 0.008506075756253362,
+        "color": "#00db92",
+        "proportions": {
+            "2021": 0.005820721769499418,
+            "2022": 0.005484460694698354,
+            "2023": 0.009535918626827717,
+            "2024": 0.024070021881838075,
+            "2025": 0.039058319957196365
+        }
+    },
+    "19": {
+        "rank": 6,
+        "keywords": "adversarial robustness, machine unlearning, differential privacy",
+        "slope": 0.006778187527806302,
+        "color": "#00d097",
+        "proportions": {
+            "2021": 0.0034924330616996507,
+            "2022": 0.005484460694698354,
+            "2023": 0.00572155117609663,
+            "2024": 0.01925601750547046,
+            "2025": 0.030497592295345103
+        }
+    },
+    "7": {
+        "rank": 7,
+        "keywords": "Efficient-transformer-architectures, parameter-efficient-fine-tuning, multilingual-adaptation",
+        "slope": 0.005804846708845089,
+        "color": "#00c99b",
+        "proportions": {
+            "2021": 0.04423748544819558,
+            "2022": 0.033820840950639856,
+            "2023": 0.030514939605848695,
+            "2024": 0.05032822757111598,
+            "2025": 0.06500802568218299
+        }
+    },
+    "13": {
+        "rank": 8,
+        "keywords": "Video understanding, Temporal modeling, 3D perception",
+        "slope": 0.003963334201117518,
+        "color": "#00bda0",
+        "proportions": {
+            "2021": 0.023282887077997673,
+            "2022": 0.014625228519195612,
+            "2023": 0.024793388429752067,
+            "2024": 0.02538293216630197,
+            "2025": 0.0377207062600321
+        }
+    },
+    "16": {
+        "rank": 9,
+        "keywords": "equivariant GNNs, 3D molecular generation, drug discovery",
+        "slope": 0.0038313854911965744,
+        "color": "#00bca1",
+        "proportions": {
+            "2021": 0.012805587892898719,
+            "2022": 0.02376599634369287,
+            "2023": 0.024793388429752067,
+            "2024": 0.026695842450765863,
+            "2025": 0.030497592295345103
+        }
+    },
+    "21": {
+        "rank": 10,
+        "keywords": "Sparse_Network_Pruning, Embedding_Compression, Recommendation_Systems",
+        "slope": 0.0035879092681957996,
+        "color": "#00bba2",
+        "proportions": {
+            "2021": 0.004656577415599534,
+            "2022": 0.031992687385740404,
+            "2023": 0.029879211697393517,
+            "2024": 0.025820568927789934,
+            "2025": 0.025682182985553772
+        }
+    },
+    "5": {
+        "rank": 11,
+        "keywords": "Vision Transformers, Object Detection, Self-supervised Learning",
+        "slope": 0.0031558850386960297,
+        "color": "#00b8a3",
+        "proportions": {
+            "2021": 0.008149010477299184,
+            "2022": 0.031078610603290677,
+            "2023": 0.033693579148124604,
+            "2024": 0.027571115973741796,
+            "2025": 0.025682182985553772
+        }
+    },
+    "25": {
+        "rank": 12,
+        "keywords": "Combinatorial optimization, Causal inference, Bayesian optimization",
+        "slope": 0.002455619864665444,
+        "color": "#00b3a6",
+        "proportions": {
+            "2021": 0.013969732246798603,
+            "2022": 0.02376599634369287,
+            "2023": 0.02670057215511761,
+            "2024": 0.022757111597374178,
+            "2025": 0.02675227394328518
+        }
+    },
+    "27": {
+        "rank": 13,
+        "keywords": "Embodied AI, Robotic manipulation, Differentiable simulation",
+        "slope": 0.0017982456443894424,
+        "color": "#00afa8",
+        "proportions": {
+            "2021": 0.01629802095459837,
+            "2022": 0.021937842778793418,
+            "2023": 0.019707565162110616,
+            "2024": 0.022757111597374178,
+            "2025": 0.024879614767255216
+        }
+    },
+    "28": {
+        "rank": 14,
+        "keywords": "multi-agent reinforcement learning, bandit algorithms, game-theoretic learning",
+        "slope": 0.0014122351652435018,
+        "color": "#00aca9",
+        "proportions": {
+            "2021": 0.005820721769499418,
+            "2022": 0.02102376599634369,
+            "2023": 0.023521932612841703,
+            "2024": 0.01575492341356674,
+            "2025": 0.015516318887105404
+        }
+    },
+    "17": {
+        "rank": 15,
+        "keywords": "recurrent neural networks, neuroscience-inspired modeling, theoretical analysis",
+        "slope": 0.0011100494236154284,
+        "color": "#00aaaa",
+        "proportions": {
+            "2021": 0.018626309662398137,
+            "2022": 0.031992687385740404,
+            "2023": 0.028607755880483154,
+            "2024": 0.028446389496717725,
+            "2025": 0.025949705724986623
+        }
+    },
+    "2": {
+        "rank": 16,
+        "keywords": "text-to-speech, audio-visual, diffusion",
+        "slope": -0.00041798287300612443,
+        "color": "#00a0af",
+        "proportions": {
+            "2021": 0.01629802095459837,
+            "2022": 0.010054844606946984,
+            "2023": 0.01144310235219326,
+            "2024": 0.01225382932166302,
+            "2025": 0.013108614232209739
+        }
+    },
+    "3": {
+        "rank": 17,
+        "keywords": "Generative Modeling, Optimal Transport, Diffusion Models",
+        "slope": -0.0007798457785545134,
+        "color": "#009eb0",
+        "proportions": {
+            "2021": 0.03841676367869616,
+            "2022": 0.037477148080438755,
+            "2023": 0.03877940241576605,
+            "2024": 0.03588621444201313,
+            "2025": 0.03531300160513644
+        }
+    },
+    "23": {
+        "rank": 18,
+        "keywords": "Neural differential equations, Physics-informed operator learning, Spatiotemporal forecasting",
+        "slope": -0.0009729043857542622,
+        "color": "#009cb1",
+        "proportions": {
+            "2021": 0.03608847497089639,
+            "2022": 0.0356489945155393,
+            "2023": 0.03560076287349015,
+            "2024": 0.037636761487964986,
+            "2025": 0.030230069555912252
+        }
+    },
+    "18": {
+        "rank": 19,
+        "keywords": "Nonconvex optimization, Stochastic gradient methods, Convergence analysis",
+        "slope": -0.001659480165890038,
+        "color": "#0098b3",
+        "proportions": {
+            "2021": 0.025611175785797437,
+            "2022": 0.031078610603290677,
+            "2023": 0.028607755880483154,
+            "2024": 0.02450765864332604,
+            "2025": 0.020599250936329586
+        }
+    },
+    "24": {
+        "rank": 20,
+        "keywords": "Federated learning, Differential privacy, Robust optimization",
+        "slope": -0.001751047286406039,
+        "color": "#0097b3",
+        "proportions": {
+            "2021": 0.027939464493597205,
+            "2022": 0.021937842778793418,
+            "2023": 0.03496503496503497,
+            "2024": 0.027133479212253828,
+            "2025": 0.01658640984483681
+        }
+    },
+    "20": {
+        "rank": 21,
+        "keywords": "Graph Neural Networks, Expressivity, Robustness",
+        "slope": -0.0019351030341821767,
+        "color": "#0096b4",
+        "proportions": {
+            "2021": 0.03841676367869616,
+            "2022": 0.05301645338208409,
+            "2023": 0.0540368722186904,
+            "2024": 0.04201312910284464,
+            "2025": 0.03424291064740503
+        }
+    },
+    "12": {
+        "rank": 22,
+        "keywords": "equivariant neural networks, group symmetry, geometric deep learning",
+        "slope": -0.001973708095240081,
+        "color": "#0096b4",
+        "proportions": {
+            "2021": 0.023282887077997673,
+            "2022": 0.04296160877513711,
+            "2023": 0.027972027972027972,
+            "2024": 0.030196936542669583,
+            "2025": 0.019796682718031033
+        }
+    },
+    "14": {
+        "rank": 23,
+        "keywords": "uncertainty estimation, conformal prediction, model interpretability",
+        "slope": -0.005290100643329146,
+        "color": "#0080bf",
+        "proportions": {
+            "2021": 0.047729918509895226,
+            "2022": 0.04021937842778794,
+            "2023": 0.04577240940877304,
+            "2024": 0.027133479212253828,
+            "2025": 0.027822364901016586
+        }
+    },
+    "6": {
+        "rank": 24,
+        "keywords": "contrastive learning, disentangled representations, clustering",
+        "slope": -0.006421666916786761,
+        "color": "#0078c3",
+        "proportions": {
+            "2021": 0.046565774155995346,
+            "2022": 0.0603290676416819,
+            "2023": 0.05912269548633185,
+            "2024": 0.03894967177242888,
+            "2025": 0.02514713750668807
+        }
+    },
+    "10": {
+        "rank": 25,
+        "keywords": "adversarial robustness, backdoor attacks, model security",
+        "slope": -0.00740700270953257,
+        "color": "#0072c6",
+        "proportions": {
+            "2021": 0.05820721769499418,
+            "2022": 0.04753199268738574,
+            "2023": 0.03750794659885569,
+            "2024": 0.03851203501094092,
+            "2025": 0.025682182985553772
+        }
+    },
+    "0": {
+        "rank": 26,
+        "keywords": "Continual Learning, Few-Shot Learning, Domain Adaptation",
+        "slope": -0.008505033212378691,
+        "color": "#006bca",
+        "proportions": {
+            "2021": 0.047729918509895226,
+            "2022": 0.04021937842778794,
+            "2023": 0.040686586141131596,
+            "2024": 0.02013129102844639,
+            "2025": 0.015248796147672551
+        }
+    },
+    "4": {
+        "rank": 27,
+        "keywords": "robustness, knowledge distillation, distribution shift",
+        "slope": -0.014741754743410064,
+        "color": "#0041de",
+        "proportions": {
+            "2021": 0.08498253783469151,
+            "2022": 0.038391224862888484,
+            "2023": 0.03877940241576605,
+            "2024": 0.026695842450765863,
+            "2025": 0.017121455323702513
+        }
+    },
+    "29": {
+        "rank": 28,
+        "keywords": "Reinforcement Learning, Offline Learning, Sample Efficiency",
+        "slope": -0.02126915189872115,
+        "color": "#0016f4",
+        "proportions": {
+            "2021": 0.1420256111757858,
+            "2022": 0.1170018281535649,
+            "2023": 0.09027336300063572,
+            "2024": 0.07921225382932166,
+            "2025": 0.05457463884430177
+        }
+    },
+    "8": {
+        "rank": 29,
+        "keywords": "Network pruning, Low-precision quantization, Efficient architecture search",
+        "slope": -0.02468036150659349,
+        "color": "#0000ff",
+        "proportions": {
+            "2021": 0.12922002328288706,
+            "2022": 0.08135283363802559,
+            "2023": 0.062301335028607754,
+            "2024": 0.03894967177242888,
+            "2025": 0.02701979668271803
+        }
+    }
+}

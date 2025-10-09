@@ -1,0 +1,3277 @@
+{
+  "cluster_id": 61,
+  "papers": [
+    {
+      "id": "iclr25_rUxr9Ll5FQ",
+      "paper_id": "rUxr9Ll5FQ",
+      "title": "$InterLCM$: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration",
+      "authors": "Senmao Li, Kai Wang, Joost van de Weijer, Fahad Shahbaz Khan, Chun-Le Guo, Shiqi Yang, Yaxing Wang, jian Yang, Ming-Ming Cheng",
+      "paper_url": "https://openreview.net/pdf?id=rUxr9Ll5FQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_GH7QRzUDdXG",
+      "paper_id": "GH7QRzUDdXG",
+      "title": "A Geometric Analysis of Deep Generative Image Models and Its Applications",
+      "authors": "Binxu Wang, Carlos R Ponce",
+      "paper_url": "https://openreview.net/pdf/6c6825f68048a90722aee1790a7d0f3d24ad2d55.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_x7d1qXEn1e",
+      "paper_id": "x7d1qXEn1e",
+      "title": "A Restoration Network as an Implicit Prior",
+      "authors": "Yuyang Hu, Mauricio Delbracio, Peyman Milanfar, Ulugbek Kamilov",
+      "paper_url": "https://openreview.net/pdf?id=x7d1qXEn1e",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tAGmxz1TUi",
+      "paper_id": "tAGmxz1TUi",
+      "title": "A Simple Approach to Unifying Diffusion-based Conditional Generation",
+      "authors": "Xirui Li, Charles Herrmann, Kelvin C.K. Chan, Yinxiao Li, Deqing Sun, Chao Ma, Ming-Hsuan Yang",
+      "paper_url": "https://openreview.net/pdf?id=tAGmxz1TUi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_1YO4EE3SPB",
+      "paper_id": "1YO4EE3SPB",
+      "title": "A Variational Perspective on Solving Inverse Problems with Diffusion Models",
+      "authors": "Morteza Mardani, Jiaming Song, Jan Kautz, Arash Vahdat",
+      "paper_url": "https://openreview.net/pdf?id=1YO4EE3SPB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QQCIfkhGIq",
+      "paper_id": "QQCIfkhGIq",
+      "title": "A3D: Does Diffusion Dream about 3D Alignment?",
+      "authors": "Savva Victorovich Ignatyev, Nina Konovalova, Daniil Selikhanovych, Oleg Voynov, Nikolay Patakin, Ilya Olkov, Dmitry Senushkin, Alexey Artemov, Anton Konushin, Alexander Filippov, Peter Wonka, Evgeny Burnaev",
+      "paper_url": "https://openreview.net/pdf?id=QQCIfkhGIq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_IloMJ5rqfnt",
+      "paper_id": "IloMJ5rqfnt",
+      "title": "Accurate Image Restoration with Attention Retractable Transformer",
+      "authors": "Jiale Zhang, Yulun Zhang, Jinjin Gu, Yongbing Zhang, Linghe Kong, Xin Yuan",
+      "paper_url": "https://openreview.net/pdf/aa567c400b76e1249b3186bd548cfc118ad0f339.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Bpn8q40n1n",
+      "paper_id": "Bpn8q40n1n",
+      "title": "ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer",
+      "authors": "Zhen Han, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang, Chaojie Mao, Chen-Wei Xie, Yu Liu, Jingren Zhou",
+      "paper_url": "https://openreview.net/pdf?id=Bpn8q40n1n",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M5t0WvjfCg",
+      "paper_id": "M5t0WvjfCg",
+      "title": "AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation",
+      "authors": "Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan",
+      "paper_url": "https://openreview.net/pdf?id=M5t0WvjfCg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hI18CDyadM",
+      "paper_id": "hI18CDyadM",
+      "title": "Adaptive Window Pruning for Efficient Local Motion Deblurring",
+      "authors": "Haoying Li, Jixin Zhao, Shangchen Zhou, Huajun Feng, Chongyi Li, Chen Change Loy",
+      "paper_url": "https://openreview.net/pdf?id=hI18CDyadM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZeaTvXw080",
+      "paper_id": "ZeaTvXw080",
+      "title": "Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models",
+      "authors": "Yoad Tewel, Rinon Gal, Dvir Samuel, Yuval Atzmon, Lior Wolf, Gal Chechik",
+      "paper_url": "https://openreview.net/pdf?id=ZeaTvXw080",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_svp1EBA6hA",
+      "paper_id": "svp1EBA6hA",
+      "title": "Adding Conditional Control to Diffusion Models with Reinforcement Learning",
+      "authors": "Yulai Zhao, Masatoshi Uehara, Gabriele Scalia, Sunyuan Kung, Tommaso Biancalani, Sergey Levine, Ehsan Hajiramezanali",
+      "paper_url": "https://openreview.net/pdf?id=svp1EBA6hA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_cMPm8YFXZe",
+      "paper_id": "cMPm8YFXZe",
+      "title": "ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process",
+      "authors": "Changyao Tian, Chenxin Tao, Jifeng Dai, Hao Li, Ziheng Li, Lewei Lu, Xiaogang Wang, Hongsheng Li, Gao Huang, Xizhou Zhu",
+      "paper_url": "https://openreview.net/pdf?id=cMPm8YFXZe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EJPIzl7mgc",
+      "paper_id": "EJPIzl7mgc",
+      "title": "Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive",
+      "authors": "Yumeng Li, Margret Keuper, Dan Zhang, Anna Khoreva",
+      "paper_url": "https://openreview.net/pdf?id=EJPIzl7mgc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_bxfKIYfHyx",
+      "paper_id": "bxfKIYfHyx",
+      "title": "AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model",
+      "authors": "Zibin Dong, Yifu Yuan, Jianye HAO, Fei Ni, Yao Mu, YAN ZHENG, Yujing Hu, Tangjie Lv, Changjie Fan, Zhipeng Hu",
+      "paper_url": "https://openreview.net/pdf?id=bxfKIYfHyx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_doBkiqESYq",
+      "paper_id": "doBkiqESYq",
+      "title": "Aligned Datasets Improve Detection of Latent Diffusion-Generated Images",
+      "authors": "Anirudh Sundara Rajan, Utkarsh Ojha, Jedidiah Schloesser, Yong Jae Lee",
+      "paper_url": "https://openreview.net/pdf?id=doBkiqESYq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rMOhA1JNPo",
+      "paper_id": "rMOhA1JNPo",
+      "title": "Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception",
+      "authors": "Ziqi Pang, Xin Xu, Yu-Xiong Wang",
+      "paper_url": "https://openreview.net/pdf?id=rMOhA1JNPo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ZSD3MloKe6",
+      "paper_id": "ZSD3MloKe6",
+      "title": "Alleviating Exposure Bias in Diffusion Models through Sampling with Shifted Time Steps",
+      "authors": "Mingxiao Li, Tingyu Qu, Ruicong Yao, Wei Sun, Marie-Francine Moens",
+      "paper_url": "https://openreview.net/pdf?id=ZSD3MloKe6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_qeXcMutEZY",
+      "paper_id": "qeXcMutEZY",
+      "title": "Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models Trained on Corrupted Data",
+      "authors": "Asad Aali, Giannis Daras, Brett Levac, Sidharth Kumar, Alex Dimakis, Jon Tamir",
+      "paper_url": "https://openreview.net/pdf?id=qeXcMutEZY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JbRM5QKRDd",
+      "paper_id": "JbRM5QKRDd",
+      "title": "An Exploration with Entropy Constrained 3D Gaussians for 2D Video Compression",
+      "authors": "Xiang Liu, Bin Chen, Zimo Liu, Yaowei Wang, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf?id=JbRM5QKRDd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_NAQvF08TcyG",
+      "paper_id": "NAQvF08TcyG",
+      "title": "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion",
+      "authors": "Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or Patashnik, Amit Haim Bermano, Gal Chechik, Daniel Cohen-or",
+      "paper_url": "https://openreview.net/pdf/dd5c5803a1a63bd0d148c2be26a9ee612d1615f8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_3RLxccFPHz",
+      "paper_id": "3RLxccFPHz",
+      "title": "An Intelligent Agentic System for Complex Image Restoration Problems",
+      "authors": "Kaiwen Zhu, Jinjin Gu, Zhiyuan You, Yu Qiao, Chao Dong",
+      "paper_url": "https://openreview.net/pdf?id=3RLxccFPHz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_tIjRAiFmU3y",
+      "paper_id": "tIjRAiFmU3y",
+      "title": "An Unsupervised Deep Learning Approach for Real-World Image Denoising",
+      "authors": "Dihan Zheng, Sia Huat Tan, Xiaowen Zhang, Zuoqiang Shi, Kaisheng Ma, Chenglong Bao",
+      "paper_url": "https://openreview.net/pdf/919850dce0c7398051264d88fe81de3a6c0d82f4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_3itjR9QxFw",
+      "paper_id": "3itjR9QxFw",
+      "title": "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning",
+      "authors": "Ting Chen, Ruixiang ZHANG, Geoffrey Hinton",
+      "paper_url": "https://openreview.net/pdf/a44a46ea8deb0fda30f91b5e7a0712d7544a462a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Fx2SbBgcte",
+      "paper_id": "Fx2SbBgcte",
+      "title": "AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning",
+      "authors": "Yuwei Guo, Ceyuan Yang, Anyi Rao, Zhengyang Liang, Yaohui Wang, Yu Qiao, Maneesh Agrawala, Dahua Lin, Bo Dai",
+      "paper_url": "https://openreview.net/pdf?id=Fx2SbBgcte",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_MtDd7rWok1",
+      "paper_id": "MtDd7rWok1",
+      "title": "Anti-Exposure Bias in Diffusion Models",
+      "authors": "Junyu Zhang, Daochang Liu, Eunbyung Park, Shichao Zhang, Chang Xu",
+      "paper_url": "https://openreview.net/pdf?id=MtDd7rWok1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ezBH9WE9s2",
+      "paper_id": "ezBH9WE9s2",
+      "title": "AnyText: Multilingual Visual Text Generation and Editing",
+      "authors": "Yuxiang Tuo, Wangmeng Xiang, Jun-Yan He, Yifeng Geng, Xuansong Xie",
+      "paper_url": "https://openreview.net/pdf?id=ezBH9WE9s2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Tv36j85SqR",
+      "paper_id": "Tv36j85SqR",
+      "title": "Approaching Rate-Distortion Limits in Neural Compression with Lattice Transform Coding",
+      "authors": "Eric Lei, Hamed Hassani, Shirin Saeedi Bidokhti",
+      "paper_url": "https://openreview.net/pdf?id=Tv36j85SqR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_fvLLcIYmXb",
+      "paper_id": "fvLLcIYmXb",
+      "title": "AS-MLP: An Axial Shifted MLP Architecture for Vision",
+      "authors": "Dongze Lian, Zehao Yu, Xing Sun, Shenghua Gao",
+      "paper_url": "https://openreview.net/pdf/4ba030acd877662e2f1238c570aa52552d7f3997.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_kQCHCkNk7s",
+      "paper_id": "kQCHCkNk7s",
+      "title": "AstroCompress: A benchmark dataset for multi-purpose compression of astronomical data",
+      "authors": "Tuan Truong, Rithwik Sudharsan, Yibo Yang, Peter Xiangyuan Ma, Ruihan Yang, Stephan Mandt, Joshua S. Bloom",
+      "paper_url": "https://openreview.net/pdf?id=kQCHCkNk7s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AC3713Fmhx",
+      "paper_id": "AC3713Fmhx",
+      "title": "AugKD: Ingenious Augmentations Empower Knowledge Distillation for Image Super-Resolution",
+      "authors": "Yun Zhang, Wei Li, Simiao Li, Hanting Chen, Zhijun Tu, Bingyi Jing, Shaohui Lin, Jie Hu, Wenjia Wang",
+      "paper_url": "https://openreview.net/pdf?id=AC3713Fmhx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8jvVNPHtVJ",
+      "paper_id": "8jvVNPHtVJ",
+      "title": "Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models",
+      "authors": "Yongjin Yang, Sihyeon Kim, Hojung Jung, Sangmin Bae, SangMook Kim, Se-Young Yun, Kimin Lee",
+      "paper_url": "https://openreview.net/pdf?id=8jvVNPHtVJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_h8T5dZWTZ-Z",
+      "paper_id": "h8T5dZWTZ-Z",
+      "title": "Basic Binary Convolution Unit for Binarized Image Restoration Network",
+      "authors": "Bin Xia, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openreview.net/pdf/3f11e62dcff084eee7280a7d57ccbd806de2c07c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_NRYgUzSPZz",
+      "paper_id": "NRYgUzSPZz",
+      "title": "Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning",
+      "authors": "Jiacheng Ye, Jiahui Gao, Shansan Gong, Lin Zheng, Xin Jiang, Zhenguo Li, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf?id=NRYgUzSPZz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cC3LxGZasH",
+      "paper_id": "cC3LxGZasH",
+      "title": "Beyond FVD: An Enhanced Evaluation Metrics for Video Generation Distribution Quality",
+      "authors": "Ge Ya Luo, Gian Mario Favero, ZhiHao Luo, Alexia Jolicoeur-Martineau, Christopher Pal",
+      "paper_url": "https://openreview.net/pdf?id=cC3LxGZasH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1Z6PSw7OL8",
+      "paper_id": "1Z6PSw7OL8",
+      "title": "BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities",
+      "authors": "Shaozhe Hao, Xuantong LIU, Xianbiao Qi, Shihao Zhao, Bojia Zi, Rong Xiao, Kai Han, Kwan-Yee K. Wong",
+      "paper_url": "https://openreview.net/pdf?id=1Z6PSw7OL8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YaeZwhXJ4k",
+      "paper_id": "YaeZwhXJ4k",
+      "title": "BinaryDM: Accurate Weight Binarization for Efficient Diffusion Models",
+      "authors": "Xingyu Zheng, Xianglong Liu, Haotong Qin, Xudong Ma, Mingyuan Zhang, Haojie Hao, Jiakai Wang, Zixiang Zhao, Jinyang Guo, Michele Magno",
+      "paper_url": "https://openreview.net/pdf?id=YaeZwhXJ4k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tyEyYT267x",
+      "paper_id": "tyEyYT267x",
+      "title": "Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models",
+      "authors": "Marianne Arriola, Aaron Gokaslan, Justin T Chiu, Zhihan Yang, Zhixuan Qi, Jiaqi Han, Subham Sekhar Sahoo, Volodymyr Kuleshov",
+      "paper_url": "https://openreview.net/pdf?id=tyEyYT267x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OjDkC57x5sz",
+      "paper_id": "OjDkC57x5sz",
+      "title": "Blurring Diffusion Models",
+      "authors": "Emiel Hoogeboom, Tim Salimans",
+      "paper_url": "https://openreview.net/pdf/33c05b0bd300e12f24e2ac7a85f4716f5c4a9147.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_y4DtzADzd1",
+      "paper_id": "y4DtzADzd1",
+      "title": "Boosting Latent Diffusion with Perceptual Objectives",
+      "authors": "Tariq Berrada, Pietro Astolfi, Melissa Hall, Marton Havasi, Yohann Benchetrit, Adriana Romero-Soriano, Karteek Alahari, Michal Drozdzal, Jakob Verbeek",
+      "paper_url": "https://openreview.net/pdf?id=y4DtzADzd1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sHEJJmzBIN",
+      "paper_id": "sHEJJmzBIN",
+      "title": "Branch-GAN: Improving Text Generation with (not so) Large Language Models",
+      "authors": "Fredrik Carlsson, Johan Broberg, Erik Hillbom, Magnus Sahlgren, Joakim Nivre",
+      "paper_url": "https://openreview.net/pdf?id=sHEJJmzBIN",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4iFSBgxvIO",
+      "paper_id": "4iFSBgxvIO",
+      "title": "Cached Multi-Lora Composition for Multi-Concept Image Generation",
+      "authors": "Xiandong Zou, Mingzhu Shen, Christos-Savvas Bouganis, Yiren Zhao",
+      "paper_url": "https://openreview.net/pdf?id=4iFSBgxvIO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_zMoNrajk2X",
+      "paper_id": "zMoNrajk2X",
+      "title": "CADS: Unleashing the Diversity of Diffusion Models through Condition-Annealed Sampling",
+      "authors": "Seyedmorteza Sadat, Jakob Buhmann, Derek Bradley, Otmar Hilliges, Romann M. Weber",
+      "paper_url": "https://openreview.net/pdf?id=zMoNrajk2X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jt1h2dnmng",
+      "paper_id": "jt1h2dnmng",
+      "title": "CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models",
+      "authors": "Zheng Chong, Xiao Dong, Haoxiang Li, shiyue Zhang, Wenqing Zhang, Hanqing Zhao, xujie zhang, Dongmei Jiang, Xiaodan Liang",
+      "paper_url": "https://openreview.net/pdf?id=jt1h2dnmng",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_PrzjugOsDeE",
+      "paper_id": "PrzjugOsDeE",
+      "title": "CcGAN: Continuous Conditional Generative Adversarial Networks for Image Generation",
+      "authors": "Xin Ding, Yongwei Wang, Zuheng Xu, William J Welch, Z. Jane Wang",
+      "paper_url": "https://openreview.net/pdf/e0bbc6b8950c086438fe77cc0c9098bff1128577.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_E77uvbOTtp",
+      "paper_id": "E77uvbOTtp",
+      "title": "CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models",
+      "authors": "Hyungjin Chung, Jeongsol Kim, Geon Yeong Park, Hyelin Nam, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=E77uvbOTtp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4dAgG8ma3B",
+      "paper_id": "4dAgG8ma3B",
+      "title": "Chemistry-Inspired Diffusion with Non-Differentiable Guidance",
+      "authors": "Yuchen Shen, Chenhao Zhang, Sijie Fu, Chenghui Zhou, Newell Washburn, Barnabas Poczos",
+      "paper_url": "https://openreview.net/pdf?id=4dAgG8ma3B",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_1ROAstc9jv",
+      "paper_id": "1ROAstc9jv",
+      "title": "ChiroDiff: Modelling chirographic data with Diffusion Models",
+      "authors": "Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song",
+      "paper_url": "https://openreview.net/pdf/2df012fbedfa6bf4cafce1218732561500298315.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ag3o2T51Ht",
+      "paper_id": "ag3o2T51Ht",
+      "title": "Circumventing Concept Erasure Methods For Text-To-Image Generative Models",
+      "authors": "Minh Pham, Kelly O. Marshall, Niv Cohen, Govind Mittal, Chinmay Hegde",
+      "paper_url": "https://openreview.net/pdf?id=ag3o2T51Ht",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_iTm4H6N4aG",
+      "paper_id": "iTm4H6N4aG",
+      "title": "ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance",
+      "authors": "Jiannan Huang, Jun Hao Liew, Hanshu Yan, Yuyang Yin, Yao Zhao, Humphrey Shi, Yunchao Wei",
+      "paper_url": "https://openreview.net/pdf?id=iTm4H6N4aG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_kezNJydWvE",
+      "paper_id": "kezNJydWvE",
+      "title": "Clean Images are Hard to Reblur: Exploiting the Ill-Posed Inverse Task for Dynamic Scene Deblurring",
+      "authors": "Seungjun Nah, Sanghyun Son, Jaerin Lee, Kyoung Mu Lee",
+      "paper_url": "https://openreview.net/pdf/1636f146bd4ebc888881dafbf13129a2072ba805.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_EZNOb_uNpJk",
+      "paper_id": "EZNOb_uNpJk",
+      "title": "ClimateGAN: Raising Climate Change Awareness by Generating Images of Floods",
+      "authors": "Victor Schmidt, Alexandra Luccioni, Mélisande Teng, Tianyu Zhang, Alexia Reynaud, Sunand Raghupathi, Gautier Cosne, Adrien Juraver, Vahe Vardanyan, Alex Hernández-García, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf/ca121d72177c0fb77244bde0b2958681a89d4b98.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_2HjRezQ1nj",
+      "paper_id": "2HjRezQ1nj",
+      "title": "CLIPDrag: Combining Text-based and Drag-based Instructions for Image Editing",
+      "authors": "Ziqi Jiang, Zhen Wang, Long Chen",
+      "paper_url": "https://openreview.net/pdf?id=2HjRezQ1nj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cCRlEvjrx4",
+      "paper_id": "cCRlEvjrx4",
+      "title": "CoInD: Enabling Logical Compositions in Diffusion Models",
+      "authors": "Sachit Gaudi, Gautam Sreekumar, Vishnu Boddeti",
+      "paper_url": "https://openreview.net/pdf?id=cCRlEvjrx4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_7TZeCsNOUB_",
+      "paper_id": "7TZeCsNOUB_",
+      "title": "Collapse by Conditioning: Training Class-conditional GANs with Limited Data",
+      "authors": "Mohamad Shahbazi, Martin Danelljan, Danda Pani Paudel, Luc Van Gool",
+      "paper_url": "https://openreview.net/pdf/3fccdf773fc5217d7e02e135a75df9f5ac0e7de9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ZRDhBwKs7l",
+      "paper_id": "ZRDhBwKs7l",
+      "title": "Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate",
+      "authors": "Byung Hyun Lee, Sungjin Lim, Seunggyu Lee, Dong Un Kang, Se Young Chun",
+      "paper_url": "https://openreview.net/pdf?id=ZRDhBwKs7l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kSdWcw5mkp",
+      "paper_id": "kSdWcw5mkp",
+      "title": "ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning",
+      "authors": "Ruchika Chavhan, Da Li, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf?id=kSdWcw5mkp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9UGfOJBuL8",
+      "paper_id": "9UGfOJBuL8",
+      "title": "Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies",
+      "authors": "Hyuna Cho, Ziquan Wei, Seungjoo Lee, Tingting Dan, Guorong Wu, Won Hwa Kim",
+      "paper_url": "https://openreview.net/pdf?id=9UGfOJBuL8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_7MV6uLzOChW",
+      "paper_id": "7MV6uLzOChW",
+      "title": "Conditional Image Generation by Conditioning Variational Auto-Encoders",
+      "authors": "William Harvey, Saeid Naderiparizi, Frank Wood",
+      "paper_url": "https://openreview.net/pdf/6a31861c3fd2a8f68a3c37fe8a7e422b0ac57cc4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_YOKnEkIuoi",
+      "paper_id": "YOKnEkIuoi",
+      "title": "Conditional Variational Diffusion Models",
+      "authors": "Gabriel Della Maggiora, Luis Alberto Croquevielle, Nikita Deshpande, Harry Horsley, Thomas Heinis, Artur Yakimovich",
+      "paper_url": "https://openreview.net/pdf?id=YOKnEkIuoi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Let8OMe20n",
+      "paper_id": "Let8OMe20n",
+      "title": "Confidence-aware Reward Optimization for Fine-tuning Text-to-Image Models",
+      "authors": "Kyuyoung Kim, Jongheon Jeong, Minyong An, Mohammad Ghavamzadeh, Krishnamurthy Dj Dvijotham, Jinwoo Shin, Kimin Lee",
+      "paper_url": "https://openreview.net/pdf?id=Let8OMe20n",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ymjI8feDTD",
+      "paper_id": "ymjI8feDTD",
+      "title": "Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion",
+      "authors": "Dongjun Kim, Chieh-Hsin Lai, Wei-Hsiang Liao, Naoki Murata, Yuhta Takida, Toshimitsu Uesaka, Yutong He, Yuki Mitsufuji, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=ymjI8feDTD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Mn2qgIcIPS",
+      "paper_id": "Mn2qgIcIPS",
+      "title": "Continuous Exposure Learning for Low-light Image Enhancement using Neural ODEs",
+      "authors": "Donggoo Jung, Daehyun Kim, Tae Hyun Kim",
+      "paper_url": "https://openreview.net/pdf?id=Mn2qgIcIPS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7hxoYxKDTV",
+      "paper_id": "7hxoYxKDTV",
+      "title": "Continuous-Multiple Image Outpainting in One-Step via Positional Query and A Diffusion-based Approach",
+      "authors": "Shaofeng Zhang, Jinfa Huang, Qiang Zhou, zhibin wang, Fan Wang, Jiebo Luo, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=7hxoYxKDTV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_BWuBDdXVnH",
+      "paper_id": "BWuBDdXVnH",
+      "title": "ControlAR: Controllable Image Generation with Autoregressive Models",
+      "authors": "Zongming Li, Tianheng Cheng, Shoufa Chen, Peize Sun, Haocheng Shen, Longjin Ran, Xiaoxin Chen, Wenyu Liu, Xinggang Wang",
+      "paper_url": "https://openreview.net/pdf?id=BWuBDdXVnH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Wvi8c0tgvt",
+      "paper_id": "Wvi8c0tgvt",
+      "title": "Controllable Blur Data Augmentation Using 3D-Aware Motion Estimation",
+      "authors": "Insoo Kim, Hana Lee, Hyong-Euk Lee, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf?id=Wvi8c0tgvt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8g4XgC8HPF",
+      "paper_id": "8g4XgC8HPF",
+      "title": "Controllable Generation via Locally Constrained Resampling",
+      "authors": "Kareem Ahmed, Kai-Wei Chang, Guy Van den Broeck",
+      "paper_url": "https://openreview.net/pdf?id=8g4XgC8HPF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_l2zFn6TIQi",
+      "paper_id": "l2zFn6TIQi",
+      "title": "Controlling Language and Diffusion Models by Transporting Activations",
+      "authors": "Pau Rodriguez, Arno Blaas, Michal Klein, Luca Zappella, Nicholas Apostoloff, marco cuturi, Xavier Suau",
+      "paper_url": "https://openreview.net/pdf?id=l2zFn6TIQi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_d2UrCGtntF",
+      "paper_id": "d2UrCGtntF",
+      "title": "Controlling Space and Time with Diffusion Models",
+      "authors": "Daniel Watson, Saurabh Saxena, Lala Li, Andrea Tagliasacchi, David J. Fleet",
+      "paper_url": "https://openreview.net/pdf?id=d2UrCGtntF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_t3vnnLeajU",
+      "paper_id": "t3vnnLeajU",
+      "title": "Controlling Vision-Language Models for Multi-Task Image Restoration",
+      "authors": "Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön",
+      "paper_url": "https://openreview.net/pdf?id=t3vnnLeajU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_nFMS6wF2xq",
+      "paper_id": "nFMS6wF2xq",
+      "title": "Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing",
+      "authors": "Ling Yang, Zhilong Zhang, Zhaochen Yu, Jingwei Liu, Minkai Xu, Stefano Ermon, Bin CUI",
+      "paper_url": "https://openreview.net/pdf?id=nFMS6wF2xq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ny8T8OuNHe",
+      "paper_id": "ny8T8OuNHe",
+      "title": "Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model",
+      "authors": "Han Lin, Jaemin Cho, Abhay Zala, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=ny8T8OuNHe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eC2ICbECNM",
+      "paper_id": "eC2ICbECNM",
+      "title": "Ctrl-U: Robust Conditional Image Generation via Uncertainty-aware Reward Modeling",
+      "authors": "Guiyu Zhang, Huan-ang Gao, Zijian Jiang, Hao Zhao, Zhedong Zheng",
+      "paper_url": "https://openreview.net/pdf?id=eC2ICbECNM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3Gga05Jdmj",
+      "paper_id": "3Gga05Jdmj",
+      "title": "CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation",
+      "authors": "Yifeng Xu, Zhenliang He, Shiguang Shan, Xilin Chen",
+      "paper_url": "https://openreview.net/pdf?id=3Gga05Jdmj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M2SsqpxGtc",
+      "paper_id": "M2SsqpxGtc",
+      "title": "CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation",
+      "authors": "Nikolai Kalischek, Michael Oechsle, Fabian Manhardt, Philipp Henzler, Konrad Schindler, Federico Tombari",
+      "paper_url": "https://openreview.net/pdf?id=M2SsqpxGtc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_NMEceG4v69Y",
+      "paper_id": "NMEceG4v69Y",
+      "title": "CycleMLP: A MLP-like Architecture for Dense Prediction",
+      "authors": "Shoufa Chen, Enze Xie, Chongjian GE, Runjian Chen, Ding Liang, Ping Luo",
+      "paper_url": "https://openreview.net/pdf/0ff0f728cbc430b36ea84288793e887e216cff59.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_0vqjc50HfcC",
+      "paper_id": "0vqjc50HfcC",
+      "title": "DDM$^2$: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models",
+      "authors": "Tiange Xiang, Mahmut Yurt, Ali B Syed, Kawin Setsompop, Akshay Chaudhari",
+      "paper_url": "https://openreview.net/pdf/ba3ad1d1f754d30b7ce210a7b9c4d169705d5234.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_327tbF3S65",
+      "paper_id": "327tbF3S65",
+      "title": "DDMI: Domain-agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations",
+      "authors": "Dogyun Park, Sihyeon Kim, Sojin Lee, Hyunwoo J. Kim",
+      "paper_url": "https://openreview.net/pdf?id=327tbF3S65",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9oMB6wnFYM",
+      "paper_id": "9oMB6wnFYM",
+      "title": "Deconstructing Denoising Diffusion Models for Self-Supervised Learning",
+      "authors": "Xinlei Chen, Zhuang Liu, Saining Xie, Kaiming He",
+      "paper_url": "https://openreview.net/pdf?id=9oMB6wnFYM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wH8XXUOUZU",
+      "paper_id": "wH8XXUOUZU",
+      "title": "Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models",
+      "authors": "Junyu Chen, Han Cai, Junsong Chen, Enze Xie, Shang Yang, Haotian Tang, Muyang Li, Song Han",
+      "paper_url": "https://openreview.net/pdf?id=wH8XXUOUZU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jsBhmOCKYs",
+      "paper_id": "jsBhmOCKYs",
+      "title": "Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration",
+      "authors": "Kang Liao, Zongsheng Yue, Zhouxia Wang, Chen Change Loy",
+      "paper_url": "https://openreview.net/pdf?id=jsBhmOCKYs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_amDkNPVWcn",
+      "paper_id": "amDkNPVWcn",
+      "title": "Denoising Autoregressive Transformers for Scalable Text-to-Image Generation",
+      "authors": "Jiatao Gu, Yuyang Wang, Yizhe Zhang, Qihang Zhang, Dinghuai Zhang, Navdeep Jaitly, Joshua M. Susskind, Shuangfei Zhai",
+      "paper_url": "https://openreview.net/pdf?id=amDkNPVWcn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FKksTayvGo",
+      "paper_id": "FKksTayvGo",
+      "title": "Denoising Diffusion Bridge Models",
+      "authors": "Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=FKksTayvGo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_rLwC0_MG-4w",
+      "paper_id": "rLwC0_MG-4w",
+      "title": "Denoising Diffusion Error Correction Codes",
+      "authors": "Yoni Choukroun, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf/1ba7d8f5e235d93b8db4a40b633bb42c9494223e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_St1giarCHLP",
+      "paper_id": "St1giarCHLP",
+      "title": "Denoising Diffusion Implicit Models",
+      "authors": "Jiaming Song, Chenlin Meng, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/d01650b6472e18084dcf272952f04a11ffbd6065.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_8pvnfTAbu1f",
+      "paper_id": "8pvnfTAbu1f",
+      "title": "Denoising Diffusion Samplers",
+      "authors": "Francisco Vargas, Will Sussman Grathwohl, Arnaud Doucet",
+      "paper_url": "https://openreview.net/pdf/0daf337159fe25b03ca3fa62e0e5b86b14cbd4b7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_c43FGk8Pcg",
+      "paper_id": "c43FGk8Pcg",
+      "title": "Denoising Diffusion Step-aware Models",
+      "authors": "Shuai Yang, Yukang Chen, Luozhou Wang, Shu Liu, Ying-Cong Chen",
+      "paper_url": "https://openreview.net/pdf?id=c43FGk8Pcg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1JbsdayvhO",
+      "paper_id": "1JbsdayvhO",
+      "title": "Denoising Diffusion via Image-Based Rendering",
+      "authors": "Titas Anciukevičius, Fabian Manhardt, Federico Tombari, Paul Henderson",
+      "paper_url": "https://openreview.net/pdf?id=1JbsdayvhO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_LcF-EEt8cCC",
+      "paper_id": "LcF-EEt8cCC",
+      "title": "Denoising Likelihood Score Matching for Conditional Score-based Data Generation",
+      "authors": "Chen-Hao Chao, Wei-Fang Sun, Bo-Wun Cheng, Yi-Chen Lo, Chia-Che Chang, Yu-Lun Liu, Yu-Lin Chang, Chia-Ping Chen, Chun-Yi Lee",
+      "paper_url": "https://openreview.net/pdf/ccc930d6cefd7ea8811e858a55d6318d0ea95abb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_96GMFXsbJE",
+      "paper_id": "96GMFXsbJE",
+      "title": "Denoising Task Difficulty-based Curriculum for Training Diffusion Models",
+      "authors": "Jin-Young Kim, Hyojun Go, Soonwoo Kwon, Hyun-Gyoon Kim",
+      "paper_url": "https://openreview.net/pdf?id=96GMFXsbJE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MY0qlcFcUg",
+      "paper_id": "MY0qlcFcUg",
+      "title": "Denoising Task Routing for Diffusion Models",
+      "authors": "Byeongjun Park, Sangmin Woo, Hyojun Go, Jin-Young Kim, Changick Kim",
+      "paper_url": "https://openreview.net/pdf?id=MY0qlcFcUg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_d4njmzM7jf",
+      "paper_id": "d4njmzM7jf",
+      "title": "Denoising with a Joint-Embedding Predictive Architecture",
+      "authors": "Dengsheng Chen, Jie Hu, Xiaoming Wei, Enhua Wu",
+      "paper_url": "https://openreview.net/pdf?id=d4njmzM7jf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_84n3UwkH7b",
+      "paper_id": "84n3UwkH7b",
+      "title": "Detecting, Explaining, and Mitigating Memorization in Diffusion Models",
+      "authors": "Yuxin Wen, Yuchen Liu, Chen Chen, Lingjuan Lyu",
+      "paper_url": "https://openreview.net/pdf?id=84n3UwkH7b",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZyNEr7Xw5L",
+      "paper_id": "ZyNEr7Xw5L",
+      "title": "DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models",
+      "authors": "Hyogon Ryu, NaHyeon Park, Hyunjung Shim",
+      "paper_url": "https://openreview.net/pdf?id=ZyNEr7Xw5L",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZYd5wJSaMs",
+      "paper_id": "ZYd5wJSaMs",
+      "title": "Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models",
+      "authors": "Shuhong Zheng, Zhipeng Bao, Ruoyu Zhao, Martial Hebert, Yu-Xiong Wang",
+      "paper_url": "https://openreview.net/pdf?id=ZYd5wJSaMs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LfghnrSJNg",
+      "paper_id": "LfghnrSJNg",
+      "title": "Diff-Prompt: Diffusion-Driven Prompt Generator with Mask Supervision",
+      "authors": "Weicai Yan, Wang Lin, Zirun Guo, Ye Wang, Fangming Feng, Xiaoda Yang, Zehan Wang, Tao Jin",
+      "paper_url": "https://openreview.net/pdf?id=LfghnrSJNg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_3lge0p5o-M-",
+      "paper_id": "3lge0p5o-M-",
+      "title": "DiffEdit: Diffusion-based semantic image editing with mask guidance",
+      "authors": "Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord",
+      "paper_url": "https://openreview.net/pdf/3d837329e3740d349726e77482e1be2f69278a1b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_8nxy1bQWTG",
+      "paper_id": "8nxy1bQWTG",
+      "title": "DiffEnc: Variational Diffusion with a Learned Encoder",
+      "authors": "Beatrix Miranda Ginn Nielsen, Anders Christensen, Andrea Dittadi, Ole Winther",
+      "paper_url": "https://openreview.net/pdf?id=8nxy1bQWTG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RL7PycCtAO",
+      "paper_id": "RL7PycCtAO",
+      "title": "DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement",
+      "authors": "Yichong Xia, Yimin Zhou, Jinpeng Wang, Baoyi An, Haoqian Wang, Yaowei Wang, Bin Chen",
+      "paper_url": "https://openreview.net/pdf?id=RL7PycCtAO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eajZpoQkGK",
+      "paper_id": "eajZpoQkGK",
+      "title": "DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation",
+      "authors": "Chenguo Lin, Panwang Pan, Bangbang Yang, Zeming Li, Yadong MU",
+      "paper_url": "https://openreview.net/pdf?id=eajZpoQkGK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_jQj-_rLVXsj",
+      "paper_id": "jQj-_rLVXsj",
+      "title": "DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models",
+      "authors": "Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf/60eecf7c181638fdfa60c671ca5d0b67644748cd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_nG9RF9z1yy3",
+      "paper_id": "nG9RF9z1yy3",
+      "title": "DiffusER: Diffusion via Edit-based Reconstruction",
+      "authors": "Machel Reid, Vincent Josua Hellendoorn, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/e35954a4ede0520dd7f8d02f039f79a60a4eb6f9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_H0gdPxSwkPb",
+      "paper_id": "H0gdPxSwkPb",
+      "title": "Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation",
+      "authors": "Boah Kim, Yujin Oh, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf/daadbc20b5665f981c5c27eeb20cb5e9ba6ac96e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_hBGavkf61a",
+      "paper_id": "hBGavkf61a",
+      "title": "Diffusion Bridge AutoEncoders for Unsupervised Representation Learning",
+      "authors": "Yeongmin Kim, Kwanghyeon Lee, Minsang Park, Byeonghu Na, Il-chul Moon",
+      "paper_url": "https://openreview.net/pdf?id=hBGavkf61a",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FtjLUHyZAO",
+      "paper_id": "FtjLUHyZAO",
+      "title": "Diffusion Generative Modeling for Spatially Resolved Gene Expression Inference from Histology Images",
+      "authors": "Sichen Zhu, Yuchen Zhu, Molei Tao, Peng Qiu",
+      "paper_url": "https://openreview.net/pdf?id=FtjLUHyZAO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ePOjNlOjLC",
+      "paper_id": "ePOjNlOjLC",
+      "title": "Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation",
+      "authors": "Ruoyu Wang, Yongqi Yang, Zhihao Qian, Ye Zhu, Yu Wu",
+      "paper_url": "https://openreview.net/pdf?id=ePOjNlOjLC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Zsfiqpft6K",
+      "paper_id": "Zsfiqpft6K",
+      "title": "Diffusion Model for Dense Matching",
+      "authors": "Jisu Nam, Gyuseong Lee, Sunwoo Kim, Hyeonsu Kim, Hyoungwon Cho, Seyeon Kim, Seungryong Kim",
+      "paper_url": "https://openreview.net/pdf?id=Zsfiqpft6K",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_pd1P2eUBVfq",
+      "paper_id": "pd1P2eUBVfq",
+      "title": "Diffusion Models Already Have A Semantic Latent Space",
+      "authors": "Mingi Kwon, Jaeseok Jeong, Youngjung Uh",
+      "paper_url": "https://openreview.net/pdf/0d48a82a332a9c1fbc68f65e41a9b16eb9efa537.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_xVefsBbG2O",
+      "paper_id": "xVefsBbG2O",
+      "title": "Diffusion Models are Evolutionary Algorithms",
+      "authors": "Yanbo Zhang, Benedikt Hartl, Hananel Hazan, Michael Levin",
+      "paper_url": "https://openreview.net/pdf?id=xVefsBbG2O",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_P8pqeEkn1H",
+      "paper_id": "P8pqeEkn1H",
+      "title": "Diffusion Models Are Real-Time Game Engines",
+      "authors": "Dani Valevski, Yaniv Leviathan, Moab Arar, Shlomi Fruchter",
+      "paper_url": "https://openreview.net/pdf?id=P8pqeEkn1H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RiS2cxpENN",
+      "paper_id": "RiS2cxpENN",
+      "title": "Diffusion Models as Cartoonists: The Curious Case of High Density Regions",
+      "authors": "Rafal Karczewski, Markus Heinonen, Vikas Garg",
+      "paper_url": "https://openreview.net/pdf?id=RiS2cxpENN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_cbv0sBIZh9",
+      "paper_id": "cbv0sBIZh9",
+      "title": "Diffusion Models for Multi-Task Generative Modeling",
+      "authors": "Changyou Chen, Han Ding, Bunyamin Sisman, Yi Xu, Ouye Xie, Benjamin Z. Yao, Son Dinh Tran, Belinda Zeng",
+      "paper_url": "https://openreview.net/pdf?id=cbv0sBIZh9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_HXc5aXeoc8",
+      "paper_id": "HXc5aXeoc8",
+      "title": "Diffusion Sampling with Momentum for Mitigating Divergence Artifacts",
+      "authors": "Suttisak Wizadwongsa, Worameth Chinchuthakun, Pramook Khungurn, Amit Raj, Supasorn Suwajanakorn",
+      "paper_url": "https://openreview.net/pdf?id=HXc5aXeoc8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Nayau9fwXU",
+      "paper_id": "Nayau9fwXU",
+      "title": "Diffusion-based Image Translation using disentangled style and content representation",
+      "authors": "Gihyun Kwon, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf/b3174c74984a2e90538982e09e40225a474d34e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_8c50f-DoWAu",
+      "paper_id": "8c50f-DoWAu",
+      "title": "Diffusion-Based Voice Conversion with Fast Maximum Likelihood Sampling Scheme",
+      "authors": "Vadim Popov, Ivan Vovk, Vladimir Gogoryan, Tasnima Sadekova, Mikhail Sergeevich Kudinov, Jiansheng Wei",
+      "paper_url": "https://openreview.net/pdf/468145b46e459c5ba69e7017b6ef4eaece277e94.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_HZf7UbpWHuA",
+      "paper_id": "HZf7UbpWHuA",
+      "title": "Diffusion-GAN: Training GANs with Diffusion",
+      "authors": "Zhendong Wang, Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf/40959e2540c461dcff0f54468915dfe64c6cfef8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_iJi7nz5Cxc",
+      "paper_id": "iJi7nz5Cxc",
+      "title": "Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models",
+      "authors": "Fu-Yun Wang, Yunhao Shui, Jingtan Piao, Keqiang Sun, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=iJi7nz5Cxc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dyG2oLJYyX",
+      "paper_id": "dyG2oLJYyX",
+      "title": "DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models",
+      "authors": "Sohyun An, Hayeon Lee, Jaehyeong Jo, Seanie Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf?id=dyG2oLJYyX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_I5webNFDgQ",
+      "paper_id": "I5webNFDgQ",
+      "title": "DiffusionSat: A Generative Foundation Model for Satellite Imagery",
+      "authors": "Samar Khanna, Patrick Liu, Linqi Zhou, Chenlin Meng, Robin Rombach, Marshall Burke, David B. Lobell, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=I5webNFDgQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Nvw2szDdmI",
+      "paper_id": "Nvw2szDdmI",
+      "title": "Direct Distributional Optimization for Provable Alignment of Diffusion Models",
+      "authors": "Ryotaro Kawata, Kazusato Oko, Atsushi Nitanda, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=Nvw2szDdmI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_1vmSEVL19f",
+      "paper_id": "1vmSEVL19f",
+      "title": "Directly Fine-Tuning Diffusion Models on Differentiable Rewards",
+      "authors": "Kevin Clark, Paul Vicol, Kevin Swersky, David J. Fleet",
+      "paper_url": "https://openreview.net/pdf?id=1vmSEVL19f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TOWdQQgMJY",
+      "paper_id": "TOWdQQgMJY",
+      "title": "Discovering Failure Modes of Text-guided Diffusion Models via Adversarial Search",
+      "authors": "Qihao Liu, Adam Kortylewski, Yutong Bai, Song Bai, Alan Yuille",
+      "paper_url": "https://openreview.net/pdf?id=TOWdQQgMJY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_VM8batVBWvg",
+      "paper_id": "VM8batVBWvg",
+      "title": "Discrete Predictor-Corrector Diffusion Models for Image Synthesis",
+      "authors": "Jose Lezama, Tim Salimans, Lu Jiang, Huiwen Chang, Jonathan Ho, Irfan Essa",
+      "paper_url": "https://openreview.net/pdf/11def978889827cebd99ce8e154f1d7a8ba62dde.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_FlhjUkC7vH",
+      "paper_id": "FlhjUkC7vH",
+      "title": "DisenBooth: Identity-Preserving Disentangled Tuning for Subject-Driven Text-to-Image Generation",
+      "authors": "Hong Chen, Yipeng Zhang, Simin Wu, Xin Wang, Xuguang Duan, Yuwei Zhou, Wenwu Zhu",
+      "paper_url": "https://openreview.net/pdf?id=FlhjUkC7vH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_QjOQkpzKbNk",
+      "paper_id": "QjOQkpzKbNk",
+      "title": "Distilling GANs with Style-Mixed Triplets for X2I Translation with Limited Data",
+      "authors": "Yaxing Wang, Joost van de weijer, Lu Yu, SHANGLING JUI",
+      "paper_url": "https://openreview.net/pdf/5a2c69f76a578d6db9205be58713ad872914604e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_2ySt3cdGfJ",
+      "paper_id": "2ySt3cdGfJ",
+      "title": "Distribution Backtracking Builds A Faster Convergence Trajectory for Diffusion Distillation",
+      "authors": "Shengyuan Zhang, Ling Yang, Zejian Li, An Zhao, Chenye Meng, Changyuan Yang, Guang Yang, Zhiyuan Yang, Lingyun Sun",
+      "paper_url": "https://openreview.net/pdf?id=2ySt3cdGfJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_r92RVhnzKy",
+      "paper_id": "r92RVhnzKy",
+      "title": "Diving Deep into Regions: Exploiting Regional information Transformer for Single Image Deraining",
+      "authors": "Baiang Li, Zhao Zhang, Huan Zheng, Xiaogang Xu, Yanyan Wei, Jicong Fan, Zhong-Qiu Zhao, Richang Hong",
+      "paper_url": "https://openreview.net/pdf?id=r92RVhnzKy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_H4yQefeXhp",
+      "paper_id": "H4yQefeXhp",
+      "title": "DMV3D: Denoising Multi-view Diffusion Using 3D Large Reconstruction Model",
+      "authors": "Yinghao Xu, Hao Tan, Fujun Luan, Sai Bi, Peng Wang, Jiahao Li, Zifan Shi, Kalyan Sunkavalli, Gordon Wetzstein, Zexiang Xu, Kai Zhang",
+      "paper_url": "https://openreview.net/pdf?id=H4yQefeXhp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_FGqiDsBUKL0",
+      "paper_id": "FGqiDsBUKL0",
+      "title": "Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs",
+      "authors": "Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo",
+      "paper_url": "https://openreview.net/pdf/ced9a36d7c1942426cc47913c3ec31367b60dad3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_PplM2kDrl3",
+      "paper_id": "PplM2kDrl3",
+      "title": "Domain Guidance: A Simple Transfer Approach for a Pre-trained Diffusion Model",
+      "authors": "Jincheng Zhong, XiangCheng Zhang, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf?id=PplM2kDrl3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3NmO9lY4Jn",
+      "paper_id": "3NmO9lY4Jn",
+      "title": "Don't Play Favorites: Minority Guidance for Diffusion Models",
+      "authors": "Soobin Um, Suhyeon Lee, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=3NmO9lY4Jn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_3zvB14IF6D",
+      "paper_id": "3zvB14IF6D",
+      "title": "DORSal: Diffusion for Object-centric Representations of Scenes $\\textit{et al.}$",
+      "authors": "Allan Jabri, Sjoerd van Steenkiste, Emiel Hoogeboom, Mehdi S. M. Sajjadi, Thomas Kipf",
+      "paper_url": "https://openreview.net/pdf?id=3zvB14IF6D",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_OEL4FJMg1b",
+      "paper_id": "OEL4FJMg1b",
+      "title": "DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models",
+      "authors": "Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang",
+      "paper_url": "https://openreview.net/pdf?id=OEL4FJMg1b",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_6ALuy19mPa",
+      "paper_id": "6ALuy19mPa",
+      "title": "DreamClean: Restoring Clean Image Using Deep Diffusion Prior",
+      "authors": "Jie Xiao, Ruili Feng, Han Zhang, Zhiheng Liu, Zhantao Yang, Yurui Zhu, Xueyang Fu, Kai Zhu, Yu Liu, Zheng-Jun Zha",
+      "paper_url": "https://openreview.net/pdf?id=6ALuy19mPa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xyfb9HHvMe",
+      "paper_id": "xyfb9HHvMe",
+      "title": "DSPO: Direct Score Preference Optimization for Diffusion Model Alignment",
+      "authors": "Huaisheng Zhu, Teng Xiao, Vasant G Honavar",
+      "paper_url": "https://openreview.net/pdf?id=xyfb9HHvMe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gwDuW7Ok5f",
+      "paper_id": "gwDuW7Ok5f",
+      "title": "Dual Associated Encoder for Face Restoration",
+      "authors": "YU-JU TSAI, Yu-Lun Liu, Lu Qi, Kelvin C.K. Chan, Ming-Hsuan Yang",
+      "paper_url": "https://openreview.net/pdf?id=gwDuW7Ok5f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_5HLoTvVGDe",
+      "paper_id": "5HLoTvVGDe",
+      "title": "Dual Diffusion Implicit Bridges for Image-to-Image Translation",
+      "authors": "Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/91f1c96de0279c81fb44166262ba54d69daf0fe4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_taHwqSrbrb",
+      "paper_id": "taHwqSrbrb",
+      "title": "Dynamic Diffusion Transformer",
+      "authors": "Wangbo Zhao, Yizeng Han, Jiasheng Tang, Kai Wang, Yibing Song, Gao Huang, Fan Wang, Yang You",
+      "paper_url": "https://openreview.net/pdf?id=taHwqSrbrb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6p74UyAdLa",
+      "paper_id": "6p74UyAdLa",
+      "title": "Dynamic Negative Guidance of Diffusion Models",
+      "authors": "Felix Koulischer, Johannes Deleu, Gabriel Raya, Thomas Demeester, Luca Ambrogioni",
+      "paper_url": "https://openreview.net/pdf?id=6p74UyAdLa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_c5JZEPyFUE",
+      "paper_id": "c5JZEPyFUE",
+      "title": "Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models",
+      "authors": "Xingzhuo Guo, Yu Zhang, Baixu Chen, Haoran Xu, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf?id=c5JZEPyFUE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Pgtn4l6eKjv",
+      "paper_id": "Pgtn4l6eKjv",
+      "title": "DySR: Adaptive Super-Resolution via Algorithm and System Co-design",
+      "authors": "Syed Zawad, Cheng Li, Zhewei Yao, Elton Zheng, Yuxiong He, Feng Yan",
+      "paper_url": "https://openreview.net/pdf/e471fee5a1aaadc48573eb8e9adf4d3a9b0f4499.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_PxlfzEePC0",
+      "paper_id": "PxlfzEePC0",
+      "title": "EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing",
+      "authors": "Haotian Sun, Tao Lei, Bowen Zhang, Yanghao Li, Haoshuo Huang, Ruoming Pang, Bo Dai, Nan Du",
+      "paper_url": "https://openreview.net/pdf?id=PxlfzEePC0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_qcJmsP3oE9",
+      "paper_id": "qcJmsP3oE9",
+      "title": "Edge Guided GANs with Contrastive Learning for Semantic Image Synthesis",
+      "authors": "Hao Tang, XIAOJUAN QI, Guolei Sun, Dan Xu, Nicu Sebe, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openreview.net/pdf/f40feaa1cfe138bf1bd99412e6b58f19826d5ab5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_0UO1mH3Iwv",
+      "paper_id": "0UO1mH3Iwv",
+      "title": "Edge-aware Image Smoothing with Relative Wavelet Domain Representation",
+      "authors": "Huiqing QI, Xiaoliu Luo, Tingting Li, Fang Li",
+      "paper_url": "https://openreview.net/pdf?id=0UO1mH3Iwv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ZWzUA9zeAg",
+      "paper_id": "ZWzUA9zeAg",
+      "title": "Effective Data Augmentation With Diffusion Models",
+      "authors": "Brandon Trabucco, Kyle Doherty, Max A Gurinas, Ruslan Salakhutdinov",
+      "paper_url": "https://openreview.net/pdf?id=ZWzUA9zeAg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Y0QqruhqIa",
+      "paper_id": "Y0QqruhqIa",
+      "title": "Efficient Neuron Segmentation in Electron Microscopy by Affinity-Guided Queries",
+      "authors": "Hang Chen, Chufeng Tang, Xiao Li, Xiaolin Hu",
+      "paper_url": "https://openreview.net/pdf?id=Y0QqruhqIa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Mri9WIfxSm",
+      "paper_id": "Mri9WIfxSm",
+      "title": "Efficient Perplexity Bound and Ratio Matching in Discrete Diffusion Language Models",
+      "authors": "Etrit Haxholli, Yeti Z. Gurbuz, Oğul Can, Eli Waxman",
+      "paper_url": "https://openreview.net/pdf?id=Mri9WIfxSm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_UmMa3UNDAz",
+      "paper_id": "UmMa3UNDAz",
+      "title": "EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models",
+      "authors": "Yefei He, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang",
+      "paper_url": "https://openreview.net/pdf?id=UmMa3UNDAz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_e2ONKX6qzJ",
+      "paper_id": "e2ONKX6qzJ",
+      "title": "Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models",
+      "authors": "Seyedmorteza Sadat, Otmar Hilliges, Romann M. Weber",
+      "paper_url": "https://openreview.net/pdf?id=e2ONKX6qzJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_9DXXMXnIGm",
+      "paper_id": "9DXXMXnIGm",
+      "title": "Elucidating the design space of classifier-guided diffusion generation",
+      "authors": "Jiajun Ma, Tianyang Hu, Wenjia Wang, Jiacheng Sun",
+      "paper_url": "https://openreview.net/pdf?id=9DXXMXnIGm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xEJMoj1SpX",
+      "paper_id": "xEJMoj1SpX",
+      "title": "Elucidating the Exposure Bias in Diffusion Models",
+      "authors": "Mang Ning, Mingxiao Li, Jianlin Su, Albert Ali Salah, Itir Onal Ertugrul",
+      "paper_url": "https://openreview.net/pdf?id=xEJMoj1SpX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_5N0wtJZ89r9",
+      "paper_id": "5N0wtJZ89r9",
+      "title": "Embedding Fourier for Ultra-High-Definition Low-Light Image Enhancement",
+      "authors": "Chongyi Li, Chun-Le Guo, man zhou, Zhexin Liang, Shangchen Zhou, Ruicheng Feng, Chen Change Loy",
+      "paper_url": "https://openreview.net/pdf/4e2ab7acffc377a1981d0ed5d1e4310328115c82.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_YqyTXmF8Y2",
+      "paper_id": "YqyTXmF8Y2",
+      "title": "EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models",
+      "authors": "Koichi Namekata, Amirmojtaba Sabour, Sanja Fidler, Seung Wook Kim",
+      "paper_url": "https://openreview.net/pdf?id=YqyTXmF8Y2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_sL2F9YCMXf",
+      "paper_id": "sL2F9YCMXf",
+      "title": "Energy-Based Diffusion Language Models for Text Generation",
+      "authors": "Minkai Xu, Tomas Geffner, Karsten Kreis, Weili Nie, Yilun Xu, Jure Leskovec, Stefano Ermon, Arash Vahdat",
+      "paper_url": "https://openreview.net/pdf?id=sL2F9YCMXf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5BSlakturs",
+      "paper_id": "5BSlakturs",
+      "title": "Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds",
+      "authors": "Shuangqi Li, Hieu Le, Jingyi Xu, Mathieu Salzmann",
+      "paper_url": "https://openreview.net/pdf?id=5BSlakturs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_HOFxeCutxZR",
+      "paper_id": "HOFxeCutxZR",
+      "title": "Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation",
+      "authors": "Peiye Zhuang, Oluwasanmi O Koyejo, Alex Schwing",
+      "paper_url": "https://openreview.net/pdf/818a65b722eab947d8c57665b571d535ce9ca68a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_e32cI4r8Eo",
+      "paper_id": "e32cI4r8Eo",
+      "title": "Ensembling Diffusion Models via Adaptive Feature Aggregation",
+      "authors": "Cong Wang, Kuan Tian, Yonghang Guan, Fei Shen, Zhiwei Jiang, Qing Gu, Jun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=e32cI4r8Eo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_VrjOFfcnSV8",
+      "paper_id": "VrjOFfcnSV8",
+      "title": "Entroformer: A Transformer-based Entropy Model for Learned Image Compression",
+      "authors": "Yichen Qian, Xiuyu Sun, Ming Lin, Zhiyu Tan, Rong Jin",
+      "paper_url": "https://openreview.net/pdf/375073115f9e0608eacb1f009688d213ac8f1d11.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_OBjF5I4PWg",
+      "paper_id": "OBjF5I4PWg",
+      "title": "Erasing Concept Combination from Text-to-Image Diffusion Model",
+      "authors": "hongyi nie, Quanming Yao, Yang Liu, Zhen Wang, Yatao Bian",
+      "paper_url": "https://openreview.net/pdf?id=OBjF5I4PWg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NWb128pSCb",
+      "paper_id": "NWb128pSCb",
+      "title": "Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective",
+      "authors": "Xiangru Zhu, Penglei Sun, Yaoxian Song, Yanghua Xiao, Zhixu Li, Chengyu Wang, Jun Huang, Bei Yang, Xiaoxiao Xu",
+      "paper_url": "https://openreview.net/pdf?id=NWb128pSCb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XUxad2Gj40n",
+      "paper_id": "XUxad2Gj40n",
+      "title": "EVC: Towards Real-Time Neural Image Compression with Mask Decay",
+      "authors": "Wang Guo-Hua, Jiahao Li, Bin Li, Yan Lu",
+      "paper_url": "https://openreview.net/pdf/10eb4d0b2c9232991827cc7d0ada38e1a727ff3b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_bWzxhtl1HP",
+      "paper_id": "bWzxhtl1HP",
+      "title": "Exploring Diffusion Time-steps for Unsupervised Representation Learning",
+      "authors": "Zhongqi Yue, Jiankun Wang, Qianru Sun, Lei Ji, Eric I-Chao Chang, Hanwang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=bWzxhtl1HP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_p4cLtzk4oe",
+      "paper_id": "p4cLtzk4oe",
+      "title": "Exploring Local Memorization in Diffusion Models via Bright Ending Attention",
+      "authors": "Chen Chen, Daochang Liu, Mubarak Shah, Chang Xu",
+      "paper_url": "https://openreview.net/pdf?id=p4cLtzk4oe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Ny150AblPu",
+      "paper_id": "Ny150AblPu",
+      "title": "Exposing Text-Image Inconsistency Using Diffusion Models",
+      "authors": "Mingzhen Huang, Shan Jia, Zhou Zhou, Yan Ju, Jialing Cai, Siwei Lyu",
+      "paper_url": "https://openreview.net/pdf?id=Ny150AblPu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rDIf6NA5mj",
+      "paper_id": "rDIf6NA5mj",
+      "title": "Exposure Bracketing Is All You Need For A High-Quality Image",
+      "authors": "Zhilu Zhang, Shuohao Zhang, Renlong Wu, Zifei Yan, Wangmeng Zuo",
+      "paper_url": "https://openreview.net/pdf?id=rDIf6NA5mj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_iBdwKIsg4m",
+      "paper_id": "iBdwKIsg4m",
+      "title": "f-DM: A Multi-stage Diffusion Model via Progressive Signal Transformation",
+      "authors": "Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Miguel Ángel Bautista, Joshua M. Susskind",
+      "paper_url": "https://openreview.net/pdf/b7219af3a9c6c0c0add8ae9fa74bae7fd3cc27f6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_tZdqL5FH7w",
+      "paper_id": "tZdqL5FH7w",
+      "title": "Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them",
+      "authors": "Anh Tuan Bui, Thuy-Trang Vu, Long Tung Vuong, Trung Le, Paul Montague, Tamas Abraham, Junae Kim, Dinh Phung",
+      "paper_url": "https://openreview.net/pdf?id=tZdqL5FH7w",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OmpTdjl7RV",
+      "paper_id": "OmpTdjl7RV",
+      "title": "Fast Direct: Query-Efficient  Online Black-box Guidance  for Diffusion-model Target Generation",
+      "authors": "Kim Yong Tan, Yueming Lyu, Ivor Tsang, Yew-Soon Ong",
+      "paper_url": "https://openreview.net/pdf?id=OmpTdjl7RV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_W49UjcpGxx",
+      "paper_id": "W49UjcpGxx",
+      "title": "FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality",
+      "authors": "Zhengyao Lv, Chenyang Si, Junhao Song, Zhenyu Yang, Yu Qiao, Ziwei Liu, Kwan-Yee K. Wong",
+      "paper_url": "https://openreview.net/pdf?id=W49UjcpGxx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8ishA3LxN8",
+      "paper_id": "8ishA3LxN8",
+      "title": "Finite Scalar Quantization: VQ-VAE Made Simple",
+      "authors": "Fabian Mentzer, David Minnen, Eirikur Agustsson, Michael Tschannen",
+      "paper_url": "https://openreview.net/pdf?id=8ishA3LxN8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_D5mJSNtUtv",
+      "paper_id": "D5mJSNtUtv",
+      "title": "Finite-State Autoregressive Entropy Coding for Efficient Learned Lossless Compression",
+      "authors": "Yufeng Zhang, Hang Yu, Jianguo Li, Weiyao Lin",
+      "paper_url": "https://openreview.net/pdf?id=D5mJSNtUtv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jQP5o1VAVc",
+      "paper_id": "jQP5o1VAVc",
+      "title": "Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens",
+      "authors": "Lijie Fan, Tianhong Li, Siyang Qin, Yuanzhen Li, Chen Sun, Michael Rubinstein, Deqing Sun, Kaiming He, Yonglong Tian",
+      "paper_url": "https://openreview.net/pdf?id=jQP5o1VAVc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_7h5KSs2PCRi",
+      "paper_id": "7h5KSs2PCRi",
+      "title": "Forward Super-Resolution: How Can GANs Learn Hierarchical Generative Models for Real-World Distributions",
+      "authors": "Zeyuan Allen-Zhu, Yuanzhi Li",
+      "paper_url": "https://openreview.net/pdf/4dd55b5026c20f0d5eeeae3b1bc2b2decd36b47b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_TsBDfe8Ra5",
+      "paper_id": "TsBDfe8Ra5",
+      "title": "FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling",
+      "authors": "Zhengqiang ZHANG, Ruihuang Li, Lei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=TsBDfe8Ra5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4JK2XMGUc8",
+      "paper_id": "4JK2XMGUc8",
+      "title": "Free Hunch: Denoiser Covariance Estimation for Diffusion Models Without Extra Costs",
+      "authors": "Severi Rissanen, Markus Heinonen, Arno Solin",
+      "paper_url": "https://openreview.net/pdf?id=4JK2XMGUc8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ijoqFqSC7p",
+      "paper_id": "ijoqFqSC7p",
+      "title": "FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling",
+      "authors": "Haonan Qiu, Menghan Xia, Yong Zhang, Yingqing He, Xintao Wang, Ying Shan, Ziwei Liu",
+      "paper_url": "https://openreview.net/pdf?id=ijoqFqSC7p",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_8x0SGbCpzs",
+      "paper_id": "8x0SGbCpzs",
+      "title": "FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise",
+      "authors": "Yunlong Yuan, Yuanfan Guo, Chunwei Wang, Wei Zhang, Hang Xu, Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=8x0SGbCpzs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HKGQDDTuvZ",
+      "paper_id": "HKGQDDTuvZ",
+      "title": "Frequency-Aware Transformer for Learned  Image Compression",
+      "authors": "Han Li, Shaohui Li, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong",
+      "paper_url": "https://openreview.net/pdf?id=HKGQDDTuvZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ff2g30cZxj",
+      "paper_id": "ff2g30cZxj",
+      "title": "From Posterior Sampling to Meaningful Diversity in Image Restoration",
+      "authors": "Noa Cohen, Hila Manor, Yuval Bahat, Tomer Michaeli",
+      "paper_url": "https://openreview.net/pdf?id=ff2g30cZxj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QinkNNKZ3b",
+      "paper_id": "QinkNNKZ3b",
+      "title": "Fréchet Wavelet Distance: A Domain-Agnostic Metric for Image Generation",
+      "authors": "Lokesh Veeramacheneni, Moritz Wolter, Hilde Kuehne, Juergen Gall",
+      "paper_url": "https://openreview.net/pdf?id=QinkNNKZ3b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_agHLCOBM5jP",
+      "paper_id": "agHLCOBM5jP",
+      "title": "Fully Unsupervised Diversity Denoising with Convolutional Variational Autoencoders",
+      "authors": "Mangal Prakash, Alexander Krull, Florian Jug",
+      "paper_url": "https://openreview.net/pdf/2afe972808ebb66f3926468902039c366b274c59.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_zDy_nQCXiIj",
+      "paper_id": "zDy_nQCXiIj",
+      "title": "GAN \"Steerability\" without optimization",
+      "authors": "Nurit Spingarn, Ron Banner, Tomer Michaeli",
+      "paper_url": "https://openreview.net/pdf/78417c13154fe1e724c34ef2fcfef9f5a84707a0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_SHvF5xaueVn",
+      "paper_id": "SHvF5xaueVn",
+      "title": "GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images",
+      "authors": "Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon",
+      "paper_url": "https://openreview.net/pdf/c5f2ff1be65b47a30c22070c778b410ebb8ce7f0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_1hKE9qjvz-",
+      "paper_id": "1hKE9qjvz-",
+      "title": "gDDIM: Generalized denoising diffusion implicit models",
+      "authors": "Qinsheng Zhang, Molei Tao, Yongxin Chen",
+      "paper_url": "https://openreview.net/pdf/101656f96f6c22373cb9bf570b89250c966aedd5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_8G3FyfHIko",
+      "paper_id": "8G3FyfHIko",
+      "title": "GDrag:Towards General-Purpose Interactive Editing with Anti-ambiguity Point Diffusion",
+      "authors": "Xiaojian Lin, Hanhui Li, Yuhao Cheng, Yiqiang Yan, Xiaodan Liang",
+      "paper_url": "https://openreview.net/pdf?id=8G3FyfHIko",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FvK2noilxT",
+      "paper_id": "FvK2noilxT",
+      "title": "GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion",
+      "authors": "Xueyi Liu, Li Yi",
+      "paper_url": "https://openreview.net/pdf?id=FvK2noilxT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7lUdo8Vuqa",
+      "paper_id": "7lUdo8Vuqa",
+      "title": "Generalization through variance: how noise shapes inductive biases in diffusion models",
+      "authors": "John Vastola",
+      "paper_url": "https://openreview.net/pdf?id=7lUdo8Vuqa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Zjv38dg1Hb",
+      "paper_id": "Zjv38dg1Hb",
+      "title": "Generalized Consistency Trajectory Models for Image Manipulation",
+      "authors": "Beomsu Kim, Jaemin Kim, Jeongsol Kim, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=Zjv38dg1Hb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ziRLU3Y2PN_",
+      "paper_id": "ziRLU3Y2PN_",
+      "title": "Generalized rectifier wavelet covariance models for texture synthesis",
+      "authors": "Antoine Brochard, Sixin Zhang, Stéphane Mallat",
+      "paper_url": "https://openreview.net/pdf/db6c8615f4a7a3851946620b267f795166d259df.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_xBfQZWeDRH",
+      "paper_id": "xBfQZWeDRH",
+      "title": "GeoDiffusion: Text-Prompted Geometric Control for Object Detection Data Generation",
+      "authors": "Kai Chen, Enze Xie, Zhe Chen, Yibo Wang, Lanqing HONG, Zhenguo Li, Dit-Yan Yeung",
+      "paper_url": "https://openreview.net/pdf?id=xBfQZWeDRH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_zpVPhvVKXk",
+      "paper_id": "zpVPhvVKXk",
+      "title": "Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models",
+      "authors": "Senmao Li, Joost van de Weijer, taihang Hu, Fahad Khan, Qibin Hou, Yaxing Wang, jian Yang",
+      "paper_url": "https://openreview.net/pdf?id=zpVPhvVKXk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HyjIEf90Tn",
+      "paper_id": "HyjIEf90Tn",
+      "title": "Glauber Generative Model: Discrete Diffusion Models via Binary Classification",
+      "authors": "Harshit Varma, Dheeraj Mysore Nagaraj, Karthikeyan Shanmugam",
+      "paper_url": "https://openreview.net/pdf?id=HyjIEf90Tn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VtYfbvwpWp",
+      "paper_id": "VtYfbvwpWp",
+      "title": "GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models",
+      "authors": "Zewei Zhang, Huan Liu, Jun Chen, Xiangyu Xu",
+      "paper_url": "https://openreview.net/pdf?id=VtYfbvwpWp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_fPhKeld3Okz",
+      "paper_id": "fPhKeld3Okz",
+      "title": "Gradient Step Denoiser for convergent Plug-and-Play",
+      "authors": "Samuel Hurault, Arthur Leclaire, Nicolas Papadakis",
+      "paper_url": "https://openreview.net/pdf/ebee4c9eada2179f7cee9f61783b96bb27df1819.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_w4C4z80w59",
+      "paper_id": "w4C4z80w59",
+      "title": "Growth Inhibitors for Suppressing Inappropriate Image Concepts in Diffusion Models",
+      "authors": "Die Chen, Zhiwen Li, Mingyuan Fan, Cen Chen, Wenmeng Zhou, Yanhao Wang, Yaliang Li",
+      "paper_url": "https://openreview.net/pdf?id=w4C4z80w59",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HMVDiaWMwM",
+      "paper_id": "HMVDiaWMwM",
+      "title": "Guided Score identity Distillation for Data-Free One-Step Text-to-Image Generation",
+      "authors": "Mingyuan Zhou, Zhendong Wang, Huangjie Zheng, Hai Huang",
+      "paper_url": "https://openreview.net/pdf?id=HMVDiaWMwM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_S1RKWSyZ2Y",
+      "paper_id": "S1RKWSyZ2Y",
+      "title": "Guiding Instruction-based Image Editing via Multimodal Large Language Models",
+      "authors": "Tsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, Zhe Gan",
+      "paper_url": "https://openreview.net/pdf?id=S1RKWSyZ2Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RDVrlWAb7K",
+      "paper_id": "RDVrlWAb7K",
+      "title": "Halton Scheduler for Masked Generative Image Transformer",
+      "authors": "Victor Besnier, Mickael Chen, David Hurych, Eduardo Valle, Matthieu Cord",
+      "paper_url": "https://openreview.net/pdf?id=RDVrlWAb7K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_pdJXYfJjz9",
+      "paper_id": "pdJXYfJjz9",
+      "title": "Harnessing Joint Rain-/Detail-aware Representations to Eliminate Intricate Rains",
+      "authors": "Wu Ran, Peirong Ma, Zhiquan He, Hao Ren, Hong Lu",
+      "paper_url": "https://openreview.net/pdf?id=pdJXYfJjz9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6lB5qtdYAg",
+      "paper_id": "6lB5qtdYAg",
+      "title": "HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models",
+      "authors": "Hayk Manukyan, Andranik Sargsyan, Barsegh Atanyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi",
+      "paper_url": "https://openreview.net/pdf?id=6lB5qtdYAg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_TK_6nNb_C7q",
+      "paper_id": "TK_6nNb_C7q",
+      "title": "Hierarchical Autoregressive Modeling for Neural Video Compression",
+      "authors": "Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt",
+      "paper_url": "https://openreview.net/pdf/aa19952024b8087f98c378025770cfb48b752442.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_vh1e2WJfZp",
+      "paper_id": "vh1e2WJfZp",
+      "title": "High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity",
+      "authors": "Qian Yu, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li, Lihe Zhang, Huchuan Lu",
+      "paper_url": "https://openreview.net/pdf?id=vh1e2WJfZp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_pzElnMrgSD",
+      "paper_id": "pzElnMrgSD",
+      "title": "How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models",
+      "authors": "Pascal Chang, Jingwei Tang, Markus Gross, Vinicius C. Azevedo",
+      "paper_url": "https://openreview.net/pdf?id=pzElnMrgSD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mZptYYttFj",
+      "paper_id": "mZptYYttFj",
+      "title": "HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing",
+      "authors": "Mude Hui, Siwei Yang, Bingchen Zhao, Yichun Shi, Heng Wang, Peng Wang, Cihang Xie, Yuyin Zhou",
+      "paper_url": "https://openreview.net/pdf?id=mZptYYttFj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_SJ1kSyO2jwu",
+      "paper_id": "SJ1kSyO2jwu",
+      "title": "Human Motion Diffusion Model",
+      "authors": "Guy Tevet, Sigal Raab, Brian Gordon, Yoni Shafir, Daniel Cohen-or, Amit Haim Bermano",
+      "paper_url": "https://openreview.net/pdf/f0e30bdff6d93fdd5a01526aaea18c2fec384fc0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_4YzVF9isgD",
+      "paper_id": "4YzVF9isgD",
+      "title": "HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere",
+      "authors": "Hatef Otroshi Shahreza, Sébastien Marcel",
+      "paper_url": "https://openreview.net/pdf?id=4YzVF9isgD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Cy5v64DqEF",
+      "paper_id": "Cy5v64DqEF",
+      "title": "Idempotence and Perceptual Image Compression",
+      "authors": "Tongda Xu, Ziran Zhu, Dailan He, Yanghao Li, Lina Guo, Yuanyuan Wang, Zhe Wang, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Cy5v64DqEF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_yWkP7JuHX1",
+      "paper_id": "yWkP7JuHX1",
+      "title": "Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering",
+      "authors": "Yuxuan Zhang, Wenzheng Chen, Huan Ling, Jun Gao, Yinan Zhang, Antonio Torralba, Sanja Fidler",
+      "paper_url": "https://openreview.net/pdf/ddea76d45b925517b5cf900df64b91dc3d44d918.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_rUf9G9k2im",
+      "paper_id": "rUf9G9k2im",
+      "title": "Image Inpainting via Iteratively Decoupled Probabilistic Modeling",
+      "authors": "Wenbo Li, Xin Yu, Kun Zhou, Yibing Song, Zhe Lin",
+      "paper_url": "https://openreview.net/pdf?id=rUf9G9k2im",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_NSIVHTbZBR",
+      "paper_id": "NSIVHTbZBR",
+      "title": "Image Inpainting via Tractable Steering of Diffusion Models",
+      "authors": "Anji Liu, Mathias Niepert, Guy Van den Broeck",
+      "paper_url": "https://openreview.net/pdf?id=NSIVHTbZBR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_yozwqhIHXj",
+      "paper_id": "yozwqhIHXj",
+      "title": "Image Translation as Diffusion Visual Programmers",
+      "authors": "Cheng Han, James Chenhao Liang, Qifan Wang, MAJID RABBANI, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu",
+      "paper_url": "https://openreview.net/pdf?id=yozwqhIHXj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Pv1GPQzRrC8",
+      "paper_id": "Pv1GPQzRrC8",
+      "title": "Imitating Human Behaviour with Diffusion Models",
+      "authors": "Tim Pearce, Tabish Rashid, Anssi Kanervisto, Dave Bignell, Mingfei Sun, Raluca Georgescu, Sergio Valcarcel Macua, Shan Zheng Tan, Ida Momennejad, Katja Hofmann, Sam Devlin",
+      "paper_url": "https://openreview.net/pdf/b6515fc810687c08e9e8cbc72cd22ef8e7cdc7b6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_2ZK8zyIt7o",
+      "paper_id": "2ZK8zyIt7o",
+      "title": "Improving Long-Text Alignment for Text-to-Image Diffusion Models",
+      "authors": "Luping Liu, Chao Du, Tianyu Pang, Zehan Wang, Chongxuan Li, Dong Xu",
+      "paper_url": "https://openreview.net/pdf?id=2ZK8zyIt7o",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gG38EBe2S8",
+      "paper_id": "gG38EBe2S8",
+      "title": "IMPUS: Image Morphing with Perceptually-Uniform Sampling Using Diffusion Models",
+      "authors": "Zhaoyuan Yang, Zhengyang Yu, Zhiwei Xu, Jaskirat Singh, Jing Zhang, Dylan Campbell, Peter Tu, Richard Hartley",
+      "paper_url": "https://openreview.net/pdf?id=gG38EBe2S8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_aXwukBD6M6",
+      "paper_id": "aXwukBD6M6",
+      "title": "InCoDe: Interpretable Compressed Descriptions For Image Generation",
+      "authors": "Armand Comas, Aditya Chattopadhyay, Feliu Formosa, Changyu Liu, Octavia Camps, Rene Vidal",
+      "paper_url": "https://openreview.net/pdf?id=aXwukBD6M6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Y6LPWBo2HP",
+      "paper_id": "Y6LPWBo2HP",
+      "title": "Infinite-Resolution Integral Noise Warping for Diffusion Models",
+      "authors": "Yitong Deng, Winnie Lin, Lingxiao Li, Dmitriy Smirnov, Ryan D Burgert, Ning Yu, Vincent Dedun, Mohammad H. Taghavi",
+      "paper_url": "https://openreview.net/pdf?id=Y6LPWBo2HP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ufGMqIM0a4b",
+      "paper_id": "ufGMqIM0a4b",
+      "title": "InfinityGAN: Towards Infinite-Pixel Image Synthesis",
+      "authors": "Chieh Hubert Lin, Hsin-Ying Lee, Yen-Chi Cheng, Sergey Tulyakov, Ming-Hsuan Yang",
+      "paper_url": "https://openreview.net/pdf/0907e14b44a58aca8f7577b9e7f45870865cbfc4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_0QAzIMq32X",
+      "paper_id": "0QAzIMq32X",
+      "title": "Inner Classifier-Free Guidance and Its Taylor Expansion for Diffusion Models",
+      "authors": "Shikun Sun, Longhui Wei, Zhicai Wang, Zixuan Wang, Junliang Xing, Jia Jia, Qi Tian",
+      "paper_url": "https://openreview.net/pdf?id=0QAzIMq32X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1k4yZbbDqX",
+      "paper_id": "1k4yZbbDqX",
+      "title": "InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation",
+      "authors": "Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, qiang liu",
+      "paper_url": "https://openreview.net/pdf?id=1k4yZbbDqX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZkFMe3OPfw",
+      "paper_id": "ZkFMe3OPfw",
+      "title": "InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation",
+      "authors": "Zhixin Lai, Keqiang Sun, Fu-Yun Wang, Dhritiman Sagar, Erli Ding",
+      "paper_url": "https://openreview.net/pdf?id=ZkFMe3OPfw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_G1CN7R5qwE",
+      "paper_id": "G1CN7R5qwE",
+      "title": "InstaRevive: One-Step Image Enhancement via Dynamic Score Matching",
+      "authors": "Yixuan Zhu, Haolin Wang, Ao Li, Wenliang Zhao, Yansong Tang, Jingxuan Niu, Lei Chen, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openreview.net/pdf?id=G1CN7R5qwE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Nu9mOSq7eH",
+      "paper_id": "Nu9mOSq7eH",
+      "title": "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists",
+      "authors": "Yulu Gan, Sungwoo Park, Alexander Marcel Schubert, Anthony Philippakis, Ahmed Alaa",
+      "paper_url": "https://openreview.net/pdf?id=Nu9mOSq7eH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_DfMqlB0PXjM",
+      "paper_id": "DfMqlB0PXjM",
+      "title": "Interpretable Unsupervised Diversity Denoising and Artefact Removal",
+      "authors": "Mangal Prakash, Mauricio Delbracio, Peyman Milanfar, Florian Jug",
+      "paper_url": "https://openreview.net/pdf/3fb037cb33af2bbe50cc241272e4f9313aaf3552.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_PVHoELf5UN",
+      "paper_id": "PVHoELf5UN",
+      "title": "Interpretable Unsupervised Joint Denoising and Enhancement for Real-World low-light Scenarios",
+      "authors": "Li Huaqiu, HuXiaowan, Haoqian Wang",
+      "paper_url": "https://openreview.net/pdf?id=PVHoELf5UN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4w99NAikOE",
+      "paper_id": "4w99NAikOE",
+      "title": "IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation",
+      "authors": "Xinchen Zhang, Ling Yang, Guohao Li, YaQi Cai, xie jiake, Yong Tang, Yujiu Yang, Mengdi Wang, Bin CUI",
+      "paper_url": "https://openreview.net/pdf?id=4w99NAikOE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kv5xE1p3jz",
+      "paper_id": "kv5xE1p3jz",
+      "title": "JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling",
+      "authors": "Jingyang Zhang, Shiwei Li, Yuanxun Lu, Tian Fang, David Neil McKinnon, Yanghai Tsin, Long Quan, Yao Yao",
+      "paper_url": "https://openreview.net/pdf?id=kv5xE1p3jz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pD6TiCpyDR",
+      "paper_id": "pD6TiCpyDR",
+      "title": "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models",
+      "authors": "Yong-Hyun Park, Chieh-Hsin Lai, Satoshi Hayakawa, Yuhta Takida, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=pD6TiCpyDR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_x5mtJD2ovc",
+      "paper_id": "x5mtJD2ovc",
+      "title": "kNN-Diffusion: Image Generation via Large-Scale Retrieval",
+      "authors": "Shelly Sheynin, Oron Ashual, Adam Polyak, Uriel Singer, Oran Gafni, Eliya Nachmani, Yaniv Taigman",
+      "paper_url": "https://openreview.net/pdf/b8975b72f550b7061f9e42248a7f29257a2c71fc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_Fg3mYW8owg",
+      "paper_id": "Fg3mYW8owg",
+      "title": "Knowledge Distillation based Degradation Estimation for Blind Super-Resolution",
+      "authors": "Bin Xia, Yulun Zhang, Yitong Wang, Yapeng Tian, Wenming Yang, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openreview.net/pdf/ddc06a1dba96714dc462fb36685cd562658c9d62.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cWHonXThtM",
+      "paper_id": "cWHonXThtM",
+      "title": "Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution",
+      "authors": "Simiao Li, Yun Zhang, Wei Li, Hanting Chen, Wenjia Wang, Bingyi Jing, Shaohui Lin, Jie Hu",
+      "paper_url": "https://openreview.net/pdf?id=cWHonXThtM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_SlxSY2UZQT",
+      "paper_id": "SlxSY2UZQT",
+      "title": "Label-Efficient Semantic Segmentation with Diffusion Models",
+      "authors": "Dmitry Baranchuk, Andrey Voynov, Ivan Rubachev, Valentin Khrulkov, Artem Babenko",
+      "paper_url": "https://openreview.net/pdf/7f702e218df7a81da790cff07136c4f77297f473.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_HXWTXXtHNl",
+      "paper_id": "HXWTXXtHNl",
+      "title": "Label-Noise Robust Diffusion Models",
+      "authors": "Byeonghu Na, Yeongmin Kim, HeeSun Bae, Jung Hyun Lee, Se Jung Kwon, Wanmo Kang, Il-chul Moon",
+      "paper_url": "https://openreview.net/pdf?id=HXWTXXtHNl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_0H6DFoZZXZ",
+      "paper_id": "0H6DFoZZXZ",
+      "title": "Language Control Diffusion: Efficiently Scaling through Space, Time, and Tasks",
+      "authors": "Edwin Zhang, Yujie Lu, Shinda Huang, William Yang Wang, Amy Zhang",
+      "paper_url": "https://openreview.net/pdf?id=0H6DFoZZXZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gzqrANCF4g",
+      "paper_id": "gzqrANCF4g",
+      "title": "Language Model Beats Diffusion - Tokenizer is key to visual generation",
+      "authors": "Lijun Yu, Jose Lezama, Nitesh Bharadwaj Gundavarapu, Luca Versari, Kihyuk Sohn, David Minnen, Yong Cheng, Agrim Gupta, Xiuye Gu, Alexander G Hauptmann, Boqing Gong, Ming-Hsuan Yang, Irfan Essa, David A Ross, Lu Jiang",
+      "paper_url": "https://openreview.net/pdf?id=gzqrANCF4g",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_sSjqmfsk95O",
+      "paper_id": "sSjqmfsk95O",
+      "title": "Large Scale Image Completion via Co-Modulated Generative Adversarial Networks",
+      "authors": "Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I-Chao Chang, Yan Xu",
+      "paper_url": "https://openreview.net/pdf/9a3cfa3a1710ee23378772a3be3070ef32a29e17.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_ILQVw4cA5F9",
+      "paper_id": "ILQVw4cA5F9",
+      "title": "LDMIC: Learning-based Distributed Multi-view Image Coding",
+      "authors": "Xinjie Zhang, Jiawei Shao, Jun Zhang",
+      "paper_url": "https://openreview.net/pdf/4a0637d97e03d3ced4f839174d866a19d66d54e3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_cTbIjyrUVwJ",
+      "paper_id": "cTbIjyrUVwJ",
+      "title": "Learning Accurate Entropy Model with Global Reference for Image Compression",
+      "authors": "Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Li Hao, Rong Jin",
+      "paper_url": "https://openreview.net/pdf/06784d9497e2c81c4f81b487b90f789b97d82af0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_VFBjuF8HEp",
+      "paper_id": "VFBjuF8HEp",
+      "title": "Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality",
+      "authors": "Daniel Watson, William Chan, Jonathan Ho, Mohammad Norouzi",
+      "paper_url": "https://openreview.net/pdf/56f0145dd15f32bd53f6dba7efde74914a88f663.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_GtHRhpgpzB",
+      "paper_id": "GtHRhpgpzB",
+      "title": "Learning Gain Map for Inverse Tone Mapping",
+      "authors": "Yinuo Liao, Yuanshen Guan, Ruikang Xu, Jiacheng Li, Shida Sun, Zhiwei Xiong",
+      "paper_url": "https://openreview.net/pdf?id=GtHRhpgpzB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_47B_ctC4pJ",
+      "paper_id": "47B_ctC4pJ",
+      "title": "Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance",
+      "authors": "Yoonjeon Kim, Hyunsu Kim, Junho Kim, Yunjey Choi, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf/36476aaa90d9976a9e19788024d38ab3d3c2b056.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_qmXedvwrT1",
+      "paper_id": "qmXedvwrT1",
+      "title": "Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling",
+      "authors": "Huangjie Zheng, Zhendong Wang, Jianbo Yuan, Guanghan Ning, Pengcheng He, Quanzeng You, Hongxia Yang, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=qmXedvwrT1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xDrFWUmCne",
+      "paper_id": "xDrFWUmCne",
+      "title": "Learning to Discretize Denoising Diffusion ODEs",
+      "authors": "Vinh Tong, Dung Trung Hoang, Anji Liu, Guy Van den Broeck, Mathias Niepert",
+      "paper_url": "https://openreview.net/pdf?id=xDrFWUmCne",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3b9SKkRAKw",
+      "paper_id": "3b9SKkRAKw",
+      "title": "LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models",
+      "authors": "Hantao Zhang, Yuhe Liu, Jiancheng Yang, Shouhong Wan, Xinyuan Wang, Wei Peng, Pascal Fua",
+      "paper_url": "https://openreview.net/pdf?id=3b9SKkRAKw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_88JJjsLtqr",
+      "paper_id": "88JJjsLtqr",
+      "title": "Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models",
+      "authors": "Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, Nanyang Ye",
+      "paper_url": "https://openreview.net/pdf?id=88JJjsLtqr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_t9l63huPRt",
+      "paper_id": "t9l63huPRt",
+      "title": "Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion Models",
+      "authors": "Dvir Samuel, Barak Meiri, Haggai Maron, Yoad Tewel, Nir Darshan, Shai Avidan, Gal Chechik, Rami Ben-Ari",
+      "paper_url": "https://openreview.net/pdf?id=t9l63huPRt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QowsEic1sc",
+      "paper_id": "QowsEic1sc",
+      "title": "Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better",
+      "authors": "Enshu Liu, Junyi Zhu, Zinan Lin, Xuefei Ning, Shuaiqi Wang, Matthew B. Blaschko, Sergey Yekhanin, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang",
+      "paper_url": "https://openreview.net/pdf?id=QowsEic1sc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vkOFOUDLTn",
+      "paper_id": "vkOFOUDLTn",
+      "title": "Linear Multistep Solver Distillation for Fast Sampling of Diffusion Models",
+      "authors": "Yuchen Liang, Xiangzhong Fang, Hanting Chen, Yunhe Wang",
+      "paper_url": "https://openreview.net/pdf?id=vkOFOUDLTn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Qmw9ne6SOQ",
+      "paper_id": "Qmw9ne6SOQ",
+      "title": "Localizing and Editing Knowledge In Text-to-Image Generative Models",
+      "authors": "Samyadeep Basu, Nanxuan Zhao, Vlad I Morariu, Soheil Feizi, Varun Manjunatha",
+      "paper_url": "https://openreview.net/pdf?id=Qmw9ne6SOQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_NW2s5XXwXU",
+      "paper_id": "NW2s5XXwXU",
+      "title": "Long-tailed Diffusion Models with Oriented Calibration",
+      "authors": "Tianjiao Zhang, Huangjie Zheng, Jiangchao Yao, Xiangfeng Wang, Mingyuan Zhou, Ya Zhang, Yanfeng Wang",
+      "paper_url": "https://openreview.net/pdf?id=NW2s5XXwXU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_raUnLe0Z04",
+      "paper_id": "raUnLe0Z04",
+      "title": "Lossy Compression with Pretrained Diffusion Models",
+      "authors": "Jeremy Vonderfecht, Feng Liu",
+      "paper_url": "https://openreview.net/pdf?id=raUnLe0Z04",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_stK7iOPH9Q",
+      "paper_id": "stK7iOPH9Q",
+      "title": "Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction",
+      "authors": "Jing He, Haodong LI, Wei Yin, Yixun Liang, Leheng Li, Kaiqiang Zhou, Hongbo Zhang, Bingbing Liu, Ying-Cong Chen",
+      "paper_url": "https://openreview.net/pdf?id=stK7iOPH9Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EbWf36quzd",
+      "paper_id": "EbWf36quzd",
+      "title": "Lumina-T2X: Scalable Flow-based Large Diffusion Transformer for Flexible Resolution Generation",
+      "authors": "Peng Gao, Le Zhuo, Dongyang Liu, Ruoyi Du, Xu Luo, Longtian Qiu, Yuhang Zhang, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xie, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, Tong He, Jingwen He, Junjun He, Yu Qiao, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=EbWf36quzd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_o7x0XVlCpX",
+      "paper_id": "o7x0XVlCpX",
+      "title": "MaGIC: Multi-modality Guided Image Completion",
+      "authors": "Hao Wang, Yongsheng Yu, Tiejian Luo, Heng Fan, Libo Zhang",
+      "paper_url": "https://openreview.net/pdf?id=o7x0XVlCpX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5xmXUwDxep",
+      "paper_id": "5xmXUwDxep",
+      "title": "Manifold Constraint Reduces Exposure Bias in Accelerated Diffusion Sampling",
+      "authors": "Yuzhe YAO, Jun Chen, Zeyi Huang, Haonan Lin, Mengmeng Wang, Guang Dai, Jingdong Wang",
+      "paper_url": "https://openreview.net/pdf?id=5xmXUwDxep",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_o3BxOLoxm1",
+      "paper_id": "o3BxOLoxm1",
+      "title": "Manifold Preserving Guided Diffusion",
+      "authors": "Yutong He, Naoki Murata, Chieh-Hsin Lai, Yuhta Takida, Toshimitsu Uesaka, Dongjun Kim, Wei-Hsiang Liao, Yuki Mitsufuji, J Zico Kolter, Ruslan Salakhutdinov, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=o3BxOLoxm1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_81VJDmOE2ol",
+      "paper_id": "81VJDmOE2ol",
+      "title": "Markup-to-Image Diffusion Models with Scheduled Sampling",
+      "authors": "Yuntian Deng, Noriyuki Kojima, Alexander M Rush",
+      "paper_url": "https://openreview.net/pdf/f90b1cecbec20cb712499f3efdd915bf72fe7839.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_PvyOYleymy",
+      "paper_id": "PvyOYleymy",
+      "title": "Masked Completion via Structured Diffusion with White-Box Transformers",
+      "authors": "Druv Pai, Sam Buchanan, Ziyang Wu, Yaodong Yu, Yi Ma",
+      "paper_url": "https://openreview.net/pdf?id=PvyOYleymy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_CTC7CmirNr",
+      "paper_id": "CTC7CmirNr",
+      "title": "Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling",
+      "authors": "Kaiwen Zheng, Yongxin Chen, Hanzi Mao, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=CTC7CmirNr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tOzCcDdH9O",
+      "paper_id": "tOzCcDdH9O",
+      "title": "Matryoshka Diffusion Models",
+      "authors": "Jiatao Gu, Shuangfei Zhai, Yizhe Zhang, Joshua M. Susskind, Navdeep Jaitly",
+      "paper_url": "https://openreview.net/pdf?id=tOzCcDdH9O",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TmCcNuo03f",
+      "paper_id": "TmCcNuo03f",
+      "title": "Measuring And Improving Engagement of Text-to-Image Generation Models",
+      "authors": "Varun Khurana, Yaman Kumar Singla, Jayakumar Subramanian, Changyou Chen, Rajiv Ratn Shah, zhiqiang xu, Balaji Krishnamurthy",
+      "paper_url": "https://openreview.net/pdf?id=TmCcNuo03f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GJsuYHhAga",
+      "paper_id": "GJsuYHhAga",
+      "title": "Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis",
+      "authors": "Jinbin Bai, Tian Ye, Wei Chow, Enxin Song, Qing-Guo Chen, Xiangtai Li, Zhen Dong, Lei Zhu, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=GJsuYHhAga",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_j9m-mVnndbm",
+      "paper_id": "j9m-mVnndbm",
+      "title": "MIMT: Masked Image Modeling Transformer for Video Compression",
+      "authors": "Jinxi Xiang, Kuan Tian, Jun Zhang",
+      "paper_url": "https://openreview.net/pdf/77a1b3484f4a2e2c214313bd3f9964508a65d42a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_rzbSNDXgGD",
+      "paper_id": "rzbSNDXgGD",
+      "title": "Minimal Impact ControlNet: Advancing Multi-ControlNet Integration",
+      "authors": "Shikun Sun, Min Zhou, Zixuan Wang, Xubin Li, Tiezheng Ge, Zijie Ye, Xiaoyu Qin, Junliang Xing, Bo Zheng, Jia Jia",
+      "paper_url": "https://openreview.net/pdf?id=rzbSNDXgGD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hUdLs6TqZL",
+      "paper_id": "hUdLs6TqZL",
+      "title": "Mining your own secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models",
+      "authors": "Saurav Jha, Shiqi Yang, Masato Ishii, Mengjie Zhao, christian simon, Muhammad Jehanzeb Mirza, Dong Gong, Lina Yao, Shusuke Takahashi, Yuki Mitsufuji",
+      "paper_url": "https://openreview.net/pdf?id=hUdLs6TqZL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OdnqG1fYpo",
+      "paper_id": "OdnqG1fYpo",
+      "title": "Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation",
+      "authors": "Qing Wu, Chenhe Du, Xuanyu Tian, Jingyi Yu, Yuyao Zhang, Hongjiang Wei",
+      "paper_url": "https://openreview.net/pdf?id=OdnqG1fYpo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PstM8YfhvI",
+      "paper_id": "PstM8YfhvI",
+      "title": "MorphoDiff: Cellular Morphology Painting with Diffusion Models",
+      "authors": "Zeinab Navidi, Jun Ma, Esteban Miglietta, Le Liu, Anne E Carpenter, Beth A Cimini, Benjamin Haibe-Kains, BO WANG",
+      "paper_url": "https://openreview.net/pdf?id=PstM8YfhvI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WIAO4vbnNV",
+      "paper_id": "WIAO4vbnNV",
+      "title": "Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators",
+      "authors": "Daniel Geng, Andrew Owens",
+      "paper_url": "https://openreview.net/pdf?id=WIAO4vbnNV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PJqP0wyQek",
+      "paper_id": "PJqP0wyQek",
+      "title": "MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance",
+      "authors": "Xierui Wang, Siming Fu, Qihan Huang, Wanggui He, Hao Jiang",
+      "paper_url": "https://openreview.net/pdf?id=PJqP0wyQek",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OJ8aSjCaMNK",
+      "paper_id": "OJ8aSjCaMNK",
+      "title": "Multi-Rate VAE: Train Once, Get the Full Rate-Distortion Curve",
+      "authors": "Juhan Bae, Michael R. Zhang, Michael Ruan, Eric Wang, So Hasegawa, Jimmy Ba, Roger Baker Grosse",
+      "paper_url": "https://openreview.net/pdf/14a6477c29547f6a0e88be838a4bb2fe39d0bef6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_9RFocgIccP",
+      "paper_id": "9RFocgIccP",
+      "title": "Multi-Reward as Condition for Instruction-based Image Editing",
+      "authors": "Xin Gu, Ming Li, Libo Zhang, Fan Chen, Longyin Wen, Tiejian Luo, Sijie Zhu",
+      "paper_url": "https://openreview.net/pdf?id=9RFocgIccP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TzdTRC85SQ",
+      "paper_id": "TzdTRC85SQ",
+      "title": "Multi-Task Dense Predictions via Unleashing the Power of Diffusion",
+      "authors": "Yuqi Yang, Peng-Tao Jiang, Qibin Hou, Hao Zhang, Jinwei Chen, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=TzdTRC85SQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_wfzXa8e783",
+      "paper_id": "wfzXa8e783",
+      "title": "Navigating Text-To-Image Customization: From LyCORIS Fine-Tuning to Model Evaluation",
+      "authors": "SHIH-YING YEH, Yu-Guan Hsieh, Zhidong Gao, Bernard B W Yang, Giyeong Oh, Yanmin Gong",
+      "paper_url": "https://openreview.net/pdf?id=wfzXa8e783",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_NO0ThzteQdI",
+      "paper_id": "NO0ThzteQdI",
+      "title": "NERDS: A General Framework to Train Camera Denoisers from Raw-RGB Noisy Image Pairs",
+      "authors": "Heewon Kim, Kyoung Mu Lee",
+      "paper_url": "https://openreview.net/pdf/bdebcf036670b6aad12923bc167527b706b42167.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_42lcaojZug",
+      "paper_id": "42lcaojZug",
+      "title": "Neural Rate Control for Learned Video Compression",
+      "authors": "Yiwei Zhang, Guo Lu, Yunuo Chen, Shen Wang, Yibo Shi, Jing Wang, Li Song",
+      "paper_url": "https://openreview.net/pdf?id=42lcaojZug",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_b3CzCCCILJ",
+      "paper_id": "b3CzCCCILJ",
+      "title": "No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models",
+      "authors": "Seyedmorteza Sadat, Manuel Kansy, Otmar Hilliges, Romann M. Weber",
+      "paper_url": "https://openreview.net/pdf?id=b3CzCCCILJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mhgm0IXtHw",
+      "paper_id": "mhgm0IXtHw",
+      "title": "Noise Map Guidance: Inversion with Spatial Context for Real Image Editing",
+      "authors": "Hansam Cho, Jonghyun Lee, Seoung Bum Kim, Tae-Hyun Oh, Yonghyun Jeong",
+      "paper_url": "https://openreview.net/pdf?id=mhgm0IXtHw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_6O3Q6AFUTu",
+      "paper_id": "6O3Q6AFUTu",
+      "title": "NoiseDiffusion: Correcting Noise for Image  Interpolation  with Diffusion Models beyond Spherical Linear Interpolation",
+      "authors": "PengFei Zheng, Yonggang Zhang, Zhen Fang, Tongliang Liu, Defu Lian, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=6O3Q6AFUTu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3BhZCfJ73Y",
+      "paper_id": "3BhZCfJ73Y",
+      "title": "Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models",
+      "authors": "Alireza Ganjdanesh, Reza Shirkavand, Shangqian Gao, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=3BhZCfJ73Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dpcVXiMlcv",
+      "paper_id": "dpcVXiMlcv",
+      "title": "Object-Aware Inversion and Reassembly for Image Editing",
+      "authors": "Zhen Yang, Ganggui Ding, Wen Wang, Hao Chen, Bohan Zhuang, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=dpcVXiMlcv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Hlm0cga0sv",
+      "paper_id": "Hlm0cga0sv",
+      "title": "OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision",
+      "authors": "Cong Wei, Zheyang Xiong, Weiming Ren, Xeron Du, Ge Zhang, Wenhu Chen",
+      "paper_url": "https://openreview.net/pdf?id=Hlm0cga0sv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_U67J0QNtzo",
+      "paper_id": "U67J0QNtzo",
+      "title": "On Disentangled Training for Nonlinear Transform in Learned Image Compression",
+      "authors": "Han Li, Shaohui Li, Wenrui Dai, Maida Cao, Nuowen Kan, Chenglin Li, Junni Zou, Hongkai Xiong",
+      "paper_url": "https://openreview.net/pdf?id=U67J0QNtzo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_RtAct1E2zS",
+      "paper_id": "RtAct1E2zS",
+      "title": "On Error Propagation of Diffusion Models",
+      "authors": "Yangming Li, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=RtAct1E2zS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_44cMlQSreK",
+      "paper_id": "44cMlQSreK",
+      "title": "On Quantizing Neural Representation for Variable-Rate Video Coding",
+      "authors": "Junqi Shi, Zhujia Chen, Hanfei Li, Qi Zhao, Ming Lu, Tong Chen, Zhan Ma",
+      "paper_url": "https://openreview.net/pdf?id=44cMlQSreK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sLregLuXpn",
+      "paper_id": "sLregLuXpn",
+      "title": "On the Analysis of GAN-based Image-to-Image Translation with Gaussian Noise Injection",
+      "authors": "Chaohua Shi, Kexin Huang, Lu GAN, Hongqing Liu, Mingrui Zhu, Nannan Wang, Xinbo Gao",
+      "paper_url": "https://openreview.net/pdf?id=sLregLuXpn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_JjdU6ysnCr",
+      "paper_id": "JjdU6ysnCr",
+      "title": "On the Feature Learning in Diffusion Models",
+      "authors": "Andi Han, Wei Huang, Yuan Cao, Difan Zou",
+      "paper_url": "https://openreview.net/pdf?id=JjdU6ysnCr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_z0hUsPhwUN",
+      "paper_id": "z0hUsPhwUN",
+      "title": "Once-for-All: Controllable Generative Image Compression with Dynamic Granularity Adaptation",
+      "authors": "Anqi Li, Feng Li, Yuxi Liu, Runmin Cong, Yao Zhao, Huihui Bai",
+      "paper_url": "https://openreview.net/pdf?id=z0hUsPhwUN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OlzB6LnXcS",
+      "paper_id": "OlzB6LnXcS",
+      "title": "One Step Diffusion via Shortcut Models",
+      "authors": "Kevin Frans, Danijar Hafner, Sergey Levine, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=OlzB6LnXcS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cD1kl2QKv1",
+      "paper_id": "cD1kl2QKv1",
+      "title": "One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt",
+      "authors": "Tao Liu, Kai Wang, Senmao Li, Joost van de Weijer, Fahad Shahbaz Khan, Shiqi Yang, Yaxing Wang, Jian Yang, Ming-Ming Cheng",
+      "paper_url": "https://openreview.net/pdf?id=cD1kl2QKv1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_m9RNBZewW2",
+      "paper_id": "m9RNBZewW2",
+      "title": "Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model",
+      "authors": "Keda TAO, Jinjin Gu, Yulun Zhang, Xiucheng Wang, Nan Cheng",
+      "paper_url": "https://openreview.net/pdf?id=m9RNBZewW2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_oFp8Mx_V5FL",
+      "paper_id": "oFp8Mx_V5FL",
+      "title": "Overfitting for Fun and Profit: Instance-Adaptive Data Compression",
+      "authors": "Ties van Rozendaal, Iris AM Huijben, Taco Cohen",
+      "paper_url": "https://openreview.net/pdf/fb86b8ef98e296045da88b73a31804ed7b488f77.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Cf4FJGmHRQ",
+      "paper_id": "Cf4FJGmHRQ",
+      "title": "PAC-FNO: Parallel-Structured All-Component Fourier Neural Operators for Recognizing Low-Quality Images",
+      "authors": "Jinsung Jeon, Hyundong Jin, Jonghyun Choi, Sanghyun Hong, Dongeun Lee, Kookjin Lee, Noseong Park",
+      "paper_url": "https://openreview.net/pdf?id=Cf4FJGmHRQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZNzDXDFZ0B",
+      "paper_id": "ZNzDXDFZ0B",
+      "title": "PanoDiffusion: 360-degree Panorama Outpainting via Diffusion",
+      "authors": "Tianhao Wu, Chuanxia Zheng, Tat-Jen Cham",
+      "paper_url": "https://openreview.net/pdf?id=ZNzDXDFZ0B",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KZgo2YQbhc",
+      "paper_id": "KZgo2YQbhc",
+      "title": "PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction",
+      "authors": "Shangyu Chen, Zizheng Pan, Jianfei Cai, Dinh Phung",
+      "paper_url": "https://openreview.net/pdf?id=KZgo2YQbhc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KqbCvIFBY7",
+      "paper_id": "KqbCvIFBY7",
+      "title": "Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models",
+      "authors": "Gabriele Corso, Yilun Xu, Valentin De Bortoli, Regina Barzilay, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf?id=KqbCvIFBY7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TgSRPRz8cI",
+      "paper_id": "TgSRPRz8cI",
+      "title": "Patched Denoising Diffusion Models For High-Resolution Image Synthesis",
+      "authors": "Zheng Ding, Mengqi Zhang, Jiajun Wu, Zhuowen Tu",
+      "paper_url": "https://openreview.net/pdf?id=TgSRPRz8cI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wmmDvZGFK7",
+      "paper_id": "wmmDvZGFK7",
+      "title": "PFDiff: Training-Free Acceleration of Diffusion Models Combining Past and Future Scores",
+      "authors": "Guangyi Wang, Yuren Cai, lijiang Li, Wei Peng, Song-Zhi Su",
+      "paper_url": "https://openreview.net/pdf?id=wmmDvZGFK7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_eAKmQPe3m1",
+      "paper_id": "eAKmQPe3m1",
+      "title": "PixArt-$\\alpha$: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis",
+      "authors": "Junsong Chen, Jincheng YU, Chongjian GE, Lewei Yao, Enze Xie, Zhongdao Wang, James Kwok, Ping Luo, Huchuan Lu, Zhenguo Li",
+      "paper_url": "https://openreview.net/pdf?id=eAKmQPe3m1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xuQSp75HmP",
+      "paper_id": "xuQSp75HmP",
+      "title": "PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions",
+      "authors": "Weifeng Lin, Xinyu Wei, Renrui Zhang, Le Zhuo, Shitian Zhao, Siyuan Huang, Junlin Xie, Peng Gao, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=xuQSp75HmP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FoMZ4ljhVw",
+      "paper_id": "FoMZ4ljhVw",
+      "title": "PnP Inversion: Boosting Diffusion-based Editing with 3 Lines of Code",
+      "authors": "Xuan Ju, Ailing Zeng, Yuxuan Bian, Shaoteng Liu, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=FoMZ4ljhVw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5AtHrq3B5R",
+      "paper_id": "5AtHrq3B5R",
+      "title": "PnP-Flow: Plug-and-Play Image Restoration with Flow Matching",
+      "authors": "Ségolène Tiffany Martin, Anne Gagneux, Paul Hagemann, Gabriele Steidl",
+      "paper_url": "https://openreview.net/pdf?id=5AtHrq3B5R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_v2zcCDYMok",
+      "paper_id": "v2zcCDYMok",
+      "title": "PostCast: Generalizable Postprocessing for Precipitation Nowcasting via Unsupervised Blurriness Modeling",
+      "authors": "Junchao Gong, Siwei Tu, Weidong Yang, Ben Fei, Kun Chen, zhangwenlong, Xiaokang Yang, Wanli Ouyang, LEI BAI",
+      "paper_url": "https://openreview.net/pdf?id=v2zcCDYMok",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_J8YWCBPgx7",
+      "paper_id": "J8YWCBPgx7",
+      "title": "PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing",
+      "authors": "Feng Tian, Yixuan Li, Yichao Yan, Shanyan Guan, Yanhao Ge, Xiaokang Yang",
+      "paper_url": "https://openreview.net/pdf?id=J8YWCBPgx7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hPOt3yUXii",
+      "paper_id": "hPOt3yUXii",
+      "title": "Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration",
+      "authors": "Guy Ohayon, Tomer Michaeli, Michael Elad",
+      "paper_url": "https://openreview.net/pdf?id=hPOt3yUXii",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gdHtZlaaSo",
+      "paper_id": "gdHtZlaaSo",
+      "title": "Precise Parameter Localization for Textual Generation in Diffusion Models",
+      "authors": "Łukasz Staniszewski, Bartosz Cywiński, Franziska Boenisch, Kamil Deja, Adam Dziedzic",
+      "paper_url": "https://openreview.net/pdf?id=gdHtZlaaSo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22__BNiN4IjC5",
+      "paper_id": "_BNiN4IjC5",
+      "title": "PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior",
+      "authors": "Sang-gil Lee, Heeseung Kim, Chaehun Shin, Xu Tan, Chang Liu, Qi Meng, Tao Qin, Wei Chen, Sungroh Yoon, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/0e602657a19a26315b3e07434feb9b84217302e6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_0GzqVqCKns",
+      "paper_id": "0GzqVqCKns",
+      "title": "Probing the Latent Hierarchical Structure of Data via Diffusion Models",
+      "authors": "Antonio Sclocchi, Alessandro Favero, Noam Itzhak Levi, Matthieu Wyart",
+      "paper_url": "https://openreview.net/pdf?id=0GzqVqCKns",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_S85PP4xjFD",
+      "paper_id": "S85PP4xjFD",
+      "title": "Progressive Compositionality in Text-to-Image Generative Models",
+      "authors": "Xu Han, Linghao Jin, Xiaofeng Liu, Paul Pu Liang",
+      "paper_url": "https://openreview.net/pdf?id=S85PP4xjFD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CxXGvKRDnL",
+      "paper_id": "CxXGvKRDnL",
+      "title": "Progressive Compression with Universally Quantized Diffusion Models",
+      "authors": "Yibo Yang, Justus Will, Stephan Mandt",
+      "paper_url": "https://openreview.net/pdf?id=CxXGvKRDnL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_TIdIXIpzhoI",
+      "paper_id": "TIdIXIpzhoI",
+      "title": "Progressive Distillation for Fast Sampling of Diffusion Models",
+      "authors": "Tim Salimans, Jonathan Ho",
+      "paper_url": "https://openreview.net/pdf/3b30857a628099896b6123e85d6cf04c59abe77b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23__CDixzkzeyb",
+      "paper_id": "_CDixzkzeyb",
+      "title": "Prompt-to-Prompt Image Editing with Cross-Attention Control",
+      "authors": "Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-or",
+      "paper_url": "https://openreview.net/pdf/a6e78444f28f4790c2b8eb24364ced3ce736feb0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_9_gsMA8MRKQ",
+      "paper_id": "9_gsMA8MRKQ",
+      "title": "Pseudoinverse-Guided Diffusion Models for Inverse Problems",
+      "authors": "Jiaming Song, Arash Vahdat, Morteza Mardani, Jan Kautz",
+      "paper_url": "https://openreview.net/pdf/210093330709030207aa90dbfe2a1f525ac5fb7d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_lTrrnNdkOX",
+      "paper_id": "lTrrnNdkOX",
+      "title": "PT-T2I/V: An Efficient Proxy-Tokenized Diffusion Transformer for Text-to-Image/Video-Task",
+      "authors": "Jing Wang, Ao Ma, Jiasong Feng, Dawei Leng, Yuhui Yin, Xiaodan Liang",
+      "paper_url": "https://openreview.net/pdf?id=lTrrnNdkOX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OOWLRfAI_V_",
+      "paper_id": "OOWLRfAI_V_",
+      "title": "Quantized Compressed Sensing with Score-Based Generative Models",
+      "authors": "Xiangming Meng, Yoshiyuki Kabashima",
+      "paper_url": "https://openreview.net/pdf/4f6f0e2347a3d6f9a88b39e445f77c1e7503064e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_8Q4uVOJ5bX",
+      "paper_id": "8Q4uVOJ5bX",
+      "title": "R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation",
+      "authors": "Jiayu Xiao, Henglei Lv, Liang Li, Shuhui Wang, Qingming Huang",
+      "paper_url": "https://openreview.net/pdf?id=8Q4uVOJ5bX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_z8PcUSKXXN",
+      "paper_id": "z8PcUSKXXN",
+      "title": "Random Is All You Need: Random Noise Injection on Feature Statistics for Generalizable Deep Image Denoising",
+      "authors": "Zhengwei Yin, Hongjun Wang, Guixu Lin, Weihang Ran, Yinqiang Zheng",
+      "paper_url": "https://openreview.net/pdf?id=z8PcUSKXXN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BgxsmpVoOX",
+      "paper_id": "BgxsmpVoOX",
+      "title": "Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance",
+      "authors": "Dongmin Park, Sebin Kim, Taehong Moon, Minkyu Kim, Kangwook Lee, Jaewoong Cho",
+      "paper_url": "https://openreview.net/pdf?id=BgxsmpVoOX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JTGimap_-F",
+      "paper_id": "JTGimap_-F",
+      "title": "Rarity Score : A New Metric to Evaluate the Uncommonness of Synthesized Images",
+      "authors": "Jiyeon Han, Hwanil Choi, Yunjey Choi, Junho Kim, Jung-Woo Ha, Jaesik Choi",
+      "paper_url": "https://openreview.net/pdf/dfcead3ef1a1fcc3a124e59886764e4d93b824a7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bnINPG5A32",
+      "paper_id": "bnINPG5A32",
+      "title": "RB-Modulation: Training-Free Stylization using Reference-Based Modulation",
+      "authors": "Litu Rout, Yujia Chen, Nataniel Ruiz, Abhishek Kumar, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu",
+      "paper_url": "https://openreview.net/pdf?id=bnINPG5A32",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XSEBx0iSjFQ",
+      "paper_id": "XSEBx0iSjFQ",
+      "title": "Re-Imagen: Retrieval-Augmented Text-to-Image Generator",
+      "authors": "Wenhu Chen, Hexiang Hu, Chitwan Saharia, William W. Cohen",
+      "paper_url": "https://openreview.net/pdf/cd7624d9396c506925128bb17ad6c851714db6e4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_PmP_sf3JkrH",
+      "paper_id": "PmP_sf3JkrH",
+      "title": "Real-Time Image Demoir$\\acute{e}$ing on Mobile Devices",
+      "authors": "Yuxin Zhang, Mingbao Lin, Xunchao Li, Han Liu, Guozhi Wang, Fei Chao, Ren Shuai, Yafei Wen, Xiaoxin Chen, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf/57318515af071cd3d12f09ea76595aaa2050c078.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_owziuM1nsR",
+      "paper_id": "owziuM1nsR",
+      "title": "Recursive Generalization Transformer for Image Super-Resolution",
+      "authors": "Zheng Chen, Yulun Zhang, Jinjin Gu, Linghe Kong, Xiaokang Yang",
+      "paper_url": "https://openreview.net/pdf?id=owziuM1nsR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TtUh0TOlGX",
+      "paper_id": "TtUh0TOlGX",
+      "title": "Regularization by Texts for Latent Diffusion Inverse Solvers",
+      "authors": "Jeongsol Kim, Geon Yeong Park, Hyungjin Chung, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=TtUh0TOlGX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qTlcbLSm4p",
+      "paper_id": "qTlcbLSm4p",
+      "title": "Relay Diffusion: Unifying diffusion process across resolutions for image synthesis",
+      "authors": "Jiayan Teng, Wendi Zheng, Ming Ding, Wenyi Hong, Jianqiao Wangni, Zhuoyi Yang, Jie Tang",
+      "paper_url": "https://openreview.net/pdf?id=qTlcbLSm4p",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_DJSZGGZYVi",
+      "paper_id": "DJSZGGZYVi",
+      "title": "Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think",
+      "authors": "Sihyun Yu, Sangkyung Kwak, Huiwon Jang, Jongheon Jeong, Jonathan Huang, Jinwoo Shin, Saining Xie",
+      "paper_url": "https://openreview.net/pdf?id=DJSZGGZYVi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gWgaypDBs8",
+      "paper_id": "gWgaypDBs8",
+      "title": "Representative Guidance: Diffusion Model Sampling with Coherence",
+      "authors": "Anh-Dung Dinh, Daochang Liu, Chang Xu",
+      "paper_url": "https://openreview.net/pdf?id=gWgaypDBs8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bwJxUB0y46",
+      "paper_id": "bwJxUB0y46",
+      "title": "Repulsive Latent Score Distillation for Solving Inverse Problems",
+      "authors": "Nicolas Zilberstein, Morteza Mardani, Santiago Segarra",
+      "paper_url": "https://openreview.net/pdf?id=bwJxUB0y46",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kxFtMHItrf",
+      "paper_id": "kxFtMHItrf",
+      "title": "Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model",
+      "authors": "Chunming He, Chengyu Fang, Yulun Zhang, Longxiang Tang, Jinfa Huang, Kai Li, Zhenhua Guo, Xiu Li, Sina Farsiu",
+      "paper_url": "https://openreview.net/pdf?id=kxFtMHItrf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vmulbBDCan",
+      "paper_id": "vmulbBDCan",
+      "title": "Revolutionizing EMCCD Denoising through a Novel Physics-Based Learning Framework for Noise Modeling",
+      "authors": "Haiyang Jiang, Tetsuichi Wazawa, Imari Sato, Takeharu Nagai, Yinqiang Zheng",
+      "paper_url": "https://openreview.net/pdf?id=vmulbBDCan",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_1UbNwQC89a",
+      "paper_id": "1UbNwQC89a",
+      "title": "RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection",
+      "authors": "Shancong Mou, Xiaoyi Gu, Meng Cao, Haoping Bai, Ping Huang, Jiulong Shan, Jianjun Shi",
+      "paper_url": "https://openreview.net/pdf/a564536c89cace1f99fc67dc6cfe05a26c8c2784.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_lm7MRcsFiS",
+      "paper_id": "lm7MRcsFiS",
+      "title": "Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?",
+      "authors": "Yu-Lin Tsai, Chia-Yi Hsu, Chulin Xie, Chih-Hsun Lin, Jia You Chen, Bo Li, Pin-Yu Chen, Chia-Mu Yu, Chun-Ying Huang",
+      "paper_url": "https://openreview.net/pdf?id=lm7MRcsFiS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_b0WpXBABdu",
+      "paper_id": "b0WpXBABdu",
+      "title": "Risk-Sensitive Diffusion: Robustly Optimizing Diffusion Models with Noisy Samples",
+      "authors": "Yangming Li, Max Ruiz Luyten, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=b0WpXBABdu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_N8Oj1XhtYZ",
+      "paper_id": "N8Oj1XhtYZ",
+      "title": "SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers",
+      "authors": "Enze Xie, Junsong Chen, Junyu Chen, Han Cai, Haotian Tang, Yujun Lin, Zhekai Zhang, Muyang Li, Ligeng Zhu, Yao Lu, Song Han",
+      "paper_url": "https://openreview.net/pdf?id=N8Oj1XhtYZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wGVOxplEbf",
+      "paper_id": "wGVOxplEbf",
+      "title": "SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation",
+      "authors": "Teng Hu, Jiangning Zhang, Ran Yi, Hongrui Huang, Yabiao Wang, Lizhuang Ma",
+      "paper_url": "https://openreview.net/pdf?id=wGVOxplEbf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_5xadJmgwix",
+      "paper_id": "5xadJmgwix",
+      "title": "Scale-Adaptive Diffusion Model for Complex Sketch Synthesis",
+      "authors": "Jijin Hu, Ke Li, Yonggang Qi, Yi-Zhe Song",
+      "paper_url": "https://openreview.net/pdf?id=5xadJmgwix",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_u48tHG5f66",
+      "paper_id": "u48tHG5f66",
+      "title": "ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models",
+      "authors": "Yingqing He, Shaoshu Yang, Haoxin Chen, Xiaodong Cun, Menghan Xia, Yong Zhang, Xintao Wang, Ran He, Qifeng Chen, Ying Shan",
+      "paper_url": "https://openreview.net/pdf?id=u48tHG5f66",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_j1tSLYKwg8",
+      "paper_id": "j1tSLYKwg8",
+      "title": "Scaling Diffusion Language Models via Adaptation from Autoregressive Models",
+      "authors": "Shansan Gong, Shivam Agarwal, Yizhe Zhang, Jiacheng Ye, Lin Zheng, Mukai Li, Chenxin An, Peilin Zhao, Wei Bi, Jiawei Han, Hao Peng, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf?id=j1tSLYKwg8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WNvvwK0tut",
+      "paper_id": "WNvvwK0tut",
+      "title": "Scaling up Masked Diffusion Models on Text",
+      "authors": "Shen Nie, Fengqi Zhu, Chao Du, Tianyu Pang, Qian Liu, Guangtao Zeng, Min Lin, Chongxuan Li",
+      "paper_url": "https://openreview.net/pdf?id=WNvvwK0tut",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_BYWWwSY2G5s",
+      "paper_id": "BYWWwSY2G5s",
+      "title": "Score-based Continuous-time Discrete Diffusion Models",
+      "authors": "Haoran Sun, Lijun Yu, Bo Dai, Dale Schuurmans, Hanjun Dai",
+      "paper_url": "https://openreview.net/pdf/d96e90543a3d04a3e6248eacc3088b15b0907078.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_CzceR82CYc",
+      "paper_id": "CzceR82CYc",
+      "title": "Score-Based Generative Modeling with Critically-Damped Langevin Diffusion",
+      "authors": "Tim Dockhorn, Arash Vahdat, Karsten Kreis",
+      "paper_url": "https://openreview.net/pdf/b0abf219a709e60170ee3d79e0068b682e8696dd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_uNd289HjLi",
+      "paper_id": "uNd289HjLi",
+      "title": "Score-based Self-supervised MRI Denoising",
+      "authors": "Jiachen Tu, Yaokun Shi, Fan Lam",
+      "paper_url": "https://openreview.net/pdf?id=uNd289HjLi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_aBsCjcPu_tE",
+      "paper_id": "aBsCjcPu_tE",
+      "title": "SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations",
+      "authors": "Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/e3d44fdd105753b51dcb91a908082d6317713ae9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_di52zR8xgf",
+      "paper_id": "di52zR8xgf",
+      "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+      "authors": "Dustin Podell, Zion English, Kyle Lacey, Andreas Blattmann, Tim Dockhorn, Jonas Müller, Joe Penna, Robin Rombach",
+      "paper_url": "https://openreview.net/pdf?id=di52zR8xgf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_CGlczSBBSj",
+      "paper_id": "CGlczSBBSj",
+      "title": "SEAL: A Framework for Systematic Evaluation of Real-World Super-Resolution",
+      "authors": "Wenlong Zhang, Xiaohui Li, Xiangyu Chen, Xiaoyun Zhang, Yu Qiao, Xiao-Ming Wu, Chao Dong",
+      "paper_url": "https://openreview.net/pdf?id=CGlczSBBSj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_tyZ1ChGZIKO",
+      "paper_id": "tyZ1ChGZIKO",
+      "title": "Selective Frequency Network for Image Restoration",
+      "authors": "Yuning Cui, Yi Tao, Zhenshan Bing, Wenqi Ren, Xinwei Gao, Xiaochun Cao, Kai Huang, Alois Knoll",
+      "paper_url": "https://openreview.net/pdf/71e16caeaf36c1dec29e526029de3709d632d4bd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_wxPnuFp8fZ",
+      "paper_id": "wxPnuFp8fZ",
+      "title": "Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement",
+      "authors": "Chenxu Wu, Qingpeng Kong, Zihang Jiang, S Kevin Zhou",
+      "paper_url": "https://openreview.net/pdf?id=wxPnuFp8fZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jjiOHEcS2c",
+      "paper_id": "jjiOHEcS2c",
+      "title": "Self-Supervised High Dynamic Range Imaging with Multi-Exposure Images in Dynamic Scenes",
+      "authors": "Zhilu Zhang, Haoyu Wang, Shuai Liu, Xiaotao Wang, LEI LEI, Wangmeng Zuo",
+      "paper_url": "https://openreview.net/pdf?id=jjiOHEcS2c",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Hu0FSOSEyS",
+      "paper_id": "Hu0FSOSEyS",
+      "title": "Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations",
+      "authors": "Litu Rout, Yujia Chen, Nataniel Ruiz, Constantine Caramanis, Sanjay Shakkottai, Wen-Sheng Chu",
+      "paper_url": "https://openreview.net/pdf?id=Hu0FSOSEyS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_i5MrJ6g5G1",
+      "paper_id": "i5MrJ6g5G1",
+      "title": "Simple Guidance Mechanisms for Discrete Diffusion Models",
+      "authors": "Yair Schiff, Subham Sekhar Sahoo, Hao Phung, Guanghan Wang, Sam Boshar, Hugo Dalla-torre, Bernardo P de Almeida, Alexander M Rush, Thomas PIERROT, Volodymyr Kuleshov",
+      "paper_url": "https://openreview.net/pdf?id=i5MrJ6g5G1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_4eJ43EN2g6l",
+      "paper_id": "4eJ43EN2g6l",
+      "title": "SketchKnitter: Vectorized Sketch Generation with Diffusion Models",
+      "authors": "Qiang Wang, Haoge Deng, Yonggang Qi, Da Li, Yi-Zhe Song",
+      "paper_url": "https://openreview.net/pdf/aa51f28767b5d95ceced7af0c79780b06d2fd1e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kZvor5aaz7",
+      "paper_id": "kZvor5aaz7",
+      "title": "Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation",
+      "authors": "Kaan Akan, Yucel Yemez",
+      "paper_url": "https://openreview.net/pdf?id=kZvor5aaz7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_aaBnFAyW9O",
+      "paper_id": "aaBnFAyW9O",
+      "title": "Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models",
+      "authors": "Yangming Li, Boris van Breugel, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=aaBnFAyW9O",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_BtT6o5tfHu",
+      "paper_id": "BtT6o5tfHu",
+      "title": "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution",
+      "authors": "Yiyang Ma, Huan Yang, Wenhan Yang, Jianlong Fu, Jiaying Liu",
+      "paper_url": "https://openreview.net/pdf?id=BtT6o5tfHu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_vaRCHVj0uGI",
+      "paper_id": "vaRCHVj0uGI",
+      "title": "Solving Inverse Problems in Medical Imaging with Score-Based Generative Models",
+      "authors": "Yang Song, Liyue Shen, Lei Xing, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/1f9104dcb6aabcde00c31c083eb291b3d07e5ed8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_j8hdRqOUhN",
+      "paper_id": "j8hdRqOUhN",
+      "title": "Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency",
+      "authors": "Bowen Song, Soo Min Kwon, Zecheng Zhang, Xinyu Hu, Qing Qu, Liyue Shen",
+      "paper_url": "https://openreview.net/pdf?id=j8hdRqOUhN",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_WmIwYTd0YTF",
+      "paper_id": "WmIwYTd0YTF",
+      "title": "Stable Target Field for Reduced Variance Score Estimation in Diffusion Models",
+      "authors": "Yilun Xu, Shangyuan Tong, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf/bd21f9db32efdae84c04fffb45dc533162bb1809.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Ombm8S40zN",
+      "paper_id": "Ombm8S40zN",
+      "title": "Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction",
+      "authors": "Jarrid Rector-Brooks, Mohsin Hasan, Zhangzhi Peng, Cheng-Hao Liu, Sarthak Mittal, Nouha Dziri, Michael M. Bronstein, Pranam Chatterjee, Alexander Tong, Joey Bose",
+      "paper_url": "https://openreview.net/pdf?id=Ombm8S40zN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XPNprvlxuQ",
+      "paper_id": "XPNprvlxuQ",
+      "title": "StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces",
+      "authors": "Kyeongmin Yeo, Jaihoon Kim, Minhyuk Sung",
+      "paper_url": "https://openreview.net/pdf?id=XPNprvlxuQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Qg2vi4ZbHM9",
+      "paper_id": "Qg2vi4ZbHM9",
+      "title": "StyleAlign: Analysis and Applications of Aligned StyleGAN Models",
+      "authors": "Zongze Wu, Yotam Nitzan, Eli Shechtman, Dani Lischinski",
+      "paper_url": "https://openreview.net/pdf/a75f48f49713ac38baaaee51cb3273177975f96b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Ojpb1y8jflw",
+      "paper_id": "Ojpb1y8jflw",
+      "title": "StyleMorph: Disentangled 3D-Aware Image Synthesis with a 3D Morphable StyleGAN",
+      "authors": "Eric-Tuan Le, Edward Bartrum, Iasonas Kokkinos",
+      "paper_url": "https://openreview.net/pdf/6c65dce0c014a5dabd0d9668059d99ef3bf40a95.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_vWR3KuiQur",
+      "paper_id": "vWR3KuiQur",
+      "title": "SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models",
+      "authors": "Muyang Li, Yujun Lin, Zhekai Zhang, Tianle Cai, Xiuyu Li, Junxian Guo, Enze Xie, Chenlin Meng, Jun-Yan Zhu, Song Han",
+      "paper_url": "https://openreview.net/pdf?id=vWR3KuiQur",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zZ6TT254Np",
+      "paper_id": "zZ6TT254Np",
+      "title": "Synthesizing Realistic fMRI: A Physiological Dynamics-Driven Hierarchical Diffusion Model for Efficient fMRI Acquisition",
+      "authors": "Yufan Hu, Yujiang, Wuyang Li, Yixuan Yuan",
+      "paper_url": "https://openreview.net/pdf?id=zZ6TT254Np",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2mqb8bPHeb",
+      "paper_id": "2mqb8bPHeb",
+      "title": "T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching",
+      "authors": "Zizheng Pan, Bohan Zhuang, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=2mqb8bPHeb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_JprM0p-q0Co",
+      "paper_id": "JprM0p-q0Co",
+      "title": "Tackling the Generative Learning Trilemma with Denoising Diffusion GANs",
+      "authors": "Zhisheng Xiao, Karsten Kreis, Arash Vahdat",
+      "paper_url": "https://openreview.net/pdf/6570cfc5a990e77af23d8a4c6b934ac249ba4426.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_VLFhbOCz5D",
+      "paper_id": "VLFhbOCz5D",
+      "title": "Tangent Transformers for Composition,Privacy and Removal",
+      "authors": "Tian Yu Liu, Aditya Golatkar, Stefano Soatto",
+      "paper_url": "https://openreview.net/pdf?id=VLFhbOCz5D",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_erWwBoR59l",
+      "paper_id": "erWwBoR59l",
+      "title": "TD-Paint: Faster Diffusion Inpainting Through Time-Aware Pixel Conditioning",
+      "authors": "Tsiry Mayet, Pourya Shamsolmoali, Simon Bernard, Eric Granger, Romain HÉRAULT, Clement Chatelain",
+      "paper_url": "https://openreview.net/pdf?id=erWwBoR59l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bsnRUkVn63",
+      "paper_id": "bsnRUkVn63",
+      "title": "Test-time Adaptation for Image Compression with Distribution Regularization",
+      "authors": "Kecheng Chen, Pingping Zhang, Tiexin Qin, Shiqi Wang, Hong Yan, Haoliang Li",
+      "paper_url": "https://openreview.net/pdf?id=bsnRUkVn63",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vi3DjUhFVm",
+      "paper_id": "vi3DjUhFVm",
+      "title": "Test-time Alignment of Diffusion Models without Reward Over-optimization",
+      "authors": "Sunwoo Kim, Minkyu Kim, Dongmin Park",
+      "paper_url": "https://openreview.net/pdf?id=vi3DjUhFVm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SzPZK856iI",
+      "paper_id": "SzPZK856iI",
+      "title": "Text-to-Image Rectified Flow as Plug-and-Play Priors",
+      "authors": "Xiaofeng Yang, Chen Cheng, Xulei Yang, Fayao Liu, Guosheng Lin",
+      "paper_url": "https://openreview.net/pdf?id=SzPZK856iI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GK5ni7tIHp",
+      "paper_id": "GK5ni7tIHp",
+      "title": "TFG-Flow: Training-free Guidance in Multimodal Generative Flow",
+      "authors": "Haowei Lin, Shanda Li, Haotian Ye, Yiming Yang, Stefano Ermon, Yitao Liang, Jianzhu Ma",
+      "paper_url": "https://openreview.net/pdf?id=GK5ni7tIHp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DesYwmUG00",
+      "paper_id": "DesYwmUG00",
+      "title": "The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing",
+      "authors": "Shen Nie, Hanzhong Allan Guo, Cheng Lu, Yuhao Zhou, Chenyu Zheng, Chongxuan Li",
+      "paper_url": "https://openreview.net/pdf?id=DesYwmUG00",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GpdO9r73xT",
+      "paper_id": "GpdO9r73xT",
+      "title": "The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise",
+      "authors": "Yuanhao Ban, Ruochen Wang, Tianyi Zhou, Boqing Gong, Cho-Jui Hsieh, Minhao Cheng",
+      "paper_url": "https://openreview.net/pdf?id=GpdO9r73xT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_awWpHnEJDw",
+      "paper_id": "awWpHnEJDw",
+      "title": "The Hidden Language of Diffusion Models",
+      "authors": "Hila Chefer, Oran Lang, Mor Geva, Volodymyr Polosukhin, Assaf Shocher, michal Irani, Inbar Mosseri, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf?id=awWpHnEJDw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nWT6LxbuGi",
+      "paper_id": "nWT6LxbuGi",
+      "title": "Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers",
+      "authors": "Yuchen Liang, Peizhong Ju, Yingbin Liang, Ness Shroff",
+      "paper_url": "https://openreview.net/pdf?id=nWT6LxbuGi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MJNywBdSDy",
+      "paper_id": "MJNywBdSDy",
+      "title": "Think while You Generate: Discrete Diffusion with Planned Denoising",
+      "authors": "Sulin Liu, Juno Nam, Andrew Campbell, Hannes Stark, Yilun Xu, Tommi Jaakkola, Rafael Gomez-Bombarelli",
+      "paper_url": "https://openreview.net/pdf?id=MJNywBdSDy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mr2icR6dpD",
+      "paper_id": "mr2icR6dpD",
+      "title": "TIGeR: Unifying Text-to-Image Generation and Retrieval with Large Multimodal Models",
+      "authors": "Leigang Qu, Haochuan Li, Tan Wang, Wenjie Wang, Yongqi Li, Liqiang Nie, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf?id=mr2icR6dpD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Jszf4et48m",
+      "paper_id": "Jszf4et48m",
+      "title": "ToddlerDiffusion: Interactive Structured Image Generation with Cascaded Schrödinger Bridge",
+      "authors": "Eslam Mohamed BAKR, Liangbing Zhao, Vincent Tao Hu, Matthieu Cord, Patrick Perez, Mohamed Elhoseiny",
+      "paper_url": "https://openreview.net/pdf?id=Jszf4et48m",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kGvXIlIVLM",
+      "paper_id": "kGvXIlIVLM",
+      "title": "Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment",
+      "authors": "Huayu Chen, Hang Su, Peize Sun, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=kGvXIlIVLM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kJ0qp9Xdsh",
+      "paper_id": "kJ0qp9Xdsh",
+      "title": "Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints",
+      "authors": "Jian Chen, Ruiyi Zhang, Yufan Zhou, Changyou Chen",
+      "paper_url": "https://openreview.net/pdf?id=kJ0qp9Xdsh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_cFT9jWI7vT",
+      "paper_id": "cFT9jWI7vT",
+      "title": "Towards Architecture-Insensitive Untrained Network Priors for Accelerated MRI",
+      "authors": "Yilin Liu, Yunkui Pang, Jiang Li, Yong Chen, Pew-Thian Yap",
+      "paper_url": "https://openreview.net/pdf?id=cFT9jWI7vT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_1Fqg133qRaI",
+      "paper_id": "1Fqg133qRaI",
+      "title": "Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis",
+      "authors": "Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal",
+      "paper_url": "https://openreview.net/pdf/a4c6b0fcdebd9a96b6a3338b13240a2dadd71f78.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ktdETU9JBg",
+      "paper_id": "ktdETU9JBg",
+      "title": "Towards image compression with perfect realism at ultra-low bitrates",
+      "authors": "Marlene Careil, Matthew J. Muckley, Jakob Verbeek, Stéphane Lathuilière",
+      "paper_url": "https://openreview.net/pdf?id=ktdETU9JBg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_JkCJBoNUcU",
+      "paper_id": "JkCJBoNUcU",
+      "title": "Towards Realistic Data Generation for Real-World Super-Resolution",
+      "authors": "Long Peng, Wenbo Li, Renjing Pei, Jingjing Ren, Jiaqi Xu, Yang Wang, Yang Cao, Zheng-Jun Zha",
+      "paper_url": "https://openreview.net/pdf?id=JkCJBoNUcU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SKW10XJlAI",
+      "paper_id": "SKW10XJlAI",
+      "title": "Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias",
+      "authors": "Rui Lu, Runzhe Wang, Kaifeng Lyu, Xitai Jiang, Gao Huang, Mengdi Wang",
+      "paper_url": "https://openreview.net/pdf?id=SKW10XJlAI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_YCWjhGrJFD",
+      "paper_id": "YCWjhGrJFD",
+      "title": "Training Diffusion Models with Reinforcement Learning",
+      "authors": "Kevin Black, Michael Janner, Yilun Du, Ilya Kostrikov, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=YCWjhGrJFD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_39cPKijBed",
+      "paper_id": "39cPKijBed",
+      "title": "Training Unbiased Diffusion Models From Biased Dataset",
+      "authors": "Yeongmin Kim, Byeonghu Na, Minsang Park, JoonHo Jang, Dongjun Kim, Wanmo Kang, Il-chul Moon",
+      "paper_url": "https://openreview.net/pdf?id=39cPKijBed",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tfemquulED",
+      "paper_id": "tfemquulED",
+      "title": "Training-Free Diffusion Model Alignment with Sampling Demons",
+      "authors": "Po-Hung Yeh, Kuang-Huei Lee, Jun-cheng Chen",
+      "paper_url": "https://openreview.net/pdf?id=tfemquulED",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_PUIqjT4rzq7",
+      "paper_id": "PUIqjT4rzq7",
+      "title": "Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis",
+      "authors": "Weixi Feng, Xuehai He, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, Pradyumna Narayana, Sugato Basu, Xin Eric Wang, William Yang Wang",
+      "paper_url": "https://openreview.net/pdf/e1ae37e998417bc8a2fe61c08e82494f2db8b53e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_SI2hI0frk6",
+      "paper_id": "SI2hI0frk6",
+      "title": "Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model",
+      "authors": "Chunting Zhou, LILI YU, Arun Babu, Kushal Tirumala, Michihiro Yasunaga, Leonid Shamis, Jacob Kahn, Xuezhe Ma, Luke Zettlemoyer, Omer Levy",
+      "paper_url": "https://openreview.net/pdf?id=SI2hI0frk6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_HDxgaKk956l",
+      "paper_id": "HDxgaKk956l",
+      "title": "Truncated Diffusion Probabilistic Models and Diffusion-based Adversarial Auto-Encoders",
+      "authors": "Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf/32c55b679758b7a52dda4923d5a985cace1bd4f5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_fXnE4gB64o",
+      "paper_id": "fXnE4gB64o",
+      "title": "Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization",
+      "authors": "Zichen Miao, Zhengyuan Yang, Kevin Lin, Ze Wang, Zicheng Liu, Lijuan Wang, Qiang Qiu",
+      "paper_url": "https://openreview.net/pdf?id=fXnE4gB64o",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ee2c4MEx9l",
+      "paper_id": "ee2c4MEx9l",
+      "title": "TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation",
+      "authors": "Gihyun Kwon, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=ee2c4MEx9l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_riieAeQBJm",
+      "paper_id": "riieAeQBJm",
+      "title": "UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition",
+      "authors": "Xiao Lin, Yuge Huang, Jianqing Xu, Yuxi Mi, Shuigeng Zhou, Shouhong Ding",
+      "paper_url": "https://openreview.net/pdf?id=riieAeQBJm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uJqKf24HGN",
+      "paper_id": "uJqKf24HGN",
+      "title": "UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models",
+      "authors": "Fanghua Yu, Jinjin Gu, Jinfan Hu, Zheyuan Li, Chao Dong",
+      "paper_url": "https://openreview.net/pdf?id=uJqKf24HGN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8JqINxA-2a",
+      "paper_id": "8JqINxA-2a",
+      "title": "Unified Discrete Diffusion for Simultaneous Vision-Language Generation",
+      "authors": "Minghui Hu, Chuanxia Zheng, Zuopeng Yang, Tat-Jen Cham, Heliang Zheng, Chaoyue Wang, Dacheng Tao, Ponnuthurai N. Suganthan",
+      "paper_url": "https://openreview.net/pdf/d386e35cf9491b25a9017b063c051ef1d750c527.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_pzpWBbnwiJ",
+      "paper_id": "pzpWBbnwiJ",
+      "title": "Universal Guidance for Diffusion Models",
+      "authors": "Arpit Bansal, Hong-Min Chu, Avi Schwarzschild, Roni Sengupta, Micah Goldblum, Jonas Geiping, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf?id=pzpWBbnwiJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PacBhLzeGO",
+      "paper_id": "PacBhLzeGO",
+      "title": "Universal Image Restoration Pre-training via Degradation Classification",
+      "authors": "JiaKui Hu, Lujia Jin, Zhengjian Yao, Yanye Lu",
+      "paper_url": "https://openreview.net/pdf?id=PacBhLzeGO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uQBW7ELXfO",
+      "paper_id": "uQBW7ELXfO",
+      "title": "Unpaired Image-to-Image Translation via Neural Schrödinger Bridge",
+      "authors": "Beomsu Kim, Gihyun Kwon, Kwanyoung Kim, Jong Chul Ye",
+      "paper_url": "https://openreview.net/pdf?id=uQBW7ELXfO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_sjuuTm4vj0",
+      "paper_id": "sjuuTm4vj0",
+      "title": "Using latent space regression to analyze and leverage compositionality in GANs",
+      "authors": "Lucy Chai, Jonas Wulff, Phillip Isola",
+      "paper_url": "https://openreview.net/pdf/9d4e6357960a5481c3a1771887727b0277c2de37.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_pfNyExj7z2",
+      "paper_id": "pfNyExj7z2",
+      "title": "Vector-quantized Image Modeling with Improved VQGAN",
+      "authors": "Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu",
+      "paper_url": "https://openreview.net/pdf/63ce2022df1b6352ef17e394bb00cd416cf9497c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_E1N1oxd63b",
+      "paper_id": "E1N1oxd63b",
+      "title": "ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation",
+      "authors": "Tianchen Zhao, Tongcheng Fang, Haofeng Huang, Rui Wan, Widyadewi Soedarmadji, Enshu Liu, Shiyao Li, Zinan Lin, Guohao Dai, Shengen Yan, Huazhong Yang, Xuefei Ning, Yu Wang",
+      "paper_url": "https://openreview.net/pdf?id=E1N1oxd63b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rdSVgnLHQB",
+      "paper_id": "rdSVgnLHQB",
+      "title": "Warm Diffusion: Recipe for Blur-Noise Mixture Diffusion Models",
+      "authors": "Hao-Chien Hsueh, Wen-Hsiao Peng, Ching-Chun Huang",
+      "paper_url": "https://openreview.net/pdf?id=rdSVgnLHQB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BgYbk6ZmeX",
+      "paper_id": "BgYbk6ZmeX",
+      "title": "What Matters When Repurposing Diffusion Models for General Dense Perception Tasks?",
+      "authors": "Guangkai Xu, Yongtao Ge, Mingyu Liu, Chengxiang Fan, Kangyang Xie, Zhiyue Zhao, Hao Chen, Chunhua Shen",
+      "paper_url": "https://openreview.net/pdf?id=BgYbk6ZmeX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gU58d5QeGv",
+      "paper_id": "gU58d5QeGv",
+      "title": "Würstchen: An Efficient Architecture for Large-Scale Text-to-Image Diffusion Models",
+      "authors": "Pablo Pernias, Dominic Rampas, Mats Leon Richter, Christopher Pal, Marc Aubreville",
+      "paper_url": "https://openreview.net/pdf?id=gU58d5QeGv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vXrIQLzIKY",
+      "paper_id": "vXrIQLzIKY",
+      "title": "Xformer: Hybrid X-Shaped Transformer for Image Denoising",
+      "authors": "Jiale Zhang, Yulun Zhang, Jinjin Gu, Jiahua Dong, Linghe Kong, Xiaokang Yang",
+      "paper_url": "https://openreview.net/pdf?id=vXrIQLzIKY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_yvQKLaqNE6M",
+      "paper_id": "yvQKLaqNE6M",
+      "title": "You Only Need Adversarial Supervision for Semantic Image Synthesis",
+      "authors": "Edgar Schönfeld, Vadim Sushko, Dan Zhang, Juergen Gall, Bernt Schiele, Anna Khoreva",
+      "paper_url": "https://openreview.net/pdf/296a08e6901d8e9191af10b50555200a0efb3fc4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_T7bmHkwzS6",
+      "paper_id": "T7bmHkwzS6",
+      "title": "You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs",
+      "authors": "Yihong Luo, Xiaolong Chen, Xinghua Qu, Tianyang Hu, Jing Tang",
+      "paper_url": "https://openreview.net/pdf?id=T7bmHkwzS6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_mRieQgMtNTQ",
+      "paper_id": "mRieQgMtNTQ",
+      "title": "Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model",
+      "authors": "Yinhuai Wang, Jiwen Yu, Jian Zhang",
+      "paper_url": "https://openreview.net/pdf/e31de23cacc50c8cddef5c6e559520cdd3a62b0c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_085y6YPaYjP",
+      "paper_id": "085y6YPaYjP",
+      "title": "Zero-Shot Self-Supervised Learning for MRI Reconstruction",
+      "authors": "Burhaneddin Yaman, Seyed Amir Hossein Hosseini, Mehmet Akcakaya",
+      "paper_url": "https://openreview.net/pdf/72bc6e074441b3be4d8499c16c02fbae92fad23f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_MKvQH1ekeY",
+      "paper_id": "MKvQH1ekeY",
+      "title": "Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection",
+      "authors": "Bai LiChen, Shitong Shao, zikai zhou, Zipeng Qi, zhiqiang xu, Haoyi Xiong, Zeke Xie",
+      "paper_url": "https://openreview.net/pdf?id=MKvQH1ekeY",
+      "venue": "iclr25"
+    }
+  ]
+}

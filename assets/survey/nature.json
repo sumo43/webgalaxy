@@ -1,0 +1,180 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Life Sciences & Biomedicine",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Immuno-oncology & Metabolic Signalling",
+                    "what_is_covered": "Immune mechanisms in cancer and metabolic cues that modulate them",
+                    "typical_examples": "T-cell immunity; tumour microenvironment; metabolic signalling",
+                    "cluster": "0"
+                },
+                {
+                    "id": "1.2",
+                    "name": "Cancer Genomics & Epigenetics",
+                    "what_is_covered": "Genetic and epigenetic alterations driving oncogenesis and therapy response",
+                    "typical_examples": "Cancer; DNA repair; epigenetics",
+                    "cluster": "1"
+                },
+                {
+                    "id": "1.3",
+                    "name": "Infectious Disease & Microbiome Interactions",
+                    "what_is_covered": "Host–pathogen dynamics and microbiome ecology shaping antimicrobial strategies",
+                    "typical_examples": "Host–pathogen interactions; antimicrobial therapeutics; microbiome dynamics",
+                    "cluster": "2"
+                },
+                {
+                    "id": "1.4",
+                    "name": "Neuro-immune Metabolism & Aging",
+                    "what_is_covered": "Crosstalk between immune system, metabolism and brain across aging",
+                    "typical_examples": "Neuroimmunology; metabolism; aging",
+                    "cluster": "3"
+                },
+                {
+                    "id": "1.5",
+                    "name": "Genome Editing & Microbial/Plant Immunity",
+                    "what_is_covered": "Engineering genomes and decoding microbial & plant defence mechanisms",
+                    "typical_examples": "CRISPR-based genome editing; bacterial anti-phage defence; plant immune signalling",
+                    "cluster": "4"
+                },
+                {
+                    "id": "1.6",
+                    "name": "Protein & RNA Engineering",
+                    "what_is_covered": "Designing proteins and regulating chromatin/RNA to control cell function",
+                    "typical_examples": "Protein design; chromatin regulation; RNA processing",
+                    "cluster": "5"
+                },
+                {
+                    "id": "1.7",
+                    "name": "Neural Epigenetics & Disorders",
+                    "what_is_covered": "Epigenetic regulation of neural plasticity and neuropsychiatric disease",
+                    "typical_examples": "Neural circuit plasticity; epigenetic regulation; neuropsychiatric disorders",
+                    "cluster": "6"
+                },
+                {
+                    "id": "1.8",
+                    "name": "Population & Single-Cell Genomics",
+                    "what_is_covered": "Sequencing-based mapping of genetic variation at population & cellular resolution",
+                    "typical_examples": "Genome sequencing; population genetics; single-cell transcriptomics",
+                    "cluster": "7"
+                },
+                {
+                    "id": "1.9",
+                    "name": "Connectomics & Behaviour",
+                    "what_is_covered": "Structural mapping of neural circuits to explain behaviour",
+                    "typical_examples": "Connectomics; neural circuit mapping; behaviour",
+                    "cluster": "8"
+                },
+                {
+                    "id": "1.10",
+                    "name": "Evolutionary Genomics & Paleobiology",
+                    "what_is_covered": "Reconstructing evolutionary history using ancient DNA and fossils",
+                    "typical_examples": "Paleogenomics; prehistoric migrations; fossil record",
+                    "cluster": "9"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Chemistry & Materials Science",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Catalysis & Green Synthesis",
+                    "what_is_covered": "Catalytic and synthetic routes for sustainable chemical production",
+                    "typical_examples": "Advanced catalysis; sustainable chemistry; synthetic methodologies",
+                    "cluster": "10"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Functional Materials for Energy & Electronics",
+                    "what_is_covered": "Multifunctional materials for energy storage and flexible devices",
+                    "typical_examples": "Advanced materials; energy storage; flexible electronics",
+                    "cluster": "12"
+                },
+                {
+                    "id": "2.3",
+                    "name": "Perovskite Solar Technologies",
+                    "what_is_covered": "High-efficiency perovskite and tandem photovoltaics with interface engineering",
+                    "typical_examples": "Perovskite photovoltaics; tandem solar cells; interface passivation",
+                    "cluster": "13"
+                },
+                {
+                    "id": "2.4",
+                    "name": "Integrated Photonics & Optoelectronic Integration",
+                    "what_is_covered": "Integration of perovskites and 2D semiconductors into photonic platforms",
+                    "typical_examples": "Integrated photonics; perovskite optoelectronics; 2D semiconductor integration",
+                    "cluster": "14"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Physics & Quantum Technology",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Quantum Materials",
+                    "what_is_covered": "Emergent quantum phases in topological and moiré systems, incl. unconventional superconductivity",
+                    "typical_examples": "Topological quantum matter; moiré heterostructures; unconventional superconductivity",
+                    "cluster": "16"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Quantum Computing Hardware & Networks",
+                    "what_is_covered": "Scalable, fault-tolerant quantum processors and quantum communication links",
+                    "typical_examples": "Fault-tolerant quantum computing; scalable qubit hardware; quantum networking",
+                    "cluster": "17"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Earth & Environmental Science",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Climate Change & Ecosystem Impacts",
+                    "what_is_covered": "How climate change alters ecosystems and the global environment",
+                    "typical_examples": "Climate-change; ecosystem-impacts; global-environment",
+                    "cluster": "15"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Astronomy & Astrophysics",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Exoplanetary Science with JWST",
+                    "what_is_covered": "Characterising exoplanet atmospheres and interiors using JWST observations",
+                    "typical_examples": "Exoplanet atmospheres; planetary interiors; JWST observations",
+                    "cluster": "18"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Early-Universe & Black-Hole Astronomy",
+                    "what_is_covered": "Galaxy formation and supermassive black holes in the early Universe probed with JWST",
+                    "typical_examples": "JWST; early-Universe galaxies; supermassive black holes",
+                    "cluster": "19"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Computer Science & Artificial Intelligence",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Foundation & Trustworthy AI",
+                    "what_is_covered": "Large foundation models, applied AI and methods ensuring fairness & reliability",
+                    "typical_examples": "Foundation models; applied artificial intelligence; fairness and reliability",
+                    "cluster": "11"
+                }
+            ]
+        }
+    ]
+}

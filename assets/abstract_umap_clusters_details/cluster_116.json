@@ -1,0 +1,1421 @@
+{
+  "cluster_id": 116,
+  "papers": [
+    {
+      "id": "acl23_880",
+      "paper_id": "",
+      "title": "A Comparative Study on the Impact of Model Compression Techniques on Fairness in Language Models",
+      "authors": "Krithika Ramesh, Arnav Chavan, Shrey Pandit, Sunayana Sitaram",
+      "paper_url": "https://aclanthology.org/2023.acl-long.878.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_469",
+      "paper_id": "",
+      "title": "A Statutory Article Retrieval Dataset in French",
+      "authors": "Antoine Louis, Gerasimos Spanakis",
+      "paper_url": "https://aclanthology.org/2022.acl-long.468.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_150",
+      "paper_id": "",
+      "title": "A Survey of Race, Racism, and Anti-Racism in NLP",
+      "authors": "Anjalie Field, Su Lin Blodgett, Zeerak Waseem, Yulia Tsvetkov",
+      "paper_url": "https://aclanthology.org/2021.acl-long.149.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_189",
+      "paper_id": "",
+      "title": "A Survey on Zero Pronoun Translation",
+      "authors": "Longyue Wang, Siyou Liu, Mingzhou Xu, Linfeng Song, Shuming Shi, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.187.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1207",
+      "paper_id": "",
+      "title": "ACORD: An Expert-Annotated Retrieval Dataset for Legal Contract Drafting",
+      "authors": "Steven H Wang, Maksim Zubkov, Kexin Fan, Sarah Harrell, Yuyang Sun, Wei Chen, Andreas Plesner, Roger Wattenhofer",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1206.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_560",
+      "paper_id": "",
+      "title": "AGB-DE: A Corpus for the Automated Legal Assessment of Clauses in German Consumer Contracts",
+      "authors": "Daniel Braun, Florian Matthes",
+      "paper_url": "https://aclanthology.org/2024.acl-long.559.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_447",
+      "paper_id": "",
+      "title": "AIMSCheck: Leveraging LLMs for AI-Assisted Review of Modern Slavery Statements Across Jurisdictions",
+      "authors": "Adriana Eufrosina Bora, Akshatha Arodi, Duoyi Zhang, Jordan Bannister, Mirko Bronzi, Arsene Fansi Tchango, Md Abul Bashar, Richi Nayak, Kerrie Mengersen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.446.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_100",
+      "paper_id": "",
+      "title": "Align Voting Behavior with Public Statements for Legislator Representation Learning",
+      "authors": "Xinyi Mou, Zhongyu Wei, Lei Chen, Shangyi Ning, Yancheng He, Changjian Jiang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.99.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1079",
+      "paper_id": "",
+      "title": "Aligned but Blind: Alignment Increases Implicit Bias by Reducing Awareness of Race",
+      "authors": "Lihao Sun, Chengzhi Mao, Valentin Hofmann, Xuechunzi Bai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1078.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1002",
+      "paper_id": "",
+      "title": "Amplifying Trans and Nonbinary Voices: A Community-Centred Harm Taxonomy for LLMs",
+      "authors": "Eddie L. Ungless, Sunipa Dev, Cynthia L. Bennett, Rebecca Gulotta, Jasmijn Bastings, Remi Denton",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1001.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_878",
+      "paper_id": "",
+      "title": "An Empirical Analysis of Parameter-Efficient Methods for Debiasing Pre-Trained Language Models",
+      "authors": "Zhongbin Xie, Thomas Lukasiewicz",
+      "paper_url": "https://aclanthology.org/2023.acl-long.876.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_133",
+      "paper_id": "",
+      "title": "An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models",
+      "authors": "Nicholas Meade, Elinor Poole-Dayan, Siva Reddy",
+      "paper_url": "https://aclanthology.org/2022.acl-long.132.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_416",
+      "paper_id": "",
+      "title": "Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution",
+      "authors": "Flor Miriam Plaza-del-Arco, Amanda Cercas Curry, Alba Curry, Gavin Abercrombie, Dirk Hovy",
+      "paper_url": "https://aclanthology.org/2024.acl-long.415.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_575",
+      "paper_id": "",
+      "title": "ARAIDA: Analogical Reasoning-Augmented Interactive Data Annotation",
+      "authors": "Chen Huang, Yiping Jin, Ilija Ilievski, Wenqiang Lei, Jiancheng Lv",
+      "paper_url": "https://aclanthology.org/2024.acl-long.574.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_361",
+      "paper_id": "",
+      "title": "Are Fairy Tales Fair? Analyzing Gender Bias in Temporal Narrative Event Chains of Children’s Fairy Tales",
+      "authors": "Paulina Toro Isaza, Guangxuan Xu, Toye Oloko, Yufang Hou, Nanyun Peng, Dakuo Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.359.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1451",
+      "paper_id": "",
+      "title": "Assessing Reliability and Political Bias In LLMs’ Judgements of Formal and Material Inferences With Partisan Conclusions",
+      "authors": "Reto Gubelmann, Ghassen Karray",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1450.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1282",
+      "paper_id": "",
+      "title": "Attention Speaks Volumes: Localizing and Mitigating Bias in Language Models",
+      "authors": "Rishabh Adiga, Besmira Nushi, Varun Chandrasekaran",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1281.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_73",
+      "paper_id": "",
+      "title": "Auto-Debias: Debiasing Masked Language Models with Automated Biased Prompts",
+      "authors": "Yue Guo, Yi Yang, Ahmed Abbasi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.72.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_205",
+      "paper_id": "",
+      "title": "Automating Legal Interpretation with LLMs: Retrieval, Generation, and Evaluation",
+      "authors": "Kangcheng Luo, Quzhe Huang, Cong Jiang, Yansong Feng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.204.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_149",
+      "paper_id": "",
+      "title": "Bad Seeds: Evaluating Lexical Methods for Bias Measurement",
+      "authors": "Maria Antoniak, David Mimno",
+      "paper_url": "https://aclanthology.org/2021.acl-long.148.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_61",
+      "paper_id": "",
+      "title": "Being Right for Whose Right Reasons?",
+      "authors": "Terne Sasha Thorn Jakobsen, Laura Cabello, Anders Søgaard",
+      "paper_url": "https://aclanthology.org/2023.acl-long.59.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_105",
+      "paper_id": "",
+      "title": "Beyond Demographics: Fine-tuning Large Language Models to Predict Individuals’ Subjective Text Perceptions",
+      "authors": "Matthias Orlikowski, Jiaxin Pei, Paul Röttger, Philipp Cimiano, David Jurgens, Dirk Hovy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.104.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1364",
+      "paper_id": "",
+      "title": "Beyond Negative Stereotypes – Non-Negative Abusive Utterances about Identity Groups and Their Semantic Variants",
+      "authors": "Tina Lommel, Elisabeth Eder, Josef Ruppenhofer, Michael Wiegand",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1363.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_8",
+      "paper_id": "",
+      "title": "Bias in Language Models: Beyond Trick Tests and Towards RUTEd Evaluation",
+      "authors": "Kristian Lum, Jacy Reese Anthis, Kevin Robinson, Chirag Nagpal, Alexander Nicholas D’Amour",
+      "paper_url": "https://aclanthology.org/2025.acl-long.7.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_492",
+      "paper_id": "",
+      "title": "BLIND: Bias Removal With No Demographics",
+      "authors": "Hadas Orgad, Yonatan Belinkov",
+      "paper_url": "https://aclanthology.org/2023.acl-long.490.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_320",
+      "paper_id": "",
+      "title": "Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy?",
+      "authors": "Abhilasha Ravichander, Alan W Black, Thomas Norton, Shomir Wilson, Norman Sadeh",
+      "paper_url": "https://aclanthology.org/2021.acl-long.319.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_402",
+      "paper_id": "",
+      "title": "Building a Long Text Privacy Policy Corpus with Multi-Class Labels",
+      "authors": "Florencia Marotta-Wurgler, David Stein",
+      "paper_url": "https://aclanthology.org/2025.acl-long.401.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_579",
+      "paper_id": "",
+      "title": "CaLMQA: Exploring culturally specific long-form question answering across 23 languages",
+      "authors": "Shane Arora, Marzena Karpinska, Hung-Ting Chen, Ipsita Bhattacharjee, Mohit Iyyer, Eunsol Choi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.578.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_399",
+      "paper_id": "",
+      "title": "Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View",
+      "authors": "Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu, Le Sun",
+      "paper_url": "https://aclanthology.org/2022.acl-long.398.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_234",
+      "paper_id": "",
+      "title": "Causal-Debias: Unifying Debiasing in Pretrained Language Models and Fine-tuning via Causal Invariant Learning",
+      "authors": "Fan Zhou, Yuzhou Mao, Liu Yu, Yi Yang, Ting Zhong",
+      "paper_url": "https://aclanthology.org/2023.acl-long.232.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_779",
+      "paper_id": "",
+      "title": "Causal-Guided Active Learning for Debiasing Large Language Models",
+      "authors": "Zhouhao Sun, Li Du, Xiao Ding, Yixuan Ma, Yang Zhao, Kaitao Qiu, Ting Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.778.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_483",
+      "paper_id": "",
+      "title": "Challenges and Strategies in Cross-Cultural NLP",
+      "authors": "Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders Søgaard",
+      "paper_url": "https://aclanthology.org/2022.acl-long.482.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_759",
+      "paper_id": "",
+      "title": "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models",
+      "authors": "Jiaxu Zhao, Meng Fang, Zijing Shi, Yitong Li, Ling Chen, Mykola Pechenizkiy",
+      "paper_url": "https://aclanthology.org/2023.acl-long.757.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_167",
+      "paper_id": "",
+      "title": "ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks",
+      "authors": "Santosh T.y.s.s, Tuan-Quang Vuong, Matthias Grabmair",
+      "paper_url": "https://aclanthology.org/2024.acl-long.166.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_683",
+      "paper_id": "",
+      "title": "Classist Tools: Social Class Correlates with Performance in NLP",
+      "authors": "Amanda Cercas Curry, Giuseppe Attanasio, Zeerak Talat, Dirk Hovy",
+      "paper_url": "https://aclanthology.org/2024.acl-long.682.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_423",
+      "paper_id": "",
+      "title": "Counterfactual Inference for Text Classification Debiasing",
+      "authors": "Chen Qian, Fuli Feng, Lijie Wen, Chunping Ma, Pengjun Xie",
+      "paper_url": "https://aclanthology.org/2021.acl-long.422.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_549",
+      "paper_id": "",
+      "title": "Cross-replication Reliability - An Empirical Approach to Interpreting Inter-rater Reliability",
+      "authors": "Ka Wong, Praveen Paritosh, Lora Aroyo",
+      "paper_url": "https://aclanthology.org/2021.acl-long.548.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_917",
+      "paper_id": "",
+      "title": "Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia",
+      "authors": "Samuel Cahyawijaya, Holy Lovenia, Joel Ruben Antony Moniz, Tack Hwa Wong, Mohammad Rifqi Farhansyah, Thant Thiri Maung, Frederikus Hudi, David Anugraha, Muhammad Ravi Shulthan Habibi, Muhammad Reza Qorib, Amit Agarwal, Joseph Marvin Imperial, Hitesh Laxmichand Patel, Vicky Feliren, Bahrul Ilmi Nasution, Manuel Antonio Rufino, Genta Indra Winata, Rian Adam Rajagede, Carlos Rafael Catalan, Mohamed Fazli Mohamed Imam, Priyaranjan Pattnayak, Salsabila Zahirah Pranida, Kevin Pratama, Yeshil Bangera, Adisai Na-Thalang, Patricia Nicole Monderin, Yueqi Song, Christian Simon, Lynnette Hui Xian Ng, Richardy Lobo Sapan, Taki Hasan Rafi, Bin Wang, Supryadi, Kanyakorn Veerakanjana, Piyalitt Ittichaiwong, Matthew Theodore Roque, Karissa Vincentio, Takdanai Kreangphet, Phakphum Artkaew, Kadek Hendrawan Palgunadi, Yanzhi Yu, Rochana Prih Hastuti, William Nixon, Mithil Bangera, Adrian Xuan Wei Lim, Aye Hninn Khine, Hanif Muhammad Zhafran, Teddy Ferdinan, Audra Aurora Izzani, Ayushman Singh, Evan Evan, Jauza Akbar Krito, Michael Anugraha, Fenal Ashokbhai Ilasariya, Haochen Li, John Amadeo Daniswara, Filbert Aurelian Tjiaranata, Eryawan Presma Yulianrifat, Can Udomcharoenchaikit, Fadil Risdian Ansori, Mahardika Krisna Ihsani, Giang Nguyen, Anab Maulana Barik, Dan John Velasco, Rifo Ahmad Genadi, Saptarshi Saha, Chengwei Wei, Isaiah Edri W. Flores, Kenneth Chen Ko Han, Anjela Gail D. Santos, Wan Shen Lim, Kaung Si Phyo, Tim Santos, Meisyarah Dwiastuti, Jiayun Luo, Jan Christian Blaise Cruz, Ming Shan Hee, Ikhlasul Akmal Hanif, M.Alif Al Hakim, Muhammad Rizky Sya’ban, Kun Kerdthaisong, Lester James Validad Miranda, Fajri Koto, Tirana Noor Fatyanosa, Alham Fikri Aji, Jostin Jerico Rosal, Jun Kevin, Robert Wijaya, Onno P. Kampman, Ruochen Zhang, Börje F. Karlsson, Peerat Limkonchotiwat",
+      "paper_url": "https://aclanthology.org/2025.acl-long.916.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1093",
+      "paper_id": "",
+      "title": "CulFiT: A Fine-grained Cultural-aware LLM Training Paradigm via Multilingual Critique Data Synthesis",
+      "authors": "Ruixiang Feng, Shen Gao, Xiuying Chen, Lisi Chen, Shuo Shang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1092.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_157",
+      "paper_id": "",
+      "title": "Cultural Learning-Based Culture Adaptation of Language Models",
+      "authors": "Chen Cecilia Liu, Anna Korhonen, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2025.acl-long.156.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1248",
+      "paper_id": "",
+      "title": "CulturalBench: A Robust, Diverse and Challenging Benchmark for Measuring LMs’ Cultural Knowledge Through Human-AI Red-Teaming",
+      "authors": "Yu Ying Chiu, Liwei Jiang, Bill Yuchen Lin, Chan Young Park, Shuyue Stella Li, Sahithya Ravi, Mehar Bhatia, Maria Antoniak, Yulia Tsvetkov, Vered Shwartz, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1247.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1257",
+      "paper_id": "",
+      "title": "Culture is Not Trivia: Sociocultural Theory for Cultural NLP",
+      "authors": "Naitian Zhou, David Bamman, Isaac L. Bleaman",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1256.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_417",
+      "paper_id": "",
+      "title": "DarkBERT: A Language Model for the Dark Side of the Internet",
+      "authors": "Youngjin Jin, Eugene Jang, Jian Cui, Jin-Woo Chung, Yongjae Lee, Seungwon Shin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.415.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_718",
+      "paper_id": "",
+      "title": "Debiasing the Fine-Grained Classification Task in LLMs with Bias-Aware PEFT",
+      "authors": "Daiying Zhao, Xinyu Yang, Hang Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.717.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_16",
+      "paper_id": "",
+      "title": "Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models",
+      "authors": "Seunguk Yu, Juhwan Choi, YoungBin Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.15.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1504",
+      "paper_id": "",
+      "title": "Diffusion Models Through a Global Lens: Are They Culturally Inclusive?",
+      "authors": "Zahra Bayramli, Ayhan Suleymanzade, Na Min An, Huzama Ahmad, Eunsu Kim, Junyeong Park, James Thorne, Alice Oh",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1503.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1083",
+      "paper_id": "",
+      "title": "Disentangling Language and Culture for Evaluating Multilingual Large Language Models",
+      "authors": "Jiahao Ying, Wei Tang, Yiran Zhao, Yixin Cao, Yu Rong, Wenxuan Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1082.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1131",
+      "paper_id": "",
+      "title": "Does the Emotional Understanding of LVLMs Vary Under High-Stress Environments and Across Different Demographic Attributes?",
+      "authors": "Jaewook Lee, Yeajin Jang, Oh-Woog Kwon, Harksoo Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1130.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1061",
+      "paper_id": "",
+      "title": "Don’t Erase, Inform! Detecting and Contextualizing Harmful Language in Cultural Heritage Collections",
+      "authors": "Orfeas Menis Mastromichalakis, Jason Liartis, Kristina Rose, Antoine Isaac, Giorgos Stamou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1060.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_279",
+      "paper_id": "",
+      "title": "Estimating Agreement by Chance for Sequence Annotation",
+      "authors": "Diya Li, Carolyn Rose, Ao Yuan, Chunxiao Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.278.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_574",
+      "paper_id": "",
+      "title": "Ethics Sheets for AI Tasks",
+      "authors": "Saif Mohammad",
+      "paper_url": "https://aclanthology.org/2022.acl-long.573.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1067",
+      "paper_id": "",
+      "title": "Evaluating Visual and Cultural Interpretation: The K-Viscuit Benchmark with Human-VLM Collaboration",
+      "authors": "ChaeHun Park, Yujin Baek, Jaeseok Kim, Yu-Jung Heo, Du-Seong Chang, Jaegul Choo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1066.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_248",
+      "paper_id": "",
+      "title": "Exploiting Biased Models to De-bias Text: A Gender-Fair Rewriting Model",
+      "authors": "Chantal Amrhein, Florian Schottmann, Rico Sennrich, Samuel Läubli",
+      "paper_url": "https://aclanthology.org/2023.acl-long.246.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_214",
+      "paper_id": "",
+      "title": "Factoring Statutory Reasoning as Language Understanding Challenges",
+      "authors": "Nils Holzenberger, Benjamin Van Durme",
+      "paper_url": "https://aclanthology.org/2021.acl-long.213.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_542",
+      "paper_id": "",
+      "title": "Fair and Argumentative Language Modeling for Computational Argumentation",
+      "authors": "Carolin Holtermann, Anne Lauscher, Simone Ponzetto",
+      "paper_url": "https://aclanthology.org/2022.acl-long.541.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1466",
+      "paper_id": "",
+      "title": "FairI Tales: Evaluation of Fairness in Indian Contexts with a Focus on Bias and Stereotypes",
+      "authors": "Janki Atul Nawale, Mohammed Safi Ur Rahman Khan, Janani D, Mansi Gupta, Danish Pruthi, Mitesh M Khapra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1465.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_302",
+      "paper_id": "",
+      "title": "FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing",
+      "authors": "Ilias Chalkidis, Tommaso Pasini, Sheng Zhang, Letizia Tomada, Sebastian Schwemer, Anders Søgaard",
+      "paper_url": "https://aclanthology.org/2022.acl-long.301.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1189",
+      "paper_id": "",
+      "title": "Fairness Beyond Performance: Revealing Reliability Disparities Across Groups in Legal NLP",
+      "authors": "Santosh T.y.s.s, Irtiza Chowdhury",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1188.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_342",
+      "paper_id": "",
+      "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+      "authors": "Angelina Wang, Michelle Phan, Daniel E. Ho, Sanmi Koyejo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.341.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_345",
+      "paper_id": "",
+      "title": "FairPrism: Evaluating Fairness-Related Harms in Text Generation",
+      "authors": "Eve Fleisig, Aubrie Amstutz, Chad Atalla, Su Lin Blodgett, Hal Daumé III, Alexandra Olteanu, Emily Sheng, Dan Vann, Hanna Wallach",
+      "paper_url": "https://aclanthology.org/2023.acl-long.343.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_195",
+      "paper_id": "",
+      "title": "FEDLEGAL: The First Real-World Federated Learning Benchmark for Legal NLP",
+      "authors": "Zhuo Zhang, Xiangjing Hu, Jingyuan Zhang, Yating Zhang, Hui Wang, Lizhen Qu, Zenglin Xu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.193.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_584",
+      "paper_id": "",
+      "title": "French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English",
+      "authors": "Aurélie Névéol, Yoann Dupont, Julien Bezançon, Karën Fort",
+      "paper_url": "https://aclanthology.org/2022.acl-long.583.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_847",
+      "paper_id": "",
+      "title": "From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models",
+      "authors": "Julia Mendelsohn, Ronan Le Bras, Yejin Choi, Maarten Sap",
+      "paper_url": "https://aclanthology.org/2023.acl-long.845.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_658",
+      "paper_id": "",
+      "title": "From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models",
+      "authors": "Shangbin Feng, Chan Young Park, Yuhan Liu, Yulia Tsvetkov",
+      "paper_url": "https://aclanthology.org/2023.acl-long.656.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_129",
+      "paper_id": "",
+      "title": "Gender Inclusivity Fairness Index (GIFI): A Multilevel Framework for Evaluating Gender Diversity in Large Language Models",
+      "authors": "Zhengyang Shan, Emily Diana, Jiawei Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.128.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_554",
+      "paper_id": "",
+      "title": "GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models",
+      "authors": "Tao Zhang, Ziqian Zeng, YuxiangXiao YuxiangXiao, Huiping Zhuang, Cen Chen, James R. Foulds, Shimei Pan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.553.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_920",
+      "paper_id": "",
+      "title": "Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation",
+      "authors": "Shivalika Singh, Angelika Romanou, Clémentine Fourrier, David Ifeoluwa Adelani, Jian Gang Ngui, Daniel Vila-Suero, Peerat Limkonchotiwat, Kelly Marchisio, Wei Qi Leong, Yosephine Susanto, Raymond Ng, Shayne Longpre, Sebastian Ruder, Wei-Yin Ko, Antoine Bosselut, Alice Oh, Andre Martins, Leshem Choshen, Daphne Ippolito, Enzo Ferrante, Marzieh Fadaee, Beyza Ermis, Sara Hooker",
+      "paper_url": "https://aclanthology.org/2025.acl-long.919.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_761",
+      "paper_id": "",
+      "title": "GPT is Not an Annotator: The Necessity of Human Annotation in Fairness Benchmark Construction",
+      "authors": "Virginia Felkner, Jennifer Thompson, Jonathan May",
+      "paper_url": "https://aclanthology.org/2024.acl-long.760.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_863",
+      "paper_id": "",
+      "title": "Having Beer after Prayer? Measuring Cultural Bias in Large Language Models",
+      "authors": "Tarek Naous, Michael J Ryan, Alan Ritter, Wei Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.862.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_168",
+      "paper_id": "",
+      "title": "Helping a Friend or Supporting a Cause? Disentangling Active and Passive Cosponsorship in the U.S. Congress",
+      "authors": "Giuseppe Russo, Christoph Gote, Laurence Brandenberger, Sophia Schlosser, Frank Schweitzer",
+      "paper_url": "https://aclanthology.org/2023.acl-long.166.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_201",
+      "paper_id": "",
+      "title": "Identifying Chinese Opinion Expressions with Extremely-Noisy Crowdsourcing Annotations",
+      "authors": "Xin Zhang, Guangwei Xu, Yueheng Sun, Meishan Zhang, Xiaobin Wang, Min Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.200.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_532",
+      "paper_id": "",
+      "title": "Ideology Prediction from Scarce and Biased Supervision: Learn to Disregard the “What” and Focus on the “How”!",
+      "authors": "Chen Chen, Dylan Walker, Venkatesh Saligrama",
+      "paper_url": "https://aclanthology.org/2023.acl-long.530.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_619",
+      "paper_id": "",
+      "title": "IL-TUR: Benchmark for Indian Legal Text Understanding and Reasoning",
+      "authors": "Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, Ashutosh Modi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.618.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_314",
+      "paper_id": "",
+      "title": "ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation",
+      "authors": "Vijit Malik, Rishabh Sanjay, Shubham Kumar Nigam, Kripabandhu Ghosh, Shouvik Kumar Guha, Arnab Bhattacharya, Ashutosh Modi",
+      "paper_url": "https://aclanthology.org/2021.acl-long.313.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_651",
+      "paper_id": "",
+      "title": "Inducing lexicons of in-group language with socio-temporal context",
+      "authors": "Christine de Kock",
+      "paper_url": "https://aclanthology.org/2025.acl-long.650.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_459",
+      "paper_id": "",
+      "title": "Instance-Selection-Inspired Undersampling Strategies for Bias Reduction in Small and Large Language Models for Binary Text Classification",
+      "authors": "Guilherme Fonseca, Washington Cunha, Gabriel Prenassi, Marcos André Gonçalves, Leonardo Chaves Dutra Da Rocha",
+      "paper_url": "https://aclanthology.org/2025.acl-long.458.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_341",
+      "paper_id": "",
+      "title": "Intent Classification and Slot Filling for Privacy Policies",
+      "authors": "Wasi Ahmad, Jianfeng Chi, Tu Le, Thomas Norton, Yuan Tian, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.340.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_151",
+      "paper_id": "",
+      "title": "Intrinsic Bias Metrics Do Not Correlate with Application Bias",
+      "authors": "Seraphina Goldfarb-Tarrant, Rebecca Marchant, Ricardo Muñoz Sánchez, Mugdha Pandya, Adam Lopez",
+      "paper_url": "https://aclanthology.org/2021.acl-long.150.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_672",
+      "paper_id": "",
+      "title": "Investigating Cultural Alignment of Large Language Models",
+      "authors": "Badr AlKhamissi, Muhammad ElNokrashy, Mai Alkhamissi, Mona Diab",
+      "paper_url": "https://aclanthology.org/2024.acl-long.671.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_244",
+      "paper_id": "",
+      "title": "Investigating Failures of Automatic Translationin the Case of Unambiguous Gender",
+      "authors": "Adithya Renduchintala, Adina Williams",
+      "paper_url": "https://aclanthology.org/2022.acl-long.243.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_2",
+      "paper_id": "",
+      "title": "Investigating label suggestions for opinion mining in German Covid-19 social media",
+      "authors": "Tilman Beck, Ji-Ung Lee, Christina Viehmann, Marcus Maurer, Oliver Quiring, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2021.acl-long.1.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1040",
+      "paper_id": "",
+      "title": "K/DA: Automated Data Generation Pipeline for Detoxifying Implicitly Offensive Language in Korean",
+      "authors": "Minkyeong Jeon, Hyemin Jeong, Yerang Kim, Jiyoung Kim, Jae Hyeon Cho, Byung-Jun Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1039.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_28",
+      "paper_id": "",
+      "title": "Knowledge of cultural moral norms in large language models",
+      "authors": "Aida Ramezani, Yang Xu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.26.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_188",
+      "paper_id": "",
+      "title": "Learning Disentangled Textual Representations via Statistical Measures of Similarity",
+      "authors": "Pierre Colombo, Guillaume Staerman, Nathan Noiry, Pablo Piantanida",
+      "paper_url": "https://aclanthology.org/2022.acl-long.187.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_165",
+      "paper_id": "",
+      "title": "Learning to Generate Equitable Text in Dialogue from Biased Training Data",
+      "authors": "Anthony Sicilia, Malihe Alikhani",
+      "paper_url": "https://aclanthology.org/2023.acl-long.163.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_351",
+      "paper_id": "",
+      "title": "Legal Case Retrieval: A Survey of the State of the Art",
+      "authors": "Yi Feng, Chuanyi Li, Vincent Ng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.350.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_49",
+      "paper_id": "",
+      "title": "Legal Judgment Prediction via Event Extraction with Constraints",
+      "authors": "Yi Feng, Chuanyi Li, Vincent Ng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.48.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_362",
+      "paper_id": "",
+      "title": "LegalReasoner: Step-wised Verification-Correction for Legal Judgment Reasoning",
+      "authors": "Weijie Shi, Han Zhu, Jiaming Ji, Mengze Li, Jipeng Zhang, Ruiyuan Zhang, Jia Zhu, Jiajie Xu, Sirui Han, Yike Guo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.361.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_533",
+      "paper_id": "",
+      "title": "LePaRD: A Large-Scale Dataset of Judicial Citations to Precedent",
+      "authors": "Robert Mahari, Dominik Stammbach, Elliott Ash, Alex Pentland",
+      "paper_url": "https://aclanthology.org/2024.acl-long.532.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_684",
+      "paper_id": "",
+      "title": "LexCLiPR: Cross-Lingual Paragraph Retrieval from Legal Judgments",
+      "authors": "Rohit Upadhya, Santosh T.y.s.s",
+      "paper_url": "https://aclanthology.org/2025.acl-long.683.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_867",
+      "paper_id": "",
+      "title": "LeXFiles and LegalLAMA: Facilitating English Multinational Legal Language Model Development",
+      "authors": "Ilias Chalkidis, Nicolas Garneau, Catalina Goanta, Daniel Katz, Anders Søgaard",
+      "paper_url": "https://aclanthology.org/2023.acl-long.865.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_298",
+      "paper_id": "",
+      "title": "LexGLUE: A Benchmark Dataset for Legal Language Understanding in English",
+      "authors": "Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Katz, Nikolaos Aletras",
+      "paper_url": "https://aclanthology.org/2022.acl-long.297.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_330",
+      "paper_id": "",
+      "title": "LexTempus: Enhancing Temporal Generalizability of Legal Language Models Through Dynamic Mixture of Experts",
+      "authors": "Santosh T.y.s.s, Tuan-Quang Vuong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.329.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_525",
+      "paper_id": "",
+      "title": "Log-linear Guardedness and its Implications",
+      "authors": "Shauli Ravfogel, Yoav Goldberg, Ryan Cotterell",
+      "paper_url": "https://aclanthology.org/2023.acl-long.523.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_285",
+      "paper_id": "",
+      "title": "Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats",
+      "authors": "Kuleen Sasse, Carlos Alejandro Aguirre, Isabel Cachola, Sharon Levy, Mark Dredze",
+      "paper_url": "https://aclanthology.org/2025.acl-long.284.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_86",
+      "paper_id": "",
+      "title": "Marked Personas: Using Natural Language Prompts to Measure Stereotypes in Language Models",
+      "authors": "Myra Cheng, Esin Durmus, Dan Jurafsky",
+      "paper_url": "https://aclanthology.org/2023.acl-long.84.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_185",
+      "paper_id": "",
+      "title": "Measuring and Mitigating Name Biases in Neural Machine Translation",
+      "authors": "Jun Wang, Benjamin Rubinstein, Trevor Cohn",
+      "paper_url": "https://aclanthology.org/2022.acl-long.184.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_402",
+      "paper_id": "",
+      "title": "Measuring Fairness of Text Classifiers via Prediction Sensitivity",
+      "authors": "Satyapriya Krishna, Rahul Gupta, Apurv Verma, Jwala Dhamala, Yada Pruksachatkun, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.401.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_601",
+      "paper_id": "",
+      "title": "Measuring Political Bias in Large Language Models: What Is Said and How It Is Said",
+      "authors": "Yejin Bang, Delong Chen, Nayeon Lee, Pascale Fung",
+      "paper_url": "https://aclanthology.org/2024.acl-long.600.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_69",
+      "paper_id": "",
+      "title": "Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality",
+      "authors": "Rahul Zalkikar, Kanchan Chandra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.68.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1219",
+      "paper_id": "",
+      "title": "Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures",
+      "authors": "Akhila Yerukola, Saadia Gabriel, Nanyun Peng, Maarten Sap",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1218.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1117",
+      "paper_id": "",
+      "title": "Mining the uncertainty patterns of humans and models in the annotation of moral foundations and human values",
+      "authors": "Neele Falk, Gabriella Lapesa",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1116.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_295",
+      "paper_id": "",
+      "title": "MISGENDERED: Limits of Large Language Models in Understanding Pronouns",
+      "authors": "Tamanna Hossain, Sunipa Dev, Sameer Singh",
+      "paper_url": "https://aclanthology.org/2023.acl-long.293.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_169",
+      "paper_id": "",
+      "title": "Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach",
+      "authors": "Lu Cheng, Ahmadreza Mosallanezhad, Yasin Silva, Deborah Hall, Huan Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.168.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_491",
+      "paper_id": "",
+      "title": "Mitigating Biases for Instruction-following Language Models via Bias Neurons Elimination",
+      "authors": "Nakyeong Yang, Taegwan Kang, Stanley Jungkyu Choi, Honglak Lee, Kyomin Jung",
+      "paper_url": "https://aclanthology.org/2024.acl-long.490.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_515",
+      "paper_id": "",
+      "title": "Mitigating Confounding in Speech-Based Dementia Detection through Weight Masking",
+      "authors": "Zhecheng Sheng, Xiruo Ding, Brian Hur, Changye Li, Trevor Cohen, Serguei V. S. Pakhomov",
+      "paper_url": "https://aclanthology.org/2025.acl-long.514.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_23",
+      "paper_id": "",
+      "title": "Modeling U.S. State-Level Policies by Extracting Winners and Losers from Legislative Texts",
+      "authors": "Maryam Davoodi, Eric Waltenburg, Dan Goldwasser",
+      "paper_url": "https://aclanthology.org/2022.acl-long.22.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_806",
+      "paper_id": "",
+      "title": "MultiLegalPile: A 689GB Multilingual Legal Corpus",
+      "authors": "Joel Niklaus, Veton Matoshi, Matthias Stürmer, Ilias Chalkidis, Daniel Ho",
+      "paper_url": "https://aclanthology.org/2024.acl-long.805.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_967",
+      "paper_id": "",
+      "title": "Multilingual Text-to-Image Generation Magnifies Gender Stereotypes",
+      "authors": "Felix Friedrich, Katharina Hämmerl, Patrick Schramowski, Manuel Brack, Jindřich Libovický, Kristian Kersting, Alexander Fraser",
+      "paper_url": "https://aclanthology.org/2025.acl-long.966.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1211",
+      "paper_id": "",
+      "title": "Multiple LLM Agents Debate for Equitable Cultural Alignment",
+      "authors": "Dayeon Ki, Rachel Rudinger, Tianyi Zhou, Marine Carpuat",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1210.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_507",
+      "paper_id": "",
+      "title": "NLPositionality: Characterizing Design Biases of Datasets and Models",
+      "authors": "Sebastin Santy, Jenny Liang, Ronan Le Bras, Katharina Reinecke, Maarten Sap",
+      "paper_url": "https://aclanthology.org/2023.acl-long.505.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_295",
+      "paper_id": "",
+      "title": "Noise Correction on Subjective Datasets",
+      "authors": "Uthman Jinadu, Yi Ding",
+      "paper_url": "https://aclanthology.org/2024.acl-long.294.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_346",
+      "paper_id": "",
+      "title": "Not All Countries Celebrate Thanksgiving: On the Cultural Dominance in Large Language Models",
+      "authors": "Wenxuan Wang, Wenxiang Jiao, Jingyuan Huang, Ruyi Dai, Jen-tse Huang, Zhaopeng Tu, Michael Lyu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.345.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_838",
+      "paper_id": "",
+      "title": "On Efficient and Statistical Quality Estimation for Data Annotation",
+      "authors": "Jan-Christoph Klie, Juan Haladjian, Marc Kirchner, Rahul Nair",
+      "paper_url": "https://aclanthology.org/2024.acl-long.837.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1033",
+      "paper_id": "",
+      "title": "On Generalization across Measurement Systems: LLMs Entail More Test-Time Compute for Underrepresented Cultures",
+      "authors": "Minh Duc Bui, Kyung Eun Park, Goran Glavaš, Fabian David Schmidt, Katharina Von Der Wense",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1032.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_84",
+      "paper_id": "",
+      "title": "On the Mutual Influence of Gender and Occupation in LLM Representations",
+      "authors": "Haozhe An, Connor Baumler, Abhilasha Sancheti, Rachel Rudinger",
+      "paper_url": "https://aclanthology.org/2025.acl-long.83.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1345",
+      "paper_id": "",
+      "title": "PRISM: A Framework for Producing Interpretable Political Bias Embeddings with Political-Aware Cross-Encoder",
+      "authors": "Yiqun Sun, Qiang Huang, Anthony Kum Hoe Tung, Jun Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1344.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_533",
+      "paper_id": "",
+      "title": "Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies",
+      "authors": "Mukund Srinath, Shomir Wilson, C Lee Giles",
+      "paper_url": "https://aclanthology.org/2021.acl-long.532.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_330",
+      "paper_id": "",
+      "title": "Probing Toxic Content in Large Pre-Trained Language Models",
+      "authors": "Nedjma Ousidhoum, Xinran Zhao, Tianqing Fang, Yangqiu Song, Dit-Yan Yeung",
+      "paper_url": "https://aclanthology.org/2021.acl-long.329.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_1",
+      "paper_id": "",
+      "title": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+      "authors": "Chengqing Zong, Fei Xia, Wenjie Li, Roberto Navigli",
+      "paper_url": "https://aclanthology.org/2021.acl-long.0.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1081",
+      "paper_id": "",
+      "title": "ProMALex: Progressive Modular Adapters for Multi-Jurisdictional Legal Language Modeling",
+      "authors": "Santosh T.y.s.s, Mohamed Hesham Elganayni",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1080.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_799",
+      "paper_id": "",
+      "title": "Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases",
+      "authors": "Yingji Li, Mengnan Du, Xin Wang, Ying Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.797.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_313",
+      "paper_id": "",
+      "title": "ProvBench: A Benchmark of Legal Provision Recommendation for Contract Auto-Reviewing",
+      "authors": "Xiuxuan Shen, Zhongyuan Jiang, Junsan Zhang, Junxiao Han, Yao Wan, Chengjie Guo, Bingcheng Liu, Jie Wu, Renxiang Li, Philip S. Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.312.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_555",
+      "paper_id": "",
+      "title": "Quantifying the Persona Effect in LLM Simulations",
+      "authors": "Tiancheng Hu, Nigel Collier",
+      "paper_url": "https://aclanthology.org/2024.acl-long.554.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1549",
+      "paper_id": "",
+      "title": "R-Fairness: Assessing Fairness of Ranking in Subjective Data",
+      "authors": "Lorenzo Balzotti, Donatella Firmani, Jerin George Mathew, Riccardo Torlone, Sihem Amer-Yahia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1548.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_152",
+      "paper_id": "",
+      "title": "RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models",
+      "authors": "Soumya Barikeri, Anne Lauscher, Ivan Vulić, Goran Glavaš",
+      "paper_url": "https://aclanthology.org/2021.acl-long.151.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_463",
+      "paper_id": "",
+      "title": "Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection",
+      "authors": "Rajkumar Pujari, Erik Oveson, Priyanka Kulkarni, Elnaz Nouri",
+      "paper_url": "https://aclanthology.org/2022.acl-long.462.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_322",
+      "paper_id": "",
+      "title": "Reliability Testing for Natural Language Processing Systems",
+      "authors": "Samson Tan, Shafiq Joty, Kathy Baxter, Araz Taeihagh, Gregory A. Bennett, Min-Yen Kan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.321.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1273",
+      "paper_id": "",
+      "title": "Research Borderlands: Analysing Writing Across Research Cultures",
+      "authors": "Shaily Bhatt, Tal August, Maria Antoniak",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1272.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_824",
+      "paper_id": "",
+      "title": "Rethinking Annotation: Can Language Learners Contribute?",
+      "authors": "Haneul Yoo, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh",
+      "paper_url": "https://aclanthology.org/2023.acl-long.822.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1586",
+      "paper_id": "",
+      "title": "Robust Estimation of Population-Level Effects in Repeated-Measures NLP Experimental Designs",
+      "authors": "Alejandro Benito-Santos, Adrian Ghajari, Víctor Fresno",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1586.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_550",
+      "paper_id": "",
+      "title": "SeeGULL: A Stereotype Benchmark with Broad Geo-Cultural Coverage Leveraging Generative Models",
+      "authors": "Akshita Jha, Aida Davani, Chandan K. Reddy, Shachi Dave, Vinodkumar Prabhakaran, Sunipa Dev",
+      "paper_url": "https://aclanthology.org/2023.acl-long.548.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_136",
+      "paper_id": "",
+      "title": "Sense Embeddings are also Biased – Evaluating Social Biases in Static and Contextualised Sense Embeddings",
+      "authors": "Yi Zhou, Masahiro Kaneko, Danushka Bollegala",
+      "paper_url": "https://aclanthology.org/2022.acl-long.135.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_676",
+      "paper_id": "",
+      "title": "Silent Signals, Loud Impact: LLMs for Word-Sense Disambiguation of Coded Dog Whistles",
+      "authors": "Julia Kruk, Michela Marchini, Rijul Magu, Caleb Ziems, David Muchlinski, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.675.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_229",
+      "paper_id": "",
+      "title": "Social-Group-Agnostic Bias Mitigation via the Stereotype Content Model",
+      "authors": "Ali Omrani, Alireza Salkhordeh Ziabari, Charles Yu, Preni Golazizian, Brendan Kennedy, Mohammad Atari, Heng Ji, Morteza Dehghani",
+      "paper_url": "https://aclanthology.org/2023.acl-long.227.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1594",
+      "paper_id": "",
+      "title": "SocialCC: Interactive Evaluation for Cultural Competence in Language Agents",
+      "authors": "Jincenzi Wu, Jianxun Lian, Dingdong Wang, Helen M. Meng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1594.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_331",
+      "paper_id": "",
+      "title": "Societal Biases in Language Generation: Progress and Challenges",
+      "authors": "Emily Sheng, Kai-Wei Chang, Prem Natarajan, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.330.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_417",
+      "paper_id": "",
+      "title": "StereoSet: Measuring stereotypical bias in pretrained language models",
+      "authors": "Moin Nadeem, Anna Bethke, Siva Reddy",
+      "paper_url": "https://aclanthology.org/2021.acl-long.416.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_82",
+      "paper_id": "",
+      "title": "Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets",
+      "authors": "Su Lin Blodgett, Gilsinia Lopez, Alexandra Olteanu, Robert Sim, Hanna Wallach",
+      "paper_url": "https://aclanthology.org/2021.acl-long.81.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_56",
+      "paper_id": "",
+      "title": "Subjective Crowd Disagreements for Subjective Data: Uncovering Meaningful CrowdOpinion with Population-level Learning",
+      "authors": "Tharindu Cyril Weerasooriya, Sarah Luger, Saloni Poddar, Ashiqur KhudaBukhsh, Christopher Homan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.54.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_24",
+      "paper_id": "",
+      "title": "Subtle Biases Need Subtler Measures: Dual Metrics for Evaluating Representative and Affinity Bias in Large Language Models",
+      "authors": "Abhishek Kumar, Sarfaroz Yunusov, Ali Emami",
+      "paper_url": "https://aclanthology.org/2024.acl-long.23.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_222",
+      "paper_id": "",
+      "title": "SurveyPilot: an Agentic Framework for Automated Human Opinion Collection from Social Media",
+      "authors": "Viet Thanh Pham, Lizhen Qu, Zhuang Li, Suraj Sharma, Gholamreza Haffari",
+      "paper_url": "https://aclanthology.org/2025.acl-long.221.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_726",
+      "paper_id": "",
+      "title": "SwiLTra-Bench: The Swiss Legal Translation Benchmark",
+      "authors": "Joel Niklaus, Jakob Merane, Luka Nenadic, Sina Ahmadi, Yingqiang Gao, Cyrill A. H. Chevalley, Claude Humbel, Christophe Gösken, Lorenzo Tanzi, Thomas Lüthi, Stefan Palombo, Spencer Poff, Boling Yang, Nan Wu, Matthew Guillod, Robin Mamié, Daniel Brunner, Julio Pereyra, Niko Grupen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.725.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_476",
+      "paper_id": "",
+      "title": "Targeted Data Generation: Finding and Fixing Model Weaknesses",
+      "authors": "Zexue He, Marco Tulio Ribeiro, Fereshte Khani",
+      "paper_url": "https://aclanthology.org/2023.acl-long.474.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_331",
+      "paper_id": "",
+      "title": "That is Unacceptable: the Moral Foundations of Canceling",
+      "authors": "Soda Marem Lo, Oscar Araque, Rajesh Sharma, Marco Antonio Stranisci",
+      "paper_url": "https://aclanthology.org/2025.acl-long.330.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_915",
+      "paper_id": "",
+      "title": "The AI Gap: How Socioeconomic Status Affects Language Technology Interactions",
+      "authors": "Elisa Bassignana, Amanda Cercas Curry, Dirk Hovy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.914.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_804",
+      "paper_id": "",
+      "title": "The Echoes of Multilinguality: Tracing Cultural Value Shifts during Language Model Fine-tuning",
+      "authors": "Rochelle Choenni, Anne Lauscher, Ekaterina Shutova",
+      "paper_url": "https://aclanthology.org/2024.acl-long.803.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_6",
+      "paper_id": "",
+      "title": "The Impossibility of Fair LLMs",
+      "authors": "Jacy Reese Anthis, Kristian Lum, Michael Ekstrand, Avi Feller, Chenhao Tan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.5.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_450",
+      "paper_id": "",
+      "title": "The Male CEO and the Female Assistant: Evaluation and Mitigation of Gender Biases in Text-To-Image Generation of Dual Subjects",
+      "authors": "Yixin Wan, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.449.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_14",
+      "paper_id": "",
+      "title": "Through the Lens of Split Vote: Exploring Disagreement, Difficulty and Calibration in Legal Case Outcome Classification",
+      "authors": "Shanshan Xu, Santosh T.y.s.s, Oana Ichim, Barbara Plank, Matthias Grabmair",
+      "paper_url": "https://aclanthology.org/2024.acl-long.13.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_159",
+      "paper_id": "",
+      "title": "Through the MUD: A Multi-Defendant Charge Prediction Benchmark with Linked Crime Elements",
+      "authors": "Xiao Wei, Qi Xu, Hang Yu, Qian Liu, Erik Cambria",
+      "paper_url": "https://aclanthology.org/2024.acl-long.158.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_127",
+      "paper_id": "",
+      "title": "Toward Annotator Group Bias in Crowdsourcing",
+      "authors": "Haochen Liu, Joseph Thekinen, Sinem Mollaoglu, Da Tang, Ji Yang, Youlong Cheng, Hui Liu, Jiliang Tang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.126.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_163",
+      "paper_id": "",
+      "title": "Towards Stable Natural Language Understanding via Information Entropy Guided Debiasing",
+      "authors": "Li Du, Xiao Ding, Zhouhao Sun, Ting Liu, Bing Qin, Jingshuo Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.161.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_779",
+      "paper_id": "",
+      "title": "U-CREAT: Unsupervised Case Retrieval using Events extrAcTion",
+      "authors": "Abhinav Joshi, Akshat Sharma, Sai Kiran Tanikella, Ashutosh Modi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.777.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_761",
+      "paper_id": "",
+      "title": "Uncovering and Categorizing Social Biases in Text-to-SQL",
+      "authors": "Yan Liu, Yan Gao, Zhe Su, Xiaokang Chen, Elliott Ash, Jian-Guang Lou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.759.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_128",
+      "paper_id": "",
+      "title": "Under the Morphosyntactic Lens: A Multifaceted Evaluation of Gender Bias in Speech Translation",
+      "authors": "Beatrice Savoldi, Marco Gaido, Luisa Bentivogli, Matteo Negri, Marco Turchi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.127.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_51",
+      "paper_id": "",
+      "title": "Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model",
+      "authors": "Kathleen C. Fraser, Isar Nejadgholi, Svetlana Kiritchenko",
+      "paper_url": "https://aclanthology.org/2021.acl-long.50.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_99",
+      "paper_id": "",
+      "title": "Understanding Gender Bias in Knowledge Base Embeddings",
+      "authors": "Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma",
+      "paper_url": "https://aclanthology.org/2022.acl-long.98.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_863",
+      "paper_id": "",
+      "title": "Understanding Large Language Model Vulnerabilities to Social Bias Attacks",
+      "authors": "Jiaxu Zhao, Meng Fang, Fanghua Ye, Ke Xu, Qin Zhang, Joey Tianyi Zhou, Mykola Pechenizkiy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.862.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_797",
+      "paper_id": "",
+      "title": "Unmasking Style Sensitivity: A Causal Analysis of Bias Evaluation Instability in Large Language Models",
+      "authors": "Jiaxu Zhao, Meng Fang, Kun Zhang, Mykola Pechenizkiy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.796.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_988",
+      "paper_id": "",
+      "title": "Unveiling Cultural Blind Spots: Analyzing the Limitations of mLLMs in Procedural Text Comprehension",
+      "authors": "Amir Hossein Yari, Fajri Koto",
+      "paper_url": "https://aclanthology.org/2025.acl-long.987.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_672",
+      "paper_id": "",
+      "title": "UPPAM: A Unified Pre-training Architecture for Political Actor Modeling based on Language",
+      "authors": "Xinyi Mou, Zhongyu Wei, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.670.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_248",
+      "paper_id": "",
+      "title": "Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models",
+      "authors": "Ryan Steed, Swetasudha Panda, Ari Kobren, Michael Wick",
+      "paper_url": "https://aclanthology.org/2022.acl-long.247.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_124",
+      "paper_id": "",
+      "title": "VariErr NLI: Separating Annotation Error from Human Label Variation",
+      "authors": "Leon Weber-Genzel, Siyao Peng, Marie-Catherine De Marneffe, Barbara Plank",
+      "paper_url": "https://aclanthology.org/2024.acl-long.123.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_483",
+      "paper_id": "",
+      "title": "VendorLink: An NLP approach for Identifying & Linking Vendor Migrants & Potential Aliases on Darknet Markets",
+      "authors": "Vageesh Saxena, Nils Rethmeier, Gijs van Dijck, Gerasimos Spanakis",
+      "paper_url": "https://aclanthology.org/2023.acl-long.481.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1035",
+      "paper_id": "",
+      "title": "Veracity Bias and Beyond: Uncovering LLMs’ Hidden Beliefs in Problem-Solving Reasoning",
+      "authors": "Yue Zhou, Barbara Di Eugenio",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1034.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_668",
+      "paper_id": "",
+      "title": "ViSAGe: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation",
+      "authors": "Akshita Jha, Vinodkumar Prabhakaran, Remi Denton, Sarah Laszlo, Shachi Dave, Rida Qadri, Chandan K. Reddy, Sunipa Dev",
+      "paper_url": "https://aclanthology.org/2024.acl-long.667.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_25",
+      "paper_id": "",
+      "title": "What about “em”? How Commercial Machine Translation Fails to Handle (Neo-)Pronouns",
+      "authors": "Anne Lauscher, Debora Nozza, Ehm Miltersen, Archie Crowley, Dirk Hovy",
+      "paper_url": "https://aclanthology.org/2023.acl-long.23.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_791",
+      "paper_id": "",
+      "title": "What does a Text Classifier Learn about Morality? An Explainable Method for Cross-Domain Comparison of Moral Rhetoric",
+      "authors": "Enrico Liscio, Oscar Araque, Lorenzo Gatti, Ionut Constantinescu, Catholijn M. Jonker, Kyriaki Kalimeri, Pradeep K. Murukannaiah",
+      "paper_url": "https://aclanthology.org/2023.acl-long.789.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_377",
+      "paper_id": "",
+      "title": "What social attitudes about gender does BERT encode? Leveraging insights from psycholinguistics",
+      "authors": "Julia Watson, Barend Beekhuizen, Suzanne Stevenson",
+      "paper_url": "https://aclanthology.org/2023.acl-long.375.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_849",
+      "paper_id": "",
+      "title": "Which Demographics do LLMs Default to During Annotation?",
+      "authors": "Johannes Schäfer, Aidan Combs, Christopher Bagdon, Jiahui Li, Nadine Probol, Lynn Greschner, Sean Papay, Yarik Menchaca Resendiz, Aswathy Velutharambath, Amelie Wuehrl, Sabine Weber, Roman Klinger",
+      "paper_url": "https://aclanthology.org/2025.acl-long.848.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_446",
+      "paper_id": "",
+      "title": "White Men Lead, Black Women Help? Benchmarking and Mitigating Language Agency Social Biases in LLMs",
+      "authors": "Yixin Wan, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.445.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_510",
+      "paper_id": "",
+      "title": "Whose Preferences? Differences in Fairness Preferences and Their Impact on the Fairness of AI Utilizing Human Feedback",
+      "authors": "Maria Lerner, Florian Dorner, Elliott Ash, Naman Goel",
+      "paper_url": "https://aclanthology.org/2024.acl-long.509.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_488",
+      "paper_id": "",
+      "title": "Why Don’t Prompt-Based Fairness Metrics Correlate?",
+      "authors": "Abdelrahman Zayed, Goncalo Mordido, Ioana Baldini, Sarath Chandar",
+      "paper_url": "https://aclanthology.org/2024.acl-long.487.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_509",
+      "paper_id": "",
+      "title": "WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in Large Language Models",
+      "authors": "Virginia Felkner, Ho-Chun Herbert Chang, Eugene Jang, Jonathan May",
+      "paper_url": "https://aclanthology.org/2023.acl-long.507.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_923",
+      "paper_id": "",
+      "title": "Words of Warmth: Trust and Sociability Norms for over 26k English Words",
+      "authors": "Saif M. Mohammad",
+      "paper_url": "https://aclanthology.org/2025.acl-long.922.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1518",
+      "paper_id": "",
+      "title": "𝛿-Stance: A Large-Scale Real World Dataset of Stances in Legal Argumentation",
+      "authors": "Ankita Gupta, Douglas Rice, Brendan O’Connor",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1517.pdf",
+      "venue": "acl25"
+    }
+  ]
+}

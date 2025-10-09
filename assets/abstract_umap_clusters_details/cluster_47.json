@@ -1,0 +1,389 @@
+{
+  "cluster_id": 47,
+  "papers": [
+    {
+      "id": "rss21_43",
+      "paper_id": "43",
+      "title": "Active Learning of Abstract Plan Feasibility",
+      "authors": "Michael Noseworthy (MIT), Isaiah Brand (MIT), Caris Moses (MIT), Sebastian Castro (MIT), Leslie Kaelbling (MIT), Tomas Lozano-Perez (MIT), Nicholas Roy (MIT)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p043.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss24_64",
+      "paper_id": "64",
+      "title": "AutoMate: Specialist and Generalist Assembly Policies over Diverse Geometries",
+      "authors": "Bingjie Tang, Iretiayo Akinola, Jie Xu, Bowen Wen, Ankur Handa, Karl Van Wyk, Dieter Fox, Gaurav S. Sukhatme, Fabio Ramos, Yashraj NarangBingjie Tang, Iretiayo Akinola, Jie Xu, Bowen Wen, Ankur Handa, Karl Van Wyk, Dieter Fox, Gaurav S. Sukhatme, Fabio Ramos, Yashraj Narang",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p064.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_U0Q8CrtBJxJ",
+      "paper_id": "U0Q8CrtBJxJ",
+      "title": "Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes",
+      "authors": "Alex X. Lee, Coline Manon Devin, Yuxiang Zhou, Thomas Lampe, Konstantinos Bousmalis, Jost Tobias Springenberg, Arunkumar Byravan, Abbas Abdolmaleki, Nimrod Gileadi, David Khosid, Claudio Fantacci, Jose Enrique Chen, Akhil Raju, Rae Jeong, Michael Neunert, Antoine Laurens, Stefano Saliceti, Federico Casarini, Martin Riedmiller, raia hadsell, Francesco Nori",
+      "paper_url": "https://openreview.net/pdf?id=U0Q8CrtBJxJ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_yhy25u-DrjR",
+      "paper_id": "yhy25u-DrjR",
+      "title": "Broadly-Exploring, Local-Policy Trees for Long-Horizon Task Planning",
+      "authors": "brian ichter, Pierre Sermanet, Corey Lynch",
+      "paper_url": "https://openreview.net/pdf?id=yhy25u-DrjR",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_A5l7wE2uqtM",
+      "paper_id": "A5l7wE2uqtM",
+      "title": "BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment",
+      "authors": "Zeyi Liu, Zhenjia Xu, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=A5l7wE2uqtM",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_BimpCf1rT7",
+      "paper_id": "BimpCf1rT7",
+      "title": "Compositional Diffusion-Based Continuous Constraint Solvers",
+      "authors": "Zhutian Yang, Jiayuan Mao, Yilun Du, Jiajun Wu, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling",
+      "paper_url": "https://openreview.net/pdf?id=BimpCf1rT7",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_22",
+      "paper_id": "22",
+      "title": "Deep RL at Scale: Sorting Waste in Office Buildings with a Fleet of Mobile Manipulators",
+      "authors": "Alexander Herzog (Google X)*, Kanishka Rao (Google Inc), Karol Hausman (Google Brain), Yao Lu (Google Research), Paul Wohlhart (Google Inc), Mengyuan Yan (Google Inc), Jessica Lin (Everyday Robots), Montserrat Gonzalez Arenas (Google Inc), Ted Xiao (Google Inc), Daniel Kappler (Google...more>Alexander Herzog (Google X)*, Kanishka Rao (Google Inc), Karol Hausman (Google Brain), Yao Lu (Google Research), Paul Wohlhart (Google Inc), Mengyuan Yan (Google Inc), Jessica Lin (Everyday Robots), Montserrat Gonzalez Arenas (Google Inc), Ted Xiao (Google Inc), Daniel Kappler (Google X), Daniel Ho (Google Inc), Jarek Rettinghouse (Everyday Robots), Yevgen Chebotar (Google Inc), Kuang-Huei Lee (Google Inc), Keerthana Gopalakrishnan (Google Inc), Ryan Julian (Google Inc), Adrian Li (Wayve), Chuyuan Fu (Everyday Robots), Bob Wei (Everyday Robots), Sangeetha Ramesh (Everyday Robots), Khem Holden (Google Inc), Kim Kleiven (Everyday Robots), David J Rendleman (Google Inc), Sean Kirmani (Everyday Robots), Jeffrey Bingham (Everyday Robots), Jonathan Weisz (Everyday Robots), Ying Xu (Everyday Robots), Wenlong Lu (Everyday Robots), Matthew Bennice (Everyday Robots), Cody Fong (Everyday Robots), David Do (Everyday Robots), Jessica Lam (Everyday Robots), Yunfei Bai (Google X), Benjie Holson (Google X), Michael Quinlan (Google X), Noah Brown (Google Inc), Mrinal Kalakrishnan (Google X), Julian Ibarz (Google Inc), Peter Pastor (Google X), Sergey Levine (Google Inc)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p022.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_47",
+      "paper_id": "47",
+      "title": "Demonstrating Adaptive Mobile Manipulation in Retail Environments",
+      "authors": "Max Spahn, Corrado Pezzato, Chadi Salmi, Rick Dekker, Cong Wang, Christian Pek, Jens Kober, Javier Alonso-Mora, Carlos Hernandez Corbato, Martijn WisseMax Spahn, Corrado Pezzato, Chadi Salmi, Rick Dekker, Cong Wang, Christian Pek, Jens Kober, Javier Alonso-Mora, Carlos Hernandez Corbato, Martijn Wisse",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p047.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_23",
+      "paper_id": "23",
+      "title": "Demonstrating Large-Scale Package Manipulation via Learned Metrics of Pick Success",
+      "authors": "Shuai Li (Amazon), Azarakhsh Keipour (Amazon)*, Kevin Jamieson (University of Washington), Nicolas Hudson (Amazon), Charles Swan (Amazon), Kostas Bekris (Rutgers University)Shuai Li (Amazon), Azarakhsh Keipour (Amazon)*, Kevin Jamieson (University of Washington), Nicolas Hudson (Amazon), Charles Swan (Amazon), Kostas Bekris (Rutgers University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p023.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss23_55",
+      "paper_id": "55",
+      "title": "Demonstrating Mobile Manipulation in the Wild: A Metrics-Driven Approach",
+      "authors": "Max Bajracharya (Toyota Research Institute), James Borders (Toyota Research Institute), Richard Cheng (Toyota Research Institute), Dan Helmick (Toyota Research Institute), Lukas Kaul (Toyota Research Institute)*, Dan Kruse (Toyota Research Institute), John Leichty (Toyota Research Institute), Jeremy Ma (NVIDIA), Carolyn Matl...more>Max Bajracharya (Toyota Research Institute), James Borders (Toyota Research Institute), Richard Cheng (Toyota Research Institute), Dan Helmick (Toyota Research Institute), Lukas Kaul (Toyota Research Institute)*, Dan Kruse (Toyota Research Institute), John Leichty (Toyota Research Institute), Jeremy Ma (NVIDIA), Carolyn Matl (Toyota Research Institute), Frank Michel (Toyota Research Institute), Chavdar Papazov (Toyota Research Institute), Josh Petersen (Amazon), Krishna Shankar (Apple ), Mark Tjersland (Toyota Research Institute)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p055.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_ZFjgfJb_5c",
+      "paper_id": "ZFjgfJb_5c",
+      "title": "Embodied Lifelong Learning for Task and Motion Planning",
+      "authors": "Jorge Mendez-Mendez, Leslie Pack Kaelbling, Tomás Lozano-Pérez",
+      "paper_url": "https://openreview.net/pdf?id=ZFjgfJb_5c",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_xQx1O7WXSA",
+      "paper_id": "xQx1O7WXSA",
+      "title": "Expansive Latent Planning for Sparse Reward Offline Reinforcement Learning",
+      "authors": "Robert Gieselmann, Florian T. Pokorny",
+      "paper_url": "https://openreview.net/pdf?id=xQx1O7WXSA",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss22_35",
+      "paper_id": "35",
+      "title": "Factory: Fast Contact for Robotic Assembly",
+      "authors": "Yashraj S Narang, Kier Storey, Iretiayo A Akinola, Miles Macklin, Philipp Reist, Lukasz Wawrzyniak, Yunrong Guo, Adam Moravanszky, Gavriel State, Michelle Lu, Ankur Handa, Dieter Fox (NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p035.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_U5RPcnFhkq",
+      "paper_id": "U5RPcnFhkq",
+      "title": "FetchBench: A Simulation Benchmark for Robot Fetching",
+      "authors": "Beining Han, Meenal Parakh, Derek Geng, Jack A Defay, Gan Luyang, Jia Deng",
+      "paper_url": "https://openreview.net/pdf?id=U5RPcnFhkq",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_36",
+      "paper_id": "36",
+      "title": "Fundamental Performance Limits for Sensor-Based Robot Control and Policy Learning",
+      "authors": "Anirudha Majumdar, Vincent Pacelli (Princeton University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p036.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss23_41",
+      "paper_id": "41",
+      "title": "FurnitureBench: Reproducible Real-World Benchmark for Long-Horizon Complex Manipulation",
+      "authors": "Minho Heo (Korea Advanced Institute of Science & Technology), Youngwoon Lee (University of California, Berkeley)*, Doohyun Lee (Korea Advanced Institute of Science & Technology), Joseph J Lim (KAIST)Minho Heo (Korea Advanced Institute of Science & Technology), Youngwoon Lee (University of California, Berkeley)*, Doohyun Lee (Korea Advanced Institute of Science & Technology), Joseph J Lim (KAIST)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p041.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_p6Wq6TjjHH",
+      "paper_id": "p6Wq6TjjHH",
+      "title": "Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph",
+      "authors": "Utkarsh Aashu Mishra, Yongxin Chen, Danfei Xu",
+      "paper_url": "https://openreview.net/pdf?id=p6Wq6TjjHH",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_HtJE9ly5dT",
+      "paper_id": "HtJE9ly5dT",
+      "title": "Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models",
+      "authors": "Utkarsh Aashu Mishra, Shangjie Xue, Yongxin Chen, Danfei Xu",
+      "paper_url": "https://openreview.net/pdf?id=HtJE9ly5dT",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_-JwmfQC6IRt",
+      "paper_id": "-JwmfQC6IRt",
+      "title": "Guided Imitation of Task and Motion Planning",
+      "authors": "Michael James McDonald, Dylan Hadfield-Menell",
+      "paper_url": "https://openreview.net/pdf?id=-JwmfQC6IRt",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_39",
+      "paper_id": "39",
+      "title": "IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality",
+      "authors": "Bingjie Tang (University of Southern California)*, Michael A Lin (Stanford University), Iretiayo A Akinola (NVIDIA), Ankur Handa (NVIDIA), Gaurav S Sukhatme (University of Southern California, Amazon), Fabio Ramos (NVIDIA), Dieter Fox (NVIDIA), Yashraj S Narang (NVIDIA)Bingjie Tang (University of Southern California)*, Michael A Lin (Stanford University), Iretiayo A Akinola (NVIDIA), Ankur Handa (NVIDIA), Gaurav S Sukhatme (University of Southern California, Amazon), Fabio Ramos (NVIDIA), Dieter Fox (NVIDIA), Yashraj S Narang (NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p039.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_vobaOY0qDl",
+      "paper_id": "vobaOY0qDl",
+      "title": "Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation",
+      "authors": "Jan Bruedigam, Ali Adeeb Abbas, Maks Sorokin, Kuan Fang, Brandon Hung, Maya Guru, Stefan Georg Sosnowski, Jiuguang Wang, Sandra Hirche, Simon Le Cleac'h",
+      "paper_url": "https://openreview.net/pdf?id=vobaOY0qDl",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_wBT0lZJAJ0V",
+      "paper_id": "wBT0lZJAJ0V",
+      "title": "Learn2Assemble with Structured Representations and Search for Robotic Architectural Construction",
+      "authors": "Niklas Funk, Georgia Chalvatzaki, Boris Belousov, Jan Peters",
+      "paper_url": "https://openreview.net/pdf?id=wBT0lZJAJ0V",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23__gZLyRGGuo",
+      "paper_id": "_gZLyRGGuo",
+      "title": "Learning Efficient Abstract Planning Models that Choose What to Predict",
+      "authors": "Nishanth Kumar, Willie McClinton, Rohan Chitnis, Tom Silver, Tomás Lozano-Pérez, Leslie Pack Kaelbling",
+      "paper_url": "https://openreview.net/pdf?id=_gZLyRGGuo",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_DsFQg0G4Xu",
+      "paper_id": "DsFQg0G4Xu",
+      "title": "Learning Long-Horizon Action Dependencies in Sampling-Based Bilevel Planning",
+      "authors": "Bartłomiej Cieślar, Leslie Pack Kaelbling, Tomás Lozano-Pérez, Jorge Mendez-Mendez",
+      "paper_url": "https://openreview.net/pdf?id=DsFQg0G4Xu",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_av44VzmMKwW",
+      "paper_id": "av44VzmMKwW",
+      "title": "Learning Model Preconditions for Planning with Multiple Models",
+      "authors": "Alex Licari LaGrassa, Oliver Kroemer",
+      "paper_url": "https://openreview.net/pdf?id=av44VzmMKwW",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_OIaJRUo5UXy",
+      "paper_id": "OIaJRUo5UXy",
+      "title": "Learning Neuro-Symbolic Skills for Bilevel Planning",
+      "authors": "Tom Silver, Ashay Athalye, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling",
+      "paper_url": "https://openreview.net/pdf?id=OIaJRUo5UXy",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_ihqTtzS83VS",
+      "paper_id": "ihqTtzS83VS",
+      "title": "Learning Reusable Manipulation Strategies",
+      "authors": "Jiayuan Mao, Tomás Lozano-Pérez, Joshua B. Tenenbaum, Leslie Pack Kaelbling",
+      "paper_url": "https://openreview.net/pdf?id=ihqTtzS83VS",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_t-IO7wCaNgH",
+      "paper_id": "t-IO7wCaNgH",
+      "title": "Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning",
+      "authors": "Jan Achterhold, Markus Krimmel, Joerg Stueckler",
+      "paper_url": "https://openreview.net/pdf?id=t-IO7wCaNgH",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_rJIwfTxTXvm",
+      "paper_id": "rJIwfTxTXvm",
+      "title": "Learning to Correct Mistakes: Backjumping in Long-Horizon Task and Motion Planning",
+      "authors": "Yoonchang Sung, Zizhao Wang, Peter Stone",
+      "paper_url": "https://openreview.net/pdf?id=rJIwfTxTXvm",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_B2X57y37kC",
+      "paper_id": "B2X57y37kC",
+      "title": "Learning to Look: Seeking Information for Decision Making via Policy Factorization",
+      "authors": "Shivin Dass, Jiaheng Hu, Ben Abbatematteo, Peter Stone, Roberto Martín-Martín",
+      "paper_url": "https://openreview.net/pdf?id=B2X57y37kC",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_119",
+      "paper_id": "119",
+      "title": "Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning",
+      "authors": "Teng Xue, Amirreza Razmjoo, Suhan Shetty, Sylvain CalinonTeng Xue, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p119.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_41",
+      "paper_id": "41",
+      "title": "MAGIC: Learning Macro-Actions for Online POMDP Planning",
+      "authors": "Yiyuan Lee (National University of Singapore), Panpan Cai (National University of Singapore), David Hsu (National University of Singapore)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p041.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_rThtgkXuvZ",
+      "paper_id": "rThtgkXuvZ",
+      "title": "NOD-TAMP: Generalizable Long-Horizon Planning with Neural Object Descriptors",
+      "authors": "Shuo Cheng, Caelan Reed Garrett, Ajay Mandlekar, Danfei Xu",
+      "paper_url": "https://openreview.net/pdf?id=rThtgkXuvZ",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_118",
+      "paper_id": "118",
+      "title": "Partially Observable Task and Motion Planning with Uncertainty and Risk Awareness",
+      "authors": "Aidan Curtis, George Matheos, Nishad Gothoskar, Vikash Mansinghka, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack KaelblingAidan Curtis, George Matheos, Nishad Gothoskar, Vikash Mansinghka, Joshua B. Tenenbaum, Tomás Lozano-Pérez, Leslie Pack Kaelbling",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p118.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_5",
+      "paper_id": "5",
+      "title": "Planning Multimodal Exploratory Actions for Online Robot Attribute Learning",
+      "authors": "Xiaohan Zhang (SUNY at Binghamton), Jivko Sinapov (Tufts University), Shiqi Zhang (SUNY Binghamton)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p005.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_tyxyBj2w4vw",
+      "paper_id": "tyxyBj2w4vw",
+      "title": "Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation",
+      "authors": "Xingyu Lin, Carl Qi, Yunchu Zhang, Zhiao Huang, Katerina Fragkiadaki, Yunzhu Li, Chuang Gan, David Held",
+      "paper_url": "https://openreview.net/pdf?id=tyxyBj2w4vw",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_cq2uB30uBM",
+      "paper_id": "cq2uB30uBM",
+      "title": "Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents",
+      "authors": "Jinyeon Kim, Cheolhong Min, Byeonghwi Kim, Jonghyun Choi",
+      "paper_url": "https://openreview.net/pdf?id=cq2uB30uBM",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_VH6WIPF4Sj",
+      "paper_id": "VH6WIPF4Sj",
+      "title": "Predicting Object Interactions with Behavior Primitives: An Application in Stowing Tasks",
+      "authors": "Haonan Chen, Yilong Niu, Kaiwen Hong, Shuijing Liu, Yixuan Wang, Yunzhu Li, Katherine Rose Driggs-Campbell",
+      "paper_url": "https://openreview.net/pdf?id=VH6WIPF4Sj",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_09UL1dCqf2n",
+      "paper_id": "09UL1dCqf2n",
+      "title": "Preference learning for guiding the tree search in continuous POMDPs",
+      "authors": "Jiyong Ahn, Sanghyeon Son, Dongryung Lee, Jisu Han, Dongwon Son, Beomjoon Kim",
+      "paper_url": "https://openreview.net/pdf?id=09UL1dCqf2n",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_pLCQkMojXI",
+      "paper_id": "pLCQkMojXI",
+      "title": "Rearrangement Planning for General Part Assembly",
+      "authors": "Yulong Li, Andy Zeng, Shuran Song",
+      "paper_url": "https://openreview.net/pdf?id=pLCQkMojXI",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_88",
+      "paper_id": "88",
+      "title": "Robust Multi-Modal Policies for Industrial Assembly via Reinforcement Learning and Demonstrations: A Large-Scale Study",
+      "authors": "Jianlan Luo (Google), Oleg Sushkov (DeepMind), Rugile Pevceviciute (DeepMind), Wenzhao  Lian (Google [X]), Chang Su (Google [X]), Mel   Vecerik (University College London, Deepmind), Ning  Ye (Google [X]), Stefan Schaal (Google), Jonathan Scholz (DeepMind)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p088.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl21_TEQWRlncJVm",
+      "paper_id": "TEQWRlncJVm",
+      "title": "Self-supervised Reinforcement Learning with Independently Controllable Subgoals",
+      "authors": "Andrii Zadaianchuk, Georg Martius, Fanny Yang",
+      "paper_url": "https://openreview.net/pdf?id=TEQWRlncJVm",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_90",
+      "paper_id": "90",
+      "title": "Semantic Abstraction-Guided Motion Planning for scLTL Missions in Unknown Environments",
+      "authors": "Kush Grover (TU Munich), Fernando S Barbosa (KTH Royal Institute of Technology), Jana Tumova (KTH Royal Institute of Technology), Jan Kretinsky (TU Munich)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p090.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss23_61",
+      "paper_id": "61",
+      "title": "Sequence-Based Plan Feasibility Prediction for Efficient Task and Motion Planning",
+      "authors": "Zhutian  Yang (Massachusetts Institute of Technology)*, Caelan R Garrett (NVIDIA), Tomas Lozano-Perez (Massachusetts Institute of Technology), Leslie Kaelbling (Massachusetts Institute of Technology), Dieter Fox (NVIDIA)Zhutian  Yang (Massachusetts Institute of Technology)*, Caelan R Garrett (NVIDIA), Tomas Lozano-Perez (Massachusetts Institute of Technology), Leslie Kaelbling (Massachusetts Institute of Technology), Dieter Fox (NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p061.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl21_CPbn4N3a2zC",
+      "paper_id": "CPbn4N3a2zC",
+      "title": "Structured deep generative models for sampling on constraint manifolds in sequential manipulation",
+      "authors": "Joaquim Ortiz-Haro, Jung-Su Ha, Danny Driess, Marc Toussaint",
+      "paper_url": "https://openreview.net/pdf?id=CPbn4N3a2zC",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_W8MjsxHrDpL",
+      "paper_id": "W8MjsxHrDpL",
+      "title": "Synthesizing Navigation Abstractions for Planning with Portable Manipulation Skills",
+      "authors": "Eric Rosen, Steven James, Sergio Orozco, Vedant Gupta, Max Merlin, Stefanie Tellex, George Konidaris",
+      "paper_url": "https://openreview.net/pdf?id=W8MjsxHrDpL",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_1Pt2FM5BLdi",
+      "paper_id": "1Pt2FM5BLdi",
+      "title": "Towards Online 3D Bin Packing: Learning Synergies between Packing and Unpacking via DRL",
+      "authors": "Shuai Song, Shuo Yang, Ran Song, Shilei Chu, yibin Li, Wei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=1Pt2FM5BLdi",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_sK2aWU7X9b8",
+      "paper_id": "sK2aWU7X9b8",
+      "title": "Training Robots to Evaluate Robots: Example-Based Interactive Reward Functions for Policy Learning",
+      "authors": "Kun Huang, Edward S. Hu, Dinesh Jayaraman",
+      "paper_url": "https://openreview.net/pdf?id=sK2aWU7X9b8",
+      "venue": "corl22"
+    }
+  ]
+}

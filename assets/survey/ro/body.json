@@ -1,0 +1,111 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Ground-based mobile robots",
+        "subcategories": [
+          {
+            "id": "1.1",
+            "name": "Small RC / off-road vehicles",
+            "what_is_covered": "1/10-scale cars, ATVs, skid-steer rovers for field tests",
+            "typical_examples": "RC cars/ATVs; small off-road vehicles",
+            "cluster": "19"
+          },
+          {
+            "id": "1.2",
+            "name": "Kinematic vehicle models",
+            "what_is_covered": "Bicycle/unicycle point-mass models (simulation-only)",
+            "typical_examples": "Simulated vehicle agents (kinematic/dynamic)",
+            "cluster": "0"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Aerial robots",
+        "subcategories": [
+          {
+            "id": "2.1",
+            "name": "Quadrotors / drones",
+            "what_is_covered": "Four-rotor UAVs with cameras, LiDAR, IMU",
+            "typical_examples": "Quadrotor UAVs; drones",
+            "cluster": "11, 19"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Legged & humanoid robots",
+        "subcategories": [
+          {
+            "id": "3.1",
+            "name": "Simulated legged agents",
+            "what_is_covered": "Classic MuJoCo bodies for RL locomotion",
+            "typical_examples": "Hopper; HalfCheetah; Walker2d; Ant; Quadruped",
+            "cluster": "11"
+          },
+          {
+            "id": "3.2",
+            "name": "Real quadrupeds & hybrids",
+            "what_is_covered": "Torque-controlled ~12-DoF quadrupeds; wheel-leg hybrids",
+            "typical_examples": "ANYmal; Unitree A1/Go1; MIT Mini-Cheetah; wheel-leg hybrids",
+            "cluster": "12"
+          },
+          {
+            "id": "3.3",
+            "name": "Humanoids",
+            "what_is_covered": "High-DoF bipeds/humanoids, often with articulated hands",
+            "typical_examples": "Humanoids/bipeds; SMPL-X mesh; simulated avatars",
+            "cluster": "16"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Manipulators & end-effectors",
+        "subcategories": [
+          {
+            "id": "4.1",
+            "name": "Standard 6–7 DoF arms",
+            "what_is_covered": "Fixed-base arms with two-finger or suction grippers",
+            "typical_examples": "UR5e; Sawyer; other 6–7 DoF arms",
+            "cluster": "2"
+          },
+          {
+            "id": "4.2",
+            "name": "Franka-class agile arms",
+            "what_is_covered": "7-DoF Panda-style arms popular in RL/IL",
+            "typical_examples": "Franka Emika Panda; Robotiq; suction cups",
+            "cluster": "3"
+          },
+          {
+            "id": "4.3",
+            "name": "Mobile / dual-arm manipulators",
+            "what_is_covered": "One or two arms on a wheeled base (bimanual possible)",
+            "typical_examples": "Mobile bases with dual arms; mobile manipulators",
+            "cluster": "7, 11"
+          },
+          {
+            "id": "4.4",
+            "name": "Arm + dexterous hand",
+            "what_is_covered": "Arms distinguished by multi-finger hands",
+            "typical_examples": "Shadow; Allegro; Adroit; LEAP; DeltaHand",
+            "cluster": "16, 18"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Soft & continuum robots",
+        "subcategories": [
+          {
+            "id": "5.1",
+            "name": "Continuum / soft manipulators",
+            "what_is_covered": "Deformable backbones, pneumatic/tendon actuation, soft skins & grippers; tensegrity frames",
+            "typical_examples": "Soft continuum arm; soft gripper; compliant tensegrity structures",
+            "cluster": "1"
+          }
+        ]
+      }
+    ]
+  }

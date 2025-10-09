@@ -1,0 +1,269 @@
+{
+  "cluster_id": 30,
+  "papers": [
+    {
+      "id": "corl23_XsWGVbPfB4Z",
+      "paper_id": "XsWGVbPfB4Z",
+      "title": "4D-Former: Multimodal 4D Panoptic Segmentation",
+      "authors": "Ali Athar, Enxu Li, Sergio Casas, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=XsWGVbPfB4Z",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_ES_TOp4YJeD",
+      "paper_id": "ES_TOp4YJeD",
+      "title": "ADU-Depth: Attention-based Distillation with Uncertainty Modeling for Depth Estimation",
+      "authors": "ZiZhang Wu, Zhuozheng Li, Zhi-Gang Fan, Yunzhe Wu, Xiaoquan Wang, Rui Tang, Jian Pu",
+      "paper_url": "https://openreview.net/pdf?id=ES_TOp4YJeD",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_EdmeHU4WVjJ",
+      "paper_id": "EdmeHU4WVjJ",
+      "title": "Advancing Self-supervised Monocular Depth Learning with Sparse LiDAR",
+      "authors": "Ziyue Feng, Longlong Jing, Peng Yin, Yingli Tian, Bing Li",
+      "paper_url": "https://openreview.net/pdf?id=EdmeHU4WVjJ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_I6DLxqk9J0A",
+      "paper_id": "I6DLxqk9J0A",
+      "title": "Anytime Depth Estimation with Limited Sensing and Computation Capabilities on Mobile Devices",
+      "authors": "Yuedong Yang, Zihui Xue, Radu Marculescu",
+      "paper_url": "https://openreview.net/pdf?id=I6DLxqk9J0A",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_uJqxFjF1xWp",
+      "paper_id": "uJqxFjF1xWp",
+      "title": "BM2CP: Efficient Collaborative Perception with LiDAR-Camera Modalities",
+      "authors": "Binyu Zhao, Wei ZHANG, Zhaonian Zou",
+      "paper_url": "https://openreview.net/pdf?id=uJqxFjF1xWp",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_nBnHXevkjZ",
+      "paper_id": "nBnHXevkjZ",
+      "title": "CC-3DT: Panoramic 3D Object Tracking via Cross-Camera Fusion",
+      "authors": "Tobias Fischer, Yung-Hsu Yang, Suryansh Kumar, Min Sun, Fisher Yu",
+      "paper_url": "https://openreview.net/pdf?id=nBnHXevkjZ",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_PAFEQQtDf8s",
+      "paper_id": "PAFEQQtDf8s",
+      "title": "CoBEVT: Cooperative Bird’s Eye View Semantic Segmentation with Sparse Transformers",
+      "authors": "Runsheng Xu, Zhengzhong Tu, Hao Xiang, Wei Shao, Bolei Zhou, Jiaqi Ma",
+      "paper_url": "https://openreview.net/pdf?id=PAFEQQtDf8s",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_dIgCPoy8E3",
+      "paper_id": "dIgCPoy8E3",
+      "title": "Cross-Dataset Sensor Alignment: Making Visual 3D Object Detector Generalizable",
+      "authors": "Liangtao Zheng, Yicheng Liu, Yue Wang, Hang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=dIgCPoy8E3",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_xHnJS2GYFDz",
+      "paper_id": "xHnJS2GYFDz",
+      "title": "DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries",
+      "authors": "Yue Wang, Vitor Campagnolo Guizilini, Tianyuan Zhang, Yilun Wang, Hang Zhao, Justin Solomon",
+      "paper_url": "https://openreview.net/pdf?id=xHnJS2GYFDz",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_6oESa4g05O",
+      "paper_id": "6oESa4g05O",
+      "title": "Distribution Discrepancy and Feature Heterogeneity for Active 3D Object Detection",
+      "authors": "Huang-Yu Chen, Jia-Fong Yeh, Jiawei, Pin-Hsuan Peng, Winston H. Hsu",
+      "paper_url": "https://openreview.net/pdf?id=6oESa4g05O",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_44FPaVRWkbl",
+      "paper_id": "44FPaVRWkbl",
+      "title": "DORT: Modeling Dynamic Objects in Recurrent for Multi-Camera 3D Object Detection and Tracking",
+      "authors": "Qing LIAN, Tai Wang, Dahua Lin, Jiangmiao Pang",
+      "paper_url": "https://openreview.net/pdf?id=44FPaVRWkbl",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_jTh3rdEF3LH",
+      "paper_id": "jTh3rdEF3LH",
+      "title": "HUM3DIL: Semi-supervised Multi-modal 3D HumanPose Estimation for Autonomous Driving",
+      "authors": "Andrei Zanfir, Mihai Zanfir, Alex Gorban, Jingwei Ji, Yin Zhou, Dragomir Anguelov, Cristian Sminchisescu",
+      "paper_url": "https://openreview.net/pdf?id=jTh3rdEF3LH",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_9cTEQWMo1BF",
+      "paper_id": "9cTEQWMo1BF",
+      "title": "LabelFormer: Object Trajectory Reﬁnement for Offboard Perception from LiDAR Point Clouds",
+      "authors": "Anqi Joyce Yang, Sergio Casas, Nikita Dvornik, Sean Segal, Yuwen Xiong, Jordan Sir Kwang Hu, Carter Fang, Raquel Urtasun",
+      "paper_url": "https://openreview.net/pdf?id=9cTEQWMo1BF",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_abd_D-iVjk0",
+      "paper_id": "abd_D-iVjk0",
+      "title": "LaRa: Latents and Rays for Multi-Camera Bird’s-Eye-View Semantic Segmentation",
+      "authors": "Florent Bartoccioni, Eloi Zablocki, Andrei Bursuc, Patrick Perez, Matthieu Cord, Karteek Alahari",
+      "paper_url": "https://openreview.net/pdf?id=abd_D-iVjk0",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_WLOTZHmmO6",
+      "paper_id": "WLOTZHmmO6",
+      "title": "Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction",
+      "authors": "Yili Liu, Linzhan Mou, Xuan Yu, Chenrui Han, Sitong Mao, Rong Xiong, Yue Wang",
+      "paper_url": "https://openreview.net/pdf?id=WLOTZHmmO6",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_gOW9pdOeqUc",
+      "paper_id": "gOW9pdOeqUc",
+      "title": "Lidar Line Selection with Spatially-Aware Shapley Value for Cost-Efficient Depth Completion",
+      "authors": "Kamil Adamczewski, Christos Sakaridis, Vaishakh Patil, Luc Van Gool",
+      "paper_url": "https://openreview.net/pdf?id=gOW9pdOeqUc",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_MfuzopqVOX",
+      "paper_id": "MfuzopqVOX",
+      "title": "LiDARGrid: Self-supervised 3D Opacity Grid from LiDAR for Scene Forecasting",
+      "authors": "Chuanyu Pan, Aolin Xu",
+      "paper_url": "https://openreview.net/pdf?id=MfuzopqVOX",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_hW0tcXOJas2",
+      "paper_id": "hW0tcXOJas2",
+      "title": "Multi-Robot Scene Completion: Towards Task-Agnostic Collaborative Perception",
+      "authors": "Yiming Li, Juexiao Zhang, Dekun Ma, Yue Wang, Chen Feng",
+      "paper_url": "https://openreview.net/pdf?id=hW0tcXOJas2",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_bEito8UUUmf",
+      "paper_id": "bEito8UUUmf",
+      "title": "Probabilistic and Geometric Depth: Detecting Objects in Perspective",
+      "authors": "Tai Wang, Xinge ZHU, Jiangmiao Pang, Dahua Lin",
+      "paper_url": "https://openreview.net/pdf?id=bEito8UUUmf",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_Qoy12gkH4C",
+      "paper_id": "Qoy12gkH4C",
+      "title": "Progressive Multi-Modal Fusion for Robust 3D Object Detection",
+      "authors": "Rohit Mohan, Daniele Cattaneo, Florian Drews, Abhinav Valada",
+      "paper_url": "https://openreview.net/pdf?id=Qoy12gkH4C",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss21_40",
+      "paper_id": "40",
+      "title": "Real-Time Multi-View 3D Human Pose Estimation using Semantic Feedback to Smart Edge Sensors",
+      "authors": "Simon Bultmann (University of Bonn), Sven Behnke (University of Bonn)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p040.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_nuAGobCwb8V",
+      "paper_id": "nuAGobCwb8V",
+      "title": "Representation Learning for Object Detection from Unlabeled Point Cloud Sequences",
+      "authors": "Xiangru Huang, Yue Wang, Vitor Campagnolo Guizilini, Rares Andrei Ambrus, Adrien Gaidon, Justin Solomon",
+      "paper_url": "https://openreview.net/pdf?id=nuAGobCwb8V",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_HCWoFkGe8L4",
+      "paper_id": "HCWoFkGe8L4",
+      "title": "Revisiting Depth-guided Methods for Monocular 3D Object Detection by Hierarchical Balanced Depth",
+      "authors": "Yi-Rong Chen, Ching-Yu Tseng, Yi-Syuan Liou, Tsung-Han Wu, Winston H. Hsu",
+      "paper_url": "https://openreview.net/pdf?id=HCWoFkGe8L4",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_UVARkqnsDd",
+      "paper_id": "UVARkqnsDd",
+      "title": "ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction",
+      "authors": "Jingyi Yu, Zizhao Zhang, Shengfu Xia, Jizhang Sang",
+      "paper_url": "https://openreview.net/pdf?id=UVARkqnsDd",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_JvXqtLtAtMY",
+      "paper_id": "JvXqtLtAtMY",
+      "title": "Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks",
+      "authors": "Benedikt Mersch, Xieyuanli Chen, Jens Behley, Cyrill Stachniss",
+      "paper_url": "https://openreview.net/pdf?id=JvXqtLtAtMY",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_eeoX7tCoK2",
+      "paper_id": "eeoX7tCoK2",
+      "title": "Shelf-Supervised Cross-Modal Pre-Training for 3D Object Detection",
+      "authors": "Mehar Khurana, Neehar Peri, James Hays, Deva Ramanan",
+      "paper_url": "https://openreview.net/pdf?id=eeoX7tCoK2",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_CGn3XKSf7vf",
+      "paper_id": "CGn3XKSf7vf",
+      "title": "Single-Shot Scene Reconstruction",
+      "authors": "Sergey Zakharov, Rares Andrei Ambrus, Vitor Campagnolo Guizilini, Dennis Park, Wadim Kehl, Fredo Durand, Joshua B. Tenenbaum, Vincent Sitzmann, Jiajun Wu, Adrien Gaidon",
+      "paper_url": "https://openreview.net/pdf?id=CGn3XKSf7vf",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22__u4m5aEbWfU",
+      "paper_id": "_u4m5aEbWfU",
+      "title": "SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation",
+      "authors": "Yi Wei, Linqing Zhao, Wenzhao Zheng, Zheng Zhu, Yongming Rao, Guan Huang, Jiwen Lu, Jie Zhou",
+      "paper_url": "https://openreview.net/pdf?id=_u4m5aEbWfU",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_FzMHiDesj0I",
+      "paper_id": "FzMHiDesj0I",
+      "title": "TANDEM: Tracking and Dense Mapping in Real-time using Deep Multi-view Stereo",
+      "authors": "Lukas Koestler, Nan Yang, Niclas Zeller, Daniel Cremers",
+      "paper_url": "https://openreview.net/pdf?id=FzMHiDesj0I",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_F6iq9FU2xnc",
+      "paper_id": "F6iq9FU2xnc",
+      "title": "Towards Long-Tailed 3D Detection",
+      "authors": "Neehar Peri, Achal Dave, Deva Ramanan, Shu Kong",
+      "paper_url": "https://openreview.net/pdf?id=F6iq9FU2xnc",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_SM70KHTBG-0",
+      "paper_id": "SM70KHTBG-0",
+      "title": "Vision-based Uneven BEV Representation Learning with Polar Rasterization and Surface Estimation",
+      "authors": "Zhi Liu, Shaoyu Chen, Xiaojie Guo, Xinggang Wang, Tianheng Cheng, Hongmei Zhu, Qian Zhang, Wenyu Liu, Yi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=SM70KHTBG-0",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_EifoVoIyd5",
+      "paper_id": "EifoVoIyd5",
+      "title": "What Matters in Range View 3D Object Detection",
+      "authors": "Benjamin Wilson, Nicholas Autio Mitchell, Jhony Kaesemodel Pontes, James Hays",
+      "paper_url": "https://openreview.net/pdf?id=EifoVoIyd5",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_7RyzGWLk79H",
+      "paper_id": "7RyzGWLk79H",
+      "title": "When the Sun Goes Down: Repairing Photometric Losses for All-Day Depth Estimation",
+      "authors": "Madhu Vankadari, Stuart Golodetz, Sourav Garg, Sangyun Shin, Andrew Markham, Niki Trigoni",
+      "paper_url": "https://openreview.net/pdf?id=7RyzGWLk79H",
+      "venue": "corl22"
+    }
+  ]
+}

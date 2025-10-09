@@ -1,0 +1,2765 @@
+{
+  "cluster_id": 70,
+  "papers": [
+    {
+      "id": "iclr25_JMPOqoe4tl",
+      "paper_id": "JMPOqoe4tl",
+      "title": "$\\sigma$-zero: Gradient-based Optimization of $\\ell_0$-norm Adversarial Examples",
+      "authors": "Antonio Emanuele Cinà, Francesco Villani, Maura Pintor, Lea Schönherr, Battista Biggio, Marcello Pelillo",
+      "paper_url": "https://openreview.net/pdf?id=JMPOqoe4tl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bBNUiErs26",
+      "paper_id": "bBNUiErs26",
+      "title": "$\\text{I}^2\\text{AM}$: Interpreting Image-to-Image Latent Diffusion Models via Bi-Attribution Maps",
+      "authors": "Junseo Park, Hyeryung Jang",
+      "paper_url": "https://openreview.net/pdf?id=bBNUiErs26",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JLg5aHHv7j",
+      "paper_id": "JLg5aHHv7j",
+      "title": "(Certified!!) Adversarial Robustness for Free!",
+      "authors": "Nicholas Carlini, Florian Tramer, Krishnamurthy Dj Dvijotham, Leslie Rice, Mingjie Sun, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/ffd8346924f2b5c29c98d9eebd37fde97ba3461a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_SctfBCLmWo",
+      "paper_id": "SctfBCLmWo",
+      "title": "A Decade's Battle on Dataset Bias: Are We There Yet?",
+      "authors": "Zhuang Liu, Kaiming He",
+      "paper_url": "https://openreview.net/pdf?id=SctfBCLmWo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xiQNfYl33p",
+      "paper_id": "xiQNfYl33p",
+      "title": "A Generic Framework for Conformal Fairness",
+      "authors": "Aditya T. Vadlamani, Anutam Srinivasan, Pranav Maneriker, Ali Payani, srinivasan parthasarathy",
+      "paper_url": "https://openreview.net/pdf?id=xiQNfYl33p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_0_TxFpAsEI",
+      "paper_id": "0_TxFpAsEI",
+      "title": "A law of adversarial risk, interpolation, and label noise",
+      "authors": "Daniel Paleka, Amartya Sanyal",
+      "paper_url": "https://openreview.net/pdf/01caf3dd0ea1be0ef1782bbb1dbc2a81569dfb0d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_9xC2tWEwBD",
+      "paper_id": "9xC2tWEwBD",
+      "title": "A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference",
+      "authors": "Sanghyun Hong, Yigitcan Kaya, Ionuț-Vlad Modoranu, Tudor Dumitras",
+      "paper_url": "https://openreview.net/pdf/c7b1e1ec7f160d09cea4ae461b498ee701297eb3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_qz3mcn99cu",
+      "paper_id": "qz3mcn99cu",
+      "title": "A Recipe for Improved Certifiable Robustness",
+      "authors": "Kai Hu, Klas Leino, Zifan Wang, Matt Fredrikson",
+      "paper_url": "https://openreview.net/pdf?id=qz3mcn99cu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_6p8lpe4MNf",
+      "paper_id": "6p8lpe4MNf",
+      "title": "A Semantic Invariant Robust Watermark for Large Language Models",
+      "authors": "Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen",
+      "paper_url": "https://openreview.net/pdf?id=6p8lpe4MNf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_N2WchST43h",
+      "paper_id": "N2WchST43h",
+      "title": "A Sublinear Adversarial Training Algorithm",
+      "authors": "Yeqi Gao, Lianke Qin, Zhao Song, Yitan Wang",
+      "paper_url": "https://openreview.net/pdf?id=N2WchST43h",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UchRjcf4z7",
+      "paper_id": "UchRjcf4z7",
+      "title": "A Transfer Attack to Image Watermarks",
+      "authors": "Yuepeng Hu, Zhengyuan Jiang, Moyang Guo, Neil Zhenqiang Gong",
+      "paper_url": "https://openreview.net/pdf?id=UchRjcf4z7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_X76iqnUbBjz",
+      "paper_id": "X76iqnUbBjz",
+      "title": "A Unified Approach to Interpreting and Boosting Adversarial Transferability",
+      "authors": "Xin Wang, Jie Ren, Shuyun Lin, Xiangming Zhu, Yisen Wang, Quanshi Zhang",
+      "paper_url": "https://openreview.net/pdf/92ba2b486ce85a52e017691c5f53af8699796288.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_Dzpe9C1mpiv",
+      "paper_id": "Dzpe9C1mpiv",
+      "title": "A Unified Wasserstein Distributional Robustness Framework for Adversarial Training",
+      "authors": "Anh Tuan Bui, Trung Le, Quan Hung Tran, He Zhao, Dinh Phung",
+      "paper_url": "https://openreview.net/pdf/7572638f2a47392a13461e8530c3c1cb8786742c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_hTUrBJqECJ",
+      "paper_id": "hTUrBJqECJ",
+      "title": "A Watermark for Low-entropy and Unbiased Generation in Large Language Models",
+      "authors": "Minjia Mao, Dongjun Wei, Zeyu Chen, Xiao Fang, Michael Chau",
+      "paper_url": "https://openreview.net/pdf?id=hTUrBJqECJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Nlm3Xf0W9S",
+      "paper_id": "Nlm3Xf0W9S",
+      "title": "A Watermark for Order-Agnostic Language Models",
+      "authors": "Ruibo Chen, Yihan Wu, Yanshuo Chen, Chenxi Liu, Junfeng Guo, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=Nlm3Xf0W9S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VNMJfBBUd5",
+      "paper_id": "VNMJfBBUd5",
+      "title": "Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks",
+      "authors": "Danni Yuan, Mingda Zhang, Shaokui Wei, Li Liu, Baoyuan Wu",
+      "paper_url": "https://openreview.net/pdf?id=VNMJfBBUd5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_g0rnZeBguq",
+      "paper_id": "g0rnZeBguq",
+      "title": "ADBM: Adversarial Diffusion Bridge Model for Reliable Adversarial Purification",
+      "authors": "Xiao Li, Wenxuan Sun, Huanran Chen, Qiongxiu Li, Yingzhe He, Jie Shi, Xiaolin Hu",
+      "paper_url": "https://openreview.net/pdf?id=g0rnZeBguq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oJgIRwkIUB",
+      "paper_id": "oJgIRwkIUB",
+      "title": "Adversarial Attacks on Data Attribution",
+      "authors": "Xinhe Wang, Pingbang Hu, Junwei Deng, Jiaqi W. Ma",
+      "paper_url": "https://openreview.net/pdf?id=oJgIRwkIUB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IOEEDkla96",
+      "paper_id": "IOEEDkla96",
+      "title": "Adversarial Feature Map Pruning for Backdoor",
+      "authors": "Dong HUANG, Qingwen Bu",
+      "paper_url": "https://openreview.net/pdf?id=IOEEDkla96",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cNaHOdvh9J",
+      "paper_id": "cNaHOdvh9J",
+      "title": "Adversarial Latent Feature Augmentation for Fairness",
+      "authors": "Hoin Jung, Junyi Chai, Xiaoqian Wang",
+      "paper_url": "https://openreview.net/pdf?id=cNaHOdvh9J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yfW1x7uBS5",
+      "paper_id": "yfW1x7uBS5",
+      "title": "Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI",
+      "authors": "Robert Hönig, Javier Rando, Nicholas Carlini, Florian Tramèr",
+      "paper_url": "https://openreview.net/pdf?id=yfW1x7uBS5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_cZAi1yWpiXQ",
+      "paper_id": "cZAi1yWpiXQ",
+      "title": "Adversarial Robustness Through the Lens of Causality",
+      "authors": "Yonggang Zhang, Mingming Gong, Tongliang Liu, Gang Niu, Xinmei Tian, Bo Han, Bernhard Schölkopf, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf/409af234b081e8d93ddd0a2b3e2d79d3f3a24b19.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_inLUnCpDIB",
+      "paper_id": "inLUnCpDIB",
+      "title": "Adversarial Training Can Provably Improve Robustness: Theoretical Analysis of Feature Learning Process Under Structured Data",
+      "authors": "Binghui Li, Yuanzhi Li",
+      "paper_url": "https://openreview.net/pdf?id=inLUnCpDIB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UlpkHciYQP",
+      "paper_id": "UlpkHciYQP",
+      "title": "Adversarial Training for Defense Against Label Poisoning Attacks",
+      "authors": "Melis Ilayda Bal, Volkan Cevher, Michael Muehlebach",
+      "paper_url": "https://openreview.net/pdf?id=UlpkHciYQP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_LfdEuhjR5GV",
+      "paper_id": "LfdEuhjR5GV",
+      "title": "Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks",
+      "authors": "Zhiyuan Cheng, James Chenhao Liang, Guanhong Tao, Dongfang Liu, Xiangyu Zhang",
+      "paper_url": "https://openreview.net/pdf/2adac83c94d065c20230762eac3aad072f2424ef.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_u7559ZMvwY",
+      "paper_id": "u7559ZMvwY",
+      "title": "Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization",
+      "authors": "Guang Lin, Chao Li, Jianhai Zhang, Toshihisa Tanaka, Qibin Zhao",
+      "paper_url": "https://openreview.net/pdf?id=u7559ZMvwY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_XJ9vjEAqbx",
+      "paper_id": "XJ9vjEAqbx",
+      "title": "Adversarial Training Should Be Cast as a Non-Zero-Sum Game",
+      "authors": "Alexander Robey, Fabian Latorre, George J. Pappas, Hamed Hassani, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf?id=XJ9vjEAqbx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_MeeQkFYVbzW",
+      "paper_id": "MeeQkFYVbzW",
+      "title": "Adversarial Unlearning of Backdoors via Implicit Hypergradient",
+      "authors": "Yi Zeng, Si Chen, Won Park, Zhuoqing Mao, Ming Jin, Ruoxi Jia",
+      "paper_url": "https://openreview.net/pdf/6aeb6e81c9d0eadbb4cfbefb6caac0f155d561ea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_ijJZbomCJIm",
+      "paper_id": "ijJZbomCJIm",
+      "title": "Adversarially-Trained Deep Nets Transfer Better: Illustration on Image Classification",
+      "authors": "Francisco Utrera, Evan Kravitz, N. Benjamin Erichson, Rajiv Khanna, Michael W. Mahoney",
+      "paper_url": "https://openreview.net/pdf/566e8902b7a749d4525ff5f0933ffdae3a9bec39.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_U9j40EohfY",
+      "paper_id": "U9j40EohfY",
+      "title": "Adversaries With Incentives:  A Strategic Alternative to Adversarial Robustness",
+      "authors": "Maayan Ehrenberg, Roy Ganz, Nir Rosenfeld",
+      "paper_url": "https://openreview.net/pdf?id=U9j40EohfY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_m73tETvFkX",
+      "paper_id": "m73tETvFkX",
+      "title": "AdvPaint: Protecting Images from Inpainting Manipulation via Adversarial Attention Disruption",
+      "authors": "Joonsung Jeon, Woo Jae Kim, Suhyeon Ha, Sooel Son, Sung-eui Yoon",
+      "paper_url": "https://openreview.net/pdf?id=m73tETvFkX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_OM_lYiHXiCL",
+      "paper_id": "OM_lYiHXiCL",
+      "title": "AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis",
+      "authors": "Junfeng Guo, Ang Li, Cong Liu",
+      "paper_url": "https://openreview.net/pdf/b8ad85b4ddd615a5abac4d7c1d5713fc92b9f0e9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_IrzkT99fDJH",
+      "paper_id": "IrzkT99fDJH",
+      "title": "AGRO: Adversarial discovery of error-prone Groups for Robust Optimization",
+      "authors": "Bhargavi Paranjape, Pradeep Dasigi, Vivek Srikumar, Luke Zettlemoyer, Hannaneh Hajishirzi",
+      "paper_url": "https://openreview.net/pdf/917c28995eb2cfb8dba1865414692a0c7cf1e345.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_9KiE3t6CsL",
+      "paper_id": "9KiE3t6CsL",
+      "title": "ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition",
+      "authors": "Joseph Fioresi, Ishan Rajendrakumar Dave, Mubarak Shah",
+      "paper_url": "https://openreview.net/pdf?id=9KiE3t6CsL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2GwMazl9ND",
+      "paper_id": "2GwMazl9ND",
+      "title": "Algorithmic Stability Based Generalization Bounds for Adversarial Training",
+      "authors": "Runzhi Tian, Yongyi Mao",
+      "paper_url": "https://openreview.net/pdf?id=2GwMazl9ND",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_SMYdcXjJh1q",
+      "paper_id": "SMYdcXjJh1q",
+      "title": "Aligning Model and Macaque Inferior Temporal Cortex Representations Improves Model-to-Human Behavioral Alignment and Adversarial Robustness",
+      "authors": "Joel Dapello, Kohitij Kar, Martin Schrimpf, Robert Baldwin Geary, Michael Ferguson, David Daniel Cox, James J. DiCarlo",
+      "paper_url": "https://openreview.net/pdf/9c4c1940dba43cb5ad6502b7a23339d19d3a9a49.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ODSgo2m8aE",
+      "paper_id": "ODSgo2m8aE",
+      "title": "Aligning Relational Learning with Lipschitz Fairness",
+      "authors": "Yaning Jia, Chunhui Zhang, Soroush Vosoughi",
+      "paper_url": "https://openreview.net/pdf?id=ODSgo2m8aE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_gJLEXy3ySpu",
+      "paper_id": "gJLEXy3ySpu",
+      "title": "Almost Tight L0-norm Certified Robustness of Top-k Predictions against Adversarial Perturbations",
+      "authors": "Jinyuan Jia, Binghui Wang, Xiaoyu Cao, Hongbin Liu, Neil Zhenqiang Gong",
+      "paper_url": "https://openreview.net/pdf/468bb7a69cab231837989615dedd6b3b33a6c683.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9EqQC2ct4H",
+      "paper_id": "9EqQC2ct4H",
+      "title": "An Efficient Framework for Crediting Data Contributors of Diffusion Models",
+      "authors": "MingYu Lu, Chris Lin, Chanwoo Kim, Su-In Lee",
+      "paper_url": "https://openreview.net/pdf?id=9EqQC2ct4H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rpH9FcCEV6",
+      "paper_id": "rpH9FcCEV6",
+      "title": "An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization",
+      "authors": "Fei Kong, Jinhao Duan, RuiPeng Ma, Heng Tao Shen, Xiaoshuang Shi, Xiaofeng Zhu, Kaidi Xu",
+      "paper_url": "https://openreview.net/pdf?id=rpH9FcCEV6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jlhBFm7T2J",
+      "paper_id": "jlhBFm7T2J",
+      "title": "An Undetectable Watermark for Generative Image Models",
+      "authors": "Sam Gunn, Xuandong Zhao, Dawn Song",
+      "paper_url": "https://openreview.net/pdf?id=jlhBFm7T2J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gMLQwKDY3N",
+      "paper_id": "gMLQwKDY3N",
+      "title": "An Unforgeable Publicly Verifiable Watermark for Large Language Models",
+      "authors": "Aiwei Liu, Leyi Pan, Xuming Hu, Shuang Li, Lijie Wen, Irwin King, Philip S. Yu",
+      "paper_url": "https://openreview.net/pdf?id=gMLQwKDY3N",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_eT6oLkm1cm",
+      "paper_id": "eT6oLkm1cm",
+      "title": "Annealing Self-Distillation Rectification Improves Adversarial Training",
+      "authors": "Yu-Yu Wu, Hung-Jui Wang, Shang-Tse Chen",
+      "paper_url": "https://openreview.net/pdf?id=eT6oLkm1cm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_e2YOVTenU9",
+      "paper_id": "e2YOVTenU9",
+      "title": "ArchLock: Locking DNN Transferability at the Architecture Level with a Zero-Cost Binary Predictor",
+      "authors": "Tong Zhou, Shaolei Ren, Xiaolin Xu",
+      "paper_url": "https://openreview.net/pdf?id=e2YOVTenU9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_JoCR4h9O3Ew",
+      "paper_id": "JoCR4h9O3Ew",
+      "title": "ARMOURED: Adversarially Robust MOdels using Unlabeled data by REgularizing Diversity",
+      "authors": "Kangkang Lu, Cuong Manh Nguyen, Xun Xu, Kiran Krishnamachari, Yu Jing Goh, Chuan-Sheng Foo",
+      "paper_url": "https://openreview.net/pdf/e402c5559bfaf850b8b9316d0ada923c0a35e9b6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_lAhQCHuANV",
+      "paper_id": "lAhQCHuANV",
+      "title": "Assessing Uncertainty in Similarity Scoring: Performance & Fairness in Face Recognition",
+      "authors": "Jean-Rémy Conti, Stephan Clémençon",
+      "paper_url": "https://openreview.net/pdf?id=lAhQCHuANV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZbkqhKbggH",
+      "paper_id": "ZbkqhKbggH",
+      "title": "ASTrA: Adversarial Self-supervised Training with Adaptive-Attacks",
+      "authors": "Prakash Chandra Chhipa, Gautam Vashishtha, Settur Jithamanyu, Rajkumar Saini, Mubarak Shah, Marcus Liwicki",
+      "paper_url": "https://openreview.net/pdf?id=ZbkqhKbggH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Zf4ZdI4OQPV",
+      "paper_id": "Zf4ZdI4OQPV",
+      "title": "Attacking deep networks with surrogate-based adversarial black-box methods is easy",
+      "authors": "Nicholas A. Lord, Romain Mueller, Luca Bertinetto",
+      "paper_url": "https://openreview.net/pdf/a443a40817b896b8fa11383453c012d785af6a17.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_oxjeePpgSP",
+      "paper_id": "oxjeePpgSP",
+      "title": "Backdoor Contrastive Learning via Bi-level Trigger Optimization",
+      "authors": "Weiyu Sun, Xinyu Zhang, Hao LU, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin",
+      "paper_url": "https://openreview.net/pdf?id=oxjeePpgSP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_TySnJ-0RdKI",
+      "paper_id": "TySnJ-0RdKI",
+      "title": "Backdoor Defense via Decoupling the Training Process",
+      "authors": "Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren",
+      "paper_url": "https://openreview.net/pdf/825a2fee50fe494bcf13085113d2a7565af192b6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_1OfAO2mes1",
+      "paper_id": "1OfAO2mes1",
+      "title": "Backdoor Secrets Unveiled: Identifying Backdoor Data with Optimized Scaled Prediction Consistency",
+      "authors": "Soumyadeep Pal, Yuguang Yao, Ren Wang, Bingquan Shen, Sijia Liu",
+      "paper_url": "https://openreview.net/pdf?id=1OfAO2mes1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tZozeR3VV7",
+      "paper_id": "tZozeR3VV7",
+      "title": "Backdooring Vision-Language Models with Out-Of-Distribution Data",
+      "authors": "Weimin Lyu, Jiachen Yao, Saumya Gupta, Lu Pang, Tao Sun, Lingjie Yi, Lijie Hu, Haibin Ling, Chao Chen",
+      "paper_url": "https://openreview.net/pdf?id=tZozeR3VV7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_s56xikpD92",
+      "paper_id": "s56xikpD92",
+      "title": "BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection",
+      "authors": "Tinghao Xie, Xiangyu Qi, Ping He, Yiming Li, Jiachen T. Wang, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf?id=s56xikpD92",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Xb8xvrtB8Ce",
+      "paper_id": "Xb8xvrtB8Ce",
+      "title": "Bag of Tricks for Adversarial Training",
+      "authors": "Tianyu Pang, Xiao Yang, Yinpeng Dong, Hang Su, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf/cd34c578852869a39b386b91bdb51a8e91255111.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Xz13DtbOVW",
+      "paper_id": "Xz13DtbOVW",
+      "title": "Balancing Act: Constraining Disparate Impact in Sparse Models",
+      "authors": "Meraj Hashemizadeh, Juan Ramirez, Rohan Sukumaran, Golnoosh Farnadi, Simon Lacoste-Julien, Jose Gallego-Posada",
+      "paper_url": "https://openreview.net/pdf?id=Xz13DtbOVW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1SbkubNdbW",
+      "paper_id": "1SbkubNdbW",
+      "title": "Be Careful What You Smooth For: Label Smoothing Can Be a Privacy Shield but Also a Catalyst for Model Inversion Attacks",
+      "authors": "Lukas Struppek, Dominik Hintersdorf, Kristian Kersting",
+      "paper_url": "https://openreview.net/pdf?id=1SbkubNdbW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_MyHwDabUHZm",
+      "paper_id": "MyHwDabUHZm",
+      "title": "Beyond Categorical Label Representations for Image Classification",
+      "authors": "Boyuan Chen, Yu Li, Sunand Raghupathi, Hod Lipson",
+      "paper_url": "https://openreview.net/pdf/14e605cccc7af2ba01dc51b23e624ff89dbeff7c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_QkRV50TZyP",
+      "paper_id": "QkRV50TZyP",
+      "title": "Beyond ImageNet Attack: Towards Crafting Adversarial Examples for Black-box Domains",
+      "authors": "Qilong Zhang, Xiaodan Li, YueFeng Chen, Jingkuan Song, Lianli Gao, Yuan He, Hui Xue'",
+      "paper_url": "https://openreview.net/pdf/e3edfd55ba8b10084cbe821c5e89dd92bb887262.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_E4LAVLXAHW",
+      "paper_id": "E4LAVLXAHW",
+      "title": "Black-Box Detection of Language Model Watermarks",
+      "authors": "Thibaud Gloaguen, Nikola Jovanović, Robin Staab, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=E4LAVLXAHW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_SZynfVLGd5",
+      "paper_id": "SZynfVLGd5",
+      "title": "Boosting Adversarial Transferability using Dynamic Cues",
+      "authors": "Muzammal Naseer, Ahmad Mahmood, Salman Khan, Fahad Khan",
+      "paper_url": "https://openreview.net/pdf/9e990c20252d6a4dcc08a88751f2f07536fc4f76.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_mHu2vIds_-b",
+      "paper_id": "mHu2vIds_-b",
+      "title": "Boosting Randomized Smoothing with Variance Reduced Classifiers",
+      "authors": "Miklós Z. Horváth, Mark Niklas Mueller, Marc Fischer, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/23e2b6f2b0f6bf1e6d39492a2557b0b0357d6fdf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_tIBAOcAvn4",
+      "paper_id": "tIBAOcAvn4",
+      "title": "Boosting Ray Search Procedure of Hard-label Attacks with Transfer-based Priors",
+      "authors": "Chen Ma, Xinjie Xu, Shuyu Cheng, Qi Xuan",
+      "paper_url": "https://openreview.net/pdf?id=tIBAOcAvn4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Q76Y7wkiji",
+      "paper_id": "Q76Y7wkiji",
+      "title": "Boosting the Certified Robustness of L-infinity Distance Nets",
+      "authors": "Bohang Zhang, Du Jiang, Di He, Liwei Wang",
+      "paper_url": "https://openreview.net/pdf/64139e9e640cc111e35419ac12e0f222b55ecd9b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_PAfnMGXief",
+      "paper_id": "PAfnMGXief",
+      "title": "BRUSLEATTACK: A QUERY-EFFICIENT SCORE- BASED BLACK-BOX SPARSE ADVERSARIAL ATTACK",
+      "authors": "Quoc Viet Vo, Ehsan Abbasnejad, Damith Ranasinghe",
+      "paper_url": "https://openreview.net/pdf?id=PAfnMGXief",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ujpAYpFDEA",
+      "paper_id": "ujpAYpFDEA",
+      "title": "Can Watermarked LLMs be Identified by Users via Crafted Prompts?",
+      "authors": "Aiwei Liu, Sheng Guan, Yiming Liu, Leyi Pan, Yifei Zhang, Liancheng Fang, Lijie Wen, Philip S. Yu, Xuming Hu",
+      "paper_url": "https://openreview.net/pdf?id=ujpAYpFDEA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KRMSH1GxUK",
+      "paper_id": "KRMSH1GxUK",
+      "title": "Can Watermarks be Used to Detect LLM IP Infringement For Free?",
+      "authors": "Zhengyue Zhao, Xiaogeng Liu, Somesh Jha, Patrick McDaniel, Bo Li, Chaowei Xiao",
+      "paper_url": "https://openreview.net/pdf?id=KRMSH1GxUK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_b7SBTEBFnC",
+      "paper_id": "b7SBTEBFnC",
+      "title": "Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries",
+      "authors": "Yuxin Wen, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/77e3d4474830ef1ec482bf7015ca9b61fa9f8264.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_DqD59dQP37",
+      "paper_id": "DqD59dQP37",
+      "title": "Causal Fairness under Unobserved Confounding: A Neural Sensitivity Framework",
+      "authors": "Maresa Schröder, Dennis Frauen, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf?id=DqD59dQP37",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_b0JxQC7JLWh",
+      "paper_id": "b0JxQC7JLWh",
+      "title": "Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation",
+      "authors": "Maksym Yatsura, Kaspar Sakmann, N. Grace Hua, Matthias Hein, Jan Hendrik Metzen",
+      "paper_url": "https://openreview.net/pdf/33118a52ee49a22c9c466c179d0475d60c082e6c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_y1PXylgrXZ",
+      "paper_id": "y1PXylgrXZ",
+      "title": "Certified Robustness for Deep Equilibrium Models via Interval Bound Propagation",
+      "authors": "Colin Wei, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/56e9b880fdd57082fed8b007163cdddb3d9c50e1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_cd79pbXi4N",
+      "paper_id": "cd79pbXi4N",
+      "title": "Certified Robustness Under Bounded Levenshtein Distance",
+      "authors": "Elias Abad Rocamora, Grigorios Chrysos, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf?id=cd79pbXi4N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_7oFuxtJtUMH",
+      "paper_id": "7oFuxtJtUMH",
+      "title": "Certified Training: Small Boxes are All You Need",
+      "authors": "Mark Niklas Mueller, Franziska Eckert, Marc Fischer, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/e61a2e061488e943012e445b9549adde476fd159.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_USCNapootw",
+      "paper_id": "USCNapootw",
+      "title": "Certify or Predict: Boosting Certified Robustness with Compositional Architectures",
+      "authors": "Mark Niklas Mueller, Mislav Balunovic, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/9e6eb18330c25797cf3af7f9a23a4ac3a44de56c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_4DoSULcfG6",
+      "paper_id": "4DoSULcfG6",
+      "title": "Chameleon: Increasing Label-Only Membership Leakage with Adaptive Poisoning",
+      "authors": "Harsh Chaudhari, Giorgio Severi, Alina Oprea, Jonathan Ullman",
+      "paper_url": "https://openreview.net/pdf?id=4DoSULcfG6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_rFQfjDC9Mt",
+      "paper_id": "rFQfjDC9Mt",
+      "title": "Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only",
+      "authors": "Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, Tianwei Zhang",
+      "paper_url": "https://openreview.net/pdf/6021cbdfd717a31730914f92bc2b1e9762135b65.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_TQ2ZOy6miT",
+      "paper_id": "TQ2ZOy6miT",
+      "title": "CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification",
+      "authors": "Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng",
+      "paper_url": "https://openreview.net/pdf?id=TQ2ZOy6miT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ULQdiUTHe3y",
+      "paper_id": "ULQdiUTHe3y",
+      "title": "Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks",
+      "authors": "Jan Schuchardt, Aleksandar Bojchevski, Johannes Gasteiger, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/23b393f2d9e53b0dd38356295f14b0980ac27b18.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_I4iZmsV4HM",
+      "paper_id": "I4iZmsV4HM",
+      "title": "ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration",
+      "authors": "Youngseok Kim, Sunwook Hwang, Hyung-Sin Kim, Saewoong Bahk",
+      "paper_url": "https://openreview.net/pdf?id=I4iZmsV4HM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_rw1mZl_ss3L",
+      "paper_id": "rw1mZl_ss3L",
+      "title": "Concurrent Adversarial Learning for Large-Batch Training",
+      "authors": "Yong Liu, Xiangning Chen, Minhao Cheng, Cho-Jui Hsieh, Yang You",
+      "paper_url": "https://openreview.net/pdf/25ea73927b74e924f44d2eff35ccc805441bcbe9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fZK6AQXlUU",
+      "paper_id": "fZK6AQXlUU",
+      "title": "Conformal Prediction Sets Can Cause Disparate Impact",
+      "authors": "Jesse C. Cresswell, Bhargava Kumar, Yi Sui, Mouloud Belbahri",
+      "paper_url": "https://openreview.net/pdf?id=fZK6AQXlUU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_6IjN7oxjXt",
+      "paper_id": "6IjN7oxjXt",
+      "title": "Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training",
+      "authors": "Shruthi Gowda, Bahram Zonooz, Elahe Arani",
+      "paper_url": "https://openreview.net/pdf?id=6IjN7oxjXt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_kRoWeLTpL4",
+      "paper_id": "kRoWeLTpL4",
+      "title": "Copyright-Protected Language Generation via Adaptive Model Fusion",
+      "authors": "Javier Abad, Konstantin Donhauser, Francesco Pinto, Fanny Yang",
+      "paper_url": "https://openreview.net/pdf?id=kRoWeLTpL4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BRdEBlwUW6",
+      "paper_id": "BRdEBlwUW6",
+      "title": "DAFA: Distance-Aware Fair Adversarial Training",
+      "authors": "Hyungyu Lee, Saehyung Lee, Hyemi Jang, Junsung Park, Ho Bae, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf?id=BRdEBlwUW6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_y4uc4NtTWaq",
+      "paper_id": "y4uc4NtTWaq",
+      "title": "Data augmentation alone can improve adversarial training",
+      "authors": "Lin Li, Michael W. Spratling",
+      "paper_url": "https://openreview.net/pdf/e4ec59a80e39f443efdbbcad0a5e73fbfc19eee5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_B5XahNLmna",
+      "paper_id": "B5XahNLmna",
+      "title": "Data Poisoning Won’t Save You From Facial Recognition",
+      "authors": "Evani Radiya-Dixit, Sanghyun Hong, Nicholas Carlini, Florian Tramer",
+      "paper_url": "https://openreview.net/pdf/664ff8f2d58700ae00821a00773fdedbf383c737.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_6ldD8Y4gBQ",
+      "paper_id": "6ldD8Y4gBQ",
+      "title": "Data Taggants: Dataset Ownership Verification Via Harmless Targeted Data Poisoning",
+      "authors": "Wassim Bouaziz, Nicolas Usunier, El-Mahdi El-Mhamdi",
+      "paper_url": "https://openreview.net/pdf?id=6ldD8Y4gBQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_9m02ib92Wz",
+      "paper_id": "9m02ib92Wz",
+      "title": "DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models",
+      "authors": "Yongchan Kwon, Eric Wu, Kevin Wu, James Zou",
+      "paper_url": "https://openreview.net/pdf?id=9m02ib92Wz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_hvdKKV2yt7T",
+      "paper_id": "hvdKKV2yt7T",
+      "title": "Dataset Inference: Ownership Resolution in Machine Learning",
+      "authors": "Pratyush Maini, Mohammad Yaghini, Nicolas Papernot",
+      "paper_url": "https://openreview.net/pdf/f677fca9fd0a50d90120a4a823fcbbe889d8ca28.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_zeAOzn80VQ",
+      "paper_id": "zeAOzn80VQ",
+      "title": "Dataset Ownership Verification in Contrastive Pre-trained Models",
+      "authors": "Yuechen Xie, Jie Song, Mengqi Xue, Haofei Zhang, Xingen Wang, Bingde Hu, Genlang Chen, Mingli Song",
+      "paper_url": "https://openreview.net/pdf?id=zeAOzn80VQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21__kxlwvhOodK",
+      "paper_id": "_kxlwvhOodK",
+      "title": "Decentralized Attribution of Generative Models",
+      "authors": "Changhoon Kim, Yi Ren, Yezhou Yang",
+      "paper_url": "https://openreview.net/pdf/6895a29f55a7f92f11157dd3802660ded9122484.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_VqzVhqxkjH1",
+      "paper_id": "VqzVhqxkjH1",
+      "title": "Deep Neural Network Fingerprinting by Conferrable Adversarial Examples",
+      "authors": "Nils Lukas, Yuxuan Zhang, Florian Kerschbaum",
+      "paper_url": "https://openreview.net/pdf/4c8c09b36e5485077c542426e9f254160401a43c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_YUGG2tFuPM",
+      "paper_id": "YUGG2tFuPM",
+      "title": "Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks",
+      "authors": "Alexander Levine, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/d7ef1d2223ddeebc34ef648c6db9ba088ba871bb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_5-Df3tljit7",
+      "paper_id": "5-Df3tljit7",
+      "title": "Defending against Adversarial Audio  via Diffusion Model",
+      "authors": "Shutong Wu, Jiongxiao Wang, Wei Ping, Weili Nie, Chaowei Xiao",
+      "paper_url": "https://openreview.net/pdf/f495c649b51716e4d5681e1db282a9df4c7ad03c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_jJOjjiZHy3h",
+      "paper_id": "jJOjjiZHy3h",
+      "title": "Defending Against Image Corruptions Through Adversarial Augmentations",
+      "authors": "Dan Andrei Calian, Florian Stimberg, Olivia Wiles, Sylvestre-Alvise Rebuffi, András György, Timothy A Mann, Sven Gowal",
+      "paper_url": "https://openreview.net/pdf/22ad1c6524e3463a96b8f63f8935a1ed975fbede.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_4M0BRyGMnJ",
+      "paper_id": "4M0BRyGMnJ",
+      "title": "Democratic Training Against Universal Adversarial Perturbations",
+      "authors": "Bing Sun, Jun Sun, Wei Zhao",
+      "paper_url": "https://openreview.net/pdf?id=4M0BRyGMnJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BPHcEpGvF8",
+      "paper_id": "BPHcEpGvF8",
+      "title": "Demystifying Poisoning Backdoor Attacks from a Statistical Perspective",
+      "authors": "Ganghua Wang, Xun Xian, Ashish Kundu, Jayanth Srinivasa, Xuan Bi, Mingyi Hong, Jie Ding",
+      "paper_url": "https://openreview.net/pdf?id=BPHcEpGvF8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_p7hvOJ6Gq0i",
+      "paper_id": "p7hvOJ6Gq0i",
+      "title": "DensePure: Understanding Diffusion Models for Adversarial Robustness",
+      "authors": "Chaowei Xiao, Zhongzhu Chen, Kun Jin, Jiongxiao Wang, Weili Nie, Mingyan Liu, Anima Anandkumar, Bo Li, Dawn Song",
+      "paper_url": "https://openreview.net/pdf/d8526f8f386272bc4382c378f94069337bd8be63.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_KmQEsIfhr9",
+      "paper_id": "KmQEsIfhr9",
+      "title": "Detecting Backdoor Samples in Contrastive Language Image Pretraining",
+      "authors": "Hanxun Huang, Sarah Monazam Erfani, Yige Li, Xingjun Ma, James Bailey",
+      "paper_url": "https://openreview.net/pdf?id=KmQEsIfhr9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_f8S3aLm0Vp",
+      "paper_id": "f8S3aLm0Vp",
+      "title": "DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models",
+      "authors": "Zhenting Wang, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma",
+      "paper_url": "https://openreview.net/pdf?id=f8S3aLm0Vp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_kuutidLf6R",
+      "paper_id": "kuutidLf6R",
+      "title": "Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models",
+      "authors": "Jinxu Lin, Linwei Tao, Minjing Dong, Chang Xu",
+      "paper_url": "https://openreview.net/pdf?id=kuutidLf6R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9OfKxKoYNw",
+      "paper_id": "9OfKxKoYNw",
+      "title": "DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing",
+      "authors": "June Suk Choi, Kyungmin Lee, Jongheon Jeong, Saining Xie, Jinwoo Shin, Kimin Lee",
+      "paper_url": "https://openreview.net/pdf?id=9OfKxKoYNw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_S3D9NLzjnQ5",
+      "paper_id": "S3D9NLzjnQ5",
+      "title": "Distilling Cognitive Backdoor Patterns within an Image",
+      "authors": "Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey",
+      "paper_url": "https://openreview.net/pdf/9582391717db932771feaf1c877a1ff5a58478f5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_gNxvs5pUdu",
+      "paper_id": "gNxvs5pUdu",
+      "title": "DocMIA: Document-Level Membership Inference Attacks against DocVQA Models",
+      "authors": "Khanh Nguyen, Raouf Kerkouche, Mario Fritz, Dimosthenis Karatzas",
+      "paper_url": "https://openreview.net/pdf?id=gNxvs5pUdu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_OF5x1dzWSS",
+      "paper_id": "OF5x1dzWSS",
+      "title": "Doubly Robust Instance-Reweighted Adversarial Training",
+      "authors": "Daouda Sow, Sen Lin, Zhangyang Wang, Yingbin Liang",
+      "paper_url": "https://openreview.net/pdf?id=OF5x1dzWSS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_m7aPLHwsLr",
+      "paper_id": "m7aPLHwsLr",
+      "title": "DRSM: De-Randomized Smoothing on Malware Classifier Providing Certified Robustness",
+      "authors": "Shoumik Saha, Wenxiao Wang, Yigitcan Kaya, Soheil Feizi, Tudor Dumitras",
+      "paper_url": "https://openreview.net/pdf?id=m7aPLHwsLr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_VE1s3e5xriA",
+      "paper_id": "VE1s3e5xriA",
+      "title": "Dual Student Networks for Data-Free Model Stealing",
+      "authors": "James Beetham, Navid Kardan, Ajmal Saeed Mian, Mubarak Shah",
+      "paper_url": "https://openreview.net/pdf/41d38335bded64c06dfd2672ead107cdf3b3e2d9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_029hDSVoXK",
+      "paper_id": "029hDSVoXK",
+      "title": "Dynamic Neural Fortresses: An Adaptive Shield for Model Extraction Defense",
+      "authors": "Siyu Luan, Zhenyi Wang, Li Shen, Zonghua Gu, Chao Wu, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=029hDSVoXK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_33rtZ4Sjwjn",
+      "paper_id": "33rtZ4Sjwjn",
+      "title": "Effective and Efficient Vote Attack on Capsule Networks",
+      "authors": "Jindong Gu, Baoyuan Wu, Volker Tresp",
+      "paper_url": "https://openreview.net/pdf/93dc8fe0e28a6c86ef5c7b7c74d8c5968238850c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_vRyp2dhEQp",
+      "paper_id": "vRyp2dhEQp",
+      "title": "Efficient Backdoor Attacks for Deep Neural Networks in Real-world Scenarios",
+      "authors": "Ziqiang Li, Hong Sun, Pengfei Xia, Heng Li, Beihao Xia, Yi Wu, Bin Li",
+      "paper_url": "https://openreview.net/pdf?id=vRyp2dhEQp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_hr-3PMvDpil",
+      "paper_id": "hr-3PMvDpil",
+      "title": "Efficient Certified Defenses Against Patch Attacks on Image Classifiers",
+      "authors": "Jan Hendrik Metzen, Maksym Yatsura",
+      "paper_url": "https://openreview.net/pdf/964f848b9674e016ee4ad4259c6491fd8c66729a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_uXjfOmTiDt",
+      "paper_id": "uXjfOmTiDt",
+      "title": "Embodied Active Defense: Leveraging Recurrent Feedback to Counter Adversarial Patches",
+      "authors": "Lingxuan Wu, Xiao Yang, Yinpeng Dong, Liuwei XIE, Hang Su, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=uXjfOmTiDt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_GACjMj1MS1",
+      "paper_id": "GACjMj1MS1",
+      "title": "Empirical Likelihood for Fair Classification",
+      "authors": "Pangpang Liu, Yichuan Zhao",
+      "paper_url": "https://openreview.net/pdf?id=GACjMj1MS1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OuLgaHEmzi",
+      "paper_id": "OuLgaHEmzi",
+      "title": "Endowing Visual Reprogramming with Adversarial Robustness",
+      "authors": "Shengjie Zhou, Xin Cheng, Haiyang Xu, Ming Yan, Tao Xiang, Feng Liu, Lei Feng",
+      "paper_url": "https://openreview.net/pdf?id=OuLgaHEmzi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_E1NxN5QMOE",
+      "paper_id": "E1NxN5QMOE",
+      "title": "Enhancing Group Fairness in Online Settings Using Oblique Decision Forests",
+      "authors": "Somnath Basu Roy Chowdhury, Nicholas Monath, Ahmad Beirami, Rahul Kidambi, Kumar Avinava Dubey, Amr Ahmed, Snigdha Chaturvedi",
+      "paper_url": "https://openreview.net/pdf?id=E1NxN5QMOE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lW0ZndAimF",
+      "paper_id": "lW0ZndAimF",
+      "title": "Enhancing Robust Fairness via Confusional Spectral Regularization",
+      "authors": "Gaojie Jin, Sihao Wu, Jiaxu Liu, Tianjin Huang, Ronghui Mu",
+      "paper_url": "https://openreview.net/pdf?id=lW0ZndAimF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_af1eUDdUVz",
+      "paper_id": "af1eUDdUVz",
+      "title": "Evading Adversarial Example Detection Defenses with Orthogonal Projected Gradient Descent",
+      "authors": "Oliver Bryniarski, Nabeel Hingun, Pedro Pachuca, Vincent Wang, Nicholas Carlini",
+      "paper_url": "https://openreview.net/pdf/3d2eb96b012475581aa80cda16373c217e28c087.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_HNJJEWfo0Z",
+      "paper_id": "HNJJEWfo0Z",
+      "title": "Examining Why Perturbation-Based Fidelity Metrics are Inconsistent",
+      "authors": "Revoti Prasad Bora, Philipp Terhörst, Raymond Veldhuis, Raghavendra Ramachandra, Kiran Raja",
+      "paper_url": "https://openreview.net/pdf?id=HNJJEWfo0Z",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_aRTKuscKByJ",
+      "paper_id": "aRTKuscKByJ",
+      "title": "Exploring and Exploiting Decision Boundary Dynamics for Adversarial Robustness",
+      "authors": "Yuancheng Xu, Yanchao Sun, Micah Goldblum, Tom Goldstein, Furong Huang",
+      "paper_url": "https://openreview.net/pdf/6d36b2bf168f28c0392f579086eb7c72538d1db3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_7gE9V9GBZaI",
+      "paper_id": "7gE9V9GBZaI",
+      "title": "Exploring Memorization in Adversarial Training",
+      "authors": "Yinpeng Dong, Ke Xu, Xiao Yang, Tianyu Pang, Zhijie Deng, Hang Su, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf/c33e24a96109ee75779a6d6cbb2bb2f7df3ddadd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fjPOt8QlqQ",
+      "paper_id": "fjPOt8QlqQ",
+      "title": "Exploring The Forgetting in Adversarial Training: A Novel Method for Enhancing Robustness",
+      "authors": "Xianglu Wang, Hu Ding",
+      "paper_url": "https://openreview.net/pdf?id=fjPOt8QlqQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mzyZ4wzKlM",
+      "paper_id": "mzyZ4wzKlM",
+      "title": "Expressive Losses for Verified Robustness via Convex Combinations",
+      "authors": "Alessandro De Palma, Rudy R Bunel, Krishnamurthy Dj Dvijotham, M. Pawan Kumar, Robert Stanforth, Alessio Lomuscio",
+      "paper_url": "https://openreview.net/pdf?id=mzyZ4wzKlM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_s90VIdza2K",
+      "paper_id": "s90VIdza2K",
+      "title": "f-FERM: A  Scalable Framework for  Robust Fair Empirical Risk Minimization",
+      "authors": "Sina Baharlouei, Shivam Patel, Meisam Razaviyayn",
+      "paper_url": "https://openreview.net/pdf?id=s90VIdza2K",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_X0r4BN50Dv",
+      "paper_id": "X0r4BN50Dv",
+      "title": "F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI",
+      "authors": "Xu Zheng, Farhad Shirani, Zhuomin Chen, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo",
+      "paper_url": "https://openreview.net/pdf?id=X0r4BN50Dv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jvveGAbkVx",
+      "paper_id": "jvveGAbkVx",
+      "title": "Fair Classifiers that Abstain without Harm",
+      "authors": "Tongxin Yin, Jean-Francois Ton, Ruocheng Guo, Yuanshun Yao, Mingyan Liu, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=jvveGAbkVx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_VGQugiuCQs",
+      "paper_id": "VGQugiuCQs",
+      "title": "Fair Clustering in the Sliding Window Model",
+      "authors": "Vincent Cohen-Addad, Shaofeng H.-C. Jiang, Qiaoyuan Yang, Yubo Zhang, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf?id=VGQugiuCQs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_DNl5s5BXeBn",
+      "paper_id": "DNl5s5BXeBn",
+      "title": "Fair Mixup: Fairness via Interpolation",
+      "authors": "Ching-Yao Chuang, Youssef Mroueh",
+      "paper_url": "https://openreview.net/pdf/26fcabb2173a9b48339615540d74ed1bc1c6281e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ULorFBST6X",
+      "paper_id": "ULorFBST6X",
+      "title": "Fair Submodular Cover",
+      "authors": "Wenjing Chen, Shuo Xing, Samson Zhou, Victoria G. Crawford",
+      "paper_url": "https://openreview.net/pdf?id=ULorFBST6X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_YNnpaAKeCfx",
+      "paper_id": "YNnpaAKeCfx",
+      "title": "FairBatch: Batch Selection for Model Fairness",
+      "authors": "Yuji Roh, Kangwook Lee, Steven Euijong Whang, Changho Suh",
+      "paper_url": "https://openreview.net/pdf/4bc505128a9613d24b343187a2e811fc6f1c05d7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_nRj0NcmSuxb",
+      "paper_id": "nRj0NcmSuxb",
+      "title": "FairCal: Fairness Calibration for Face Verification",
+      "authors": "Tiago Salvador, Stephanie Cairns, Vikram Voleti, Noah Marshall, Adam M Oberman",
+      "paper_url": "https://openreview.net/pdf/ddb357dbb2226fb417398315a7b416c8f611f59b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_aPHHhnZktB",
+      "paper_id": "aPHHhnZktB",
+      "title": "FairDen: Fair Density-Based Clustering",
+      "authors": "Lena Krieger, Anna Beer, Pernille Matthews, Anneka Myrup Thiesson, Ira Assent",
+      "paper_url": "https://openreview.net/pdf?id=aPHHhnZktB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_shzu8d6_YAR",
+      "paper_id": "shzu8d6_YAR",
+      "title": "FaiREE: fair classification with finite-sample and distribution-free guarantee",
+      "authors": "Puheng Li, James Zou, Linjun Zhang",
+      "paper_url": "https://openreview.net/pdf/0ef42c8eae510f399cb004342de52a2a9b3005e3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_x-mXzBgCX3a",
+      "paper_id": "x-mXzBgCX3a",
+      "title": "FairGBM: Gradient Boosting with Fairness Constraints",
+      "authors": "André Cruz, Catarina G Belém, João Bravo, Pedro Saleiro, Pedro Bizarro",
+      "paper_url": "https://openreview.net/pdf/cb64783a7e1648699755d4be53dff6bcdb2e0ca3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_jBEXnEMdNOL",
+      "paper_id": "jBEXnEMdNOL",
+      "title": "Fairness and Accuracy under Domain Generalization",
+      "authors": "Thai-Hoang Pham, Xueru Zhang, Ping Zhang",
+      "paper_url": "https://openreview.net/pdf/ca63e74c35378c2ac402e62c116efa7b42d9bbb1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_wbPObLm6ueA",
+      "paper_id": "wbPObLm6ueA",
+      "title": "Fairness Guarantees under Demographic Shift",
+      "authors": "Stephen Giguere, Blossom Metevier, Bruno Castro da Silva, Yuriy Brun, Philip S. Thomas, Scott Niekum",
+      "paper_url": "https://openreview.net/pdf/d40552fbf306f7f0a8081e70e59da5be9f462a23.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_woa783QMul",
+      "paper_id": "woa783QMul",
+      "title": "Fairness-aware Contrastive Learning with Partially Annotated Sensitive Attributes",
+      "authors": "Fengda Zhang, Kun Kuang, Long Chen, Yuxuan Liu, Chao Wu, Jun Xiao",
+      "paper_url": "https://openreview.net/pdf/31952982a3b3cde1de1721a4dacb49a391a21368.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_NnyD0Rjx2B",
+      "paper_id": "NnyD0Rjx2B",
+      "title": "fairret: a Framework for Differentiable Fairness Regularization Terms",
+      "authors": "Maarten Buyl, MaryBeth Defrance, Tijl De Bie",
+      "paper_url": "https://openreview.net/pdf?id=NnyD0Rjx2B",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_qNrJJZAKI3",
+      "paper_id": "qNrJJZAKI3",
+      "title": "FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling",
+      "authors": "Yu Tian, Min Shi, Yan Luo, Ava Kouhana, Tobias Elze, Mengyu Wang",
+      "paper_url": "https://openreview.net/pdf?id=qNrJJZAKI3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ArpwmicoYW",
+      "paper_id": "ArpwmicoYW",
+      "title": "FairTune: Optimizing Parameter Efficient Fine Tuning for Fairness in Medical Image Analysis",
+      "authors": "Raman Dutt, Ondrej Bohdal, Sotirios A. Tsaftaris, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf?id=ArpwmicoYW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ftHNJmogT1",
+      "paper_id": "ftHNJmogT1",
+      "title": "Fantastic Copyrighted Beasts and How (Not) to Generate Them",
+      "authors": "Luxi He, Yangsibo Huang, Weijia Shi, Tinghao Xie, Haotian Liu, Yue Wang, Luke Zettlemoyer, Chiyuan Zhang, Danqi Chen, Peter Henderson",
+      "paper_url": "https://openreview.net/pdf?id=ftHNJmogT1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_zWy1uxjDdZJ",
+      "paper_id": "zWy1uxjDdZJ",
+      "title": "Fast Geometric Projections for Local Robustness Certification",
+      "authors": "Aymeric Fromherz, Klas Leino, Matt Fredrikson, Bryan Parno, Corina Pasareanu",
+      "paper_url": "https://openreview.net/pdf/e7c0f94bb4ccdfc83c89d5c2f85953aa73ab32b8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_zPHra4V5Mc",
+      "paper_id": "zPHra4V5Mc",
+      "title": "Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks",
+      "authors": "Binghui Li, Zhixuan Pan, Kaifeng Lyu, Jian Li",
+      "paper_url": "https://openreview.net/pdf?id=zPHra4V5Mc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_qSV5CuSaK_a",
+      "paper_id": "qSV5CuSaK_a",
+      "title": "Few-Shot Backdoor Attacks on Visual Object Tracking",
+      "authors": "Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf/132d1b18d6c8d837cebbdb801781870f713295cb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_a70lGJ-rwy",
+      "paper_id": "a70lGJ-rwy",
+      "title": "Few-shot Backdoor Attacks via Neural Tangent Kernels",
+      "authors": "Jonathan Hayase, Sewoong Oh",
+      "paper_url": "https://openreview.net/pdf/e0eed4dce64a1fba0b2095181b6f7486910402e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_TzAJbTClAz",
+      "paper_id": "TzAJbTClAz",
+      "title": "FFB: A Fair Fairness Benchmark for In-Processing Group Fairness Methods",
+      "authors": "Xiaotian Han, Jianfeng Chi, Yu Chen, Qifan Wang, Han Zhao, Na Zou, Xia Hu",
+      "paper_url": "https://openreview.net/pdf?id=TzAJbTClAz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_zVrw4OH1Lch",
+      "paper_id": "zVrw4OH1Lch",
+      "title": "FIFA: Making Fairness More Generalizable in Classifiers Trained on Imbalanced Data",
+      "authors": "Zhun Deng, Jiayao Zhang, Linjun Zhang, Ting Ye, Yates Coley, Weijie J Su, James Zou",
+      "paper_url": "https://openreview.net/pdf/822008e353af9d56cbca736be93c95f694de9bff.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_I3HCE7Ro78H",
+      "paper_id": "I3HCE7Ro78H",
+      "title": "Finding Actual Descent Directions for Adversarial Training",
+      "authors": "Fabian Latorre, Igor Krawczuk, Leello Tadesse Dadi, Thomas Pethick, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf/b2c8d8ffd230a816fdb5106370cd0dc65865737b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_yeP_zx9vqNm",
+      "paper_id": "yeP_zx9vqNm",
+      "title": "Finding Biological Plausibility for Adversarially Robust Features via Metameric Tasks",
+      "authors": "Anne Harrington, Arturo Deza",
+      "paper_url": "https://openreview.net/pdf/7f2e10fe0e775d6b9a7ac2d2d46206fcefd3f1ca.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_TlAdgeoDTo",
+      "paper_id": "TlAdgeoDTo",
+      "title": "First-Person Fairness in Chatbots",
+      "authors": "Tyna Eloundou, Alex Beutel, David G. Robinson, Keren Gu, Anna-Luisa Brakman, Pamela Mishkin, Meghan Shah, Johannes Heidecke, Lilian Weng, Adam Tauman Kalai",
+      "paper_url": "https://openreview.net/pdf?id=TlAdgeoDTo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_hcMvApxGSzZ",
+      "paper_id": "hcMvApxGSzZ",
+      "title": "Fixed Neural Network Steganography: Train the images, not the network",
+      "authors": "Varsha Kishore, Xiangyu Chen, Yan Wang, Boyi Li, Kilian Q Weinberger",
+      "paper_url": "https://openreview.net/pdf/c905cc7ba9e62713ac3a302451e12d3a75523a2c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_4IwieFS44l",
+      "paper_id": "4IwieFS44l",
+      "title": "Fooling a Complete Neural Network Verifier",
+      "authors": "Dániel Zombori, Balázs Bánhelyi, Tibor Csendes, István Megyeri, Márk Jelasity",
+      "paper_url": "https://openreview.net/pdf/77a36c9a49f48b9ddb12530a2f5dd127064dfae1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_jd5GokdySz",
+      "paper_id": "jd5GokdySz",
+      "title": "Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models",
+      "authors": "Peiyan Zhang, Haoyang Liu, Chaozhuo Li, Xing Xie, Sunghun Kim, Haohan Wang",
+      "paper_url": "https://openreview.net/pdf?id=jd5GokdySz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_JElN0LJMKB",
+      "paper_id": "JElN0LJMKB",
+      "title": "From Decoupling to Adaptive Transformation: a Wider Optimization Space for PTQ",
+      "authors": "Zhaojing Wen, Qiulin Zhang, Yuan Zhang, Rudan Chen, Xichao Yang, Di Xie, Jiang Zhu",
+      "paper_url": "https://openreview.net/pdf?id=JElN0LJMKB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_gpmL0D4VjN4",
+      "paper_id": "gpmL0D4VjN4",
+      "title": "Fundamental limits on the robustness of image classifiers",
+      "authors": "Zheng Dai, David Gifford",
+      "paper_url": "https://openreview.net/pdf/df09011b2b400819ffdb954279f6df832a99d466.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_YigKlMJwjye",
+      "paper_id": "YigKlMJwjye",
+      "title": "Generalized Demographic Parity for Group Fairness",
+      "authors": "Zhimeng Jiang, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, Xia Hu",
+      "paper_url": "https://openreview.net/pdf/3f9ffe7eafbd44f0205f3629edbcfb60ec738e7c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_PH5PH9ZO_4",
+      "paper_id": "PH5PH9ZO_4",
+      "title": "Generating Adversarial Computer Programs using Optimized Obfuscations",
+      "authors": "Shashank Srikant, Sijia Liu, Tamara Mitrovska, Shiyu Chang, Quanfu Fan, Gaoyuan Zhang, Una-May O'Reilly",
+      "paper_url": "https://openreview.net/pdf/a1ea35be61a08768851add1266a1d1ef645a5c34.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_iAX0l6Cz8ub",
+      "paper_id": "iAX0l6Cz8ub",
+      "title": "Geometry-aware Instance-reweighted Adversarial Training",
+      "authors": "Jingfeng Zhang, Jianing Zhu, Gang Niu, Bo Han, Masashi Sugiyama, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf/746bc7119712b56c0426659dcb575f5864fa29ec.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_HObMhrCeAAF",
+      "paper_id": "HObMhrCeAAF",
+      "title": "GradSign: Model Performance Inference with Theoretical Insights",
+      "authors": "Zhihao Zhang, Zhihao Jia",
+      "paper_url": "https://openreview.net/pdf/f7fb958fd531503a7fafea7cd2c68e5507b12e75.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_3JsU5QXNru",
+      "paper_id": "3JsU5QXNru",
+      "title": "Group Distributionally Robust Dataset Distillation with Risk Minimization",
+      "authors": "Saeed Vahidian, Mingyu Wang, Jianyang Gu, Vyacheslav Kungurtsev, Wei Jiang, Yiran Chen",
+      "paper_url": "https://openreview.net/pdf?id=3JsU5QXNru",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_htX7AoHyln",
+      "paper_id": "htX7AoHyln",
+      "title": "GSBA$^K$: $top$-$K$ Geometric Score-based Black-box Attack",
+      "authors": "Md Farhamdur Reza, Richeng Jin, Tianfu Wu, Huaiyu Dai",
+      "paper_url": "https://openreview.net/pdf?id=htX7AoHyln",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_d54fIsAbff",
+      "paper_id": "d54fIsAbff",
+      "title": "GSE: Group-wise Sparse and Explainable Adversarial Attacks",
+      "authors": "Shpresim Sadiku, Moritz Wagner, Sebastian Pokutta",
+      "paper_url": "https://openreview.net/pdf?id=d54fIsAbff",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_UwGY2qjqoLD",
+      "paper_id": "UwGY2qjqoLD",
+      "title": "Heating up decision boundaries: isocapacitory saturation, adversarial scenarios and generalization bounds",
+      "authors": "Bogdan Georgiev, Lukas Franken, Mayukh Mukherjee",
+      "paper_url": "https://openreview.net/pdf/e8a429ae487de8dda95c91d6c5401966de30ba95.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ll2nz6qwRG",
+      "paper_id": "ll2nz6qwRG",
+      "title": "Hidden in the Noise: Two-Stage Robust Watermarking for Images",
+      "authors": "Kasra Arabi, Benjamin Feuer, R. Teal Witter, Chinmay Hegde, Niv Cohen",
+      "paper_url": "https://openreview.net/pdf?id=ll2nz6qwRG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_g-wu9TMPODo",
+      "paper_id": "g-wu9TMPODo",
+      "title": "How Benign is Benign Overfitting ?",
+      "authors": "Amartya Sanyal, Puneet K. Dokania, Varun Kanade, Philip Torr",
+      "paper_url": "https://openreview.net/pdf/b7f336ebe5df354fdcbb88c27b978a6581289ca8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_I4Lq2RJ0eJ",
+      "paper_id": "I4Lq2RJ0eJ",
+      "title": "How Far Are We from True Unlearnability?",
+      "authors": "Kai Ye, Liangcai Su, Chenxiong Qian",
+      "paper_url": "https://openreview.net/pdf?id=I4Lq2RJ0eJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EUSkm2sVJ6",
+      "paper_id": "EUSkm2sVJ6",
+      "title": "How much of my dataset did you use? Quantitative Data Usage Inference in Machine Learning",
+      "authors": "Yao Tong, Jiayuan Ye, Sajjad Zarifzadeh, Reza Shokri",
+      "paper_url": "https://openreview.net/pdf?id=EUSkm2sVJ6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Bn09TnDngN",
+      "paper_id": "Bn09TnDngN",
+      "title": "How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data",
+      "authors": "Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, Xu Sun",
+      "paper_url": "https://openreview.net/pdf/84f1213ba4770c743a5a5d48d699687b230f8c18.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_W9G_ImpHlQd",
+      "paper_id": "W9G_ImpHlQd",
+      "title": "How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective",
+      "authors": "Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jinfeng Yi, Mingyi Hong, Shiyu Chang, Sijia Liu",
+      "paper_url": "https://openreview.net/pdf/892f86851a58432caba514751380a19f53458d67.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_N_g8TT9Cy7f",
+      "paper_id": "N_g8TT9Cy7f",
+      "title": "Human-Guided Fair Classification for Natural Language Processing",
+      "authors": "Florian E. Dorner, Momchil Peychev, Nikola Konstantinov, Naman Goel, Elliott Ash, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/09b5568016529de9fe0127852626c933cb6af627.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_OM7doLjQbOQ",
+      "paper_id": "OM7doLjQbOQ",
+      "title": "ILA-DA: Improving Transferability of Intermediate Level Attack with Data Augmentation",
+      "authors": "Chiu Wai Yan, Tsz-Him Cheung, Dit-Yan Yeung",
+      "paper_url": "https://openreview.net/pdf/63d0b3e2cfd19e6b2032fba420f695fe23a12397.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_F5dhGCdyYh",
+      "paper_id": "F5dhGCdyYh",
+      "title": "Illusory Attacks: Information-theoretic detectability matters in adversarial attacks",
+      "authors": "Tim Franzmeyer, Stephen Marcus McAleer, Joao F. Henriques, Jakob Nicolaus Foerster, Philip Torr, Adel Bibi, Christian Schroeder de Witt",
+      "paper_url": "https://openreview.net/pdf?id=F5dhGCdyYh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mDKxlfraAn",
+      "paper_id": "mDKxlfraAn",
+      "title": "Image Watermarks are Removable using Controllable Regeneration from Clean Noise",
+      "authors": "Yepeng Liu, Yiren Song, Hai Ci, Yu Zhang, Haofan Wang, Mike Zheng Shou, Yuheng Bu",
+      "paper_url": "https://openreview.net/pdf?id=mDKxlfraAn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vwOq7twk7L",
+      "paper_id": "vwOq7twk7L",
+      "title": "Image-level Memorization Detection via Inversion-based Inference Perturbation",
+      "authors": "Yue Jiang, Haokun Lin, Yang Bai, Bo Peng, Zhili Liu, Yueming Lyu, Yong Yang, Xingzheng, Jing Dong",
+      "paper_url": "https://openreview.net/pdf?id=vwOq7twk7L",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_l8It-0lE5e7",
+      "paper_id": "l8It-0lE5e7",
+      "title": "Implicit Bias of Adversarial Training for Deep Neural Networks",
+      "authors": "Bochen Lv, Zhanxing Zhu",
+      "paper_url": "https://openreview.net/pdf/334522a6b3b9a814fb10fe5d7edc0607f92383ff.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_tD7eCtaSkR",
+      "paper_id": "tD7eCtaSkR",
+      "title": "Improved deterministic l2 robustness on CIFAR-10 and CIFAR-100",
+      "authors": "Sahil Singla, Surbhi Singla, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/666d6306f372e8bad4486c511aded6081ad8c921.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_1DVgysiIt7",
+      "paper_id": "1DVgysiIt7",
+      "title": "Improved Diffusion-based Generative Model with Better Adversarial Robustness",
+      "authors": "Zekun Wang, Mingyang Yi, Shuchen Xue, Zhenguo Li, Ming Liu, Bing Qin, Zhi-Ming Ma",
+      "paper_url": "https://openreview.net/pdf?id=1DVgysiIt7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_BUlyHkzjgmA",
+      "paper_id": "BUlyHkzjgmA",
+      "title": "Improved Estimation of Concentration Under $\\ell_p$-Norm Distance Metrics Using Half Spaces",
+      "authors": "Jack Prescott, Xiao Zhang, David Evans",
+      "paper_url": "https://openreview.net/pdf/5d9950ac35e5e85a527dacf6286c7b9c148005bd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_zQTezqCCtNx",
+      "paper_id": "zQTezqCCtNx",
+      "title": "Improving Adversarial Robustness via Channel-wise Activation Suppressing",
+      "authors": "Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, Xingjun Ma, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf/199e4955d4d5c6f552177bff197e00df7b1a3432.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_-Hs_otp2RB",
+      "paper_id": "-Hs_otp2RB",
+      "title": "Improving VAEs' Robustness to Adversarial Attack",
+      "authors": "Matthew JF Willetts, Alexander Camuto, Tom Rainforth, S Roberts, Christopher C Holmes",
+      "paper_url": "https://openreview.net/pdf/99d30d8f3d5b1463f05554f92526d389e651b1db.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_mkJm5Uy4HrQ",
+      "paper_id": "mkJm5Uy4HrQ",
+      "title": "Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks",
+      "authors": "Charles Jin, Melinda Sun, Martin Rinard",
+      "paper_url": "https://openreview.net/pdf/e27bb4c7787b3770053151428e69c5ab0f279dd2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_EAy7C1cgE1L",
+      "paper_id": "EAy7C1cgE1L",
+      "title": "Increasing the Cost of Model Extraction with Calibrated Proof of Work",
+      "authors": "Adam Dziedzic, Muhammad Ahmad Kaleem, Yu Shen Lu, Nicolas Papernot",
+      "paper_url": "https://openreview.net/pdf/c75fb6727a40e11e23ec143778cd6e178a0681f3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_SdeAPV1irk",
+      "paper_id": "SdeAPV1irk",
+      "title": "Incremental Randomized Smoothing Certification",
+      "authors": "Shubham Ugare, Tarun Suresh, Debangshu Banerjee, Gagandeep Singh, Sasa Misailovic",
+      "paper_url": "https://openreview.net/pdf?id=SdeAPV1irk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_f0a_dWEYg-Td",
+      "paper_id": "f0a_dWEYg-Td",
+      "title": "Indiscriminate Poisoning Attacks on Unsupervised Contrastive Learning",
+      "authors": "Hao He, Kaiwen Zha, Dina Katabi",
+      "paper_url": "https://openreview.net/pdf/06017158fae111af5eb2c5e44b5b2c0c9a8d4526.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_JBAa9we1AL",
+      "paper_id": "JBAa9we1AL",
+      "title": "Individually Fair Gradient Boosting",
+      "authors": "Alexander Vargo, Fan Zhang, Mikhail Yurochkin, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf/edda3e5c0ee042a5a03ebfdd14665355f34cd023.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_71zCSP_HuBN",
+      "paper_id": "71zCSP_HuBN",
+      "title": "Individually Fair Rankings",
+      "authors": "Amanda Bower, Hamid Eftekhari, Mikhail Yurochkin, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf/79474c3ea4a5449a9adbae8a72783142b915282b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_4t9q35BxGr",
+      "paper_id": "4t9q35BxGr",
+      "title": "Inequality phenomenon in $l_{\\infty}$-adversarial training, and its unrealized threats",
+      "authors": "Ranjie Duan, YueFeng Chen, Yao Zhu, Xiaojun Jia, Rong Zhang, Hui Xue'",
+      "paper_url": "https://openreview.net/pdf/7ab5da22ccb9ac23b9d16fdd5e20f7d2d5da1b17.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_esYrEndGsr",
+      "paper_id": "esYrEndGsr",
+      "title": "Influence Functions for Scalable Data Attribution in Diffusion Models",
+      "authors": "Bruno Kacper Mlodozeniec, Runa Eschenhagen, Juhan Bae, Alexander Immer, David Krueger, Richard E. Turner",
+      "paper_url": "https://openreview.net/pdf?id=esYrEndGsr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_VmGRoNDQgJ",
+      "paper_id": "VmGRoNDQgJ",
+      "title": "Influencer Backdoor Attack on Semantic Segmentation",
+      "authors": "Haoheng Lan, Jindong Gu, Philip Torr, Hengshuang Zhao",
+      "paper_url": "https://openreview.net/pdf?id=VmGRoNDQgJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_dyaIRud1zXg",
+      "paper_id": "dyaIRud1zXg",
+      "title": "Information Laundering for Model Privacy",
+      "authors": "Xinran Wang, Yu Xiang, Jun Gao, Jie Ding",
+      "paper_url": "https://openreview.net/pdf/1ad035bf98810a860bec5ef38d3032842170c0e5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Ev10F9TWML",
+      "paper_id": "Ev10F9TWML",
+      "title": "Interpreting Robustness Proofs of Deep Neural Networks",
+      "authors": "Debangshu Banerjee, Avaljot Singh, Gagandeep Singh",
+      "paper_url": "https://openreview.net/pdf?id=Ev10F9TWML",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SKulT2VX9p",
+      "paper_id": "SKulT2VX9p",
+      "title": "Interventional Fairness on Partially Known Causal Graphs: A Constrained Optimization Approach",
+      "authors": "Aoqi Zuo, Yiqing Li, Susan Wei, Mingming Gong",
+      "paper_url": "https://openreview.net/pdf?id=SKulT2VX9p",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vKViCoKGcB",
+      "paper_id": "vKViCoKGcB",
+      "title": "Intriguing Properties of Data Attribution on Diffusion Models",
+      "authors": "Xiaosen Zheng, Tianyu Pang, Chao Du, Jing Jiang, Min Lin",
+      "paper_url": "https://openreview.net/pdf?id=vKViCoKGcB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jFa5KESW65",
+      "paper_id": "jFa5KESW65",
+      "title": "IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks",
+      "authors": "Yue Cao, Tianlin Li, Xiaofeng Cao, Ivor Tsang, Yang Liu, Qing Guo",
+      "paper_url": "https://openreview.net/pdf?id=jFa5KESW65",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_zKvm1ETDOq",
+      "paper_id": "zKvm1ETDOq",
+      "title": "Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?",
+      "authors": "Rui Wen, Zhengyu Zhao, Zhuoran Liu, Michael Backes, Tianhao Wang, Yang Zhang",
+      "paper_url": "https://openreview.net/pdf/bcce19ed68bdb0a34957207b9b69cebedeab384c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_js62_xuLDDv",
+      "paper_id": "js62_xuLDDv",
+      "title": "Is Fairness Only Metric Deep? Evaluating and Addressing Subgroup Gaps in Deep Metric Learning",
+      "authors": "Natalie Dullerud, Karsten Roth, Kimia Hamidieh, Nicolas Papernot, Marzyeh Ghassemi",
+      "paper_url": "https://openreview.net/pdf/f404cf882e197b2c86f3e62a769c3cbf9024a9b5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Ebt7JgMHv1",
+      "paper_id": "Ebt7JgMHv1",
+      "title": "Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching",
+      "authors": "Aleksandar Makelov, Georg Lange, Atticus Geiger, Neel Nanda",
+      "paper_url": "https://openreview.net/pdf?id=Ebt7JgMHv1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_6VpeS27viTq",
+      "paper_id": "6VpeS27viTq",
+      "title": "Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations",
+      "authors": "Weiqi Peng, Jinghui Chen",
+      "paper_url": "https://openreview.net/pdf/2cff7d73a77a8a9d3e795578321db17a9d903f78.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_gLPkzWjdhBN",
+      "paper_id": "gLPkzWjdhBN",
+      "title": "Learning Iterative Neural Optimizers for Image Steganography",
+      "authors": "Xiangyu Chen, Varsha Kishore, Kilian Q Weinberger",
+      "paper_url": "https://openreview.net/pdf/df7d87d7a641f922640c4b19b090085abb147920.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_MIDckA56aD",
+      "paper_id": "MIDckA56aD",
+      "title": "Learning perturbation sets for robust machine learning",
+      "authors": "Eric Wong, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/b2d7a9e83f89aa52841bff6e66a954313729ecb3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_O9PArxKLe1",
+      "paper_id": "O9PArxKLe1",
+      "title": "Leveraging Optimization for Adaptive Attacks on Image Watermarks",
+      "authors": "Nils Lukas, Abdulrahman Diaa, Lucas Fenaux, Florian Kerschbaum",
+      "paper_url": "https://openreview.net/pdf?id=O9PArxKLe1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HozsY9Gdcl",
+      "paper_id": "HozsY9Gdcl",
+      "title": "Leveraging Set Assumption for Membership Inference in Language Models",
+      "authors": "Xinxi Lyu, Ari Holtzman, Niloofar Mireshghallah, Yanai Elazar, Sewon Min, Hannaneh Hajishirzi, Pradeep Dasigi",
+      "paper_url": "https://openreview.net/pdf?id=HozsY9Gdcl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rM9VJPB20F",
+      "paper_id": "rM9VJPB20F",
+      "title": "Like Oil and Water: Group Robustness Methods and Poisoning Defenses May Be at Odds",
+      "authors": "Michael-Andrei Panaitescu-Liess, Yigitcan Kaya, Sicheng Zhu, Furong Huang, Tudor Dumitras",
+      "paper_url": "https://openreview.net/pdf?id=rM9VJPB20F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_-k7Lvk0GpBl",
+      "paper_id": "-k7Lvk0GpBl",
+      "title": "Localized Randomized Smoothing for Collective Robustness Certification",
+      "authors": "Jan Schuchardt, Tom Wollschläger, Aleksandar Bojchevski, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/2c33160f207d6fbfbc89af90d5f1b6d98446dab7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_hJmtwocEqzc",
+      "paper_id": "hJmtwocEqzc",
+      "title": "LowKey: Leveraging Adversarial Attacks to Protect Social Media Users from Facial Recognition",
+      "authors": "Valeriia Cherepanova, Micah Goldblum, Harrison Foley, Shiyuan Duan, John P Dickerson, Gavin Taylor, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/33f4bbc102bd62362928fed6df483a1a2d5ef1ba.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3qo1pJHabg",
+      "paper_id": "3qo1pJHabg",
+      "title": "LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks",
+      "authors": "Jianlang Chen, Xuhong Ren, Qing Guo, Felix Juefei-Xu, Di Lin, Wei Feng, Lei Ma, Jianjun Zhao",
+      "paper_url": "https://openreview.net/pdf?id=3qo1pJHabg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HaX48yksVL",
+      "paper_id": "HaX48yksVL",
+      "title": "Machine Unlearning Fails to Remove Data Poisoning Attacks",
+      "authors": "Martin Pawelczyk, Jimmy Z. Di, Yiwei Lu, Gautam Kamath, Ayush Sekhari, Seth Neel",
+      "paper_url": "https://openreview.net/pdf?id=HaX48yksVL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_bjPPypbLre",
+      "paper_id": "bjPPypbLre",
+      "title": "Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples",
+      "authors": "Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen",
+      "paper_url": "https://openreview.net/pdf/dd61c1b2c781b395b41e61d1b5657c90bcdd75e9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_6ve2CkeQe5S",
+      "paper_id": "6ve2CkeQe5S",
+      "title": "MEDFAIR: Benchmarking Fairness for Medical Imaging",
+      "authors": "Yongshuo Zong, Yongxin Yang, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf/75dab3d31898ee627528af860910801000bfc9c1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ho4mNiwr2n",
+      "paper_id": "ho4mNiwr2n",
+      "title": "Mind Control through Causal Inference: Predicting Clean Images from Poisoned Data",
+      "authors": "Mengxuan Hu, Zihan Guan, Yi Zeng, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Ruoxi Jia, Anil Kumar Vullikanti, Sheng Li",
+      "paper_url": "https://openreview.net/pdf?id=ho4mNiwr2n",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dqMqAaw7Sq",
+      "paper_id": "dqMqAaw7Sq",
+      "title": "Mitigating the Backdoor Effect for Multi-Task Model Merging via Safety-Aware Subspace",
+      "authors": "Jinluan Yang, Anke Tang, Didi Zhu, Zhengyu Chen, Li Shen, Fei Wu",
+      "paper_url": "https://openreview.net/pdf?id=dqMqAaw7Sq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_C1sQBG6Sqp",
+      "paper_id": "C1sQBG6Sqp",
+      "title": "Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing",
+      "authors": "Song Xia, Yi Yu, Xudong Jiang, Henghui Ding",
+      "paper_url": "https://openreview.net/pdf?id=C1sQBG6Sqp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_-8sBpe7rDiV",
+      "paper_id": "-8sBpe7rDiV",
+      "title": "NETWORK INSENSITIVITY TO PARAMETER NOISE VIA PARAMETER ATTACK DURING TRAINING",
+      "authors": "Julian Büchel, Fynn Firouz Faber, Dylan Richard Muir",
+      "paper_url": "https://openreview.net/pdf/b7b77ce8535702dba33084aa20eb08cae53193f4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_p8coElqiSDw",
+      "paper_id": "p8coElqiSDw",
+      "title": "Neural Architecture Design and Robustness: A Dataset",
+      "authors": "Steffen Jung, Jovita Lukasik, Margret Keuper",
+      "paper_url": "https://openreview.net/pdf/5bcb50e805c33efcdf74c6d29f9b1a989b7f43b8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_9l0K4OM-oXE",
+      "paper_id": "9l0K4OM-oXE",
+      "title": "Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks",
+      "authors": "Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, Xingjun Ma",
+      "paper_url": "https://openreview.net/pdf/42f5786a622e8cdc4ce43d79d5d83ebe8e4feeeb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_hSZaCIznB2",
+      "paper_id": "hSZaCIznB2",
+      "title": "No Location Left Behind: Measuring and Improving the Fairness of Implicit Representations for Earth Data",
+      "authors": "Daniel Cai, Randall Balestriero",
+      "paper_url": "https://openreview.net/pdf?id=hSZaCIznB2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_tYRrOdSnVUy",
+      "paper_id": "tYRrOdSnVUy",
+      "title": "Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization",
+      "authors": "Lixu Wang, Shichao Xu, Ruiqi Xu, Xiao Wang, Qi Zhu",
+      "paper_url": "https://openreview.net/pdf/cc0b829e495ebd36c4e0dcce6f5d044ad4dce58d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_fVm3nZMZs9",
+      "paper_id": "fVm3nZMZs9",
+      "title": "On Achieving Optimal Adversarial Test Error",
+      "authors": "Justin D. Li, Matus Telgarsky",
+      "paper_url": "https://openreview.net/pdf/a08af08ee33be325cb0f141b73e0caeb271917be.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_pE6gWrASQm",
+      "paper_id": "pE6gWrASQm",
+      "title": "On Adversarial Training without Perturbing all Examples",
+      "authors": "Max Losch, Mohamed Omran, David Stutz, Mario Fritz, Bernt Schiele",
+      "paper_url": "https://openreview.net/pdf?id=pE6gWrASQm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_piIsx-G3Gux",
+      "paper_id": "piIsx-G3Gux",
+      "title": "On Explaining Neural Network Robustness with Activation Path",
+      "authors": "Ziping Jiang",
+      "paper_url": "https://openreview.net/pdf/3712c204236657a48f915b3728e1a8a99b777d1c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_7893vsQenk",
+      "paper_id": "7893vsQenk",
+      "title": "On the Adversarial Risk of Test Time Adaptation: An Investigation into Realistic Test-Time Data Poisoning",
+      "authors": "Yongyi Su, Yushu Li, Nanqing Liu, Kui Jia, Xulei Yang, Chuan-Sheng Foo, Xun Xu",
+      "paper_url": "https://openreview.net/pdf?id=7893vsQenk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_tUa4REjGjTf",
+      "paper_id": "tUa4REjGjTf",
+      "title": "On the Certified Robustness for Ensemble Models and Beyond",
+      "authors": "Zhuolin Yang, Linyi Li, Xiaojun Xu, Bhavya Kailkhura, Tao Xie, Bo Li",
+      "paper_url": "https://openreview.net/pdf/ff715dc7ef2af7f93fff118ec95ee5c8f6b7c3b9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_YeShU5mLfLt",
+      "paper_id": "YeShU5mLfLt",
+      "title": "On the Convergence of Certified Robust Training with Interval Bound Propagation",
+      "authors": "Yihan Wang, Zhouxing Shi, Quanquan Gu, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf/4e7f7f34a6f11b062e283b3a04324bb373e39067.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_xnhvVtZtLD",
+      "paper_id": "xnhvVtZtLD",
+      "title": "On the Fairness ROAD: Robust Optimization for Adversarial Debiasing",
+      "authors": "Vincent Grari, Thibault Laugel, Tatsunori Hashimoto, sylvain lamprier, Marcin Detyniecki",
+      "paper_url": "https://openreview.net/pdf?id=xnhvVtZtLD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_3eIrli0TwQ",
+      "paper_id": "3eIrli0TwQ",
+      "title": "On the Importance of Difficulty Calibration in Membership Inference Attacks",
+      "authors": "Lauren Watson, Chuan Guo, Graham Cormode, Alexandre Sablayrolles",
+      "paper_url": "https://openreview.net/pdf/245838afd6ed33e19d36ead3f797f80899b36b37.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_9k0krNzvlV",
+      "paper_id": "9k0krNzvlV",
+      "title": "On the Learnability of Watermarks for Language Models",
+      "authors": "Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf?id=9k0krNzvlV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_tQG-o3SeipT",
+      "paper_id": "tQG-o3SeipT",
+      "title": "On the Perils of Cascading Robust Classifiers",
+      "authors": "Ravi Mangal, Zifan Wang, Chi Zhang, Klas Leino, Corina Pasareanu, Matt Fredrikson",
+      "paper_url": "https://openreview.net/pdf/7ea45a979586553655c6c9eedc0decdb777aaf1e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_DEJIDCmWOz",
+      "paper_id": "DEJIDCmWOz",
+      "title": "On the Reliability of Watermarks for Large Language Models",
+      "authors": "John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf?id=DEJIDCmWOz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_mXpNp8MMr5",
+      "paper_id": "mXpNp8MMr5",
+      "title": "On the Vulnerability of Adversarially Trained Models Against Two-faced Attacks",
+      "authors": "Shengjie Zhou, Lue Tao, Yuzhou Cao, Tao Xiang, Bo An, Lei Feng",
+      "paper_url": "https://openreview.net/pdf?id=mXpNp8MMr5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21__i3ASPp12WS",
+      "paper_id": "_i3ASPp12WS",
+      "title": "Online Adversarial Purification based on Self-supervised Learning",
+      "authors": "Changhao Shi, Chester Holtz, Gal Mishne",
+      "paper_url": "https://openreview.net/pdf/c72b2431912d9433eb862f7ff1c59d589191b939.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_nZP10evtkV",
+      "paper_id": "nZP10evtkV",
+      "title": "Optimal transport based adversarial patch to leverage large scale attack transferability",
+      "authors": "Pol Labarbarie, Adrien CHAN-HON-TONG, Stéphane Herbin, Milad Leyli-abadi",
+      "paper_url": "https://openreview.net/pdf?id=nZP10evtkV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_bAMTaeqluh4",
+      "paper_id": "bAMTaeqluh4",
+      "title": "Part-Based Models Improve Adversarial Robustness",
+      "authors": "Chawin Sitawarin, Kornrapat Pongmala, Yizheng Chen, Nicholas Carlini, David Wagner",
+      "paper_url": "https://openreview.net/pdf/06ab733acd67575bf3271396320a8cc4f453c6b8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_dFwBosAcJkN",
+      "paper_id": "dFwBosAcJkN",
+      "title": "Perceptual Adversarial Robustness: Defense Against Unseen Threat Models",
+      "authors": "Cassidy Laidlaw, Sahil Singla, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/eb768a2d394baa94aebe2efba341cc5a5244428d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_HQ67mj5rJdR",
+      "paper_id": "HQ67mj5rJdR",
+      "title": "Perfectly Secure Steganography Using Minimum Entropy Coupling",
+      "authors": "Christian Schroeder de Witt, Samuel Sokota, J Zico Kolter, Jakob Nicolaus Foerster, Martin Strohmeier",
+      "paper_url": "https://openreview.net/pdf/352b361ac5a6926c6bbf58158ea34332012567a4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_YyVVicZ32M",
+      "paper_id": "YyVVicZ32M",
+      "title": "Permute-and-Flip: An optimally stable and watermarkable decoder for LLMs",
+      "authors": "Xuandong Zhao, Lei Li, Yu-Xiang Wang",
+      "paper_url": "https://openreview.net/pdf?id=YyVVicZ32M",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8iTpB4RNvP",
+      "paper_id": "8iTpB4RNvP",
+      "title": "Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection",
+      "authors": "Jiawei Liang, Siyuan Liang, Aishan Liu, Xiaojun Jia, Junhao Kuang, Xiaochun Cao",
+      "paper_url": "https://openreview.net/pdf?id=8iTpB4RNvP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_iC4UHbQ01Mp",
+      "paper_id": "iC4UHbQ01Mp",
+      "title": "Poisoning and Backdooring Contrastive Learning",
+      "authors": "Nicholas Carlini, Andreas Terzis",
+      "paper_url": "https://openreview.net/pdf/abd77f0543a72cd26da355efc5680de233f120af.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_pzpytjk3Xb2",
+      "paper_id": "pzpytjk3Xb2",
+      "title": "Policy-Driven Attack: Learning to Query for Hard-label Black-box Adversarial Examples",
+      "authors": "Ziang Yan, Yiwen Guo, Jian Liang, Changshui Zhang",
+      "paper_url": "https://openreview.net/pdf/7095c4811250b0fb464739f87a3151931d53f718.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_FM5xfcaR2Y",
+      "paper_id": "FM5xfcaR2Y",
+      "title": "Post-hoc bias scoring is optimal for fair classification",
+      "authors": "Wenlong Chen, Yegor Klochkov, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=FM5xfcaR2Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_MSgB8D4Hy51",
+      "paper_id": "MSgB8D4Hy51",
+      "title": "Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios",
+      "authors": "Zhen Xiang, David Miller, George Kesidis",
+      "paper_url": "https://openreview.net/pdf/ab4bf90af1442414ba5fa816448b5b73d44ecb92.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_y06VOYLcQXa",
+      "paper_id": "y06VOYLcQXa",
+      "title": "Private Image Reconstruction from System Side Channels Using Generative Models",
+      "authors": "Yuanyuan Yuan, Shuai Wang, Junping Zhang",
+      "paper_url": "https://openreview.net/pdf/73fc8942e64baa03de7625e340fa3c6d84db3589.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_cxfPefbu1s",
+      "paper_id": "cxfPefbu1s",
+      "title": "Procedural Fairness Through Decoupling Objectionable Data Generating Components",
+      "authors": "Zeyu Tang, Jialu Wang, Yang Liu, Peter Spirtes, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=cxfPefbu1s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rK0YJwL69S",
+      "paper_id": "rK0YJwL69S",
+      "title": "Protecting against simultaneous data poisoning attacks",
+      "authors": "Neel Alex, Shoaib Ahmed Siddiqui, Amartya Sanyal, David Krueger",
+      "paper_url": "https://openreview.net/pdf?id=rK0YJwL69S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_LucJxySuJcE",
+      "paper_id": "LucJxySuJcE",
+      "title": "Protecting DNNs from Theft using an Ensemble of Diverse Models",
+      "authors": "Sanjay Kariyappa, Atul Prakash, Moinuddin K Qureshi",
+      "paper_url": "https://openreview.net/pdf/fb157da741cd6b15681066ac173712bdecd45316.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_ThXqBsRI-cY",
+      "paper_id": "ThXqBsRI-cY",
+      "title": "Provable Defense Against Geometric Transformations",
+      "authors": "Rem Yang, Jacob Laurel, Sasa Misailovic, Gagandeep Singh",
+      "paper_url": "https://openreview.net/pdf/5f45f6724426cb1196f8d2e3bd7a227feec2b203.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_SsmT8aO45L",
+      "paper_id": "SsmT8aO45L",
+      "title": "Provable Robust Watermarking for AI-Generated Text",
+      "authors": "Xuandong Zhao, Prabhanjan Vijendra Ananth, Lei Li, Yu-Xiang Wang",
+      "paper_url": "https://openreview.net/pdf?id=SsmT8aO45L",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_HJFVrpCaGE",
+      "paper_id": "HJFVrpCaGE",
+      "title": "Provable Robustness against Wasserstein Distribution Shifts via Input Randomization",
+      "authors": "Aounon Kumar, Alexander Levine, Tom Goldstein, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/2fb6806a7944ccfc8c512bcb53fd1b093b7abb59.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ofuLWn8DFZ",
+      "paper_id": "ofuLWn8DFZ",
+      "title": "Provably Reliable Conformal Prediction Sets in the Presence of Data Poisoning",
+      "authors": "Yan Scholten, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=ofuLWn8DFZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_UMfhoMtIaP5",
+      "paper_id": "UMfhoMtIaP5",
+      "title": "Provably Robust Adversarial Examples",
+      "authors": "Dimitar Iliev Dimitrov, Gagandeep Singh, Timon Gehr, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/3b8eb27fbc166f48033673d3fadc49a86ef0b79f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_sRA5rLNpmQc",
+      "paper_id": "sRA5rLNpmQc",
+      "title": "Provably robust classification of adversarial examples with detection",
+      "authors": "Fatemeh Sheikholeslami, Ali Lotfi, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/f8635fcc4d33b492dbd371448f02d31878d69223.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_kwCHcaeHrf",
+      "paper_id": "kwCHcaeHrf",
+      "title": "Provably Safeguarding a Classifier from OOD and Adversarial Samples",
+      "authors": "Nicolas Atienza, Johanne Cohen, Christophe Labreuche, Michele Sebag",
+      "paper_url": "https://openreview.net/pdf?id=kwCHcaeHrf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Tvwf4Vsi5F",
+      "paper_id": "Tvwf4Vsi5F",
+      "title": "PubDef: Defending Against Transfer Attacks From Public Models",
+      "authors": "Chawin Sitawarin, Jaewon Chang, David Huang, Wesson Altoyan, David Wagner",
+      "paper_url": "https://openreview.net/pdf?id=Tvwf4Vsi5F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_RUzSobdYy0V",
+      "paper_id": "RUzSobdYy0V",
+      "title": "Quantifying and Mitigating the Impact of Label Errors on Model Disparity Metrics",
+      "authors": "Julius Adebayo, Melissa Hall, Bowen Yu, Bobbie Chern",
+      "paper_url": "https://openreview.net/pdf/8fa4751c3b6bc13a0eefd3b9a9dd75dc9359f20f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_73MEhZ0anV",
+      "paper_id": "73MEhZ0anV",
+      "title": "QUERY EFFICIENT DECISION BASED SPARSE ATTACKS AGAINST BLACK-BOX DEEP LEARNING MODELS",
+      "authors": "Viet Vo, Ehsan M Abbasnejad, Damith Ranasinghe",
+      "paper_url": "https://openreview.net/pdf/02ebabe963b750dd8f1c95cf41ba5e78dd63b8f9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Q-WfHzmiG9m",
+      "paper_id": "Q-WfHzmiG9m",
+      "title": "Re-weighting Based Group Fairness Regularization via Classwise Robust Optimization",
+      "authors": "Sangwon Jung, Taeeon Park, Sanghyuk Chun, Taesup Moon",
+      "paper_url": "https://openreview.net/pdf/3d04ed35e723d0cb19c844f0eac6dc274eee5fcf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Azh9QBQ4tR7",
+      "paper_id": "Azh9QBQ4tR7",
+      "title": "Reducing Excessive Margin to Achieve a Better Accuracy vs. Robustness Trade-off",
+      "authors": "Rahul Rade, Seyed-Mohsen Moosavi-Dezfooli",
+      "paper_url": "https://openreview.net/pdf/c2a72787c4e6f0d24586b17eab7ca97027346386.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_4IYdCws9fc",
+      "paper_id": "4IYdCws9fc",
+      "title": "REFINE: Inversion-Free Backdoor Defense via Model Reprogramming",
+      "authors": "Yukun Chen, Shuo Shao, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren",
+      "paper_url": "https://openreview.net/pdf?id=4IYdCws9fc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_FEDfGWVZYIn",
+      "paper_id": "FEDfGWVZYIn",
+      "title": "RelaxLoss: Defending Membership Inference Attacks without Losing Utility",
+      "authors": "Dingfan Chen, Ning Yu, Mario Fritz",
+      "paper_url": "https://openreview.net/pdf/e3ac303ac886fc33aba9568f6cb7a74e2c021f00.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_gU5sJ6ZggcX",
+      "paper_id": "gU5sJ6ZggcX",
+      "title": "REPAIR: REnormalizing Permuted Activations for Interpolation Repair",
+      "authors": "Keller Jordan, Hanie Sedghi, Olga Saukh, Rahim Entezari, Behnam Neyshabur",
+      "paper_url": "https://openreview.net/pdf/381917473060028f559d623409e7f06d9ae61d3e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_OFukl9Qg8P",
+      "paper_id": "OFukl9Qg8P",
+      "title": "Resolution Attack: Exploiting Image Compression to Deceive Deep Neural Networks",
+      "authors": "Wangjia Yu, Xiaomeng Fu, Qiao Li, Jizhong Han, Xiaodan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=OFukl9Qg8P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_sOK-zS6WHB",
+      "paper_id": "sOK-zS6WHB",
+      "title": "Responsible Disclosure of Generative Models Using Scalable Fingerprinting",
+      "authors": "Ning Yu, Vladislav Skripniuk, Dingfan Chen, Larry S. Davis, Mario Fritz",
+      "paper_url": "https://openreview.net/pdf/e17ae78a19a967b27b17c7545fd71dfff5109784.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_gVRhIEajG1k",
+      "paper_id": "gVRhIEajG1k",
+      "title": "Rethinking Adversarial Transferability from a Data Distribution Perspective",
+      "authors": "Yao Zhu, Jiacheng Sun, Zhenguo Li",
+      "paper_url": "https://openreview.net/pdf/d835f2b3333622a19adc0a569eaa27153c426c28.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_0OTVNEm9N4",
+      "paper_id": "0OTVNEm9N4",
+      "title": "Rethinking Artistic Copyright Infringements In the Era Of Text-to-Image Generative Models",
+      "authors": "Mazda Moayeri, Sriram Balasubramanian, Samyadeep Basu, Priyatham Kattakinda, Atoosa Chegini, Robert Brauneis, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf?id=0OTVNEm9N4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_iCNOK45Csv",
+      "paper_id": "iCNOK45Csv",
+      "title": "Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective",
+      "authors": "Ming-Yu Chung, Sheng-Yen Chou, Chia-Mu Yu, Pin-Yu Chen, Sy-Yen Kuo, Tsung-Yi Ho",
+      "paper_url": "https://openreview.net/pdf?id=iCNOK45Csv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_mYhH0CDFFa",
+      "paper_id": "mYhH0CDFFa",
+      "title": "Rethinking CNN’s Generalization to Backdoor Attack from Frequency Domain",
+      "authors": "Quanrui Rao, Lin Wang, Wuying Liu",
+      "paper_url": "https://openreview.net/pdf?id=mYhH0CDFFa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pBZntPrdrI",
+      "paper_id": "pBZntPrdrI",
+      "title": "Rethinking Fair Representation Learning for Performance-Sensitive Tasks",
+      "authors": "Charles Jones, Fabio De Sousa Ribeiro, Mélanie Roschewitz, Daniel C. Castro, Ben Glocker",
+      "paper_url": "https://openreview.net/pdf?id=pBZntPrdrI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M9SKazbVkJ",
+      "paper_id": "M9SKazbVkJ",
+      "title": "Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off",
+      "authors": "Futa Kai Waseda, Ching-Chun Chang, Isao Echizen",
+      "paper_url": "https://openreview.net/pdf?id=M9SKazbVkJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AcJrSoArlh",
+      "paper_id": "AcJrSoArlh",
+      "title": "Rethinking Model Ensemble in Transfer-based Adversarial Attacks",
+      "authors": "Huanran Chen, Yichi Zhang, Yinpeng Dong, Xiao Yang, Hang Su, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf?id=AcJrSoArlh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_gpp7cf0xdfN",
+      "paper_id": "gpp7cf0xdfN",
+      "title": "Reverse Engineering of Imperceptible Adversarial Image Perturbations",
+      "authors": "Yifan Gong, Yuguang Yao, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, Sijia Liu",
+      "paper_url": "https://openreview.net/pdf/0cd0b682a03374a0d8e8ed22bcabcbb5befb3bbc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_HPdxC1THU8T",
+      "paper_id": "HPdxC1THU8T",
+      "title": "Revisiting adapters with adversarial training",
+      "authors": "Sylvestre-Alvise Rebuffi, Francesco Croce, Sven Gowal",
+      "paper_url": "https://openreview.net/pdf/c986093cab366dcc82865df98b5906e39dc7c493.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23__wSHsgrVali",
+      "paper_id": "_wSHsgrVali",
+      "title": "Revisiting the Assumption of Latent Separability for Backdoor Defenses",
+      "authors": "Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf/4c94fe40e30925694ed4ecc84bacd2fc7543b21c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_I29Kt0RwChs",
+      "paper_id": "I29Kt0RwChs",
+      "title": "Robust Algorithms on Adaptive Inputs from Bounded Adversaries",
+      "authors": "Yeshwanth Cherapanamjeri, Sandeep Silwal, David Woodruff, Fred Zhang, Qiuyi Zhang, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf/cdf4cf6994619ced75a82c2d7b911908931db7f4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_4LMIZY7gt7h",
+      "paper_id": "4LMIZY7gt7h",
+      "title": "Robust Fair Clustering: A Novel Fairness Attack and Defense Framework",
+      "authors": "Anshuman Chhabra, Peizhao Li, Prasant Mohapatra, Hongfu Liu",
+      "paper_url": "https://openreview.net/pdf/d59b24dc62f96828d592ff6b7f4251f3516e72b4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_WVX0NNVBBkV",
+      "paper_id": "WVX0NNVBBkV",
+      "title": "Robust Learning Meets Generative Models: Can Proxy Distributions Improve Adversarial Robustness?",
+      "authors": "Vikash Sehwag, Saeed Mahloujifar, Tinashe Handina, Sihui Dai, Chong Xiang, Mung Chiang, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf/de688f13dda6db1dc9ca524f5de9b302f9b5261d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_cdUpf6t6LZ",
+      "paper_id": "cdUpf6t6LZ",
+      "title": "Robust NAS under adversarial training: benchmark, theory, and beyond",
+      "authors": "Yongtao Wu, Fanghui Liu, Carl-Johann Simon-Gabriel, Grigorios Chrysos, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf?id=cdUpf6t6LZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_qZzy5urZw9",
+      "paper_id": "qZzy5urZw9",
+      "title": "Robust Overfitting may be mitigated by properly learned smoothening",
+      "authors": "Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/099a32f12e88483a4451fe099750daeb8a1a0128.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_baUQQPwQiAg",
+      "paper_id": "baUQQPwQiAg",
+      "title": "Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning",
+      "authors": "Shaopeng Fu, Fengxiang He, Yang Liu, Li Shen, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf/cb11d28b469a29f68dc6043214ae3f4f579b360a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_16O8GCm8Wn",
+      "paper_id": "16O8GCm8Wn",
+      "title": "Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances",
+      "authors": "Shilin Lu, Zihan Zhou, Jiayou Lu, Yuanzhi Zhu, Adams Wai-Kin Kong",
+      "paper_url": "https://openreview.net/pdf?id=16O8GCm8Wn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_trKNi4IUiP",
+      "paper_id": "trKNi4IUiP",
+      "title": "Robustness Inspired Graph Backdoor Defense",
+      "authors": "Zhiwei Zhang, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang",
+      "paper_url": "https://openreview.net/pdf?id=trKNi4IUiP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dLoAdIKENc",
+      "paper_id": "dLoAdIKENc",
+      "title": "Robustness of AI-Image Detectors: Fundamental Limits and Practical Attacks",
+      "authors": "Mehrdad Saberi, Vinu Sankar Sadasivan, Keivan Rezaei, Aounon Kumar, Atoosa Chegini, Wenxiao Wang, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf?id=dLoAdIKENc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_PCm1oT8pZI",
+      "paper_id": "PCm1oT8pZI",
+      "title": "Safe and Robust Watermark Injection with a Single OoD Image",
+      "authors": "Shuyang Yu, Junyuan Hong, Haobo Zhang, Haotao Wang, Zhangyang Wang, Jiayu Zhou",
+      "paper_url": "https://openreview.net/pdf?id=PCm1oT8pZI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_o0LFPcoFKnr",
+      "paper_id": "o0LFPcoFKnr",
+      "title": "SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency",
+      "authors": "Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, Cong Liu",
+      "paper_url": "https://openreview.net/pdf/341ae2d07a7459242b24bb6e6ff7e2aec7a756e1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_51cjeYcXjs",
+      "paper_id": "51cjeYcXjs",
+      "title": "Search and Retrieval in Semantic-Structural Representations of Novel Malware",
+      "authors": "John Musgrave, Alina Campan, Anca L Ralescu",
+      "paper_url": "https://openreview.net/pdf?id=51cjeYcXjs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_N0M_4BkQ05i",
+      "paper_id": "N0M_4BkQ05i",
+      "title": "Selective Classification Can Magnify Disparities Across Groups",
+      "authors": "Erik Jones, Shiori Sagawa, Pang Wei Koh, Ananya Kumar, Percy Liang",
+      "paper_url": "https://openreview.net/pdf/b9ac6534faf7141a9138e3cfcfed7dbada0a6f36.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_oU3aTsmeRQV",
+      "paper_id": "oU3aTsmeRQV",
+      "title": "Self-ensemble Adversarial Training for Improved Robustness",
+      "authors": "Hongjun Wang, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf/65a9ab42c5b42098e96011686b3f498df9749c11.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_9MO7bjoAfIA",
+      "paper_id": "9MO7bjoAfIA",
+      "title": "Self-Ensemble Protection: Training Checkpoints Are Good Data Protectors",
+      "authors": "Sizhe Chen, Geng Yuan, Xinwen Cheng, Yifan Gong, Minghai Qin, Yanzhi Wang, Xiaolin Huang",
+      "paper_url": "https://openreview.net/pdf/03e69010cd3d91e35491934b95bbd8839f6416bc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_bgQek2O63w",
+      "paper_id": "bgQek2O63w",
+      "title": "Self-supervised Adversarial Robustness for the Low-label, High-data Regime",
+      "authors": "Sven Gowal, Po-Sen Huang, Aaron van den Oord, Timothy Mann, Pushmeet Kohli",
+      "paper_url": "https://openreview.net/pdf/f29096120961de72d4ebfd2f2060c34d17b2df3c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_DktZb97_Fx",
+      "paper_id": "DktZb97_Fx",
+      "title": "SenSeI: Sensitive Set Invariance for Enforcing Individual Fairness",
+      "authors": "Mikhail Yurochkin, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf/80d776638f6b356e13bef121dae894df08d5545f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_bxITGFPVWh",
+      "paper_id": "bxITGFPVWh",
+      "title": "Sharpness-Aware Data Poisoning Attack",
+      "authors": "Pengfei He, Han Xu, Jie Ren, Yingqian Cui, Shenglai Zeng, Hui Liu, Charu C. Aggarwal, Jiliang Tang",
+      "paper_url": "https://openreview.net/pdf?id=bxITGFPVWh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZJftXKy12x",
+      "paper_id": "ZJftXKy12x",
+      "title": "Simulating Training Dynamics to Reconstruct Training Data from Deep Neural Networks",
+      "authors": "Hanling Tian, Yuhang Liu, Mingzhen He, Zhengbao He, Zhehao Huang, Ruikai Yang, Xiaolin Huang",
+      "paper_url": "https://openreview.net/pdf?id=ZJftXKy12x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_HaHCoGcpV9",
+      "paper_id": "HaHCoGcpV9",
+      "title": "Sound Randomized Smoothing in Floating-Point Arithmetic",
+      "authors": "Vaclav Voracek, Matthias Hein",
+      "paper_url": "https://openreview.net/pdf/cc4b6006471a5fcac57cbfcd5bb73ca9ef9b392f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22__F9xpOrqyX9",
+      "paper_id": "_F9xpOrqyX9",
+      "title": "Spread Spurious Attribute: Improving Worst-group Accuracy with Spurious Attribute Estimation",
+      "authors": "Junhyun Nam, Jaehyung Kim, Jaeho Lee, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/1ef5907fce7a34e12970b51ba7aa96afb5e46997.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Z_tmYu060Kr",
+      "paper_id": "Z_tmYu060Kr",
+      "title": "Squeeze Training for Adversarial Robustness",
+      "authors": "Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen",
+      "paper_url": "https://openreview.net/pdf/fb81a290a4e3da505226d83c5e1f62c94f0a3c53.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_QfTXQiGYudJ",
+      "paper_id": "QfTXQiGYudJ",
+      "title": "Stabilized Medical Image Attacks",
+      "authors": "Gege Qi, Lijun GONG, Yibing Song, Kai Ma, Yefeng Zheng",
+      "paper_url": "https://openreview.net/pdf/537abf2d751c6e93209bde7c1e550fadad61af0f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_z9k8BWL-_2u",
+      "paper_id": "z9k8BWL-_2u",
+      "title": "Statistical inference for individual fairness",
+      "authors": "Subha Maity, Songkai Xue, Mikhail Yurochkin, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf/ac8d0be951fdef76c35e87af88b3fb817cadfde9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_p0DjhjPXl3",
+      "paper_id": "p0DjhjPXl3",
+      "title": "Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks",
+      "authors": "Tianqu Zhuang, Hongyao Yu, Yixiang Qiu, Hao Fang, Bin Chen, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf?id=p0DjhjPXl3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_gwFTuzxJW0",
+      "paper_id": "gwFTuzxJW0",
+      "title": "Stochastic Security: Adversarial Defense Using Long-Run Dynamics of Energy-Based Models",
+      "authors": "Mitch Hill, Jonathan Craig Mitchell, Song-Chun Zhu",
+      "paper_url": "https://openreview.net/pdf/f72ab5e343005a27c47de932d2ee35163cb3c617.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_oZkqkkvdND",
+      "paper_id": "oZkqkkvdND",
+      "title": "Support is All You Need for Certified VAE Training",
+      "authors": "Changming Xu, Debangshu Banerjee, Deepak Vasisht, Gagandeep Singh",
+      "paper_url": "https://openreview.net/pdf?id=oZkqkkvdND",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_71pur4y8gs",
+      "paper_id": "71pur4y8gs",
+      "title": "TabWak: A Watermark for Tabular Diffusion Models",
+      "authors": "Chaoyi Zhu, Jiayi Tang, Jeroen M. Galjaard, Pin-Yu Chen, Robert Birke, Cornelis Bos, Lydia Y. Chen",
+      "paper_url": "https://openreview.net/pdf?id=71pur4y8gs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_iKQAk8a2kM0",
+      "paper_id": "iKQAk8a2kM0",
+      "title": "Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits",
+      "authors": "Jiawang Bai, Baoyuan Wu, Yong Zhang, Yiming Li, Zhifeng Li, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf/ed4d75e28ae70ba28f4895cf7097cf634745d11a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_agHddsQhsL",
+      "paper_id": "agHddsQhsL",
+      "title": "Targeted Attack Improves Protection against Unauthorized Diffusion Customization",
+      "authors": "Boyang Zheng, Chumeng Liang, Xiaoyu Wu",
+      "paper_url": "https://openreview.net/pdf?id=agHddsQhsL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_I393kV3bz4",
+      "paper_id": "I393kV3bz4",
+      "title": "TASAR: Transfer-based Attack on Skeletal Action Recognition",
+      "authors": "Yunfeng Diao, Baiqi Wu, Ruixuan Zhang, Ajian Liu, Xiaoshuai Hao, Xingxing Wei, Meng Wang, He Wang",
+      "paper_url": "https://openreview.net/pdf?id=I393kV3bz4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_5GX6s5TpmV",
+      "paper_id": "5GX6s5TpmV",
+      "title": "The Certification Paradox: Certifications Admit Better Evasion Attacks",
+      "authors": "Andrew Craig Cullen, Shijie Liu, Paul Montague, Sarah Monazam Erfani, Benjamin I. P. Rubinstein",
+      "paper_url": "https://openreview.net/pdf?id=5GX6s5TpmV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_bsZULlDGXe",
+      "paper_id": "bsZULlDGXe",
+      "title": "The Dark Side of AutoML: Towards Architectural Backdoor Search",
+      "authors": "Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, Ting Wang",
+      "paper_url": "https://openreview.net/pdf/9b89e3f420dd473917d9c33741ea888a54ecb1b3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_C36v8541Ns",
+      "paper_id": "C36v8541Ns",
+      "title": "The Lipschitz-Variance-Margin Tradeoff for Enhanced Randomized Smoothing",
+      "authors": "Blaise Delattre, Alexandre Araujo, Quentin Barthélemy, Alexandre Allauzen",
+      "paper_url": "https://openreview.net/pdf?id=C36v8541Ns",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Ww9rWUAcdo",
+      "paper_id": "Ww9rWUAcdo",
+      "title": "Theoretical Understanding of Learning from Adversarial Perturbations",
+      "authors": "Soichiro Kumano, Hiroshi Kera, Toshihiko Yamasaki",
+      "paper_url": "https://openreview.net/pdf?id=Ww9rWUAcdo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_K5YasWXZT3O",
+      "paper_id": "K5YasWXZT3O",
+      "title": "Tilted Empirical Risk Minimization",
+      "authors": "Tian Li, Ahmad Beirami, Maziar Sanjabi, Virginia Smith",
+      "paper_url": "https://openreview.net/pdf/292aa65cc32390e3e8557ebe28fa70380977f416.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_KW8yzAOIZr",
+      "paper_id": "KW8yzAOIZr",
+      "title": "To Tackle Adversarial Transferability: A Novel Ensemble Training Method with Fourier Transformation",
+      "authors": "Wanlin Zhang, Weichen Lin, Ruomin Huang, Shihong Song, Hu Ding",
+      "paper_url": "https://openreview.net/pdf?id=KW8yzAOIZr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_NzxCMe88HX",
+      "paper_id": "NzxCMe88HX",
+      "title": "Toward effective protection against diffusion-based mimicry through score distillation",
+      "authors": "Haotian Xue, Chumeng Liang, Xiaoyu Wu, Yongxin Chen",
+      "paper_url": "https://openreview.net/pdf?id=NzxCMe88HX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uuPkll6i7m",
+      "paper_id": "uuPkll6i7m",
+      "title": "Towards Certification of Uncertainty Calibration under Adversarial Attacks",
+      "authors": "Cornelius Emde, Francesco Pinto, Thomas Lukasiewicz, Philip Torr, Adel Bibi",
+      "paper_url": "https://openreview.net/pdf?id=uuPkll6i7m",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_JYu5Flqm9D",
+      "paper_id": "JYu5Flqm9D",
+      "title": "Towards Codable Watermarking for Injecting Multi-Bits Information to LLMs",
+      "authors": "Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun",
+      "paper_url": "https://openreview.net/pdf?id=JYu5Flqm9D",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GpUv1FvZi1",
+      "paper_id": "GpUv1FvZi1",
+      "title": "Towards counterfactual fairness through auxiliary variables",
+      "authors": "Bowei Tian, Ziyao Wang, Shwai He, Wanghao Ye, Guoheng Sun, Yucong Dai, Yongkai Wu, Ang Li",
+      "paper_url": "https://openreview.net/pdf?id=GpUv1FvZi1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_s8cMuxI5gu",
+      "paper_id": "s8cMuxI5gu",
+      "title": "Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks",
+      "authors": "Yanbo Wang, Jian Liang, Ran He",
+      "paper_url": "https://openreview.net/pdf?id=s8cMuxI5gu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_6tqgL8VluV",
+      "paper_id": "6tqgL8VluV",
+      "title": "Towards Establishing Guaranteed Error for Learned Database Operations",
+      "authors": "Sepanta Zeighami, Cyrus Shahabi",
+      "paper_url": "https://openreview.net/pdf?id=6tqgL8VluV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22__5js_8uTrx1",
+      "paper_id": "_5js_8uTrx1",
+      "title": "Towards Evaluating the Robustness of Neural Networks Learned by Transduction",
+      "authors": "Jiefeng Chen, Xi Wu, Yang Guo, Yingyu Liang, Somesh Jha",
+      "paper_url": "https://openreview.net/pdf/3ca51d07268ca31c7f5ccb9d049d08f06a99f051.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_cObFETcoeW",
+      "paper_id": "cObFETcoeW",
+      "title": "Towards Faithful XAI Evaluation via Generalization-Limited Backdoor Watermark",
+      "authors": "Mengxi Ya, Yiming Li, Tao Dai, Bin Wang, Yong Jiang, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf?id=cObFETcoeW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_NQqJPPCesd",
+      "paper_id": "NQqJPPCesd",
+      "title": "Towards Marginal Fairness Sliced Wasserstein Barycenter",
+      "authors": "Khai Nguyen, Hai Nguyen, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf?id=NQqJPPCesd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_YLJs4mKJCF",
+      "paper_id": "YLJs4mKJCF",
+      "title": "Towards Poisoning Fair Representations",
+      "authors": "Tianci Liu, Haoyu Wang, Feijie Wu, Hengtong Zhang, Pan Li, Lu Su, Jing Gao",
+      "paper_url": "https://openreview.net/pdf?id=YLJs4mKJCF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Tw9wemV6cb",
+      "paper_id": "Tw9wemV6cb",
+      "title": "Towards Reliable and Efficient Backdoor Trigger Inversion via Decoupling Benign Features",
+      "authors": "Xiong Xu, Kunzhe Huang, Yiming Li, Zhan Qin, Kui Ren",
+      "paper_url": "https://openreview.net/pdf?id=Tw9wemV6cb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_2AL06y9cDE-",
+      "paper_id": "2AL06y9cDE-",
+      "title": "Towards Robust Neural Networks via Close-loop Control",
+      "authors": "Zhuotong Chen, Qianxiao Li, Zheng Zhang",
+      "paper_url": "https://openreview.net/pdf/596019eba6149f7c83bd7dc648809e2100b337d8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_7GEvPKxjtt",
+      "paper_id": "7GEvPKxjtt",
+      "title": "Towards Robustness Certification Against Universal Perturbations",
+      "authors": "Yi Zeng, Zhouxing Shi, Ming Jin, Feiyang Kang, Lingjuan Lyu, Cho-Jui Hsieh, Ruoxi Jia",
+      "paper_url": "https://openreview.net/pdf/ee043d338b4d99fee86cf7332af005a6da63696f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_BmJV7kyAmg",
+      "paper_id": "BmJV7kyAmg",
+      "title": "Towards Understanding the Robustness Against Evasion Attack on Categorical Data",
+      "authors": "Hongyan Bao, Yufei Han, Yujun Zhou, Yun Shen, Xiangliang Zhang",
+      "paper_url": "https://openreview.net/pdf/b599972b615dea56e3cd777bb3c09e18b73ba736.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_K7xpl3LZQp",
+      "paper_id": "K7xpl3LZQp",
+      "title": "Tracking the Copyright of Large Vision-Language Models through Parameter Learning Adversarial Images",
+      "authors": "Yubo Wang, Jianting Tang, Chaohu Liu, Linli Xu",
+      "paper_url": "https://openreview.net/pdf?id=K7xpl3LZQp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WKW5TG8ItY",
+      "paper_id": "WKW5TG8ItY",
+      "title": "Training Robust Ensembles Requires Rethinking Lipschitz Continuity",
+      "authors": "Ali Ebrahimpour-Boroojeny, Hari Sundaram, Varun Chandrasekaran",
+      "paper_url": "https://openreview.net/pdf?id=WKW5TG8ItY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_DesNW4-5ai9",
+      "paper_id": "DesNW4-5ai9",
+      "title": "Transferable Adversarial Attack based on Integrated Gradients",
+      "authors": "Yi Huang, Adams Wai-Kin Kong",
+      "paper_url": "https://openreview.net/pdf/1586562e5f640c6d1b803ae91c947824cbefde02.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_TXsjU8BaibT",
+      "paper_id": "TXsjU8BaibT",
+      "title": "Trigger Hunting with a Topological Prior for Trojan Detection",
+      "authors": "Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, Chao Chen",
+      "paper_url": "https://openreview.net/pdf/4db1d42d467c296c5ec7fa3f38e37dcb5c140e84.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_ja4Lpp5mqc2",
+      "paper_id": "ja4Lpp5mqc2",
+      "title": "TrojText: Test-time Invisible Textual Trojan Insertion",
+      "authors": "Qian Lou, Yepeng Liu, Bo Feng",
+      "paper_url": "https://openreview.net/pdf/090c1fa0cc728fa6eb032fe3c74b8b5125be7e94.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_uWVC5FVidc",
+      "paper_id": "uWVC5FVidc",
+      "title": "Unbiased Watermark for Large Language Models",
+      "authors": "Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=uWVC5FVidc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_h05eQniJsQ",
+      "paper_id": "h05eQniJsQ",
+      "title": "Understanding Certified Training with Interval Bound Propagation",
+      "authors": "Yuhao Mao, Mark Niklas Mueller, Marc Fischer, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=h05eQniJsQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_VoLDkQ6yR3",
+      "paper_id": "VoLDkQ6yR3",
+      "title": "Understanding Reconstruction Attacks with the Neural Tangent Kernel and Dataset Distillation",
+      "authors": "Noel Loo, Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf?id=VoLDkQ6yR3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vZ6r9GMT1n",
+      "paper_id": "vZ6r9GMT1n",
+      "title": "Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks",
+      "authors": "Nguyen Hung-Quang, Yingjie Lao, Tung Pham, Kok-Seng Wong, Khoa D Doan",
+      "paper_url": "https://openreview.net/pdf?id=vZ6r9GMT1n",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_P4bXCawRi5J",
+      "paper_id": "P4bXCawRi5J",
+      "title": "Understanding Zero-shot Adversarial Robustness for Large-Scale Models",
+      "authors": "Chengzhi Mao, Scott Geng, Junfeng Yang, Xin Wang, Carl Vondrick",
+      "paper_url": "https://openreview.net/pdf/3260fd25cd7bfa3805e9cf3a86f91b87e701984d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_Mj7K4lglGyj",
+      "paper_id": "Mj7K4lglGyj",
+      "title": "UNICORN: A Unified Backdoor Trigger Inversion Framework",
+      "authors": "Zhenting Wang, Kai Mei, Juan Zhai, Shiqing Ma",
+      "paper_url": "https://openreview.net/pdf/edd35173abda536a0bd486d49c34c8ce04e56652.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_3QkzYBSWqL",
+      "paper_id": "3QkzYBSWqL",
+      "title": "Universal Backdoor Attacks",
+      "authors": "Benjamin Schneider, Nils Lukas, Florian Kerschbaum",
+      "paper_url": "https://openreview.net/pdf?id=3QkzYBSWqL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_iAmZUo0DxC0",
+      "paper_id": "iAmZUo0DxC0",
+      "title": "Unlearnable Examples: Making Personal Data Unexploitable",
+      "authors": "Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf/eb123b0f1c20d0c5d47b33fa7feca81748e02666.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_jr03SfWsBS",
+      "paper_id": "jr03SfWsBS",
+      "title": "Unprocessing Seven Years of Algorithmic Fairness",
+      "authors": "André Cruz, Moritz Hardt",
+      "paper_url": "https://openreview.net/pdf?id=jr03SfWsBS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_pqeWzZTrZY",
+      "paper_id": "pqeWzZTrZY",
+      "title": "UV-Attack: Physical-World Adversarial Attacks on Person Detection via Dynamic-NeRF-based UV Mapping",
+      "authors": "Yanjie Li, Kaisheng Liang, Bin Xiao",
+      "paper_url": "https://openreview.net/pdf?id=pqeWzZTrZY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uzz3qAYy0D",
+      "paper_id": "uzz3qAYy0D",
+      "title": "VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking",
+      "authors": "Runyi Hu, Jie Zhang, Yiming Li, Jiwei Li, Qing Guo, Han Qiu, Tianwei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=uzz3qAYy0D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_eEn8KTtJOx",
+      "paper_id": "eEn8KTtJOx",
+      "title": "WaNet - Imperceptible Warping-based Backdoor Attack",
+      "authors": "Tuan Anh Nguyen, Anh Tuan Tran",
+      "paper_url": "https://openreview.net/pdf/db3277f5b47619abfe13880772b864960e98f643.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_kVrwHLAb20",
+      "paper_id": "kVrwHLAb20",
+      "title": "Ward: Provable RAG Dataset Inference via LLM Watermarks",
+      "authors": "Nikola Jovanović, Robin Staab, Maximilian Baader, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=kVrwHLAb20",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IkZVDzdC8M",
+      "paper_id": "IkZVDzdC8M",
+      "title": "Watermark Anything With Localized Messages",
+      "authors": "Tom Sander, Pierre Fernandez, Alain Oliviero Durmus, Teddy Furon, Matthijs Douze",
+      "paper_url": "https://openreview.net/pdf?id=IkZVDzdC8M",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_-CA8yFkPc7O",
+      "paper_id": "-CA8yFkPc7O",
+      "title": "Why adversarial training can hurt robust accuracy",
+      "authors": "Jacob Clarysse, Julia Hörrmann, Fanny Yang",
+      "paper_url": "https://openreview.net/pdf/acf07a393261c288a91ec34bfc2e861effdf9587.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1Z3C49JQVf",
+      "paper_id": "1Z3C49JQVf",
+      "title": "Wicked Oddities: Selectively Poisoning for Effective Clean-Label Backdoor Attacks",
+      "authors": "Nguyen Hung-Quang, Ngoc-Hieu Nguyen, The-Anh Ta, Thanh Nguyen-Tang, Kok-Seng Wong, Hoang Thanh-Tung, Khoa D Doan",
+      "paper_url": "https://openreview.net/pdf?id=1Z3C49JQVf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_01olnfLIbD",
+      "paper_id": "01olnfLIbD",
+      "title": "Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching",
+      "authors": "Jonas Geiping, Liam H Fowl, W. Ronny Huang, Wojciech Czaja, Gavin Taylor, Michael Moeller, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/3a3c570da85848de52605f6669aae395d063027b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_7WsivwyHrS",
+      "paper_id": "7WsivwyHrS",
+      "title": "You Only Query Once: An Efficient Label-Only Membership Inference Attack",
+      "authors": "YUTONG WU, Han Qiu, Shangwei Guo, Jiwei Li, Tianwei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=7WsivwyHrS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zHf7hOfeer",
+      "paper_id": "zHf7hOfeer",
+      "title": "Zero-cost Proxy for Adversarial Robustness Evaluation",
+      "authors": "Yuqi Feng, Yuwei Ou, Jiahao Fan, Yanan Sun",
+      "paper_url": "https://openreview.net/pdf?id=zHf7hOfeer",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fCeUoDr9Tq",
+      "paper_id": "fCeUoDr9Tq",
+      "title": "Zero-Shot Robustification of Zero-Shot Models",
+      "authors": "Dyah Adila, Changho Shin, Linrong Cai, Frederic Sala",
+      "paper_url": "https://openreview.net/pdf?id=fCeUoDr9Tq",
+      "venue": "iclr24"
+    }
+  ]
+}

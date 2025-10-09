@@ -1,0 +1,3853 @@
+{
+  "cluster_id": 67,
+  "papers": [
+    {
+      "id": "iclr25_HzBfoUdjHt",
+      "paper_id": "HzBfoUdjHt",
+      "title": "$\\text{D}_{2}\\text{O}$: Dynamic Discriminative Operations for Efficient Long-Context Inference of Large Language Models",
+      "authors": "Zhongwei Wan, Xinjian Wu, Yu Zhang, Yi Xin, Chaofan Tao, Zhihong Zhu, Xin Wang, Siqi Luo, Jing Xiong, Longyue Wang, Mi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=HzBfoUdjHt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_riNuqYiD66",
+      "paper_id": "riNuqYiD66",
+      "title": "A Branching Decoder for Set Generation",
+      "authors": "Zixian Huang, Gengyang Xiao, Yu Gu, Gong Cheng",
+      "paper_url": "https://openreview.net/pdf?id=riNuqYiD66",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_U49N5V51rU",
+      "paper_id": "U49N5V51rU",
+      "title": "A Formal Framework for Understanding Length Generalization in Transformers",
+      "authors": "Xinting Huang, Andy Yang, Satwik Bhattamishra, Yash Sarrof, Andreas Krebs, Hattie Zhou, Preetum Nakkiran, Michael Hahn",
+      "paper_url": "https://openreview.net/pdf?id=U49N5V51rU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TrKRpaOk8y",
+      "paper_id": "TrKRpaOk8y",
+      "title": "A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts",
+      "authors": "Suyu Ge, Xihui Lin, Yunan Zhang, Jiawei Han, Hao Peng",
+      "paper_url": "https://openreview.net/pdf?id=TrKRpaOk8y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_vVjIW3sEc1s",
+      "paper_id": "vVjIW3sEc1s",
+      "title": "A Mathematical Exploration of Why Language Models Help Solve Downstream Tasks",
+      "authors": "Nikunj Saunshi, Sadhika Malladi, Sanjeev Arora",
+      "paper_url": "https://openreview.net/pdf/b890b55e177e79485185ef1fb9eb4e50d981908a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_BI1N3lTWtn",
+      "paper_id": "BI1N3lTWtn",
+      "title": "A Multi-Level Framework for Accelerating Training Transformer Models",
+      "authors": "Longwei Zou, Han Zhang, Yangdong Deng",
+      "paper_url": "https://openreview.net/pdf?id=BI1N3lTWtn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_U_T8-5hClV",
+      "paper_id": "U_T8-5hClV",
+      "title": "A Primal-Dual Framework for Transformers and Neural Networks",
+      "authors": "Tan Minh Nguyen, Tam Minh Nguyen, Nhat Ho, Andrea L. Bertozzi, Richard Baraniuk, Stanley Osher",
+      "paper_url": "https://openreview.net/pdf/ea60565f7f50777889e3d7d4e95d5feb7f8df5cb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bB0OKNpznp",
+      "paper_id": "bB0OKNpznp",
+      "title": "A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning",
+      "authors": "Chen-Yu Liu, Chao-Han Huck Yang, Hsi-Sheng Goan, Min-Hsiu Hsieh",
+      "paper_url": "https://openreview.net/pdf?id=bB0OKNpznp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PxoFut3dWW",
+      "paper_id": "PxoFut3dWW",
+      "title": "A Simple and Effective Pruning Approach for Large Language Models",
+      "authors": "Mingjie Sun, Zhuang Liu, Anna Bair, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf?id=PxoFut3dWW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PTcMzQgKmn",
+      "paper_id": "PTcMzQgKmn",
+      "title": "A Training-Free Sub-quadratic Cost Transformer Model Serving Framework with Hierarchically Pruned Attention",
+      "authors": "Heejun Lee, Geon Park, Youngwan Lee, Jaduk Suh, Jina Kim, Wonyong Jeong, Bumsik Kim, Hyemin Lee, Myeongjae Jeon, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf?id=PTcMzQgKmn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XNa6r6ZjoB",
+      "paper_id": "XNa6r6ZjoB",
+      "title": "Abstractors and relational cross-attention: An inductive bias for explicit relational reasoning in Transformers",
+      "authors": "Awni Altabaa, Taylor Whittington Webb, Jonathan D. Cohen, John Lafferty",
+      "paper_url": "https://openreview.net/pdf?id=XNa6r6ZjoB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LZfjxvqw0N",
+      "paper_id": "LZfjxvqw0N",
+      "title": "Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding",
+      "authors": "Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu",
+      "paper_url": "https://openreview.net/pdf?id=LZfjxvqw0N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yYZbZGo4ei",
+      "paper_id": "yYZbZGo4ei",
+      "title": "Accelerating Diffusion Transformers with Token-wise Feature Caching",
+      "authors": "Chang Zou, Xuyang Liu, Ting Liu, Siteng Huang, Linfeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=yYZbZGo4ei",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_s2NjWfaYdZ",
+      "paper_id": "s2NjWfaYdZ",
+      "title": "Accurate Retraining-free Pruning for Pretrained Encoder-based Language Models",
+      "authors": "Seungcheol Park, Hojun Choi, U Kang",
+      "paper_url": "https://openreview.net/pdf?id=s2NjWfaYdZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9CqkpQExe2",
+      "paper_id": "9CqkpQExe2",
+      "title": "Ada-K Routing: Boosting the Efficiency of MoE-based LLMs",
+      "authors": "Tongtian Yue, Longteng Guo, Jie Cheng, Xuange Gao, Hua Huang, Jing Liu",
+      "paper_url": "https://openreview.net/pdf?id=9CqkpQExe2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nZP6NgD3QY",
+      "paper_id": "nZP6NgD3QY",
+      "title": "AdaMerging: Adaptive Model Merging for Multi-Task Learning",
+      "authors": "Enneng Yang, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=nZP6NgD3QY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_lq62uWRJjiY",
+      "paper_id": "lq62uWRJjiY",
+      "title": "Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning",
+      "authors": "Qingru Zhang, Minshuo Chen, Alexander Bukharin, Pengcheng He, Yu Cheng, Weizhu Chen, Tuo Zhao",
+      "paper_url": "https://openreview.net/pdf/00a236907b21d7118010fb705f96b4a934acff26.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_WA84oMWHaH",
+      "paper_id": "WA84oMWHaH",
+      "title": "Adaptive Pruning of Pretrained Transformer via Differential Inclusions",
+      "authors": "Yizhuo Ding, Ke Fan, Yikai Wang, Xinwei Sun, Yanwei Fu",
+      "paper_url": "https://openreview.net/pdf?id=WA84oMWHaH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uAtDga3q0r",
+      "paper_id": "uAtDga3q0r",
+      "title": "Adaptive Rank Allocation: Speeding Up Modern Transformers with RaNA Adapters",
+      "authors": "Roberto Garcia, Jerry Weihong Liu, Daniel Sorvisto, Sabri Eyuboglu",
+      "paper_url": "https://openreview.net/pdf?id=uAtDga3q0r",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_W8K8slZ73R",
+      "paper_id": "W8K8slZ73R",
+      "title": "Adaptive Transformer Programs: Bridging the Gap Between Performance and Interpretability in Transformers",
+      "authors": "Quoc-Vinh Lai-Dang, Taemin Kang, Seungah Son",
+      "paper_url": "https://openreview.net/pdf?id=W8K8slZ73R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LvNROciCne",
+      "paper_id": "LvNROciCne",
+      "title": "AdaRankGrad: Adaptive Gradient Rank and Moments for Memory-Efficient LLMs Training and Fine-Tuning",
+      "authors": "Yehonathan Refael, Jonathan Svirsky, Boris Shustin, Wasim Huleihel, Ofir Lindenbaum",
+      "paper_url": "https://openreview.net/pdf?id=LvNROciCne",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QhxjQOMdDF",
+      "paper_id": "QhxjQOMdDF",
+      "title": "Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models",
+      "authors": "Zeman Li, Xinwei Zhang, Peilin Zhong, Yuan Deng, Meisam Razaviyayn, Vahab Mirrokni",
+      "paper_url": "https://openreview.net/pdf?id=QhxjQOMdDF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fswihJIYbd",
+      "paper_id": "fswihJIYbd",
+      "title": "ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning",
+      "authors": "Pengwei Tang, Xiaolin Hu, Yong Liu",
+      "paper_url": "https://openreview.net/pdf?id=fswihJIYbd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_of2rhALq8l",
+      "paper_id": "of2rhALq8l",
+      "title": "AffineQuant: Affine Transformation Quantization for Large Language Models",
+      "authors": "Yuexiao Ma, Huixia Li, Xiawu Zheng, Feng Ling, Xuefeng Xiao, Rui Wang, Shilei Wen, Fei Chao, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=of2rhALq8l",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_OfXqQ5TRwp",
+      "paper_id": "OfXqQ5TRwp",
+      "title": "ALAM: Averaged Low-Precision Activation for Memory-Efficient Training of Transformer Models",
+      "authors": "Sunghyeon Woo, Sunwoo Lee, Dongsuk Jeon",
+      "paper_url": "https://openreview.net/pdf?id=OfXqQ5TRwp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_s1kyHkdTmi",
+      "paper_id": "s1kyHkdTmi",
+      "title": "An Evolved Universal Transformer Memory",
+      "authors": "Edoardo Cetin, Qi Sun, Tianyu Zhao, Yujin Tang",
+      "paper_url": "https://openreview.net/pdf?id=s1kyHkdTmi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mYWsyTuiRp",
+      "paper_id": "mYWsyTuiRp",
+      "title": "Analyzing Feed-Forward Blocks in Transformers through the Lens of Attention Maps",
+      "authors": "Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui",
+      "paper_url": "https://openreview.net/pdf?id=mYWsyTuiRp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZU8OdDLTts",
+      "paper_id": "ZU8OdDLTts",
+      "title": "ARB-LLM: Alternating Refined Binarizations for Large Language Models",
+      "authors": "Zhiteng Li, Xianglong Yan, Tianao Zhang, Haotong Qin, Dong Xie, Jiang Tian, zhongchao shi, Linghe Kong, Yulun Zhang, Xiaokang Yang",
+      "paper_url": "https://openreview.net/pdf?id=ZU8OdDLTts",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1Xg4JPPxJ0",
+      "paper_id": "1Xg4JPPxJ0",
+      "title": "Are Transformers Able to Reason by Connecting Separated Knowledge in Training Data?",
+      "authors": "Yutong Yin, Zhaoran Wang",
+      "paper_url": "https://openreview.net/pdf?id=1Xg4JPPxJ0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nJnky5K944",
+      "paper_id": "nJnky5K944",
+      "title": "Are Transformers with One Layer Self-Attention Using Low-Rank Weight Matrices Universal Approximators?",
+      "authors": "Tokio Kajitsuka, Issei Sato",
+      "paper_url": "https://openreview.net/pdf?id=nJnky5K944",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eIgGesYKLG",
+      "paper_id": "eIgGesYKLG",
+      "title": "Arithmetic Transformers Can Length-Generalize in Both Operand Length and Count",
+      "authors": "Hanseul Cho, Jaeyoung Cha, Srinadh Bhojanapalli, Chulhee Yun",
+      "paper_url": "https://openreview.net/pdf?id=eIgGesYKLG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_4N-17dske79",
+      "paper_id": "4N-17dske79",
+      "title": "Associated Learning: an Alternative to End-to-End Backpropagation that Works on CNN, RNN, and Transformer",
+      "authors": "Dennis Y.H. Wu, Dinan Lin, Vincent Chen, Hung-Hsuan Chen",
+      "paper_url": "https://openreview.net/pdf/ce77110ad5e5ed0f1d142f313b702412a79e408e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_V4K9h1qNxE",
+      "paper_id": "V4K9h1qNxE",
+      "title": "Attention as a Hypernetwork",
+      "authors": "Simon Schug, Seijin Kobayashi, Yassir Akram, Joao Sacramento, Razvan Pascanu",
+      "paper_url": "https://openreview.net/pdf?id=V4K9h1qNxE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DVlPp7Jd7P",
+      "paper_id": "DVlPp7Jd7P",
+      "title": "Attention layers provably solve single-location regression",
+      "authors": "Pierre Marion, Raphaël Berthier, Gérard Biau, Claire Boyer",
+      "paper_url": "https://openreview.net/pdf?id=DVlPp7Jd7P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SqZ0KY4qBD",
+      "paper_id": "SqZ0KY4qBD",
+      "title": "Attention with Markov: A Curious Case of Single-layer Transformers",
+      "authors": "Ashok Vardhan Makkuva, Marco Bondaschi, Adway Girish, Alliot Nagle, Martin Jaggi, Hyeji Kim, Michael Gastpar",
+      "paper_url": "https://openreview.net/pdf?id=SqZ0KY4qBD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_kAa9eDS0RdO",
+      "paper_id": "kAa9eDS0RdO",
+      "title": "Attention-based Interpretability with Concept Transformers",
+      "authors": "Mattia Rigotti, Christoph Miksovic, Ioana Giurgiu, Thomas Gschwind, Paolo Scotton",
+      "paper_url": "https://openreview.net/pdf/d910731148e5b8279d1974d45e83aada94c35e55.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_u859gX7ADC",
+      "paper_id": "u859gX7ADC",
+      "title": "Augmenting Transformers with Recursively Composed Multi-grained Representations",
+      "authors": "Xiang Hu, Qingyang Zhu, Kewei Tu, Wei Wu",
+      "paper_url": "https://openreview.net/pdf?id=u859gX7ADC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_09xFexjhqE",
+      "paper_id": "09xFexjhqE",
+      "title": "AutoLoRa: An Automated Robust Fine-Tuning Framework",
+      "authors": "Xilie Xu, Jingfeng Zhang, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf?id=09xFexjhqE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gp32jvUquq",
+      "paper_id": "gp32jvUquq",
+      "title": "Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression",
+      "authors": "Jingcun Wang, Yu-Guang Chen, Ing-Chao Lin, Bing Li, Grace Li Zhang",
+      "paper_url": "https://openreview.net/pdf?id=gp32jvUquq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_w4abltTZ2f",
+      "paper_id": "w4abltTZ2f",
+      "title": "Batched Low-Rank Adaptation of Foundation Models",
+      "authors": "Yeming Wen, Swarat Chaudhuri",
+      "paper_url": "https://openreview.net/pdf?id=w4abltTZ2f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_FJiUyzOF1m",
+      "paper_id": "FJiUyzOF1m",
+      "title": "Bayesian Low-rank Adaptation for Large Language Models",
+      "authors": "Adam X. Yang, Maxime Robeyns, Xi Wang, Laurence Aitchison",
+      "paper_url": "https://openreview.net/pdf?id=FJiUyzOF1m",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_EzrZX9bd4G",
+      "paper_id": "EzrZX9bd4G",
+      "title": "BEEM: Boosting Performance of Early Exit DNNs using Multi-Exit Classifiers as Experts",
+      "authors": "Divya Jyoti Bajpai, Manjesh Kumar Hanawal",
+      "paper_url": "https://openreview.net/pdf?id=EzrZX9bd4G",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gC6JTEU3jl",
+      "paper_id": "gC6JTEU3jl",
+      "title": "BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation",
+      "authors": "Peng Xu, Wenqi Shao, Mengzhao Chen, Shitao Tang, Kaipeng Zhang, Peng Gao, Fengwei An, Yu Qiao, Ping Luo",
+      "paper_url": "https://openreview.net/pdf?id=gC6JTEU3jl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_OQ08SN70M1V",
+      "paper_id": "OQ08SN70M1V",
+      "title": "Better Fine-Tuning by Reducing Representational Collapse",
+      "authors": "Armen Aghajanyan, Akshat Shrivastava, Anchit Gupta, Naman Goyal, Luke Zettlemoyer, Sonal Gupta",
+      "paper_url": "https://openreview.net/pdf/2e098788f4b0c69470d410cbd519d3e0346848d3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_x83w6yGIWb",
+      "paper_id": "x83w6yGIWb",
+      "title": "Beware of Calibration Data for Pruning Large Language Models",
+      "authors": "Yixin Ji, Yang Xiang, Juntao Li, Qingrong Xia, Ping Li, Xinyu Duan, Zhefeng Wang, Min Zhang",
+      "paper_url": "https://openreview.net/pdf?id=x83w6yGIWb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uZ5K4HeNwd",
+      "paper_id": "uZ5K4HeNwd",
+      "title": "Beyond Autoregression: Fast LLMs via Self-Distillation Through Time",
+      "authors": "Justin Deschenaux, Caglar Gulcehre",
+      "paper_url": "https://openreview.net/pdf?id=uZ5K4HeNwd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_rcQdycl0zyk",
+      "paper_id": "rcQdycl0zyk",
+      "title": "Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with $1/n$ Parameters",
+      "authors": "Aston Zhang, Yi Tay, SHUAI Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, Jie Fu",
+      "paper_url": "https://openreview.net/pdf/98639a764ded8e038fa188dc104694519947e67c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_sgbI8Pxwie",
+      "paper_id": "sgbI8Pxwie",
+      "title": "Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix",
+      "authors": "Yingyu Liang, Jiangxuan Long, Zhenmei Shi, Zhao Song, Yufa Zhou",
+      "paper_url": "https://openreview.net/pdf?id=sgbI8Pxwie",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dDpB23VbVa",
+      "paper_id": "dDpB23VbVa",
+      "title": "Beyond Next Token Prediction: Patch-Level Training for Large Language Models",
+      "authors": "Chenze Shao, Fandong Meng, Jie Zhou",
+      "paper_url": "https://openreview.net/pdf?id=dDpB23VbVa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_5xEgrl_5FAJ",
+      "paper_id": "5xEgrl_5FAJ",
+      "title": "BiBERT: Accurate Fully Binarized BERT",
+      "authors": "Haotong Qin, Yifu Ding, Mingyuan Zhang, Qinghua YAN, Aishan Liu, Qingqing Dang, Ziwei Liu, Xianglong Liu",
+      "paper_url": "https://openreview.net/pdf/09aef2ecce1fcaf41eaa870ad5afc7e4d3222dad.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_lBntjGbyv0",
+      "paper_id": "lBntjGbyv0",
+      "title": "BitStack: Any-Size Compression of Large Language Models in Variable Memory Environments",
+      "authors": "Xinghao Wang, Pengyu Wang, Bo Wang, Dong Zhang, Yunhua Zhou, Xipeng Qiu",
+      "paper_url": "https://openreview.net/pdf?id=lBntjGbyv0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_frsg32u0rO",
+      "paper_id": "frsg32u0rO",
+      "title": "Block Verification Accelerates Speculative Decoding",
+      "authors": "Ziteng Sun, Uri Mendlovic, Yaniv Leviathan, Asaf Aharoni, Jae Hun Ro, Ahmad Beirami, Ananda Theertha Suresh",
+      "paper_url": "https://openreview.net/pdf?id=frsg32u0rO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7zNYY1E2fq",
+      "paper_id": "7zNYY1E2fq",
+      "title": "Block-Attention for Efficient Prefilling",
+      "authors": "Dongyang Ma, Yan Wang, Tian Lan",
+      "paper_url": "https://openreview.net/pdf?id=7zNYY1E2fq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EQgEMAD4kv",
+      "paper_id": "EQgEMAD4kv",
+      "title": "CAKE: Cascading and Adaptive KV Cache Eviction with Layer Preferences",
+      "authors": "Ziran Qin, Yuchen Cao, Mingbao Lin, Wen Hu, Shixuan Fan, Ke Cheng, Weiyao Lin, Jianguo Li",
+      "paper_url": "https://openreview.net/pdf?id=EQgEMAD4kv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_jPVAFXHlbL",
+      "paper_id": "jPVAFXHlbL",
+      "title": "Calibrating Transformers via Sparse Gaussian Processes",
+      "authors": "Wenlong Chen, Yingzhen Li",
+      "paper_url": "https://openreview.net/pdf/4e1dd410fa8dc35819ebe4426df19017fbedbb7f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_nT2u0M0nf8",
+      "paper_id": "nT2u0M0nf8",
+      "title": "CAMEx: Curvature-aware Merging of Experts",
+      "authors": "Viet Dung Nguyen, Minh Nguyen Hoang, Luc Nguyen, Rachel Teo, Tan Minh Nguyen, Linh Duy Tran",
+      "paper_url": "https://openreview.net/pdf?id=nT2u0M0nf8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HgZUcwFhjr",
+      "paper_id": "HgZUcwFhjr",
+      "title": "Can Transformers Capture Spatial Relations between Objects?",
+      "authors": "Chuan Wen, Dinesh Jayaraman, Yang Gao",
+      "paper_url": "https://openreview.net/pdf?id=HgZUcwFhjr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4X9RpKH4Ls",
+      "paper_id": "4X9RpKH4Ls",
+      "title": "Can Transformers Do Enumerative Geometry?",
+      "authors": "Baran Hashemi, Roderic Guigo Corominas, Alessandro Giacchetto",
+      "paper_url": "https://openreview.net/pdf?id=4X9RpKH4Ls",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eW4yh6HKz4",
+      "paper_id": "eW4yh6HKz4",
+      "title": "CBQ: Cross-Block Quantization for Large Language Models",
+      "authors": "Xin Ding, Xiaoyu Liu, Zhijun Tu, Yun Zhang, Wei Li, Jie Hu, Hanting Chen, Yehui Tang, Zhiwei Xiong, Baoqun Yin, Yunhe Wang",
+      "paper_url": "https://openreview.net/pdf?id=eW4yh6HKz4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_sAOOeI878Ns",
+      "paper_id": "sAOOeI878Ns",
+      "title": "Characterizing intrinsic compositionality in transformers with Tree Projections",
+      "authors": "Shikhar Murty, Pratyusha Sharma, Jacob Andreas, Christopher D Manning",
+      "paper_url": "https://openreview.net/pdf/a956f4e4759ae722c095dbea6bc4a342ff06edb5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_JtBRnrlOEFN",
+      "paper_id": "JtBRnrlOEFN",
+      "title": "Charformer: Fast Character Transformers via Gradient-based Subword Tokenization",
+      "authors": "Yi Tay, Vinh Q. Tran, Sebastian Ruder, Jai Gupta, Hyung Won Chung, Dara Bahri, Zhen Qin, Simon Baumgartner, Cong Yu, Donald Metzler",
+      "paper_url": "https://openreview.net/pdf/73e9030ce98662e38514127e7c9b665b4386ed44.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_E8mzu3JbdR",
+      "paper_id": "E8mzu3JbdR",
+      "title": "ChordMixer: A Scalable Neural Attention Model for Sequences with Different Length",
+      "authors": "Ruslan Khalitov, Tong Yu, Lei Cheng, Zhirong Yang",
+      "paper_url": "https://openreview.net/pdf/dbeed2c3d0b79691b83802ee788e14ea278798b1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_fpoAYV6Wsk",
+      "paper_id": "fpoAYV6Wsk",
+      "title": "Circuit Component Reuse Across Tasks in Transformer Language Models",
+      "authors": "Jack Merullo, Carsten Eickhoff, Ellie Pavlick",
+      "paper_url": "https://openreview.net/pdf?id=fpoAYV6Wsk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_kpnW12Lm9p",
+      "paper_id": "kpnW12Lm9p",
+      "title": "Circuit Transformer: A Transformer That Preserves Logical Equivalence",
+      "authors": "Xihan Li, Xing Li, Lei Chen, Xing Zhang, Mingxuan Yuan, Jun Wang",
+      "paper_url": "https://openreview.net/pdf?id=kpnW12Lm9p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Ozk9MrX1hvA",
+      "paper_id": "Ozk9MrX1hvA",
+      "title": "CoDA: Contrast-enhanced and Diversity-promoting Data Augmentation for Natural Language Understanding",
+      "authors": "Yanru Qu, Dinghan Shen, Yelong Shen, Sandra Sajeev, Weizhu Chen, Jiawei Han",
+      "paper_url": "https://openreview.net/pdf/f00c2ea329ae5573307a659b808b791fca635c77.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_jFcNXJGPGh",
+      "paper_id": "jFcNXJGPGh",
+      "title": "ComLoRA: A Competitive Learning Approach for Enhancing LoRA",
+      "authors": "Qiushi Huang, Tom Ko, Lilian Tang, Yu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=jFcNXJGPGh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_nWTzIsgrYNN",
+      "paper_id": "nWTzIsgrYNN",
+      "title": "Composite Slice Transformer: An Efficient Transformer with Composition of Multi-Scale Multi-Range Attentions",
+      "authors": "Mingu Lee, Saurabh Pitre, Tianyu Jiang, Pierre-David Letourneau, Matthew J Morse, Kanghwan Jang, Joseph Soriaga, Parham Noorzad, Hsin-Pai Cheng, Christopher Lott",
+      "paper_url": "https://openreview.net/pdf/156f56ba50a9889bf9fae0ce2e66f3c3e345c7b8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_IwJPj2MBcIa",
+      "paper_id": "IwJPj2MBcIa",
+      "title": "Compositional Attention: Disentangling Search and Retrieval",
+      "authors": "Sarthak Mittal, Sharath Chandra Raparthy, Irina Rish, Yoshua Bengio, Guillaume Lajoie",
+      "paper_url": "https://openreview.net/pdf/0ac34f592d10eb8cc8a3486322f340c5e0a456ba.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_B9klVS7Ddk",
+      "paper_id": "B9klVS7Ddk",
+      "title": "Compressing LLMs: The Truth is Rarely Pure and Never Simple",
+      "authors": "AJAY KUMAR JAISWAL, Zhe Gan, Xianzhi Du, Bowen Zhang, Zhangyang Wang, Yinfei Yang",
+      "paper_url": "https://openreview.net/pdf?id=B9klVS7Ddk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Lf5znhZmFu",
+      "paper_id": "Lf5znhZmFu",
+      "title": "Computational Limits of Low-Rank Adaptation (LoRA) Fine-Tuning for Transformer Models",
+      "authors": "Jerry Yao-Chieh Hu, Maojiang Su, En-jui kuo, Zhao Song, Han Liu",
+      "paper_url": "https://openreview.net/pdf?id=Lf5znhZmFu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_de11dbHzAMF",
+      "paper_id": "de11dbHzAMF",
+      "title": "Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data",
+      "authors": "Jonathan Pilault, Amine El hattami, Christopher Pal",
+      "paper_url": "https://openreview.net/pdf/c3044c4a7c51d46a59a66bf5a93e9d87747fce37.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_t5s-hd1bqLk",
+      "paper_id": "t5s-hd1bqLk",
+      "title": "Conditioning Sequence-to-sequence Networks with Learned Activations",
+      "authors": "Alberto Gil Couto Pimentel Ramos, Abhinav Mehrotra, Nicholas Donald Lane, Sourav Bhattacharya",
+      "paper_url": "https://openreview.net/pdf/61c3a9f19dc0bf8c4ab041dd9340f0c73d2c2a8b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_DayPQKXaQk",
+      "paper_id": "DayPQKXaQk",
+      "title": "Constrained Decoding for Cross-lingual Label Projection",
+      "authors": "Duong Minh Le, Yang Chen, Alan Ritter, Wei Xu",
+      "paper_url": "https://openreview.net/pdf?id=DayPQKXaQk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_PolHquob8M7",
+      "paper_id": "PolHquob8M7",
+      "title": "Continual Transformers: Redundancy-Free Attention for Online Inference",
+      "authors": "Lukas Hedegaard, Arian Bakhtiarnia, Alexandros Iosifidis",
+      "paper_url": "https://openreview.net/pdf/24823d84c68d2321555336724867855b12d26d31.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ezscMer8L0",
+      "paper_id": "ezscMer8L0",
+      "title": "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model",
+      "authors": "Zihan Zhong, Zhiqiang Tang, Tong He, Haoyang Fang, Chun Yuan",
+      "paper_url": "https://openreview.net/pdf?id=ezscMer8L0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Bl8CQrx2Up4",
+      "paper_id": "Bl8CQrx2Up4",
+      "title": "cosFormer: Rethinking Softmax In Attention",
+      "authors": "Zhen Qin, Weixuan Sun, Hui Deng, Dongxu Li, Yunshen Wei, Baohong Lv, Junjie Yan, Lingpeng Kong, Yiran Zhong",
+      "paper_url": "https://openreview.net/pdf/8d5626cec27b9e7c1a7e9c6ad0ba3b4e20fa74f9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_pvgEL1yS3Ql",
+      "paper_id": "pvgEL1yS3Ql",
+      "title": "Cross-Layer Retrospective Retrieving via Layer Attention",
+      "authors": "Yanwen Fang, Yuxi CAI, Jintai Chen, Jingyu Zhao, Guangjian Tian, Guodong Li",
+      "paper_url": "https://openreview.net/pdf/cae8de5d49145465335e2585c7808cfe0dbea268.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_k7-s5HSSPE5",
+      "paper_id": "k7-s5HSSPE5",
+      "title": "Cross-Lingual Transfer with Class-Weighted Language-Invariant Representations",
+      "authors": "Ruicheng Xian, Heng Ji, Han Zhao",
+      "paper_url": "https://openreview.net/pdf/c75daaf7c5ca8ed7ab01e92c4cc16d55f5d6aff5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_gFvRRCnQvX",
+      "paper_id": "gFvRRCnQvX",
+      "title": "CrossMPT: Cross-attention Message-passing Transformer for Error Correcting Codes",
+      "authors": "Seong-Joon Park, Hee-Youl Kwak, Sang-Hyo Kim, Yongjune Kim, Jong-Seon No",
+      "paper_url": "https://openreview.net/pdf?id=gFvRRCnQvX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_G1Hlubz1fR",
+      "paper_id": "G1Hlubz1fR",
+      "title": "Customizable Combination of Parameter-Efficient Modules for Multi-Task Learning",
+      "authors": "Haowen Wang, Tao Sun, Congyun Jin, Yingbo Wang, Yibo Fan, Yunqi Xu, Yuliang Du, Cong Fan",
+      "paper_url": "https://openreview.net/pdf?id=G1Hlubz1fR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_E4Fk3YuG56",
+      "paper_id": "E4Fk3YuG56",
+      "title": "Cut Your Losses in Large-Vocabulary Language Models",
+      "authors": "Erik Wijmans, Brody Huval, Alexander Hertzberg, Vladlen Koltun, Philipp Kraehenbuehl",
+      "paper_url": "https://openreview.net/pdf?id=E4Fk3YuG56",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_avSocG0oFA",
+      "paper_id": "avSocG0oFA",
+      "title": "DARE the Extreme: Revisiting Delta-Parameter Pruning For Fine-Tuned Models",
+      "authors": "Wenlong Deng, Yize Zhao, Vala Vakilian, Minghui Chen, Xiaoxiao Li, Christos Thrampoulidis",
+      "paper_url": "https://openreview.net/pdf?id=avSocG0oFA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_27uBgHuoSQ",
+      "paper_id": "27uBgHuoSQ",
+      "title": "Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer",
+      "authors": "Eric Qu, Xufang Luo, Dongsheng Li",
+      "paper_url": "https://openreview.net/pdf/9377a798b9e647ef1515896beca548253de5e521.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_XPZIaotutsD",
+      "paper_id": "XPZIaotutsD",
+      "title": "DEBERTA: DECODING-ENHANCED BERT WITH DISENTANGLED ATTENTION",
+      "authors": "Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen",
+      "paper_url": "https://openreview.net/pdf/283448c4c3318a56c7bb21743019e9938f252538.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_sE7-XhLxHA",
+      "paper_id": "sE7-XhLxHA",
+      "title": "DeBERTaV3: Improving DeBERTa using ELECTRA-Style Pre-Training with Gradient-Disentangled Embedding Sharing",
+      "authors": "Pengcheng He, Jianfeng Gao, Weizhu Chen",
+      "paper_url": "https://openreview.net/pdf/553181e6a53d384858f9fdfabb4dc41b0c245d8e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5M0ic2RxQZ",
+      "paper_id": "5M0ic2RxQZ",
+      "title": "dEBORA: Efficient Bilevel Optimization-based low-Rank Adaptation",
+      "authors": "Emanuele Zangrando, Sara Venturini, Francesco Rinaldi, Francesco Tudisco",
+      "paper_url": "https://openreview.net/pdf?id=5M0ic2RxQZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iWSl5Zyjjw",
+      "paper_id": "iWSl5Zyjjw",
+      "title": "DeciMamba: Exploring the Length Extrapolation Potential of Mamba",
+      "authors": "Assaf Ben-Kish, Itamar Zimerman, Shady Abu-Hussein, Nadav Cohen, Amir Globerson, Lior Wolf, Raja Giryes",
+      "paper_url": "https://openreview.net/pdf?id=iWSl5Zyjjw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zfeso8ceqr",
+      "paper_id": "zfeso8ceqr",
+      "title": "Deconstructing What Makes a Good Optimizer for Autoregressive Language Models",
+      "authors": "Rosie Zhao, Depen Morwani, David Brandfonbrener, Nikhil Vyas, Sham M. Kakade",
+      "paper_url": "https://openreview.net/pdf?id=zfeso8ceqr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_X1U74IwuxG",
+      "paper_id": "X1U74IwuxG",
+      "title": "Decoupling Angles and Strength in Low-rank Adaptation",
+      "authors": "Massimo Bini, Leander Girrbach, Zeynep Akata",
+      "paper_url": "https://openreview.net/pdf?id=X1U74IwuxG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_KpfasTaLUpq",
+      "paper_id": "KpfasTaLUpq",
+      "title": "Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation",
+      "authors": "Jungo Kasai, Nikolaos Pappas, Hao Peng, James Cross, Noah Smith",
+      "paper_url": "https://openreview.net/pdf/860e9a0a21e4953baf28e2042e96b83bfedd8bff.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_EQfpYwF3-b",
+      "paper_id": "EQfpYwF3-b",
+      "title": "Deep Learning meets Projective Clustering",
+      "authors": "Alaa Maalouf, Harry Lang, Daniela Rus, Dan Feldman",
+      "paper_url": "https://openreview.net/pdf/b30e3cfa2920dfd21d347c92e0226bcb13aab969.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_NPrsUQgMjKK",
+      "paper_id": "NPrsUQgMjKK",
+      "title": "Deep Transformers without Shortcuts: Modifying Self-attention for Faithful Signal Propagation",
+      "authors": "Bobby He, James Martens, Guodong Zhang, Aleksandar Botev, Andrew Brock, Samuel L Smith, Yee Whye Teh",
+      "paper_url": "https://openreview.net/pdf/d15d49c0b149d81687f6d614243e28d4ed39ccb5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_2c7pfOqu9k",
+      "paper_id": "2c7pfOqu9k",
+      "title": "DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference",
+      "authors": "Jinwei Yao, Kaiqi Chen, Kexun Zhang, Jiaxuan You, Binhang Yuan, Zeke Wang, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=2c7pfOqu9k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ujmgfuxSLrO",
+      "paper_id": "ujmgfuxSLrO",
+      "title": "DeLighT: Deep and Light-weight Transformer",
+      "authors": "Sachin Mehta, Marjan Ghazvininejad, Srinivasan Iyer, Luke Zettlemoyer, Hannaneh Hajishirzi",
+      "paper_url": "https://openreview.net/pdf/4f21fde99bd3a5d443e49b301eed13de7442a1a6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_KjegfPGRde",
+      "paper_id": "KjegfPGRde",
+      "title": "DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning",
+      "authors": "Zhengxiang Shi, Aldo Lipani",
+      "paper_url": "https://openreview.net/pdf?id=KjegfPGRde",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vf5aUZT0Fz",
+      "paper_id": "vf5aUZT0Fz",
+      "title": "DEPT: Decoupled Embeddings for Pre-training Language Models",
+      "authors": "Alex Iacob, Lorenzo Sani, Meghdad Kurmanji, William F. Shen, Xinchi Qiu, Dongqi Cai, Yan Gao, Nicholas Donald Lane",
+      "paper_url": "https://openreview.net/pdf?id=vf5aUZT0Fz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_NRxydtWup1S",
+      "paper_id": "NRxydtWup1S",
+      "title": "Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling",
+      "authors": "Keyu Tian, Yi Jiang, qishuai diao, Chen Lin, Liwei Wang, Zehuan Yuan",
+      "paper_url": "https://openreview.net/pdf/1f583ce7b466371efb133c5c74c8283ffc7fb6f7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_k581sTMyPt",
+      "paper_id": "k581sTMyPt",
+      "title": "Diagnosing Transformers: Illuminating Feature Spaces for Clinical Decision-Making",
+      "authors": "Aliyah R. Hsu, Yeshwanth Cherapanamjeri, Briton Park, Tristan Naumann, Anobel Odisho, Bin Yu",
+      "paper_url": "https://openreview.net/pdf?id=k581sTMyPt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_GWQWAeE9EpB",
+      "paper_id": "GWQWAeE9EpB",
+      "title": "DictFormer: Tiny Transformer with Shared Dictionary",
+      "authors": "Qian Lou, Ting Hua, Yen-Chang Hsu, Yilin Shen, Hongxia Jin",
+      "paper_url": "https://openreview.net/pdf/63e0216a03407ae67011d9a68ba92781cd196e13.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_OvoCm1gGhN",
+      "paper_id": "OvoCm1gGhN",
+      "title": "Differential Transformer",
+      "authors": "Tianzhu Ye, Li Dong, Yuqing Xia, Yutao Sun, Yi Zhu, Gao Huang, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=OvoCm1gGhN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SUc1UOWndp",
+      "paper_id": "SUc1UOWndp",
+      "title": "Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient",
+      "authors": "George Wang, Jesse Hoogland, Stan van Wingerden, Zach Furman, Daniel Murfet",
+      "paper_url": "https://openreview.net/pdf?id=SUc1UOWndp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rsY6J3ZaTF",
+      "paper_id": "rsY6J3ZaTF",
+      "title": "DistillSpec: Improving Speculative Decoding via Knowledge Distillation",
+      "authors": "Yongchao Zhou, Kaifeng Lyu, Ankit Singh Rawat, Aditya Krishna Menon, Afshin Rostamizadeh, Sanjiv Kumar, Jean-François Kagy, Rishabh Agarwal",
+      "paper_url": "https://openreview.net/pdf?id=rsY6J3ZaTF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_AcSChDWL6V",
+      "paper_id": "AcSChDWL6V",
+      "title": "Distinguished In Uniform: Self-Attention Vs. Virtual Nodes",
+      "authors": "Eran Rosenbluth, Jan Tönshoff, Martin Ritzert, Berke Kisin, Martin Grohe",
+      "paper_url": "https://openreview.net/pdf?id=AcSChDWL6V",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cJd1BgZ9CS",
+      "paper_id": "cJd1BgZ9CS",
+      "title": "Distributed Speculative Inference (DSI): Speculation Parallelism for Provably Faster Lossless Language Model Inference",
+      "authors": "Nadav Timor, Jonathan Mamou, Daniel Korat, Moshe Berchansky, Oren Pereg, Moshe Wasserblat, Tomer Galanti, Michal Gordon-Kiwkowitz, David Harel",
+      "paper_url": "https://openreview.net/pdf?id=cJd1BgZ9CS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WCVMqRHWW5",
+      "paper_id": "WCVMqRHWW5",
+      "title": "Distributional Associations vs In-Context Reasoning: A Study of Feed-forward and Attention Layers",
+      "authors": "Lei Chen, Joan Bruna, Alberto Bietti",
+      "paper_url": "https://openreview.net/pdf?id=WCVMqRHWW5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kws76i5XB8",
+      "paper_id": "kws76i5XB8",
+      "title": "Dobi-SVD: Differentiable SVD for LLM Compression and Some New Perspectives",
+      "authors": "Wang Qinsi, Jinghan Ke, Masayoshi Tomizuka, Kurt Keutzer, Chenfeng Xu",
+      "paper_url": "https://openreview.net/pdf?id=kws76i5XB8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8oCrlOaYcc",
+      "paper_id": "8oCrlOaYcc",
+      "title": "Don't flatten, tokenize! Unlocking the key to SoftMoE's efficacy in deep RL",
+      "authors": "Ghada Sokar, Johan Samir Obando Ceron, Aaron Courville, Hugo Larochelle, Pablo Samuel Castro",
+      "paper_url": "https://openreview.net/pdf?id=8oCrlOaYcc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gx1wHnf5Vp",
+      "paper_id": "gx1wHnf5Vp",
+      "title": "Drop-Upcycling: Training Sparse Mixture of Experts with Partial Re-initialization",
+      "authors": "Taishi Nakamura, Takuya Akiba, Kazuki Fujii, Yusuke Oda, Rio Yokota, Jun Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=gx1wHnf5Vp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OPSpdc25IZ",
+      "paper_id": "OPSpdc25IZ",
+      "title": "DS-LLM: Leveraging Dynamical Systems to Enhance Both Training and Inference of Large Language Models",
+      "authors": "Ruibing Song, Chuan Liu, Chunshu Wu, Ang Li, Dongfang Liu, Ying Nian Wu, Tong Geng",
+      "paper_url": "https://openreview.net/pdf?id=OPSpdc25IZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bmbRCRiNDu",
+      "paper_id": "bmbRCRiNDu",
+      "title": "Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces",
+      "authors": "DiJia Su, Sainbayar Sukhbaatar, Michael Rabbat, Yuandong Tian, Qinqing Zheng",
+      "paper_url": "https://openreview.net/pdf?id=bmbRCRiNDu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cFu7ze7xUm",
+      "paper_id": "cFu7ze7xUm",
+      "title": "DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads",
+      "authors": "Guangxuan Xiao, Jiaming Tang, Jingwei Zuo, junxian guo, Shang Yang, Haotian Tang, Yao Fu, Song Han",
+      "paper_url": "https://openreview.net/pdf?id=cFu7ze7xUm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_d4uL2MSe0z",
+      "paper_id": "d4uL2MSe0z",
+      "title": "Dynamic Layer Tying for Parameter-Efficient Transformers",
+      "authors": "Tamir David Hay, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf?id=d4uL2MSe0z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gU4ZgQNsOC",
+      "paper_id": "gU4ZgQNsOC",
+      "title": "Dynamic Loss-Based Sample Reweighting for Improved Large Language Model Pretraining",
+      "authors": "Daouda Sow, Herbert Woisetschläger, Saikiran Bulusu, Shiqiang Wang, Hans Arno Jacobsen, Yingbin Liang",
+      "paper_url": "https://openreview.net/pdf?id=gU4ZgQNsOC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oXh0939Zzq",
+      "paper_id": "oXh0939Zzq",
+      "title": "Dynamic Low-Rank Sparse Adaptation for Large Language Models",
+      "authors": "Weizhong Huang, Yuxin Zhang, Xiawu Zheng, Liuyang, Jing Lin, Yiwu Yao, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=oXh0939Zzq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_T26f9z2rEe",
+      "paper_id": "T26f9z2rEe",
+      "title": "Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models",
+      "authors": "Yongxin Guo, Zhenglin Cheng, Xiaoying Tang, Zhaopeng Tu, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=T26f9z2rEe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_1ndDmZdT4g",
+      "paper_id": "1ndDmZdT4g",
+      "title": "Dynamic Sparse No Training:  Training-Free Fine-tuning for Sparse LLMs",
+      "authors": "Yuxin Zhang, Lirui Zhao, Mingbao Lin, Sun Yunyun, Yiwu Yao, Xingjia Han, Jared Tanner, Shiwei Liu, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=1ndDmZdT4g",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_orr5uPZY28",
+      "paper_id": "orr5uPZY28",
+      "title": "DySpec: Faster Speculative Decoding with Dynamic Token Tree Structure",
+      "authors": "Yunfan Xiong, Ruoyu Zhang, Yanzeng Li, Tianhao Wu, Lei Zou",
+      "paper_url": "https://openreview.net/pdf?id=orr5uPZY28",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xtlMtbVfWu",
+      "paper_id": "xtlMtbVfWu",
+      "title": "EDiT: A Local-SGD-Based Efficient Distributed Training Method for Large Language Models",
+      "authors": "Jialiang Cheng, Ning Gao, Yun Yue, Zhiling Ye, Jiadi Jiang, Jian Sha",
+      "paper_url": "https://openreview.net/pdf?id=xtlMtbVfWu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_G-uNfHKrj46",
+      "paper_id": "G-uNfHKrj46",
+      "title": "Efficient Attention via Control Variates",
+      "authors": "Lin Zheng, Jianbo Yuan, Chong Wang, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf/2d280a38a1ccefd5c4718511ab9b2b2571c6bd05.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_41HlN8XYM5",
+      "paper_id": "41HlN8XYM5",
+      "title": "Efficient Automated Circuit Discovery in Transformers using Contextual Decomposition",
+      "authors": "Aliyah R. Hsu, Georgia Zhou, Yeshwanth Cherapanamjeri, Yaxuan Huang, Anobel Odisho, Peter R. Carroll, Bin Yu",
+      "paper_url": "https://openreview.net/pdf?id=41HlN8XYM5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TDyE2iuvyc",
+      "paper_id": "TDyE2iuvyc",
+      "title": "Efficient Model Editing with Task-Localized Sparse Fine-tuning",
+      "authors": "Leonardo Iurada, Marco Ciccone, Tatiana Tommasi",
+      "paper_url": "https://openreview.net/pdf?id=TDyE2iuvyc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_EXHG-A3jlM",
+      "paper_id": "EXHG-A3jlM",
+      "title": "Efficient Token Mixing for Transformers via Adaptive Fourier Neural Operators",
+      "authors": "John Guibas, Morteza Mardani, Zongyi Li, Andrew Tao, Anima Anandkumar, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf/bec7c123720932f2545dfb12e85bab8ac5cca6ff.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fvkElsJOsN",
+      "paper_id": "fvkElsJOsN",
+      "title": "Eliminating Position Bias of Language Models: A Mechanistic Approach",
+      "authors": "Ziqi Wang, Hanlin Zhang, Xiner Li, Kuan-Hao Huang, Chi Han, Shuiwang Ji, Sham M. Kakade, Hao Peng, Heng Ji",
+      "paper_url": "https://openreview.net/pdf?id=fvkElsJOsN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Fs9EabmQrJ",
+      "paper_id": "Fs9EabmQrJ",
+      "title": "EmbedLLM: Learning Compact Representations of Large Language Models",
+      "authors": "Richard Zhuang, Tianhao Wu, Zhaojin Wen, Andrew Li, Jiantao Jiao, Kannan Ramchandran",
+      "paper_url": "https://openreview.net/pdf?id=Fs9EabmQrJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0fD3iIBhlV",
+      "paper_id": "0fD3iIBhlV",
+      "title": "Emergence of a High-Dimensional Abstraction Phase in Language Transformers",
+      "authors": "Emily Cheng, Diego Doimo, Corentin Kervadec, Iuri Macocco, Lei Yu, Alessandro Laio, Marco Baroni",
+      "paper_url": "https://openreview.net/pdf?id=0fD3iIBhlV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eBS3dQQ8GV",
+      "paper_id": "eBS3dQQ8GV",
+      "title": "Emergence of meta-stable clustering in mean-field transformer models",
+      "authors": "Giuseppe Bruno, Federico Pasqualotto, Andrea Agazzi",
+      "paper_url": "https://openreview.net/pdf?id=eBS3dQQ8GV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_7YfHla7IxBJ",
+      "paper_id": "7YfHla7IxBJ",
+      "title": "Encoding Recurrence into Transformers",
+      "authors": "Feiqing Huang, Kexin Lu, Yuxi CAI, Zhen Qin, Yanwen Fang, Guangjian Tian, Guodong Li",
+      "paper_url": "https://openreview.net/pdf/70636775789b51f219cb29634cc7c794cc86577b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Dj9a4zQsSl",
+      "paper_id": "Dj9a4zQsSl",
+      "title": "Enhancing Document Understanding with Group Position Embedding: A Novel Approach to Incorporate Layout Information",
+      "authors": "Yuke Zhu, Yue Zhang, Dongdong Liu, Chi Xie, Zihua Xiong, Bo Zheng, Sheng Guo",
+      "paper_url": "https://openreview.net/pdf?id=Dj9a4zQsSl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9BiVepgmWW",
+      "paper_id": "9BiVepgmWW",
+      "title": "Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures",
+      "authors": "Yiming Chen, yuan zhang, Liyuan Cao, Kun Yuan, Zaiwen Wen",
+      "paper_url": "https://openreview.net/pdf?id=9BiVepgmWW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_RR8y0WKrFv",
+      "paper_id": "RR8y0WKrFv",
+      "title": "Ensemble Distillation for Unsupervised Constituency Parsing",
+      "authors": "Behzad Shayegh, Yanshuai Cao, Xiaodan Zhu, Jackie CK Cheung, Lili Mou",
+      "paper_url": "https://openreview.net/pdf?id=RR8y0WKrFv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_l0gZS0sAlf",
+      "paper_id": "l0gZS0sAlf",
+      "title": "Ensembles of Low-Rank Expert Adapters",
+      "authors": "Yinghao Li, Vianne R. Gao, Chao Zhang, MohamadAli Torkamani",
+      "paper_url": "https://openreview.net/pdf?id=l0gZS0sAlf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wnT8bfJCDx",
+      "paper_id": "wnT8bfJCDx",
+      "title": "Explaining Modern Gated-Linear RNNs via a Unified Implicit Attention Formulation",
+      "authors": "Itamar Zimerman, Ameen Ali Ali, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf?id=wnT8bfJCDx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_HHiiQKWsOcV",
+      "paper_id": "HHiiQKWsOcV",
+      "title": "Explaining the Efficacy of Counterfactually Augmented Data",
+      "authors": "Divyansh Kaushik, Amrith Setlur, Eduard H Hovy, Zachary Chase Lipton",
+      "paper_url": "https://openreview.net/pdf/73361dc2c4d80cb501745448d7de1e3c99d2f2a8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_RftryyYyjiG",
+      "paper_id": "RftryyYyjiG",
+      "title": "Exploring extreme parameter compression for pre-trained language models",
+      "authors": "Benyou Wang, Yuxin Ren, Lifeng Shang, Xin Jiang, Qun Liu",
+      "paper_url": "https://openreview.net/pdf/dab5dd8e405bdd89ffafedef9f081622e45d0c61.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_V3C8p78sDa",
+      "paper_id": "V3C8p78sDa",
+      "title": "Exploring the Limits of Large Scale Pre-training",
+      "authors": "Samira Abnar, Mostafa Dehghani, Behnam Neyshabur, Hanie Sedghi",
+      "paper_url": "https://openreview.net/pdf/a96ab51b85d9ac8937fe9688a023e72c05b91822.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_Vzh1BFUCiIX",
+      "paper_id": "Vzh1BFUCiIX",
+      "title": "ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning",
+      "authors": "Vamsi Aribandi, Yi Tay, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, Vinh Q. Tran, Dara Bahri, Jianmo Ni, Jai Gupta, Kai Hui, Sebastian Ruder, Donald Metzler",
+      "paper_url": "https://openreview.net/pdf/b64da5c159b90bf56d174fc67459b74928711232.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_bJx4iOIOxn",
+      "paper_id": "bJx4iOIOxn",
+      "title": "Facing the Elephant in the Room: Visual Prompt Tuning or Full finetuning?",
+      "authors": "Cheng Han, Qifan Wang, Yiming Cui, Wenguan Wang, Lifu Huang, Siyuan Qi, Dongfang Liu",
+      "paper_url": "https://openreview.net/pdf?id=bJx4iOIOxn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_8OBuqbLb8h",
+      "paper_id": "8OBuqbLb8h",
+      "title": "Fast-ELECTRA for Efficient Pre-training",
+      "authors": "Chengyu Dong, Liyuan Liu, Hao Cheng, Jingbo Shang, Jianfeng Gao, Xiaodong Liu",
+      "paper_url": "https://openreview.net/pdf?id=8OBuqbLb8h",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vo9t20wsmd",
+      "paper_id": "vo9t20wsmd",
+      "title": "Faster Cascades via Speculative Decoding",
+      "authors": "Harikrishna Narasimhan, Wittawat Jitkrittum, Ankit Singh Rawat, Seungyeon Kim, Neha Gupta, Aditya Krishna Menon, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf?id=vo9t20wsmd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_e0rQRMUhs7",
+      "paper_id": "e0rQRMUhs7",
+      "title": "Federated Residual Low-Rank Adaptation of Large Language Models",
+      "authors": "Yunlu Yan, Chun-Mei Feng, Wangmeng Zuo, Rick Siow Mong Goh, Yong Liu, Lei Zhu",
+      "paper_url": "https://openreview.net/pdf?id=e0rQRMUhs7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_N5fVv6PZGz",
+      "paper_id": "N5fVv6PZGz",
+      "title": "Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models",
+      "authors": "Keisuke Kamahori, Tian Tang, Yile Gu, Kan Zhu, Baris Kasikci",
+      "paper_url": "https://openreview.net/pdf?id=N5fVv6PZGz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dj0TktJcVI",
+      "paper_id": "dj0TktJcVI",
+      "title": "Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic",
+      "authors": "Ruochen Jin, Bojian Hou, Jiancong Xiao, Weijie J Su, Li Shen",
+      "paper_url": "https://openreview.net/pdf?id=dj0TktJcVI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cZWCjan02B",
+      "paper_id": "cZWCjan02B",
+      "title": "Flash Inference: Near Linear Time Inference for Long Convolution Sequence Models and Beyond",
+      "authors": "Costin-Andrei Oncescu, Sanket Purandare, Stratos Idreos, Sham M. Kakade",
+      "paper_url": "https://openreview.net/pdf?id=cZWCjan02B",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mZn2Xyh9Ec",
+      "paper_id": "mZn2Xyh9Ec",
+      "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+      "authors": "Tri Dao",
+      "paper_url": "https://openreview.net/pdf?id=mZn2Xyh9Ec",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gPKTTAfYBp",
+      "paper_id": "gPKTTAfYBp",
+      "title": "FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores",
+      "authors": "Daniel Y Fu, Hermann Kumbong, Eric Nguyen, Christopher Re",
+      "paper_url": "https://openreview.net/pdf?id=gPKTTAfYBp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wUtXB43Chi",
+      "paper_id": "wUtXB43Chi",
+      "title": "FlashMask: Efficient and Rich Mask Extension of FlashAttention",
+      "authors": "Guoxia Wang, Jinle Zeng, Xiyuan Xiao, Siming Wu, Jiabin Yang, Lujing Zheng, Zeyu Chen, Jiang Bian, Dianhai Yu, Haifeng Wang",
+      "paper_url": "https://openreview.net/pdf?id=wUtXB43Chi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OfjIlbelrT",
+      "paper_id": "OfjIlbelrT",
+      "title": "FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference",
+      "authors": "Xunhao Lai, Jianqiao Lu, Yao Luo, Yiyuan Ma, Xun Zhou",
+      "paper_url": "https://openreview.net/pdf?id=OfjIlbelrT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_q2Lnyegkr8",
+      "paper_id": "q2Lnyegkr8",
+      "title": "Forgetting Transformer: Softmax Attention with a Forget Gate",
+      "authors": "Zhixuan Lin, Evgenii Nikishin, Xu He, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf?id=q2Lnyegkr8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cADpvQgnqg",
+      "paper_id": "cADpvQgnqg",
+      "title": "Foundation Models Secretly Understand Neural Network Weights: Enhancing Hypernetwork Architectures with Foundation Models",
+      "authors": "Jeffrey Gu, Serena Yeung-Levy",
+      "paper_url": "https://openreview.net/pdf?id=cADpvQgnqg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jxpsAj7ltE",
+      "paper_id": "jxpsAj7ltE",
+      "title": "From Sparse to Soft Mixtures of Experts",
+      "authors": "Joan Puigcerver, Carlos Riquelme Ruiz, Basil Mustafa, Neil Houlsby",
+      "paper_url": "https://openreview.net/pdf?id=jxpsAj7ltE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_rR03qFesqk",
+      "paper_id": "rR03qFesqk",
+      "title": "Functional Interpolation for Relative Positions improves Long Context Transformers",
+      "authors": "Shanda Li, Chong You, Guru Guruganesh, Joshua Ainslie, Santiago Ontanon, Manzil Zaheer, Sumit Sanghai, Yiming Yang, Sanjiv Kumar, Srinadh Bhojanapalli",
+      "paper_url": "https://openreview.net/pdf?id=rR03qFesqk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_T2d0geb6y0",
+      "paper_id": "T2d0geb6y0",
+      "title": "Fundamental Limitations on Subquadratic Alternatives to Transformers",
+      "authors": "Josh Alman, Hantao Yu",
+      "paper_url": "https://openreview.net/pdf?id=T2d0geb6y0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_LSz-gQyd0zE",
+      "paper_id": "LSz-gQyd0zE",
+      "title": "Fuzzy Alignments in Directed Acyclic Graph for Non-Autoregressive Machine Translation",
+      "authors": "Zhengrui Ma, Chenze Shao, Shangtong Gui, Min Zhang, Yang Feng",
+      "paper_url": "https://openreview.net/pdf/69c77c3cf5e152302524f0544984352da29c2d74.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bc3sUsS6ck",
+      "paper_id": "bc3sUsS6ck",
+      "title": "Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass",
+      "authors": "Tong Chen, Hao Fang, Patrick Xia, Xiaodong Liu, Benjamin Van Durme, Luke Zettlemoyer, Jianfeng Gao, Hao Cheng",
+      "paper_url": "https://openreview.net/pdf?id=bc3sUsS6ck",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bsFWJ0Kget",
+      "paper_id": "bsFWJ0Kget",
+      "title": "GeoLoRA: Geometric integration for parameter efficient fine-tuning",
+      "authors": "Steffen Schotthöfer, Emanuele Zangrando, Gianluca Ceruti, Francesco Tudisco, Jonas Kusch",
+      "paper_url": "https://openreview.net/pdf?id=bsFWJ0Kget",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XtY3xYQWcW",
+      "paper_id": "XtY3xYQWcW",
+      "title": "Geometry of Lightning Self-Attention: Identifiability and Dimension",
+      "authors": "Nathan W. Henry, Giovanni Luca Marchetti, Kathlén Kohn",
+      "paper_url": "https://openreview.net/pdf?id=XtY3xYQWcW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UvMSKonce8",
+      "paper_id": "UvMSKonce8",
+      "title": "Gnothi Seauton: Empowering Faithful Self-Interpretability in Black-Box Transformers",
+      "authors": "Shaobo Wang, Hongxuan Tang, Mingyang Wang, Hongrui Zhang, Xuyang Liu, Weiya Li, Xuming Hu, Linfeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=UvMSKonce8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_F1vEjWK-lH_",
+      "paper_id": "F1vEjWK-lH_",
+      "title": "Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models",
+      "authors": "Zirui Wang, Yulia Tsvetkov, Orhan Firat, Yuan Cao",
+      "paper_url": "https://openreview.net/pdf/4958372042631716242a4b3f1a10231548614522.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_qrwe7XHTmYb",
+      "paper_id": "qrwe7XHTmYb",
+      "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+      "authors": "Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen",
+      "paper_url": "https://openreview.net/pdf/cdb90e31da8446076492c5aef0c8c6ae35dd472a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ONPECq0Rk7",
+      "paper_id": "ONPECq0Rk7",
+      "title": "Headless Language Models: Learning without Predicting with Contrastive Weight Tying",
+      "authors": "Nathan Godey, Éric Villemonte de la Clergerie, Benoît Sagot",
+      "paper_url": "https://openreview.net/pdf?id=ONPECq0Rk7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_9y0HFvaAYD6",
+      "paper_id": "9y0HFvaAYD6",
+      "title": "Hidden Markov Transformer for Simultaneous Machine Translation",
+      "authors": "Shaolei Zhang, Yang Feng",
+      "paper_url": "https://openreview.net/pdf/fcf9747a3df24a2f10acd861765126ce790b5424.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_tU074jg2vS",
+      "paper_id": "tU074jg2vS",
+      "title": "Hierarchical Autoregressive Transformers: Combining Byte- and Word-Level Processing for Robust, Adaptable Language Models",
+      "authors": "Pit Neitemeier, Björn Deiseroth, Constantin Eichenberg, Lukas Balles",
+      "paper_url": "https://openreview.net/pdf?id=tU074jg2vS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TwJrTz9cRS",
+      "paper_id": "TwJrTz9cRS",
+      "title": "HiRA: Parameter-Efficient Hadamard High-Rank Adaptation for Large Language Models",
+      "authors": "Qiushi Huang, Tom Ko, Zhan Zhuang, Lilian Tang, Yu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=TwJrTz9cRS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lTkHiXeuDl",
+      "paper_id": "lTkHiXeuDl",
+      "title": "HMoRA: Making LLMs More Effective with Hierarchical Mixture of LoRA Experts",
+      "authors": "Mengqi Liao, Wei Chen, Junfeng Shen, Shengnan Guo, Huaiyu Wan",
+      "paper_url": "https://openreview.net/pdf?id=lTkHiXeuDl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_D7srTrGhAs",
+      "paper_id": "D7srTrGhAs",
+      "title": "HomoDistil: Homotopic Task-Agnostic Distillation of Pre-trained Transformers",
+      "authors": "Chen Liang, Haoming Jiang, Zheng Li, Xianfeng Tang, Bing Yin, Tuo Zhao",
+      "paper_url": "https://openreview.net/pdf/c83a0d7736988f2fb7bb42f283697dade74b84f2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_JCiF03qnmi",
+      "paper_id": "JCiF03qnmi",
+      "title": "How Does Critical Batch Size Scale in Pre-training?",
+      "authors": "Hanlin Zhang, Depen Morwani, Nikhil Vyas, Jingfeng Wu, Difan Zou, Udaya Ghai, Dean Foster, Sham M. Kakade",
+      "paper_url": "https://openreview.net/pdf?id=JCiF03qnmi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_v0zNCwwkaV",
+      "paper_id": "v0zNCwwkaV",
+      "title": "How to Capture Higher-order Correlations? Generalizing Matrix Softmax Attention to Kronecker Computation",
+      "authors": "Josh Alman, Zhao Song",
+      "paper_url": "https://openreview.net/pdf?id=v0zNCwwkaV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZTssMmhC2X",
+      "paper_id": "ZTssMmhC2X",
+      "title": "How to Fine-Tune Vision Models with SGD",
+      "authors": "Ananya Kumar, Ruoqi Shen, Sebastien Bubeck, Suriya Gunasekar",
+      "paper_url": "https://openreview.net/pdf?id=ZTssMmhC2X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_gVOXZproe-e",
+      "paper_id": "gVOXZproe-e",
+      "title": "How to prepare your task head for finetuning",
+      "authors": "Yi Ren, Shangmin Guo, Wonho Bae, Danica J. Sutherland",
+      "paper_url": "https://openreview.net/pdf/733e62f9bacedec2adc398eebb9457397b5a0713.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Tb5PY5vwp6",
+      "paper_id": "Tb5PY5vwp6",
+      "title": "HShare: Fast LLM Decoding by Hierarchical Key-Value Sharing",
+      "authors": "Huaijin Wu, Lianqiang Li, Hantao Huang, Tu Yi, Jihang Zhang, Minghui Yu, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=Tb5PY5vwp6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jUWktnsplU",
+      "paper_id": "jUWktnsplU",
+      "title": "Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners",
+      "authors": "Bowen Shi, XIAOPENG ZHANG, Yaoming Wang, Jin Li, Wenrui Dai, Junni Zou, Hongkai Xiong, Qi Tian",
+      "paper_url": "https://openreview.net/pdf?id=jUWktnsplU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_A1ztozypga",
+      "paper_id": "A1ztozypga",
+      "title": "Hymba: A Hybrid-head Architecture for Small Language Models",
+      "authors": "Xin Dong, Yonggan Fu, Shizhe Diao, Wonmin Byeon, ZIJIA CHEN, Ameya Sunil Mahabaleshwarkar, Shih-Yang Liu, Matthijs Van keirsbilck, Min-Hung Chen, Yoshi Suhara, Yingyan Celine Lin, Jan Kautz, Pavlo Molchanov",
+      "paper_url": "https://openreview.net/pdf?id=A1ztozypga",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Eh0Od2BJIM",
+      "paper_id": "Eh0Od2BJIM",
+      "title": "HyperAttention: Long-context Attention in Near-Linear Time",
+      "authors": "Insu Han, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, David Woodruff, Amir Zandieh",
+      "paper_url": "https://openreview.net/pdf?id=Eh0Od2BJIM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_hiq1rHO8pNT",
+      "paper_id": "hiq1rHO8pNT",
+      "title": "HyperGrid Transformers: Towards A Single Model for Multiple Tasks",
+      "authors": "Yi Tay, Zhe Zhao, Dara Bahri, Donald Metzler, Da-Cheng Juan",
+      "paper_url": "https://openreview.net/pdf/ec11dfff9f173589062f4d3948f9212e345c56cf.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_6RR3wU4mSZ",
+      "paper_id": "6RR3wU4mSZ",
+      "title": "IceFormer: Accelerated Inference with Long-Sequence Transformers on CPUs",
+      "authors": "Yuzhen Mao, Martin Ester, Ke Li",
+      "paper_url": "https://openreview.net/pdf?id=6RR3wU4mSZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_IcVSKhVpKu",
+      "paper_id": "IcVSKhVpKu",
+      "title": "Improving Language Model Distillation through Hidden State Matching",
+      "authors": "Sayantan Dasgupta, Trevor Cohn",
+      "paper_url": "https://openreview.net/pdf?id=IcVSKhVpKu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_I2Hw58KHp8O",
+      "paper_id": "I2Hw58KHp8O",
+      "title": "Improving Non-Autoregressive Translation Models Without Distillation",
+      "authors": "Xiao Shi Huang, Felipe Perez, Maksims Volkovs",
+      "paper_url": "https://openreview.net/pdf/fe5e18c9939f10295c39693c81d77b03816cad63.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ypAT2ixD4X",
+      "paper_id": "ypAT2ixD4X",
+      "title": "In defense of parameter sharing for model-compression",
+      "authors": "Aditya Desai, Anshumali Shrivastava",
+      "paper_url": "https://openreview.net/pdf?id=ypAT2ixD4X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_H3IUunLy8s",
+      "paper_id": "H3IUunLy8s",
+      "title": "Increasing Model Capacity for Free: A Simple Strategy for Parameter Efficient Fine-tuning",
+      "authors": "Haobo SONG, Hao Zhao, Soumajit Majumder, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=H3IUunLy8s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_ipUPfYxWZvM",
+      "paper_id": "ipUPfYxWZvM",
+      "title": "IOT: Instance-wise Layer Reordering for Transformer Structures",
+      "authors": "Jinhua Zhu, Lijun Wu, Yingce Xia, Shufang Xie, Tao Qin, Wengang Zhou, Houqiang Li, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/46acb63013c8b064e958eae0cc405ba84b5cbdb5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_1FvkSpWosOl",
+      "paper_id": "1FvkSpWosOl",
+      "title": "Is Attention Better Than Matrix Decomposition?",
+      "authors": "Zhengyang Geng, Meng-Hao Guo, Hongxu Chen, Xia Li, Ke Wei, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf/1cb5acc6fe475a215dd1192beec6158b8a4da5dc.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_JFPaD7lpBD",
+      "paper_id": "JFPaD7lpBD",
+      "title": "Jamba: Hybrid Transformer-Mamba Language Models",
+      "authors": "Barak Lenz, Opher Lieber, Alan Arazi, Amir Bergman, Avshalom Manevich, Barak Peleg, Ben Aviram, Chen Almagor, Clara Fridman, Dan Padnos, Daniel Gissin, Daniel Jannai, Dor Muhlgay, Dor Zimberg, Edden M. Gerber, Elad Dolev, Eran Krakovsky, Erez Safahi, Erez Schwartz, Gal Cohen, Gal Shachaf, Haim Rozenblum, Hofit Bata, Ido Blass, Inbal Magar, Itay Dalmedigos, Jhonathan Osin, Julie Fadlon, Maria Rozman, Matan Danos, Michael Gokhman, Mor Zusman, Naama Gidron, Nir Ratner, Noam Gat, Noam Rozen, Oded Fried, Ohad Leshno, Omer Antverg, Omri Abend, Or Dagan, Orit Cohavi, Raz Alon, Ro'i Belson, Roi Cohen, Rom Gilad, Roman Glozman, Shahar Lev, Shai Shalev-Shwartz, Shaked Haim Meirom, Tal Delbari, Tal Ness, Tomer Asida, Tom Ben Gal, Tom Braude, Uriya Pumerantz, Josh Cohen, Yonatan Belinkov, Yuval Globerson, Yuval Peleg Levy, Yoav Shoham",
+      "paper_url": "https://openreview.net/pdf?id=JFPaD7lpBD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LbJqRGNYCf",
+      "paper_id": "LbJqRGNYCf",
+      "title": "JoMA: Demystifying Multilayer Transformers via Joint Dynamics of MLP and Attention",
+      "authors": "Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf?id=LbJqRGNYCf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mtSSFiqW6y",
+      "paper_id": "mtSSFiqW6y",
+      "title": "Judge Decoding: Faster Speculative Sampling Requires Going Beyond Model Alignment",
+      "authors": "Gregor Bachmann, Sotiris Anagnostidis, Albert Pumarola, Markos Georgopoulos, Artsiom Sanakoyeu, Yuming Du, Edgar Schönfeld, Ali Thabet, Jonas K Kohler",
+      "paper_url": "https://openreview.net/pdf?id=mtSSFiqW6y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OQqNieeivq",
+      "paper_id": "OQqNieeivq",
+      "title": "KaSA: Knowledge-Aware Singular-Value Adaptation of Large Language Models",
+      "authors": "Fan Wang, Juyong Jiang, Chansung Park, Sunghun Kim, Jing Tang",
+      "paper_url": "https://openreview.net/pdf?id=OQqNieeivq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_49v8meXjHS",
+      "paper_id": "49v8meXjHS",
+      "title": "kNN Attention Demystified: A Theoretical Exploration for Scalable Transformers",
+      "authors": "Themistoklis Haris",
+      "paper_url": "https://openreview.net/pdf?id=49v8meXjHS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_xTJEN-ggl1b",
+      "paper_id": "xTJEN-ggl1b",
+      "title": "LambdaNetworks: Modeling long-range Interactions without Attention",
+      "authors": "Irwan Bello",
+      "paper_url": "https://openreview.net/pdf/811ba70b99e04f0d84a07c0c93d21c805e4466ff.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_uPv9Y3gmAI5",
+      "paper_id": "uPv9Y3gmAI5",
+      "title": "Language model compression with weighted low-rank factorization",
+      "authors": "Yen-Chang Hsu, Ting Hua, Sungen Chang, Qian Lou, Yilin Shen, Hongxia Jin",
+      "paper_url": "https://openreview.net/pdf/a5edead703a518eda031d7e25734d372b8287883.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_98d7DLMGdt",
+      "paper_id": "98d7DLMGdt",
+      "title": "LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding",
+      "authors": "Doohyuk Jang, Sihwan Park, June Yong Yang, Yeonsung Jung, Jihun Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf?id=98d7DLMGdt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eWNEqdH0vk",
+      "paper_id": "eWNEqdH0vk",
+      "title": "Layerwise Recurrent Router for  Mixture-of-Experts",
+      "authors": "Zihan Qiu, Zeyu Huang, Shuang Cheng, Yizhi Zhou, Zili Wang, Ivan Titov, Jie Fu",
+      "paper_url": "https://openreview.net/pdf?id=eWNEqdH0vk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ISqx8giekS",
+      "paper_id": "ISqx8giekS",
+      "title": "LeanQuant: Accurate and Scalable Large Language Model Quantization with Loss-error-aware Grid",
+      "authors": "Tianyi Zhang, Anshumali Shrivastava",
+      "paper_url": "https://openreview.net/pdf?id=ISqx8giekS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_T9u56s7mbk",
+      "paper_id": "T9u56s7mbk",
+      "title": "Learning Harmonized Representations for Speculative Sampling",
+      "authors": "Lefan Zhang, Xiaodan Wang, Yanhua Huang, Ruiwen Xu",
+      "paper_url": "https://openreview.net/pdf?id=T9u56s7mbk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UV5p3JZMjC",
+      "paper_id": "UV5p3JZMjC",
+      "title": "Learning Randomized Algorithms with Transformers",
+      "authors": "Johannes Von Oswald, Seijin Kobayashi, Yassir Akram, Angelika Steger",
+      "paper_url": "https://openreview.net/pdf?id=UV5p3JZMjC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_cmcD05NPKa",
+      "paper_id": "cmcD05NPKa",
+      "title": "Learning the greatest common divisor: explaining transformer predictions",
+      "authors": "Francois Charton",
+      "paper_url": "https://openreview.net/pdf?id=cmcD05NPKa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_cDYRS5iZ16f",
+      "paper_id": "cDYRS5iZ16f",
+      "title": "Learning to Grow Pretrained Models for Efficient Transformer Training",
+      "authors": "Peihao Wang, Rameswar Panda, Lucas Torroba Hennigen, Philip Greengard, Leonid Karlinsky, Rogerio Feris, David Daniel Cox, Zhangyang Wang, Yoon Kim",
+      "paper_url": "https://openreview.net/pdf/043fba8d0ed8251ba2eb757665721e7fc496d839.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_90DC0IvlSs",
+      "paper_id": "90DC0IvlSs",
+      "title": "LevAttention: Time, Space and Streaming Efficient Algorithm for Heavy Attentions",
+      "authors": "Ravindran Kannan, Chiranjib Bhattacharyya, Praneeth Kacham, David Woodruff",
+      "paper_url": "https://openreview.net/pdf?id=90DC0IvlSs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7nyJBVCTGQ",
+      "paper_id": "7nyJBVCTGQ",
+      "title": "LiFT: Learning to Fine-Tune via Bayesian Parameter Efficient Meta Fine-Tuning",
+      "authors": "Minyoung Kim, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf?id=7nyJBVCTGQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0uI5415ry7",
+      "paper_id": "0uI5415ry7",
+      "title": "Linear attention is (maybe) all you need (to understand Transformer optimization)",
+      "authors": "Kwangjun Ahn, Xiang Cheng, Minhak Song, Chulhee Yun, Ali Jadbabaie, Suvrit Sra",
+      "paper_url": "https://openreview.net/pdf?id=0uI5415ry7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_5nM2AHzqUj",
+      "paper_id": "5nM2AHzqUj",
+      "title": "Linear Log-Normal Attention with Unbiased Concentration",
+      "authors": "Yury Nahshan, Joseph Kampeas, Emir Haleva",
+      "paper_url": "https://openreview.net/pdf?id=5nM2AHzqUj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_w7LU2s14kE",
+      "paper_id": "w7LU2s14kE",
+      "title": "Linearity of Relation Decoding in Transformer Language Models",
+      "authors": "Evan Hernandez, Arnab Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg, Jacob Andreas, Yonatan Belinkov, David Bau",
+      "paper_url": "https://openreview.net/pdf?id=w7LU2s14kE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_J5sUOvlLbQ",
+      "paper_id": "J5sUOvlLbQ",
+      "title": "LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging",
+      "authors": "Ke Wang, Nikolaos Dimitriadis, Alessandro Favero, Guillermo Ortiz-Jimenez, François Fleuret, Pascal Frossard",
+      "paper_url": "https://openreview.net/pdf?id=J5sUOvlLbQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_d4UiXAHN2W",
+      "paper_id": "d4UiXAHN2W",
+      "title": "LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention",
+      "authors": "Renrui Zhang, Jiaming Han, Chris Liu, Aojun Zhou, Pan Lu, Yu Qiao, Hongsheng Li, Peng Gao",
+      "paper_url": "https://openreview.net/pdf?id=d4UiXAHN2W",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_AyC4uxx2HW",
+      "paper_id": "AyC4uxx2HW",
+      "title": "LLaMaFlex: Many-in-one LLMs via Generalized Pruning and Weight Sharing",
+      "authors": "Ruisi Cai, Saurav Muralidharan, Hongxu Yin, Zhangyang Wang, Jan Kautz, Pavlo Molchanov",
+      "paper_url": "https://openreview.net/pdf?id=AyC4uxx2HW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uWtLOy35WD",
+      "paper_id": "uWtLOy35WD",
+      "title": "LLaVA-MoD: Making LLaVA Tiny via MoE-Knowledge Distillation",
+      "authors": "Fangxun Shu, Yue Liao, Lei Zhang, Le Zhuo, Chenning Xu, Guanghao Zhang, Haonan Shi, Long Chan, TaoZhong, Zhelun Yu, Wanggui He, Siming Fu, Haoyuan Li, Si Liu, Hongsheng Li, Hao Jiang",
+      "paper_url": "https://openreview.net/pdf?id=uWtLOy35WD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oEF7qExD9F",
+      "paper_id": "oEF7qExD9F",
+      "title": "LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units",
+      "authors": "Zeyu Liu, Gourav Datta, Anni Li, Peter Anthony Beerel",
+      "paper_url": "https://openreview.net/pdf?id=oEF7qExD9F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4NRjdISWby",
+      "paper_id": "4NRjdISWby",
+      "title": "LoCA: Location-Aware Cosine Adaptation for Parameter-Efficient Fine-Tuning",
+      "authors": "Zhekai Du, Yinjie Min, Jingjing Li, Ke Lu, Changliang Zou, Liuhua Peng, Tingjin Chu, Mingming Gong",
+      "paper_url": "https://openreview.net/pdf?id=4NRjdISWby",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LzPWWPAdY4",
+      "paper_id": "LzPWWPAdY4",
+      "title": "LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models",
+      "authors": "Yixiao Li, Yifan Yu, Chen Liang, Nikos Karampatziakis, Pengcheng He, Weizhu Chen, Tuo Zhao",
+      "paper_url": "https://openreview.net/pdf?id=LzPWWPAdY4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_8VtGeyJyx9",
+      "paper_id": "8VtGeyJyx9",
+      "title": "LoLCATs: On Low-Rank Linearizing of Large Language Models",
+      "authors": "Michael Zhang, Simran Arora, Rahul Chalamala, Benjamin Frederick Spector, Alan Wu, Krithik Ramesh, Aaryan Singhal, Christopher Re",
+      "paper_url": "https://openreview.net/pdf?id=8VtGeyJyx9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_qVyeW-grC2k",
+      "paper_id": "qVyeW-grC2k",
+      "title": "Long Range Arena : A Benchmark for Efficient Transformers",
+      "authors": "Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, Donald Metzler",
+      "paper_url": "https://openreview.net/pdf/c7ddcda9fb422b91032d80ebd1564c35dd6f9fa8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_6PmJoRfdaK",
+      "paper_id": "6PmJoRfdaK",
+      "title": "LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models",
+      "authors": "Yukang Chen, Shengju Qian, Haotian Tang, Xin Lai, Zhijian Liu, Song Han, Jiaya Jia",
+      "paper_url": "https://openreview.net/pdf?id=6PmJoRfdaK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fMbLszVO1H",
+      "paper_id": "fMbLszVO1H",
+      "title": "LongMamba: Enhancing Mamba's Long-Context Capabilities via Training-Free Receptive Field Enlargement",
+      "authors": "Zhifan Ye, Kejing Xia, Yonggan Fu, Xin Dong, Jihoon Hong, Xiangchi Yuan, Shizhe Diao, Jan Kautz, Pavlo Molchanov, Yingyan Celine Lin",
+      "paper_url": "https://openreview.net/pdf?id=fMbLszVO1H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HHbRxoDTxE",
+      "paper_id": "HHbRxoDTxE",
+      "title": "Looped Transformers are Better at Learning Learning Algorithms",
+      "authors": "Liu Yang, Kangwook Lee, Robert D Nowak, Dimitris Papailiopoulos",
+      "paper_url": "https://openreview.net/pdf?id=HHbRxoDTxE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2edigk8yoU",
+      "paper_id": "2edigk8yoU",
+      "title": "Looped Transformers for Length Generalization",
+      "authors": "Ying Fan, Yilun Du, Kannan Ramchandran, Kangwook Lee",
+      "paper_url": "https://openreview.net/pdf?id=2edigk8yoU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VpWki1v2P8",
+      "paper_id": "VpWki1v2P8",
+      "title": "LoRA Done RITE: Robust Invariant Transformation Equilibration for LoRA Optimization",
+      "authors": "Jui-Nan Yen, Si Si, Zhao Meng, Felix Yu, Sai Surya Duvvuri, Inderjit S Dhillon, Cho-Jui Hsieh, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf?id=VpWki1v2P8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gTwRMU3lJ5",
+      "paper_id": "gTwRMU3lJ5",
+      "title": "LoRA-Pro: Are Low-Rank Adapters Properly Optimized?",
+      "authors": "Zhengbo Wang, Jian Liang, Ran He, Zilei Wang, Tieniu Tan",
+      "paper_url": "https://openreview.net/pdf?id=gTwRMU3lJ5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6cQ6cBqzV3",
+      "paper_id": "6cQ6cBqzV3",
+      "title": "LoRA-X: Bridging Foundation Models with Training-Free Cross-Model Adaptation",
+      "authors": "Farzad Farhadzadeh, Debasmit Das, Shubhankar Borse, Fatih Porikli",
+      "paper_url": "https://openreview.net/pdf?id=6cQ6cBqzV3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_nZeVKeeFYf9",
+      "paper_id": "nZeVKeeFYf9",
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "authors": "Edward J Hu, yelong shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen",
+      "paper_url": "https://openreview.net/pdf/5a54aed5265cb0399c62848f44e84c4a617a354b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_xw29VvOMmU",
+      "paper_id": "xw29VvOMmU",
+      "title": "LQ-LoRA: Low-rank plus Quantized Matrix Decomposition for Efficient Language Model Finetuning",
+      "authors": "Han Guo, Philip Greengard, Eric Xing, Yoon Kim",
+      "paper_url": "https://openreview.net/pdf?id=xw29VvOMmU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gLARhFLE0F",
+      "paper_id": "gLARhFLE0F",
+      "title": "LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models",
+      "authors": "Gunho Park, Baeseong park, Minsub Kim, Sungjae Lee, Jeonghoon Kim, Beomseok Kwon, Se Jung Kwon, Byeongwook Kim, Youngjoo Lee, Dongsoo Lee",
+      "paper_url": "https://openreview.net/pdf?id=gLARhFLE0F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_HtAfbHa7LAL",
+      "paper_id": "HtAfbHa7LAL",
+      "title": "MA-BERT: Towards Matrix Arithmetic-only BERT Inference by Eliminating Complex Non-Linear Functions",
+      "authors": "Neo Wei Ming, Zhehui Wang, Cheng Liu, Rick Siow Mong Goh, Tao Luo",
+      "paper_url": "https://openreview.net/pdf/f33a68790cb4eec0f661b655af2303d9e9058d26.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FEZOLWexPb",
+      "paper_id": "FEZOLWexPb",
+      "title": "MAESTRO: Masked Encoding Set Transformer with Self-Distillation",
+      "authors": "Matthew Eric Lee, Jaesik Kim, Matei Ionita, Jonghyun Lee, Michelle L. McKeague, YONGHYUN NAM, Irene Khavin, Yidi Huang, Victoria Fang, Sokratis Apostolidis, Divij Mathew, Shwetank, Ajinkya Pattekar, Zahabia Rangwala, Amit Bar-Or, Benjamin A Fensterheim, Benjamin A. Abramoff, Rennie L. Rhee, Damian Maseda, Allison R Greenplate, John Wherry, Dokyoon Kim",
+      "paper_url": "https://openreview.net/pdf?id=FEZOLWexPb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CS2JWaziYr",
+      "paper_id": "CS2JWaziYr",
+      "title": "MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding",
+      "authors": "Ranajoy Sadhukhan, Jian Chen, Zhuoming Chen, Vashisth Tiwari, Ruihang Lai, Jinyuan Shi, Ian En-Hsu Yen, Avner May, Tianqi Chen, Beidi Chen",
+      "paper_url": "https://openreview.net/pdf?id=CS2JWaziYr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ALzTQUgW8a",
+      "paper_id": "ALzTQUgW8a",
+      "title": "MagicPIG: LSH Sampling for Efficient LLM Generation",
+      "authors": "Zhuoming Chen, Ranajoy Sadhukhan, Zihao Ye, Yang Zhou, Jianyu Zhang, Niklas Nolte, Yuandong Tian, Matthijs Douze, Leon Bottou, Zhihao Jia, Beidi Chen",
+      "paper_url": "https://openreview.net/pdf?id=ALzTQUgW8a",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OALIb8oNfl",
+      "paper_id": "OALIb8oNfl",
+      "title": "Maintaining Structural Integrity in Parameter Spaces for Parameter Efficient Fine-tuning",
+      "authors": "Chongjie Si, Xuehui Wang, Xue Yang, Zhengqin Xu, Qingyun Li, Jifeng Dai, Yu Qiao, Xiaokang Yang, Wei Shen",
+      "paper_url": "https://openreview.net/pdf?id=OALIb8oNfl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bePaRx0otZ",
+      "paper_id": "bePaRx0otZ",
+      "title": "Making Transformer Decoders Better Differentiable Indexers",
+      "authors": "Wuchao Li, Kai Zheng, Defu Lian, Qi Liu, Wentian Bao, Yun En Yu, Yang Song, Han Li, Kun Gai",
+      "paper_url": "https://openreview.net/pdf?id=bePaRx0otZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LgzRo1RpLS",
+      "paper_id": "LgzRo1RpLS",
+      "title": "MambaExtend: A Training-Free Approach to Improve Long Context Extension of Mamba",
+      "authors": "Seyedarmin Azizi, Souvik Kundu, Mohammad Erfan Sadeghi, Massoud Pedram",
+      "paper_url": "https://openreview.net/pdf?id=LgzRo1RpLS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UAKnJMIBwf",
+      "paper_id": "UAKnJMIBwf",
+      "title": "MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba",
+      "authors": "Masakazu Yoshimura, Teruaki Hayashi, Yota Maeda",
+      "paper_url": "https://openreview.net/pdf?id=UAKnJMIBwf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LUpC8KTvdV",
+      "paper_id": "LUpC8KTvdV",
+      "title": "Masked Distillation Advances Self-Supervised Transformer Architecture Search",
+      "authors": "Caixia Yan, Xiaojun Chang, Zhihui Li, Lina Yao, Minnan Luo, Qinghua Zheng",
+      "paper_url": "https://openreview.net/pdf?id=LUpC8KTvdV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_mWRngkvIki3",
+      "paper_id": "mWRngkvIki3",
+      "title": "Masked Distillation with Receptive Tokens",
+      "authors": "Tao Huang, Yuan Zhang, Shan You, Fei Wang, Chen Qian, Jian Cao, Chang Xu",
+      "paper_url": "https://openreview.net/pdf/d920dd32aa477f7dff9d60f655f87639d56705b5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rL7xsg1aRn",
+      "paper_id": "rL7xsg1aRn",
+      "title": "Masked Structural Growth for 2x Faster Language Model Pre-training",
+      "authors": "Yiqun Yao, Zheng Zhang, Jing Li, Yequan Wang",
+      "paper_url": "https://openreview.net/pdf?id=rL7xsg1aRn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_MkbcAHIYgyS",
+      "paper_id": "MkbcAHIYgyS",
+      "title": "Mass-Editing Memory in a Transformer",
+      "authors": "Kevin Meng, Arnab Sen Sharma, Alex J Andonian, Yonatan Belinkov, David Bau",
+      "paper_url": "https://openreview.net/pdf/5d2ff18d2f074c0f0b7bda40d118bb08e13bcd43.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_BQwsRy1h3U",
+      "paper_id": "BQwsRy1h3U",
+      "title": "MatryoshkaKV: Adaptive KV Compression via Trainable Orthogonal Projection",
+      "authors": "Bokai Lin, Zihao Zeng, Zipeng Xiao, Siqi Kou, TianQi Hou, Xiaofeng Gao, Hao Zhang, Zhijie Deng",
+      "paper_url": "https://openreview.net/pdf?id=BQwsRy1h3U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_bkNx3O0sND",
+      "paper_id": "bkNx3O0sND",
+      "title": "MBR and QE Finetuning: Training-time Distillation of the Best and Most Expensive Decoding Methods",
+      "authors": "Mara Finkelstein, Markus Freitag",
+      "paper_url": "https://openreview.net/pdf?id=bkNx3O0sND",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rUC7tHecSQ",
+      "paper_id": "rUC7tHecSQ",
+      "title": "Mechanism and Emergence of Stacked Attention Heads in Multi-Layer Transformers",
+      "authors": "Tiberiu Mușat",
+      "paper_url": "https://openreview.net/pdf?id=rUC7tHecSQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_qNLe3iq2El",
+      "paper_id": "qNLe3iq2El",
+      "title": "Mega: Moving Average Equipped Gated Attention",
+      "authors": "Xuezhe Ma, Chunting Zhou, Xiang Kong, Junxian He, Liangke Gui, Graham Neubig, Jonathan May, Luke Zettlemoyer",
+      "paper_url": "https://openreview.net/pdf/5bb259d4fc89a118041f31e8405c7ab23df0b4a7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MrR3rMxqqv",
+      "paper_id": "MrR3rMxqqv",
+      "title": "Memorization Capacity of Multi-Head Attention in Transformers",
+      "authors": "Sadegh Mahdavi, Renjie Liao, Christos Thrampoulidis",
+      "paper_url": "https://openreview.net/pdf?id=MrR3rMxqqv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_TrjbxzRcnf-",
+      "paper_id": "TrjbxzRcnf-",
+      "title": "Memorizing Transformers",
+      "authors": "Yuhuai Wu, Markus Norman Rabe, DeLesley Hutchins, Christian Szegedy",
+      "paper_url": "https://openreview.net/pdf/33d84d1024126d6a7d4098f2f3beffdbe7057caa.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_vJkktqyU8B",
+      "paper_id": "vJkktqyU8B",
+      "title": "Memory Efficient Transformer Adapter for Dense Predictions",
+      "authors": "Dong Zhang, Rui Yan, Pingcheng Dong, Kwang-Ting Cheng",
+      "paper_url": "https://openreview.net/pdf?id=vJkktqyU8B",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_OY1A8ejQgEX",
+      "paper_id": "OY1A8ejQgEX",
+      "title": "Mention Memory: incorporating textual knowledge into Transformers through entity mention attention",
+      "authors": "Michiel de Jong, Yury Zemlyanskiy, Nicholas FitzGerald, Fei Sha, William W. Cohen",
+      "paper_url": "https://openreview.net/pdf/e112757f72e357db126aa955b1195bd923e59f19.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_eFWG9Cy3WK",
+      "paper_id": "eFWG9Cy3WK",
+      "title": "Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy",
+      "authors": "Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, Yu Cheng, Mohit Bansal, Tianlong Chen",
+      "paper_url": "https://openreview.net/pdf?id=eFWG9Cy3WK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_j6fsbpAllN",
+      "paper_id": "j6fsbpAllN",
+      "title": "Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering",
+      "authors": "Ziyu Zhao, Tao Shen, Didi Zhu, Zexi Li, Jing Su, Xuwu Wang, Fei Wu",
+      "paper_url": "https://openreview.net/pdf?id=j6fsbpAllN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_3jjmdp7Hha",
+      "paper_id": "3jjmdp7Hha",
+      "title": "Meta Back-Translation",
+      "authors": "Hieu Pham, Xinyi Wang, Yiming Yang, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/30daa849a22aebea5ef566f6b6a0f9cf99027a34.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_yOOJwR15xg",
+      "paper_id": "yOOJwR15xg",
+      "title": "MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models",
+      "authors": "Jingwei Xu, Junyu Lai, Yunpeng Huang",
+      "paper_url": "https://openreview.net/pdf?id=yOOJwR15xg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_5h0qf7IBZZ",
+      "paper_id": "5h0qf7IBZZ",
+      "title": "MiniLLM: Knowledge Distillation of Large Language Models",
+      "authors": "Yuxian Gu, Li Dong, Furu Wei, Minlie Huang",
+      "paper_url": "https://openreview.net/pdf?id=5h0qf7IBZZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tJHDw8XfeC",
+      "paper_id": "tJHDw8XfeC",
+      "title": "MiniPLM: Knowledge Distillation for Pre-training Language Models",
+      "authors": "Yuxian Gu, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang",
+      "paper_url": "https://openreview.net/pdf?id=tJHDw8XfeC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eaTqsptDPL",
+      "paper_id": "eaTqsptDPL",
+      "title": "Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning",
+      "authors": "Yeoreum Lee, Jinwook Jung, Sungyong Baik",
+      "paper_url": "https://openreview.net/pdf?id=eaTqsptDPL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BChpQU64RG",
+      "paper_id": "BChpQU64RG",
+      "title": "Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN",
+      "authors": "Pengxiang Li, Lu Yin, Shiwei Liu",
+      "paper_url": "https://openreview.net/pdf?id=BChpQU64RG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Rz0kozh3LE",
+      "paper_id": "Rz0kozh3LE",
+      "title": "Mixture of Attentions For Speculative Decoding",
+      "authors": "Matthieu Zimmer, Milan Gritta, Gerasimos Lampouras, Haitham Bou Ammar, Jun Wang",
+      "paper_url": "https://openreview.net/pdf?id=Rz0kozh3LE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uWvKBCYh4S",
+      "paper_id": "uWvKBCYh4S",
+      "title": "Mixture of LoRA Experts",
+      "authors": "Xun Wu, Shaohan Huang, Furu Wei",
+      "paper_url": "https://openreview.net/pdf?id=uWvKBCYh4S",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_8EfxjTCg2k",
+      "paper_id": "8EfxjTCg2k",
+      "title": "MoDeGPT: Modular Decomposition for Large Language Model Compression",
+      "authors": "Chi-Heng Lin, Shangqian Gao, James Seale Smith, Abhishek Patel, Shikhar Tuli, Yilin Shen, Hongxia Jin, Yen-Chang Hsu",
+      "paper_url": "https://openreview.net/pdf?id=8EfxjTCg2k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_D7KJmfEDQP",
+      "paper_id": "D7KJmfEDQP",
+      "title": "Model Merging by Uncertainty-Based Gradient Matching",
+      "authors": "Nico Daheim, Thomas Möllenhoff, Edoardo Ponti, Iryna Gurevych, Mohammad Emtiyaz Khan",
+      "paper_url": "https://openreview.net/pdf?id=D7KJmfEDQP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_67X93aZHII",
+      "paper_id": "67X93aZHII",
+      "title": "Model merging with SVD to tie the Knots",
+      "authors": "George Stoica, Pratik Ramesh, Boglarka Ecsedi, Leshem Choshen, Judy Hoffman",
+      "paper_url": "https://openreview.net/pdf?id=67X93aZHII",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uNrFpDPMyo",
+      "paper_id": "uNrFpDPMyo",
+      "title": "Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs",
+      "authors": "Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao",
+      "paper_url": "https://openreview.net/pdf?id=uNrFpDPMyo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_-bVsNeR56KS",
+      "paper_id": "-bVsNeR56KS",
+      "title": "Modeling Sequential Sentence Relation to Improve Cross-lingual Dense Retrieval",
+      "authors": "Shunyu Zhang, Yaobo Liang, MING GONG, Daxin Jiang, Nan Duan",
+      "paper_url": "https://openreview.net/pdf/8649b63e1d2dd8ed68f852a7da6ab541293d32a9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_t7P5BUKcYv",
+      "paper_id": "t7P5BUKcYv",
+      "title": "MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts",
+      "authors": "Peng Jin, Bo Zhu, Li Yuan, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=t7P5BUKcYv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rWui9vLhOc",
+      "paper_id": "rWui9vLhOc",
+      "title": "MoLEx: Mixture of Layer Experts for Fine-tuning with Sparse Upcycling",
+      "authors": "Rachel Teo, Tan Minh Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=rWui9vLhOc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1Ogw1SHY3p",
+      "paper_id": "1Ogw1SHY3p",
+      "title": "Monet: Mixture of Monosemantic Experts for Transformers",
+      "authors": "Jungwoo Park, Ahn Young Jin, Kee-Eung Kim, Jaewoo Kang",
+      "paper_url": "https://openreview.net/pdf?id=1Ogw1SHY3p",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1qq1QJKM5q",
+      "paper_id": "1qq1QJKM5q",
+      "title": "More Experts Than Galaxies: Conditionally-Overlapping Experts with Biologically-Inspired Fixed Routing",
+      "authors": "Sagi Shaier, Francisco Pereira, Katharina von der Wense, Lawrence Hunter, Matt Jones",
+      "paper_url": "https://openreview.net/pdf?id=1qq1QJKM5q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1uLW9eYNJB",
+      "paper_id": "1uLW9eYNJB",
+      "title": "MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards",
+      "authors": "Sheng Wang, Liheng Chen, Pengan CHEN, Jingwei Dong, Boyang XUE, Jiyue Jiang, Lingpeng Kong, Chuan Wu",
+      "paper_url": "https://openreview.net/pdf?id=1uLW9eYNJB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6H4jRWKFc3",
+      "paper_id": "6H4jRWKFc3",
+      "title": "MotherNet: Fast Training and Inference via Hyper-Network Transformers",
+      "authors": "Andreas C Mueller, Carlo A Curino, Raghu Ramakrishnan",
+      "paper_url": "https://openreview.net/pdf?id=6H4jRWKFc3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VYWBMq1L7H",
+      "paper_id": "VYWBMq1L7H",
+      "title": "MrT5: Dynamic Token Merging for Efficient Byte-level Language Models",
+      "authors": "Julie Kallini, Shikhar Murty, Christopher D Manning, Christopher Potts, Róbert Csordás",
+      "paper_url": "https://openreview.net/pdf?id=VYWBMq1L7H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_N1L5TgtkAw",
+      "paper_id": "N1L5TgtkAw",
+      "title": "Multi-Draft Speculative Sampling: Canonical Decomposition and Theoretical Limits",
+      "authors": "Ashish J Khisti, MohammadReza Ebrahimi, Hassan Dbouk, Arash Behboodi, Roland Memisevic, Christos Louizos",
+      "paper_url": "https://openreview.net/pdf?id=N1L5TgtkAw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Nk2pDtuhTq",
+      "paper_id": "Nk2pDtuhTq",
+      "title": "Multitask Prompt Tuning Enables Parameter-Efficient Transfer Learning",
+      "authors": "Zhen Wang, Rameswar Panda, Leonid Karlinsky, Rogerio Feris, Huan Sun, Yoon Kim",
+      "paper_url": "https://openreview.net/pdf/7506d3076a848ae366fb1e6d0213bf0328ddd8aa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_7wCBOfJ8hJM",
+      "paper_id": "7wCBOfJ8hJM",
+      "title": "Nearest Neighbor Machine Translation",
+      "authors": "Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis",
+      "paper_url": "https://openreview.net/pdf/8c353a40fa6aa514c510ad3cc89f331af070681b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_1qP3lsatCR",
+      "paper_id": "1qP3lsatCR",
+      "title": "NetMoE: Accelerating MoE Training through Dynamic Sample Placement",
+      "authors": "Xinyi Liu, Yujie Wang, Fangcheng Fu, Xupeng Miao, Shenhan Zhu, Xiaonan Nie, Bin CUI",
+      "paper_url": "https://openreview.net/pdf?id=1qP3lsatCR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XnDyddPcBT",
+      "paper_id": "XnDyddPcBT",
+      "title": "Neural ODE Transformers: Analyzing Internal Dynamics and Adaptive Fine-tuning",
+      "authors": "Anh Tong, Thanh Nguyen-Tang, Dongeun Lee, Duc Nguyen, Toan Tran, David Leo Wright Hall, Cheongwoong Kang, Jaesik Choi",
+      "paper_url": "https://openreview.net/pdf?id=XnDyddPcBT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PdaPky8MUn",
+      "paper_id": "PdaPky8MUn",
+      "title": "Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors",
+      "authors": "Ido Amos, Jonathan Berant, Ankit Gupta",
+      "paper_url": "https://openreview.net/pdf?id=PdaPky8MUn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_se4vjm7h4E",
+      "paper_id": "se4vjm7h4E",
+      "title": "nGPT: Normalized Transformer with Representation Learning on the Hypersphere",
+      "authors": "Ilya Loshchilov, Cheng-Ping Hsieh, Simeng Sun, Boris Ginsburg",
+      "paper_url": "https://openreview.net/pdf?id=se4vjm7h4E",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_cuvga_CiVND",
+      "paper_id": "cuvga_CiVND",
+      "title": "No Parameters Left Behind: Sensitivity Guided Adaptive Learning Rate for Training Large Transformer Models",
+      "authors": "Chen Liang, Haoming Jiang, Simiao Zuo, Pengcheng He, Xiaodong Liu, Jianfeng Gao, Weizhu Chen, Tuo Zhao",
+      "paper_url": "https://openreview.net/pdf/f29d145db699800c70bb362bb205f16575e30db7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_a65YK0cqH8g",
+      "paper_id": "a65YK0cqH8g",
+      "title": "Noise Is Not the Main Factor Behind the Gap Between Sgd and Adam on Transformers, But Sign Descent Might Be",
+      "authors": "Frederik Kunstner, Jacques Chen, Jonathan Wilder Lavington, Mark Schmidt",
+      "paper_url": "https://openreview.net/pdf/a297584062046048f65e016f4627d021b50ef011.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_TjfXcDgvzk",
+      "paper_id": "TjfXcDgvzk",
+      "title": "NOLA: Compressing LoRA using Linear Combination of Random Basis",
+      "authors": "Soroush Abbasi Koohpayegani, Navaneet K L, Parsa Nooralinejad, Soheil Kolouri, Hamed Pirsiavash",
+      "paper_url": "https://openreview.net/pdf?id=TjfXcDgvzk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_FJFVmeXusW",
+      "paper_id": "FJFVmeXusW",
+      "title": "Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning",
+      "authors": "Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao",
+      "paper_url": "https://openreview.net/pdf?id=FJFVmeXusW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lgsyLSsDRe",
+      "paper_id": "lgsyLSsDRe",
+      "title": "NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models",
+      "authors": "Chankyu Lee, Rajarshi Roy, Mengyao Xu, Jonathan Raiman, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping",
+      "paper_url": "https://openreview.net/pdf?id=lgsyLSsDRe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rTDyN8yajn",
+      "paper_id": "rTDyN8yajn",
+      "title": "Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE",
+      "authors": "Zeren Chen, Ziqin Wang, Zhen Wang, Huayang Liu, Zhenfei Yin, Si Liu, Lu Sheng, Wanli Ouyang, Jing Shao",
+      "paper_url": "https://openreview.net/pdf?id=rTDyN8yajn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xXTkbTBmqq",
+      "paper_id": "xXTkbTBmqq",
+      "title": "OLMoE: Open Mixture-of-Experts Language Models",
+      "authors": "Niklas Muennighoff, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Jacob Morrison, Sewon Min, Weijia Shi, Evan Pete Walsh, Oyvind Tafjord, Nathan Lambert, Yuling Gu, Shane Arora, Akshita Bhagia, Dustin Schwenk, David Wadden, Alexander Wettig, Binyuan Hui, Tim Dettmers, Douwe Kiela, Ali Farhadi, Noah A. Smith, Pang Wei Koh, Amanpreet Singh, Hannaneh Hajishirzi",
+      "paper_url": "https://openreview.net/pdf?id=xXTkbTBmqq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ulCAPXYXfa",
+      "paper_id": "ulCAPXYXfa",
+      "title": "OmniKV: Dynamic Context Selection for Efficient Long-Context LLMs",
+      "authors": "Jitai Hao, Yuke Zhu, Tian Wang, Jun Yu, Xin Xin, Bo Zheng, Zhaochun Ren, Sheng Guo",
+      "paper_url": "https://openreview.net/pdf?id=ulCAPXYXfa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8Wuvhh0LYW",
+      "paper_id": "8Wuvhh0LYW",
+      "title": "OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models",
+      "authors": "Wenqi Shao, Mengzhao Chen, Zhaoyang Zhang, Peng Xu, Lirui Zhao, Zhiqian Li, Kaipeng Zhang, Peng Gao, Yu Qiao, Ping Luo",
+      "paper_url": "https://openreview.net/pdf?id=8Wuvhh0LYW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Uu1Nw-eeTxJ",
+      "paper_id": "Uu1Nw-eeTxJ",
+      "title": "On Learning Universal Representations Across Languages",
+      "authors": "Xiangpeng Wei, Rongxiang Weng, Yue Hu, Luxi Xing, Heng Yu, Weihua Luo",
+      "paper_url": "https://openreview.net/pdf/24e87f8b61ab2261652760587470c14f2fef8366.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_onxoVA9FxMw",
+      "paper_id": "onxoVA9FxMw",
+      "title": "On Position Embeddings in BERT",
+      "authors": "Benyou Wang, Lifeng Shang, Christina Lioma, Xin Jiang, Hao Yang, Qun Liu, Jakob Grue Simonsen",
+      "paper_url": "https://openreview.net/pdf/be0283e323f1b118c975dbc46f7f75c59b467fe0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_L3_SsSNMmy",
+      "paper_id": "L3_SsSNMmy",
+      "title": "On the Connection between Local Attention and Dynamic Depth-wise Convolution",
+      "authors": "Qi Han, Zejia Fan, Qi Dai, Lei Sun, Ming-Ming Cheng, Jiaying Liu, Jingdong Wang",
+      "paper_url": "https://openreview.net/pdf/b5b230d05deb5ca8dcfd87f952bca5621cf5cced.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_1OCTOShAmqB",
+      "paper_id": "1OCTOShAmqB",
+      "title": "On the Dynamics of Training Attention Models",
+      "authors": "Haoye Lu, Yongyi Mao, Amiya Nayak",
+      "paper_url": "https://openreview.net/pdf/9c905fe55b11d0ae8d1aa79de080696fb34d1e13.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_UGVYezlLcZ",
+      "paper_id": "UGVYezlLcZ",
+      "title": "On the Optimal Memorization Capacity of Transformers",
+      "authors": "Tokio Kajitsuka, Issei Sato",
+      "paper_url": "https://openreview.net/pdf?id=UGVYezlLcZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_97rOQDPmk2",
+      "paper_id": "97rOQDPmk2",
+      "title": "On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent",
+      "authors": "Bingrui Li, Wei Huang, Andi Han, Zhanpeng Zhou, Taiji Suzuki, Jun Zhu, Jianfei Chen",
+      "paper_url": "https://openreview.net/pdf?id=97rOQDPmk2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pxclAomHat",
+      "paper_id": "pxclAomHat",
+      "title": "On the Optimization Landscape of Low Rank Adaptation Methods for Large Language Models",
+      "authors": "Xu-Hui Liu, Yali Du, Jun Wang, Yang Yu",
+      "paper_url": "https://openreview.net/pdf?id=pxclAomHat",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_nzpLWnVAyah",
+      "paper_id": "nzpLWnVAyah",
+      "title": "On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines",
+      "authors": "Marius Mosbach, Maksym Andriushchenko, Dietrich Klakow",
+      "paper_url": "https://openreview.net/pdf/ecb1af8e8fc55b9e071db6ef6b56163a21f00a44.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3zKtaqxLhW",
+      "paper_id": "3zKtaqxLhW",
+      "title": "On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes",
+      "authors": "Rishabh Agarwal, Nino Vieillard, Yongchao Zhou, Piotr Stanczyk, Sabela Ramos Garea, Matthieu Geist, Olivier Bachem",
+      "paper_url": "https://openreview.net/pdf?id=3zKtaqxLhW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_8p3fu56lKc",
+      "paper_id": "8p3fu56lKc",
+      "title": "One Step of Gradient Descent is Provably the Optimal In-Context Learner with One Layer of Linear Self-Attention",
+      "authors": "Arvind V. Mahankali, Tatsunori Hashimoto, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf?id=8p3fu56lKc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZHhBawo3k5",
+      "paper_id": "ZHhBawo3k5",
+      "title": "Optimized Multi-Token Joint Decoding With Auxiliary Model for LLM Inference",
+      "authors": "Zongyue Qin, Ziniu Hu, Zifan He, Neha Prakriya, Jason Cong, Yizhou Sun",
+      "paper_url": "https://openreview.net/pdf?id=ZHhBawo3k5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QDkPAV9Fa5",
+      "paper_id": "QDkPAV9Fa5",
+      "title": "Optimizing Knowledge Distillation in Transformers: Enabling Power of Multi-Head Attention without Alignment Barriers",
+      "authors": "Zhaodong Bing, Linze Li, Jiajun Liang",
+      "paper_url": "https://openreview.net/pdf?id=QDkPAV9Fa5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_tcbBPnfwxS",
+      "paper_id": "tcbBPnfwxS",
+      "title": "OPTQ: Accurate Quantization for Generative Pre-trained Transformers",
+      "authors": "Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh",
+      "paper_url": "https://openreview.net/pdf/f99f2d5ea7fda817912034e810f9e385d2add0e1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_rAcgDBdKnP",
+      "paper_id": "rAcgDBdKnP",
+      "title": "OSTQuant: Refining Large Language Model Quantization with Orthogonal and Scaling Transformations for Better Distribution Fitting",
+      "authors": "Xing Hu, Yuan Cheng, Dawei Yang, Zhixuan Chen, Zukang Xu, JiangyongYu, XUCHEN, Zhihang Yuan, Zhe jiang, Sifan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=rAcgDBdKnP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iYkhxre0In",
+      "paper_id": "iYkhxre0In",
+      "title": "PaCA: Partial Connection Adaptation for Efficient Fine-Tuning",
+      "authors": "Sunghyeon Woo, Sol Namkung, Sunwoo Lee, Inho Jeong, Beomseok Kim, Dongsuk Jeon",
+      "paper_url": "https://openreview.net/pdf?id=iYkhxre0In",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xzSUdw6s76",
+      "paper_id": "xzSUdw6s76",
+      "title": "PALMBENCH: A COMPREHENSIVE BENCHMARK OF COMPRESSED LARGE LANGUAGE MODELS ON MOBILE PLATFORMS",
+      "authors": "Yilong Li, Jingyu Liu, Hao Zhang, M Badri Narayanan, Utkarsh Sharma, Shuai Zhang, Yijing Zeng, Jayaram Raghuram, Suman Banerjee",
+      "paper_url": "https://openreview.net/pdf?id=xzSUdw6s76",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LWMS4pk2vK",
+      "paper_id": "LWMS4pk2vK",
+      "title": "Palu: KV-Cache Compression with Low-Rank Projection",
+      "authors": "Chi-Chih Chang, Wei-Cheng Lin, Chien-Yu Lin, Chong-Yan Chen, Yu-Fang Hu, Pei-Shuo Wang, Ning-Chi Huang, Luis Ceze, Mohamed S. Abdelfattah, Kai-Chiang Wu",
+      "paper_url": "https://openreview.net/pdf?id=LWMS4pk2vK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vqbd2OQnGp",
+      "paper_id": "vqbd2OQnGp",
+      "title": "Param$\\Delta$ for Direct Mixing: Post-Train Large Language Model At Zero Cost",
+      "authors": "Sheng Cao, Mingrui Wu, Karthik Prasad, Yuandong Tian, Zechun Liu",
+      "paper_url": "https://openreview.net/pdf?id=vqbd2OQnGp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_i0zzO7Hslk",
+      "paper_id": "i0zzO7Hslk",
+      "title": "Parameter and Memory Efficient Pretraining via Low-rank Riemannian Optimization",
+      "authors": "Zhanfeng Mo, Long-Kai Huang, Sinno Jialin Pan",
+      "paper_url": "https://openreview.net/pdf?id=i0zzO7Hslk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XSRSWxyJIC",
+      "paper_id": "XSRSWxyJIC",
+      "title": "Parameter-Efficient Fine-Tuning Design Spaces",
+      "authors": "Jiaao Chen, Aston Zhang, Xingjian Shi, Mu Li, Alex Smola, Diyi Yang",
+      "paper_url": "https://openreview.net/pdf/4c4f8f1aff3fb1f79e893b2ca5430c1207b90de4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_iynRvVVAmH",
+      "paper_id": "iynRvVVAmH",
+      "title": "Parameter-Efficient Multi-Task Model Fusion with Partial Linearization",
+      "authors": "Anke Tang, Li Shen, Yong Luo, Yibing Zhan, Han Hu, Bo Du, Yixin Chen, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=iynRvVVAmH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_7NzgkEdGyr",
+      "paper_id": "7NzgkEdGyr",
+      "title": "Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization",
+      "authors": "Weiyang Liu, Zeju Qiu, Yao Feng, Yuliang Xiu, Yuxuan Xue, Longhui Yu, Haiwen Feng, Zhen Liu, Juyeon Heo, Songyou Peng, Yandong Wen, Michael J. Black, Adrian Weller, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=7NzgkEdGyr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_icDoYdUhRa",
+      "paper_id": "icDoYdUhRa",
+      "title": "Pareto Low-Rank Adapters: Efficient Multi-Task Learning with Preferences",
+      "authors": "Nikolaos Dimitriadis, Pascal Frossard, François Fleuret",
+      "paper_url": "https://openreview.net/pdf?id=icDoYdUhRa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BifeBRhikU",
+      "paper_id": "BifeBRhikU",
+      "title": "PB-LLM: Partially Binarized Large Language Models",
+      "authors": "Zhihang Yuan, Yuzhang Shang, Zhen Dong",
+      "paper_url": "https://openreview.net/pdf?id=BifeBRhikU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QOXrVMiHGK",
+      "paper_id": "QOXrVMiHGK",
+      "title": "PEARL: Parallel Speculative Decoding with Adaptive Draft Length",
+      "authors": "Tianyu Liu, Yun Li, Qitan Lv, Kai Liu, Jianchen Zhu, Winston Hu, Xiao Sun",
+      "paper_url": "https://openreview.net/pdf?id=QOXrVMiHGK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Tr0lPx9woF",
+      "paper_id": "Tr0lPx9woF",
+      "title": "Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models",
+      "authors": "Yingtao Zhang, Haoli Bai, Haokun Lin, Jialin Zhao, Lu Hou, Carlo Vittorio Cannistraci",
+      "paper_url": "https://openreview.net/pdf?id=Tr0lPx9woF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_3Aoft6NWFej",
+      "paper_id": "3Aoft6NWFej",
+      "title": "PMI-Masking: Principled masking of correlated spans",
+      "authors": "Yoav Levine, Barak Lenz, Opher Lieber, Omri Abend, Kevin Leyton-Brown, Moshe Tennenholtz, Yoav Shoham",
+      "paper_url": "https://openreview.net/pdf/0ea2c13c0234ad53369c2787936620d2f84ce64d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_9jInD9JjicF",
+      "paper_id": "9jInD9JjicF",
+      "title": "PoNet: Pooling Network for Efficient Token Mixing in Long Sequences",
+      "authors": "Chao-Hong Tan, Qian Chen, Wen Wang, Qinglin Zhang, Siqi Zheng, Zhen-Hua Ling",
+      "paper_url": "https://openreview.net/pdf/9907180d33781573fba9842560bb54e6b685e1e8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_gyHoR6uFhU",
+      "paper_id": "gyHoR6uFhU",
+      "title": "PortLLM: Personalizing Evolving Large Language Models with Training-Free and Portable Model Patches",
+      "authors": "Rana Shahroz, Pingzhi Li, Sukwon Yun, Zhenyu Wang, Shahriar Nirjon, Chau-Wai Wong, Tianlong Chen",
+      "paper_url": "https://openreview.net/pdf?id=gyHoR6uFhU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_3k20LAiHYL2",
+      "paper_id": "3k20LAiHYL2",
+      "title": "Pre-training Text-to-Text Transformers for Concept-centric Common Sense",
+      "authors": "Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee, Xiang Ren",
+      "paper_url": "https://openreview.net/pdf/30f24a224a3d4133f7da640c76644f91a3d41f0a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_mNtmhaDkAr",
+      "paper_id": "mNtmhaDkAr",
+      "title": "Predicting Inductive Biases of Pre-Trained Models",
+      "authors": "Charles Lovering, Rohan Jha, Tal Linzen, Ellie Pavlick",
+      "paper_url": "https://openreview.net/pdf/5f8e7508b216ea50a36e7f4584e4e6d8953917be.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_WOt1owGfuN",
+      "paper_id": "WOt1owGfuN",
+      "title": "Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing",
+      "authors": "Qi Le, Enmao Diao, Ziyan Wang, Xinran Wang, Jie Ding, Li Yang, Ali Anwar",
+      "paper_url": "https://openreview.net/pdf?id=WOt1owGfuN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OVxmpus9NA",
+      "paper_id": "OVxmpus9NA",
+      "title": "Progressive Mixed-Precision Decoding for Efficient LLM Inference",
+      "authors": "Hao Mark Chen, Fuwen Tan, Alexandros Kouris, Royson Lee, Hongxiang Fan, Stylianos Venieris",
+      "paper_url": "https://openreview.net/pdf?id=OVxmpus9NA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dmzM5UdAq6",
+      "paper_id": "dmzM5UdAq6",
+      "title": "Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation",
+      "authors": "Abhishek Aich, Yumin Suh, Samuel Schulter, Manmohan Chandraker",
+      "paper_url": "https://openreview.net/pdf?id=dmzM5UdAq6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8JCg5xJCTPR",
+      "paper_id": "8JCg5xJCTPR",
+      "title": "Provable Memorization Capacity of Transformers",
+      "authors": "Junghwan Kim, Michelle Kim, Barzan Mozafari",
+      "paper_url": "https://openreview.net/pdf/210c7ca55ed5081f2330f1d2a10bfa5fef9ed9a5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_eXkhH12DTD9",
+      "paper_id": "eXkhH12DTD9",
+      "title": "Pseudo-label Training and Model Inertia in Neural Machine Translation",
+      "authors": "Benjamin Hsu, Anna Currey, Xing Niu, Maria Nadejde, Georgiana Dinu",
+      "paper_url": "https://openreview.net/pdf/8bc5b08facc9645742f1af7a4746ea122a9645a2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EvDeiLv7qc",
+      "paper_id": "EvDeiLv7qc",
+      "title": "Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning",
+      "authors": "Ted Zadouri, Ahmet Üstün, Arash Ahmadian, Beyza Ermis, Acyr Locatelli, Sara Hooker",
+      "paper_url": "https://openreview.net/pdf?id=EvDeiLv7qc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_WvFoJccpo8",
+      "paper_id": "WvFoJccpo8",
+      "title": "QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models",
+      "authors": "Yuhui Xu, Lingxi Xie, Xiaotao Gu, Xin Chen, Heng Chang, Hengheng Zhang, Zhengsu Chen, XIAOPENG ZHANG, Qi Tian",
+      "paper_url": "https://openreview.net/pdf?id=WvFoJccpo8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_FIplmUWdm3",
+      "paper_id": "FIplmUWdm3",
+      "title": "QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models",
+      "authors": "Jing Liu, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang",
+      "paper_url": "https://openreview.net/pdf?id=FIplmUWdm3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_y9Xp9NozPR",
+      "paper_id": "y9Xp9NozPR",
+      "title": "Quality over Quantity in Attention Layers: When Adding More Heads Hurts",
+      "authors": "Noah Amsel, Gilad Yehudai, Joan Bruna",
+      "paper_url": "https://openreview.net/pdf?id=y9Xp9NozPR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XTHfNGI3zT",
+      "paper_id": "XTHfNGI3zT",
+      "title": "Quantifying the Plausibility of Context Reliance in Neural Machine Translation",
+      "authors": "Gabriele Sarti, Grzegorz Chrupała, Malvina Nissim, Arianna Bisazza",
+      "paper_url": "https://openreview.net/pdf?id=XTHfNGI3zT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5J9B7Sb8rO",
+      "paper_id": "5J9B7Sb8rO",
+      "title": "Quantized Spike-driven Transformer",
+      "authors": "Xuerui Qiu, Malu Zhang, Jieyuan Zhang, Wenjie Wei, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Haizhou Li",
+      "paper_url": "https://openreview.net/pdf?id=5J9B7Sb8rO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dgR6i4TSng",
+      "paper_id": "dgR6i4TSng",
+      "title": "Quantum-PEFT: Ultra parameter-efficient fine-tuning",
+      "authors": "Toshiaki Koike-Akino, Francesco Tonin, Yongtao Wu, Zhengqing Wu, Leyla Naz Candogan, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf?id=dgR6i4TSng",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tqh1zdXIra",
+      "paper_id": "tqh1zdXIra",
+      "title": "Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How",
+      "authors": "Sebastian Pineda Arango, Fabio Ferreira, Arlind Kadra, Frank Hutter, Josif Grabocka",
+      "paper_url": "https://openreview.net/pdf?id=tqh1zdXIra",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9VMW4iXfKt",
+      "paper_id": "9VMW4iXfKt",
+      "title": "R-Sparse: Rank-Aware Activation Sparsity for Efficient LLM Inference",
+      "authors": "Zhenyu Zhang, Zechun Liu, Yuandong Tian, Harshit Khaitan, Zhangyang Wang, Steven Li",
+      "paper_url": "https://openreview.net/pdf?id=9VMW4iXfKt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZTpWOwMrzQ",
+      "paper_id": "ZTpWOwMrzQ",
+      "title": "Radar: Fast Long-Context Decoding for Any Transformer",
+      "authors": "Yongchang Hao, Mengyao Zhai, Hossein Hajimirsadeghi, Sepidehsadat Hosseini, Frederick Tung",
+      "paper_url": "https://openreview.net/pdf?id=ZTpWOwMrzQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Hn5eoTunHN",
+      "paper_id": "Hn5eoTunHN",
+      "title": "RandLoRA: Full rank parameter-efficient fine-tuning of large models",
+      "authors": "Paul Albert, Frederic Z. Zhang, Hemanth Saratchandran, Cristian Rodriguez-Opazo, Anton van den Hengel, Ehsan Abbasnejad",
+      "paper_url": "https://openreview.net/pdf?id=Hn5eoTunHN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_QtTKTdVrFBB",
+      "paper_id": "QtTKTdVrFBB",
+      "title": "Random Feature Attention",
+      "authors": "Hao Peng, Nikolaos Pappas, Dani Yogatama, Roy Schwartz, Noah Smith, Lingpeng Kong",
+      "paper_url": "https://openreview.net/pdf/3066e95a6460c5d1da53125f5cff04e2d4ad6c4a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_GdXI5zCoAt",
+      "paper_id": "GdXI5zCoAt",
+      "title": "RaSA: Rank-Sharing Low-Rank Adaptation",
+      "authors": "Zhiwei He, Zhaopeng Tu, Xing Wang, Xingyu Chen, Zhijie Wang, Jiahao Xu, Tian Liang, Wenxiang Jiao, Zhuosheng Zhang, Rui Wang",
+      "paper_url": "https://openreview.net/pdf?id=GdXI5zCoAt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tkiZQlL04w",
+      "paper_id": "tkiZQlL04w",
+      "title": "RazorAttention: Efficient KV Cache Compression Through Retrieval Heads",
+      "authors": "Hanlin Tang, Yang Lin, Jing Lin, Qingsen Han, Danning Ke, Shikuan Hong, Yiwu Yao, Gongyi Wang",
+      "paper_url": "https://openreview.net/pdf?id=tkiZQlL04w",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_din0lGfZFd",
+      "paper_id": "din0lGfZFd",
+      "title": "Reasoning with Latent Thoughts: On the Power of Looped Transformers",
+      "authors": "Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sanjiv Kumar, Sashank J. Reddi",
+      "paper_url": "https://openreview.net/pdf?id=din0lGfZFd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KDGP8yAz5b",
+      "paper_id": "KDGP8yAz5b",
+      "title": "ReAttention: Training-Free Infinite Context with Finite Attention Scope",
+      "authors": "Xiaoran Liu, Ruixiao Li, Zhigeng Liu, Qipeng Guo, Yuerong Song, Kai Lv, Hang Yan, Linlin Li, Qun Liu, Xipeng Qiu",
+      "paper_url": "https://openreview.net/pdf?id=KDGP8yAz5b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ivwZO-HnzG_",
+      "paper_id": "ivwZO-HnzG_",
+      "title": "Recon: Reducing Conflicting Gradients From the Root For Multi-Task Learning",
+      "authors": "Guangyuan SHI, Qimai Li, Wenlong Zhang, Jiaxin Chen, Xiao-Ming Wu",
+      "paper_url": "https://openreview.net/pdf/6326af1e7dafb7e641622b66fe683ac0d4ea2d62.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_WwpYSOkkCt",
+      "paper_id": "WwpYSOkkCt",
+      "title": "Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA",
+      "authors": "Sangmin Bae, Adam Fisch, Hrayr Harutyunyan, Ziwei Ji, Seungyeon Kim, Tal Schuster",
+      "paper_url": "https://openreview.net/pdf?id=WwpYSOkkCt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SYnIf4LxAG",
+      "paper_id": "SYnIf4LxAG",
+      "title": "Release the Powers of Prompt Tuning: Cross-Modality Prompt Transfer",
+      "authors": "Ningyuan Zhang, Jie Lu, Keqiuyin Li, Zhen Fang, Guangquan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=SYnIf4LxAG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DLJznSp6X3",
+      "paper_id": "DLJznSp6X3",
+      "title": "ReLoRA: High-Rank Training Through Low-Rank Updates",
+      "authors": "Vladislav Lialin, Sherin Muckatira, Namrata Shivagunde, Anna Rumshisky",
+      "paper_url": "https://openreview.net/pdf?id=DLJznSp6X3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_osoWxY8q2E",
+      "paper_id": "osoWxY8q2E",
+      "title": "ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models",
+      "authors": "Seyed Iman Mirzadeh, Keivan Alizadeh-Vahid, Sachin Mehta, Carlo C del Mundo, Oncel Tuzel, Golnoosh Samei, Mohammad Rastegari, Mehrdad Farajtabar",
+      "paper_url": "https://openreview.net/pdf?id=osoWxY8q2E",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4D0f16Vwc3",
+      "paper_id": "4D0f16Vwc3",
+      "title": "ReMoE: Fully Differentiable Mixture-of-Experts with ReLU Routing",
+      "authors": "Ziteng Wang, Jun Zhu, Jianfei Chen",
+      "paper_url": "https://openreview.net/pdf?id=4D0f16Vwc3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XAjfjizaKs",
+      "paper_id": "XAjfjizaKs",
+      "title": "Residual Stream Analysis with Multi-Layer SAEs",
+      "authors": "Tim Lawson, Lucy Farnik, Conor Houghton, Laurence Aitchison",
+      "paper_url": "https://openreview.net/pdf?id=XAjfjizaKs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Ua6zuk0WRH",
+      "paper_id": "Ua6zuk0WRH",
+      "title": "Rethinking Attention with Performers",
+      "authors": "Krzysztof Marcin Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Quincy Davis, Afroz Mohiuddin, Lukasz Kaiser, David Benjamin Belanger, Lucy J Colwell, Adrian Weller",
+      "paper_url": "https://openreview.net/pdf/f9985b6b0f77c997ffb932a86a3f3ff482aaa30d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_JzG7kSpjJk",
+      "paper_id": "JzG7kSpjJk",
+      "title": "Rethinking Channel Dimensions to Isolate Outliers for Low-bit Weight Quantization of Large Language Models",
+      "authors": "Jung Hwan Heo, Jeonghoon Kim, Beomseok Kwon, Byeongwook Kim, Se Jung Kwon, Dongsoo Lee",
+      "paper_url": "https://openreview.net/pdf?id=JzG7kSpjJk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_xpFFI_NtgpW",
+      "paper_id": "xpFFI_NtgpW",
+      "title": "Rethinking Embedding Coupling in Pre-trained Language Models",
+      "authors": "Hyung Won Chung, Thibault Fevry, Henry Tsai, Melvin Johnson, Sebastian Ruder",
+      "paper_url": "https://openreview.net/pdf/adedfbb0966285d46a1b5e7fb42ed8f57385af9e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_09-528y2Fgf",
+      "paper_id": "09-528y2Fgf",
+      "title": "Rethinking Positional Encoding in Language Pre-training",
+      "authors": "Guolin Ke, Di He, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/33fed0683748564aa65aa880cab67c6104dfd26a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_cO1IH43yUF",
+      "paper_id": "cO1IH43yUF",
+      "title": "Revisiting Few-sample BERT Fine-tuning",
+      "authors": "Tianyi Zhang, Felix Wu, Arzoo Katiyar, Kilian Q Weinberger, Yoav Artzi",
+      "paper_url": "https://openreview.net/pdf/b9891ff9bbfe3c50cf752711eb45ea789cd534aa.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_WsRHpHH4s0",
+      "paper_id": "WsRHpHH4s0",
+      "title": "RingAttention with Blockwise Transformers for Near-Infinite Context",
+      "authors": "Hao Liu, Matei Zaharia, Pieter Abbeel",
+      "paper_url": "https://openreview.net/pdf?id=WsRHpHH4s0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_IIVYiJ1ggK",
+      "paper_id": "IIVYiJ1ggK",
+      "title": "Rodimus*: Breaking the Accuracy-Efficiency Trade-Off with Efficient Attentions",
+      "authors": "Zhihao He, Hang Yu, Zi Gong, Shizhan Liu, Jianguo Li, Weiyao Lin",
+      "paper_url": "https://openreview.net/pdf?id=IIVYiJ1ggK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_T8wHz4rnuGL",
+      "paper_id": "T8wHz4rnuGL",
+      "title": "RotoGrad: Gradient Homogenization in Multitask Learning",
+      "authors": "Adrián Javaloy, Isabel Valera",
+      "paper_url": "https://openreview.net/pdf/288f1ffa5c44be1b70664610932a5019dd24b6a1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_PHg4rAXFVH",
+      "paper_id": "PHg4rAXFVH",
+      "title": "RTop-K: Ultra-Fast Row-Wise Top-K Selection for Neural Network Acceleration on GPUs",
+      "authors": "Xi Xie, Yuebo Luo, Hongwu Peng, Caiwen Ding",
+      "paper_url": "https://openreview.net/pdf?id=PHg4rAXFVH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OL44KtasKc",
+      "paper_id": "OL44KtasKc",
+      "title": "SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration",
+      "authors": "Jintao Zhang, Jia wei, Pengle Zhang, Jun Zhu, Jianfei Chen",
+      "paper_url": "https://openreview.net/pdf?id=OL44KtasKc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GOoVzE9nSj",
+      "paper_id": "GOoVzE9nSj",
+      "title": "SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation",
+      "authors": "Mingjie Li, Wai Man Si, Michael Backes, Yang Zhang, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf?id=GOoVzE9nSj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_f2OYVDyfIB",
+      "paper_id": "f2OYVDyfIB",
+      "title": "Scale Efficiently: Insights from Pretraining and Finetuning Transformers",
+      "authors": "Yi Tay, Mostafa Dehghani, Jinfeng Rao, William Fedus, Samira Abnar, Hyung Won Chung, Sharan Narang, Dani Yogatama, Ashish Vaswani, Donald Metzler",
+      "paper_url": "https://openreview.net/pdf/bd048936d58108f06fb49d610e86a9a5dcb9b281.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_E1EHO0imOb",
+      "paper_id": "E1EHO0imOb",
+      "title": "Scaling FP8 training to trillion-token LLMs",
+      "authors": "Maxim Fishman, Brian Chmiel, Ron Banner, Daniel Soudry",
+      "paper_url": "https://openreview.net/pdf?id=E1EHO0imOb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vPOMTkmSiu",
+      "paper_id": "vPOMTkmSiu",
+      "title": "Scaling Laws for Downstream Task Performance in Machine Translation",
+      "authors": "Berivan Isik, Natalia Ponomareva, Hussein Hazimeh, Dimitris Paparas, Sergei Vassilvitskii, Sanmi Koyejo",
+      "paper_url": "https://openreview.net/pdf?id=vPOMTkmSiu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_hR_SMu8cxCV",
+      "paper_id": "hR_SMu8cxCV",
+      "title": "Scaling Laws for Neural Machine Translation",
+      "authors": "Behrooz Ghorbani, Orhan Firat, Markus Freitag, Ankur Bapna, Maxim Krikun, Xavier Garcia, Ciprian Chelba, Colin Cherry",
+      "paper_url": "https://openreview.net/pdf/dec3d7582a0893c49661157564fdbe66ccc0036f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_i9K2ZWkYIP",
+      "paper_id": "i9K2ZWkYIP",
+      "title": "Scaling Laws for Sparsely-Connected Foundation Models",
+      "authors": "Elias Frantar, Carlos Riquelme Ruiz, Neil Houlsby, Dan Alistarh, Utku Evci",
+      "paper_url": "https://openreview.net/pdf?id=i9K2ZWkYIP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_r8J3DSD5kF",
+      "paper_id": "r8J3DSD5kF",
+      "title": "Scaling Stick-Breaking Attention: An Efficient Implementation and In-depth Study",
+      "authors": "Shawn Tan, Songlin Yang, Aaron Courville, Rameswar Panda, Yikang Shen",
+      "paper_url": "https://openreview.net/pdf?id=r8J3DSD5kF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_s-c96mSU0u5",
+      "paper_id": "s-c96mSU0u5",
+      "title": "SCoMoE: Efficient Mixtures of Experts with Structured Communication",
+      "authors": "zhiyuan zeng, Deyi Xiong",
+      "paper_url": "https://openreview.net/pdf/ac600913a3de976ce9df830677f9ddacb13a4838.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_JbcwfmYrob",
+      "paper_id": "JbcwfmYrob",
+      "title": "SEA: Sparse Linear Attention with Estimated Attention Mask",
+      "authors": "Heejun Lee, Jina Kim, Jeffrey Willette, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf?id=JbcwfmYrob",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_bEqI61iBue",
+      "paper_id": "bEqI61iBue",
+      "title": "Second-Order Fine-Tuning without Pain for LLMs: A Hessian Informed Zeroth-Order Optimizer",
+      "authors": "Yanjun Zhao, Sizhe Dang, Haishan Ye, Guang Dai, Yi Qian, Ivor Tsang",
+      "paper_url": "https://openreview.net/pdf?id=bEqI61iBue",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_u3TL0qxLWf",
+      "paper_id": "u3TL0qxLWf",
+      "title": "SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators",
+      "authors": "Rasoul Shafipour, David Harrison, Maxwell Horton, JEFFREY MARKER, Houman Bedayat, Sachin Mehta, Mohammad Rastegari, Mahyar Najibi, Saman Naderiparizi",
+      "paper_url": "https://openreview.net/pdf?id=u3TL0qxLWf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mIEHIcHGOo",
+      "paper_id": "mIEHIcHGOo",
+      "title": "Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective",
+      "authors": "Ming Zhong, Chenxin An, Weizhu Chen, Jiawei Han, Pengcheng He",
+      "paper_url": "https://openreview.net/pdf?id=mIEHIcHGOo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_v0FzmPCd1e",
+      "paper_id": "v0FzmPCd1e",
+      "title": "Selective Attention Improves Transformer",
+      "authors": "Yaniv Leviathan, Matan Kalman, Yossi Matias",
+      "paper_url": "https://openreview.net/pdf?id=v0FzmPCd1e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bnJgzAQjWf",
+      "paper_id": "bnJgzAQjWf",
+      "title": "Selective induction Heads: How Transformers Select Causal Structures in Context",
+      "authors": "Francesco D'Angelo, Francesco Croce, Nicolas Flammarion",
+      "paper_url": "https://openreview.net/pdf?id=bnJgzAQjWf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EdNSQHaaMR",
+      "paper_id": "EdNSQHaaMR",
+      "title": "Selective Task Group Updates for Multi-Task Optimization",
+      "authors": "Wooseong Jeong, Kuk-Jin Yoon",
+      "paper_url": "https://openreview.net/pdf?id=EdNSQHaaMR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JeLqFpFzwX",
+      "paper_id": "JeLqFpFzwX",
+      "title": "Self-Attention-Based Contextual Modulation Improves Neural System Identification",
+      "authors": "Isaac Lin, Tianye Wang, Shang Gao, Tang Shiming, Tai Sing Lee",
+      "paper_url": "https://openreview.net/pdf?id=JeLqFpFzwX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kj6oK_Hj40",
+      "paper_id": "kj6oK_Hj40",
+      "title": "Self-Distillation for Further Pre-training of Transformers",
+      "authors": "Seanie Lee, Minki Kang, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi",
+      "paper_url": "https://openreview.net/pdf/008646e566fce92cb8bb6248dcc7c7508818680e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_IDJUscOjM3",
+      "paper_id": "IDJUscOjM3",
+      "title": "Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts",
+      "authors": "Junmo Kang, Leonid Karlinsky, Hongyin Luo, Zhen Wang, Jacob A Hansen, James R. Glass, David Daniel Cox, Rameswar Panda, Rogerio Feris, Alan Ritter",
+      "paper_url": "https://openreview.net/pdf?id=IDJUscOjM3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Ov_sMNau-PF",
+      "paper_id": "Ov_sMNau-PF",
+      "title": "Semantic Re-tuning with Contrastive Tension",
+      "authors": "Fredrik Carlsson, Amaru Cuba Gyllensten, Evangelia Gogoulou, Erik Ylipää Hellqvist, Magnus Sahlgren",
+      "paper_url": "https://openreview.net/pdf/183f4e3fc886804360e6169ab1b7192bbe476098.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_30oIfmrcFO",
+      "paper_id": "30oIfmrcFO",
+      "title": "Seq-VCR: Preventing  Collapse in Intermediate Transformer Representations for Enhanced Reasoning",
+      "authors": "Md Rifat Arefin, Gopeshh Subbaraj, Nicolas Gontier, Yann LeCun, Irina Rish, Ravid Shwartz-Ziv, Christopher Pal",
+      "paper_url": "https://openreview.net/pdf?id=30oIfmrcFO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_TTLLGx3eet",
+      "paper_id": "TTLLGx3eet",
+      "title": "Sequential Attention for Feature Selection",
+      "authors": "Taisuke Yasuda, Mohammadhossein Bateni, Lin Chen, Matthew Fahrbach, Gang Fu, Vahab Mirrokni",
+      "paper_url": "https://openreview.net/pdf/e9214f5e01bc6ffe4029aea4bcdf0d18b1e870cb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_ivQruZvXxtz",
+      "paper_id": "ivQruZvXxtz",
+      "title": "Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning",
+      "authors": "Seanie Lee, Hae Beom Lee, Juho Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/a902aca6de0e705d273cc4715fde1741a44e649e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_Wj4ODo0uyCF",
+      "paper_id": "Wj4ODo0uyCF",
+      "title": "Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation",
+      "authors": "Biao Zhang, Ankur Bapna, Rico Sennrich, Orhan Firat",
+      "paper_url": "https://openreview.net/pdf/daf5088c43f0425f9ab145f2bb0b1db43092147f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_09iOdaeOzp",
+      "paper_id": "09iOdaeOzp",
+      "title": "Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning",
+      "authors": "Mengzhou Xia, Tianyu Gao, Zhiyuan Zeng, Danqi Chen",
+      "paper_url": "https://openreview.net/pdf?id=09iOdaeOzp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_RtDok9eS3s",
+      "paper_id": "RtDok9eS3s",
+      "title": "Simplifying Transformer Blocks",
+      "authors": "Bobby He, Thomas Hofmann",
+      "paper_url": "https://openreview.net/pdf?id=RtDok9eS3s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vXxardq6db",
+      "paper_id": "vXxardq6db",
+      "title": "SliceGPT: Compress Large Language Models by Deleting Rows and Columns",
+      "authors": "Saleh Ashkboos, Maximilian L. Croci, Marcelo Gennari do Nascimento, Torsten Hoefler, James Hensman",
+      "paper_url": "https://openreview.net/pdf?id=vXxardq6db",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lqHv6dxBkj",
+      "paper_id": "lqHv6dxBkj",
+      "title": "SLoPe: Double-Pruned Sparse Plus Lazy Low-Rank Adapter Pretraining of LLMs",
+      "authors": "Mohammad Mozaffari, Amir Yazdanbakhsh, Zhao Zhang, Maryam Mehri Dehnavi",
+      "paper_url": "https://openreview.net/pdf?id=lqHv6dxBkj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_d8w0pmvXbZ",
+      "paper_id": "d8w0pmvXbZ",
+      "title": "Small-scale proxies for large-scale Transformer training instabilities",
+      "authors": "Mitchell Wortsman, Peter J Liu, Lechao Xiao, Katie E Everett, Alexander A Alemi, Ben Adlam, John D Co-Reyes, Izzeddin Gur, Abhishek Kumar, Roman Novak, Jeffrey Pennington, Jascha Sohl-Dickstein, Kelvin Xu, Jaehoon Lee, Justin Gilmer, Simon Kornblith",
+      "paper_url": "https://openreview.net/pdf?id=d8w0pmvXbZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_9piH3Hg8QEf",
+      "paper_id": "9piH3Hg8QEf",
+      "title": "SMART: Self-supervised Multi-task pretrAining with contRol Transformers",
+      "authors": "Yanchao Sun, Shuang Ma, Ratnesh Madaan, Rogerio Bonatti, Furong Huang, Ashish Kapoor",
+      "paper_url": "https://openreview.net/pdf/0bed689d4b0c72cb2f2561862218853290e48ce5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_i9UlAr1T_xl",
+      "paper_id": "i9UlAr1T_xl",
+      "title": "SmartFRZ: An Efficient Training Framework using Attention-Based Layer Freezing",
+      "authors": "Sheng Li, Geng Yuan, Yue Dai, Youtao Zhang, Yanzhi Wang, Xulong Tang",
+      "paper_url": "https://openreview.net/pdf/df204364dd4dd09467e128971f66612149d1171b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_GbgCRJedQ7",
+      "paper_id": "GbgCRJedQ7",
+      "title": "SMT: Fine-Tuning Large Language Models with Sparse Matrices",
+      "authors": "Haoze He, Juncheng B Li, Xuan Jiang, Heather Miller",
+      "paper_url": "https://openreview.net/pdf?id=GbgCRJedQ7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IDxZhXrpNf",
+      "paper_id": "IDxZhXrpNf",
+      "title": "SOAP: Improving and Stabilizing Shampoo using Adam for Language Modeling",
+      "authors": "Nikhil Vyas, Depen Morwani, Rosie Zhao, Itai Shapira, David Brandfonbrener, Lucas Janson, Sham M. Kakade",
+      "paper_url": "https://openreview.net/pdf?id=IDxZhXrpNf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3xHDeA8Noi",
+      "paper_id": "3xHDeA8Noi",
+      "title": "Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training",
+      "authors": "Hong Liu, Zhiyuan Li, David Leo Wright Hall, Percy Liang, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf?id=3xHDeA8Noi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_L9eBxTCpQG",
+      "paper_id": "L9eBxTCpQG",
+      "title": "SPAM: Spike-Aware Adam with Momentum Reset for Stable LLM Training",
+      "authors": "Tianjin Huang, Ziquan Zhu, Gaojie Jin, Lu Liu, Zhangyang Wang, Shiwei Liu",
+      "paper_url": "https://openreview.net/pdf?id=L9eBxTCpQG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_VGnOJhd5Q1q",
+      "paper_id": "VGnOJhd5Q1q",
+      "title": "Sparse Attention with Learning to Hash",
+      "authors": "Zhiqing Sun, Yiming Yang, Shinjae Yoo",
+      "paper_url": "https://openreview.net/pdf/a9205753097eb2790a365828e3e20af6261bf8b1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_RecZ9nB9Q4",
+      "paper_id": "RecZ9nB9Q4",
+      "title": "Sparse Mixture-of-Experts are Domain Generalizable Learners",
+      "authors": "Bo Li, Yifei Shen, Jingkang Yang, Yezhen Wang, Jiawei Ren, Tong Che, Jun Zhang, Ziwei Liu",
+      "paper_url": "https://openreview.net/pdf/7bdb46ea980861f27d1fc50dacde68ac444c5231.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_w1hwFUb_81",
+      "paper_id": "w1hwFUb_81",
+      "title": "Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers",
+      "authors": "Tianlong Chen, Zhenyu Zhang, AJAY KUMAR JAISWAL, Shiwei Liu, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/9a22d737856844ae4058be999052c67e4e975671.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ySS7hH1smL",
+      "paper_id": "ySS7hH1smL",
+      "title": "Sparse MoE with Language Guided Routing for Multilingual Machine Translation",
+      "authors": "Xinyu Zhao, Xuxi Chen, Yu Cheng, Tianlong Chen",
+      "paper_url": "https://openreview.net/pdf?id=ySS7hH1smL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_VV0hSE8AxCw",
+      "paper_id": "VV0hSE8AxCw",
+      "title": "Sparse Token Transformer with Attention Back Tracking",
+      "authors": "Heejun Lee, Minki Kang, Youngwan Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/374c9ac59ff86090712676f28b7100fc83ff8705.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_T5nUQDrM4u",
+      "paper_id": "T5nUQDrM4u",
+      "title": "Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints",
+      "authors": "Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani, Neil Houlsby",
+      "paper_url": "https://openreview.net/pdf/c037cbccf13c2380ece6d1296d30d8e07d64b943.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_XrunSYwoLr",
+      "paper_id": "XrunSYwoLr",
+      "title": "Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers",
+      "authors": "Yizhou Jiang, Kunlin Hu, Tianren Zhang, Haichuan Gao, Yuqian Liu, Ying Fang, Feng Chen",
+      "paper_url": "https://openreview.net/pdf?id=XrunSYwoLr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_1SIBN5Xyw7",
+      "paper_id": "1SIBN5Xyw7",
+      "title": "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips",
+      "authors": "Man Yao, JiaKui Hu, Tianxiang Hu, Yifan Xu, Zhaokun Zhou, Yonghong Tian, Bo XU, Guoqi Li",
+      "paper_url": "https://openreview.net/pdf?id=1SIBN5Xyw7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ZadnlOHsHv",
+      "paper_id": "ZadnlOHsHv",
+      "title": "SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking",
+      "authors": "Xingrun Xing, Boyan Gao, Zheng Liu, David A. Clifton, Shitao Xiao, Wanpeng Zhang, Li Du, Zheng Zhang, Guoqi Li, Jiajun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=ZadnlOHsHv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_frE4fUwz_h",
+      "paper_id": "frE4fUwz_h",
+      "title": "Spikformer: When Spiking Neural Network Meets Transformer",
+      "authors": "Zhaokun Zhou, Yuesheng Zhu, Chao He, Yaowei Wang, Shuicheng YAN, Yonghong Tian, Li Yuan",
+      "paper_url": "https://openreview.net/pdf/f73e61d78afbf6a46ce5de2f6af699bacae174f8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ogO6DGE6FZ",
+      "paper_id": "ogO6DGE6FZ",
+      "title": "SpinQuant: LLM Quantization with Learned Rotations",
+      "authors": "Zechun Liu, Changsheng Zhao, Igor Fedorov, Bilge Soran, Dhruv Choudhary, Raghuraman Krishnamoorthi, Vikas Chandra, Yuandong Tian, Tijmen Blankevoort",
+      "paper_url": "https://openreview.net/pdf?id=ogO6DGE6FZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Q1u25ahSuy",
+      "paper_id": "Q1u25ahSuy",
+      "title": "SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression",
+      "authors": "Tim Dettmers, Ruslan A. Svirschevski, Vage Egiazarian, Denis Kuznedelev, Elias Frantar, Saleh Ashkboos, Alexander Borzunov, Torsten Hoefler, Dan Alistarh",
+      "paper_url": "https://openreview.net/pdf?id=Q1u25ahSuy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9HK2rHNAhd",
+      "paper_id": "9HK2rHNAhd",
+      "title": "SqueezeAttention: 2D Management of KV-Cache in LLM Inference via Layer-wise Optimal Budget",
+      "authors": "Zihao Wang, Bin CUI, Shaoduo Gan",
+      "paper_url": "https://openreview.net/pdf?id=9HK2rHNAhd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XVhm3X8Fum",
+      "paper_id": "XVhm3X8Fum",
+      "title": "Stack Attention: Improving the Ability of Transformers to Model Hierarchical Patterns",
+      "authors": "Brian DuSell, David Chiang",
+      "paper_url": "https://openreview.net/pdf?id=XVhm3X8Fum",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_FAfxvdv1Dy",
+      "paper_id": "FAfxvdv1Dy",
+      "title": "STAFF: Speculative Coreset Selection for Task-Specific Fine-tuning",
+      "authors": "Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen, Tianlin Li, Weipeng Jiang, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=FAfxvdv1Dy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QFgbJOYJSE",
+      "paper_id": "QFgbJOYJSE",
+      "title": "State Space Models are Provably Comparable to Transformers in Dynamic Token Selection",
+      "authors": "Naoki Nishikawa, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=QFgbJOYJSE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_faDMOmnsjx",
+      "paper_id": "faDMOmnsjx",
+      "title": "Statistical Advantages of Perturbing Cosine Router in Mixture of Experts",
+      "authors": "Huy Nguyen, Pedram Akbarian, Huyen Trang Pham, Thien Trang Nguyen Vu, Shujian Zhang, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf?id=faDMOmnsjx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jvtmdK69KQ",
+      "paper_id": "jvtmdK69KQ",
+      "title": "Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts",
+      "authors": "Huy Nguyen, Pedram Akbarian, Fanqi Yan, Nhat Ho",
+      "paper_url": "https://openreview.net/pdf?id=jvtmdK69KQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6XUSDvBFkV",
+      "paper_id": "6XUSDvBFkV",
+      "title": "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs",
+      "authors": "Peijie Dong, Lujun Li, Yuedong Zhong, DaYou Du, Ruibo FAN, Yuhan Chen, Zhenheng Tang, Qiang Wang, Wei Xue, Yike Guo, Xiaowen Chu",
+      "paper_url": "https://openreview.net/pdf?id=6XUSDvBFkV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hrOlBgHsMI",
+      "paper_id": "hrOlBgHsMI",
+      "title": "Straight to Zero: Why Linearly Decaying the Learning Rate to Zero Works Best for LLMs",
+      "authors": "Shane Bergsma, Nolan Simran Dey, Gurpreet Gosal, Gavia Gray, Daria Soboleva, Joel Hestness",
+      "paper_url": "https://openreview.net/pdf?id=hrOlBgHsMI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IC5RJvRoMp",
+      "paper_id": "IC5RJvRoMp",
+      "title": "Streamlining Redundant Layers to Compress Large Language Models",
+      "authors": "Xiaodong Chen, Yuxuan Hu, Jing Zhang, Yanling Wang, Cuiping Li, Hong Chen",
+      "paper_url": "https://openreview.net/pdf?id=IC5RJvRoMp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kvcbV8KQsi",
+      "paper_id": "kvcbV8KQsi",
+      "title": "Successor Heads: Recurring, Interpretable Attention Heads In The Wild",
+      "authors": "Rhys Gould, Euan Ong, George Ogden, Arthur Conmy",
+      "paper_url": "https://openreview.net/pdf?id=kvcbV8KQsi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_cu7IUiOhujH",
+      "paper_id": "cu7IUiOhujH",
+      "title": "Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning",
+      "authors": "Beliz Gunel, Jingfei Du, Alexis Conneau, Veselin Stoyanov",
+      "paper_url": "https://openreview.net/pdf/02dcbc0bf1ebd53ed5b69a2ca9aa27b3d3c53893.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_LNYIUouhdt",
+      "paper_id": "LNYIUouhdt",
+      "title": "SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression",
+      "authors": "Xin Wang, Yu Zheng, Zhongwei Wan, Mi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=LNYIUouhdt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EKJhH5D5wA",
+      "paper_id": "EKJhH5D5wA",
+      "title": "SWIFT: On-the-Fly Self-Speculative Decoding for LLM Inference Acceleration",
+      "authors": "Heming Xia, Yongqi Li, Jun Zhang, Cunxiao Du, Wenjie Li",
+      "paper_url": "https://openreview.net/pdf?id=EKJhH5D5wA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_5HvpvYd68b",
+      "paper_id": "5HvpvYd68b",
+      "title": "switch-GLAT: Multilingual Parallel Machine Translation Via Code-Switch Decoder",
+      "authors": "Zhenqiao Song, Hao Zhou, Lihua Qian, Jingjing Xu, Shanbo Cheng, Mingxuan Wang, Lei Li",
+      "paper_url": "https://openreview.net/pdf/24886b6f1aa837364f7c14635d0af1b9dadb0fe7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_2rnOgyFQgb",
+      "paper_id": "2rnOgyFQgb",
+      "title": "SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning",
+      "authors": "Minjun Kim, Jongjin Kim, U Kang",
+      "paper_url": "https://openreview.net/pdf?id=2rnOgyFQgb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cqsw28DuMW",
+      "paper_id": "cqsw28DuMW",
+      "title": "TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models",
+      "authors": "Makoto Shing, Kou Misaki, Han Bao, Sho Yokoi, Takuya Akiba",
+      "paper_url": "https://openreview.net/pdf?id=cqsw28DuMW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_lU5Rs_wCweN",
+      "paper_id": "lU5Rs_wCweN",
+      "title": "Taking Notes on the Fly Helps Language Pre-Training",
+      "authors": "Qiyu Wu, Chen Xing, Yatao Li, Guolin Ke, Di He, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/954ca2d8ae9cd134cd7cb0003ecd87b3e6f3bf4e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_B72HXs80q4",
+      "paper_id": "B72HXs80q4",
+      "title": "Taming Sparsely Activated Transformer with Stochastic Experts",
+      "authors": "Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Jianfeng Gao, Tuo Zhao",
+      "paper_url": "https://openreview.net/pdf/55a2b1a443f2621d2199769150f3845eefe41ba6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_GeUK3zGreN",
+      "paper_id": "GeUK3zGreN",
+      "title": "Taming Transformer Without Using Learning Rate Warmup",
+      "authors": "Xianbiao Qi, Yelin He, Jiaquan Ye, Chun-Guang Li, Bojia Zi, Xili Dai, Qin Zou, Rong Xiao",
+      "paper_url": "https://openreview.net/pdf?id=GeUK3zGreN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dsP91M4hDL",
+      "paper_id": "dsP91M4hDL",
+      "title": "TC-MoE: Augmenting Mixture of Experts with Ternary Expert Choice",
+      "authors": "Shen Yan, Xingyan Bin, Sijun Zhang, Yisen Wang, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf?id=dsP91M4hDL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dsUB4bst9S",
+      "paper_id": "dsUB4bst9S",
+      "title": "Teaching Arithmetic to Small Transformers",
+      "authors": "Nayoung Lee, Kartik Sreenivasan, Jason D. Lee, Kangwook Lee, Dimitris Papailiopoulos",
+      "paper_url": "https://openreview.net/pdf?id=dsUB4bst9S",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ThRMTCgpvo",
+      "paper_id": "ThRMTCgpvo",
+      "title": "The Belief State Transformer",
+      "authors": "Edward S. Hu, Kwangjun Ahn, Qinghua Liu, Haoran Xu, Manan Tomar, Ada Langford, Dinesh Jayaraman, Alex Lamb, John Langford",
+      "paper_url": "https://openreview.net/pdf?id=ThRMTCgpvo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QogcGNXJVw",
+      "paper_id": "QogcGNXJVw",
+      "title": "The Computational Complexity of Circuit Discovery for Inner Interpretability",
+      "authors": "Federico Adolfi, Martina G. Vilas, Todd Wareham",
+      "paper_url": "https://openreview.net/pdf?id=QogcGNXJVw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_likXVjmh3E",
+      "paper_id": "likXVjmh3E",
+      "title": "The Expressive Power of Low-Rank Adaptation",
+      "authors": "Yuchen Zeng, Kangwook Lee",
+      "paper_url": "https://openreview.net/pdf?id=likXVjmh3E",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_4g02l2N2Nx",
+      "paper_id": "4g02l2N2Nx",
+      "title": "The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry",
+      "authors": "Michael Zhang, Kush Bhatia, Hermann Kumbong, Christopher Re",
+      "paper_url": "https://openreview.net/pdf?id=4g02l2N2Nx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ud8FtE1N4N",
+      "paper_id": "ud8FtE1N4N",
+      "title": "The Journey Matters: Average Parameter Count over Pre-training Unifies Sparse and Dense Scaling Laws",
+      "authors": "Tian Jin, Ahmed Imtiaz Humayun, Utku Evci, Suvinay Subramanian, Amir Yazdanbakhsh, Dan Alistarh, Gintare Karolina Dziugaite",
+      "paper_url": "https://openreview.net/pdf?id=ud8FtE1N4N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_TJ2nxciYCk-",
+      "paper_id": "TJ2nxciYCk-",
+      "title": "The Lazy Neuron Phenomenon: On Emergence of Activation Sparsity in Transformers",
+      "authors": "Zonglin Li, Chong You, Srinadh Bhojanapalli, Daliang Li, Ankit Singh Rawat, Sashank J. Reddi, Ke Ye, Felix Chern, Felix Yu, Ruiqi Guo, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf/4120f135fba7001a85237ce4a81740c0626abb31.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MVmT6uQ3cQ",
+      "paper_id": "MVmT6uQ3cQ",
+      "title": "The Need for Speed: Pruning Transformers with One Recipe",
+      "authors": "Samir Khaki, Konstantinos N Plataniotis",
+      "paper_url": "https://openreview.net/pdf?id=MVmT6uQ3cQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_KBQP4A_J1K",
+      "paper_id": "KBQP4A_J1K",
+      "title": "The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization",
+      "authors": "Róbert Csordás, Kazuki Irie, Jürgen Schmidhuber",
+      "paper_url": "https://openreview.net/pdf/0a8ae186717b6e3ecc30dea384724b288d4060b6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Zhdhg6n2OG",
+      "paper_id": "Zhdhg6n2OG",
+      "title": "Theory, Analysis, and Best Practices for Sigmoid Self-Attention",
+      "authors": "Jason Ramapuram, Federico Danieli, Eeshan Gunesh Dhekane, Floris Weers, Dan Busbridge, Pierre Ablin, Tatiana Likhomanenko, Jagrit Digani, Zijin Gu, Amitis Shidani, Russell Webb",
+      "paper_url": "https://openreview.net/pdf?id=Zhdhg6n2OG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_n0OtGl6VGb",
+      "paper_id": "n0OtGl6VGb",
+      "title": "ThinK: Thinner Key Cache by Query-Driven Pruning",
+      "authors": "Yuhui Xu, Zhanming Jie, Hanze Dong, Lei Wang, Xudong Lu, Aojun Zhou, Amrita Saha, Caiming Xiong, Doyen Sahoo",
+      "paper_url": "https://openreview.net/pdf?id=n0OtGl6VGb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EkfLaCJ7bk",
+      "paper_id": "EkfLaCJ7bk",
+      "title": "TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention",
+      "authors": "Lijie Yang, Zhihao Zhang, Zhuofu Chen, Zikun Li, Zhihao Jia",
+      "paper_url": "https://openreview.net/pdf?id=EkfLaCJ7bk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lXRDQsiP2v",
+      "paper_id": "lXRDQsiP2v",
+      "title": "Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction",
+      "authors": "Ziyang Wu, Tianjiao Ding, Yifu Lu, Druv Pai, Jingyuan Zhang, Weida Wang, Yaodong Yu, Yi Ma, Benjamin David Haeffele",
+      "paper_url": "https://openreview.net/pdf?id=lXRDQsiP2v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oQ4igHyh3N",
+      "paper_id": "oQ4igHyh3N",
+      "title": "TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters",
+      "authors": "Haiyang Wang, Yue Fan, Muhammad Ferjad Naeem, Yongqin Xian, Jan Eric Lenssen, Liwei Wang, Federico Tombari, Bernt Schiele",
+      "paper_url": "https://openreview.net/pdf?id=oQ4igHyh3N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SFN6Wm7YBI",
+      "paper_id": "SFN6Wm7YBI",
+      "title": "TorchTitan: One-stop PyTorch native solution for production ready LLM pretraining",
+      "authors": "Wanchao Liang, Tianyu Liu, Less Wright, Will Constable, Andrew Gu, Chien-Chin Huang, Iris Zhang, Wei Feng, Howard Huang, Junjie Wang, Sanket Purandare, Gokul Nadathur, Stratos Idreos",
+      "paper_url": "https://openreview.net/pdf?id=SFN6Wm7YBI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_0RDcd5Axok",
+      "paper_id": "0RDcd5Axok",
+      "title": "Towards a Unified View of Parameter-Efficient Transfer Learning",
+      "authors": "Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/859577d9cab3bf7833fe6fd6ea3a66c3b424c6bb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_1jbh2e0b2K",
+      "paper_id": "1jbh2e0b2K",
+      "title": "Towards Few-Shot Adaptation of Foundation Models via Multitask Finetuning",
+      "authors": "Zhuoyan Xu, Zhenmei Shi, Junyi Wei, Fangzhou Mu, Yin Li, Yingyu Liang",
+      "paper_url": "https://openreview.net/pdf?id=1jbh2e0b2K",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Vja3ecieXY",
+      "paper_id": "Vja3ecieXY",
+      "title": "Towards Green AI in Fine-tuning Large Language Models via Adaptive Backpropagation",
+      "authors": "Kai Huang, Hanyun Yin, Heng Huang, Wei Gao",
+      "paper_url": "https://openreview.net/pdf?id=Vja3ecieXY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9KxnxWOBA5",
+      "paper_id": "9KxnxWOBA5",
+      "title": "Towards Optimal Multi-draft Speculative Decoding",
+      "authors": "Zhengmian Hu, Tong Zheng, Vignesh Viswanathan, Ziyi Chen, Ryan A. Rossi, Yihan Wu, Dinesh Manocha, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=9KxnxWOBA5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yWoV4Ca6ji",
+      "paper_id": "yWoV4Ca6ji",
+      "title": "Towards Understanding the Universality of Transformers for Next-Token Prediction",
+      "authors": "Michael Eli Sander, Gabriel Peyré",
+      "paper_url": "https://openreview.net/pdf?id=yWoV4Ca6ji",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_R8sQPpGCv0",
+      "paper_id": "R8sQPpGCv0",
+      "title": "Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation",
+      "authors": "Ofir Press, Noah Smith, Mike Lewis",
+      "paper_url": "https://openreview.net/pdf/76259151174b85b4bf1f526f9f72da486f40418b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_s7DkcgpRxL",
+      "paper_id": "s7DkcgpRxL",
+      "title": "Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models",
+      "authors": "Jun Zhang, Jue WANG, Huan Li, Lidan Shou, Ke Chen, Yang You, Guiming Xie, Xuejian Gong, Kunlong Zhou",
+      "paper_url": "https://openreview.net/pdf?id=s7DkcgpRxL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jwsPS8yRe4",
+      "paper_id": "jwsPS8yRe4",
+      "title": "Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context",
+      "authors": "Spencer Frei, Gal Vardi",
+      "paper_url": "https://openreview.net/pdf?id=jwsPS8yRe4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dGVZwyq5tV",
+      "paper_id": "dGVZwyq5tV",
+      "title": "Training-Free Activation Sparsity in Large Language Models",
+      "authors": "James Liu, Pragaash Ponnusamy, Tianle Cai, Han Guo, Yoon Kim, Ben Athiwaratkun",
+      "paper_url": "https://openreview.net/pdf?id=dGVZwyq5tV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_AmUhwTOHgm",
+      "paper_id": "AmUhwTOHgm",
+      "title": "Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations",
+      "authors": "Fangyu Liu, Yunlong Jiao, Jordan Massiah, Emine Yilmaz, Serhii Havrylov",
+      "paper_url": "https://openreview.net/pdf/3a6f31c7903c67d5e431aafcd98d91be36443b10.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_kvLenbZZgg",
+      "paper_id": "kvLenbZZgg",
+      "title": "Transformer Block Coupling and its Correlation with Generalization in LLMs",
+      "authors": "Murdock Aubry, Haoming Meng, Anton Sugolov, Vardan Papyan",
+      "paper_url": "https://openreview.net/pdf?id=kvLenbZZgg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Rty5g9imm7H",
+      "paper_id": "Rty5g9imm7H",
+      "title": "Transformer Embeddings of Irregularly Spaced Events and Their Participants",
+      "authors": "Hongyuan Mei, Chenghao Yang, Jason Eisner",
+      "paper_url": "https://openreview.net/pdf/7d691bc93acd9cb9bd82501ce85784e489d480b0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fuoM5YDBX4",
+      "paper_id": "fuoM5YDBX4",
+      "title": "Transformer Learns Optimal Variable Selection in Group-Sparse Classification",
+      "authors": "Chenyang Zhang, Xuran Meng, Yuan Cao",
+      "paper_url": "https://openreview.net/pdf?id=fuoM5YDBX4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_HnlCZATopvr",
+      "paper_id": "HnlCZATopvr",
+      "title": "Transformer Meets Boundary Value Inverse Problems",
+      "authors": "Ruchi Guo, Shuhao Cao, Long Chen",
+      "paper_url": "https://openreview.net/pdf/ba339ab66ec55a9c9e30f73d8db38087c06105e8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_16kG5aNleS",
+      "paper_id": "16kG5aNleS",
+      "title": "Transformer Meets Twicing: Harnessing Unattended Residual Information",
+      "authors": "Laziz Abdullaev, Tan Minh Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=16kG5aNleS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_IDwN6xjHnK8",
+      "paper_id": "IDwN6xjHnK8",
+      "title": "Transformer-based Transform Coding",
+      "authors": "Yinhao Zhu, Yang Yang, Taco Cohen",
+      "paper_url": "https://openreview.net/pdf/b5e3776fbe0ee70da5740c3cf525ed60629bca04.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_4oYUGeGBPm",
+      "paper_id": "4oYUGeGBPm",
+      "title": "Transformer-Patcher: One Mistake Worth One Neuron",
+      "authors": "Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong, Zhang Xiong",
+      "paper_url": "https://openreview.net/pdf/333a3ae8305ed6fdef22d29e567970ee0060978d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_dh4t9qmcvK",
+      "paper_id": "dh4t9qmcvK",
+      "title": "Transformer-Squared: Self-adaptive LLMs",
+      "authors": "Qi Sun, Edoardo Cetin, Yujin Tang",
+      "paper_url": "https://openreview.net/pdf?id=dh4t9qmcvK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oDdzXQzP2F",
+      "paper_id": "oDdzXQzP2F",
+      "title": "Transformer-VQ: Linear-Time Transformers via Vector Quantization",
+      "authors": "Lucas Dax Lingle",
+      "paper_url": "https://openreview.net/pdf?id=oDdzXQzP2F",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_vhFu1Acb0xb",
+      "paper_id": "vhFu1Acb0xb",
+      "title": "Transformers are Sample-Efficient World Models",
+      "authors": "Vincent Micheli, Eloi Alonso, François Fleuret",
+      "paper_url": "https://openreview.net/pdf/f23ea2080e754e26ad7f8a9f9a55865dd11f0a73.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_6S4WQD1LZR",
+      "paper_id": "6S4WQD1LZR",
+      "title": "Transformers are Universal In-context Learners",
+      "authors": "Takashi Furuya, Maarten V. de Hoop, Gabriel Peyré",
+      "paper_url": "https://openreview.net/pdf?id=6S4WQD1LZR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_KSugKcbNf9",
+      "paper_id": "KSugKcbNf9",
+      "title": "Transformers Can Do Bayesian Inference",
+      "authors": "Samuel Müller, Noah Hollmann, Sebastian Pineda Arango, Josif Grabocka, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf/0eee14e64526e89aa03be830dcf8d0b5024fd405.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_sLkj91HIZU",
+      "paper_id": "sLkj91HIZU",
+      "title": "Transformers can optimally learn regression mixture models",
+      "authors": "Reese Pathak, Rajat Sen, Weihao Kong, Abhimanyu Das",
+      "paper_url": "https://openreview.net/pdf?id=sLkj91HIZU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4ikjWBs3tE",
+      "paper_id": "4ikjWBs3tE",
+      "title": "Transformers Learn Low Sensitivity Functions: Investigations and Implications",
+      "authors": "Bhavya Vasudeva, Deqing Fu, Tianyi Zhou, Elliott Kau, Youqi Huang, Vatsal Sharan",
+      "paper_url": "https://openreview.net/pdf?id=4ikjWBs3tE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_De4FYqjFueZ",
+      "paper_id": "De4FYqjFueZ",
+      "title": "Transformers Learn Shortcuts to Automata",
+      "authors": "Bingbin Liu, Jordan T. Ash, Surbhi Goel, Akshay Krishnamurthy, Cyril Zhang",
+      "paper_url": "https://openreview.net/pdf/6fceba3e100352173ef8f64b4743424fc99f1e8d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_AuAj4vRPkv",
+      "paper_id": "AuAj4vRPkv",
+      "title": "Transformers Provably Learn Two-Mixture of Linear Classification via Gradient Flow",
+      "authors": "Hongru Yang, Zhangyang Wang, Jason D. Lee, Yingbin Liang",
+      "paper_url": "https://openreview.net/pdf?id=AuAj4vRPkv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9cQB1Hwrtw",
+      "paper_id": "9cQB1Hwrtw",
+      "title": "Transformers Struggle to Learn to Search",
+      "authors": "Abulhair Saparov, Srushti Ajay Pawar, Shreyas Pimpalgaonkar, Nitish Joshi, Richard Yuanzhe Pang, Vishakh Padmakumar, Mehran Kazemi, Najoung Kim, He He",
+      "paper_url": "https://openreview.net/pdf?id=9cQB1Hwrtw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Vw24wtSddM",
+      "paper_id": "Vw24wtSddM",
+      "title": "Tree Cross Attention",
+      "authors": "Leo Feng, Frederick Tung, Hossein Hajimirsadeghi, Yoshua Bengio, Mohamed Osama Ahmed",
+      "paper_url": "https://openreview.net/pdf?id=Vw24wtSddM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_DWn1TEb2fK",
+      "paper_id": "DWn1TEb2fK",
+      "title": "Treeformer: Dense Gradient Trees for Efficient Attention Computation",
+      "authors": "Lovish Madaan, Srinadh Bhojanapalli, Himanshu Jain, Prateek Jain",
+      "paper_url": "https://openreview.net/pdf/edaf2059b7ab33806603c66b3effcaf422ef6644.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_V0A5g83gdQ_",
+      "paper_id": "V0A5g83gdQ_",
+      "title": "Tuformer: Data-driven Design of Transformers for Improved Generalization or Efficiency",
+      "authors": "Xiaoyu Liu, Jiahao Su, Furong Huang",
+      "paper_url": "https://openreview.net/pdf/aab5b494ebbbe94524322c8629b269dd1c4a75fe.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_YR3ETaElNK",
+      "paper_id": "YR3ETaElNK",
+      "title": "Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning",
+      "authors": "Bingchen Zhao, Haoqin Tu, Chen Wei, Jieru Mei, Cihang Xie",
+      "paper_url": "https://openreview.net/pdf?id=YR3ETaElNK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zjeHLSiNv1",
+      "paper_id": "zjeHLSiNv1",
+      "title": "Ultra-Sparse Memory Network",
+      "authors": "Zihao Huang, Qiyang Min, Hongzhi Huang, Yutao Zeng, Defa Zhu, Ran Guo, zhou Xun",
+      "paper_url": "https://openreview.net/pdf?id=zjeHLSiNv1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rIx1YXVWZb",
+      "paper_id": "rIx1YXVWZb",
+      "title": "Understanding Addition in Transformers",
+      "authors": "Philip Quirke, Fazl Barez",
+      "paper_url": "https://openreview.net/pdf?id=rIx1YXVWZb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_n1HD8M6WGn",
+      "paper_id": "n1HD8M6WGn",
+      "title": "Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning",
+      "authors": "Xuebo Liu, Longyue Wang, Derek F. Wong, Liang Ding, Lidia S. Chao, Zhaopeng Tu",
+      "paper_url": "https://openreview.net/pdf/aabc62bd94feebbc116e4d479e55dd7b0d856959.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_ZTFeSBIX9C",
+      "paper_id": "ZTFeSBIX9C",
+      "title": "Understanding and Improving Lexical Choice in Non-Autoregressive Translation",
+      "authors": "Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu",
+      "paper_url": "https://openreview.net/pdf/ba4c60d18c1a69639e2d9988925bcd11396ff936.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_hwSmPOAmhk",
+      "paper_id": "hwSmPOAmhk",
+      "title": "Understanding Factual Recall in Transformers via Associative Memories",
+      "authors": "Eshaan Nichani, Jason D. Lee, Alberto Bietti",
+      "paper_url": "https://openreview.net/pdf?id=hwSmPOAmhk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_f5H8WGLQm5",
+      "paper_id": "f5H8WGLQm5",
+      "title": "UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling",
+      "authors": "Haoyu Lu, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Wei Zhan, Masayoshi Tomizuka, Mingyu Ding",
+      "paper_url": "https://openreview.net/pdf?id=f5H8WGLQm5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_JGO8CvG5S9",
+      "paper_id": "JGO8CvG5S9",
+      "title": "Universal Approximation Under Constraints is Possible with Transformers",
+      "authors": "Anastasis Kratsios, Behnoosh Zamanlooy, Tianlin Liu, Ivan Dokmanić",
+      "paper_url": "https://openreview.net/pdf/5b02f8b0bb76868ca513d915646aba6e37d7727e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_RYrJqz44p4",
+      "paper_id": "RYrJqz44p4",
+      "title": "Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning",
+      "authors": "Chongjie Si, Zhiyi Shi, Shifan Zhang, Xiaokang Yang, Hanspeter Pfister, Wei Shen",
+      "paper_url": "https://openreview.net/pdf?id=RYrJqz44p4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_kvhzKz-_DMF",
+      "paper_id": "kvhzKz-_DMF",
+      "title": "Variational Information Bottleneck for Effective Low-Resource Fine-Tuning",
+      "authors": "Rabeeh Karimi mahabadi, Yonatan Belinkov, James Henderson",
+      "paper_url": "https://openreview.net/pdf/62f3ae7c05e30f870e3a6435b704afbd5c5290ba.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_NjNfLdxr3A",
+      "paper_id": "NjNfLdxr3A",
+      "title": "VeRA: Vector-based Random Matrix Adaptation",
+      "authors": "Dawid Jan Kopiczko, Tijmen Blankevoort, Yuki M Asano",
+      "paper_url": "https://openreview.net/pdf?id=NjNfLdxr3A",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HMrcv7Q4Ub",
+      "paper_id": "HMrcv7Q4Ub",
+      "title": "VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration",
+      "authors": "Dezhan Tu, Danylo Vashchilenko, Yuzhe Lu, Panpan Xu",
+      "paper_url": "https://openreview.net/pdf?id=HMrcv7Q4Ub",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YkmbJSHjj7",
+      "paper_id": "YkmbJSHjj7",
+      "title": "W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models",
+      "authors": "Shang Wang",
+      "paper_url": "https://openreview.net/pdf?id=YkmbJSHjj7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_OhauMUNW8T",
+      "paper_id": "OhauMUNW8T",
+      "title": "Wavelet-based Positional Representation for Long Context",
+      "authors": "Yui Oka, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito",
+      "paper_url": "https://openreview.net/pdf?id=OhauMUNW8T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AssIuHnmHX",
+      "paper_id": "AssIuHnmHX",
+      "title": "What Algorithms can Transformers Learn? A Study in Length Generalization",
+      "authors": "Hattie Zhou, Arwen Bradley, Etai Littwin, Noam Razin, Omid Saremi, Joshua M. Susskind, Samy Bengio, Preetum Nakkiran",
+      "paper_url": "https://openreview.net/pdf?id=AssIuHnmHX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3ddi7Uss2A",
+      "paper_id": "3ddi7Uss2A",
+      "title": "What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis",
+      "authors": "Weronika Ormaniec, Felix Dangel, Sidak Pal Singh",
+      "paper_url": "https://openreview.net/pdf?id=3ddi7Uss2A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_TGJSPbRpJX-",
+      "paper_id": "TGJSPbRpJX-",
+      "title": "What Makes Convolutional Models Great on Long Sequence Modeling?",
+      "authors": "Yuhong Li, Tianle Cai, Yi Zhang, Deming Chen, Debadeepta Dey",
+      "paper_url": "https://openreview.net/pdf/fdfaa06c7ace0e9ad63349721d8d79419929c11f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_STUGfUz8ob",
+      "paper_id": "STUGfUz8ob",
+      "title": "When can transformers reason with abstract symbols?",
+      "authors": "Enric Boix-Adserà, Omid Saremi, Emmanuel Abbe, Samy Bengio, Etai Littwin, Joshua M. Susskind",
+      "paper_url": "https://openreview.net/pdf?id=STUGfUz8ob",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_IPhm01y9a9",
+      "paper_id": "IPhm01y9a9",
+      "title": "Window Attention is Bugged: How not to Interpolate Position Embeddings",
+      "authors": "Daniel Bolya, Chaitanya Ryali, Judy Hoffman, Christoph Feichtenhofer",
+      "paper_url": "https://openreview.net/pdf?id=IPhm01y9a9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eFGQ97z5Cd",
+      "paper_id": "eFGQ97z5Cd",
+      "title": "Your Mixture-of-Experts LLM Is Secretly an Embedding Model for Free",
+      "authors": "Ziyue Li, Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf?id=eFGQ97z5Cd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tuzTN0eIO5",
+      "paper_id": "tuzTN0eIO5",
+      "title": "Zero Bubble (Almost) Pipeline Parallelism",
+      "authors": "Penghui Qi, Xinyi Wan, Guangxing Huang, Min Lin",
+      "paper_url": "https://openreview.net/pdf?id=tuzTN0eIO5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_myYzr50xBh",
+      "paper_id": "myYzr50xBh",
+      "title": "Zeroth-Order Fine-Tuning of LLMs with Transferable Static Sparsity",
+      "authors": "Wentao Guo, Jikai Long, Yimeng Zeng, Zirui Liu, Xinyu Yang, Yide Ran, Jacob R. Gardner, Osbert Bastani, Christopher De Sa, Xiaodong Yu, Beidi Chen, Zhaozhuo Xu",
+      "paper_url": "https://openreview.net/pdf?id=myYzr50xBh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_j9VVzueEbG",
+      "paper_id": "j9VVzueEbG",
+      "title": "ZETA: Leveraging $Z$-order Curves for Efficient Top-$k$ Attention",
+      "authors": "QIUHAO Zeng, Jerry Huang, Peng Lu, Gezheng Xu, Boxing Chen, Charles Ling, Boyu Wang",
+      "paper_url": "https://openreview.net/pdf?id=j9VVzueEbG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LEYUkvdUhq",
+      "paper_id": "LEYUkvdUhq",
+      "title": "ZipIt! Merging Models from Different Tasks without Training",
+      "authors": "George Stoica, Daniel Bolya, Jakob Brandt Bjorner, Pratik Ramesh, Taylor Hearn, Judy Hoffman",
+      "paper_url": "https://openreview.net/pdf?id=LEYUkvdUhq",
+      "venue": "iclr24"
+    }
+  ]
+}

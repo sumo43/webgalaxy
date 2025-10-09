@@ -1,0 +1,1573 @@
+{
+  "cluster_id": 113,
+  "papers": [
+    {
+      "id": "acl24_312",
+      "paper_id": "",
+      "title": "A Deep Dive into the Trade-Offs of Parameter-Efficient Preference Alignment Techniques",
+      "authors": "Megh Thakkar, Quentin Fournier, Matthew Riemer, Pin-Yu Chen, Amal Zouaq, Payel Das, Sarath Chandar",
+      "paper_url": "https://aclanthology.org/2024.acl-long.311.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_567",
+      "paper_id": "",
+      "title": "A Strategic Coordination Framework of Small LMs Matches Large LMs in Data Synthesis",
+      "authors": "Xin Gao, Qizhi Pei, Zinan Tang, Yu Li, Honglin Lin, Jiang Wu, Lijun Wu, Conghui He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.566.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_612",
+      "paper_id": "",
+      "title": "AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research",
+      "authors": "Yilun Zhao, Weiyuan Chen, Zhijian Xu, Manasi Patwardhan, Chengye Wang, Yixin Liu, Lovekesh Vig, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.611.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_163",
+      "paper_id": "",
+      "title": "Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models",
+      "authors": "Olga Loginova, Oleksandr Bezrukov, Ravi Shekhar, Alexey Kravets",
+      "paper_url": "https://aclanthology.org/2025.acl-long.162.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_858",
+      "paper_id": "",
+      "title": "Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents",
+      "authors": "Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.857.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_776",
+      "paper_id": "",
+      "title": "Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems",
+      "authors": "Hao Peng, Yunjia Qi, Xiaozhi Wang, Zijun Yao, Bin Xu, Lei Hou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.775.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_946",
+      "paper_id": "",
+      "title": "AgentRM: Enhancing Agent Generalization with Reward Modeling",
+      "authors": "Yu Xia, Jingru Fan, Weize Chen, Siyu Yan, Xin Cong, Zhong Zhang, Yaxi Lu, Yankai Lin, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.945.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_983",
+      "paper_id": "",
+      "title": "AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark",
+      "authors": "Jianlyu Chen, Nan Wang, Chaofan Li, Bo Wang, Shitao Xiao, Han Xiao, Hao Liao, Defu Lian, Zheng Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.982.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_625",
+      "paper_id": "",
+      "title": "AlignBench: Benchmarking Chinese Alignment of Large Language Models",
+      "authors": "Xiao Liu, Xuanyu Lei, Shengyuan Wang, Yue Huang, Andrew Feng, Bosi Wen, Jiale Cheng, Pei Ke, Yifan Xu, Weng Lam Tam, Xiaohan Zhang, Lichao Sun, Xiaotao Gu, Hongning Wang, Jing Zhang, Minlie Huang, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.624.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_973",
+      "paper_id": "",
+      "title": "AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation",
+      "authors": "Songming Zhang, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.972.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_618",
+      "paper_id": "",
+      "title": "Aligning Large Language Models by On-Policy Self-Judgment",
+      "authors": "Sangkyu Lee, Sungdong Kim, Ashkan Yousefpour, Minjoon Seo, Kang Min Yoo, Youngjae Yu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.617.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_573",
+      "paper_id": "",
+      "title": "Aligning Large Language Models with Human Preferences through Representation Engineering",
+      "authors": "Wenhao Liu, Xiaohua Wang, Muling Wu, Tianlong Li, Changze Lv, Zixuan Ling, Zhu JianHao, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.572.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_385",
+      "paper_id": "",
+      "title": "Aligning Large Language Models with Implicit Preferences from User-Generated Content",
+      "authors": "Zhaoxuan Tan, Zheng Li, Tianyi Liu, Haodong Wang, Hyokun Yun, Ming Zeng, Pei Chen, Zhihan Zhang, Yifan Gao, Ruijie Wang, Priyanka Nigam, Bing Yin, Meng Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.384.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1250",
+      "paper_id": "",
+      "title": "All That Glitters is Not Novel: Plagiarism in AI Generated Research",
+      "authors": "Tarun Gupta, Danish Pruthi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1249.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_615",
+      "paper_id": "",
+      "title": "An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing",
+      "authors": "Ziwei Chai, Guoyin Wang, Jing Su, Tianjie Zhang, Xuanwen Huang, Xuwu Wang, Jingjing Xu, Jianbo Yuan, Hongxia Yang, Fei Wu, Yang Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.614.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_902",
+      "paper_id": "",
+      "title": "AntiLeakBench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge",
+      "authors": "Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.901.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_384",
+      "paper_id": "",
+      "title": "Are Experts Needed? On Human Evaluation of Counselling Reflection Generation",
+      "authors": "Zixiu Wu, Simone Balloccu, Ehud Reiter, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni",
+      "paper_url": "https://aclanthology.org/2023.acl-long.382.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_517",
+      "paper_id": "",
+      "title": "Are LLM-based Evaluators Confusing NLG Quality Criteria?",
+      "authors": "Xinyu Hu, Mingqi Gao, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, Xiaojun Wan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.516.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_469",
+      "paper_id": "",
+      "title": "Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards",
+      "authors": "Haoxiang Wang, Yong Lin, Wei Xiong, Rui Yang, Shizhe Diao, Shuang Qiu, Han Zhao, Tong Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.468.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_556",
+      "paper_id": "",
+      "title": "Artifacts or Abduction: How Do LLMs Answer Multiple-Choice Questions Without the Question?",
+      "authors": "Nishant Balepur, Abhilasha Ravichander, Rachel Rudinger",
+      "paper_url": "https://aclanthology.org/2024.acl-long.555.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_578",
+      "paper_id": "",
+      "title": "Ask Again, Then Fail: Large Language Models’ Vacillations in Judgment",
+      "authors": "Qiming Xie, Zengzhi Wang, Yi Feng, Rui Xia",
+      "paper_url": "https://aclanthology.org/2024.acl-long.577.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_53",
+      "paper_id": "",
+      "title": "ATLANTIS: Weak-to-Strong Learning via Importance Sampling",
+      "authors": "Yi Liu, Guoyin Wang, Shicheng Li, Feifan Song, Xu Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.52.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_224",
+      "paper_id": "",
+      "title": "Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions",
+      "authors": "Ruochen Zhao, Wenxuan Zhang, Yew Ken Chia, Weiwen Xu, Deli Zhao, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2025.acl-long.223.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_315",
+      "paper_id": "",
+      "title": "AutoMedEval: Harnessing Language Models for Automatic Medical Capability Evaluation",
+      "authors": "Xiechi Zhang, Zetian Ouyang, Linlin Wang, Gerard De Melo, Zhu Cao, Xiaoling Wang, Ya Zhang, Yanfeng Wang, Liang He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.314.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_991",
+      "paper_id": "",
+      "title": "AutoMixAlign: Adaptive Data Mixing for Multi-Task Preference Optimization in LLMs",
+      "authors": "Nicholas E. Corrado, Julian Katz-Samuels, Adithya M Devraj, Hyokun Yun, Chao Zhang, Yi Xu, Yi Pan, Bing Yin, Trishul Chilimbi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.990.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_663",
+      "paper_id": "",
+      "title": "Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs",
+      "authors": "Arash Ahmadian, Chris Cremer, Matthias Gallé, Marzieh Fadaee, Julia Kreutzer, Olivier Pietquin, Ahmet Üstün, Sara Hooker",
+      "paper_url": "https://aclanthology.org/2024.acl-long.662.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1249",
+      "paper_id": "",
+      "title": "Balancing the Budget: Understanding Trade-offs Between Supervised and Preference-Based Finetuning",
+      "authors": "Mohit Raghavendra, Junmo Kang, Alan Ritter",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1248.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_847",
+      "paper_id": "",
+      "title": "BatchEval: Towards Human-like Text Evaluation",
+      "authors": "Peiwen Yuan, Shaoxiong Feng, Yiwei Li, Xinglin Wang, Boyuan Pan, Heda Wang, Yao Hu, Kan Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.846.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_924",
+      "paper_id": "",
+      "title": "BehaviorBox: Automated Discovery of Fine-Grained Performance Differences Between Language Models",
+      "authors": "Lindia Tjuatja, Graham Neubig",
+      "paper_url": "https://aclanthology.org/2025.acl-long.923.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_760",
+      "paper_id": "",
+      "title": "Beyond One-Size-Fits-All: Tailored Benchmarks for Efficient Evaluation",
+      "authors": "Peiwen Yuan, Yueqi Zhang, Shaoxiong Feng, Yiwei Li, Xinglin Wang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.759.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_94",
+      "paper_id": "",
+      "title": "Binary Classifier Optimization for Large Language Model Alignment",
+      "authors": "Seungjae Jung, Gunsoo Han, Daniel Wontae Nam, Kyoung-Woon On",
+      "paper_url": "https://aclanthology.org/2025.acl-long.93.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_177",
+      "paper_id": "",
+      "title": "Black-Box Prompt Optimization: Aligning Large Language Models without Model Training",
+      "authors": "Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.176.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1323",
+      "paper_id": "",
+      "title": "Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation",
+      "authors": "Guofu Xie, Xiao Zhang, Ting Yao, Yunsheng Shi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1322.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_809",
+      "paper_id": "",
+      "title": "CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias in LLMs-as-Judges",
+      "authors": "Haitao Li, Junjie Chen, Qingyao Ai, Zhumin Chu, Yujia Zhou, Qian Dong, Yiqun Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.808.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_780",
+      "paper_id": "",
+      "title": "Can External Validation Tools Improve Annotation Quality for LLM-as-a-Judge?",
+      "authors": "Arduin Findeis, Floris Weers, Guoli Yin, Ke Ye, Ruoming Pang, Tom Gunter",
+      "paper_url": "https://aclanthology.org/2025.acl-long.779.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_872",
+      "paper_id": "",
+      "title": "Can Large Language Models Be an Alternative to Human Evaluations?",
+      "authors": "Cheng-Han Chiang, Hung-yi Lee",
+      "paper_url": "https://aclanthology.org/2023.acl-long.870.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_633",
+      "paper_id": "",
+      "title": "Can Large Language Models Understand Internet Buzzwords Through User-Generated Content",
+      "authors": "Chen Huang, Junkai Luo, Xinzuo Wang, Wenqiang Lei, Jiancheng Lv",
+      "paper_url": "https://aclanthology.org/2025.acl-long.632.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1010",
+      "paper_id": "",
+      "title": "Can LLMs Identify Critical Limitations within Scientific Research? A Systematic Evaluation on AI Research Papers",
+      "authors": "Zhijian Xu, Yilun Zhao, Manasi Patwardhan, Lovekesh Vig, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1009.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1581",
+      "paper_id": "",
+      "title": "CFBench: A Comprehensive Constraints-Following Benchmark for LLMs",
+      "authors": "Tao Zhang, ChengLIn Zhu, Yanjun Shen, Wenjing Luo, Yan Zhang, Hao Liang, Tao Zhang, Fan Yang, Mingan Lin, Yujing Qiao, Weipeng Chen, Bin Cui, Wentao Zhang, Zenan Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1581.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_738",
+      "paper_id": "",
+      "title": "Cheems: A Practical Guidance for Building and Evaluating Chinese Reward Models from Scratch",
+      "authors": "Xueru Wen, Jie Lou, Zichao Li, Yaojie Lu, XingYu XingYu, Yuqiu Ji, Guohai Xu, Hongyu Lin, Ben He, Xianpei Han, Le Sun, Debing Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.737.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_942",
+      "paper_id": "",
+      "title": "Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models",
+      "authors": "Yancheng He, Shilong Li, Jiaheng Liu, Yingshui Tan, Weixun Wang, Hui Huang, Xingyuan Bu, Hangyu Guo, Chengwei Hu, Boren Zheng, Zhuoran Lin, Dekai Sun, Zhicheng Zheng, Wenbo Su, Bo Zheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.941.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1524",
+      "paper_id": "",
+      "title": "Completing A Systematic Review in Hours instead of Months with Interactive AI Agents",
+      "authors": "Rui Qiu, Shijie Chen, Yu Su, Po-Yin Yen, Han Wei Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1523.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1092",
+      "paper_id": "",
+      "title": "Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement",
+      "authors": "Maosongcao Maosongcao, Taolin Zhang, Mo Li, Chuyu Zhang, Yunxin Liu, Conghui He, Haodong Duan, Songyang Zhang, Kai Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1091.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_64",
+      "paper_id": "",
+      "title": "ConSiDERS-The-Human Evaluation Framework: Rethinking Human Evaluation for Generative Large Language Models",
+      "authors": "Aparna Elangovan, Ling Liu, Lei Xu, Sravan Babu Bodapati, Dan Roth",
+      "paper_url": "https://aclanthology.org/2024.acl-long.63.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1585",
+      "paper_id": "",
+      "title": "ConsistencyChecker: Tree-based Evaluation of LLM Generalization Capabilities",
+      "authors": "Zhaochen Hong, Haofei Yu, Jiaxuan You",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1585.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_522",
+      "paper_id": "",
+      "title": "Cool-Fusion: Fuse Large Language Models without Training",
+      "authors": "Cong Liu, Xiaojun Quan, Yan Pan, Weigang Wu, Xu Chen, Liang Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.521.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1086",
+      "paper_id": "",
+      "title": "CoreEval: Automatically Building Contamination-Resilient Datasets with Real-World Knowledge toward Reliable LLM Evaluation",
+      "authors": "Jingqian Zhao, Bingbing Wang, Geng Tu, Yice Zhang, Qianlong Wang, Bin Liang, Jing Li, Ruifeng Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1085.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1268",
+      "paper_id": "",
+      "title": "CrafText Benchmark: Advancing Instruction Following in Complex Multimodal Open-Ended World",
+      "authors": "Zoya Volovikova, Gregory Gorbov, Petr Kuderov, Aleksandr Panov, Alexey Skrynnik",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1267.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_705",
+      "paper_id": "",
+      "title": "CritiqueLLM: Towards an Informative Critique Generation Model for Evaluation of Large Language Model Generation",
+      "authors": "Pei Ke, Bosi Wen, Andrew Feng, Xiao Liu, Xuanyu Lei, Jiale Cheng, Shengyuan Wang, Aohan Zeng, Yuxiao Dong, Hongning Wang, Jie Tang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.704.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1420",
+      "paper_id": "",
+      "title": "Cross-Lingual Auto Evaluation for Assessing Multilingual LLMs",
+      "authors": "Sumanth Doddapaneni, Mohammed Safi Ur Rahman Khan, Dilip Venkatesh, Raj Dabre, Anoop Kunchukuttan, Mitesh M Khapra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1419.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_253",
+      "paper_id": "",
+      "title": "Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge",
+      "authors": "Qiyuan Zhang, Yufei Wang, Yuxin Jiang, Liangyou Li, Chuhan Wu, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.252.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1147",
+      "paper_id": "",
+      "title": "Curiosity-Driven Reinforcement Learning from Human Feedback",
+      "authors": "Haoran Sun, Yekun Chai, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1146.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_408",
+      "paper_id": "",
+      "title": "Data Laundering: Artificially Boosting Benchmark Results through Knowledge Distillation",
+      "authors": "Jonibek Mansurov, Akhmed Sakip, Alham Fikri Aji",
+      "paper_url": "https://aclanthology.org/2025.acl-long.407.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_209",
+      "paper_id": "",
+      "title": "DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows",
+      "authors": "Ajay Patel, Colin Raffel, Chris Callison-Burch",
+      "paper_url": "https://aclanthology.org/2024.acl-long.208.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_453",
+      "paper_id": "",
+      "title": "DavIR: Data Selection via Implicit Reward for Large Language Models",
+      "authors": "Haotian Zhou, Tingkai Liu, Qianli Ma, Yufeng Zhang, Jianbo Yuan, Pengfei Liu, Yang You, Hongxia Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.452.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1275",
+      "paper_id": "",
+      "title": "DeAL: Decoding-time Alignment for Large Language Models",
+      "authors": "James Y. Huang, Sailik Sengupta, Daniele Bonadiman, Yi-An Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchhoff, Dan Roth",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1274.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1421",
+      "paper_id": "",
+      "title": "DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process",
+      "authors": "Minjun Zhu, Yixuan Weng, Linyi Yang, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1420.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_927",
+      "paper_id": "",
+      "title": "DiffPO: Diffusion-styled Preference Optimization for Inference Time Alignment of Large Language Models",
+      "authors": "Ruizhe Chen, Wenhao Chai, Zhifei Yang, Xiaotian Zhang, Ziyang Wang, Tony Quek, Joey Tianyi Zhou, Soujanya Poria, Zuozhu Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.926.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_524",
+      "paper_id": "",
+      "title": "Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation",
+      "authors": "Aiwei Liu, Haoping Bai, Zhiyun Lu, Xiang Kong, Xiaoming Wang, Jiulong Shan, Meng Cao, Lijie Wen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.523.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_100",
+      "paper_id": "",
+      "title": "Dissecting Human and LLM Preferences",
+      "authors": "Junlong Li, Fan Zhou, Shichao Sun, Yikai Zhang, Hai Zhao, Pengfei Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.99.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_471",
+      "paper_id": "",
+      "title": "Does Context Matter? ContextualJudgeBench for Evaluating LLM-based Judges in Contextual Settings",
+      "authors": "Austin Xu, Srijan Bansal, Yifei Ming, Semih Yavuz, Shafiq Joty",
+      "paper_url": "https://aclanthology.org/2025.acl-long.470.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1057",
+      "paper_id": "",
+      "title": "Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback",
+      "authors": "Jiakang Yuan, Xiangchao Yan, Bo Zhang, Tao Chen, Botian Shi, Wanli Ouyang, Yu Qiao, Lei Bai, Bowen Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1056.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_213",
+      "paper_id": "",
+      "title": "Dynamic and Generalizable Process Reward Modeling",
+      "authors": "Zhangyue Yin, Qiushi Sun, Zhiyuan Zeng, Qinyuan Cheng, Xipeng Qiu, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.212.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_862",
+      "paper_id": "",
+      "title": "ECBD: Evidence-Centered Benchmark Design for NLP",
+      "authors": "Yu Lu Liu, Su Lin Blodgett, Jackie Cheung, Q. Vera Liao, Alexandra Olteanu, Ziang Xiao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.861.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1505",
+      "paper_id": "",
+      "title": "Efficient Safety Alignment of Large Language Models via Preference Re-ranking and Representation-based Reward Modeling",
+      "authors": "Deng Qiyuan, Xuefeng Bai, Kehai Chen, Yaowei Wang, Liqiang Nie, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1504.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1166",
+      "paper_id": "",
+      "title": "Enhancing Machine Translation with Self-Supervised Preference Data",
+      "authors": "Haoxiang Sun, Ruize Gao, Pei Zhang, Baosong Yang, Rui Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1165.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_232",
+      "paper_id": "",
+      "title": "Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding",
+      "authors": "Kuo Liao, Shuang Li, Meng Zhao, Liqun Liu, Mengge Xue, Zhenyu Hu, Honglin Han, Chengguo Yin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.231.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_193",
+      "paper_id": "",
+      "title": "Establishing Trustworthy LLM Evaluation via Shortcut Neuron Analysis",
+      "authors": "Kejian Zhu, Shangqing Tu, Zhuoran Jin, Lei Hou, Juanzi Li, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.192.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_321",
+      "paper_id": "",
+      "title": "Evaluating Language Models as Synthetic Data Generators",
+      "authors": "Seungone Kim, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig",
+      "paper_url": "https://aclanthology.org/2025.acl-long.320.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_309",
+      "paper_id": "",
+      "title": "Evaluating Open-Domain Question Answering in the Era of Large Language Models",
+      "authors": "Ehsan Kamalloo, Nouha Dziri, Charles Clarke, Davood Rafiei",
+      "paper_url": "https://aclanthology.org/2023.acl-long.307.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_347",
+      "paper_id": "",
+      "title": "Evaluation Examples are not Equally Informative: How should that change NLP Leaderboards?",
+      "authors": "Pedro Rodriguez, Joe Barrow, Alexander Miserlis Hoyle, John P. Lalor, Robin Jia, Jordan Boyd-Graber",
+      "paper_url": "https://aclanthology.org/2021.acl-long.346.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_561",
+      "paper_id": "",
+      "title": "Examining the robustness of LLM evaluation to the distributional assumptions of benchmarks",
+      "authors": "Charlotte Siska, Katerina Marazopoulou, Melissa Ailem, James Bono",
+      "paper_url": "https://aclanthology.org/2024.acl-long.560.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1052",
+      "paper_id": "",
+      "title": "Exclusion of Thought: Mitigating Cognitive Load in Large Language Models for Enhanced Reasoning in Multiple-Choice Tasks",
+      "authors": "Qihang Fu, Yongbin Qin, Ruizhang Huang, Yanping Chen, Yulin Zhou, Lintao Long",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1051.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_521",
+      "paper_id": "",
+      "title": "ExpeTrans: LLMs Are Experiential Transfer Learners",
+      "authors": "Jinglong Gao, Xiao Ding, Lingxiao Zou, Bibo Cai, Bing Qin, Ting Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.520.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_729",
+      "paper_id": "",
+      "title": "Exploring and Verbalizing Academic Ideas by Concept Co-occurrence",
+      "authors": "Yi Xu, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang, Chenghu Zhou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.727.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_617",
+      "paper_id": "",
+      "title": "Exploring Precision and Recall to assess the quality and diversity of LLMs",
+      "authors": "Florian Le Bronnec, Alexandre Verine, Benjamin Negrevergne, Yann Chevaleyre, Alexandre Allauzen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.616.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_508",
+      "paper_id": "",
+      "title": "F-Eval: Asssessing Fundamental Abilities with Refined Evaluation Methods",
+      "authors": "Yu Sun, Keyuchen Keyuchen, Shujie Wang, Peiji Li, Qipeng Guo, Hang Yan, Xipeng Qiu, Xuanjing Huang, Dahua Lin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.507.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_616",
+      "paper_id": "",
+      "title": "Finding the Sweet Spot: Preference Data Construction for Scaling Preference Optimization",
+      "authors": "Yao Xiao, Hai Ye, Linyao Chen, Hwee Tou Ng, Lidong Bing, Xiaoli Li, Roy Ka-Wei Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.615.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_41",
+      "paper_id": "",
+      "title": "FOFO: A Benchmark to Evaluate LLMs’ Format-Following Capability",
+      "authors": "Congying Xia, Chen Xing, Jiangshu Du, Xinyi Yang, Yihao Feng, Ran Xu, Wenpeng Yin, Caiming Xiong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.40.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_258",
+      "paper_id": "",
+      "title": "FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models",
+      "authors": "Yuxin Jiang, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.257.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_823",
+      "paper_id": "",
+      "title": "FRACTAL: Fine-Grained Scoring from Aggregate Text Labels",
+      "authors": "Yukti Makhija, Priyanka Agrawal, Rishi Saket, Aravindan Raghuveer",
+      "paper_url": "https://aclanthology.org/2025.acl-long.822.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1309",
+      "paper_id": "",
+      "title": "From Lists to Emojis: How Format Bias Affects Model Alignment",
+      "authors": "Xuanchang Zhang, Wei Xiong, Lichang Chen, Tianyi Zhou, Heng Huang, Tong Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1308.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_947",
+      "paper_id": "",
+      "title": "From Outcomes to Processes: Guiding PRM Learning from ORM for Inference-Time Alignment",
+      "authors": "Bin Xie, Bingbing Xu, Yige Yuan, Shengmao Zhu, Huawei Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.946.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_518",
+      "paper_id": "",
+      "title": "From Real to Synthetic: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding",
+      "authors": "Chiwei Zhu, Benfeng Xu, Xiaorui Wang, Zhendong Mao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.517.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_600",
+      "paper_id": "",
+      "title": "Fundamental Capabilities of Large Language Models and their Applications in Domain Scenarios: A Survey",
+      "authors": "Jiawei Li, Yizhe Yang, Yu Bai, Xiaofeng Zhou, Yinghao Li, Huashan Sun, Yuhang Liu, Xingpeng Si, Yuhao Ye, Yixiao Wu, Yiguan Lin, Bin Xu, Bowen Ren, Chong Feng, Yang Gao, Heyan Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.599.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_43",
+      "paper_id": "",
+      "title": "Fusing Highly Specialized Language Models for Comprehensive Expertise",
+      "authors": "Ning Ding, Yulin Chen, Ganqu Cui, Xingtai Lv, Weilin Zhao, Kaiyan Zhang, Ruobing Xie, Bowen Zhou, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.42.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_14",
+      "paper_id": "",
+      "title": "GAPO: Learning Preferential Prompt through Generative Adversarial Policy Optimization",
+      "authors": "Zhouhong Gu, Xingzhou Chen, Xiaoran Shi, Tao Wang, Suhang Zheng, Tianyu Li, Hongwei Feng, Yanghua Xiao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.13.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1298",
+      "paper_id": "",
+      "title": "Generative Reward Modeling via Synthetic Criteria Preference Learning",
+      "authors": "Xiaobo Liang, Haoke Zhang, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1297.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_550",
+      "paper_id": "",
+      "title": "Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models",
+      "authors": "Chengao Li, Hanyu Zhang, Yunkun Xu, Hongyan Xue, Xiang Ao, Qing He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.549.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_535",
+      "paper_id": "",
+      "title": "GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning",
+      "authors": "Qingchen Yu, Zifan Zheng, Ding Chen, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.534.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_558",
+      "paper_id": "",
+      "title": "GuideBench: Benchmarking Domain-Oriented Guideline Following for LLM Agents",
+      "authors": "Lingxiao Diao, Xinyue Xu, Wanxuan Sun, Cheng Yang, Zhuosheng Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.557.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_925",
+      "paper_id": "",
+      "title": "HAF-RM: A Hybrid Alignment Framework for Reward Model Training",
+      "authors": "Shujun Liu, Xiaoyu Shen, Yuhang Lai, Siyuan Wang, Shengbin Yue, Zengfeng Huang, Xuanjing Huang, Zhongyu Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.924.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_414",
+      "paper_id": "",
+      "title": "HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition",
+      "authors": "Yuxuan Liu, Tianchi Yang, Shaohan Huang, Zihan Zhang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, Qi Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.413.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1255",
+      "paper_id": "",
+      "title": "Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback",
+      "authors": "Hannah Rashkin, Elizabeth Clark, Fantine Huot, Mirella Lapata",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1254.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1247",
+      "paper_id": "",
+      "title": "HelpSteer3: Human-Annotated Feedback and Edit Data to Empower Inference-Time Scaling in Open-Ended General-Domain Tasks",
+      "authors": "Zhilin Wang, Jiaqi Zeng, Olivier Delalleau, Daniel Egert, Ellie Evans, Hoo-Chang Shin, Felipe Soares, Yi Dong, Oleksii Kuchaiev",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1246.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_13",
+      "paper_id": "",
+      "title": "How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition",
+      "authors": "Guanting Dong, Hongyi Yuan, Keming Lu, Chengpeng Li, Mingfeng Xue, Dayiheng Liu, Wei Wang, Zheng Yuan, Chang Zhou, Jingren Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.12.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_785",
+      "paper_id": "",
+      "title": "How to Mitigate Overfitting in Weak-to-strong Generalization?",
+      "authors": "Junhao Shi, Qinyuan Cheng, Zhaoye Fei, Yining Zheng, Qipeng Guo, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.784.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_356",
+      "paper_id": "",
+      "title": "Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback",
+      "authors": "Lester James Validad Miranda, Yizhong Wang, Yanai Elazar, Sachin Kumar, Valentina Pyatkin, Faeze Brahman, Noah A. Smith, Hannaneh Hajishirzi, Pradeep Dasigi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.355.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_456",
+      "paper_id": "",
+      "title": "Identifying Cellular Niches in Spatial Transcriptomics: An Investigation into the Capabilities of Large Language Models",
+      "authors": "Huanhuan Wei, Xiao Luo, Hongyi Yu, Jinping Liang, Luning Yang, Lixing Lin, Alexandra Popa, Xiting Yan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.455.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_336",
+      "paper_id": "",
+      "title": "Identifying Reliable Evaluation Metrics for Scientific Text Revision",
+      "authors": "Leane Jourdan, Nicolas Hernandez, Florian Boudin, Richard Dufour",
+      "paper_url": "https://aclanthology.org/2025.acl-long.335.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1239",
+      "paper_id": "",
+      "title": "Improving Automatic Evaluation of Large Language Models (LLMs) in Biomedical Relation Extraction via LLMs-as-the-Judge",
+      "authors": "Md Tahmid Rahman Laskar, Israt Jahan, Elham Dolatabadi, Chun Peng, Enamul Hoque, Jimmy Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1238.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_445",
+      "paper_id": "",
+      "title": "Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes",
+      "authors": "Sharan Maiya, Yinhong Liu, Ramit Debnath, Anna Korhonen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.444.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1336",
+      "paper_id": "",
+      "title": "InspireDebate: Multi-Dimensional Subjective-Objective Evaluation-Guided Reasoning and Optimization for Debating",
+      "authors": "Fuyu Wang, Jiangtong Li, Kun Zhu, Changjun Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1335.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_636",
+      "paper_id": "",
+      "title": "Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models",
+      "authors": "Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.635.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_599",
+      "paper_id": "",
+      "title": "Interpretable User Satisfaction Estimation for Conversational Systems with Large Language Models",
+      "authors": "Ying-Chun Lin, Jennifer Neville, Jack Stokes, Longqi Yang, Tara Safavi, Mengting Wan, Scott Counts, Siddharth Suri, Reid Andersen, Xiaofeng Xu, Deepak Gupta, Sujay Kumar Jauhar, Xia Song, Georg Buscher, Saurabh Tiwary, Brent Hecht, Jaime Teevan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.598.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_7",
+      "paper_id": "",
+      "title": "Intuitive Fine-Tuning: Towards Simplifying Alignment into a Single Process",
+      "authors": "Ermo Hua, Biqing Qi, Kaiyan Zhang, Kai Tian, Xingtai Lv, Ning Ding, Bowen Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.6.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_496",
+      "paper_id": "",
+      "title": "InvestAlign: Overcoming Data Scarcity in Aligning Large Language Models with Investor Decision-Making Processes Under Herd Behavior",
+      "authors": "Huisheng Wang, Zhuoshi Pan, Hangjing Zhang, Mingxiao Liu, Hanqing Gao, H. Vicky Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.495.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1080",
+      "paper_id": "",
+      "title": "IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization",
+      "authors": "Xinghua Zhang, Haiyang Yu, Cheng Fu, Fei Huang, Yongbin Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1079.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_955",
+      "paper_id": "",
+      "title": "IPO: Your Language Model is Secretly a Preference Classifier",
+      "authors": "Shivank Garg, Ayush Singh, Shweta Singh, Paras Chopra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.954.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_628",
+      "paper_id": "",
+      "title": "Is GPT-3 a Good Data Annotator?",
+      "authors": "Bosheng Ding, Chengwei Qin, Linlin Liu, Yew Ken Chia, Boyang Li, Shafiq Joty, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2023.acl-long.626.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_35",
+      "paper_id": "",
+      "title": "JuStRank: Benchmarking LLM Judges for System Ranking",
+      "authors": "Ariel Gera, Odellia Boni, Yotam Perlitz, Roy Bar-Haim, Lilach Eden, Asaf Yehudai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.34.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_326",
+      "paper_id": "",
+      "title": "KIEval: A Knowledge-grounded Interactive Evaluation Framework for Large Language Models",
+      "authors": "Zhuohao Yu, Chang Gao, Wenjin Yao, Yidong Wang, Wei Ye, Jindong Wang, Xing Xie, Yue Zhang, Shikun Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.325.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_457",
+      "paper_id": "",
+      "title": "Label-Efficient Model Selection for Text Generation",
+      "authors": "Shir Ashury Tahan, Ariel Gera, Benjamin Sznajder, Leshem Choshen, Liat Ein-Dor, Eyal Shnarch",
+      "paper_url": "https://aclanthology.org/2024.acl-long.456.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_512",
+      "paper_id": "",
+      "title": "Large Language Models are not Fair Evaluators",
+      "authors": "Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Lingpeng Kong, Qi Liu, Tianyu Liu, Zhifang Sui",
+      "paper_url": "https://aclanthology.org/2024.acl-long.511.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_702",
+      "paper_id": "",
+      "title": "Learning to Decode Collaboratively with Multiple Language Models",
+      "authors": "Zejiang Shen, Hunter Lang, Bailin Wang, Yoon Kim, David Sontag",
+      "paper_url": "https://aclanthology.org/2024.acl-long.701.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_804",
+      "paper_id": "",
+      "title": "LIFBench: Evaluating the Instruction Following Performance and Stability of Large Language Models in Long-Context Scenarios",
+      "authors": "Xiaodong Wu, Minhao Wang, Yichen Liu, Xiaoming Shi, He Yan, Lu Xiangju, Junmin Zhu, Wei Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.803.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_13",
+      "paper_id": "",
+      "title": "Literature Meets Data: A Synergistic Approach to Hypothesis Generation",
+      "authors": "Haokun Liu, Yangqiaoyu Zhou, Mingxuan Li, Chenfei Yuan, Chenhao Tan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.12.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_353",
+      "paper_id": "",
+      "title": "LLaMA Pro: Progressive LLaMA with Block Expansion",
+      "authors": "Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ying Shan, Ping Luo",
+      "paper_url": "https://aclanthology.org/2024.acl-long.352.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_794",
+      "paper_id": "",
+      "title": "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion",
+      "authors": "Dongfu Jiang, Xiang Ren, Bill Yuchen Lin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.792.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_746",
+      "paper_id": "",
+      "title": "LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts",
+      "authors": "Helia Hashemi, Jason Eisner, Corby Rosset, Benjamin Van Durme, Chris Kedzie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.745.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_958",
+      "paper_id": "",
+      "title": "LLMs can be easily Confused by Instructional Distractions",
+      "authors": "Yerin Hwang, Yongil Kim, Jahyun Koo, Taegwan Kang, Hyunkyung Bae, Kyomin Jung",
+      "paper_url": "https://aclanthology.org/2025.acl-long.957.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_424",
+      "paper_id": "",
+      "title": "LLMs can Perform Multi-Dimensional Analytic Writing Assessments: A Case Study of L2 Graduate-Level Academic English Writing",
+      "authors": "Zhengxiang Wang, Veronika Makarova, Zhi Li, Jordan Kodner, Owen Rambow",
+      "paper_url": "https://aclanthology.org/2025.acl-long.423.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_286",
+      "paper_id": "",
+      "title": "Lost in the Context: Insufficient and Distracted Attention to Contexts in Preference Modeling",
+      "authors": "Shihan Dou, Jiayi Chen, Chenhao Huang, Feng Chen, Wei Chengzhi, Huiyuan Zheng, Shichun Liu, Yan Liu, Chenxiao Liu, Chao Xin, Lin Yan, Zongzhang Zhang, Tao Gui, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.285.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_352",
+      "paper_id": "",
+      "title": "M-MAD: Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation",
+      "authors": "Zhaopeng Feng, Jiayuan Su, Jiamei Zheng, Jiahan Ren, Yan Zhang, Jian Wu, Hongwei Wang, Zuozhu Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.351.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_4",
+      "paper_id": "",
+      "title": "M-RewardBench: Evaluating Reward Models in Multilingual Settings",
+      "authors": "Srishti Gureja, Lester James Validad Miranda, Shayekh Bin Islam, Rishabh Maheshwary, Drishti Sharma, Gusti Triandi Winata, Nathan Lambert, Sebastian Ruder, Sara Hooker, Marzieh Fadaee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.3.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1369",
+      "paper_id": "",
+      "title": "Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System",
+      "authors": "Haoyang Su, Renqi Chen, Shixiang Tang, Zhenfei Yin, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1368.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1584",
+      "paper_id": "",
+      "title": "Mapping 1,000+ Language Models via the Log-Likelihood Vector",
+      "authors": "Momose Oyama, Hiroaki Yamagiwa, Yusuke Takase, Hidetoshi Shimodaira",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1584.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_699",
+      "paper_id": "",
+      "title": "MaXIFE: Multilingual and Cross-lingual Instruction Following Evaluation",
+      "authors": "Yile Liu, Ziwei Ma, Xiu Jiang, Jinglu Hu, ChangJing ChangJing, Liang Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.698.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_535",
+      "paper_id": "",
+      "title": "MERA: A Comprehensive LLM Evaluation in Russian",
+      "authors": "Alena Fenogenova, Artem Chervyakov, Nikita Martynov, Anastasia Kozlova, Maria Tikhonova, Albina Akhmetgareeva, Anton Emelyanov, Denis Shevelev, Pavel Lebedev, Leonid Sinev, Ulyana Isaeva, Katerina Kolomeytseva, Daniil Moskovskiy, Elizaveta Goncharova, Nikita Savushkin, Polina Mikhailova, Anastasia Minaeva, Denis Dimitrov, Alexander Panchenko, Sergey Markov",
+      "paper_url": "https://aclanthology.org/2024.acl-long.534.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_260",
+      "paper_id": "",
+      "title": "Mitigating Selection Bias with Node Pruning and Auxiliary Options",
+      "authors": "Hyeong Kyu Choi, Weijie Xu, Chi Xue, Stephanie Eckman, Chandan K. Reddy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.259.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_152",
+      "paper_id": "",
+      "title": "Mixture of insighTful Experts (MoTE): The Synergy of Reasoning Chains and Expert Mixtures in Self-Alignment",
+      "authors": "Zhili Liu, Yunhao Gou, Kai Chen, Lanqing Hong, Jiahui Gao, Fei Mi, Yu Zhang, Zhenguo Li, Xin Jiang, Qun Liu, James Kwok",
+      "paper_url": "https://aclanthology.org/2025.acl-long.151.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_657",
+      "paper_id": "",
+      "title": "MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark",
+      "authors": "Qihao Zhao, Yangyu Huang, Tengchao Lv, Lei Cui, Qinzheng Sun, Shaoguang Mao, Xin Zhang, Ying Xin, Qiufeng Yin, Scarlett Li, Furu Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.656.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_52",
+      "paper_id": "",
+      "title": "Model Extrapolation Expedites Alignment",
+      "authors": "Chujie Zheng, Ziqi Wang, Heng Ji, Minlie Huang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.51.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1150",
+      "paper_id": "",
+      "title": "MPO: Multilingual Safety Alignment via Reward Gap Optimization",
+      "authors": "Weixiang Zhao, Yulin Hu, Yang Deng, Tongtong Wu, Wenxuan Zhang, Jiahe Guo, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1149.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_305",
+      "paper_id": "",
+      "title": "Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?",
+      "authors": "Guijin Son, SangWon Baek, Sangdae Nam, Ilgyun Jeong, Seungone Kim",
+      "paper_url": "https://aclanthology.org/2024.acl-long.304.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_524",
+      "paper_id": "",
+      "title": "MuSC: Improving Complex Instruction Following with Multi-granularity Self-Contrastive Training",
+      "authors": "Hui Huang, Jiaheng Liu, Yancheng He, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.523.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_795",
+      "paper_id": "",
+      "title": "Mutual-Taught for Co-adapting Policy and Reward Models",
+      "authors": "Tianyuan Shi, Canbin Huang, Fanqi Wan, Longguang Zhong, Ziyi Yang, Weizhou Shen, Xiaojun Quan, Ming Yan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.794.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_539",
+      "paper_id": "",
+      "title": "NewsBench: A Systematic Evaluation Framework for Assessing Editorial Capabilities of Large Language Models in Chinese Journalism",
+      "authors": "Miao Li, Ming-Bin Chen, Bo Tang, ShengbinHou ShengbinHou, Pengyu Wang, Haiying Deng, Zhiyu Li, Feiyu Xiong, Keming Mao, Cheng Peng, Yi Luo",
+      "paper_url": "https://aclanthology.org/2024.acl-long.538.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_624",
+      "paper_id": "",
+      "title": "Nudging: Inference-time Alignment of LLMs via Guided Decoding",
+      "authors": "Yu Fei, Yasaman Razeghi, Sameer Singh",
+      "paper_url": "https://aclanthology.org/2025.acl-long.623.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_907",
+      "paper_id": "",
+      "title": "OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference",
+      "authors": "Xiangyu Zhao, Shengyuan Ding, Zicheng Zhang, Haian Huang, Maosongcao Maosongcao, Jiaqi Wang, Weiyun Wang, Xinyu Fang, Wenhai Wang, Guangtao Zhai, Hua Yang, Haodong Duan, Kai Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.906.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1560",
+      "paper_id": "",
+      "title": "ONEBench to Test Them All: Sample-Level Benchmarking Over Open-Ended Capabilities",
+      "authors": "Adhiraj Ghosh, Sebastian Dziadzio, Ameya Prabhu, Vishaal Udandarao, Samuel Albanie, Matthias Bethge",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1560.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1036",
+      "paper_id": "",
+      "title": "Optimal Transport-Based Token Weighting scheme for Enhanced Preference Optimization",
+      "authors": "Meng Li, Guangda Huzhang, Haibo Zhang, Xiting Wang, Anxiang Zeng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1035.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_526",
+      "paper_id": "",
+      "title": "Parrot: Enhancing Multi-Turn Instruction Following for Large Language Models",
+      "authors": "Yuchong Sun, Che Liu, Kun Zhou, Jinwen Huang, Ruihua Song, Xin Zhao, Fuzheng Zhang, Di Zhang, Kun Gai",
+      "paper_url": "https://aclanthology.org/2024.acl-long.525.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1404",
+      "paper_id": "",
+      "title": "PopAlign: Diversifying Contrasting Patterns for a More Comprehensive Alignment",
+      "authors": "Zekun Moore Wang, Shenzhi Wang, King Zhu, Jiaheng Liu, Ke Xu, Jie Fu, Wangchunshu Zhou, Wenhao Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1403.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_514",
+      "paper_id": "",
+      "title": "Praetor: A Fine-Grained Generative LLM Evaluator with Instance-Level Customizable Evaluation Criteria",
+      "authors": "Yongqi Leng, Renren Jin, Yue Chen, Zhuowen Han, Ling Shi, Jianxiang Peng, Lei Yang, Juesi Xiao, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.513.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_426",
+      "paper_id": "",
+      "title": "Pragmatics in the Era of Large Language Models: A Survey on Datasets, Evaluation, Opportunities and Challenges",
+      "authors": "Bolei Ma, Yuting Li, Wei Zhou, Ziwei Gong, Yang Janet Liu, Katja Jasinskaja, Annemarie Friedrich, Julia Hirschberg, Frauke Kreuter, Barbara Plank",
+      "paper_url": "https://aclanthology.org/2025.acl-long.425.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_542",
+      "paper_id": "",
+      "title": "Predicting Text Preference Via Structured Comparative Reasoning",
+      "authors": "Jing Nathan Yan, Tianqi Liu, Justin Chiu, Jiaming Shen, Zhen Qin, Yue Yu, Charumathi Lakshmanan, Yair Kurzion, Alexander Rush, Jialu Liu, Michael Bendersky",
+      "paper_url": "https://aclanthology.org/2024.acl-long.541.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_87",
+      "paper_id": "",
+      "title": "Probing Language Models for Pre-training Data Detection",
+      "authors": "Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Bing Liu, Haonan Lu, Wenliang Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.86.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_749",
+      "paper_id": "",
+      "title": "Prototypical Reward Network for Data-Efficient RLHF",
+      "authors": "Jinghan Zhang, Xiting Wang, Yiqiao Jin, Changyu Chen, Xinhao Zhang, Kunpeng Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.748.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_717",
+      "paper_id": "",
+      "title": "QAEval: Mixture of Evaluators for Question-Answering Task Evaluation",
+      "authors": "Tan Yue, Rui Mao, Xuzhao Shi, Shuo Zhan, Zuhao Yang, Dongyan Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.716.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_762",
+      "paper_id": "",
+      "title": "Quantifying Contamination in Evaluating Code Generation Capabilities of Language Models",
+      "authors": "Martin Riddell, Ansong Ni, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.761.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1266",
+      "paper_id": "",
+      "title": "Ranking Unraveled: Recipes for LLM Rankings in Head-to-Head AI Combat",
+      "authors": "Roland Daynauth, Christopher Clarke, Krisztian Flautner, Lingjia Tang, Jason Mars",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1265.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_613",
+      "paper_id": "",
+      "title": "Redundancy Principles for MLLMs Benchmarks",
+      "authors": "Zicheng Zhang, Xiangyu Zhao, Xinyu Fang, Chunyi Li, Xiaohong Liu, Xiongkuo Min, Haodong Duan, Kai Chen, Guangtao Zhai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.612.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_650",
+      "paper_id": "",
+      "title": "Rethinking Reward Model Evaluation Through the Lens of Reward Overoptimization",
+      "authors": "Sunghwan Kim, Dongjin Kang, Taeyoon Kwon, Hyungjoo Chae, Dongha Lee, Jinyoung Yeo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.649.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1509",
+      "paper_id": "",
+      "title": "Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability",
+      "authors": "Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1508.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_264",
+      "paper_id": "",
+      "title": "Reward Gaming in Conditional Text Generation",
+      "authors": "Richard Yuanzhe Pang, Vishakh Padmakumar, Thibault Sellam, Ankur Parikh, He He",
+      "paper_url": "https://aclanthology.org/2023.acl-long.262.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_429",
+      "paper_id": "",
+      "title": "RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs",
+      "authors": "Afra Feyza Akyurek, Ekin Akyurek, Ashwin Kalyan, Peter Clark, Derry Tanti Wijaya, Niket Tandon",
+      "paper_url": "https://aclanthology.org/2023.acl-long.427.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_971",
+      "paper_id": "",
+      "title": "Safer or Luckier? LLMs as Safety Evaluators Are Not Robust to Artifacts",
+      "authors": "Hongyu Chen, Seraphina Goldfarb-Tarrant",
+      "paper_url": "https://aclanthology.org/2025.acl-long.970.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_536",
+      "paper_id": "",
+      "title": "Sample-Efficient Human Evaluation of Large Language Models via Maximum Discrepancy Competition",
+      "authors": "Kehua Feng, Keyan Ding, Tan Hongzhi, Kede Ma, Zhihua Wang, Shuangquan Guo, Cheng Yuzhou, Ge Sun, Guozhou Zheng, Qiang Zhang, Huajun Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.535.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1544",
+      "paper_id": "",
+      "title": "ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting",
+      "authors": "Rui Pan, Dylan Zhang, Hanning Zhang, Xingyuan Pan, Minrui Xu, Jipeng Zhang, Renjie Pi, Xiaoyu Wang, Tong Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1543.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_19",
+      "paper_id": "",
+      "title": "SciMON: Scientific Inspiration Machines Optimized for Novelty",
+      "authors": "Qingyun Wang, Doug Downey, Heng Ji, Tom Hope",
+      "paper_url": "https://aclanthology.org/2024.acl-long.18.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_421",
+      "paper_id": "",
+      "title": "SciVer: Evaluating Foundation Models for Multimodal Scientific Claim Verification",
+      "authors": "Chengye Wang, Yifei Shen, Zexi Kuang, Arman Cohan, Yilun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.420.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_663",
+      "paper_id": "",
+      "title": "SDBench: A Survey-based Domain-specific LLM Benchmarking and Optimization Framework",
+      "authors": "Cheng Guo, Hu Kai, Shuxian Liang, Yiyang Jiang, Yi Gao, Xian-Sheng Hua, Wei Dong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.662.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_478",
+      "paper_id": "",
+      "title": "Semantic-Eval : A Semantic Comprehension Evaluation Framework for Large Language Models Generation without Training",
+      "authors": "Shusheng Li, Jiale Li, Yifei Qu, Xinwei Shi, Yanliang Guo, Ziyi He, Yubo Wang, Wenjun Tan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.477.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_757",
+      "paper_id": "",
+      "title": "SkillAggregation: Reference-free LLM-Dependent Aggregation",
+      "authors": "Guangzhi Sun, Anmol Kagrecha, Potsawee Manakul, Phil Woodland, Mark Gales",
+      "paper_url": "https://aclanthology.org/2025.acl-long.756.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_438",
+      "paper_id": "",
+      "title": "SkillVerse : Assessing and Enhancing LLMs with Tree Evaluation",
+      "authors": "Yufei Tian, Jiao Sun, Nanyun Peng, Zizhao Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.437.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_173",
+      "paper_id": "",
+      "title": "StoryWars: A Dataset and Instruction Tuning Baselines for Collaborative Story Understanding and Generation",
+      "authors": "Yulun Du, Lydia Chilton",
+      "paper_url": "https://aclanthology.org/2023.acl-long.171.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_238",
+      "paper_id": "",
+      "title": "Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-Choice Selectors",
+      "authors": "Mengge Xue, Zhenyu Hu, Liqun Liu, Kuo Liao, Shuang Li, Honglin Han, Meng Zhao, Chengguo Yin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.237.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1108",
+      "paper_id": "",
+      "title": "STRICTA: Structured Reasoning in Critical Text Assessment for Peer Review and Beyond",
+      "authors": "Nils Dycke, Matej Zečević, Ilia Kuznetsov, Beatrix Suess, Kristian Kersting, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1107.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_55",
+      "paper_id": "",
+      "title": "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation",
+      "authors": "Masato Mita, Soichiro Murakami, Akihiko Kato, Peinan Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.54.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1478",
+      "paper_id": "",
+      "title": "SubLIME: Subset Selection via Rank Correlation Prediction for Data-Efficient LLM Evaluation",
+      "authors": "Gayathri Saranathan, Cong Xu, Mahammad Parwez Alam, Tarun Kumar, Martin Foltin, Soon Yee Wong, Suparna Bhattacharya",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1477.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1319",
+      "paper_id": "",
+      "title": "SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment",
+      "authors": "Qin Liu, Fei Wang, Chaowei Xiao, Muhao Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1318.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_610",
+      "paper_id": "",
+      "title": "SURVEYFORGE : On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing",
+      "authors": "Xiangchao Yan, Shiyang Feng, Jiakang Yuan, Renqiu Xia, Bin Wang, Lei Bai, Bo Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.609.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_996",
+      "paper_id": "",
+      "title": "Synergistic Weak-Strong Collaboration by Aligning Preferences",
+      "authors": "Yizhu Jiao, Xuchao Zhang, Zhaoyang Wang, Yubo Ma, Zhun Deng, Rujia Wang, Chetan Bansal, Saravan Rajmohan, Jiawei Han, Huaxiu Yao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.995.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1137",
+      "paper_id": "",
+      "title": "Synthesizing Post-Training Data for LLMs through Multi-Agent Simulation",
+      "authors": "Shuo Tang, Xianghe Pang, Zexi Liu, Bohan Tang, Rui Ye, Tian Jin, Xiaowen Dong, Yanfeng Wang, Siheng Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1136.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_266",
+      "paper_id": "",
+      "title": "Systematic Task Exploration with LLMs: A Study in Citation Text Generation",
+      "authors": "Furkan Şahinuç, Ilia Kuznetsov, Yufang Hou, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2024.acl-long.265.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1354",
+      "paper_id": "",
+      "title": "T-REG: Preference Optimization with Token-Level Reward Regularization",
+      "authors": "Wenxuan Zhou, Shujian Zhang, Lingxiao Zhao, Tao Meng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1353.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1030",
+      "paper_id": "",
+      "title": "TESS 2: A Large-Scale Generalist Diffusion Language Model",
+      "authors": "Jaesung Tae, Hamish Ivison, Sachin Kumar, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1029.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_783",
+      "paper_id": "",
+      "title": "The Alternative Annotator Test for LLM-as-a-Judge: How to Statistically Justify Replacing Human Annotators with LLMs",
+      "authors": "Nitay Calderon, Roi Reichart, Rotem Dror",
+      "paper_url": "https://aclanthology.org/2025.acl-long.782.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_492",
+      "paper_id": "",
+      "title": "The Lawyer That Never Thinks: Consistency and Fairness as Keys to Reliable AI",
+      "authors": "Dana R Alsagheer, Abdulrahman Kamal, Mohammad Kamal, Cosmo Yang Wu, Weidong Shi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.491.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_379",
+      "paper_id": "",
+      "title": "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks",
+      "authors": "Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe",
+      "paper_url": "https://aclanthology.org/2024.acl-long.378.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_191",
+      "paper_id": "",
+      "title": "Towards Better Evaluation for Generated Patent Claims",
+      "authors": "Lekang Jiang, Pascal A. Scherz, Stefan Goetz",
+      "paper_url": "https://aclanthology.org/2025.acl-long.190.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_164",
+      "paper_id": "",
+      "title": "Towards Reward Fairness in RLHF: From a Resource Allocation Perspective",
+      "authors": "Sheng Ouyang, Yulan Hu, Ge Chen, Qingyang Li, Fuzheng Zhang, Yong Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.163.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_148",
+      "paper_id": "",
+      "title": "TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge",
+      "authors": "Cheng-Han Chiang, Hung-yi Lee, Michal Lukasik",
+      "paper_url": "https://aclanthology.org/2025.acl-long.147.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1588",
+      "paper_id": "",
+      "title": "Training-free LLM Merging for Multi-task Learning",
+      "authors": "Zichuan Fu, Xian Wu, Yejing Wang, Wanyu Wang, Shanshan Ye, Hongzhi Yin, Yi Chang, Yefeng Zheng, Xiangyu Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1588.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1423",
+      "paper_id": "",
+      "title": "Tree-of-Debate: Multi-Persona Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis",
+      "authors": "Priyanka Kargupta, Ishika Agarwal, Tal August, Jiawei Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1422.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_598",
+      "paper_id": "",
+      "title": "Uncertainty Aware Learning for Language Model Alignment",
+      "authors": "Yikun Wang, Rui Zheng, Liang Ding, Qi Zhang, Dahua Lin, Dacheng Tao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.597.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1170",
+      "paper_id": "",
+      "title": "Uncertainty-Aware Iterative Preference Optimization for Enhanced LLM Reasoning",
+      "authors": "Lei Li, Hehuan Liu, Yaxin Zhou, ZhaoYang Gui, Xudong Weng, Yi Yuan, Zheng Wei, Zang Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1169.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1334",
+      "paper_id": "",
+      "title": "Understanding Impact of Human Feedback via Influence Functions",
+      "authors": "Taywon Min, Haeone Lee, Yongchan Kwon, Kimin Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1333.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_854",
+      "paper_id": "",
+      "title": "Unintended Impacts of LLM Alignment on Global Representation",
+      "authors": "Michael J Ryan, William Held, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.853.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_76",
+      "paper_id": "",
+      "title": "Wait, that’s not an option: LLMs Robustness with Incorrect Multiple-Choice Options",
+      "authors": "Gracjan Góral, Emilia Wiśnios, Piotr Sankowski, Paweł Budzianowski",
+      "paper_url": "https://aclanthology.org/2025.acl-long.75.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_435",
+      "paper_id": "",
+      "title": "Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation",
+      "authors": "Senyu Li, Zipeng Sun, Jiayi Wang, Xue Liu, Pontus Stenetorp, Siva Reddy, David Ifeoluwa Adelani",
+      "paper_url": "https://aclanthology.org/2025.acl-long.434.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_986",
+      "paper_id": "",
+      "title": "What’s the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns",
+      "authors": "Michael A. Hedderich, Anyi Wang, Raoyuan Zhao, Florian Eichin, Jonas Fischer, Barbara Plank",
+      "paper_url": "https://aclanthology.org/2025.acl-long.985.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_745",
+      "paper_id": "",
+      "title": "When Benchmarks are Targets: Revealing the Sensitivity of Large Language Model Leaderboards",
+      "authors": "Norah Alzahrani, Hisham Alyahya, Yazeed Alnumay, Sultan AlRashed, Shaykhah Alsubaie, Yousef Almushayqih, Faisal Mirza, Nouf Alotaibi, Nora Al-Twairesh, Areeb Alowisheq, M Saiful Bari, Haidar Khan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.744.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_170",
+      "paper_id": "",
+      "title": "Which of These Best Describes Multiple Choice Evaluation with LLMs? A) Forced B) Flawed C) Fixable D) All of the Above",
+      "authors": "Nishant Balepur, Rachel Rudinger, Jordan Lee Boyd-Graber",
+      "paper_url": "https://aclanthology.org/2025.acl-long.169.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_676",
+      "paper_id": "",
+      "title": "YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering",
+      "authors": "Jennifer D’Souza, Hamed Babaei Giglou, Quentin Münch",
+      "paper_url": "https://aclanthology.org/2025.acl-long.675.pdf",
+      "venue": "acl25"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "cluster_id": 33,
+  "papers": [
+    {
+      "id": "corl23_fNLBmtyBiC",
+      "paper_id": "fNLBmtyBiC",
+      "title": "A Bayesian approach to breaking things: efficiently predicting and repairing failure modes via sampling",
+      "authors": "Charles Dawson, Chuchu Fan",
+      "paper_url": "https://openreview.net/pdf?id=fNLBmtyBiC",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss22_52",
+      "paper_id": "52",
+      "title": "A Local Optimization Framework for Multi-Objective Ergodic Search",
+      "authors": "Zhongqiang Ren (Carnegie Mellon University), Akshaya Kesarimangalam Srinivasan (Carnegie Mellon University), Howard Coffin (Carnegie Mellon University), Ian Abraham (Yale University), Howie Choset (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p052.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss23_107",
+      "paper_id": "107",
+      "title": "A Sampling-Based Approach for Heterogeneous Coalition Scheduling with Temporal Uncertainty",
+      "authors": "Andrew Messing (Georgia Tech), Jacopo Banfi (Massachusetts Institute of Technology)*, Martina Stadler (Massachusetts Institute of Technology), Ethan Stump (US Army Research Laboratory), Harish Ravichandar (Georgia Tech), Nicholas Roy (Massachusetts Institute of Technology), Seth Hutchinson (Georgia Tech)Andrew Messing (Georgia Tech), Jacopo Banfi (Massachusetts Institute of Technology)*, Martina Stadler (Massachusetts Institute of Technology), Ethan Stump (US Army Research Laboratory), Harish Ravichandar (Georgia Tech), Nicholas Roy (Massachusetts Institute of Technology), Seth Hutchinson (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p107.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_102",
+      "paper_id": "102",
+      "title": "A Single Motor Nano Aerial Vehicle with Novel Peer-to-Peer Communication and Sensing Mechanism",
+      "authors": "Jingxian Wang, Andrew G. Curtis, Mark Yim, Michael RubensteinJingxian Wang, Andrew G. Curtis, Mark Yim, Michael Rubenstein",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p102.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_45",
+      "paper_id": "45",
+      "title": "Active Safety Envelopes using Light Curtains with Probabilistic Guarantees",
+      "authors": "Siddharth  Ancha (CMU), Gaurav Pathak (CMU), Srinivasa Narasimhan (CMU), David Held (CMU)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p045.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss23_97",
+      "paper_id": "97",
+      "title": "Active Velocity Estimation using Light Curtains via Self-Supervised Multi-Armed Bandits",
+      "authors": "Siddharth  Ancha (Massachusetts Institute of Technology)*, Gaurav Pathak (Adobe), Ji Zhang (Carnegie Mellon University), Srinivasa Narasimhan (Carnegie Mellon University), David Held (Carnegie Mellon University)Siddharth  Ancha (Massachusetts Institute of Technology)*, Gaurav Pathak (Adobe), Ji Zhang (Carnegie Mellon University), Srinivasa Narasimhan (Carnegie Mellon University), David Held (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p097.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss22_47",
+      "paper_id": "47",
+      "title": "AK: Attentive Kernel for Information Gathering",
+      "authors": "Weizhe Chen, Roni Khardon, Lantao Liu (Indiana University Bloomington)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p047.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss23_104",
+      "paper_id": "104",
+      "title": "Autonomous Navigation, Mapping and Exploration with Gaussian Processes",
+      "authors": "Mahmoud ALI (Indiana University)*, Hassan Jardali (Indiana University), Nicholas Roy (Massachusetts Institute of Technology), Lantao Liu (Indiana University)Mahmoud ALI (Indiana University)*, Hassan Jardali (Indiana University), Nicholas Roy (Massachusetts Institute of Technology), Lantao Liu (Indiana University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p104.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss23_109",
+      "paper_id": "109",
+      "title": "Bandit Submodular Maximization for Multi-Robot Coordination in Unpredictable and Partially Observable Environments",
+      "authors": "Zirui Xu (University of Michigan)*, Xiaofeng Lin (University of Michigan), Vasileios Tzoumas (University of Michigan)Zirui Xu (University of Michigan)*, Xiaofeng Lin (University of Michigan), Vasileios Tzoumas (University of Michigan)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p109.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl22_KwdUWypQ5gC",
+      "paper_id": "KwdUWypQ5gC",
+      "title": "Bayesian Reinforcement Learning for Single-Episode Missions in Partially Unknown Environments",
+      "authors": "Matthew Budd, Paul Duckworth, Nick Hawes, Bruno Lacerda",
+      "paper_url": "https://openreview.net/pdf?id=KwdUWypQ5gC",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_cAIIbdNAeNa",
+      "paper_id": "cAIIbdNAeNa",
+      "title": "CAtNIPP: Context-Aware Attention-based Network for Informative Path Planning",
+      "authors": "Yuhong Cao, Yizhuo Wang, Apoorva Vashisth, Haolin Fan, Guillaume Adrien Sartoretti",
+      "paper_url": "https://openreview.net/pdf?id=cAIIbdNAeNa",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_TAgVKiF2O8p",
+      "paper_id": "TAgVKiF2O8p",
+      "title": "Concept Learning for Interpretable Multi-Agent Reinforcement Learning",
+      "authors": "Renos Zabounidis, Joseph Campbell, Simon Stepputtis, Dana Hughes, Katia P. Sycara",
+      "paper_url": "https://openreview.net/pdf?id=TAgVKiF2O8p",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_108",
+      "paper_id": "108",
+      "title": "Concurrent Constrained Optimization of Unknown Rewards for Multi-Robot Task Allocation",
+      "authors": "Sukriti Singh (Georgia Tech)*, Anusha Srikanthan (University of Pennsylvania), Vivek Mallampati (Georgia Tech), Harish Ravichandar (Georgia Tech)Sukriti Singh (Georgia Tech)*, Anusha Srikanthan (University of Pennsylvania), Vivek Mallampati (Georgia Tech), Harish Ravichandar (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p108.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss22_45",
+      "paper_id": "45",
+      "title": "DiPCAN: Distilling Privileged Information for Crowd-Aware Navigation",
+      "authors": "Gianluca Monaci, Michel Aractingi, Tomi Silander (NAVER LABS Europe)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p045.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss22_42",
+      "paper_id": "42",
+      "title": "Failure Prediction with Statistical Guarantees for Vision-Based Robot Control",
+      "authors": "Alec Farid, David Snyder, Allen Z. Ren, Anirudha Majumdar (Princeton University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p042.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23_N3VbFUpwaa",
+      "paper_id": "N3VbFUpwaa",
+      "title": "Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities",
+      "authors": "Pierce Howell, Max Rudolph, Reza Joseph Torbati, Kevin Fu, Harish Ravichandar",
+      "paper_url": "https://openreview.net/pdf?id=N3VbFUpwaa",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_105",
+      "paper_id": "105",
+      "title": "Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility",
+      "authors": "Malintha Fernando (Indiana University)*, Ransalu Senanayake (Stanford University), Heeyoul Choi (Indiana University), Martin Swany (Indiana University)Malintha Fernando (Indiana University)*, Ransalu Senanayake (Stanford University), Heeyoul Choi (Indiana University), Martin Swany (Indiana University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p105.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl21_knObbYqSowX",
+      "paper_id": "knObbYqSowX",
+      "title": "Group-based Motion Prediction for Navigation in Crowded Environments",
+      "authors": "Allan Wang, Christoforos Mavrogiannis, Aaron Steinfeld",
+      "paper_url": "https://openreview.net/pdf?id=knObbYqSowX",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_GsM2qJTAg-",
+      "paper_id": "GsM2qJTAg-",
+      "title": "Heteroscedastic Gaussian Processes and Random Features: Scalable Motion Primitives with Guarantees",
+      "authors": "Edoardo Caldarelli, Antoine Chatalic, Adrià Colomé, Lorenzo Rosasco, Carme Torras",
+      "paper_url": "https://openreview.net/pdf?id=GsM2qJTAg-",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_bIvIUNH9VQ",
+      "paper_id": "bIvIUNH9VQ",
+      "title": "Hijacking Robot Teams Through Adversarial Communication",
+      "authors": "Zixuan Wu, Sean Charles Ye, Byeolyi Han, Matthew Gombolay",
+      "paper_url": "https://openreview.net/pdf?id=bIvIUNH9VQ",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_115",
+      "paper_id": "115",
+      "title": "iHERO: Interactive Human-oriented Exploration and Supervision Under Scarce Communication",
+      "authors": "Zhuoli Tian, Yuyang Zhang, Jinsheng Wei, Meng GuoZhuoli Tian, Yuyang Zhang, Jinsheng Wei, Meng Guo",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p115.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_n6xYib0irVR",
+      "paper_id": "n6xYib0irVR",
+      "title": "Influencing Towards Stable Multi-Agent Interactions",
+      "authors": "Woodrow Zhouyuan Wang, Andy Shih, Annie Xie, Dorsa Sadigh",
+      "paper_url": "https://openreview.net/pdf?id=n6xYib0irVR",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_64",
+      "paper_id": "64",
+      "title": "iPlanner: Imperative Path Planning",
+      "authors": "Fan Yang (ETH Zürich)*, Chen Wang (State University of New York at Buffalo), Cesar Cadena (ETH Zürich), Marco Hutter (ETH Zürich)Fan Yang (ETH Zürich)*, Chen Wang (State University of New York at Buffalo), Cesar Cadena (ETH Zürich), Marco Hutter (ETH Zürich)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p064.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_edP2dmingV",
+      "paper_id": "edP2dmingV",
+      "title": "Large Scale Mapping of Indoor Magnetic Field by Local and Sparse Gaussian Processes",
+      "authors": "Iad ABDUL-RAOUF, Vincent Gay-Bellile, Cyril JOLY, Steve Bourgeois, Alexis Paljic",
+      "paper_url": "https://openreview.net/pdf?id=edP2dmingV",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_Q9VHQw594zx",
+      "paper_id": "Q9VHQw594zx",
+      "title": "Learning A Risk-Aware Trajectory Planner From Demonstrations Using Logic Monitor",
+      "authors": "Xiao Li, Jonathan DeCastro, Cristian Ioan Vasile, Sertac Karaman, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf?id=Q9VHQw594zx",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss22_68",
+      "paper_id": "68",
+      "title": "Learning Interpretable, High-Performing Policies for Autonomous Driving",
+      "authors": "Rohan R Paleja (Georgia Institute of Technology), Yaru Niu (Georgia Institute of Technology), Andrew Silva (Georgia Institute of Technology), Chace O Ritchie (University of Kentucky), Sugju Choi (Georgia Institute of Technology), Matthew Gombolay (Georgia Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p068.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl22_7Nwds2LjN1s",
+      "paper_id": "7Nwds2LjN1s",
+      "title": "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation",
+      "authors": "Xuesu Xiao, Tingnan Zhang, Krzysztof Marcin Choromanski, Tsang-Wei Edward Lee, Anthony Francis, Jake Varley, Stephen Tu, Sumeet Singh, Peng Xu, Fei Xia, Sven Mikael Persson, Dmitry Kalashnikov, Leila Takayama, Roy Frostig, Jie Tan, Carolina Parada, Vikas Sindhwani",
+      "paper_url": "https://openreview.net/pdf?id=7Nwds2LjN1s",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_6kSohKYYTn0",
+      "paper_id": "6kSohKYYTn0",
+      "title": "Measuring Interpretability of Neural Policies of Robots with Disentangled Representation",
+      "authors": "Tsun-Hsuan Wang, Wei Xiao, Tim Seyde, Ramin Hasani, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf?id=6kSohKYYTn0",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_53",
+      "paper_id": "53",
+      "title": "Move Beyond Trajectories: Distribution Space Coupling for Crowd Navigation",
+      "authors": "Muchen Sun (Northwestern University), Francesca Baldini (Caltech), Peter Trautman (Honda Research Institute), Todd Murphey (Northwestern University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p053.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_Isp19rFFV4",
+      "paper_id": "Isp19rFFV4",
+      "title": "Multi-Strategy Deployment-Time Learning and Adaptation for Navigation under Uncertainty",
+      "authors": "Abhishek Paudel, Xuesu Xiao, Gregory J. Stein",
+      "paper_url": "https://openreview.net/pdf?id=Isp19rFFV4",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_G0jqGG8Tta",
+      "paper_id": "G0jqGG8Tta",
+      "title": "Not All Errors Are Made Equal: A Regret Metric for Detecting System-level Trajectory Prediction Failures",
+      "authors": "Kensuke Nakamura, Thomas Tian, Andrea Bajcsy",
+      "paper_url": "https://openreview.net/pdf?id=G0jqGG8Tta",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_cDXnnOhNrF",
+      "paper_id": "cDXnnOhNrF",
+      "title": "Perceive With Confidence: Statistical Safety Assurances for Navigation with Learning-Based Perception",
+      "authors": "Anushri Dixit, Zhiting Mei, Meghan Booker, Mariko Storey-Matsutani, Allen Z. Ren, Anirudha Majumdar",
+      "paper_url": "https://openreview.net/pdf?id=cDXnnOhNrF",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_19",
+      "paper_id": "19",
+      "title": "POAM: Probabilistic Online Attentive Mapping for Efficient Robotic Information Gathering",
+      "authors": "Weizhe Chen, Lantao Liu, Roni KhardonWeizhe Chen, Lantao Liu, Roni Khardon",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p019.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss22_14",
+      "paper_id": "14",
+      "title": "PropEM-L: Radio Propagation Environment Modeling and Learning for Communication-Aware Multi-Robot Exploration",
+      "authors": "Lillian Clark (University of Southern California), Jeffrey Edlund (Jet Propulsion Laboratory/California Institute of Technology), Tiago Stegun Vaquero (Jet Propulsion Laboratory/California Institute of Technology), Marc Sanchez Net (Jet Propulsion Laboratory/California Institute of Technology), Ali Agha (Jet Propulsion Laboratory)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p014.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl22_z_hPo2Fu9A3",
+      "paper_id": "z_hPo2Fu9A3",
+      "title": "RAP: Risk-Aware Prediction for Robust Planning",
+      "authors": "Haruki Nishimura, Jean Mercat, Blake Wulfe, Rowan Thomas McAllister, Adrien Gaidon",
+      "paper_url": "https://openreview.net/pdf?id=z_hPo2Fu9A3",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss22_4",
+      "paper_id": "4",
+      "title": "Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots",
+      "authors": "Graeme Best (University of Technology Sydney), Rohit Garg (Carnegie Mellon University), John Keller (Carnegie Mellon University), Geoff Hollinger (Oregon State University), Sebastian Scherer (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p004.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23_eE3fsO5Mi2",
+      "paper_id": "eE3fsO5Mi2",
+      "title": "Stealthy Terrain-Aware Multi-Agent Active Search",
+      "authors": "Nikhil Angad Bakshi, Jeff Schneider",
+      "paper_url": "https://openreview.net/pdf?id=eE3fsO5Mi2",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_1",
+      "paper_id": "1",
+      "title": "Stein Variational Ergodic Search",
+      "authors": "Darrick Lee, Cameron Lerch, Fabio Ramos, Ian AbrahamDarrick Lee, Cameron Lerch, Fabio Ramos, Ian Abraham",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p001.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_WJbw_C-pCox",
+      "paper_id": "WJbw_C-pCox",
+      "title": "Synthesizing Adversarial Visual Scenarios for Model-Based Robotic Control",
+      "authors": "Shubhankar Agarwal, Sandeep P. Chinchali",
+      "paper_url": "https://openreview.net/pdf?id=WJbw_C-pCox",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_18",
+      "paper_id": "18",
+      "title": "TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments",
+      "authors": "Chao Cao (CMU), Hongbiao  Zhu (CMU), Howie Choset (CMU), Ji Zhang (CMU)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p018.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl21_8ZL7Jh1r8WX",
+      "paper_id": "8ZL7Jh1r8WX",
+      "title": "Task-Driven Out-of-Distribution Detection with Statistical Guarantees for Robot Learning",
+      "authors": "Alec Farid, Sushant Veer, Anirudha Majumdar",
+      "paper_url": "https://openreview.net/pdf?id=8ZL7Jh1r8WX",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_82",
+      "paper_id": "82",
+      "title": "Time Optimal Ergodic Search",
+      "authors": "Dayi E Dong (Yale University), Henry P Berger (Yale University), Ian Abraham (Yale University)*Dayi E Dong (Yale University), Henry P Berger (Yale University), Ian Abraham (Yale University)*",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p082.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_BzjLaVvr955",
+      "paper_id": "BzjLaVvr955",
+      "title": "Topology-Matching Normalizing Flows for Out-of-Distribution Detection in Robot Learning",
+      "authors": "Jianxiang Feng, Jongseok Lee, Simon Geisler, Stephan Günnemann, Rudolph Triebel",
+      "paper_url": "https://openreview.net/pdf?id=BzjLaVvr955",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_eIk6eBz3Wlt",
+      "paper_id": "eIk6eBz3Wlt",
+      "title": "Trust Your Robots! Predictive Uncertainty Estimation of Neural Networks with Sparse Gaussian Processes",
+      "authors": "Jongseok Lee, Jianxiang Feng, Matthias Humt, Marcus Gerhard Müller, Rudolph Triebel",
+      "paper_url": "https://openreview.net/pdf?id=eIk6eBz3Wlt",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_yqLFb0RnDW",
+      "paper_id": "yqLFb0RnDW",
+      "title": "Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress",
+      "authors": "Christopher Agia, Rohan Sinha, Jingyun Yang, Ziang Cao, Rika Antonova, Marco Pavone, Jeannette Bohg",
+      "paper_url": "https://openreview.net/pdf?id=yqLFb0RnDW",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_EPujQZWemk",
+      "paper_id": "EPujQZWemk",
+      "title": "ViPER: Visibility-based Pursuit-Evasion via Reinforcement Learning",
+      "authors": "Yizhuo Wang, Yuhong Cao, Jimmy Chiun, Subhadeep Koley, Mandy Pham, Guillaume Adrien Sartoretti",
+      "paper_url": "https://openreview.net/pdf?id=EPujQZWemk",
+      "venue": "corl24"
+    }
+  ]
+}

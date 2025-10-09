@@ -1,0 +1,781 @@
+{
+  "cluster_id": 91,
+  "papers": [
+    {
+      "id": "acl25_538",
+      "paper_id": "",
+      "title": "A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning",
+      "authors": "Zhiyu Zhang, Wei Chen, Youfang Lin, Huaiyu Wan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.537.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1078",
+      "paper_id": "",
+      "title": "A Mutual Information Perspective on Knowledge Graph Embedding",
+      "authors": "Jiang Li, Xiangdong Su, Zehua Duo, Tian Lan, Xiaotao Guo, Guanglai Gao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1077.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_140",
+      "paper_id": "",
+      "title": "A Systematic Investigation of KB-Text Embedding Alignment at Scale",
+      "authors": "Vardaan Pahuja, Yu Gu, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen, Yu Su",
+      "paper_url": "https://aclanthology.org/2021.acl-long.139.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_9",
+      "paper_id": "",
+      "title": "A Unified Temporal Knowledge Graph Reasoning Model Towards Interpolation and Extrapolation",
+      "authors": "Kai Chen, Ye Wang, Yitong Li, Aiping Li, Han Yu, Xin Song",
+      "paper_url": "https://aclanthology.org/2024.acl-long.8.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_406",
+      "paper_id": "",
+      "title": "An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism",
+      "authors": "Xin Mao, Meirong Ma, Hao Yuan, Jianchao Zhu, ZongYu Wang, Rui Xie, Wei Wu, Man Lan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.405.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_88",
+      "paper_id": "",
+      "title": "Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding",
+      "authors": "Zhihan Zhang, Yixin Cao, Chenchen Ye, Yunshan Ma, Lizi Liao, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2024.acl-long.87.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_232",
+      "paper_id": "",
+      "title": "AnRe: Analogical Replay for Temporal Knowledge Graph Forecasting",
+      "authors": "Guo Tang, Zheng Chu, Wenxiang Zheng, Junjia Xiang, Yizhuo Li, Weihao Zhang, Ming Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.231.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_599",
+      "paper_id": "",
+      "title": "Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion?",
+      "authors": "Juanhui Li, Harry Shomer, Jiayuan Ding, Yiqi Wang, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.597.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_535",
+      "paper_id": "",
+      "title": "Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion",
+      "authors": "Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.534.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1116",
+      "paper_id": "",
+      "title": "Around the World in 24 Hours: Probing LLM Knowledge of Time and Place",
+      "authors": "Carolin Holtermann, Paul Röttger, Anne Lauscher",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1115.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_206",
+      "paper_id": "",
+      "title": "CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion",
+      "authors": "Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.205.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1270",
+      "paper_id": "",
+      "title": "Causal Graph based Event Reasoning using Semantic Relation Experts",
+      "authors": "Mahnaz Koupaee, Xueying Bai, Mudan Chen, Greg Durrett, Nathanael Chambers, Niranjan Balasubramanian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1269.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_606",
+      "paper_id": "",
+      "title": "CHEER: Centrality-aware High-order Event Reasoning Network for Document-level Event Causality Identification",
+      "authors": "Meiqi Chen, Yixin Cao, Yan Zhang, Zhiwei Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.604.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_184",
+      "paper_id": "",
+      "title": "ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification",
+      "authors": "Yucheng Zhou, Tao Shen, Xiubo Geng, Guodong Long, Daxin Jiang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.183.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_290",
+      "paper_id": "",
+      "title": "COLA: Contextualized Commonsense Causal Reasoning from the Causal Inference Perspective",
+      "authors": "Zhaowei Wang, Quyet V. Do, Hongming Zhang, Jiayao Zhang, Weiqi Wang, Tianqing Fang, Yangqiu Song, Ginny Wong, Simon See",
+      "paper_url": "https://aclanthology.org/2023.acl-long.288.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_386",
+      "paper_id": "",
+      "title": "Compounding Geometric Operations for Knowledge Graph Completion",
+      "authors": "Xiou Ge, Yun Cheng Wang, Bin Wang, C.-C. Jay Kuo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.384.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_556",
+      "paper_id": "",
+      "title": "Conditional Generation of Temporally-ordered Event Sequences",
+      "authors": "Shih-Ting Lin, Nathanael Chambers, Greg Durrett",
+      "paper_url": "https://aclanthology.org/2021.acl-long.555.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_581",
+      "paper_id": "",
+      "title": "Confidence is not Timeless: Modeling Temporal Validity for Rule-based Temporal Knowledge Graph Forecasting",
+      "authors": "Rikui Huang, Wei Wei, Xiaoye Qu, Shengzhe Zhang, Dangyang Chen, Yu Cheng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.580.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_580",
+      "paper_id": "",
+      "title": "Croppable Knowledge Graph Embedding",
+      "authors": "Yushan Zhu, Wen Zhang, Zhiqiang Liu, Mingyang Chen, Lei Liang, Huajun Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.579.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_558",
+      "paper_id": "",
+      "title": "Dating Greek Papyri with Text Regression",
+      "authors": "John Pavlopoulos, Maria Konstantinidou, Isabelle Marthot-Santaniello, Holger Essler, Asimina Paparigopoulou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.556.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_899",
+      "paper_id": "",
+      "title": "Discriminative Reasoning with Sparse Event Representation for Document-level Event-Event Relation Extraction",
+      "authors": "Changsen Yuan, Heyan Huang, Yixin Cao, Yonggang Wen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.897.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_813",
+      "paper_id": "",
+      "title": "Does Time Have Its Place? Temporal Heads: Where Language Models Recall Time-specific Information",
+      "authors": "Yein Park, Chanwoong Yoon, Jungwoo Park, Minbyul Jeong, Jaewoo Kang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.812.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_852",
+      "paper_id": "",
+      "title": "Double-Branch Multi-Attention based Graph Neural Network for Knowledge Graph Completion",
+      "authors": "Hongcai Xu, Junpeng Bao, Wenbo Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.850.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_34",
+      "paper_id": "",
+      "title": "e-CARE: a New Dataset for Exploring Explainable Causal Reasoning",
+      "authors": "Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2022.acl-long.33.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_249",
+      "paper_id": "",
+      "title": "Early Discovery of Disappearing Entities in Microblogs",
+      "authors": "Satoshi Akasaki, Naoki Yoshinaga, Masashi Toyoda",
+      "paper_url": "https://aclanthology.org/2023.acl-long.247.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_195",
+      "paper_id": "",
+      "title": "Efficient Hyper-parameter Search for Knowledge Graph Embedding",
+      "authors": "Yongqi Zhang, Zhanke Zhou, Quanming Yao, Yong Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.194.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_789",
+      "paper_id": "",
+      "title": "EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge",
+      "authors": "Zhiyuan Zhu, Yusheng Liao, Zhe Chen, Yuhao Wang, Yunfeng Guan, Yanfeng Wang, Yu Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.788.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_184",
+      "paper_id": "",
+      "title": "ExCAR: Event Graph Knowledge Enhanced Explainable Causal Reasoning",
+      "authors": "Li Du, Xiao Ding, Kai Xiong, Ting Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2021.acl-long.183.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_413",
+      "paper_id": "",
+      "title": "Explicit and Implicit Data Augmentation for Social Event Detection",
+      "authors": "Congbo Ma, Yuxia Wang, Jia Wu, Jian Yang, Jing Du, Zitai Qiu, Qing Li, Hu Wang, Preslav Nakov",
+      "paper_url": "https://aclanthology.org/2025.acl-long.412.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_630",
+      "paper_id": "",
+      "title": "Few-shot Event Detection: An Empirical Study and a Unified View",
+      "authors": "Yubo Ma, Zehao Wang, Yixin Cao, Aixin Sun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.628.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_358",
+      "paper_id": "",
+      "title": "ForecastQA: A Question Answering Challenge for Event Forecasting with Temporal Text Data",
+      "authors": "Woojeong Jin, Rahul Khanna, Suji Kim, Dong-Ho Lee, Fred Morstatter, Aram Galstyan, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2021.acl-long.357.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_61",
+      "paper_id": "",
+      "title": "From Discourse to Narrative: Knowledge Projection for Event Relation Extraction",
+      "authors": "Jialong Tang, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie, Jin Xu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.60.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_391",
+      "paper_id": "",
+      "title": "From Moments to Milestones: Incremental Timeline Summarization Leveraging Large Language Models",
+      "authors": "Qisheng Hu, Geonsik Moon, Hwee Tou Ng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.390.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_673",
+      "paper_id": "",
+      "title": "Generic Temporal Reasoning with Differential Analysis and Explanation",
+      "authors": "Yu Feng, Ben Zhou, Haoyu Wang, Helen Jin, Dan Roth",
+      "paper_url": "https://aclanthology.org/2023.acl-long.671.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_593",
+      "paper_id": "",
+      "title": "GreenKGC: A Lightweight Knowledge Graph Completion Method",
+      "authors": "Yun Cheng Wang, Xiou Ge, Bin Wang, C.-C. Jay Kuo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.591.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_452",
+      "paper_id": "",
+      "title": "HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level",
+      "authors": "Haoran Luo, Haihong E, Yuhao Yang, Yikai Guo, Mingzhi Sun, Tianyu Yao, Zichen Tang, Kaiyang Wan, Meina Song, Wei Lin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.450.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_767",
+      "paper_id": "",
+      "title": "Holistic Prediction on a Time-Evolving Attributed Graph",
+      "authors": "Shohei Yamasaki, Yuya Sasaki, Panagiotis Karras, Makoto Onizuka",
+      "paper_url": "https://aclanthology.org/2023.acl-long.765.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_143",
+      "paper_id": "",
+      "title": "HyperFM: Fact-Centric Multimodal Fusion for Link Prediction over Hyper-Relational Knowledge Graphs",
+      "authors": "Yuhuan Lu, Weijian Yu, Xin Jing, Dingqi Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.142.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_211",
+      "paper_id": "",
+      "title": "Identifying while Learning for Document Event Causality Identification",
+      "authors": "Cheng Liu, Wei Xiang, Bang Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.210.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_158",
+      "paper_id": "",
+      "title": "Improving Event Definition Following For Zero-Shot Event Detection",
+      "authors": "Zefan Cai, Po-Nien Kung, Ashima Suvarna, Mingyu Ma, Hritik Bansal, Baobao Chang, P. Jeffrey Brantingham, Wei Wang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.157.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_513",
+      "paper_id": "",
+      "title": "Improving Large Language Models in Event Relation Logical Prediction",
+      "authors": "Meiqi Chen, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang, Dongsheng Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.512.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_553",
+      "paper_id": "",
+      "title": "Improving Time Sensitivity for Question Answering over Temporal Knowledge Graphs",
+      "authors": "Chao Shang, Guangtao Wang, Peng Qi, Jing Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.552.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_216",
+      "paper_id": "",
+      "title": "Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making",
+      "authors": "Zijun Yao, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang, Zelin Dai",
+      "paper_url": "https://aclanthology.org/2021.acl-long.215.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_279",
+      "paper_id": "",
+      "title": "Knowing the No-match: Entity Alignment with Dangling Cases",
+      "authors": "Zequn Sun, Muhao Chen, Wei Hu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.278.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_377",
+      "paper_id": "",
+      "title": "Knowledge-Enriched Event Causality Identification via Latent Structure Induction Networks",
+      "authors": "Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Yuguang Chen, Weihua Peng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.376.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_564",
+      "paper_id": "",
+      "title": "Large Language Models Can Learn Temporal Reasoning",
+      "authors": "Siheng Xiong, Ali Payani, Ramana Kompella, Faramarz Fekri",
+      "paper_url": "https://aclanthology.org/2024.acl-long.563.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_277",
+      "paper_id": "",
+      "title": "LearnDA: Learnable Knowledge-Guided Data Augmentation for Event Causality Identification",
+      "authors": "Xinyu Zuo, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Weihua Peng, Yuguang Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.276.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_70",
+      "paper_id": "",
+      "title": "Learning Faithful Representations of Causal Graphs",
+      "authors": "Ananth Balashankar, Lakshminarayanan Subramanian",
+      "paper_url": "https://aclanthology.org/2021.acl-long.69.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_707",
+      "paper_id": "",
+      "title": "Learning Latent Relations for Temporal Knowledge Graph Reasoning",
+      "authors": "Mengqi Zhang, Yuwei Xia, Qiang Liu, Shu Wu, Liang Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.705.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1359",
+      "paper_id": "",
+      "title": "Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models",
+      "authors": "Adrián Bazaga, Rexhina Blloshmi, Bill Byrne, Adrià de Gispert",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1358.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_32",
+      "paper_id": "",
+      "title": "Learning with Partial Annotations for Event Detection",
+      "authors": "Jian Liu, Dianbo Sui, Kang Liu, Haoyan Liu, Zhe Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.30.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_704",
+      "paper_id": "",
+      "title": "Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?",
+      "authors": "Zhaochen Su, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.703.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_769",
+      "paper_id": "",
+      "title": "LogogramNLP: Comparing Visual and Textual Representations of Ancient Logographic Writing Systems for NLP",
+      "authors": "Danlu Chen, Freda Shi, Aditi Agarwal, Jacobo Myerston, Taylor Berg-Kirkpatrick",
+      "paper_url": "https://aclanthology.org/2024.acl-long.768.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_639",
+      "paper_id": "",
+      "title": "Multi-granularity Temporal Question Answering over Knowledge Graphs",
+      "authors": "Ziyang Chen, Jinzhi Liao, Xiang Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.637.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_588",
+      "paper_id": "",
+      "title": "Multilingual Knowledge Graph Completion with Language-Sensitive Multi-Graph Attention",
+      "authors": "Rongchuan Tang, Yang Zhao, Chengqing Zong, Yu Zhou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.586.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_37",
+      "paper_id": "",
+      "title": "Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment",
+      "authors": "Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.36.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_221",
+      "paper_id": "",
+      "title": "OntoED: Low-resource Event Detection with Ontology Embedding",
+      "authors": "Shumin Deng, Ningyu Zhang, Luoqiu Li, Chen Hui, Tou Huaixiao, Mosha Chen, Fei Huang, Huajun Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.220.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_314",
+      "paper_id": "",
+      "title": "Open-Domain Hierarchical Event Schema Induction by Incremental Prompting and Verification",
+      "authors": "Sha Li, Ruining Zhao, Manling Li, Heng Ji, Chris Callison-Burch, Jiawei Han",
+      "paper_url": "https://aclanthology.org/2023.acl-long.312.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_337",
+      "paper_id": "",
+      "title": "PairRE: Knowledge Graph Embeddings via Paired Relation Vectors",
+      "authors": "Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.336.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1390",
+      "paper_id": "",
+      "title": "PIPER: Benchmarking and Prompting Event Reasoning Boundary of LLMs via Debiasing-Distillation Enhanced Tuning",
+      "authors": "Zhicong Lu, Changyuan Tian, PeiguangLi PeiguangLi, Li Jin, Sirui Wang, Wei Jia, Ying Shen, Guangluan Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1389.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_148",
+      "paper_id": "",
+      "title": "Poisoning Knowledge Graph Embeddings via Relation Inference Patterns",
+      "authors": "Peru Bhardwaj, John Kelleher, Luca Costabello, Declan O’Sullivan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.147.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1385",
+      "paper_id": "",
+      "title": "Probing Relative Interaction and Dynamic Calibration in Multi-modal Entity Alignment",
+      "authors": "Chenxiao Li, Jingwei Cheng, Qiang Tong, Fu Zhang, Cairui Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1384.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_191",
+      "paper_id": "",
+      "title": "Progressively Modality Freezing for Multi-Modal Entity Alignment",
+      "authors": "Yani Huang, Xuefeng Zhang, Richong Zhang, Junfan Chen, Jaein Kim",
+      "paper_url": "https://aclanthology.org/2024.acl-long.190.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_521",
+      "paper_id": "",
+      "title": "Question Answering Over Temporal Knowledge Graphs",
+      "authors": "Apoorv Saxena, Soumen Chakrabarti, Partha Talukdar",
+      "paper_url": "https://aclanthology.org/2021.acl-long.520.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_415",
+      "paper_id": "",
+      "title": "Revisiting Classical Chinese Event Extraction with Ancient Literature Information",
+      "authors": "Xiaoyi Bao, Zhongqing Wang, Jinghang Gu, Chu-Ren Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.414.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_83",
+      "paper_id": "",
+      "title": "Robust Knowledge Graph Completion with Stacked Convolutions and a Student Re-Ranking Network",
+      "authors": "Justin Lovelace, Denis Newman-Griffis, Shikhar Vashishth, Jill Fain Lehman, Carolyn Rosé",
+      "paper_url": "https://aclanthology.org/2021.acl-long.82.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_403",
+      "paper_id": "",
+      "title": "RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion",
+      "authors": "Kai Chen, Ye Wang, Yitong Li, Aiping Li",
+      "paper_url": "https://aclanthology.org/2022.acl-long.402.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_603",
+      "paper_id": "",
+      "title": "RSCF: Relation-Semantics Consistent Filter for Entity Embedding of Knowledge Graph",
+      "authors": "Junsik Kim, Jinwook Park, Kangil Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.602.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_314",
+      "paper_id": "",
+      "title": "Saliency as Evidence: Event Detection with Trigger Saliency Attribution",
+      "authors": "Jian Liu, Yufeng Chen, Jinan Xu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.313.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_366",
+      "paper_id": "",
+      "title": "Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs",
+      "authors": "Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.365.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_612",
+      "paper_id": "",
+      "title": "Semantic Structure Enhanced Event Causality Identification",
+      "authors": "Zhilei Hu, Zixuan Li, Xiaolong Jin, Long Bai, Saiping Guan, Jiafeng Guo, Xueqi Cheng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.610.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_357",
+      "paper_id": "",
+      "title": "SEOE: A Scalable and Reliable Semantic Evaluation Framework for Open Domain Event Detection",
+      "authors": "Yi-Fan Lu, Xian-Ling Mao, Tian Lan, Tong Zhang, Yu-Shi Zhu, Heyan Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.356.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_202",
+      "paper_id": "",
+      "title": "Sequence-to-Sequence Knowledge Graph Completion and Question Answering",
+      "authors": "Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla",
+      "paper_url": "https://aclanthology.org/2022.acl-long.201.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_745",
+      "paper_id": "",
+      "title": "Shrinking Embeddings for Hyper-Relational Knowledge Graphs",
+      "authors": "Bo Xiong, Mojtaba Nayyeri, Shirui Pan, Steffen Staab",
+      "paper_url": "https://aclanthology.org/2023.acl-long.743.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_296",
+      "paper_id": "",
+      "title": "SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models",
+      "authors": "Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.295.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_597",
+      "paper_id": "",
+      "title": "Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion",
+      "authors": "Rui Ying, Mengting Hu, Jianfeng Wu, Yalan Xie, Xiaoyi Liu, Zhunheng Wang, Ming Jiang, Hang Gao, Linlin Zhang, Renhong Cheng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.596.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_165",
+      "paper_id": "",
+      "title": "Synergetic Event Understanding: A Collaborative Approach to Cross-Document Event Coreference Resolution with Large Language Models",
+      "authors": "Qingkai Min, Qipeng Guo, Xiangkun Hu, Songfang Huang, Zheng Zhang, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.164.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1434",
+      "paper_id": "",
+      "title": "Synergizing Unsupervised Episode Detection with LLMs for Large-Scale News Events",
+      "authors": "Priyanka Kargupta, Yunyi Zhang, Yizhu Jiao, Siru Ouyang, Jiawei Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1433.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_864",
+      "paper_id": "",
+      "title": "TeAST: Temporal Knowledge Graph Embedding via Archimedean Spiral Timeline",
+      "authors": "Jiang Li, Xiangdong Su, Guanglai Gao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.862.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_73",
+      "paper_id": "",
+      "title": "TECHS: Temporal Logical Graph Networks for Explainable Extrapolation Reasoning",
+      "authors": "Qika Lin, Jun Liu, Rui Mao, Fangzhi Xu, Erik Cambria",
+      "paper_url": "https://aclanthology.org/2023.acl-long.71.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_268",
+      "paper_id": "",
+      "title": "Temporal Knowledge Question Answering via Abstract Reasoning Induction",
+      "authors": "Ziyang Chen, Dongfang Li, Xiang Zhao, Baotian Hu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.267.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1363",
+      "paper_id": "",
+      "title": "Temporal reasoning for timeline summarisation in social media",
+      "authors": "Jiayu Song, Mahmud Elahi Akhter, Dana Atzil-Slonim, Maria Liakata",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1362.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1252",
+      "paper_id": "",
+      "title": "Temporal Relation Extraction in Clinical Texts: A Span-based Graph Transformer Approach",
+      "authors": "Rochana Chaturvedi, Peyman Baghershahi, Sourav Medya, Barbara Di Eugenio",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1251.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_474",
+      "paper_id": "",
+      "title": "TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion",
+      "authors": "Ziyang Liu, Chaokun Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.473.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_234",
+      "paper_id": "",
+      "title": "Text is All You Need: LLM-enhanced Incremental Social Event Detection",
+      "authors": "Zitai Qiu, Congbo Ma, Jia Wu, Jian Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.233.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1438",
+      "paper_id": "",
+      "title": "Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement",
+      "authors": "Yaxuan Kong, Yiyuan Yang, Yoontae Hwang, Wenjie Du, Stefan Zohren, Zhangyang Wang, Ming Jin, Qingsong Wen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1437.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_216",
+      "paper_id": "",
+      "title": "TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation",
+      "authors": "Yikai Zhang, Siyu Yuan, Caiyu Hu, Kyle Richardson, Yanghua Xiao, Jiangjie Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.215.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_67",
+      "paper_id": "",
+      "title": "TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models",
+      "authors": "Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Haotian Wang, Ming Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.66.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_550",
+      "paper_id": "",
+      "title": "TIMEDIAL: Temporal Commonsense Reasoning in Dialog",
+      "authors": "Lianhui Qin, Aditya Gupta, Shyam Upadhyay, Luheng He, Yejin Choi, Manaal Faruqui",
+      "paper_url": "https://aclanthology.org/2021.acl-long.549.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_188",
+      "paper_id": "",
+      "title": "Timeline-based Sentence Decomposition with In Context Learning for Temporal Fact Extraction",
+      "authors": "Jianhao Chen, Haoyuan Ouyang, Junyang Ren, Wentao Ding, Wei Hu, Yuzhong Qu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.187.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_351",
+      "paper_id": "",
+      "title": "To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion",
+      "authors": "Rui Li, Xu Chen, Chaozhuo Li, Yanming Shen, Jianan Zhao, Yujing Wang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Xing Xie",
+      "paper_url": "https://aclanthology.org/2023.acl-long.349.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_830",
+      "paper_id": "",
+      "title": "Towards Benchmarking and Improving the Temporal Reasoning Capability of Large Language Models",
+      "authors": "Qingyu Tan, Hwee Tou Ng, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2023.acl-long.828.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_393",
+      "paper_id": "",
+      "title": "UniEvent: Unified Generative Model with Multi-Dimensional Prefix for Zero-Shot Event-Relational Reasoning",
+      "authors": "Zhengwei Tao, Zhi Jin, Haiyan Zhao, Chengfeng Dou, Yongqiang Zhao, Tao Shen, Chongyang Tao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.391.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_430",
+      "paper_id": "",
+      "title": "Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding",
+      "authors": "Hidetaka Kamigaito, Katsuhiko Hayashi",
+      "paper_url": "https://aclanthology.org/2021.acl-long.429.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_491",
+      "paper_id": "",
+      "title": "Unleash GPT-2 Power for Event Detection",
+      "authors": "Amir Pouran Ben Veyseh, Viet Lai, Franck Dernoncourt, Thien Huu Nguyen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.490.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_95",
+      "paper_id": "",
+      "title": "UnSeenTimeQA: Time-Sensitive Question-Answering Beyond LLMs’ Memorization",
+      "authors": "Md Nayem Uddin, Amir Saeidi, Divij Handa, Agastya Seth, Tran Cao Son, Eduardo Blanco, Steven Corman, Chitta Baral",
+      "paper_url": "https://aclanthology.org/2025.acl-long.94.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_442",
+      "paper_id": "",
+      "title": "Zero- and Few-Shot Event Detection via Prompt-Based Meta Learning",
+      "authors": "Zhenrui Yue, Huimin Zeng, Mengfei Lan, Heng Ji, Dong Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.440.pdf",
+      "venue": "acl23"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Pre-Training & Representation Learning",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Contrastive/masked vision–language pre-training",
+                    "what_is_covered": "Learn aligned image–text embeddings before any task-specific tuning.",
+                    "typical_examples": "ViT/CLIP contrastive/masked pretrain; strong aug.; $T{=}0.07$; 40–600 ep finetune.",
+                    "cluster": "5"
+                },
+                {
+                    "id": "1.2",
+                    "name": "Adapter-aided diffusion image/video pre-training",
+                    "what_is_covered": "Freeze released checkpoints; add lightweight adapters to scale.",
+                    "typical_examples": "Frozen ckpt + LoRA/prompt; AdamW + cos LR; prog-res; CF guidance.",
+                    "cluster": "13"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Fine-Tuning & Adaptation",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Vision–language instruction tuning",
+                    "what_is_covered": "Turn a frozen VLM into an instruction follower.",
+                    "typical_examples": "Image–text pretrain→inst. tune; PEFT; opt. RLHF.",
+                    "cluster": "1"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Parameter-efficient domain adaptation",
+                    "what_is_covered": "Keep backbone frozen; adapt via prompts/adapters only.",
+                    "typical_examples": "Prompt/adapter/LoRA; distill or contrastive shift.",
+                    "cluster": "10"
+                },
+                {
+                    "id": "2.3",
+                    "name": "Instruction SFT + retrieval alignment",
+                    "what_is_covered": "Align an LLM with retrieval and preferences.",
+                    "typical_examples": "Multi-stage SFT; retrieval ctx; DPO/RLHF; rerank→generate.",
+                    "cluster": "6"
+                },
+                {
+                    "id": "2.4",
+                    "name": "3-D coarse-to-fine diffusion adaptation",
+                    "what_is_covered": "Make diffusion/LLM backbones 3-D consistent.",
+                    "typical_examples": "Alt. SDS/guidance; synth views; render-denoise distill.",
+                    "cluster": "4"
+                },
+                {
+                    "id": "2.5",
+                    "name": "Video-diffusion adapter tuning",
+                    "what_is_covered": "Specialise image diffusion for temporal output.",
+                    "typical_examples": "Temp/spatial adapters; latent denoise; low→high-res.",
+                    "cluster": "7"
+                },
+                {
+                    "id": "2.6",
+                    "name": "Controllable diffusion sampling",
+                    "what_is_covered": "Add style/identity knobs without retraining core model.",
+                    "typical_examples": "Var-score-recon losses; dyn. guidance; feature mod.",
+                    "cluster": "8"
+                },
+                {
+                    "id": "2.7",
+                    "name": "Layout / prompt-conditioned diffusion",
+                    "what_is_covered": "Condition generation on structured layouts or text.",
+                    "typical_examples": "LLM layout cond.; masked-attn sampling; coarse→fine.",
+                    "cluster": "11"
+                },
+                {
+                    "id": "2.8",
+                    "name": "Composite-loss self-supervised fine-tuning",
+                    "what_is_covered": "Improve a backbone with multiple unsupervised signals.",
+                    "typical_examples": "Mask/noise; contrast+recon+distill; EMA teacher.",
+                    "cluster": "15"
+                },
+                {
+                    "id": "2.9",
+                    "name": "Pseudo-label self-training",
+                    "what_is_covered": "Self-train using synthetic multimodal labels.",
+                    "typical_examples": "Synth labels (Diff/LLM/SAM); filter; adapter FT; contrast/distill.",
+                    "cluster": "16"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Reinforcement Learning & Control",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Diffusion-backed policy optimisation",
+                    "what_is_covered": "Blend BC and RL signals for policy training.",
+                    "typical_examples": "Traj samp; BC+PPO; Q-guided denoise; self-play.",
+                    "cluster": "0"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Hierarchical planning & embodied control",
+                    "what_is_covered": "Combine VLM/LLM skills with robotic policies.",
+                    "typical_examples": "Skill seg; hier plan; RH control; real-time accel.",
+                    "cluster": "19"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Efficiency & Compression",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Model compression & quantisation",
+                    "what_is_covered": "Shrink models with minimal retraining.",
+                    "typical_examples": "Low-rank+sparse; mixed-prec.; prune+search.",
+                    "cluster": "2"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Transformer training / inference acceleration",
+                    "what_is_covered": "Architectural and parallel tricks to cut runtime.",
+                    "typical_examples": "Multi-dev partition; sparse/flash attn; KV prune; stride denoise.",
+                    "cluster": "9"
+                },
+                {
+                    "id": "4.3",
+                    "name": "Hyper-parameter & infrastructure optimisation",
+                    "what_is_covered": "Well-tuned schedules and distributed stacks.",
+                    "typical_examples": "AdamW warm-cos LR; FP16/BF16; DeepSpeed; 100k–500k steps.",
+                    "cluster": "17"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Safety & Adversarial Robustness",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "Jailbreak & adversarial prompt synthesis",
+                    "what_is_covered": "Craft inputs that bypass safety guards.",
+                    "typical_examples": "Harmful data; shadow model; grad token opt; synth prompt.",
+                    "cluster": "12"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,749 @@
+{
+  "cluster_id": 124,
+  "papers": [
+    {
+      "id": "siggraph22_papers_635",
+      "paper_id": "papers_635",
+      "title": "A General Two-stage Initialization for Sag-free Deformable Simulations",
+      "authors": "Jerry Hsu, Nghia Truong, Cem Yuksel, Kui Wu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_268",
+      "paper_id": "papers_268",
+      "title": "A GPU-based Multilevel Additive Schwarz Preconditioner for Cloth and Deformable Body Simulation",
+      "authors": "Botao Wu, Zhendong Wang, Huamin Wang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_paperstog_138",
+      "paper_id": "paperstog_138",
+      "title": "A Large Scale Benchmark and an Inclusion-based Algorithm for Continuous Collision Detection",
+      "authors": "Bolun Wang, Zachary Ferguson, Teseo Schneider, Xin Jiang, Marco Attene, Daniele Panozzo, Bolun Wang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_paperstog_117",
+      "paper_id": "paperstog_117",
+      "title": "A Safe and Fast Repulsion Method for GPU-based Cloth Self Collisions",
+      "authors": "Longhua Wu, Botao Wu, Yin Yang, Huamin Wang",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_591",
+      "paper_id": "papers_591",
+      "title": "A Time-independent Deformer for Elastic Contacts",
+      "authors": "Camille Brunel, Pierre Bénard, Gaël Guennebaud",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_212",
+      "paper_id": "papers_212",
+      "title": "A Unified Newton Barrier Method for Multibody Dynamics",
+      "authors": "Yunuo Chen, Minchen Li, Lei Lan, Hao Su, Yin Yang, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_5f211c2c14",
+      "paper_id": "5f211c2c14",
+      "title": "A Versatile Quaternion-Based Constrained Rigid Body Dynamics",
+      "authors": "Guirec Maloisel, Ruben Grandia, Christian Schumacher, Espen Knoop, Moritz Bächer",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_450",
+      "paper_id": "papers_450",
+      "title": "Adaptive Rigidification of Elastic Solids",
+      "authors": "Alexandre Mercier-Aubin, Alexander Winter, David Levin, Paul Kry",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_00323ffca6",
+      "paper_id": "00323ffca6",
+      "title": "Advancing GPU IPC for Stiff Affine-Deformable Simulation",
+      "authors": "Kemeng Huang, Xinyu Lu, Huancheng Lin, Taku Komura, Minchen Li, Kemeng Huang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_169",
+      "paper_id": "papers_169",
+      "title": "Affine Body Dynamics: Fast, Stable, and Intersection-free Simulation of Stiff Materials",
+      "authors": "Lei Lan, Danny Kaufman, Minchen Li, Chenfanfu Jiang, Yin Yang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_251",
+      "paper_id": "papers_251",
+      "title": "Analytically Integratable Zero-restlength Springs for Capturing Dynamic Modes Unrepresented by Quasistatic Neural Networks",
+      "authors": "Yongxu Jin, Yushan Han, Zhenglin Geng, Joseph Teran, Ronald Fedkiw",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_5c119ba8e1",
+      "paper_id": "5c119ba8e1",
+      "title": "ANIME-Rod: Adjustable Nonlinear Isotropic Materials for Elastic Rods",
+      "authors": "Huanyu Chen, Jiahao Wen, Jernej Barbič",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_pos_127",
+      "paper_id": "pos_127",
+      "title": "Artist Controlled Fracture Design Using Impurity Maps",
+      "authors": "Avirup Mandal, Parag Chaudhuri, Subhasis Chaudhuri",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_5eda7167a1",
+      "paper_id": "5eda7167a1",
+      "title": "Augmented Vertex Block Descent",
+      "authors": "Chris Giles, Elie Diaz, Cem Yuksel",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_8384705371",
+      "paper_id": "8384705371",
+      "title": "Automated Task Scheduling for Cloth and Deformable Body Simulations in Heterogeneous Computing Environments",
+      "authors": "Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_3fa122caf3",
+      "paper_id": "3fa122caf3",
+      "title": "C5D: Sequential Continuous Convex Collision Detection Using Cone Casting",
+      "authors": "Xiaodi Yuan, Fanbo Xiang, Yin Yang, Hao Su",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_210",
+      "paper_id": "papers_210",
+      "title": "Codimensional Incremental Potential Contact",
+      "authors": "Minchen Li, Danny M. Kaufman, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_494",
+      "paper_id": "papers_494",
+      "title": "Complex Wrinkle Field Evolution",
+      "authors": "Zhen Chen, Danny Kaufman, Mélina Skouras, Etienne Vouga",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_841",
+      "paper_id": "papers_841",
+      "title": "Compressed Skinning for Facial Blendshapes",
+      "authors": "Ladislav Kavan, John Doublestein, Martin Prazak, Matthew Cioffi, Doug Roble",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_588",
+      "paper_id": "papers_588",
+      "title": "Constrained Projective Dynamics: Real-time Simulation of Deformable Objects With Energy-momentum Conservation",
+      "authors": "Min Hyung Kee, Kiwon Um, WooSeok Jeong, JungHyun Han",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_paperstog_116",
+      "paper_id": "paperstog_116",
+      "title": "Constraint-based Simulation of Passive Suction Cups",
+      "authors": "Antonin Bernardin, Eulalie Coevoet, Paul Kry, Sheldon Andrews, Christian Duriez, Maud Marchal, Maud Marchal",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_723",
+      "paper_id": "papers_723",
+      "title": "Contact Detection Between Curved Fibres: High Order Makes a Difference",
+      "authors": "Octave Crespel, Emile Hohnadel, Thibaut Metivet, Florence Bertails-Descoubes",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_775",
+      "paper_id": "papers_775",
+      "title": "Contact-centric Deformation Learning",
+      "authors": "Cristian Romero, Dan Casas, Maurizio Chiaramonte, Miguel A. Otaduy",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_258",
+      "paper_id": "papers_258",
+      "title": "ContourCraft: Learning to Resolve Intersections in Neural Multi-garment Simulations",
+      "authors": "Artur Grigorev, Giorgio Becherini, Michael Black, Otmar Hilliges, Bernhard Thomaszewski",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_paperstog_150",
+      "paper_id": "paperstog_150",
+      "title": "DiffCloth: Differentiable Cloth Simulation With Dry Frictional Contact",
+      "authors": "Yifei Li, Tao Du, Kui Wu, Jie Xu, Wojciech Matusik, Yifei Li",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_paperstog_118",
+      "paper_id": "paperstog_118",
+      "title": "Differentiable solver for time-dependent deformation problems with contact",
+      "authors": "Zizhou Huang, Davi Colli Tozoni, Arvi Gjoka, Zachary Ferguson, Teseo Schneider, Daniele Panozzo, Denis Zorin, Zizhou Huang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_319",
+      "paper_id": "papers_319",
+      "title": "Differentiable Voronoi Diagrams for Simulation of Cell-based Mechanical Systems",
+      "authors": "Logan Numerow, Yue Li, Stelian Coros, Bernhard Thomaszewski",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_paperstog_136",
+      "paper_id": "paperstog_136",
+      "title": "DiffPD: Differentiable Projective Dynamics",
+      "authors": "Tao Du, Kui Wu, Pingchuan Ma, Sebastien Wah, Andrew Spielberg, Daniela Rus, Wojciech Matusik, Kui Wu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_244",
+      "paper_id": "papers_244",
+      "title": "Direct Delta Mush Skinning Compression With Continuous Examples",
+      "authors": "Binh Huy Le, Keven Villeneuve, Carlos Gonzalez-Ochoa",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_ffeae117dd",
+      "paper_id": "ffeae117dd",
+      "title": "Dynamic Skinning: Kinematics-Driven Cartoon Effects for Articulated Characters",
+      "authors": "Karim Salem, Damien Rohmer, Niranjan Kalyanasundaram, Victor Zordan",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_643",
+      "paper_id": "papers_643",
+      "title": "Efficient Position-based Deformable Colon Modeling for Endoscopic Procedures Simulation",
+      "authors": "Marcelo Martins, Lucas Morais, Rafael Torchelsen, Luciana Nedel, Anderson Maciel",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_dcb6c75a03",
+      "paper_id": "dcb6c75a03",
+      "title": "Elastic Locomotion with Mixed Second-order Differentiation",
+      "authors": "Siyuan Shen, Tianjia Shao, Kun Zhou, Chenfanfu Jiang, Sheldon Andrews, Victor Zordan, Yin Yang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_196",
+      "paper_id": "papers_196",
+      "title": "Energetically Consistent Inelasticity for Optimization Time Integration",
+      "authors": "Xuan Li, Minchen Li, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_6e1219b660",
+      "paper_id": "6e1219b660",
+      "title": "Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact",
+      "authors": "Ziqiu Zeng, Siyuan Luo, Fan Shi, Zhongkai Zhang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_502",
+      "paper_id": "papers_502",
+      "title": "Fast Complementary Dynamics via Skinning Eigenmodes",
+      "authors": "Otman Benchekroun, Jiayi Eris Zhang, Siddhartha Chaudhuri, Eitan Grinspun, Yi Zhou, Alec Jacobson",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_paperstog_124",
+      "paper_id": "paperstog_124",
+      "title": "Fast GPU-based Two-way Continuous Collision Handling",
+      "authors": "Tianyu Wang, Jiong Chen, Dongping Li, Xiaowei Liu, Huamin Wang, Kun Zhou, Tianyu Wang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_329",
+      "paper_id": "papers_329",
+      "title": "Filament Based Plasma",
+      "authors": "Marcel Padilla, Oliver Gross, Felix Knöppel, Albert Chern, Ulrich Pinkall, Peter Schröder",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_paperstog_132",
+      "paper_id": "paperstog_132",
+      "title": "Fine Wrinkling on Coarsely Meshed Thin Shells",
+      "authors": "Zhen Chen, Hsiao-yu Chen, Danny Kaufman, Melina Skouras, Etienne Vouga, Zhen Chen",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_paperstog_114",
+      "paper_id": "paperstog_114",
+      "title": "Frictional Contact on Smooth Elastic Solids",
+      "authors": "Egor Larionov, Ye Fan, Dinesh K. Pai",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_9d019a8a9e",
+      "paper_id": "9d019a8a9e",
+      "title": "Geometric Contact Potential",
+      "authors": "Zizhou Huang, Maxwell Paik, Zachary Ferguson, Daniele Panozzo, Denis Zorin",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_paperstog_102",
+      "paper_id": "paperstog_102",
+      "title": "GIPC: Fast and stable Gauss-Newton optimization of IPC barrier energy",
+      "authors": "Kemeng Huang, Floyd Chitalu, Huancheng Lin, Taku Komura, Kemeng Huang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_476",
+      "paper_id": "papers_476",
+      "title": "Go Green: General Regularized Green's Functions for Elasticity",
+      "authors": "Jiong Chen, Mathieu Desbrun",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_271",
+      "paper_id": "papers_271",
+      "title": "GPU-based Simulation of Cloth Wrinkles at Submillimeter Levels",
+      "authors": "Huamin Wang",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_168",
+      "paper_id": "papers_168",
+      "title": "High-order Differentiable Autoencoder for Nonlinear Model Reduction",
+      "authors": "Siyuan Shen, Yin Yang, Tianjia Shao, He Wang, Chenfanfu Jiang, Lei Lan, Kun Zhou",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_231",
+      "paper_id": "papers_231",
+      "title": "High-order Incremental Potential Contact for Elastodynamic Simulation on Curved Meshes",
+      "authors": "Zachary Ferguson, Pranav Jain, Denis Zorin, Teseo Schneider, Daniele Panozzo",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_7a4fdea5e5",
+      "paper_id": "7a4fdea5e5",
+      "title": "High-performance CPU Cloth Simulation Using Domain-decomposed Projective Dynamics",
+      "authors": "Zixuan Lu, Ziheng Liu, Lei Lan, Huamin Wang, Yuko Ishiwaka, Chenfanfu Jiang, Kui Wu, Yin Yang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_f4e2e5e96c",
+      "paper_id": "f4e2e5e96c",
+      "title": "Hyper-Dimensional Deformation Simulation",
+      "authors": "Alvin Shi, Haomiao Wu, Theodore Kim",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_573",
+      "paper_id": "papers_573",
+      "title": "Implicit Swept Volume SDF: Enabling Continuous Collision-free Trajectory Generation for Arbitrary Shapes",
+      "authors": "Jingping Wang, Tingrui Zhang, Qixuan Zhang, Chuxiao Zeng, Jingyi Yu, Chao Xu, Lan Xu, Fei Gao",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_640",
+      "paper_id": "papers_640",
+      "title": "In-Timestep Remeshing for Contacting Elastodynamics",
+      "authors": "Zachary Ferguson, Teseo Schneider, Danny Kaufman, Daniele Panozzo",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_a756e86501",
+      "paper_id": "a756e86501",
+      "title": "Instant Self-Intersection Repair for 3D Meshes",
+      "authors": "Wonjong Jang, Yucheol Jung, Gyeongmin Lee, Seungyong Lee",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_750",
+      "paper_id": "papers_750",
+      "title": "Interactive Hair Simulation on the GPU Using ADMM",
+      "authors": "Gilles Daviet",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_296",
+      "paper_id": "papers_296",
+      "title": "Intersection-free Rigid Body Dynamics",
+      "authors": "Zachary Ferguson, Minchen Li, Teseo Schneider, Francisca Gil-Ureta, Timothy Langlois, Chenfanfu Jiang, Denis Zorin, Danny M. Kaufman, Daniele Panozzo",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_a35fcef419",
+      "paper_id": "a35fcef419",
+      "title": "JGS2: Near Second-order Converging Jacobi/Gauss-Seidel for GPU Elastodynamics",
+      "authors": "Lei Lan, Zixuan Lu, Chun Yuan, Weiwei Xu, Hao Su, Huamin Wang, Chenfanfu Jiang, Yin Yang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_566",
+      "paper_id": "papers_566",
+      "title": "Learning Contact Corrections for Handle-based Subspace Dynamics",
+      "authors": "Cristian Romero, Dan Casas, Jesús Pérez, Miguel A. Otaduy",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_5f970751e1",
+      "paper_id": "5f970751e1",
+      "title": "Lifting the Winding Number: Precise Discontinuities in Neural Fields for Physics Simulation",
+      "authors": "Yue Chang, Mengfei Liu, Zhecheng Wang, Peter Yichen Chen, Eitan Grinspun",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_334",
+      "paper_id": "papers_334",
+      "title": "Local Deformation for Interactive Shape Editing",
+      "authors": "Honglin Chen, Changxi Zheng, Kevin Wampler",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_paperstog_106",
+      "paper_id": "paperstog_106",
+      "title": "MERCI: Mixed curvature-based elements for computing equilibria of thin elastic ribbons",
+      "authors": "Raphaël Charrondière, Sébastien Neukirch, Florence Bertails-Descoubes, Sébastien Neukirch, Florence Bertails-Descoubes",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_4f8b6645cf",
+      "paper_id": "4f8b6645cf",
+      "title": "MGPBD: A Multigrid Accelerated Global XPBD Solver",
+      "authors": "Chunlei Li, Peng Yu, Tiantian Liu, Siyuan Yu, Yuting Xiao, Shuai Li, Aimin Hao, Yang Gao, Qinping Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_1001",
+      "paper_id": "papers_1001",
+      "title": "Modelling a Feather as a Strongly Anisotropic Elastic Shell",
+      "authors": "Jean Jouve, Victor Romero, Rahul Narain, Laurence Boissieux, Theodore Kim, Florence Bertails-Descoubes",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_253",
+      "paper_id": "papers_253",
+      "title": "Multi-layer Thick Shells",
+      "authors": "Yunuo Chen, Tianyi Xie, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_40d6d01f58",
+      "paper_id": "40d6d01f58",
+      "title": "NeST: Neural Stress Tensor Tomography by leveraging 3D Photoelasticity",
+      "authors": "Akshat Dave, Tianyi Zhang, Aaron Young, Ramesh Raskar, Wolfgang Heidrich, Ashok Veeraraghavan, Akshat Dave",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_3b3ea5d9b7",
+      "paper_id": "3b3ea5d9b7",
+      "title": "Neurally Integrated Finite Elements for Differentiable Elasticity on Evolving Domains",
+      "authors": "Gilles Daviet, Tianchang Shen, Nicholas Sharp, David Levin, Gilles Daviet",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_da75021597",
+      "paper_id": "da75021597",
+      "title": "Offset Geometric Contact",
+      "authors": "Anka H. Chen, Jerry Hsu, Ziheng Liu, Miles Macklin, Yin Yang, Cem Yuksel",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_b1c6ced420",
+      "paper_id": "b1c6ced420",
+      "title": "Optimal r-Adaptive In-Timestep Remeshing for Elastodynamics",
+      "authors": "Jiahao Wen, Jernej Barbic, Danny Kaufman",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_ba1444a454",
+      "paper_id": "ba1444a454",
+      "title": "Painless Differentiable Rotation Dynamics",
+      "authors": "Magí Romanyà, Miguel A. Otaduy",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_188",
+      "paper_id": "papers_188",
+      "title": "Penetration-free Projective Dynamics on the GPU",
+      "authors": "Lei Lan, Guanqun Ma, Yin Yang, Changxi Zheng, Minchen Li, Chenfanfu Jiang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_134",
+      "paper_id": "papers_134",
+      "title": "Physical Validation of Simulators in Computer Graphics: A New Framework Dedicated to Slender Elastic Structures and Frictional Contact",
+      "authors": "Victor Romero, Mickaël Ly, Abdullah Haroon Rasheed, Raphaël Charrondière, Arnaud Lazarus, Sébastien Neukirch, Florence Bertails-Descoubes",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_7d0812297d",
+      "paper_id": "7d0812297d",
+      "title": "Physics-inspired Estimation of Optimal Cloth Mesh Resolution",
+      "authors": "Diyang Zhang, Zhendong Wang, Zegao Liu, Xinming Pei, Weiwei Xu, Huamin Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_328",
+      "paper_id": "papers_328",
+      "title": "Position-based Nonlinear Gauss-Seidel for Quasistatic Hyperelasticity",
+      "authors": "Yizhou Chen, Yushan Han, Jingyu Chen, Zhan Zhang, Alex McAdams, Joseph Teran",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_907",
+      "paper_id": "papers_907",
+      "title": "Preconditioned Nonlinear Conjugate Gradient Method for Real-time Interior-point Hyperelasticity",
+      "authors": "Xing Shen, Runyuan Cai, Mengxiao Bi, Tangjie Lv",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_884",
+      "paper_id": "papers_884",
+      "title": "Primal-dual Non-smooth Friction for Rigid Body Animation",
+      "authors": "Yi-Lu Chen, Mickaël Ly, Chris Wojtan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_893",
+      "paper_id": "papers_893",
+      "title": "Progressive Dynamics for Cloth and Shell Animation",
+      "authors": "Jiayi Eris Zhang, Doug James, Danny M. Kaufman",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_7bd6d57f23",
+      "paper_id": "7bd6d57f23",
+      "title": "Progressive Dynamics++: A Framework for Stable, Continuous, and Consistent Animation Across Resolution and Time",
+      "authors": "Jiayi Eris Zhang, Doug James, Danny Kaufman",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_560",
+      "paper_id": "papers_560",
+      "title": "Proxy Asset Generation for Cloth Simulation in Games",
+      "authors": "Zhongtian Zheng, Tongtong Wang, Qijia Feng, Zherong Pan, Xifeng Gao, Kui Wu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_e63225e02d",
+      "paper_id": "e63225e02d",
+      "title": "Putting Rigid Bodies to Rest",
+      "authors": "Hossein Baktash, Nicholas Sharp, Qingnan Zhou, Alec Jacobson, Keenan Crane",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_169",
+      "paper_id": "papers_169",
+      "title": "SANM: A Symbolic Asymptotic Numerical Solver With Applications in Mesh Deformation",
+      "authors": "Kai Jia",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_pos_149",
+      "paper_id": "pos_149",
+      "title": "Scalable Visual Simulation of Ductile and Brittle Fracture",
+      "authors": "Avirup Mandal, Parag Chaudhuri, Subhasis Chaudhuri",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_199",
+      "paper_id": "papers_199",
+      "title": "Second-order Stencil Descent for Interior-point Hyperelasticity",
+      "authors": "Lei Lan, Minchen Li, Chenfanfu Jiang, Huamin Wang, Yin Yang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_373",
+      "paper_id": "papers_373",
+      "title": "Shortest Path to Boundary for Self-intersecting Meshes",
+      "authors": "He Chen, Elie Diaz, Cem Yuksel",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_paperstog_124",
+      "paper_id": "paperstog_124",
+      "title": "SIERE: A Hybrid Semi-implicit Exponential Integrator for Efficiently Simulating Stiff Deformable Objects",
+      "authors": "Yu Ju Chen, Seung Heon Sheen, Uri Ascher, Dinesh K. Pai",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_599",
+      "paper_id": "papers_599",
+      "title": "Simplicits: Mesh-free, Geometry-agnostic Elastic Simulation",
+      "authors": "Vismay Modi, Nicholas Sharp, Or Perel, Shinjiro Sueda, David Levin",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_paperstog_103",
+      "paper_id": "paperstog_103",
+      "title": "Simulating Brittle Fracture With Material Points",
+      "authors": "Linxu Fan, Floyd Chitalu, Taku Komura, Floyd Chitalu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_b72ac313f3",
+      "paper_id": "b72ac313f3",
+      "title": "Simulating the Mechanics of Ant Swarm Aggregations",
+      "authors": "Matthew Loges, Tomer Weiss",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_523",
+      "paper_id": "papers_523",
+      "title": "Simulation and Optimization of Magnetoelastic Thin Shells",
+      "authors": "Xuwen Chen, Xingyu Ni, Bo Zhu, Bin Wang, Baoquan Chen",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_ef06f7c11f",
+      "paper_id": "ef06f7c11f",
+      "title": "Stable Cosserat Rods",
+      "authors": "Jerry Hsu, Tongtong Wang, Kui Wu, Cem Yuksel",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_486",
+      "paper_id": "papers_486",
+      "title": "Stabler Neo-Hookean Simulation: Absolute Eigenvalue Filtering for Projected Newton",
+      "authors": "Honglin Chen, Hsueh-Ti Derek Liu, David I.W. Levin, Changxi Zheng, Alec Jacobson",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_374",
+      "paper_id": "papers_374",
+      "title": "Sum-of-squares Collision Detection for Curved Shapes and Paths",
+      "authors": "Paul Zhang, Zoë Marschner, Justin Solomon, Rasmus Tamstorf",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_234",
+      "paper_id": "papers_234",
+      "title": "Super-resolution Cloth Animation With Spatial and Temporal Coherence",
+      "authors": "Jiawang Yu, Zhendong Wang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_230",
+      "paper_id": "papers_230",
+      "title": "The Shape Matching Element Method: Direct Animation of Curved Surface Models",
+      "authors": "Ty M. Trusty, Honglin Chen, David I.W. Levin",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_254",
+      "paper_id": "papers_254",
+      "title": "Unified Many-worlds Browsing of Arbitrary Physics-based Animations",
+      "authors": "Purvi Goel, Doug L. James",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_8d0387b38b",
+      "paper_id": "8d0387b38b",
+      "title": "Variational Elastodynamic Simulation",
+      "authors": "Leticia Mattos Da Silva, Silvia Sellán, Natalia Pacheco-Tallaj, Justin Solomon",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_564",
+      "paper_id": "papers_564",
+      "title": "Vertex Block Descent",
+      "authors": "Anka H. Chen, Ziheng Liu, Yin Yang, Cem Yuksel",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_529",
+      "paper_id": "papers_529",
+      "title": "WRAPD: Weighted Rotation-aware ADMM for Parameterization and Deformation",
+      "authors": "George E. Brown, Rahul Narain",
+      "paper_url": "",
+      "venue": "siggraph21"
+    }
+  ]
+}

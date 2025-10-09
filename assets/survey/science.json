@@ -1,0 +1,131 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Earth & Environmental Sciences",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Climate & Ecosystem Dynamics",
+                    "what_is_covered": "Interactions among climate change, carbon cycling and biodiversity, including conservation responses",
+                    "typical_examples": "Biodiversity loss; Conservation strategies; Climate change impacts; Climate change; Carbon cycle; Environmental impacts",
+                    "cluster": "0,1"
+                },
+                {
+                    "id": "1.2",
+                    "name": "Geophysical Processes",
+                    "what_is_covered": "Physical processes shaping Earth\u2019s solid and cryospheric systems",
+                    "typical_examples": "Earthquakes; Volcanism; Ice dynamics",
+                    "cluster": "2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Space Science",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Stellar & Space-Plasma Physics",
+                    "what_is_covered": "Physics of stars, solar activity and the interstellar medium",
+                    "typical_examples": "Compact objects; Interstellar medium; Solar activity",
+                    "cluster": "9"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Biological Sciences",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Evolutionary Genomics",
+                    "what_is_covered": "Genetic mechanisms driving adaptation and speciation",
+                    "typical_examples": "Evolutionary genomics; adaptation; speciation",
+                    "cluster": "3"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Molecular & Cellular Regulation",
+                    "what_is_covered": "Molecular signaling and structural mechanisms governing development and genome integrity",
+                    "typical_examples": "Hormone signaling; Immune defense; Developmental regulation; Genome stability; Chromosome segregation; Cryo-EM structural biology",
+                    "cluster": "4,5"
+                },
+                {
+                    "id": "3.3",
+                    "name": "Neurobiology & Systems Neuroscience",
+                    "what_is_covered": "Gene-to-circuit bases of neural function, plasticity and behaviour",
+                    "typical_examples": "Neuroscience; Gene regulation; Single-cell; neural circuits; synaptic plasticity; behavior",
+                    "cluster": "6,8"
+                },
+                {
+                    "id": "3.4",
+                    "name": "Immunity, Infection & Therapy",
+                    "what_is_covered": "Host defence mechanisms and engineered immunotherapies against pathogens and cancer",
+                    "typical_examples": "Antiphage immunity; CRISPR systems; Antibiotic discovery; Immunoregulation; Metabolic signaling; Cancer therapy; Infectious disease; Immunotherapy; Molecular engineering",
+                    "cluster": "7,11,13"
+                },
+                {
+                    "id": "3.5",
+                    "name": "Synthetic & Computational Biology",
+                    "what_is_covered": "Design of biomolecules and biological systems using AI and synthetic methods",
+                    "typical_examples": "protein-design; deep-learning; synthetic-biology",
+                    "cluster": "12"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Materials & Chemical Sciences",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Catalysis & Chemical Transformations",
+                    "what_is_covered": "Selective catalytic methods for constructing organic molecules",
+                    "typical_examples": "Catalytic organic synthesis; Radical-mediated transformations; Selective C--H functionalization",
+                    "cluster": "14"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Advanced Functional Materials",
+                    "what_is_covered": "Smart, biointegrated and nanostructured materials with tailored properties",
+                    "typical_examples": "Smart materials; Biointegrated electronics; Soft robotics; Nanostructured materials; Energy storage; Functional properties",
+                    "cluster": "15,17"
+                },
+                {
+                    "id": "4.3",
+                    "name": "Energy Conversion & Separation Materials",
+                    "what_is_covered": "Materials enabling electrochemical, thermal and membrane-based energy technologies",
+                    "typical_examples": "Electrocatalysis; Porous framework materials; Membrane separations; Perovskite photovoltaics; Thermoelectric devices; Radiative cooling",
+                    "cluster": "16,18"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Physics & Quantum Technologies",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Quantum Materials & Information",
+                    "what_is_covered": "Exotic quantum phases and their application to information processing",
+                    "typical_examples": "Topological quantum phases; Quantum information processing; Strongly correlated matter",
+                    "cluster": "19"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Computational & Social Systems Science",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Information Dynamics & Society",
+                    "what_is_covered": "Computational study of information spread and persuasion in sociotechnical systems",
+                    "typical_examples": "misinformation propagation; democratic polarization; AI-mediated persuasion",
+                    "cluster": "10"
+                }
+            ]
+        }
+    ]
+}

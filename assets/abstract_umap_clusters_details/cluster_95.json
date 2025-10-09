@@ -1,0 +1,2037 @@
+{
+  "cluster_id": 95,
+  "papers": [
+    {
+      "id": "acl22_198",
+      "paper_id": "",
+      "title": "A Good Prompt Is Worth Millions of Parameters: Low-resource Prompt-based Learning for Vision-Language Models",
+      "authors": "Woojeong Jin, Yu Cheng, Yelong Shen, Weizhu Chen, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2022.acl-long.197.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_603",
+      "paper_id": "",
+      "title": "A Multi-Modal Context Reasoning Approach for Conditional Inference on Joint Textual and Visual Clues",
+      "authors": "Yunxin Li, Baotian Hu, Chen Xinyu, Yuxin Ding, Lin Ma, Min Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.601.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_911",
+      "paper_id": "",
+      "title": "A Neural Divide-and-Conquer Reasoning Framework for Image Retrieval from Linguistically Complex Text",
+      "authors": "Yunxin Li, Baotian Hu, Yuxin Ding, Lin Ma, Min Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.909.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1515",
+      "paper_id": "",
+      "title": "A Parameter-Efficient and Fine-Grained Prompt Learning for Vision-Language Models",
+      "authors": "Yongbin Guo, Shuzhen Li, Zhulin Liu, Tong Zhang, C.L.Philip Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1514.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1485",
+      "paper_id": "",
+      "title": "Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference",
+      "authors": "Siyuan Wang, Dianyi Wang, Chengxing Zhou, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1484.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_635",
+      "paper_id": "",
+      "title": "Activation Steering Decoding: Mitigating Hallucination in Large Vision-Language Models through Bidirectional Hidden State Intervention",
+      "authors": "Jingran Su, Jingfan Chen, Hongxin Li, Yuntao Chen, Li Qing, Zhaoxiang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.634.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_377",
+      "paper_id": "",
+      "title": "ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models",
+      "authors": "Ziyue Wang, Chi Chen, Fuwen Luo, Yurui Dong, Yuanchi Zhang, Yuzhuang Xu, Xiaolong Wang, Peng Li, Yang Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.376.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_405",
+      "paper_id": "",
+      "title": "Advancement in Graph Understanding: A Multimodal Benchmark and Fine-Tuning of Vision-Language Models",
+      "authors": "Qihang Ai, Jiafan Li, Jincheng Dai, Jianwu Zhou, Lemao Liu, Haiyun Jiang, Shuming Shi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.404.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_485",
+      "paper_id": "",
+      "title": "Aligning VLM Assistants with Personalized Situated Cognition",
+      "authors": "Yongqi Li, Shen Zhou, Xiaohu Li, Xin Miao, Jintao Wen, Mayi Xu, Jianhao Chen, Birong Pan, Hankun Kang, Yuanyuan Zhu, Ming Zhong, Tieyun Qian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.484.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_328",
+      "paper_id": "",
+      "title": "AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models",
+      "authors": "Yuhang Wu, Wenmeng Yu, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.327.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_519",
+      "paper_id": "",
+      "title": "Analyzing Generalization of Vision and Language Navigation to Unseen Outdoor Areas",
+      "authors": "Raphael Schumann, Stefan Riezler",
+      "paper_url": "https://aclanthology.org/2022.acl-long.518.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1240",
+      "paper_id": "",
+      "title": "Answering Complex Geographic Questions by Adaptive Reasoning with Visual Context and External Commonsense Knowledge",
+      "authors": "Fan Li, Jianxing Yu, Jielong Tang, Wenqing Chen, Hanjiang Lai, Yanghui Rao, Jian Yin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1239.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_944",
+      "paper_id": "",
+      "title": "Any Information Is Just Worth One Single Screenshot: Unifying Search With Visualized Information Retrieval",
+      "authors": "Zheng Liu, Ze Liu, Zhengyang Liang, Junjie Zhou, Shitao Xiao, Chao Gao, Chen Jason Zhang, Defu Lian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.943.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_522",
+      "paper_id": "",
+      "title": "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling",
+      "authors": "Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li, Hang Yan, Jie Fu, Tao Gui, Tianxiang Sun, Yu-Gang Jiang, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.521.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_131",
+      "paper_id": "",
+      "title": "Are Any-to-Any Models More Consistent Across Modality Transfers Than Specialists?",
+      "authors": "Jiwan Chung, Janghan Yoon, Junhyeong Park, Sangeyl Lee, Joowon Yang, Sooyeon Park, Youngjae Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.130.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_482",
+      "paper_id": "",
+      "title": "Attend What You Need: Motion-Appearance Synergistic Networks for Video Question Answering",
+      "authors": "Ahjeong Seo, Gi-Cheon Kang, Joonhan Park, Byoung-Tak Zhang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.481.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1302",
+      "paper_id": "",
+      "title": "Automated Structured Radiology Report Generation",
+      "authors": "Jean-Benoit Delbrouck, Justin Xu, Johannes Moll, Alois Thomas, Zhihong Chen, Sophie Ostmeier, Asfandyar Azhar, Kelvin Zhenghao Li, Andrew Johnston, Christian Bluethgen, Eduardo Pontes Reis, Mohamed S Muneer, Maya Varma, Curtis Langlotz",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1301.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_278",
+      "paper_id": "",
+      "title": "Babel-ImageNet: Massively Multilingual Evaluation of Vision-and-Language Representations",
+      "authors": "Gregor Geigle, Radu Timofte, Goran Glavaš",
+      "paper_url": "https://aclanthology.org/2024.acl-long.277.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1483",
+      "paper_id": "",
+      "title": "Benchmarking and Improving Large Vision-Language Models for Fundamental Visual Graph Understanding and Reasoning",
+      "authors": "Yingjie Zhu, Xuefeng Bai, Kehai Chen, Yang Xiang, Jun Yu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1482.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_606",
+      "paper_id": "",
+      "title": "Browse and Concentrate: Comprehending Multimodal Content via Prior-LLM Context Fusion",
+      "authors": "Ziyue Wang, Chi Chen, Yiqi Zhu, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.605.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_407",
+      "paper_id": "",
+      "title": "Browsing Lost Unformed Recollections: A Benchmark for Tip-of-the-Tongue Search and Reasoning",
+      "authors": "Sky CH-Wang, Darshan Girish Deshpande, Smaranda Muresan, Anand Kannappan, Rebecca Qian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.406.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_224",
+      "paper_id": "",
+      "title": "CaMML: Context-Aware Multimodal Learner for Large Models",
+      "authors": "Yixin Chen, Shuai Zhang, Boran Han, Tong He, Bo Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.223.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_546",
+      "paper_id": "",
+      "title": "Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?",
+      "authors": "Zihao Li, Lecheng Zheng, Bowen Jin, Dongqi Fu, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.545.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_701",
+      "paper_id": "",
+      "title": "Can MLLMs Understand the Deep Implication Behind Chinese Images?",
+      "authors": "Chenhao Zhang, Xi Feng, Yuelin Bai, Xeron Du, Jinchang Hou, Kaixin Deng, Guangzeng Han, Qinrui Li, Bingli Wang, Jiaheng Liu, Xingwei Qu, Yifei Zhang, Qixuan Zhao, Yiming Liang, Ziqiang Liu, Feiteng Fang, Min Yang, Wenhao Huang, Chenghua Lin, Ge Zhang, Shiwen Ni",
+      "paper_url": "https://aclanthology.org/2025.acl-long.700.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_32",
+      "paper_id": "",
+      "title": "Can Multimodal Large Language Models Understand Spatial Relations?",
+      "authors": "Jingping Liu, Ziyan Liu, Zhedong Cen, Yan Zhou, Yinan Zou, Weiyan Zhang, Haiyun Jiang, Tong Ruan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.31.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_444",
+      "paper_id": "",
+      "title": "CARETS: A Consistency And Robustness Evaluative Test Suite for VQA",
+      "authors": "Carlos E. Jimenez, Olga Russakovsky, Karthik Narasimhan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.443.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_736",
+      "paper_id": "",
+      "title": "CART: A Generative Cross-Modal Retrieval Framework With Coarse-To-Fine Semantic Modeling",
+      "authors": "Minghui Fang, Shengpeng Ji, Jialong Zuo, Hai Huang, Yan Xia, Jieming Zhu, Xize Cheng, Xiaoda Yang, Wenrui Liu, Gang Wang, Zhenhua Dong, Zhou Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.735.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_144",
+      "paper_id": "",
+      "title": "Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model",
+      "authors": "Gregor Geigle, Florian Schneider, Carolin Holtermann, Chris Biemann, Radu Timofte, Anne Lauscher, Goran Glavaš",
+      "paper_url": "https://aclanthology.org/2025.acl-long.143.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_278",
+      "paper_id": "",
+      "title": "Chart-to-Text: A Large-Scale Benchmark for Chart Summarization",
+      "authors": "Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty",
+      "paper_url": "https://aclanthology.org/2022.acl-long.277.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_364",
+      "paper_id": "",
+      "title": "ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation",
+      "authors": "Xuanle Zhao, Xianzhen Luo, Qi Shi, Chi Chen, Shuo Wang, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.363.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1095",
+      "paper_id": "",
+      "title": "ChartLens: Fine-grained Visual Attribution in Charts",
+      "authors": "Manan Suri, Puneet Mathur, Nedim Lipka, Franck Dernoncourt, Ryan A. Rossi, Dinesh Manocha",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1094.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_318",
+      "paper_id": "",
+      "title": "Check It Again:Progressive Visual Question Answering via Visual Entailment",
+      "authors": "Qingyi Si, Zheng Lin, Ming yu Zheng, Peng Fu, Weiping Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.317.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1343",
+      "paper_id": "",
+      "title": "CheXalign: Preference fine-tuning in chest X-ray interpretation models without human feedback",
+      "authors": "Dennis Hein, Zhihong Chen, Sophie Ostmeier, Justin Xu, Maya Varma, Eduardo Pontes Reis, Arne Edward Michalson Md, Christian Bluethgen, Hyun Joo Shin, Curtis Langlotz, Akshay S Chaudhari",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1342.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1512",
+      "paper_id": "",
+      "title": "CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory",
+      "authors": "Weichen Zhang, Chen Gao, Shiquan Yu, Ruiying Peng, Baining Zhao, Qian Zhang, Jinqiang Cui, Xinlei Chen, Yong Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1511.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_641",
+      "paper_id": "",
+      "title": "CLAIM: Mitigating Multilingual Object Hallucination in Large Vision-Language Models with Cross-Lingual Attention Intervention",
+      "authors": "Zekai Ye, Qiming Li, Xiaocheng Feng, Libo Qin, Yichong Huang, Baohang Li, Kui Jiang, Yang Xiang, Zhirui Zhang, Yunfei Lu, Duyu Tang, Dandan Tu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.640.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_422",
+      "paper_id": "",
+      "title": "CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment",
+      "authors": "Haoyu Song, Li Dong, Weinan Zhang, Ting Liu, Furu Wei",
+      "paper_url": "https://aclanthology.org/2022.acl-long.421.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_574",
+      "paper_id": "",
+      "title": "CODIS: Benchmarking Context-dependent Visual Comprehension for Multimodal Large Language Models",
+      "authors": "Fuwen Luo, Chi Chen, Zihao Wan, Zhaolu Kang, Qidong Yan, Yingjie Li, Xiaolong Wang, Siyu Wang, Ziyue Wang, Xiaoyue Mi, Peng Li, Ning Ma, Maosong Sun, Yang Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.573.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_412",
+      "paper_id": "",
+      "title": "Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment",
+      "authors": "Yunxin Li, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.411.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_616",
+      "paper_id": "",
+      "title": "Combo of Thinking and Observing for Outside-Knowledge VQA",
+      "authors": "Qingyi Si, Yuchen Mo, Zheng Lin, Huishan Ji, Weiping Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.614.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_235",
+      "paper_id": "",
+      "title": "Competence-based Multimodal Curriculum Learning for Medical Report Generation",
+      "authors": "Fenglin Liu, Shen Ge, Xian Wu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.234.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_447",
+      "paper_id": "",
+      "title": "CONE: An Efficient COarse-to-fiNE Alignment Framework for Long Video Temporal Grounding",
+      "authors": "Zhijian Hou, Wanjun Zhong, Lei Ji, Difei Gao, Kun Yan, W.k. Chan, Chong-Wah Ngo, Mike Zheng Shou, Nan Duan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.445.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_431",
+      "paper_id": "",
+      "title": "Context-aware Difference Distilling for Multi-change Captioning",
+      "authors": "Yunbin Tu, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.430.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_158",
+      "paper_id": "",
+      "title": "Control Image Captioning Spatially and Temporally",
+      "authors": "Kun Yan, Lei Ji, Huaishao Luo, Ming Zhou, Nan Duan, Shuai Ma",
+      "paper_url": "https://aclanthology.org/2021.acl-long.157.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1034",
+      "paper_id": "",
+      "title": "CORDIAL: Can Multimodal Large Language Models Effectively Understand Coherence Relationships?",
+      "authors": "Aashish Anantha Ramakrishnan, Aadarsh Anantha Ramakrishnan, Dongwon Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1033.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1583",
+      "paper_id": "",
+      "title": "CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG",
+      "authors": "Yang Tian, Fan Liu, Jingyuan Zhang, V. W., Yupeng Hu, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1583.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_176",
+      "paper_id": "",
+      "title": "Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence",
+      "authors": "Jinghan He, Kuan Zhu, Haiyun Guo, Junfeng Fang, Zhenglin Hua, Yuheng Jia, Ming Tang, Tat-Seng Chua, Jinqiao Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.175.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_300",
+      "paper_id": "",
+      "title": "Cross-modal Attention Congruence Regularization for Vision-Language Relation Alignment",
+      "authors": "Rohan Pandey, Rulin Shao, Paul Pu Liang, Ruslan Salakhutdinov, Louis-Philippe Morency",
+      "paper_url": "https://aclanthology.org/2023.acl-long.298.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_892",
+      "paper_id": "",
+      "title": "Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning",
+      "authors": "Shivaen Ramshetty, Gaurav Verma, Srijan Kumar",
+      "paper_url": "https://aclanthology.org/2023.acl-long.890.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_216",
+      "paper_id": "",
+      "title": "Cross-Modal Discrete Representation Learning",
+      "authors": "Alexander Liu, SouYoung Jin, Cheng-I Lai, Andrew Rouditchenko, Aude Oliva, James Glass",
+      "paper_url": "https://aclanthology.org/2022.acl-long.215.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_460",
+      "paper_id": "",
+      "title": "Cross-modal Memory Networks for Radiology Report Generation",
+      "authors": "Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.459.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_317",
+      "paper_id": "",
+      "title": "Cross-View Language Modeling: Towards Unified Cross-Lingual Cross-Modal Pre-training",
+      "authors": "Yan Zeng, Wangchunshu Zhou, Ao Luo, Ziming Cheng, Xinsong Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.315.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_148",
+      "paper_id": "",
+      "title": "Cross2StrA: Unpaired Cross-lingual Image Captioning with Cross-lingual Cross-modal Structure-pivoted Alignment",
+      "authors": "Shengqiong Wu, Hao Fei, Wei Ji, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2023.acl-long.146.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_832",
+      "paper_id": "",
+      "title": "Deciphering Oracle Bone Language with Diffusion Models",
+      "authors": "Haisu Guan, Huanxin Yang, Xinyu Wang, Shengwei Han, Yongge Liu, Lianwen Jin, Xiang Bai, Yuliang Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.831.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1001",
+      "paper_id": "",
+      "title": "Deep Temporal Reasoning in Video Language Models: A Cross-Linguistic Evaluation of Action Duration and Completion through Perfect Times",
+      "authors": "Olga Loginova, Sofía Ortega Loguinova",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1000.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_568",
+      "paper_id": "",
+      "title": "Defining and Evaluating Visual Language Models’ Basic Spatial Abilities: A Perspective from Psychometrics",
+      "authors": "Wenrui Xu, Dalin Lyu, Weihang Wang, Jie Feng, Chen Gao, Yong Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.567.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_773",
+      "paper_id": "",
+      "title": "DeVAn: Dense Video Annotation for Video-Language Models",
+      "authors": "Tingkai Liu, Yunzhe Tao, Haogeng Liu, Qihang Fang, Ding Zhou, Huaibo Huang, Ran He, Hongxia Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.772.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_110",
+      "paper_id": "",
+      "title": "Differentiable Multi-Agent Actor-Critic for Multi-Step Radiology Report Summarization",
+      "authors": "Sanjeev Kumar Karn, Ning Liu, Hinrich Schuetze, Oladimeji Farri",
+      "paper_url": "https://aclanthology.org/2022.acl-long.109.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_525",
+      "paper_id": "",
+      "title": "Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines",
+      "authors": "Michael Toker, Hadas Orgad, Mor Ventura, Dana Arad, Yonatan Belinkov",
+      "paper_url": "https://aclanthology.org/2024.acl-long.524.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_53",
+      "paper_id": "",
+      "title": "DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models",
+      "authors": "Zijie J. Wang, Evan Montoya, David Munechika, Haoyang Yang, Benjamin Hoover, Duen Horng Chau",
+      "paper_url": "https://aclanthology.org/2023.acl-long.51.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_454",
+      "paper_id": "",
+      "title": "Direct Metric Optimization for Image Captioning through Reward-Weighted Augmented Data Utilization",
+      "authors": "Takumi Takada, Yuma Suzuki, Hiroki Takushima, Hayato Tanoue, Haruki Sato, Aiswariya Kumar, Hiroki Nishihara, Takayuki Hori, Kazuya Ueki",
+      "paper_url": "https://aclanthology.org/2024.acl-long.453.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_548",
+      "paper_id": "",
+      "title": "Disambiguating Reference in Visually Grounded Dialogues through Joint Modeling of Textual and Multimodal Semantic Structures",
+      "authors": "Shun Inadumi, Nobuhiro Ueda, Koichiro Yoshino",
+      "paper_url": "https://aclanthology.org/2025.acl-long.547.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_464",
+      "paper_id": "",
+      "title": "DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding",
+      "authors": "Dongsheng Wang, Natraj Raman, Mathieu Sibue, Zhiqiang Ma, Petr Babkin, Simerjot Kaur, Yulong Pei, Armineh Nourbakhsh, Xiaomo Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.463.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_440",
+      "paper_id": "",
+      "title": "DVD: A Diagnostic Dataset for Multi-step Reasoning in Video Grounded Dialogue",
+      "authors": "Hung Le, Chinnadhurai Sankar, Seungwhan Moon, Ahmad Beirami, Alborz Geramifard, Satwik Kottur",
+      "paper_url": "https://aclanthology.org/2021.acl-long.439.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_43",
+      "paper_id": "",
+      "title": "E2E-VLP: End-to-End Vision-Language Pre-training Enhanced by Visual Learning",
+      "authors": "Haiyang Xu, Ming Yan, Chenliang Li, Bin Bi, Songfang Huang, Wenming Xiao, Fei Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.42.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_712",
+      "paper_id": "",
+      "title": "EAGLE: Expert-Guided Self-Enhancement for Preference Alignment in Pathology Large Vision-Language Model",
+      "authors": "Meidan Ding, Jipeng Zhang, Wenxuan Wang, Haiqin Zhong, Xiaoqin Wang, Xinheng Lyu, Wenting Chen, Linlin Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.711.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_75",
+      "paper_id": "",
+      "title": "EasyGen: Easing Multimodal Generation with BiDiffuser and LLMs",
+      "authors": "Xiangyu Zhao, Bo Liu, Qijiong Liu, Guangyuan Shi, Xiao-Ming Wu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.74.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_441",
+      "paper_id": "",
+      "title": "Efficient OCR for Building a Diverse Digital History",
+      "authors": "Jacob Carlson, Tom Bryan, Melissa Dell",
+      "paper_url": "https://aclanthology.org/2024.acl-long.440.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1243",
+      "paper_id": "",
+      "title": "EffiVLM-BENCH: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Vision-Language Models",
+      "authors": "Zekun Wang, MingHua Ma, Zexin Wang, Rongchuan Mu, Liping Shan, Ming Liu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1242.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_696",
+      "paper_id": "",
+      "title": "Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning",
+      "authors": "Qi Sun, Pengfei Hong, Tej Deep Pala, Vernon Toh, U-Xuan Tan, Deepanway Ghosal, Soujanya Poria",
+      "paper_url": "https://aclanthology.org/2025.acl-long.695.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_480",
+      "paper_id": "",
+      "title": "End-to-end Knowledge Retrieval with Multi-modal Queries",
+      "authors": "Man Luo, Zhiyuan Fang, Tejas Gokhale, Yezhou Yang, Chitta Baral",
+      "paper_url": "https://aclanthology.org/2023.acl-long.478.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_597",
+      "paper_id": "",
+      "title": "End-to-End Modeling via Information Tree for One-Shot Natural Language Spatial Video Grounding",
+      "authors": "Mengze Li, Tianbao Wang, Haoyu Zhang, Shengyu Zhang, Zhou Zhao, Jiaxu Miao, Wenqiao Zhang, Wenming Tan, Jin Wang, Peng Wang, Shiliang Pu, Fei Wu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.596.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1074",
+      "paper_id": "",
+      "title": "Enhancing Multimodal Retrieval via Complementary Information Extraction and Alignment",
+      "authors": "Delong Zeng, Yuexiang Xie, Yaliang Li, Ying Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1073.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1261",
+      "paper_id": "",
+      "title": "Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users",
+      "authors": "Antonia Karamolegkou, Malvina Nikandrou, Georgios Pantazopoulos, Danae Sanchez Villegas, Phillip Rust, Ruchira Dhar, Daniel Hershcovich, Anders Søgaard",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1260.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_324",
+      "paper_id": "",
+      "title": "Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search",
+      "authors": "Linhao Yu, Xingguang Ji, Yahui Liu, Fanheng Kong, Chenxi Sun, Jingyuan Zhang, Hongzhi Zhang, V. W., Fuzheng Zhang, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.323.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_421",
+      "paper_id": "",
+      "title": "EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models",
+      "authors": "Rocktim Das, Simeon Hristov, Haonan Li, Dimitar Dimitrov, Ivan Koychev, Preslav Nakov",
+      "paper_url": "https://aclanthology.org/2024.acl-long.420.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_20",
+      "paper_id": "",
+      "title": "Expedited Training of Visual Conditioned Language Generation via Redundancy Reduction",
+      "authors": "Yiren Jian, Tingkai Liu, Yunzhe Tao, Chunhui Zhang, Soroush Vosoughi, Hongxia Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.19.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_248",
+      "paper_id": "",
+      "title": "Exploiting Intrinsic Multilateral Logical Rules for Weakly Supervised Natural Language Video Localization",
+      "authors": "Zhe Xu, Kun Wei, Xu Yang, Cheng Deng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.247.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_194",
+      "paper_id": "",
+      "title": "Exploring Better Text Image Translation with Multimodal Codebook",
+      "authors": "Zhibin Lan, Jiawei Yu, Xiang Li, Wen Zhang, Jian Luan, Bin Wang, Degen Huang, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2023.acl-long.192.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_640",
+      "paper_id": "",
+      "title": "Exploring Compositional Generalization of Multimodal LLMs for Medical Imaging",
+      "authors": "Zhenyang Cai, Junying Chen, Rongsheng Wang, Weihong Wang, Yonglin Deng, Dingjie Song, Yize Chen, Zixu Zhang, Benyou Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.639.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_500",
+      "paper_id": "",
+      "title": "Exploring How Generative MLLMs Perceive More Than CLIP with the Same Vision Encoder",
+      "authors": "Siting Li, Pang Wei Koh, Simon Shaolei Du",
+      "paper_url": "https://aclanthology.org/2025.acl-long.499.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_210",
+      "paper_id": "",
+      "title": "FIBER: Fill-in-the-Blanks as a Challenging Video Understanding Evaluation Framework",
+      "authors": "Santiago Castro, Ruoyao Wang, Pingxuan Huang, Ian Stewart, Oana Ignat, Nan Liu, Jonathan Stroud, Rada Mihalcea",
+      "paper_url": "https://aclanthology.org/2022.acl-long.209.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1153",
+      "paper_id": "",
+      "title": "Finding Needles in Images: Can Multi-modal LLMs Locate Fine Details?",
+      "authors": "Parth Thakkar, Ankush Agarwal, Prasad Kasu, Pulkit Bansal, Chaitanya Devaguptapu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1152.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_515",
+      "paper_id": "",
+      "title": "Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation",
+      "authors": "Wenting Chen, Linlin Shen, Jingyang Lin, Jiebo Luo, Xiang Li, Yixuan Yuan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.514.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_461",
+      "paper_id": "",
+      "title": "Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning",
+      "authors": "Aofei Chang, Le Huang, Alex James Boyd, Parminder Bhatia, Taha Kass-Hout, Cao Xiao, Fenglong Ma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.460.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1338",
+      "paper_id": "",
+      "title": "FOCUS: Evaluating Pre-trained Vision-Language Models on Underspecification Reasoning",
+      "authors": "Kankan Zhou, Eason Lai, Kyriakos Mouratidis, Jing Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1337.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_261",
+      "paper_id": "",
+      "title": "FormNet: Structural Encoding beyond Sequential Modeling in Form Document Information Extraction",
+      "authors": "Chen-Yu Lee, Chun-Liang Li, Timothy Dozat, Vincent Perot, Guolong Su, Nan Hua, Joshua Ainslie, Renshen Wang, Yasuhisa Fujii, Tomas Pfister",
+      "paper_url": "https://aclanthology.org/2022.acl-long.260.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_503",
+      "paper_id": "",
+      "title": "FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction",
+      "authors": "Chen-Yu Lee, Chun-Liang Li, Hao Zhang, Timothy Dozat, Vincent Perot, Guolong Su, Xiang Zhang, Kihyuk Sohn, Nikolay Glushnev, Renshen Wang, Joshua Ainslie, Shangbang Long, Siyang Qin, Yasuhisa Fujii, Nan Hua, Tomas Pfister",
+      "paper_url": "https://aclanthology.org/2023.acl-long.501.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_691",
+      "paper_id": "",
+      "title": "Generating Coherent Sequences of Visual Illustrations for Real-World Manual Tasks",
+      "authors": "João Bordalo, Vasco Ramos, Rodrigo Valério, Diogo Glória-Silva, Yonatan Bitton, Michal Yarom, Idan Szpektor, Joao Magalhaes",
+      "paper_url": "https://aclanthology.org/2024.acl-long.690.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_529",
+      "paper_id": "",
+      "title": "Generating Hashtags for Short-form Videos with Guided Signals",
+      "authors": "Tiezheng Yu, Hanchao Yu, Davis Liang, Yuning Mao, Shaoliang Nie, Po-Yao Huang, Madian Khabsa, Pascale Fung, Yi-Chia Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.527.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_42",
+      "paper_id": "",
+      "title": "Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem",
+      "authors": "Raphael Schumann, Stefan Riezler",
+      "paper_url": "https://aclanthology.org/2021.acl-long.41.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_796",
+      "paper_id": "",
+      "title": "Generating Structured Pseudo Labels for Noise-resistant Zero-shot Video Sentence Localization",
+      "authors": "Minghang Zheng, Shaogang Gong, Hailin Jin, Yuxin Peng, Yang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.794.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_444",
+      "paper_id": "",
+      "title": "Generating Visual Spatial Description via Holistic 3D Scene Understanding",
+      "authors": "Yu Zhao, Hao Fei, Wei Ji, Jianguo Wei, Meishan Zhang, Min Zhang, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2023.acl-long.442.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_640",
+      "paper_id": "",
+      "title": "Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond",
+      "authors": "Yongqi Li, Wenjie Wang, Leigang Qu, Liqiang Nie, Wenjie Li, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2024.acl-long.639.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1440",
+      "paper_id": "",
+      "title": "GETReason: Enhancing Image Context Extraction through Hierarchical Multi-Agent Reasoning",
+      "authors": "Shikhhar Siingh, Abhinav Rawat, Chitta Baral, Vivek Gupta",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1439.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_584",
+      "paper_id": "",
+      "title": "GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art",
+      "authors": "Yiming Lei, Chenkai Zhang, Zeming Liu, Haitao Leng, ShaoGuo Liu, Tingting Gao, Qingjie Liu, Yunhong Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.583.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_481",
+      "paper_id": "",
+      "title": "Good for Misconceived Reasons: An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation",
+      "authors": "Zhiyong Wu, Lingpeng Kong, Wei Bi, Xiang Li, Ben Kao",
+      "paper_url": "https://aclanthology.org/2021.acl-long.480.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_321",
+      "paper_id": "",
+      "title": "Graph Enhanced Contrastive Learning for Radiology Findings Summarization",
+      "authors": "Jinpeng Hu, Zhuo Li, Zhihong Chen, Zhen Li, Xiang Wan, Tsung-Hui Chang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.320.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_510",
+      "paper_id": "",
+      "title": "Grounded Multimodal Named Entity Recognition on Social Media",
+      "authors": "Jianfei Yu, Ziyan Li, Jieming Wang, Rui Xia",
+      "paper_url": "https://aclanthology.org/2023.acl-long.508.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_361",
+      "paper_id": "",
+      "title": "GroundingGPT: Language Enhanced Multi-modal Grounding Model",
+      "authors": "Zhaowei Li, Qi Xu, Dong Zhang, Hang Song, YiQing Cai, Qi Qi, Ran Zhou, Junting Pan, Zefeng Li, Vu Tu, Zhida Huang, Tao Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.360.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_502",
+      "paper_id": "",
+      "title": "HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models",
+      "authors": "Xiao Wang, Jingyun Hua, Weihong Lin, Yuanxing Zhang, Fuzheng Zhang, Jianlong Wu, Di Zhang, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2025.acl-long.501.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_157",
+      "paper_id": "",
+      "title": "Hierarchical Context-aware Network for Dense Video Event Captioning",
+      "authors": "Lei Ji, Xianglin Guo, Haoyang Huang, Xilin Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.156.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_374",
+      "paper_id": "",
+      "title": "HOLM: Hallucinating Objects with Language Models for Referring Expression Recognition in Partially-Observed Scenes",
+      "authors": "Volkan Cirik, Louis-Philippe Morency, Taylor Berg-Kirkpatrick",
+      "paper_url": "https://aclanthology.org/2022.acl-long.373.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_31",
+      "paper_id": "",
+      "title": "HotelMatch-LLM: Joint Multi-Task Training of Small and Large Language Models for Efficient Multimodal Hotel Retrieval",
+      "authors": "Arian Askari, Emmanouil Stergiadis, Ilya Gusev, Moran Beladev",
+      "paper_url": "https://aclanthology.org/2025.acl-long.30.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_680",
+      "paper_id": "",
+      "title": "HSCR: Hierarchical Self-Contrastive Rewarding for Aligning Medical Vision Language Models",
+      "authors": "Songtao Jiang, Yan Zhang, Yeying Jin, Zhihang Tang, Yangyang Wu, Yang Feng, Jian Wu, Zuozhu Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.679.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_163",
+      "paper_id": "",
+      "title": "Hypergraph based Understanding for Document Semantic Entity Recognition",
+      "authors": "Qiwei Li, Zuchao Li, Ping Wang, Haojun Ai, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.162.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_30",
+      "paper_id": "",
+      "title": "Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering",
+      "authors": "Yu-Jung Heo, Eun-Sol Kim, Woo Suk Choi, Byoung-Tak Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.29.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1320",
+      "paper_id": "",
+      "title": "I0T: Embedding Standardization Method Towards Zero Modality Gap",
+      "authors": "Na Min An, Eunki Kim, James Thorne, Hyunjung Shim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1319.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_242",
+      "paper_id": "",
+      "title": "Image Retrieval from Contextual Descriptions",
+      "authors": "Benno Krojer, Vaibhav Adlakha, Vibhav Vineet, Yash Goyal, Edoardo Ponti, Siva Reddy",
+      "paper_url": "https://aclanthology.org/2022.acl-long.241.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_637",
+      "paper_id": "",
+      "title": "Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback",
+      "authors": "Yucheng Zhou, Lingran Song, Jianbing Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.636.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_118",
+      "paper_id": "",
+      "title": "Inference Compute-Optimal Video Vision Language Models",
+      "authors": "Peiqi Wang, ShengYun Peng, Xuewen Zhang, Hanchao Yu, Yibo Yang, Lifu Huang, Fujun Liu, Qifan Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.117.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1004",
+      "paper_id": "",
+      "title": "Infogen: Generating Complex Statistical Infographics from Documents",
+      "authors": "Akash Ghosh, Aparna Garimella, Pritika Ramu, Sambaran Bandyopadhyay, Sriparna Saha",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1003.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_845",
+      "paper_id": "",
+      "title": "Information Extraction from Visually Rich Documents using LLM-based Organization of Documents into Independent Textual Segments",
+      "authors": "Aniket Bhattacharyya, Anurag Tripathi, Ujjal Das, Archan Karmakar, Amit Pathak, Maneesh Gupta",
+      "paper_url": "https://aclanthology.org/2025.acl-long.844.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_825",
+      "paper_id": "",
+      "title": "Information Screening whilst Exploiting! Multimodal Relation Extraction with Feature Denoising and Multimodal Topic Modeling",
+      "authors": "Shengqiong Wu, Hao Fei, Yixin Cao, Lidong Bing, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2023.acl-long.823.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_688",
+      "paper_id": "",
+      "title": "Innovative Image Fraud Detection with Cross-Sample Anomaly Analysis: The Power of LLMs",
+      "authors": "QiWen Wang, Junqi Yang, Zhenghao Lin, Zhenzhe Ying, Weiqiang Wang, Chen Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.687.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_873",
+      "paper_id": "",
+      "title": "Insight Over Sight: Exploring the Vision-Knowledge Conflicts in Multimodal LLMs",
+      "authors": "Xiaoyuan Liu, Wenxuan Wang, Youliang Yuan, Jen-tse Huang, Qiuzhi Liu, Pinjia He, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.872.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1180",
+      "paper_id": "",
+      "title": "InstructPart: Task-Oriented Part Segmentation with Instruction Reasoning",
+      "authors": "Zifu Wan, Yaqi Xie, Ce Zhang, Zhiqiu Lin, Zihan Wang, Simon Stepputtis, Deva Ramanan, Katia P. Sycara",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1179.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_47",
+      "paper_id": "",
+      "title": "Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach",
+      "authors": "Saehyung Lee, Sangwon Yu, Junsung Park, Jihun Yi, Sungroh Yoon",
+      "paper_url": "https://aclanthology.org/2024.acl-long.46.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_693",
+      "paper_id": "",
+      "title": "Investigating and Enhancing the Robustness of Large Multimodal Models Against Temporal Inconsistency",
+      "authors": "Jiafeng Liang, Shixin Jiang, Xuan Dong, Ning Wang, Zheng Chu, Hui Su, Jinlan Fu, Ming Liu, See-Kiong Ng, Bing Qin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.692.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_649",
+      "paper_id": "",
+      "title": "Investigating and Mitigating the Multimodal Hallucination Snowballing in Large Vision-Language Models",
+      "authors": "Weihong Zhong, Xiaocheng Feng, Liang Zhao, Qiming Li, Lei Huang, Yuxuan Gu, Weitao Ma, Yuan Xu, Bing Qin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.648.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1484",
+      "paper_id": "",
+      "title": "ISR: Self-Refining Referring Expressions for Entity Grounding",
+      "authors": "Zhuocheng Yu, Bingchan Zhao, Yifan Song, Sujian Li, Zhonghui He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1483.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_45",
+      "paper_id": "",
+      "title": "KM-BART: Knowledge Enhanced Multimodal BART for Visual Commonsense Generation",
+      "authors": "Yiran Xing, Zai Shi, Zhao Meng, Gerhard Lakemeyer, Yunpu Ma, Roger Wattenhofer",
+      "paper_url": "https://aclanthology.org/2021.acl-long.44.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1064",
+      "paper_id": "",
+      "title": "Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models",
+      "authors": "Guanghui Ye, Huan Zhao, Zhixue Zhao, Xupeng Zha, Yang Liu, Zhihua Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1063.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_202",
+      "paper_id": "",
+      "title": "LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding",
+      "authors": "Yang Xu, Yiheng Xu, Tengchao Lv, Lei Cui, Furu Wei, Guoxin Wang, Yijuan Lu, Dinei Florencio, Cha Zhang, Wanxiang Che, Min Zhang, Lidong Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.201.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_849",
+      "paper_id": "",
+      "title": "LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding",
+      "authors": "Yi Tu, Ya Guo, Huan Chen, Jinyang Tang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.847.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_44",
+      "paper_id": "",
+      "title": "Learning Relation Alignment for Calibrated Cross-modal Retrieval",
+      "authors": "Shuhuai Ren, Junyang Lin, Guangxiang Zhao, Rui Men, An Yang, Jingren Zhou, Xu Sun, Hongxia Yang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.43.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_528",
+      "paper_id": "",
+      "title": "Learning to Imagine: Visually-Augmented Natural Language Generation",
+      "authors": "Tianyi Tang, Yushuo Chen, Yifan Du, Junyi Li, Wayne Xin Zhao, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.526.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_634",
+      "paper_id": "",
+      "title": "Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective",
+      "authors": "Zihao Yue, Liang Zhang, Qin Jin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.633.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_197",
+      "paper_id": "",
+      "title": "Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-Modal Knowledge Transfer",
+      "authors": "Woojeong Jin, Dong-Ho Lee, Chenguang Zhu, Jay Pujara, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2022.acl-long.196.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_535",
+      "paper_id": "",
+      "title": "LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding",
+      "authors": "Jiapeng Wang, Lianwen Jin, Kai Ding",
+      "paper_url": "https://aclanthology.org/2022.acl-long.534.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_740",
+      "paper_id": "",
+      "title": "LLaVA Steering: Visual Instruction Tuning with 500x Fewer Parameters through Modality Linear Representation-Steering",
+      "authors": "Jinhe Bi, Yujun Wang, Haokun Chen, Xun Xiao, Artur Hecker, Volker Tresp, Yunpu Ma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.739.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1037",
+      "paper_id": "",
+      "title": "LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study",
+      "authors": "Dongil Yang, Minjin Kim, Sunghwan Kim, Beong-woo Kwak, Minjun Park, Jinseok Hong, Woontack Woo, Jinyoung Yeo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1036.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_58",
+      "paper_id": "",
+      "title": "LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating",
+      "authors": "Chao Deng, Jiale Yuan, Pi Bu, Peijie Wang, Zhong-Zhi Li, Jian Xu, Xiao-Hui Li, Yuan Gao, Jun Song, Bo Zheng, Cheng-Lin Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.57.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1303",
+      "paper_id": "",
+      "title": "LPOI: Listwise Preference Optimization for Vision Language Models",
+      "authors": "Fatemeh Pesaran Zadeh, Yoojin Oh, Gunhee Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1302.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1290",
+      "paper_id": "",
+      "title": "Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation",
+      "authors": "Andong Chen, Yuchen Song, Kehai Chen, Xuefeng Bai, Muyun Yang, Liqiang Nie, Jie Liu, Tiejun Zhao, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1289.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_813",
+      "paper_id": "",
+      "title": "ManagerTower: Aggregating the Insights of Uni-Modal Experts for Vision-Language Representation Learning",
+      "authors": "Xiao Xu, Bei Li, Chenfei Wu, Shao-Yen Tseng, Anahita Bhiwandiwalla, Shachar Rosenman, Vasudev Lal, Wanxiang Che, Nan Duan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.811.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_639",
+      "paper_id": "",
+      "title": "MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation",
+      "authors": "Lingfeng Zhang, Xiaoshuai Hao, Qinwen Xu, Qiang Zhang, Xinyao Zhang, Pengwei Wang, Jing Zhang, Zhongyuan Wang, Shanghang Zhang, Renjing Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.638.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_421",
+      "paper_id": "",
+      "title": "MarkupLM: Pre-training of Text and Markup Language for Visually Rich Document Understanding",
+      "authors": "Junlong Li, Yiheng Xu, Lei Cui, Furu Wei",
+      "paper_url": "https://aclanthology.org/2022.acl-long.420.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_784",
+      "paper_id": "",
+      "title": "MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin",
+      "authors": "Tianshuo Zhou, Sen Mei, Xinze Li, Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Yu Gu, Ge Yu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.783.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_716",
+      "paper_id": "",
+      "title": "MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering",
+      "authors": "Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Eisenschlos",
+      "paper_url": "https://aclanthology.org/2023.acl-long.714.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1534",
+      "paper_id": "",
+      "title": "Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval",
+      "authors": "Hani Alomari, Anushka Sivakumar, Andrew Zhang, Chris Thomas",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1533.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_730",
+      "paper_id": "",
+      "title": "mCLIP: Multilingual CLIP via Cross-lingual Transfer",
+      "authors": "Guanhua Chen, Lu Hou, Yun Chen, Wenliang Dai, Lifeng Shang, Xin Jiang, Qun Liu, Jia Pan, Wenping Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.728.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_89",
+      "paper_id": "",
+      "title": "Measuring Progress in Fine-grained Vision-and-Language Understanding",
+      "authors": "Emanuele Bugliarello, Laurent Sartran, Aishwarya Agrawal, Lisa Anne Hendricks, Aida Nematzadeh",
+      "paper_url": "https://aclanthology.org/2023.acl-long.87.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_936",
+      "paper_id": "",
+      "title": "MegaPairs: Massive Data Synthesis for Universal Multimodal Retrieval",
+      "authors": "Junjie Zhou, Yongping Xiong, Zheng Liu, Ze Liu, Shitao Xiao, Yueze Wang, Bo Zhao, Chen Jason Zhang, Defu Lian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.935.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_26",
+      "paper_id": "",
+      "title": "Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences",
+      "authors": "Xiyao Wang, Yuhang Zhou, Xiaoyu Liu, Hongjin Lu, Yuancheng Xu, Feihong He, Jaehong Yoon, Taixi Lu, Fuxiao Liu, Gedas Bertasius, Mohit Bansal, Huaxiu Yao, Furong Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.25.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1453",
+      "paper_id": "",
+      "title": "METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling",
+      "authors": "Bingxuan Li, Yiwei Wang, Jiuxiang Gu, Kai-Wei Chang, Nanyun Peng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1452.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_499",
+      "paper_id": "",
+      "title": "MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception",
+      "authors": "Yuhao Wang, Yusheng Liao, Heyang Liu, Hongcheng Liu, Yanfeng Wang, Yu Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.498.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_225",
+      "paper_id": "",
+      "title": "MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks",
+      "authors": "Letitia Parcalabescu, Anette Frank",
+      "paper_url": "https://aclanthology.org/2023.acl-long.223.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_737",
+      "paper_id": "",
+      "title": "MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark",
+      "authors": "Xiang Yue, Tianyu Zheng, Yuansheng Ni, Yubo Wang, Kai Zhang, Shengbang Tong, Yuxuan Sun, Botao Yu, Ge Zhang, Huan Sun, Yu Su, Wenhu Chen, Graham Neubig",
+      "paper_url": "https://aclanthology.org/2025.acl-long.736.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_133",
+      "paper_id": "",
+      "title": "Modality-Aware Integration with Large Language Models for Knowledge-Based Visual Question Answering",
+      "authors": "Junnan Dong, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng, Xiao Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.132.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_607",
+      "paper_id": "",
+      "title": "Model Composition for Multimodal Large Language Models",
+      "authors": "Chi Chen, Yiyang Du, Zheng Fang, Ziyue Wang, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.606.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_62",
+      "paper_id": "",
+      "title": "Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings",
+      "authors": "Haomiao Tang, Jinpeng Wang, Yuang Peng, GuangHao Meng, Ruisheng Luo, Bin Chen, Long Chen, Yaowei Wang, Shu-Tao Xia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.61.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_259",
+      "paper_id": "",
+      "title": "Movie101: A New Movie Understanding Benchmark",
+      "authors": "Zihao Yue, Qi Zhang, Anwen Hu, Liang Zhang, Ziheng Wang, Qin Jin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.257.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_837",
+      "paper_id": "",
+      "title": "Movie101v2: Improved Movie Narration Benchmark",
+      "authors": "Zihao Yue, Yepeng Zhang, Ziheng Wang, Qin Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.836.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_292",
+      "paper_id": "",
+      "title": "mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding",
+      "authors": "Anwen Hu, Haiyang Xu, Liang Zhang, Jiabo Ye, Ming Yan, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.291.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_79",
+      "paper_id": "",
+      "title": "MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction",
+      "authors": "Wang Jing, Aixin Sun, Hao Zhang, Xiaoli Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.77.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_371",
+      "paper_id": "",
+      "title": "Muffin or Chihuahua? Challenging Multimodal Large Language Models with Multipanel VQA",
+      "authors": "Yue Fan, Jing Gu, Kaiwen Zhou, Qianqi Yan, Shan Jiang, Ching-Chen Kuo, Yang Zhao, Xinze Guan, Xin Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.370.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_766",
+      "paper_id": "",
+      "title": "Multi-modal Preference Alignment Remedies Degradation of Visual Instruction Tuning on Language Models",
+      "authors": "Shengzhi Li, Rongyu Lin, Shichao Pei",
+      "paper_url": "https://aclanthology.org/2024.acl-long.765.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1492",
+      "paper_id": "",
+      "title": "Multi-Modality Expansion and Retention for LLMs through Parameter Merging and Decoupling",
+      "authors": "Junlin Li, Guodong Du, Jing Li, Sim Kuan Goh, Wenya Wang, Yequan Wang, Fangming Liu, Ho-Kin Tang, Saleh Alharbi, Daojing He, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1491.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_200",
+      "paper_id": "",
+      "title": "Multi-stage Pre-training over Simplified Multimodal Pre-training Models",
+      "authors": "Tongtong Liu, Fangxiang Feng, Xiaojie Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.199.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_666",
+      "paper_id": "",
+      "title": "MultiCapCLIP: Auto-Encoding Prompts for Zero-Shot Multilingual Visual Captioning",
+      "authors": "Bang Yang, Fenglin Liu, Xian Wu, Yaowei Wang, Xu Sun, Yuexian Zou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.664.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_268",
+      "paper_id": "",
+      "title": "Multilingual Conceptual Coverage in Text-to-Image Models",
+      "authors": "Michael Saxon, William Yang Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.266.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_776",
+      "paper_id": "",
+      "title": "Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models",
+      "authors": "Lei Li, Yuqi Wang, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.775.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1521",
+      "paper_id": "",
+      "title": "Multimodal Coreference Resolution for Chinese Social Media Dialogues: Dataset and Benchmark Approach",
+      "authors": "Xingyu Li, Chen Gong, Guohong Fu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1520.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_580",
+      "paper_id": "",
+      "title": "Multimodal Reasoning with Multimodal Knowledge Graph",
+      "authors": "Junlin Lee, Yequan Wang, Jing Li, Min Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.579.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_391",
+      "paper_id": "",
+      "title": "Neural Machine Translation with Phrase-Level Universal Visual Representations",
+      "authors": "Qingkai Fang, Yang Feng",
+      "paper_url": "https://aclanthology.org/2022.acl-long.390.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_75",
+      "paper_id": "",
+      "title": "NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation",
+      "authors": "Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Ming Gong, Lijuan Wang, Zicheng Liu, Houqiang Li, Nan Duan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.73.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_961",
+      "paper_id": "",
+      "title": "nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow",
+      "authors": "Geliang Ouyang, Jingyao Chen, Zhihe Nie, Yi Gui, Yao Wan, Hongyu Zhang, Dongping Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.960.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_283",
+      "paper_id": "",
+      "title": "OLIVE: Object Level In-Context Visual Embeddings",
+      "authors": "Timothy Ossowski, Junjie Hu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.282.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1199",
+      "paper_id": "",
+      "title": "OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval",
+      "authors": "Wei Yang, Jingjing Fu, Rui Wang, Jinyu Wang, Lei Song, Jiang Bian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1198.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_439",
+      "paper_id": "",
+      "title": "On Vision Features in Multimodal Machine Translation",
+      "authors": "Bei Li, Chuanhao Lv, Zefan Zhou, Tao Zhou, Tong Xiao, Anxiang Ma, JingBo Zhu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.438.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1349",
+      "paper_id": "",
+      "title": "Online Iterative Self-Alignment for Radiology Report Generation",
+      "authors": "Ting Xiao, Lei Shi, Yang Zhang, HaoFeng Yang, Zhe Wang, Chenjia Bai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1348.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_453",
+      "paper_id": "",
+      "title": "ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning",
+      "authors": "Wenjun Hou, Kaishuai Xu, Yi Cheng, Wenjie Li, Jiang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.451.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_753",
+      "paper_id": "",
+      "title": "PEIT: Bridging the Modality Gap with Pre-trained Models for End-to-End Image Translation",
+      "authors": "Shaolin Zhu, Shangjie Li, Yikun Lei, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2023.acl-long.751.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1412",
+      "paper_id": "",
+      "title": "Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models",
+      "authors": "Ido Cohen, Daniela Gottesman, Mor Geva, Raja Giryes",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1411.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_23",
+      "paper_id": "",
+      "title": "Picturing Ambiguity: A Visual Twist on the Winograd Schema Challenge",
+      "authors": "Brendan Park, Madeline Janecek, Naser Ezzati-Jivan, Yifeng Li, Ali Emami",
+      "paper_url": "https://aclanthology.org/2024.acl-long.22.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_865",
+      "paper_id": "",
+      "title": "Pixel-Level Reasoning Segmentation via Multi-turn Conversations",
+      "authors": "Dexian Cai, Xiaocui Yang, YongKang Liu, Daling Wang, Shi Feng, Yifei Zhang, Soujanya Poria",
+      "paper_url": "https://aclanthology.org/2025.acl-long.864.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_170",
+      "paper_id": "",
+      "title": "PlotCoder: Hierarchical Decoding for Synthesizing Visualization Code in Programmatic Context",
+      "authors": "Xinyun Chen, Linyuan Gong, Alvin Cheung, Dawn Song",
+      "paper_url": "https://aclanthology.org/2021.acl-long.169.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_290",
+      "paper_id": "",
+      "title": "PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers",
+      "authors": "Weizhe Lin, Jingbiao Mei, Jinghong Chen, Bill Byrne",
+      "paper_url": "https://aclanthology.org/2024.acl-long.289.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_67",
+      "paper_id": "",
+      "title": "Premise-based Multimodal Reasoning: Conditional Inference on Joint Textual and Visual Clues",
+      "authors": "Qingxiu Dong, Ziwei Qin, Heming Xia, Tian Feng, Shoujie Tong, Haoran Meng, Lin Xu, Zhongyu Wei, Weidong Zhan, Baobao Chang, Sujian Li, Tianyu Liu, Zhifang Sui",
+      "paper_url": "https://aclanthology.org/2022.acl-long.66.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_750",
+      "paper_id": "",
+      "title": "PreP-OCR: A Complete Pipeline for Document Image Restoration and Enhanced OCR Accuracy",
+      "authors": "Shuhao Guan, Moule Lin, Cheng Xu, Xinyi Liu, Jinman Zhao, Jiexin Fan, Qi Xu, Derek Greene",
+      "paper_url": "https://aclanthology.org/2025.acl-long.749.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_190",
+      "paper_id": "",
+      "title": "Prompt Expansion for Adaptive Text-to-Image Generation",
+      "authors": "Siddhartha Datta, Alexander Ku, Deepak Ramachandran, Peter Anderson",
+      "paper_url": "https://aclanthology.org/2024.acl-long.189.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_54",
+      "paper_id": "",
+      "title": "Prompt Refinement with Image Pivot for Text-to-Image Generation",
+      "authors": "Jingtao Zhan, Qingyao Ai, Yiqun Liu, Yingwei Pan, Ting Yao, Jiaxin Mao, Shaoping Ma, Tao Mei",
+      "paper_url": "https://aclanthology.org/2024.acl-long.53.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_723",
+      "paper_id": "",
+      "title": "PuMer: Pruning and Merging Tokens for Efficient Vision Language Models",
+      "authors": "Qingqing Cao, Bhargavi Paranjape, Hannaneh Hajishirzi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.721.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_50",
+      "paper_id": "",
+      "title": "PunchBench: Benchmarking MLLMs in Multimodal Punchline Comprehension",
+      "authors": "Kun Ouyang, Yuanxin Liu, Shicheng Li, Yi Liu, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.49.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1280",
+      "paper_id": "",
+      "title": "RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection",
+      "authors": "Wenjun Hou, Yi Cheng, Kaishuai Xu, Heng Li, Yan Hu, Wenjie Li, Jiang Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1279.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_358",
+      "paper_id": "",
+      "title": "ReCLIP: A Strong Zero-Shot Baseline for Referring Expression Comprehension",
+      "authors": "Sanjay Subramanian, William Merrill, Trevor Darrell, Matt Gardner, Sameer Singh, Anna Rohrbach",
+      "paper_url": "https://aclanthology.org/2022.acl-long.357.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_806",
+      "paper_id": "",
+      "title": "Resolving Ambiguities in Text-to-Image Generative Models",
+      "authors": "Ninareh Mehrabi, Palash Goyal, Apurv Verma, Jwala Dhamala, Varun Kumar, Qian Hu, Kai-Wei Chang, Richard Zemel, Aram Galstyan, Rahul Gupta",
+      "paper_url": "https://aclanthology.org/2023.acl-long.804.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_690",
+      "paper_id": "",
+      "title": "Resolving Indirect Referring Expressions for Entity Selection",
+      "authors": "Mohammad Javad Hosseini, Filip Radlinski, Silvia Pareti, Annie Louis",
+      "paper_url": "https://aclanthology.org/2023.acl-long.688.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1242",
+      "paper_id": "",
+      "title": "Response Wide Shut? Surprising Observations in Basic Vision Language Model Capabilities",
+      "authors": "Shivam Chandhok, Wan-Cyuan Fan, Vered Shwartz, Vineeth N. Balasubramanian, Leonid Sigal",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1241.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_378",
+      "paper_id": "",
+      "title": "Rethinking Multimodal Entity and Relation Extraction from a Translation Point of View",
+      "authors": "Changmeng Zheng, Junhao Feng, Yi Cai, Xiaoyong Wei, Qing Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.376.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_31",
+      "paper_id": "",
+      "title": "Revealing Single Frame Bias for Video-and-Language Learning",
+      "authors": "Jie Lei, Tamara Berg, Mohit Bansal",
+      "paper_url": "https://aclanthology.org/2023.acl-long.29.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1403",
+      "paper_id": "",
+      "title": "Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration",
+      "authors": "Yuyi Zhang, Peirong Zhang, Zhenhua Yang, Pengyu Yan, Yongxin Shi, Pengwei Liu, Fengjun Guo, Lianwen Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1402.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_716",
+      "paper_id": "",
+      "title": "RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought",
+      "authors": "Yi Lu, Jiawang Cao, Yongliang Wu, Bozheng Li, Licheng Tang, Yangguang Ji, Chong Wu, Jay Wu, Wenbo Zhu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.715.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1595",
+      "paper_id": "",
+      "title": "Scalable Vision Language Model Training via High Quality Data Curation",
+      "authors": "Hongyuan Dong, Zijian Kang, Weijie Yin, LiangXiao LiangXiao, ChaoFeng ChaoFeng, Ran Jiao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1595.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_856",
+      "paper_id": "",
+      "title": "Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation",
+      "authors": "Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark Yatskar, Chris Callison-Burch, Ranjay Krishna, Aniruddha Kembhavi, Christopher Clark",
+      "paper_url": "https://aclanthology.org/2025.acl-long.855.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_331",
+      "paper_id": "",
+      "title": "Scene Graph as Pivoting: Inference-time Image-free Unsupervised Multimodal Machine Translation with Visual Scene Hallucination",
+      "authors": "Hao Fei, Qian Liu, Meishan Zhang, Min Zhang, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2023.acl-long.329.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_223",
+      "paper_id": "",
+      "title": "Sharper and Faster mean Better: Towards More Efficient Vision-Language Model for Hour-scale Long Video Understanding",
+      "authors": "Daoze Zhang, Yuze Zhao, Jintao Huang, Yingda Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.222.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1339",
+      "paper_id": "",
+      "title": "Sightation Counts: Leveraging Sighted User Feedback in Building a BLV-aligned Dataset of Diagram Descriptions",
+      "authors": "Wan Ju Kang, Eunki Kim, Na Min An, Sangryul Kim, Haemin Choi, Ki Hoon Kwak, James Thorne",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1338.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_607",
+      "paper_id": "",
+      "title": "Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation",
+      "authors": "Yupu Liang, Yaping Zhang, Zhiyang Zhang, Yang Zhao, Lu Xiang, Chengqing Zong, Yu Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.606.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_333",
+      "paper_id": "",
+      "title": "Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA",
+      "authors": "Qunbo Wang, Ruyi Ji, Tianhao Peng, Wenjun Wu, Zechao Li, Jing Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.332.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_609",
+      "paper_id": "",
+      "title": "Soul-Mix: Enhancing Multimodal Machine Translation with Manifold Mixup",
+      "authors": "Xuxin Cheng, Ziyu Yao, Yifei Xin, Hao An, Hongxiang Li, Yaowei Li, Yuexian Zou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.608.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_262",
+      "paper_id": "",
+      "title": "SpaRC and SpaRP: Spatial Reasoning Characterization and Path Generation for Understanding Spatial Reasoning Capability of Large Language Models",
+      "authors": "Md Imbesat Rizvi, Xiaodan Zhu, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2024.acl-long.261.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_388",
+      "paper_id": "",
+      "title": "SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data",
+      "authors": "Michael Ogezi, Freda Shi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.387.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_569",
+      "paper_id": "",
+      "title": "SPHERE: Unveiling Spatial Blind Spots in Vision-Language Models Through Hierarchical Evaluation",
+      "authors": "Wenyu Zhang, Wei En Ng, Lixin Ma, Yuwen Wang, Junqi Zhao, Allison Koenecke, Boyang Li, Wanglu Wanglu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.568.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_494",
+      "paper_id": "",
+      "title": "StructuralLM: Structural Pre-training for Form Understanding",
+      "authors": "Chenliang Li, Bin Bi, Ming Yan, Wei Wang, Songfang Huang, Fei Huang, Luo Si",
+      "paper_url": "https://aclanthology.org/2021.acl-long.493.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1463",
+      "paper_id": "",
+      "title": "Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images",
+      "authors": "Shengguang Wu, Fan-Yun Sun, Kaiyue Wen, Nick Haber",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1462.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_514",
+      "paper_id": "",
+      "title": "Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline",
+      "authors": "Dingyi Yang, Chunru Zhan, Ziheng Wang, Biao Wang, Tiezheng Ge, Bo Zheng, Qin Jin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.513.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1021",
+      "paper_id": "",
+      "title": "SYNTHIA: Novel Concept Design with Affordance Composition",
+      "authors": "Hyeonjeong Ha, Xiaomeng Jin, Jeonghwan Kim, Jiateng Liu, Zhenhailong Wang, Khanh Duy Nguyen, Ansel Blume, Nanyun Peng, Kai-Wei Chang, Heng Ji",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1020.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_297",
+      "paper_id": "",
+      "title": "Tackling Ambiguity with Images: Improved Multimodal Machine Translation and Contrastive Evaluation",
+      "authors": "Matthieu Futeral, Cordelia Schmid, Ivan Laptev, Benoît Sagot, Rachel Bawden",
+      "paper_url": "https://aclanthology.org/2023.acl-long.295.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_808",
+      "paper_id": "",
+      "title": "Task-Specific Information Decomposition for End-to-End Dense Video Captioning",
+      "authors": "Zhiyue Liu, Xinru Zhang, Jinyuan Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.807.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_10",
+      "paper_id": "",
+      "title": "The Impact of Auxiliary Patient Data on Automated Chest X-Ray Report Generation and How to Incorporate It",
+      "authors": "Aaron Nicolson, Shengyao Zhuang, Jason Dowling, Bevan Koopman",
+      "paper_url": "https://aclanthology.org/2025.acl-long.9.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_82",
+      "paper_id": "",
+      "title": "There’s a Time and Place for Reasoning Beyond the Image",
+      "authors": "Xingyu Fu, Ben Zhou, Ishaan Chandratreya, Carl Vondrick, Dan Roth",
+      "paper_url": "https://aclanthology.org/2022.acl-long.81.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_169",
+      "paper_id": "",
+      "title": "Things not Written in Text: Exploring Spatial Commonsense from Visual Signals",
+      "authors": "Xiao Liu, Da Yin, Yansong Feng, Dongyan Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.168.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_215",
+      "paper_id": "",
+      "title": "Towards Text-Image Interleaved Retrieval",
+      "authors": "Xin Zhang, Ziqi Dai, Yongqi Li, Yanzhao Zhang, Dingkun Long, Pengjun Xie, Meishan Zhang, Jun Yu, Wenjie Li, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.214.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_696",
+      "paper_id": "",
+      "title": "Transforming Visual Scene Graphs to Image Captions",
+      "authors": "Xu Yang, Jiawei Peng, Zihua Wang, Haiyang Xu, Qinghao Ye, Chenliang Li, Songfang Huang, Fei Huang, Zhangzikang Li, Yu Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.694.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_512",
+      "paper_id": "",
+      "title": "Translation-Enhanced Multilingual Text-to-Image Generation",
+      "authors": "Yaoyiran Li, Ching-Yun Chang, Stephen Rawls, Ivan Vulić, Anna Korhonen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.510.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_92",
+      "paper_id": "",
+      "title": "TUNA: Comprehensive Fine-grained Temporal Understanding Evaluation on Dense Dynamic Videos",
+      "authors": "Fanheng Kong, Jingyuan Zhang, Hongzhi Zhang, Shi Feng, Daling Wang, Linhao Yu, Xingguang Ji, Yu Tian, V. W., Fuzheng Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.91.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_53",
+      "paper_id": "",
+      "title": "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback",
+      "authors": "Daechul Ahn, Yura Choi, Youngjae Yu, Dongyeop Kang, Jonghyun Choi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.52.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_242",
+      "paper_id": "",
+      "title": "Uncovering the Full Potential of Visual Grounding Methods in VQA",
+      "authors": "Daniel Reich, Tanja Schultz",
+      "paper_url": "https://aclanthology.org/2024.acl-long.241.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_504",
+      "paper_id": "",
+      "title": "Understanding Retrieval Robustness for Retrieval-augmented Image Captioning",
+      "authors": "Wenyan Li, Jiaang Li, Rita Ramos, Raphael Tang, Desmond Elliott",
+      "paper_url": "https://aclanthology.org/2024.acl-long.503.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_503",
+      "paper_id": "",
+      "title": "Uni-Retrieval: A Multi-Style Retrieval Framework for STEM’s Education",
+      "authors": "Yanhao Jia, Xinyi Wu, Li Hao, QinglinZhang QinglinZhang, Yuxiao Hu, Shuai Zhao, Wenqi Fan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.502.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_329",
+      "paper_id": "",
+      "title": "Unifying Cross-Lingual and Cross-Modal Modeling Towards Weakly Supervised Multilingual Vision-Language Pre-training",
+      "authors": "Zejun Li, Zhihao Fan, Jingjing Chen, Qi Zhang, Xuanjing Huang, Zhongyu Wei",
+      "paper_url": "https://aclanthology.org/2023.acl-long.327.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_336",
+      "paper_id": "",
+      "title": "UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion",
+      "authors": "Wei Li, Xue Xu, Jiachen Liu, Xinyan Xiao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.335.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_203",
+      "paper_id": "",
+      "title": "UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning",
+      "authors": "Wei Li, Can Gao, Guocheng Niu, Xinyan Xiao, Hao Liu, Jiachen Liu, Hua Wu, Haifeng Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.202.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_327",
+      "paper_id": "",
+      "title": "Unsolvable Problem Detection: Robust Understanding Evaluation for Large Multimodal Models",
+      "authors": "Atsuyuki Miyai, Jingkang Yang, Jingyang Zhang, Yifei Ming, Qing Yu, Go Irie, Yixuan Li, Hai Helen Li, Ziwei Liu, Kiyoharu Aizawa",
+      "paper_url": "https://aclanthology.org/2025.acl-long.326.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1167",
+      "paper_id": "",
+      "title": "Unveil: Unified Visual-Textual Integration and Distillation for Multi-modal Document Retrieval",
+      "authors": "Hao Sun, Yingyan Hou, Jiayan Guo, Bo Wang, Chunyu Yang, Jinsong Ni, Yan Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1166.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1558",
+      "paper_id": "",
+      "title": "UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces",
+      "authors": "Baining Zhao, Jianjie Fang, Zichao Dai, Ziyou Wang, Jirong Zha, Weichen Zhang, Chen Gao, Yue Wang, Jinqiang Cui, Xinlei Chen, Yong Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1558.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_987",
+      "paper_id": "",
+      "title": "V-Oracle: Making Progressive Reasoning in Deciphering Oracle Bones for You and Me",
+      "authors": "Runqi Qiao, Qiuna Tan, Guanting Dong, MinhuiWu MinhuiWu, Jiapeng Wang, YiFan Zhang, Zhuoma GongQue, Chong Sun, Yida Xu, Yadong Xue, Ye Tian, Zhimin Bao, Lan Yang, Chen Li, Honggang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.986.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_568",
+      "paper_id": "",
+      "title": "VALSE: A Task-Independent Benchmark for Vision and Language Models Centered on Linguistic Phenomena",
+      "authors": "Letitia Parcalabescu, Michele Cafagna, Lilitta Muradjan, Anette Frank, Iacer Calixto, Albert Gatt",
+      "paper_url": "https://aclanthology.org/2022.acl-long.567.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1028",
+      "paper_id": "",
+      "title": "VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos",
+      "authors": "Tingyu Song, Tongyan Hu, Guo Gan, Yilun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1027.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_680",
+      "paper_id": "",
+      "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+      "authors": "Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Khan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.679.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1316",
+      "paper_id": "",
+      "title": "VideoVista-CulturalLingo: 360° Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension",
+      "authors": "Xinyu Chen, Yunxin Li, Haoyuan Shi, Baotian Hu, Wenhan Luo, Yaowei Wang, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1315.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1471",
+      "paper_id": "",
+      "title": "ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding",
+      "authors": "Austin Wang, ZeMing Gong, Angel X Chang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1470.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_659",
+      "paper_id": "",
+      "title": "VisDiaHalBench: A Visual Dialogue Benchmark For Diagnosing Hallucination in Large Vision-Language Models",
+      "authors": "Qingxing Cao, Junhao Cheng, Xiaodan Liang, Liang Lin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.658.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_525",
+      "paper_id": "",
+      "title": "Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions",
+      "authors": "Jing Gu, Eliana Stefani, Qi Wu, Jesse Thomason, Xin Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.524.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_176",
+      "paper_id": "",
+      "title": "VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval",
+      "authors": "Junjie Zhou, Zheng Liu, Shitao Xiao, Bo Zhao, Yongping Xiong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.175.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_403",
+      "paper_id": "",
+      "title": "VisText: A Benchmark for Semantically Rich Chart Captioning",
+      "authors": "Benny Tang, Angie Boggust, Arvind Satyanarayan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.401.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_206",
+      "paper_id": "",
+      "title": "Visual Evidence Prompting Mitigates Hallucinations in Large Vision-Language Models",
+      "authors": "Wei Li, Zhen Huang, Houqiang Li, Le Lu, Yang Lu, Xinmei Tian, Xu Shen, Jieping Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.205.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_333",
+      "paper_id": "",
+      "title": "Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration",
+      "authors": "Xiwen Liang, Fengda Zhu, Li Lingling, Hang Xu, Xiaodan Liang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.332.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_717",
+      "paper_id": "",
+      "title": "Visualization Recommendation with Prompt-based Reprogramming of Large Language Models",
+      "authors": "Xinhang Li, Jingbo Zhou, Wei Chen, Derong Xu, Tong Xu, Enhong Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.716.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_835",
+      "paper_id": "",
+      "title": "Visually-augmented pretrained language models for NLP tasks without images",
+      "authors": "Hangyu Guo, Kun Zhou, Wayne Xin Zhao, Qinyu Zhang, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.833.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_390",
+      "paper_id": "",
+      "title": "VisualSparta: An Embarrassingly Simple Approach to Large-scale Text-to-Image Search with Weighted Bag-of-words",
+      "authors": "Xiaopeng Lu, Tiancheng Zhao, Kyusong Lee",
+      "paper_url": "https://aclanthology.org/2021.acl-long.389.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_373",
+      "paper_id": "",
+      "title": "VLM2-Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues",
+      "authors": "Jianshu Zhang, Dongyu Yao, Renjie Pi, Paul Pu Liang, Yi R. Fung",
+      "paper_url": "https://aclanthology.org/2025.acl-long.372.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_782",
+      "paper_id": "",
+      "title": "VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service",
+      "authors": "Xiasi Wang, Tianliang Yao, Simin Chen, Runqi Wang, Lei Ye, Kuofeng Gao, Yi Huang, Yuan Yao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.781.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_739",
+      "paper_id": "",
+      "title": "VLN-Trans: Translator for the Vision and Language Navigation Agent",
+      "authors": "Yue Zhang, Parisa Kordjamshidi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.737.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_386",
+      "paper_id": "",
+      "title": "VQAGuider: Guiding Multimodal Large Language Models to Answer Complex Video Questions",
+      "authors": "Yuyan Chen, Jiyuan Jia, Jiaxin Lu, Siyue Li, Yu Guan, Ming Yang, Qingpei Guo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.385.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1307",
+      "paper_id": "",
+      "title": "Walk in Others’ Shoes with a Single Glance: Human-Centric Visual Grounding with Top-View Perspective Transformation",
+      "authors": "Yuqi Bu, Xin Wu, Zirui Zhao, Yi Cai, David Hsu, Qiong Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1306.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_466",
+      "paper_id": "",
+      "title": "Weakly Supervised Vision-and-Language Pre-training with Relative Representations",
+      "authors": "Chi Chen, Peng Li, Maosong Sun, Yang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.464.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_613",
+      "paper_id": "",
+      "title": "Weakly-Supervised Spoken Video Grounding via Semantic Interaction Learning",
+      "authors": "Ye Wang, Wang Lin, Shengyu Zhang, Tao Jin, Linjun Li, Xize Cheng, Zhou Zhao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.611.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1348",
+      "paper_id": "",
+      "title": "Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains",
+      "authors": "Juntian Zhang, Chuanqi Cheng, Yuhan Liu, Wei Liu, Jian Luan, Rui Yan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1347.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_312",
+      "paper_id": "",
+      "title": "What the DAAM: Interpreting Stable Diffusion Using Cross Attention",
+      "authors": "Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun Kumar, Pontus Stenetorp, Jimmy Lin, Ferhan Ture",
+      "paper_url": "https://aclanthology.org/2023.acl-long.310.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_329",
+      "paper_id": "",
+      "title": "WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types",
+      "authors": "Xuwu Wang, Junfeng Tian, Min Gui, Zhixu Li, Rui Wang, Ming Yan, Lihan Chen, Yanghua Xiao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.328.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_388",
+      "paper_id": "",
+      "title": "Writing by Memorizing: Hierarchical Retrieval-based Medical Report Generation",
+      "authors": "Xingyi Yang, Muchao Ye, Quanzeng You, Fenglong Ma",
+      "paper_url": "https://aclanthology.org/2021.acl-long.387.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_750",
+      "paper_id": "",
+      "title": "Wukong-Reader: Multi-modal Pre-training for Fine-grained Visual Document Understanding",
+      "authors": "Haoli Bai, Zhiguang Liu, Xiaojun Meng, Li Wentao, Shuang Liu, Yifeng Luo, Nian Xie, Rongfu Zheng, Liangwei Wang, Lu Hou, Jiansheng Wei, Xin Jiang, Qun Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.748.pdf",
+      "venue": "acl23"
+    }
+  ]
+}

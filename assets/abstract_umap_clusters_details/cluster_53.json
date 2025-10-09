@@ -1,0 +1,301 @@
+{
+  "cluster_id": 53,
+  "papers": [
+    {
+      "id": "corl21_7uSBJDoP7tY",
+      "paper_id": "7uSBJDoP7tY",
+      "title": "A System for General In-Hand Object Re-Orientation",
+      "authors": "Tao Chen, Jie Xu, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=7uSBJDoP7tY",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_21",
+      "paper_id": "21",
+      "title": "Cherry-Picking with Reinforcement Learning",
+      "authors": "Yunchu Zhang (Carnegie Mellon University), Liyiming Ke (University of Washington)*, Abhay Deshpande (University of Washington), Abhishek Gupta (University of Washington), Siddhartha Srinivasa (University of Washington)Yunchu Zhang (Carnegie Mellon University), Liyiming Ke (University of Washington)*, Abhay Deshpande (University of Washington), Abhishek Gupta (University of Washington), Siddhartha Srinivasa (University of Washington)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p021.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_wH23nZpVTF6",
+      "paper_id": "wH23nZpVTF6",
+      "title": "DEFT: Dexterous Fine-Tuning for Hand Policies",
+      "authors": "Aditya Kannan, Kenneth Shaw, Shikhar Bahl, Pragna Mannam, Deepak Pathak",
+      "paper_url": "https://openreview.net/pdf?id=wH23nZpVTF6",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_43",
+      "paper_id": "43",
+      "title": "DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation",
+      "authors": "Chen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, Karen LiuChen Wang, Haochen Shi, Weizhuo Wang, Ruohan Zhang, Li Fei-Fei, Karen Liu",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p043.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_VMqg1CeUQP",
+      "paper_id": "VMqg1CeUQP",
+      "title": "DexCatch:  Learning to Catch Arbitrary Objects with Dexterous Hands",
+      "authors": "Fengbo Lan, Shengjie Wang, Yunzhe Zhang, Haotian Xu, Oluwatosin OluwaPelumi Oseni, Ziye Zhang, Yang Gao, Tao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=VMqg1CeUQP",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_37",
+      "paper_id": "37",
+      "title": "DexPBT: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training",
+      "authors": "Aleksei Petrenko (University of Southern California)*, Arthur Allshire (University of Toronto), Gavriel State (NVIDIA), Ankur Handa (NVIDIA), Viktor Makoviychuk (NVIDIA)Aleksei Petrenko (University of Southern California)*, Arthur Allshire (University of Toronto), Gavriel State (NVIDIA), Ankur Handa (NVIDIA), Viktor Makoviychuk (NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p037.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl22_tJE1Yyi8fUX",
+      "paper_id": "tJE1Yyi8fUX",
+      "title": "DexPoint: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation",
+      "authors": "Yuzhe Qin, Binghao Huang, Zhao-Heng Yin, Hao Su, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=tJE1Yyi8fUX",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_93qz1k6_6h",
+      "paper_id": "93qz1k6_6h",
+      "title": "Dexterous Functional Grasping",
+      "authors": "Ananye Agarwal, Shagun Uppal, Kenneth Shaw, Deepak Pathak",
+      "paper_url": "https://openreview.net/pdf?id=93qz1k6_6h",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_kSnfpHJBJOt",
+      "paper_id": "kSnfpHJBJOt",
+      "title": "DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video",
+      "authors": "Priyanka Mandikal, Kristen Grauman",
+      "paper_url": "https://openreview.net/pdf?id=kSnfpHJBJOt",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_xcBH8Jhmbi",
+      "paper_id": "xcBH8Jhmbi",
+      "title": "Discovering Robotic Interaction Modes with Discrete Representation Learning",
+      "authors": "Liquan Wang, Ankit Goyal, Haoping Xu, Animesh Garg",
+      "paper_url": "https://openreview.net/pdf?id=xcBH8Jhmbi",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_dgwvY3H8PAS",
+      "paper_id": "dgwvY3H8PAS",
+      "title": "Dynamic Handover: Throw and Catch with Bimanual Hands",
+      "authors": "Binghao Huang, Yuanpei Chen, Tianyu Wang, Yuzhe Qin, Yaodong Yang, Nikolay Atanasov, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=dgwvY3H8PAS",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_gFXVysXh48K",
+      "paper_id": "gFXVysXh48K",
+      "title": "Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning",
+      "authors": "Xiang Zhang, Changhao Wang, Lingfeng Sun, Zheng Wu, Xinghao Zhu, Masayoshi Tomizuka",
+      "paper_url": "https://openreview.net/pdf?id=gFXVysXh48K",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_psLlVbTFBua",
+      "paper_id": "psLlVbTFBua",
+      "title": "FlowBot++: Learning Generalized Articulated Objects Manipulation via Articulation Projection",
+      "authors": "Harry Zhang, Ben Eisner, David Held",
+      "paper_url": "https://openreview.net/pdf?id=psLlVbTFBua",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss22_18",
+      "paper_id": "18",
+      "title": "FlowBot3D: Learning 3D Articulation Flow to Manipulate Articulated Objects",
+      "authors": "Benjamin Eisner, Harry Zhang, David Held (Carnegie Mellon University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p018.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_3ZAgXBRvla",
+      "paper_id": "3ZAgXBRvla",
+      "title": "FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation",
+      "authors": "Yishu Li, Wen Hui Leng, Yiming Fang, Ben Eisner, David Held",
+      "paper_url": "https://openreview.net/pdf?id=3ZAgXBRvla",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_fa7FzDjhzs9",
+      "paper_id": "fa7FzDjhzs9",
+      "title": "HACMan: Learning Hybrid Actor-Critic Maps for 6D Non-Prehensile Manipulation",
+      "authors": "Wenxuan Zhou, Bowen Jiang, Fan Yang, Chris Paxton, David Held",
+      "paper_url": "https://openreview.net/pdf?id=fa7FzDjhzs9",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_A6ikGJRaKL",
+      "paper_id": "A6ikGJRaKL",
+      "title": "KOROL: Learning Visualizable Object Feature with Koopman Operator Rollout for Manipulation",
+      "authors": "Hongyi Chen, ABULIKEMU ABUDUWEILI, Aviral Agrawal, Yunhai Han, Harish Ravichandar, Changliu Liu, Jeffrey Ichnowski",
+      "paper_url": "https://openreview.net/pdf?id=A6ikGJRaKL",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_h5g_VDJJfbt",
+      "paper_id": "h5g_VDJJfbt",
+      "title": "Learning Generalizable Dexterous Manipulation from Human Grasp Affordance",
+      "authors": "Yueh-Hua Wu, Jiashun Wang, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=h5g_VDJJfbt",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_CC4JMO4dzg",
+      "paper_id": "CC4JMO4dzg",
+      "title": "Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation",
+      "authors": "Jacky Liang, Xianyi Cheng, Oliver Kroemer",
+      "paper_url": "https://openreview.net/pdf?id=CC4JMO4dzg",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_xK-UtqDpD7L",
+      "paper_id": "xK-UtqDpD7L",
+      "title": "Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity",
+      "authors": "Wenxuan Zhou, David Held",
+      "paper_url": "https://openreview.net/pdf?id=xK-UtqDpD7L",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_SFJz5iLvur",
+      "paper_id": "SFJz5iLvur",
+      "title": "Lessons from Learning to Spin “Pens”",
+      "authors": "Jun Wang, Ying Yuan, Haichuan Che, Haozhi Qi, Yi Ma, Jitendra Malik, Xiaolong Wang",
+      "paper_url": "https://openreview.net/pdf?id=SFJz5iLvur",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_GTyBkq36tjx",
+      "paper_id": "GTyBkq36tjx",
+      "title": "Neural Geometric Fabrics: Efficiently Learning High-Dimensional Policies from Demonstration",
+      "authors": "Mandy Xie, Ankur Handa, Stephen Tyree, Dieter Fox, Harish Ravichandar, Nathan D. Ratliff, Karl Van Wyk",
+      "paper_url": "https://openreview.net/pdf?id=GTyBkq36tjx",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_KAzku0Uyh1",
+      "paper_id": "KAzku0Uyh1",
+      "title": "Object-Centric Dexterous Manipulation from Human Motion Data",
+      "authors": "Yuanpei Chen, Chen Wang, Yaodong Yang, Karen Liu",
+      "paper_url": "https://openreview.net/pdf?id=KAzku0Uyh1",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_pw-OTIYrGa",
+      "paper_id": "pw-OTIYrGa",
+      "title": "On the Utility of Koopman Operator Theory in Learning Dexterous Manipulation Skills",
+      "authors": "Yunhai Han, Mandy Xie, Ye Zhao, Harish Ravichandar",
+      "paper_url": "https://openreview.net/pdf?id=pw-OTIYrGa",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl23_ckeT8cMz_A",
+      "paper_id": "ckeT8cMz_A",
+      "title": "REBOOT: Reuse Data for Bootstrapping Efficient Real-World Dexterous Manipulation",
+      "authors": "Zheyuan Hu, Aaron Rovinsky, Jianlan Luo, Vikash Kumar, Abhishek Gupta, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=ckeT8cMz_A",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_yNQu9zqx6X",
+      "paper_id": "yNQu9zqx6X",
+      "title": "Robust Manipulation Primitive Learning via Domain Contraction",
+      "authors": "Teng Xue, Amirreza Razmjoo, Suhan Shetty, Sylvain Calinon",
+      "paper_url": "https://openreview.net/pdf?id=yNQu9zqx6X",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_20",
+      "paper_id": "20",
+      "title": "Sampling-based Exploration for Reinforcement Learning of Dexterous Manipulation",
+      "authors": "Gagan Khandate (Columbia University)*, Siqi Shang (Columbia University), Eric T Chang (Columbia University), Tristan L Saidi (Columbia University), Johnson Adams (Columbia University), Matei Ciocarlie (Columbia University)Gagan Khandate (Columbia University)*, Siqi Shang (Columbia University), Eric T Chang (Columbia University), Tristan L Saidi (Columbia University), Johnson Adams (Columbia University), Matei Ciocarlie (Columbia University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p020.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl21_L0tXWRrB9yw",
+      "paper_id": "L0tXWRrB9yw",
+      "title": "SCAPE: Learning Stiffness Control from Augmented Position Control Experiences",
+      "authors": "Mincheol Kim, Scott Niekum, Ashish Deshpande",
+      "paper_url": "https://openreview.net/pdf?id=L0tXWRrB9yw",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_PAtsxVz0ND",
+      "paper_id": "PAtsxVz0ND",
+      "title": "ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real",
+      "authors": "Jiangran Lyu, Yuxing Chen, Tao Du, Feng Zhu, Huiquan Liu, Yizhou Wang, He Wang",
+      "paper_url": "https://openreview.net/pdf?id=PAtsxVz0ND",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_2Qrd-Yw4YmF",
+      "paper_id": "2Qrd-Yw4YmF",
+      "title": "Sequential Dexterity: Chaining Dexterous Policies for Long-Horizon Manipulation",
+      "authors": "Yuanpei Chen, Chen Wang, Li Fei-Fei, Karen Liu",
+      "paper_url": "https://openreview.net/pdf?id=2Qrd-Yw4YmF",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_fNBbEgcfwO",
+      "paper_id": "fNBbEgcfwO",
+      "title": "Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks",
+      "authors": "Ji Woong Kim, Tony Z. Zhao, Samuel Schmidgall, Anton Deguet, Marin Kobilarov, Chelsea Finn, Axel Krieger",
+      "paper_url": "https://openreview.net/pdf?id=fNBbEgcfwO",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss21_89",
+      "paper_id": "89",
+      "title": "Surprisingly Robust In-Hand Manipulation: An Empirical Study",
+      "authors": "Aditya Bhatt (TU Berlin), Adrian Sieler (TU Berlin), Steffen Puhlmann (TU Berlin), Oliver Brock (TU Berlin)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p089.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_Si2krRESZb",
+      "paper_id": "Si2krRESZb",
+      "title": "TieBot: Learning to Knot a Tie from Visual Demonstration through a Real-to-Sim-to-Real Approach",
+      "authors": "Weikun Peng, Jun Lv, Yuwei Zeng, Haonan Chen, Siheng Zhao, Jichen Sun, Cewu Lu, Lin Shao",
+      "paper_url": "https://openreview.net/pdf?id=Si2krRESZb",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_3wBqoPfoeJ",
+      "paper_id": "3wBqoPfoeJ",
+      "title": "Twisting Lids Off with Two Hands",
+      "authors": "Toru Lin, Zhao-Heng Yin, Haozhi Qi, Pieter Abbeel, Jitendra Malik",
+      "paper_url": "https://openreview.net/pdf?id=3wBqoPfoeJ",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_wMoHIYBsj2_",
+      "paper_id": "wMoHIYBsj2_",
+      "title": "V-MAO: Generative Modeling for Multi-Arm Manipulation of Articulated Objects",
+      "authors": "Xingyu Liu, Kris M. Kitani",
+      "paper_url": "https://openreview.net/pdf?id=wMoHIYBsj2_",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_70",
+      "paper_id": "70",
+      "title": "Vision-driven Compliant Manipulation for Reliable, High-Precision Assembly Tasks",
+      "authors": "Andrew S Morgan (Yale University), Bowen Wen (Rutgers University), Junchi Liang (Rutgers University), Abdeslam Boularias (Rutgers University), Aaron M. Dollar (Yale University), Kostas Bekris (Rutgers University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p070.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_WkbvHMQL6uJ",
+      "paper_id": "WkbvHMQL6uJ",
+      "title": "Where To Start? Transferring Simple Skills to Complex Environments",
+      "authors": "Vitalis Vosylius, Edward Johns",
+      "paper_url": "https://openreview.net/pdf?id=WkbvHMQL6uJ",
+      "venue": "corl22"
+    }
+  ]
+}

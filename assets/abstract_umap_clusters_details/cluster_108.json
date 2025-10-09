@@ -1,0 +1,645 @@
+{
+  "cluster_id": 108,
+  "papers": [
+    {
+      "id": "acl25_1020",
+      "paper_id": "",
+      "title": "(RSA)²: A Rhetorical-Strategy-Aware Rational Speech Act Framework for Figurative Language Understanding",
+      "authors": "Cesare Spinoso-Di Piano, David Eric Austin, Pablo Piantanida, Jackie CK Cheung",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1019.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_84",
+      "paper_id": "",
+      "title": "A DQN-based Approach to Finding Precise Evidences for Fact Verification",
+      "authors": "Hai Wan, Haicheng Chen, Jianfeng Du, Weilin Luo, Rongzhen Ye",
+      "paper_url": "https://aclanthology.org/2021.acl-long.83.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_232",
+      "paper_id": "",
+      "title": "A fine-grained comparison of pragmatic language understanding in humans and language models",
+      "authors": "Jennifer Hu, Sammy Floyd, Olessia Jouravlev, Evelina Fedorenko, Edward Gibson",
+      "paper_url": "https://aclanthology.org/2023.acl-long.230.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_621",
+      "paper_id": "",
+      "title": "A Unified Agentic Framework for Evaluating Conditional Image Generation",
+      "authors": "Jifang Wang, Yangxue Yangxue, Longyue Wang, Zhenran Xu, Yiyu Wang, Yaowei Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.620.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_105",
+      "paper_id": "",
+      "title": "AFaCTA: Assisting the Annotation of Factual Claim Detection with Reliable LLM Annotators",
+      "authors": "Jingwei Ni, Minjing Shi, Dominik Stammbach, Mrinmaya Sachan, Elliott Ash, Markus Leippold",
+      "paper_url": "https://aclanthology.org/2024.acl-long.104.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_636",
+      "paper_id": "",
+      "title": "AlignScore: Evaluating Factual Consistency with A Unified Alignment Function",
+      "authors": "Yuheng Zha, Yichi Yang, Ruichen Li, Zhiting Hu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.634.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_566",
+      "paper_id": "",
+      "title": "All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text",
+      "authors": "Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan, Noah A. Smith",
+      "paper_url": "https://aclanthology.org/2021.acl-long.565.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_521",
+      "paper_id": "",
+      "title": "An Imitation Learning Curriculum for Text Editing with Non-Autoregressive Models",
+      "authors": "Sweta Agrawal, Marine Carpuat",
+      "paper_url": "https://aclanthology.org/2022.acl-long.520.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_378",
+      "paper_id": "",
+      "title": "ARIES: A Corpus of Scientific Paper Edits Made in Response to Peer Reviews",
+      "authors": "Mike D’Arcy, Alexis Ross, Erin Bransom, Bailey Kuehl, Jonathan Bragg, Tom Hope, Doug Downey",
+      "paper_url": "https://aclanthology.org/2024.acl-long.377.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_426",
+      "paper_id": "",
+      "title": "Article Reranking by Memory-Enhanced Key Sentence Matching for Detecting Previously Fact-Checked Claims",
+      "authors": "Qiang Sheng, Juan Cao, Xueyao Zhang, Xirong Li, Lei Zhong",
+      "paper_url": "https://aclanthology.org/2021.acl-long.425.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_362",
+      "paper_id": "",
+      "title": "Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches",
+      "authors": "Islam Eldifrawi, Shengrui Wang, Amine Trabelsi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.361.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_395",
+      "paper_id": "",
+      "title": "Automatic Annotation of Direct Speech in Written French Narratives",
+      "authors": "Noé Durandard, Viet Anh Tran, Gaspard Michel, Elena Epure",
+      "paper_url": "https://aclanthology.org/2023.acl-long.393.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1089",
+      "paper_id": "",
+      "title": "Automatic Evaluation for Text-to-image Generation: Task-decomposed Framework, Distilled Training, and Meta-evaluation Benchmark",
+      "authors": "Rong-Cheng Tu, Zi-Ao Ma, Tian Lan, Yuehao Zhao, Heyan Huang, Xian-Ling Mao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1088.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1435",
+      "paper_id": "",
+      "title": "Beyond True or False: Retrieval-Augmented Hierarchical Analysis of Nuanced Claims",
+      "authors": "Priyanka Kargupta, Runchu Tian, Jiawei Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1434.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_34",
+      "paper_id": "",
+      "title": "Can Your Model Tell a Negation from an Implicature? Unravelling Challenges With Intent Encoders",
+      "authors": "Yuwei Zhang, Siffi Singh, Sailik Sengupta, Igor Shalyminov, Hang Su, Hwanjun Song, Saab Mansour",
+      "paper_url": "https://aclanthology.org/2024.acl-long.33.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_836",
+      "paper_id": "",
+      "title": "CHECKWHY: Causal Fact Verification via Argument Structure",
+      "authors": "Jiasheng Si, Yibo Zhao, Yingjie Zhu, Haiyang Zhu, Wenpeng Lu, Deyu Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.835.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_348",
+      "paper_id": "",
+      "title": "Claim Matching Beyond English to Scale Global Fact-Checking",
+      "authors": "Ashkan Kazemi, Kiran Garimella, Devin Gaffney, Scott A. Hale",
+      "paper_url": "https://aclanthology.org/2021.acl-long.347.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1015",
+      "paper_id": "",
+      "title": "ConceptCarve: Dynamic Realization of Evidence",
+      "authors": "Eylon Caplan, Dan Goldwasser",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1014.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_316",
+      "paper_id": "",
+      "title": "Context Matters: A Pragmatic Study of PLMs’ Negation Understanding",
+      "authors": "Reto Gubelmann, Siegfried Handschuh",
+      "paper_url": "https://aclanthology.org/2022.acl-long.315.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_645",
+      "paper_id": "",
+      "title": "Contrastive Error Attribution for Finetuned Language Models",
+      "authors": "Faisal Ladhak, Esin Durmus, Tatsunori Hashimoto",
+      "paper_url": "https://aclanthology.org/2023.acl-long.643.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_376",
+      "paper_id": "",
+      "title": "Counterfactual Debiasing for Fact Verification",
+      "authors": "Weizhi Xu, Qiang Liu, Shu Wu, Liang Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.374.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_166",
+      "paper_id": "",
+      "title": "COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic",
+      "authors": "Arkadiy Saakyan, Tuhin Chakrabarty, Smaranda Muresan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.165.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_391",
+      "paper_id": "",
+      "title": "Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach",
+      "authors": "Nidhi Vakil, Hadi Amiri",
+      "paper_url": "https://aclanthology.org/2023.acl-long.389.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_677",
+      "paper_id": "",
+      "title": "Dealing with Semantic Underspecification in Multimodal NLP",
+      "authors": "Sandro Pezzelle",
+      "paper_url": "https://aclanthology.org/2023.acl-long.675.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_264",
+      "paper_id": "",
+      "title": "DialFact: A Benchmark for Fact-Checking in Dialogue",
+      "authors": "Prakhar Gupta, Chien-Sheng Wu, Wenhao Liu, Caiming Xiong",
+      "paper_url": "https://aclanthology.org/2022.acl-long.263.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_646",
+      "paper_id": "",
+      "title": "Document-level Claim Extraction and Decontextualisation for Fact-Checking",
+      "authors": "Zhenyun Deng, Michael Schlichtkrull, Andreas Vlachos",
+      "paper_url": "https://aclanthology.org/2024.acl-long.645.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1429",
+      "paper_id": "",
+      "title": "EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits",
+      "authors": "Ron Yosef, Yonatan Bitton, Dani Lischinski, Moran Yanuka",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1428.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_375",
+      "paper_id": "",
+      "title": "Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models",
+      "authors": "Fan Zhang, Shulin Tian, Ziqi Huang, Yu Qiao, Ziwei Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.374.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_257",
+      "paper_id": "",
+      "title": "Evidence-based Factual Error Correction",
+      "authors": "James Thorne, Andreas Vlachos",
+      "paper_url": "https://aclanthology.org/2021.acl-long.256.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_18",
+      "paper_id": "",
+      "title": "FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models",
+      "authors": "Hongzhan Lin, Yang Deng, Yuxuan Gu, Wenxuan Zhang, Jing Ma, See-Kiong Ng, Tat-Seng Chua",
+      "paper_url": "https://aclanthology.org/2025.acl-long.17.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_388",
+      "paper_id": "",
+      "title": "Fact-Checking Complex Claims with Program-Guided Reasoning",
+      "authors": "Liangming Pan, Xiaobao Wu, Xinyuan Lu, Anh Tuan Luu, William Yang Wang, Min-Yen Kan, Preslav Nakov",
+      "paper_url": "https://aclanthology.org/2023.acl-long.386.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_583",
+      "paper_id": "",
+      "title": "FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering",
+      "authors": "Anku Rani, S.M Towhidul Islam Tonmoy, Dwip Dalal, Shreya Gautam, Megha Chakraborty, Aman Chadha, Amit Sheth, Amitava Das",
+      "paper_url": "https://aclanthology.org/2023.acl-long.581.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_897",
+      "paper_id": "",
+      "title": "FactKG: Fact Verification via Reasoning on Knowledge Graphs",
+      "authors": "Jiho Kim, Sungjin Park, Yeonsu Kwon, Yohan Jo, James Thorne, Edward Choi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.895.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_465",
+      "paper_id": "",
+      "title": "Factual or Contextual? Disentangling Error Types in Entity Description Generation",
+      "authors": "Navita Goyal, Ani Nenkova, Hal Daumé III",
+      "paper_url": "https://aclanthology.org/2023.acl-long.463.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_123",
+      "paper_id": "",
+      "title": "Factuality Assessment as Modal Dependency Parsing",
+      "authors": "Jiarui Yao, Haoling Qiu, Jin Zhao, Bonan Min, Nianwen Xue",
+      "paper_url": "https://aclanthology.org/2021.acl-long.122.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_355",
+      "paper_id": "",
+      "title": "FaVIQ: FAct Verification from Information-seeking Questions",
+      "authors": "Jungsoo Park, Sewon Min, Jaewoo Kang, Luke Zettlemoyer, Hannaneh Hajishirzi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.354.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_176",
+      "paper_id": "",
+      "title": "Generating Scientific Claims for Zero-Shot Scientific Fact Checking",
+      "authors": "Dustin Wright, David Wadden, Kyle Lo, Bailey Kuehl, Arman Cohan, Isabelle Augenstein, Lucy Lu Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.175.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_185",
+      "paper_id": "",
+      "title": "Generating User-Engaging News Headlines",
+      "authors": "Pengshan Cai, Kaiqiang Song, Sangwoo Cho, Hongwei Wang, Xiaoyang Wang, Hong Yu, Fei Liu, Dong Yu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.183.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_689",
+      "paper_id": "",
+      "title": "GLIMPSE: Pragmatically Informative Multi-Document Summarization for Scholarly Reviews",
+      "authors": "Maxime Darrin, Ines Arous, Pablo Piantanida, Jackie Cheung",
+      "paper_url": "https://aclanthology.org/2024.acl-long.688.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_424",
+      "paper_id": "",
+      "title": "HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation",
+      "authors": "Tao Qi, Fangzhao Wu, Chuhan Wu, Peiru Yang, Yang Yu, Xing Xie, Yongfeng Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.423.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1511",
+      "paper_id": "",
+      "title": "HintsOfTruth: A Multimodal Checkworthiness Detection Dataset with Real and Synthetic Claims",
+      "authors": "Michiel Van Der Meer, Pavel Korshunov, Sébastien Marcel, Lonneke Van Der Plas",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1510.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_52",
+      "paper_id": "",
+      "title": "How About Kind of Generating Hedges using End-to-End Neural Models?",
+      "authors": "Alafate Abulimiti, Chloé Clavel, Justine Cassell",
+      "paper_url": "https://aclanthology.org/2023.acl-long.50.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_106",
+      "paper_id": "",
+      "title": "HuCurl: Human-induced Curriculum Discovery",
+      "authors": "Mohamed Elgaar, Hadi Amiri",
+      "paper_url": "https://aclanthology.org/2023.acl-long.104.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_883",
+      "paper_id": "",
+      "title": "Human-in-the-loop Evaluation for Early Misinformation Detection: A Case Study of COVID-19 Treatments",
+      "authors": "Ethan Mendes, Yang Chen, Wei Xu, Alan Ritter",
+      "paper_url": "https://aclanthology.org/2023.acl-long.881.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_401",
+      "paper_id": "",
+      "title": "Improving Model Factuality with Fine-grained Critique-based Evaluator",
+      "authors": "Yiqing Xie, Wenxuan Zhou, Pradyot Prakash, Di Jin, Yuning Mao, Quintin Fettes, Arya Talebzadeh, Sinong Wang, Han Fang, Carolyn Rose, Daniel Fried, Hejia Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.400.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_668",
+      "paper_id": "",
+      "title": "In-sample Curriculum Learning by Sequence Completion for Natural Language Generation",
+      "authors": "Qi Jia, Yizhu Liu, Haifeng Tang, Kenny Zhu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.666.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_135",
+      "paper_id": "",
+      "title": "Injecting knowledge into language generation: a case study in auto-charting after-visit care instructions from medical dialogue",
+      "authors": "Maksim Eremeev, Ilya Valmianski, Xavier Amatriain, Anitha Kannan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.133.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1599",
+      "paper_id": "",
+      "title": "Introducing Verification Task of Set Consistency with Set-Consistency Energy Networks",
+      "authors": "Mooho Song, Hye Ryung Son, Jay-Yoon Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1599.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_502",
+      "paper_id": "",
+      "title": "Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text",
+      "authors": "Yao Dou, Maxwell Forbes, Rik Koncel-Kedziorski, Noah A. Smith, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.501.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_166",
+      "paper_id": "",
+      "title": "LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews",
+      "authors": "Sukannya Purkayastha, Zhuang Li, Anne Lauscher, Lizhen Qu, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2025.acl-long.165.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_475",
+      "paper_id": "",
+      "title": "MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking",
+      "authors": "Ting-Chih Chen, Chia-Wei Tang, Chris Thomas",
+      "paper_url": "https://aclanthology.org/2024.acl-long.474.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_241",
+      "paper_id": "",
+      "title": "Missci: Reconstructing Fallacies in Misrepresented Science",
+      "authors": "Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2024.acl-long.240.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_279",
+      "paper_id": "",
+      "title": "NLPeer: A Unified Resource for the Computational Study of Peer Review",
+      "authors": "Nils Dycke, Ilia Kuznetsov, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2023.acl-long.277.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_255",
+      "paper_id": "",
+      "title": "Optimizing Decomposition for Optimal Claim Verification",
+      "authors": "Yining Lu, Noah Ziems, Hy Dang, Meng Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.254.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_8",
+      "paper_id": "",
+      "title": "PENS: A Dataset and Generic Framework for Personalized News Headline Generation",
+      "authors": "Xiang Ao, Xiting Wang, Ling Luo, Ying Qiao, Qing He, Xing Xie",
+      "paper_url": "https://aclanthology.org/2021.acl-long.7.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_425",
+      "paper_id": "",
+      "title": "PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity",
+      "authors": "Tao Qi, Fangzhao Wu, Chuhan Wu, Yongfeng Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.424.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_527",
+      "paper_id": "",
+      "title": "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer",
+      "authors": "Yiyang Zhang, Nan Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.526.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_1",
+      "paper_id": "",
+      "title": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "authors": "Anna Rogers, Jordan Boyd-Graber, Naoaki Okazaki",
+      "paper_url": "https://aclanthology.org/2023.acl-long.0.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_2",
+      "paper_id": "",
+      "title": "Program Chairs’ Report on Peer Review at ACL 2023",
+      "authors": "Anna Rogers, Marzena Karpinska, Jordan Boyd-Graber, Naoaki Okazaki",
+      "paper_url": "https://aclanthology.org/2023.acl-long.report.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_943",
+      "paper_id": "",
+      "title": "PVP: An Image Dataset for Personalized Visual Persuasion with Persuasion Strategies, Viewer Characteristics, and Persuasiveness Ratings",
+      "authors": "Junseo Kim, Jongwook Han, Dongmin Choi, Jongwook Yoon, Eun-Ju Lee, Yohan Jo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.942.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_256",
+      "paper_id": "",
+      "title": "Re3: A Holistic Framework and Dataset for Modeling Collaborative Document Revision",
+      "authors": "Qian Ruan, Ilia Kuznetsov, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2024.acl-long.255.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_82",
+      "paper_id": "",
+      "title": "Real-time Factuality Assessment from Adversarial Feedback",
+      "authors": "Sanxing Chen, Yukun Huang, Bhuwan Dhingra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.81.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_557",
+      "paper_id": "",
+      "title": "Retrieval Augmented Fact Verification by Synthesizing Contrastive Arguments",
+      "authors": "Zhenrui Yue, Huimin Zeng, Lanyu Shang, Yifan Liu, Yang Zhang, Dong Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.556.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_448",
+      "paper_id": "",
+      "title": "SaFeRDialogues: Taking Feedback Gracefully after Conversational Safety Failures",
+      "authors": "Megan Ung, Jing Xu, Y-Lan Boureau",
+      "paper_url": "https://aclanthology.org/2022.acl-long.447.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_52",
+      "paper_id": "",
+      "title": "Structurizing Misinformation Stories via Rationalizing Fact-Checks",
+      "authors": "Shan Jiang, Christo Wilson",
+      "paper_url": "https://aclanthology.org/2021.acl-long.51.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_470",
+      "paper_id": "",
+      "title": "TGEA: An Error-Annotated Dataset and Benchmark Tasks for TextGeneration from Pretrained Language Models",
+      "authors": "Jie He, Bo Peng, Yi Liao, Qun Liu, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2021.acl-long.469.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_495",
+      "paper_id": "",
+      "title": "The CRINGE Loss: Learning what language not to model",
+      "authors": "Leonard Adolphs, Tianyu Gao, Jing Xu, Kurt Shuster, Sainbayar Sukhbaatar, Jason Weston",
+      "paper_url": "https://aclanthology.org/2023.acl-long.493.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_882",
+      "paper_id": "",
+      "title": "To Revise or Not to Revise: Learning to Detect Improvable Claims for Argumentative Writing Support",
+      "authors": "Gabriella Skitalinskaya, Henning Wachsmuth",
+      "paper_url": "https://aclanthology.org/2023.acl-long.880.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_129",
+      "paper_id": "",
+      "title": "Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification",
+      "authors": "Jiasheng Si, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He",
+      "paper_url": "https://aclanthology.org/2021.acl-long.128.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_349",
+      "paper_id": "",
+      "title": "Towards Effective Extraction and Evaluation of Factual Claims",
+      "authors": "Dasha Metropolitansky, Jonathan Larson",
+      "paper_url": "https://aclanthology.org/2025.acl-long.348.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_724",
+      "paper_id": "",
+      "title": "Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization",
+      "authors": "Keane Ong, Rui Mao, Deeksha Varshney, Erik Cambria, Gianmarco Mengaldo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.723.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_669",
+      "paper_id": "",
+      "title": "Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking",
+      "authors": "Xiaokang Zhang, Zijun Yao, Jing Zhang, Kaifeng Yun, Jifan Yu, Juanzi Li, Jie Tang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.668.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_251",
+      "paper_id": "",
+      "title": "Understanding Iterative Revision from Human-Written Text",
+      "authors": "Wanyu Du, Vipul Raheja, Dhruv Kumar, Zae Myung Kim, Melissa Lopez, Dongyeop Kang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.250.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_6",
+      "paper_id": "",
+      "title": "Unified Dual-view Cognitive Model for Interpretable Claim Verification",
+      "authors": "Lianwei Wu, Yuan Rao, Yuqian Lan, Ling Sun, Zhaoyin Qi",
+      "paper_url": "https://aclanthology.org/2021.acl-long.5.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_664",
+      "paper_id": "",
+      "title": "VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation",
+      "authors": "Max Ku, Dongfu Jiang, Cong Wei, Xiang Yue, Wenhu Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.663.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_93",
+      "paper_id": "",
+      "title": "WatClaimCheck: A new Dataset for Claim Entailment and Inference",
+      "authors": "Kashif Khan, Ruizhe Wang, Pascal Poupart",
+      "paper_url": "https://aclanthology.org/2022.acl-long.92.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_20",
+      "paper_id": "",
+      "title": "WeCheck: Strong Factual Consistency Checker via Weakly Supervised Learning",
+      "authors": "Wenhao Wu, Wei Li, Xinyan Xiao, Jiachen Liu, Sujian Li, Yajuan Lyu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.18.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_459",
+      "paper_id": "",
+      "title": "What is Your Article Based On? Inferring Fine-grained Provenance",
+      "authors": "Yi Zhang, Zachary Ives, Dan Roth",
+      "paper_url": "https://aclanthology.org/2021.acl-long.458.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_588",
+      "paper_id": "",
+      "title": "Your Answer is Incorrect... Would you like to know why? Introducing a Bilingual Short Answer Feedback Dataset",
+      "authors": "Anna Filighera, Siddharth Parihar, Tim Steuer, Tobias Meuser, Sebastian Ochs",
+      "paper_url": "https://aclanthology.org/2022.acl-long.587.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_313",
+      "paper_id": "",
+      "title": "Zero-shot Faithful Factual Error Correction",
+      "authors": "Kung-Hsiang Huang, Hou Pong Chan, Heng Ji",
+      "paper_url": "https://aclanthology.org/2023.acl-long.311.pdf",
+      "venue": "acl23"
+    }
+  ]
+}

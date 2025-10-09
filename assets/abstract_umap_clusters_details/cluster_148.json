@@ -1,0 +1,509 @@
+{
+  "cluster_id": 148,
+  "papers": [
+    {
+      "id": "siggraph22_papers_770",
+      "paper_id": "papers_770",
+      "title": "A Motion Matching-based Framework for Controllable Gesture Synthesis From Speech",
+      "authors": "Ikhsanul Habibie, Mohamed Elgharib, Kripasindhu Sarkar, Ahsan Abdullah, Simbarashe Nyatsanga, Michael Neff, Christian Theobalt",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_1ee1a9d0d5",
+      "paper_id": "1ee1a9d0d5",
+      "title": "Anymate: A Dataset and Baselines for Learning 3D Object Rigging",
+      "authors": "Yufan Deng, Yuhao Zhang, Chen Geng, Shangzhe Wu, Jiajun Wu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_024d5e65da",
+      "paper_id": "024d5e65da",
+      "title": "AnyTop: Character Animation Diffusion with Any Topology",
+      "authors": "Inbar Gat, Sigal Raab, Guy Tevet, Yuval Reshef, Amit Haim Bermano, Daniel Cohen-Or",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_ba9c429335",
+      "paper_id": "ba9c429335",
+      "title": "AutoKeyframe: Autoregressive Keyframe Generation for Human Motion Synthesis and Editing",
+      "authors": "Bowen Zheng, Ke Chen, Yuxin Yao, Zijiao Zeng, Xinwei Jiang, He Wang, Joan Lasenby, Xiaogang Jin",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_2ed9e09383",
+      "paper_id": "2ed9e09383",
+      "title": "Automatic Interpretation of Ancient Egyptian Texts for Education and Research",
+      "authors": "Maksim Golyadkin, Innokentiy Humonen, Yanis Plevokas, Ekaterina Bureeva, Ekaterina Alexandrova, Ilya Makarov",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_862",
+      "paper_id": "papers_862",
+      "title": "Bodyformer: Semantics-guided 3D Body Gesture Synthesis With Transformer",
+      "authors": "Kunkun Pang, Dafei Qin, Yingruo Fan, Julian Habekost, Takaaki Shiratori, Junichi Yamagishi, Taku Komura",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_b89426150b",
+      "paper_id": "b89426150b",
+      "title": "CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation",
+      "authors": "Qinghe Wang, Yawen Luo, Xiaoyu Shi, Xu Jia, Huchuan Lu, Tianfan Xue, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_a894607141",
+      "paper_id": "a894607141",
+      "title": "Controllable Tracking-Based Video Frame Interpolation",
+      "authors": "Karlis Martins Briedis, Abdelaziz Djelouah, Raphaël Ortiz, Markus Gross, Christopher Schroers",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_d166a78d59",
+      "paper_id": "d166a78d59",
+      "title": "DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution",
+      "authors": "Zhe Kong, Le Li, Yong Zhang, Feng Gao, Shaoshu Yang, Tao Wang, Kaihao Zhang, Zhuoliang Kang, Xiaoming Wei, Guanying Chen, Wenhan Luo",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_2939b068af",
+      "paper_id": "2939b068af",
+      "title": "DC-VSR: Spatially and Temporally Consistent Video Super-Resolution with Video Diffusion Prior",
+      "authors": "Janghyeok Han, Gyujin Sim, Geonung Kim, Hyun-Seung Lee, Kyuha Choi, Youngseok Han, Sunghyun Cho",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_980",
+      "paper_id": "papers_980",
+      "title": "DiffPoseTalk: Speech-driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models",
+      "authors": "Zhiyao Sun, Tian Lv, Sheng Ye, Matthieu Lin, Jenny Sheng, Yu-Hui Wen, Minjing Yu, Yong-Jin Liu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_db22d5b4c7",
+      "paper_id": "db22d5b4c7",
+      "title": "Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control",
+      "authors": "Xiaoyu Huang, Takara Truong, Yunbo Zhang, Fangzhou Yu, Jean Pierre Sleiman, Jessica Hodgins, Koushil Sreenath, Farbod Farshidian",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_fcbcac2d59",
+      "paper_id": "fcbcac2d59",
+      "title": "Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control",
+      "authors": "Zekai Gu, Rui Yan, Jiahao Lu, Peng Li, Zhiyang Dou, Chenyang Si, Zhen Dong, Qifeng Liu, Cheng Lin, Ziwei Liu, Wenping Wang, Yuan Liu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_874",
+      "paper_id": "papers_874",
+      "title": "Direct-a-Video: Customized Video Generation With User-directed Camera Movement and Object Motion",
+      "authors": "Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, DI Zhang, Xiaodong Chen, Jing Liao",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_677",
+      "paper_id": "papers_677",
+      "title": "Disentangling Random and Cyclic Effects in Time-lapse Sequences",
+      "authors": "Erik Härkönen, Miika Aittala, Tuomas Kynkäänniemi, Samuli Laine, Timo Aila, Jaakko Lehtinen",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_0965aeed1f",
+      "paper_id": "0965aeed1f",
+      "title": "Dynamic Concepts Personalization from Single Videos",
+      "authors": "Rameen Abdal, Or Patashnik, Ivan Skorokhodov, Willi Menapace, Aliaksandr Siarohin, Sergey Tulyakov, Daniel Cohen-Or, Kfir Aberman",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_c5a37b0f48",
+      "paper_id": "c5a37b0f48",
+      "title": "EditDuet: A Multi-Agent System for Video Non-Linear Editing",
+      "authors": "Marcelo Sandoval-Castañeda, Bryan Russell, Josef Sivic, Gregory Shakhnarovich, Fabian David Caba Heilbron",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_316",
+      "paper_id": "papers_316",
+      "title": "Endless Loops: Detecting and Animating Periodic Patterns in Still Images",
+      "authors": "Tavi Halperin, Hanit Hakim, Orestis Vantzos, Gershon Hochman, Netai Benaim, Lior Sassy, Michael Kupchik, Ofir Bibi, Ohad Fried",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_297cb7591e",
+      "paper_id": "297cb7591e",
+      "title": "FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios",
+      "authors": "Shiyi Zhang, Junhao Zhuang, Zhaoyang Zhang, Ying Shan, Yansong Tang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_323",
+      "paper_id": "papers_323",
+      "title": "Flexible Motion In-betweening With Diffusion Models",
+      "authors": "Setareh Cohan, Guy Tevet, Daniele Reda, Xue Bin Peng, Michiel van de Panne",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_500d901b48",
+      "paper_id": "500d901b48",
+      "title": "From Style to Identity: AI Pipelines for Visual and Character Coherence in Film",
+      "authors": "Zhiyu Zhang, Rui Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_d3d83d7f04",
+      "paper_id": "d3d83d7f04",
+      "title": "Generating Past and Future in Digital Painting Processes",
+      "authors": "Lvmin Zhang, Chuan Yan, Yuwei Guo, Jinbo Xing, Maneesh Agrawala",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_158",
+      "paper_id": "papers_158",
+      "title": "GestureDiffuCLIP: Gesture Diffusion Model With CLIP Latents",
+      "authors": "Tenglong Ao, Zeyi Zhang, Libin Liu",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_249",
+      "paper_id": "papers_249",
+      "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
+      "authors": "Xun Guo, Mingwu Zheng, Liang Hou, Yuan Gao, Yufan Deng, Pengfei Wan, Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_218",
+      "paper_id": "papers_218",
+      "title": "Interactive Character Control With Auto-regressive Motion Diffusion Models",
+      "authors": "Yi Shi, Jingbo Wang, Xuekun Jiang, Bingkun Lin, Bo Dai, Xue Bin Peng",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_f0ac74bdc8",
+      "paper_id": "f0ac74bdc8",
+      "title": "Interspatial Attention for Efficient 4D Human Video Generation",
+      "authors": "Ruizhi Shao, Yinghao Xu, Yujun Shen, Ceyuan Yang, Yang Zheng, Changan Chen, Yebin Liu, Gordon Wetzstein",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_607",
+      "paper_id": "papers_607",
+      "title": "Iterative Motion Editing With Natural Language",
+      "authors": "Purvi Goel, Kuan-Chieh Wang, C. Karen Liu, Kayvon Fatahalian",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_paperstog_116",
+      "paper_id": "paperstog_116",
+      "title": "Iterative Text-based Editing of Talking-heads Using Neural Retargeting",
+      "authors": "Xinwei Yao, Ohad Fried, Kayvon Fatahalian, Maneesh Agrawala",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_ec7a00a489",
+      "paper_id": "ec7a00a489",
+      "title": "LayerFlow: A Unified Model for Layer-aware Video Generation",
+      "authors": "Sihui Ji, Hao Luo, Xi Chen, Yuanpeng Tu, Yiyang Wang, Hengshuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_415",
+      "paper_id": "papers_415",
+      "title": "LGTM: Local-to-Global Text-driven Human Motion Diffusion Model",
+      "authors": "Haowen Sun, Ruikun Zheng, Haibin Huang, Chongyang Ma, Hui Huang, Ruizhen Hu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_879",
+      "paper_id": "papers_879",
+      "title": "Listen, Denoise, Action! Audio-Driven Motion Synthesis with Diffusion Models",
+      "authors": "Simon Alexanderson, Rajmund Nagy, Jonas Beskow, Gustav Eje Henter",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_294",
+      "paper_id": "papers_294",
+      "title": "Media2Face: Co-speech Facial Animation Generation With Multi-modality Guidance",
+      "authors": "Qingcheng Zhao, Pengyu Long, Qixuan Zhang, Dafei Qin, Han Liang, Longwen Zhang, Yingliang Zhang, Jingyi Yu, Lan Xu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_8f19b3096a",
+      "paper_id": "8f19b3096a",
+      "title": "Mobius: Text to Seamless Looping Video Generation via Latent Shift",
+      "authors": "Xiuli Bi, Jianfei Yuan, Bo Liu, Yong Zhang, Xiaodong Cun, Chi-Man Pun, Bin Xiao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_b6b41d3d0e",
+      "paper_id": "b6b41d3d0e",
+      "title": "Model See Model Do: Speech-Driven Facial Animation with Style Control",
+      "authors": "Yifang Pan, Karan Singh, Luiz Gustavo Hafemann",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_6e3de0b6c6",
+      "paper_id": "6e3de0b6c6",
+      "title": "Motion Inversion for Video Customization",
+      "authors": "Luozhou Wang, Ziyang Mai, Guibao Shen, Yixun Liang, Xin Tao, Pengfei Wan, Di Zhang, Yijun Li, Yingcong Chen",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_c8932159ef",
+      "paper_id": "c8932159ef",
+      "title": "Motion-example-controlled Co-speech Gesture Generation Leveraging Large Language Models",
+      "authors": "Bohong Chen, Yumeng Li, Youyi Zheng, Yao-Xiang Ding, Kun Zhou",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_965",
+      "paper_id": "papers_965",
+      "title": "Motion-I2V: Consistent and Controllable Image-to-video Generation With Explicit Motion Modeling",
+      "authors": "Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_0577d506fc",
+      "paper_id": "0577d506fc",
+      "title": "MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation",
+      "authors": "Jinbo Xing, Long Mai, Cusuh Ham, Jiahui Huang, Aniruddha Mahapatra, Chi-Wing Fu, Tien-Tsin Wong, Feng Liu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_1140",
+      "paper_id": "papers_1140",
+      "title": "MotionCtrl: A Unified and Flexible Motion Controller for Video Generation",
+      "authors": "Zhouxia Wang, Ziyang Yuan, Xintao Wang, Yaowei Li, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_9e12358b51",
+      "paper_id": "9e12358b51",
+      "title": "MoVer: Motion Verification for Motion Graphics Animations",
+      "authors": "Jiaju Ma, Maneesh Agrawala",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_c240c0f7cd",
+      "paper_id": "c240c0f7cd",
+      "title": "One Model to Rig Them All: Diverse Skeleton Rigging with UniRig",
+      "authors": "Jia-Peng Zhang, Cheng-Feng Pu, Meng-Hao Guo, Yan-Pei Cao, Shi-Min Hu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_paperstog_107",
+      "paper_id": "paperstog_107",
+      "title": "Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models",
+      "authors": "Willi Menapace, Aliaksandr Siarohin, Stéphane Lathuilière, Panos Achlioptas, Vladislav Golyanik, Sergey Tulyakov, Elisa Ricci, Willi Menapace",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_305ebe86fa",
+      "paper_id": "305ebe86fa",
+      "title": "Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion",
+      "authors": "Manuel Kansy, Jacek Naruniec, Christopher Schroers, Markus Gross, Romann Weber",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_8f941728a8",
+      "paper_id": "8f941728a8",
+      "title": "RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets",
+      "authors": "Isabella Liu, Zhan Xu, Yifan Wang, Hao Tan, Zexiang Xu, Xiaolong Wang, Hao Su, Zifan Shi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_192",
+      "paper_id": "papers_192",
+      "title": "Semantic Gesticulator: Semantics-aware Co-speech Gesture Synthesis",
+      "authors": "Zeyi Zhang, Tenglong Ao, Yuyao Zhang, Qingzhe Gao, Chuan Lin, Baoquan Chen, Libin Liu",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_9c22046192",
+      "paper_id": "9c22046192",
+      "title": "Semantically Consistent Text-to-Motion with Unsupervised Styles",
+      "authors": "Linjun Wu, Xiangjun Tang, Jingyuan Cong, He Wang, Bo Hu, Xu Gong, Songnan Li, Yuchen Liao, Yiqian Wu, Chen Liu, Xiaogang Jin",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_pos_231",
+      "paper_id": "pos_231",
+      "title": "Silent Speech and Emotion Recognition From Vocal Tract Shape Dynamics in Real-time MRI",
+      "authors": "Laxmi Pandey, Ahmed Sabbir Arif",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_b912a7a4c7",
+      "paper_id": "b912a7a4c7",
+      "title": "Sketch-based Fluid Video Generation Using Motion-Guided Diffusion Models in Still Landscape Images",
+      "authors": "Hao Jin, Haoran Xie",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_e47afe2a49",
+      "paper_id": "e47afe2a49",
+      "title": "Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation",
+      "authors": "Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_340",
+      "paper_id": "papers_340",
+      "title": "Sketch2Pose: Estimating a 3D Character Pose From a Bitmap Sketch",
+      "authors": "Kirill Brodt, Mikhail Bessmeltsev",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_2e10432d43",
+      "paper_id": "2e10432d43",
+      "title": "Splat4D: Diffusion-Enhanced 4D Gaussian Splatting for Temporally and Spatially Consistent Content Creation",
+      "authors": "Minghao Yin, Yukang Cao, Songyou Peng, Kai Han",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_1105",
+      "paper_id": "papers_1105",
+      "title": "Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion",
+      "authors": "Boyang Deng, Richard Tucker, Zhengqi Li, Leonidas Guibas, Noah Snavely, Gordon Wetzstein",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_a625467b11",
+      "paper_id": "a625467b11",
+      "title": "StructInbet: Integrating Explicit Structural Guidance Into Inbetween Frame Generation",
+      "authors": "Zhenglin Pan, Haoran Xie",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_588",
+      "paper_id": "papers_588",
+      "title": "Taming Diffusion Probabilistic Models for Character Control",
+      "authors": "Rui Chen, Mingyi Shi, Shaoli Huang, Ping Tan, Taku Komura, Xuelin Chen",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_1107",
+      "paper_id": "papers_1107",
+      "title": "TEDi: Temporally-Entangled Diffusion for Long-term Motion Synthesis",
+      "authors": "Zihan Zhang, Richard Liu, Rana Hanocka, Kfir Aberman",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_pos_177",
+      "paper_id": "pos_177",
+      "title": "Text-based Motion Synthesis With a Hierarchical Two-stream RNN",
+      "authors": "Anindita Ghosh, Noshaba Cheema, Cennet Oguz, Christian Theobalt, Philipp Slusallek",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_1111",
+      "paper_id": "papers_1111",
+      "title": "Text-guided Synthesis of Crowd Animation",
+      "authors": "Xuebo Ji, Zherong Pan, Xifeng Gao, Jia Pan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_117de71949",
+      "paper_id": "117de71949",
+      "title": "Two-Stage Sketch-Based Smoke Illustration Generation Using Stream Function",
+      "authors": "Hengyuan Chang, Xiaoxuan Xie, Syuhei Sato, Haoran Xie",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_paperstog_111",
+      "paper_id": "paperstog_111",
+      "title": "Vid2Player: Controllable Video Sprites That Behave and Appear Like Professional Tennis Players",
+      "authors": "Haotian Zhang, Cristobal Sciutto, Maneesh Agrawala, Kayvon Fatahalian",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_dc3a40d8e1",
+      "paper_id": "dc3a40d8e1",
+      "title": "VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control",
+      "authors": "Yuanpeng Tu, Luo Hao, Chen Xi, Sihui Ji, Xiang Bai, Zhao Hengshuang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_16d124df0b",
+      "paper_id": "16d124df0b",
+      "title": "VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control",
+      "authors": "Yuxuan Bian, Zhaoyang Zhang, Xuan Ju, Mingdeng Cao, Liangbin Xie, Ying Shan, Qiang Xu",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_680",
+      "paper_id": "papers_680",
+      "title": "X-Portrait: Expressive Portrait Animation With Hierarchical Motion Attention",
+      "authors": "You Xie, Hongyi Xu, Guoxian Song, Chao Wang, Yichun Shi, Linjie Luo",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_e1f84950c6",
+      "paper_id": "e1f84950c6",
+      "title": "xADA: Controllable and Expressive Audio-Driven Animation",
+      "authors": "Sarah Taylor, Salvador Medina, Jonathan Windle, Erica Alcusa Sáez, Iain Matthews",
+      "paper_url": "",
+      "venue": "siggraph25"
+    }
+  ]
+}

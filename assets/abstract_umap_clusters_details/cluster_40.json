@@ -1,0 +1,405 @@
+{
+  "cluster_id": 40,
+  "papers": [
+    {
+      "id": "corl24_gqFIybpsLX",
+      "paper_id": "gqFIybpsLX",
+      "title": "Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning",
+      "authors": "Adam Fishman, Aaron Walsman, Mohak Bhardwaj, Wentao Yuan, Balakumar Sundaralingam, Byron Boots, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=gqFIybpsLX",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_37",
+      "paper_id": "37",
+      "title": "Certifiable Robot Design Optimization using Differentiable Programming",
+      "authors": "Charles B Dawson, Chuchu Fan (Massachusetts Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p037.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss22_39",
+      "paper_id": "39",
+      "title": "Collision Detection Accelerated: An Optimization Perspective",
+      "authors": "Louis Montaut (INRIA/CIIRC), Quentin Le Lidec (INRIA), Vladimír Petrík (Czech Technical University), Josef Sivic (Czech Technical University), Justin Carpentier (INRIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p039.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_38",
+      "paper_id": "38",
+      "title": "Collision-Affording Point Trees: SIMD-Amenable Nearest Neighbors for Fast Motion Planning with Pointclouds",
+      "authors": "Clayton Ramsey, Zachary Kingston, Wil Thomason, Lydia E KavrakiClayton Ramsey, Zachary Kingston, Wil Thomason, Lydia E Kavraki",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p038.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss22_38",
+      "paper_id": "38",
+      "title": "Collocation Methods for Second Order Systems",
+      "authors": "Siro Moreno (Consejo Superior de Investigaciones Científicas), Lluís Ros (Institut de Robòtica i Informàtica Industrial/CSIC-UPC), Enric Celaya (Consejo Superior de Investigaciones Científicas)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p038.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss24_131",
+      "paper_id": "131",
+      "title": "Configuration Space Distance Fields for Manipulation Planning",
+      "authors": "Yiming Li, Xuemin Chi, Amirreza Razmjoo, Sylvain CalinonYiming Li, Xuemin Chi, Amirreza Razmjoo, Sylvain Calinon",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p131.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_58",
+      "paper_id": "58",
+      "title": "Convex Geometric Motion Planning on Lie Groups via Moment Relaxation",
+      "authors": "Sangli Teng (University of Michigan, Ann Arbor)*, Ashkan Jasour (Jet Propulsion Laboratory), Ram Vasudevan (University of Michigan), Maani Ghaffari Jadidi (University of Michigan)Sangli Teng (University of Michigan, Ann Arbor)*, Ashkan Jasour (Jet Propulsion Laboratory), Ram Vasudevan (University of Michigan), Maani Ghaffari Jadidi (University of Michigan)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p058.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl24_B7Lf6xEv7l",
+      "paper_id": "B7Lf6xEv7l",
+      "title": "DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning",
+      "authors": "Huang Huang, Balakumar Sundaralingam, Arsalan Mousavian, Adithyavairavan Murali, Ken Goldberg, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=B7Lf6xEv7l",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_psyvs5wdAV",
+      "paper_id": "psyvs5wdAV",
+      "title": "Equivariant Motion Manifold Primitives",
+      "authors": "Byeongho Lee, Yonghyeon Lee, Seungyeon Kim, MinJun Son, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf?id=psyvs5wdAV",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_87",
+      "paper_id": "87",
+      "title": "Experience-based multi-agent path finding with narrow corridors",
+      "authors": "Rachel A Moan, Courtney McBeth, Marco Morales, Nancy Amato, Kris HauserRachel A Moan, Courtney McBeth, Marco Morales, Nancy Amato, Kris Hauser",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p087.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl23_yGkqN4hqrJ",
+      "paper_id": "yGkqN4hqrJ",
+      "title": "Fine-Tuning Generative Models as an Inference Method for Robotic Tasks",
+      "authors": "Orr Krupnik, Elisei Shafer, Tom Jurgenson, Aviv Tamar",
+      "paper_url": "https://openreview.net/pdf?id=yGkqN4hqrJ",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_108",
+      "paper_id": "108",
+      "title": "From Compliant to Rigid Contact Simulation: a Unified and Efficient Approach",
+      "authors": "Justin Carpentier, Quentin Le Lidec, Louis MontautJustin Carpentier, Quentin Le Lidec, Louis Montaut",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p108.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_32",
+      "paper_id": "32",
+      "title": "Generalized Comprehensive Motion Theory for High-Order Differential Dynamics",
+      "authors": "Vincent Samy (AIST), Ko Ayusawa (AIST), Eiichi Yoshida (AIST)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p032.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl21_ovRdr3FOIIm",
+      "paper_id": "ovRdr3FOIIm",
+      "title": "Geometry-aware Bayesian Optimization in Robotics using Riemannian Matérn Kernels",
+      "authors": "Noémie Jaquier, Viacheslav Borovitskiy, Andrei Smolensky, Alexander Terenin, Tamim Asfour, Leonel Rozo",
+      "paper_url": "https://openreview.net/pdf?id=ovRdr3FOIIm",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_59",
+      "paper_id": "59",
+      "title": "G∗: A New Approach to Bounding Curvature Constrained Shortest Paths through Dubins Gates",
+      "authors": "Satyanarayana  Gupta Manyam (Infoscitex Corp.), Abhishek Nayak (Texas A&M University ), Sivakumar  Rathinam (Texas A&M University )*Satyanarayana  Gupta Manyam (Infoscitex Corp.), Abhishek Nayak (Texas A&M University ), Sivakumar  Rathinam (Texas A&M University )*",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p059.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_86",
+      "paper_id": "86",
+      "title": "Hamiltonian-based Neural ODE Networks on the SE(3) Manifold For Dynamics Learning and Control",
+      "authors": "Thai P Duong (UC San Diego), Nikolay A Atanasov (UC San Diego)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p086.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss24_39",
+      "paper_id": "39",
+      "title": "Homotopic Path Set Planning for Robot Manipulation and Navigation",
+      "authors": "Jing HuangJing Huang",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p039.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_113",
+      "paper_id": "113",
+      "title": "Implicit Graph Search for Planning on Graphs of Convex Sets",
+      "authors": "Ramkumar Natarajan, Chaoqi Liu, Howie Choset, Maxim LikhachevRamkumar Natarajan, Chaoqi Liu, Howie Choset, Maxim Likhachev",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p113.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_4",
+      "paper_id": "4",
+      "title": "Inexact Loops in Robotics Problems",
+      "authors": "Erik Nelson (Nuro)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p004.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_15",
+      "paper_id": "15",
+      "title": "Jerk-limited Real-time Trajectory Generation with Arbitrary Target States",
+      "authors": "Lars Berscheid (Karlsruhe Institute of Technology), Torsten Kroeger (Karlsruhe Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p015.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_64",
+      "paper_id": "64",
+      "title": "Learning Proofs of Motion Planning Infeasibility",
+      "authors": "Sihui Li (Colorado School of Mines), Neil Dantam (Colorado School of Mines)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p064.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_82",
+      "paper_id": "82",
+      "title": "Learning Riemannian Manifolds for Geodesic Motion Skills",
+      "authors": "Hadi Beik-mohammadi (Bosch Center for Artificial Intelligence), Soren Hauberg (TU Denmark), Georgios Arvanitidis (MPI for Intelligent Systems, Tübingen), Gerhard Neumann (Karlsruhe Institute of Technology), Leonel Rozo (Bosch Center for Artificial Intelligence)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p082.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_o8dLx8OVcNk",
+      "paper_id": "o8dLx8OVcNk",
+      "title": "Learning Riemannian Stable Dynamical Systems via Diffeomorphisms",
+      "authors": "Jiechao Zhang, Hadi Beik Mohammadi, Leonel Rozo",
+      "paper_url": "https://openreview.net/pdf?id=o8dLx8OVcNk",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_60",
+      "paper_id": "60",
+      "title": "Motion Planning (In)feasibility Detection using a Prior Roadmap via Path and Cut Search",
+      "authors": "Yoonchang Sung (UT Austin)*, Peter Stone (UT Austin and Sony AI)Yoonchang Sung (UT Austin)*, Peter Stone (UT Austin and Sony AI)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p060.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_36",
+      "paper_id": "36",
+      "title": "Motion Planning in Foliated Manifolds using Repetition Roadmap",
+      "authors": "Jiaming hu, Shrutheesh Raman Iyer, Jiawei Wang, Henrik I ChristensenJiaming hu, Shrutheesh Raman Iyer, Jiawei Wang, Henrik I Christensen",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p036.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_aQnn9cIVTRJ",
+      "paper_id": "aQnn9cIVTRJ",
+      "title": "Motion Policy Networks",
+      "authors": "Adam Fishman, Adithyavairavan Murali, Clemens Eppner, Bryan Peele, Byron Boots, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=aQnn9cIVTRJ",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss23_57",
+      "paper_id": "57",
+      "title": "Non-Euclidean Motion Planning with Graphs of Geodesically-Convex Sets",
+      "authors": "Thomas B Cohn (Massachusetts Institute of Technology)*, Mark Petersen (Harvard University), Max Simchowitz (Massachusetts Institute of Technology), Russ Tedrake (Massachusetts Institute of Technology)Thomas B Cohn (Massachusetts Institute of Technology)*, Mark Petersen (Harvard University), Max Simchowitz (Massachusetts Institute of Technology), Russ Tedrake (Massachusetts Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p057.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss24_9",
+      "paper_id": "9",
+      "title": "Optimal Non-Redundant Manipulator Surface Coverage with Rank-Deficient Manipulability Constraints",
+      "authors": "Tong Yang, Li Huang, Jaime Valls Miro, Yue Wang, Rong XiongTong Yang, Li Huang, Jaime Valls Miro, Yue Wang, Rong Xiong",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p009.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_csMg2h_LR37",
+      "paper_id": "csMg2h_LR37",
+      "title": "Orientation Probabilistic Movement Primitives on Riemannian Manifolds",
+      "authors": "Leonel Rozo, Vedant Dave",
+      "paper_url": "https://openreview.net/pdf?id=csMg2h_LR37",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_Id4b5SY1Y8",
+      "paper_id": "Id4b5SY1Y8",
+      "title": "PairwiseNet: Pairwise Collision Distance Learning for High-dof Robot Systems",
+      "authors": "Jihwan Kim, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf?id=Id4b5SY1Y8",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_2",
+      "paper_id": "2",
+      "title": "Parallel and Proximal Linear-Quadratic Methods for Real-Time Constrained Model-Predictive Control",
+      "authors": "Wilson Jallet, Ewen Dantec, Etienne Arlaud, Nicolas Mansard, Justin CarpentierWilson Jallet, Ewen Dantec, Etienne Arlaud, Nicolas Mansard, Justin Carpentier",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p002.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_WFqkGvBy78",
+      "paper_id": "WFqkGvBy78",
+      "title": "Parallelised Diffeomorphic Sampling-based Motion Planning",
+      "authors": "Tin Lai, Weiming Zhi, Tucker Hermans, Fabio Ramos",
+      "paper_url": "https://openreview.net/pdf?id=WFqkGvBy78",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_63",
+      "paper_id": "63",
+      "title": "Progressive Learning for Physics-informed Neural Motion Planning",
+      "authors": "Ruiqi Ni (Purdue University)*, Ahmed H Qureshi (Purdue University)Ruiqi Ni (Purdue University)*, Ahmed H Qureshi (Purdue University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p063.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_58",
+      "paper_id": "58",
+      "title": "PROMPT:  Probabilistic  Motion  Primitives  based  Trajectory  Planning",
+      "authors": "Tobias Loew (ETH Zürich), Tirthankar Bandyopadhyay (CSIRO), Jason Williams (CSIRO), Paulo Borges (CSIRO)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p058.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_50",
+      "paper_id": "50",
+      "title": "Provably Safe and Efficient Motion Planning with Uncertain Human Dynamics",
+      "authors": "Shen Li (MIT), Nadia Figueroa (MIT), Ankit Shah (MIT), Julie A. Shah (MIT)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p050.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss22_40",
+      "paper_id": "40",
+      "title": "PROX-QP: Yet another Quadratic Programming Solver for Robotics and beyond",
+      "authors": "Antoine Bambade (INRIA), Sarah El Kazdadi (INRIA), Adrien B Taylor (INRIA/ENS), Justin Carpentier (INRIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p040.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss22_43",
+      "paper_id": "43",
+      "title": "Proxima: An Approach for Time or Accuracy Budgeted Collision Proximity Queries",
+      "authors": "Daniel Rakita, Bilge Mutlu, Michael Gleicher (University of Wisconsin - Madison)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p043.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss21_17",
+      "paper_id": "17",
+      "title": "Proximal and Sparse Resolution of Constrained Dynamic Equations",
+      "authors": "Justin Carpentier (INRIA), Rohan Budhiraja (INRIA), Nicolas Mansard (LAAS-CNRS)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p017.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss23_62",
+      "paper_id": "62",
+      "title": "Reachability-based Trajectory Design with Neural Implicit Safety Constraints",
+      "authors": "Jonathan B Michaux (University of Michigan)*, Yong Seok Kwon (University of Michigan), Qingyi Chen (University of Michigan), Ram Vasudevan (University of Michigan)Jonathan B Michaux (University of Michigan)*, Yong Seok Kwon (University of Michigan), Qingyi Chen (University of Michigan), Ram Vasudevan (University of Michigan)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p062.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_5JMGq83yf1N",
+      "paper_id": "5JMGq83yf1N",
+      "title": "Ready, Set, Plan! Planning to Goal Sets Using Generalized Bayesian Inference",
+      "authors": "Jana Pavlasek, Stanley Robert Lewis, Balakumar Sundaralingam, Fabio Ramos, Tucker Hermans",
+      "paper_url": "https://openreview.net/pdf?id=5JMGq83yf1N",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_35",
+      "paper_id": "35",
+      "title": "Safe Planning for Articulated Robots Using Reachability-based Obstacle Avoidance With Spheres",
+      "authors": "Jonathan Michaux, Adam Li, Qingyi Chen, Che Chen, Ram VasudevanJonathan Michaux, Adam Li, Qingyi Chen, Che Chen, Ram Vasudevan",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p035.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_39",
+      "paper_id": "39",
+      "title": "Sampling-Based Motion Planning on Sequenced Manifolds",
+      "authors": "Peter Englert (University of Southern California), Isabel M Rayas Fernández (University of Southern California), Ragesh Kumar Ramachandran (University of Southern California), Gaurav Sukhatme (University of Southern California)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p039.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl21_ceOmpjMhlyS",
+      "paper_id": "ceOmpjMhlyS",
+      "title": "STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation",
+      "authors": "Mohak Bhardwaj, Balakumar Sundaralingam, Arsalan Mousavian, Nathan D. Ratliff, Dieter Fox, Fabio Ramos, Byron Boots",
+      "paper_url": "https://openreview.net/pdf?id=ceOmpjMhlyS",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss22_57",
+      "paper_id": "57",
+      "title": "Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time",
+      "authors": "Teng Guo, Jingjin Yu (Rutgers University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p057.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "rss22_41",
+      "paper_id": "41",
+      "title": "SymForce: Symbolic Computation and Code Generation for Robotics",
+      "authors": "Hayk Martiros, Aaron Miller (Skydio Inc.)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p041.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23_8scj3Y0RLq",
+      "paper_id": "8scj3Y0RLq",
+      "title": "Task Generalization with Stability Guarantees via Elastic Dynamical System Motion Policies",
+      "authors": "Tianyu Li, Nadia Figueroa",
+      "paper_url": "https://openreview.net/pdf?id=8scj3Y0RLq",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_81",
+      "paper_id": "81",
+      "title": "Toward Certifiable Motion Planning for Medical Steerable Needles",
+      "authors": "Mengyu Fu (University of North Carolina at Chapel Hill), Oren Salzman (Technion), Ron Alterovitz (University of North Carolina at Chapel Hill)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p081.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_85",
+      "paper_id": "85",
+      "title": "Towards finding the shortest-paths for 3D rigid bodies",
+      "authors": "Weifu Wang (Baidu Research), Ping Li (Baidu Research)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p085.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss24_132",
+      "paper_id": "132",
+      "title": "Towards Tight Convex Relaxations for Contact-Rich Manipulation",
+      "authors": "Bernhard Paus Graesdal, Shao Yuan Chew Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo Parrilo, Russ TedrakeBernhard Paus Graesdal, Shao Yuan Chew Chia, Tobia Marcucci, Savva Morozov, Alexandre Amice, Pablo Parrilo, Russ Tedrake",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p132.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl21_50523z0PALg",
+      "paper_id": "50523z0PALg",
+      "title": "Using Physics Knowledge for Learning Rigid-body Forward Dynamics with Gaussian Process Force Priors",
+      "authors": "Lucas Rath, Andreas René Geist, Sebastian Trimpe",
+      "paper_url": "https://openreview.net/pdf?id=50523z0PALg",
+      "venue": "corl21"
+    }
+  ]
+}

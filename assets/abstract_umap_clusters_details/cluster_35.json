@@ -1,0 +1,485 @@
+{
+  "cluster_id": 35,
+  "papers": [
+    {
+      "id": "corl21_YeJaZBXlhPX",
+      "paper_id": "YeJaZBXlhPX",
+      "title": "A Constrained Multi-Objective Reinforcement Learning Framework",
+      "authors": "Sandy Huang, Abbas Abdolmaleki, Giulia Vezzani, Philemon Brakel, Daniel J Mankowitz, Michael Neunert, Steven Bohez, Yuval Tassa, Nicolas Heess, Martin Riedmiller, raia hadsell",
+      "paper_url": "https://openreview.net/pdf?id=YeJaZBXlhPX",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_rOCWUmMBSnH",
+      "paper_id": "rOCWUmMBSnH",
+      "title": "A Policy Optimization Method Towards Optimal-time Stability",
+      "authors": "Shengjie Wang, Lan Fengb, Xiang Zheng, Yuxue Cao, Oluwatosin OluwaPelumi Oseni, Haotian Xu, Tao Zhang, Yang Gao",
+      "paper_url": "https://openreview.net/pdf?id=rOCWUmMBSnH",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss23_86",
+      "paper_id": "86",
+      "title": "Bridging Active Exploration and Uncertainty-Aware Deployment Using Probabilistic Ensemble Neural Network Dynamics",
+      "authors": "Taekyung Kim (Agency for Defense Development)*, Jungwi Mun (Agency for Defense Development), Junwon Seo (Agency for Defense Development), Beomsu Kim (Agency for Defense Development), Seongil Hong (Agency for Defense Development)Taekyung Kim (Agency for Defense Development)*, Jungwi Mun (Agency for Defense Development), Junwon Seo (Agency for Defense Development), Beomsu Kim (Agency for Defense Development), Seongil Hong (Agency for Defense Development)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p086.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss22_33",
+      "paper_id": "33",
+      "title": "Bridging Model-based Safety and Model-free Reinforcement Learning through System Identification of Low Dimensional Linear Models",
+      "authors": "Zhongyu Li, Jun Zeng, Akshay Thirugnanam, Koushil Sreenath (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p033.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl24_ZdgaF8fOc0",
+      "paper_id": "ZdgaF8fOc0",
+      "title": "Bridging the gap between Learning-to-plan, Motion Primitives and Safe Reinforcement Learning",
+      "authors": "Piotr Kicki, Davide Tateo, Puze Liu, Jonas Günster, Jan Peters, Krzysztof Walas",
+      "paper_url": "https://openreview.net/pdf?id=ZdgaF8fOc0",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_4",
+      "paper_id": "4",
+      "title": "Computation-Aware Learning for Stable Control with Gaussian Process",
+      "authors": "Wenhan Cao, Alexandre Capone, Rishabh Yadav, Sandra Hirche, Wei PanWenhan Cao, Alexandre Capone, Rishabh Yadav, Sandra Hirche, Wei Pan",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p004.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_qoebyrnF36",
+      "paper_id": "qoebyrnF36",
+      "title": "Control with Patterns: A D-learning Method",
+      "authors": "Quan Quan, Kai-Yuan Cai, Chenyu Wang",
+      "paper_url": "https://openreview.net/pdf?id=qoebyrnF36",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss21_69",
+      "paper_id": "69",
+      "title": "Convex Risk Bounded Continuous-Time Trajectory Planning in Uncertain Nonconvex Environments",
+      "authors": "Ashkan Jasour (MIT), Weiqiao Han (MIT), Brian C Williams (MIT)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p069.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss24_5",
+      "paper_id": "5",
+      "title": "Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty",
+      "authors": "Yupeng Yang, Yiwei Lyu, Yanze Zhang, Sha Yi, Wenhao LuoYupeng Yang, Yiwei Lyu, Yanze Zhang, Sha Yi, Wenhao Luo",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p005.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss22_55",
+      "paper_id": "55",
+      "title": "Decentralized Safe Multi-agent Stochastic Optimal Control using Deep FBSDEs and ADMM",
+      "authors": "Marcus A Pereira, Augustinos D Saravanos, Oswin So, Evangelos Theodorou (Georgia Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p055.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23_0o2JgvlzMUc",
+      "paper_id": "0o2JgvlzMUc",
+      "title": "Deception Game: Closing the Safety-Learning Loop in Interactive Robot Autonomy",
+      "authors": "Haimin Hu, Zixu Zhang, Kensuke Nakamura, Andrea Bajcsy, Jaime Fernández Fisac",
+      "paper_url": "https://openreview.net/pdf?id=0o2JgvlzMUc",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_75",
+      "paper_id": "75",
+      "title": "Distributed Covariance Steering with Consensus ADMM for Stochastic Multi-Agent Systems",
+      "authors": "Augustinos D Saravanos (Georgia Tech), Alexandros Tsolovikos (University of Texas at Austin), Efstathios Bakolas (University of Texas at Austin), Evangelos Theodorou (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p075.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss23_110",
+      "paper_id": "110",
+      "title": "Distributed Hierarchical Distribution Control for Very-Large-Scale Clustered Multi-Agent Systems",
+      "authors": "Augustinos D Saravanos (Georgia Tech)*, Yihui Li (Georgia Tech), Evangelos Theodorou (Georgia Tech)Augustinos D Saravanos (Georgia Tech)*, Yihui Li (Georgia Tech), Evangelos Theodorou (Georgia Tech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p110.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_fvXFBCHVGn",
+      "paper_id": "fvXFBCHVGn",
+      "title": "Dynamic Multi-Team Racing: Competitive Driving on 1/10-th Scale Vehicles via Learning in Simulation",
+      "authors": "Peter Werner, Tim Seyde, Paul Drews, Thomas Matrai Balch, Igor Gilitschenski, Wilko Schwarting, Guy Rosman, Sertac Karaman, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf?id=fvXFBCHVGn",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss21_51",
+      "paper_id": "51",
+      "title": "Entropy-Guided Control Improvisation",
+      "authors": "Marcell J Vazquez-Chanlatte (UC Berkeley), Sebastian Junges (UC Berkeley), Daniel J Fremont (UC Santa Cruz), Sanjit Seshia (UC Berkeley)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p051.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_s31IWg2kN5",
+      "paper_id": "s31IWg2kN5",
+      "title": "Exploring Under Constraints with Model-Based Actor-Critic and Safety Filters",
+      "authors": "Ahmed Agha, Baris Kayalibay, Atanas Mirchev, Patrick van der Smagt, Justin Bayer",
+      "paper_url": "https://openreview.net/pdf?id=s31IWg2kN5",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_FRKBdXhkQE0",
+      "paper_id": "FRKBdXhkQE0",
+      "title": "FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing",
+      "authors": "Kyle Stachowicz, Dhruv Shah, Arjun Bhorkar, Ilya Kostrikov, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf?id=FRKBdXhkQE0",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_2CScZqkUPZ",
+      "paper_id": "2CScZqkUPZ",
+      "title": "Genetic Algorithm for Curriculum Design in Multi-Agent Reinforcement Learning",
+      "authors": "Yeeho Song, Jeff Schneider",
+      "paper_url": "https://openreview.net/pdf?id=2CScZqkUPZ",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_117",
+      "paper_id": "117",
+      "title": "Goal-Reaching Trajectory Design Near Danger with Piecewise Affine Reach-avoid Computation",
+      "authors": "Long Kiu Chung, Wonsuhk Jung, Chuizheng Kong, Shreyas KousikLong Kiu Chung, Wonsuhk Jung, Chuizheng Kong, Shreyas Kousik",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p117.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss24_6",
+      "paper_id": "6",
+      "title": "Hamilton-Jacobi Reachability Analysis for Hybrid Systems with Controlled and Forced Transitions",
+      "authors": "Javier Borquez, Shuang Peng, Yiyu Chen, Quan Nguyen, Somil BansalJavier Borquez, Shuang Peng, Yiyu Chen, Quan Nguyen, Somil Bansal",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p006.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_97QXO0uBEO",
+      "paper_id": "97QXO0uBEO",
+      "title": "Handling Long-Term Safety and Uncertainty in Safe Reinforcement Learning",
+      "authors": "Jonas Günster, Puze Liu, Jan Peters, Davide Tateo",
+      "paper_url": "https://openreview.net/pdf?id=97QXO0uBEO",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_xC-68ANJeK_",
+      "paper_id": "xC-68ANJeK_",
+      "title": "Learning Control Admissibility Models with Graph Neural Networks for Multi-Agent Navigation",
+      "authors": "Chenning Yu, Hongzhan Yu, Sicun Gao",
+      "paper_url": "https://openreview.net/pdf?id=xC-68ANJeK_",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_sWBqOL5Nh4P",
+      "paper_id": "sWBqOL5Nh4P",
+      "title": "Learning Density Distribution of Reachable States for Autonomous Systems",
+      "authors": "Yue Meng, Dawei Sun, Zeng Qiu, Md Tawhid Bin Waez, Chuchu Fan",
+      "paper_url": "https://openreview.net/pdf?id=sWBqOL5Nh4P",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl23_Pwsm7d0iWJD",
+      "paper_id": "Pwsm7d0iWJD",
+      "title": "Learning Lyapunov-Stable Polynomial Dynamical Systems Through Imitation",
+      "authors": "Amin Abyaneh, Hsiu-Chin Lin",
+      "paper_url": "https://openreview.net/pdf?id=Pwsm7d0iWJD",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl21_1GNV9SW95eJ",
+      "paper_id": "1GNV9SW95eJ",
+      "title": "Learning Off-Policy with Online Planning",
+      "authors": "Harshit Sikchi, Wenxuan Zhou, David Held",
+      "paper_url": "https://openreview.net/pdf?id=1GNV9SW95eJ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_8JLmTZsxGh",
+      "paper_id": "8JLmTZsxGh",
+      "title": "Learning Performance-oriented Control Barrier Functions Under Complex Safety Constraints and Limited Actuation",
+      "authors": "Lakshmideepakreddy Manda, Shaoru Chen, Mahyar Fazlyab",
+      "paper_url": "https://openreview.net/pdf?id=8JLmTZsxGh",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_oqZrUx-PRqb",
+      "paper_id": "oqZrUx-PRqb",
+      "title": "Look Before You Leap: Safe Model-Based Reinforcement Learning with Human Intervention",
+      "authors": "Yunkun Xu, Zhenyu Liu, Guifang Duan, Jiangcheng Zhu, Xiaolong Bai, Jianrong Tan",
+      "paper_url": "https://openreview.net/pdf?id=oqZrUx-PRqb",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_kgoWLlA33-U",
+      "paper_id": "kgoWLlA33-U",
+      "title": "LS3: Latent Space Safe Sets for Long-Horizon Visuomotor Control of Sparse Reward Iterative Tasks",
+      "authors": "Albert Wilcox, Ashwin Balakrishna, Brijen Thananjeyan, Joseph E. Gonzalez, Ken Goldberg",
+      "paper_url": "https://openreview.net/pdf?id=kgoWLlA33-U",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl22_Ef7xodOrgNW",
+      "paper_id": "Ef7xodOrgNW",
+      "title": "Lyapunov Design for Robust and Efficient Robotic Reinforcement Learning",
+      "authors": "Tyler Westenbroek, Fernando Castaneda, Ayush Agrawal, Shankar Sastry, Koushil Sreenath",
+      "paper_url": "https://openreview.net/pdf?id=Ef7xodOrgNW",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_63",
+      "paper_id": "63",
+      "title": "Lyapunov-stable neural-network control",
+      "authors": "Hongkai Dai (Toyota Research Institute), Benoit Landry (Stanford University), Lujie Yang (MIT), Marco Pavone (Stanford University), Russ Tedrake (MIT)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p063.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss22_61",
+      "paper_id": "61",
+      "title": "Meta Value Learning for Fast Policy-Centric Optimal Motion Planning",
+      "authors": "Siyuan Xu, Minghui Zhu (The Pennsylvania State University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p061.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl22_zNB_UVj5oKQ",
+      "paper_id": "zNB_UVj5oKQ",
+      "title": "Meta-Learning Priors for Safe Bayesian Optimization",
+      "authors": "Jonas Rothfuss, Christopher Koenig, Alisa Rupenyan, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf?id=zNB_UVj5oKQ",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_UGp6FDaxB0f",
+      "paper_id": "UGp6FDaxB0f",
+      "title": "Model-free Safe Control for Zero-Violation Reinforcement Learning",
+      "authors": "Weiye Zhao, Tairan He, Changliu Liu",
+      "paper_url": "https://openreview.net/pdf?id=UGp6FDaxB0f",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss22_53",
+      "paper_id": "53",
+      "title": "Multi-Robot Adversarial Resilience using Control Barrier Functions",
+      "authors": "Matthew Cavorsi (Harvard University), Beatrice Capelli (University of Modena and Reggio Emilia), Lorenzo Sabattini (University of Modena and Reggio Emilia), Stephanie Gil (Harvard University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p053.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl23_VscdYkKgwdH",
+      "paper_id": "VscdYkKgwdH",
+      "title": "Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control",
+      "authors": "Songyuan Zhang, Kunal Garg, Chuchu Fan",
+      "paper_url": "https://openreview.net/pdf?id=VscdYkKgwdH",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_0gDbaEtVrd",
+      "paper_id": "0gDbaEtVrd",
+      "title": "One Model to Drift Them All: Physics-Informed Conditional Diffusion Model for Driving at the Limits",
+      "authors": "Franck Djeumou, Thomas Jonathan Lew, NAN DING, Michael Thompson, Makoto Suminaka, Marcus Greiff, John Subosits",
+      "paper_url": "https://openreview.net/pdf?id=0gDbaEtVrd",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_HYka22IcV6",
+      "paper_id": "HYka22IcV6",
+      "title": "Online Learning for Obstacle Avoidance",
+      "authors": "David Snyder, Meghan Booker, Nathaniel Simon, Wenhan Xia, Daniel Suo, Elad Hazan, Anirudha Majumdar",
+      "paper_url": "https://openreview.net/pdf?id=HYka22IcV6",
+      "venue": "corl23"
+    },
+    {
+      "id": "rss24_104",
+      "paper_id": "104",
+      "title": "POLICEd RL: Learning Closed-Loop Robot Control Policies with Provable Satisfaction of Hard Constraints",
+      "authors": "Jean-Baptiste Bouvier, Kartik Nagpal, Negar MehrJean-Baptiste Bouvier, Kartik Nagpal, Negar Mehr",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p104.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_0M7JiV1GFN",
+      "paper_id": "0M7JiV1GFN",
+      "title": "Provably Safe Online Multi-Agent Navigation in Unknown Environments",
+      "authors": "Zhan Gao, Guang Yang, Jasmine Bayrooti, Amanda Prorok",
+      "paper_url": "https://openreview.net/pdf?id=0M7JiV1GFN",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_80",
+      "paper_id": "80",
+      "title": "RACER: Epistemic Risk-Sensitive RL Enables Fast Driving with Fewer Crashes",
+      "authors": "Kyle Stachowicz, Sergey LevineKyle Stachowicz, Sergey Levine",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p080.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss23_83",
+      "paper_id": "83",
+      "title": "RADIUS: Risk-Aware, Real-Time, Reachability-Based Motion Planning",
+      "authors": "Challen Enninful Adu (University of Michigan)*, Jinsun Liu (University of Michigan, Ann Arbor), Lucas Lymburner (University of Michigan), Vishrut Kaushik (University of Michigan), Lena Trang (University of Michigan), Ram Vasudevan (University of Michigan)Challen Enninful Adu (University of Michigan)*, Jinsun Liu (University of Michigan, Ann Arbor), Lucas Lymburner (University of Michigan), Vishrut Kaushik (University of Michigan), Lena Trang (University of Michigan), Ram Vasudevan (University of Michigan)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p083.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl21_WqUl7sNkDre",
+      "paper_id": "WqUl7sNkDre",
+      "title": "Risk-Averse Zero-Order Trajectory Optimization",
+      "authors": "Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius",
+      "paper_url": "https://openreview.net/pdf?id=WqUl7sNkDre",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_NiA8hVdDS7",
+      "paper_id": "NiA8hVdDS7",
+      "title": "RoboKoop: Efficient Control Conditioned Representations from Visual Input in Robotics using Koopman Operator",
+      "authors": "Hemant Kumawat, Biswadeep Chakraborty, Saibal Mukhopadhyay",
+      "paper_url": "https://openreview.net/pdf?id=NiA8hVdDS7",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_zwo1-MdMl1P",
+      "paper_id": "zwo1-MdMl1P",
+      "title": "Robot Reinforcement Learning on the Constraint Manifold",
+      "authors": "Puze Liu, Davide Tateo, Haitham Bou Ammar, Jan Peters",
+      "paper_url": "https://openreview.net/pdf?id=zwo1-MdMl1P",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_84",
+      "paper_id": "84",
+      "title": "Robust Safety under Stochastic Uncertainty with Discrete-Time Control Barrier Functions",
+      "authors": "Ryan Cosner (Caltech)*, Preston Culbertson (Stanford University), Andrew Taylor (Caltech), Aaron Ames (Caltech)Ryan Cosner (Caltech)*, Preston Culbertson (Stanford University), Andrew Taylor (Caltech), Aaron Ames (Caltech)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p084.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "rss21_7",
+      "paper_id": "7",
+      "title": "Robust Value Iteration for Continuous Control Tasks",
+      "authors": "Michael Lutter (TU Darmstadt), Shie Mannor (Technion), Jan Peters (TU Darmstadt), Dieter Fox (NVIDIA), Animesh Garg (University of Toronto, Vector Institute, NVIDIA)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p007.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_8PcRynpd1m",
+      "paper_id": "8PcRynpd1m",
+      "title": "Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems",
+      "authors": "Yunyue Wei, Zeji Yi, Hongda Li, Saraswati Soedarmadji, Yanan Sui",
+      "paper_url": "https://openreview.net/pdf?id=8PcRynpd1m",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_4ffLQu_O-Dl",
+      "paper_id": "4ffLQu_O-Dl",
+      "title": "Safe Control Under Input Limits with Neural Control Barrier Functions",
+      "authors": "Simin Liu, Changliu Liu, John Dolan",
+      "paper_url": "https://openreview.net/pdf?id=4ffLQu_O-Dl",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_KnOYrZf17CQ",
+      "paper_id": "KnOYrZf17CQ",
+      "title": "Safe Driving via Expert Guided Policy Optimization",
+      "authors": "Zhenghao Peng, Quanyi Li, Chunxiao Liu, Bolei Zhou",
+      "paper_url": "https://openreview.net/pdf?id=KnOYrZf17CQ",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_8K5kisAnb_p",
+      "paper_id": "8K5kisAnb_p",
+      "title": "Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions",
+      "authors": "Charles Dawson, Zengyi Qin, Sicun Gao, Chuchu Fan",
+      "paper_url": "https://openreview.net/pdf?id=8K5kisAnb_p",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss21_79",
+      "paper_id": "79",
+      "title": "Safe Policies for Factored Partially Observable Stochastic Games",
+      "authors": "Steven Carr (University of Texas at Austin), Nils Jansen (Radboud University Nijmegen), Sudarshanan Bharadwaj (University of Texas at Austin), Matthijs  T. J. Spaan (Delft University of Technology), Ufuk Topcu (University of Texas at Austin)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p079.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "rss21_26",
+      "paper_id": "26",
+      "title": "Safe Reinforcement Learning via Statistical Model Predictive Shielding",
+      "authors": "Osbert Bastani (University of Pennsylvania), Shuo Li (University of Pennsylvania), Anton Xue (University of Pennsylvania)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p026.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl22_X4228W0QpvN",
+      "paper_id": "X4228W0QpvN",
+      "title": "Safe Robot Learning in Assistive Devices through Neural Network Repair",
+      "authors": "Keyvan Majd, Geoffrey Mitchell Clark, Tanmay Khandait, Siyu Zhou, Sriram Sankaranarayanan, Georgios Fainekos, Heni Amor",
+      "paper_url": "https://openreview.net/pdf?id=X4228W0QpvN",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss21_77",
+      "paper_id": "77",
+      "title": "Safety and Liveness Guarantees through Reach-Avoid Reinforcement Learning",
+      "authors": "Kai-Chieh Hsu (Princeton University), Vicenç Rubies Royo (UC Berkeley), Claire Tomlin (UC Berkeley), Jaime F Fisac (Princeton University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p077.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl23_zUiH8UUYDo",
+      "paper_id": "zUiH8UUYDo",
+      "title": "Scalable Deep Kernel Gaussian Process for Vehicle Dynamics in Autonomous Racing",
+      "authors": "Jingyun Ning, Madhur Behl",
+      "paper_url": "https://openreview.net/pdf?id=zUiH8UUYDo",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_N1K4B8N3n1",
+      "paper_id": "N1K4B8N3n1",
+      "title": "Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications",
+      "authors": "Joe Eappen, Zikang Xiong, Dipam Patel, Aniket Bera, Suresh Jagannathan",
+      "paper_url": "https://openreview.net/pdf?id=N1K4B8N3n1",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss23_85",
+      "paper_id": "85",
+      "title": "Solving Stabilize-Avoid via Epigraph Form Optimal Control using Deep Reinforcement Learning",
+      "authors": "Oswin So (Massachusetts Institute of Technology)*, Chuchu Fan (Massachusetts Institute of Technology)Oswin So (Massachusetts Institute of Technology)*, Chuchu Fan (Massachusetts Institute of Technology)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p085.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_q0VAoefCI2",
+      "paper_id": "q0VAoefCI2",
+      "title": "Task-Oriented Koopman-Based Control with Contrastive Encoder",
+      "authors": "Xubo Lyu, Hanyang Hu, Seth Siriya, Ye Pu, Mo Chen",
+      "paper_url": "https://openreview.net/pdf?id=q0VAoefCI2",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_jnubz7wB2w",
+      "paper_id": "jnubz7wB2w",
+      "title": "Verification of Neural Control Barrier Functions with Symbolic Derivative Bounds Propagation",
+      "authors": "Hanjiang Hu, Yujie Yang, Tianhao Wei, Changliu Liu",
+      "paper_url": "https://openreview.net/pdf?id=jnubz7wB2w",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_JErNvd_lKHr",
+      "paper_id": "JErNvd_lKHr",
+      "title": "Verified Path Following Using Neural Control Lyapunov Functions",
+      "authors": "Alec Reed, Guillaume O Berger, Sriram Sankaranarayanan, Chris Heckman",
+      "paper_url": "https://openreview.net/pdf?id=JErNvd_lKHr",
+      "venue": "corl22"
+    }
+  ]
+}

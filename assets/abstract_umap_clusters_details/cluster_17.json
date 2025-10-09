@@ -1,0 +1,1885 @@
+{
+  "cluster_id": 17,
+  "papers": [
+    {
+      "id": "cvpr25_1361",
+      "paper_id": "",
+      "title": "3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation",
+      "authors": "Gyeongrok Oh, Sungjune Kim, Heeju Ko, Hyung-gun Chi, Jinkyu Kim, Dongwook Lee, Daehyun Ji, Sungjoon Choi, Sujin Jang, Sangpil Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Oh_3D_Occupancy_Prediction_with_Low-Resolution_Queries_via_Prototype-aware_View_Transformation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1596",
+      "paper_id": "",
+      "title": "A Keypoint-Based Global Association Network for Lane Detection",
+      "authors": "Jinsheng Wang, Yinchao Ma, Shaofei Huang, Tianrui Hui, Fei Wang, Chen Qian, Tianzhu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_A_Keypoint-Based_Global_Association_Network_for_Lane_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2364",
+      "paper_id": "",
+      "title": "Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory",
+      "authors": "Jonas Kälble, Sascha Wirges, Maxim Tatarchenko, Eddy Ilg",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kalble_Accurate_Training_Data_for_Occupancy_Map_Prediction_in_Automated_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_612",
+      "paper_id": "",
+      "title": "Adapting to Length Shift: FlexiLength Network for Trajectory Prediction",
+      "authors": "Yi Xu, Yun Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Adapting_to_Length_Shift_FlexiLength_Network_for_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1178",
+      "paper_id": "",
+      "title": "Adapting to Observation Length of Trajectory Prediction via Contrastive Learning",
+      "authors": "Ruiqi Qiu, Jun Gong, Xinyu Zhang, Siqi Luo, Bowen Zhang, Yi Cen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qiu_Adapting_to_Observation_Length_of_Trajectory_Prediction_via_Contrastive_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1239",
+      "paper_id": "",
+      "title": "Adaptive Trajectory Prediction via Transferable GNN",
+      "authors": "Yi Xu, Lichen Wang, Yizhou Wang, Yun Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2678",
+      "paper_id": "",
+      "title": "Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers",
+      "authors": "Efstathios Karypidis, Ioannis Kakogeorgiou, Spyros Gidaris, Nikos Komodakis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Karypidis_Advancing_Semantic_Future_Prediction_through_Multimodal_Visual_Sequence_Transformers_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1135",
+      "paper_id": "",
+      "title": "Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving",
+      "authors": "Mozhgan Pourkeshavarz, Mohammad Sabokrou, Amir Rasouli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_Adversarial_Backdoor_Attack_by_Naturalistic_Data_Poisoning_on_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1641",
+      "paper_id": "",
+      "title": "AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles",
+      "authors": "Jingkang Wang, Ava Pun, James Tu, Sivabalan Manivasagam, Abbas Sadat, Sergio Casas, Mengye Ren, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_AdvSim_Generating_Safety-Critical_Scenarios_for_Self-Driving_Vehicles_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2502",
+      "paper_id": "",
+      "title": "AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving",
+      "authors": "Mingfu Liang, Jong-Chyi Su, Samuel Schulter, Sparsh Garg, Shiyu Zhao, Ying Wu, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_AIDE_An_Automatic_Data_Engine_for_Object_Detection_in_Autonomous_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2254",
+      "paper_id": "",
+      "title": "Anchor3DLane: Learning To Regress 3D Anchors for Monocular 3D Lane Detection",
+      "authors": "Shaofei Huang, Zhenwei Shen, Zehao Huang, Zi-han Ding, Jiao Dai, Jizhong Han, Naiyan Wang, Si Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Anchor3DLane_Learning_To_Regress_3D_Anchors_for_Monocular_3D_Lane_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_857",
+      "paper_id": "",
+      "title": "Are We Ready for Vision-Centric Driving Streaming Perception? The ASAP Benchmark",
+      "authors": "Xiaofeng Wang, Zheng Zhu, Yunpeng Zhang, Guan Huang, Yun Ye, Wenbo Xu, Ziwei Chen, Xingang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Are_We_Ready_for_Vision-Centric_Driving_Streaming_Perception_The_ASAP_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_26",
+      "paper_id": "",
+      "title": "ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning Framework",
+      "authors": "Chunnan Wang, Xiang Chen, Junzhe Wang, Hongzhi Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1993",
+      "paper_id": "",
+      "title": "BE-STI: Spatial-Temporal Integrated Network for Class-Agnostic Motion Prediction With Bidirectional Enhancement",
+      "authors": "Yunlong Wang, Hongyu Pan, Jun Zhu, Yu-Huan Wu, Xin Zhan, Kun Jiang, Diange Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BE-STI_Spatial-Temporal_Integrated_Network_for_Class-Agnostic_Motion_Prediction_With_Bidirectional_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_551",
+      "paper_id": "",
+      "title": "BEV-LaneDet: An Efficient 3D Lane Detection Based on Virtual Camera via Key-Points",
+      "authors": "Ruihao Wang, Jian Qin, Kaiying Li, Yaochen Li, Dong Cao, Jintao Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_BEV-LaneDet_An_Efficient_3D_Lane_Detection_Based_on_Virtual_Camera_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1417",
+      "paper_id": "",
+      "title": "Bezier Everywhere All at Once: Learning Drivable Lanes as Bezier Graphs",
+      "authors": "Hugh Blayney, Hanlin Tian, Hamish Scott, Nils Goldbeck, Chess Stetson, Panagiotis Angeloudis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Blayney_Bezier_Everywhere_All_at_Once_Learning_Drivable_Lanes_as_Bezier_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_354",
+      "paper_id": "",
+      "title": "Binary TTC: A Temporal Geofence for Autonomous Navigation",
+      "authors": "Abhishek Badki, Orazio Gallo, Jan Kautz, Pradeep Sen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Badki_Binary_TTC_A_Temporal_Geofence_for_Autonomous_Navigation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_417",
+      "paper_id": "",
+      "title": "Bridging Past and Future: End-to-End Autonomous Driving with Historical Prediction and Planning",
+      "authors": "Bozhou Zhang, Nan Song, Xin Jin, Li Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Bridging_Past_and_Future_End-to-End_Autonomous_Driving_with_Historical_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2667",
+      "paper_id": "",
+      "title": "CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving",
+      "authors": "Mozhgan Pourkeshavarz, Junrui Zhang, Amir Rasouli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Pourkeshavarz_CaDeT_a_Causal_Disentanglement_Approach_for_Robust_Trajectory_Prediction_in_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_119",
+      "paper_id": "",
+      "title": "Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications",
+      "authors": "Junyi Ma, Xieyuanli Chen, Jiawei Huang, Jingyi Xu, Zhen Luo, Jintao Xu, Weihao Gu, Rui Ai, Hesheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Cam4DOcc_Benchmark_for_Camera-Only_4D_Occupancy_Forecasting_in_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1920",
+      "paper_id": "",
+      "title": "Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction",
+      "authors": "Inhwan Bae, Junoh Lee, Hae-Gon Jeon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_Can_Language_Beat_Numerical_Regression_Language-Based_Multimodal_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_599",
+      "paper_id": "",
+      "title": "CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-Scale Reinforcement Learning in Autonomous Driving",
+      "authors": "Dongkun Zhang, Jiaming Liang, Ke Guo, Sha Lu, Qi Wang, Rong Xiong, Zhenwei Miao, Yue Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_CarPlanner_Consistent_Auto-regressive_Trajectory_Planning_for_Large-Scale_Reinforcement_Learning_in_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_870",
+      "paper_id": "",
+      "title": "Causal Composition Diffusion Model for Closed-loop Traffic Generation",
+      "authors": "Haohong Lin, Xin Huang, Tung Phan, David Hayden, Huan Zhang, Ding Zhao, Siddhartha Srinivasa, Eric Wolff, Hongge Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Causal_Composition_Diffusion_Model_for_Closed-loop_Traffic_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_35",
+      "paper_id": "",
+      "title": "Certified Human Trajectory Prediction",
+      "authors": "Mohammadhossein Bahari, Saeed Saadatnejad, Amirhossein Askari Farsangi, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bahari_Certified_Human_Trajectory_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_73",
+      "paper_id": "",
+      "title": "ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles",
+      "authors": "Jiawei Zhang, Chejian Xu, Bo Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ChatScene_Knowledge-Enabled_Safety-Critical_Scenario_Generation_for_Autonomous_Vehicles_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1146",
+      "paper_id": "",
+      "title": "Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models",
+      "authors": "Zhejun Zhang, Peter Karkus, Maximilian Igl, Wenhao Ding, Yuxiao Chen, Boris Ivanovic, Marco Pavone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Closed-Loop_Supervised_Fine-Tuning_of_Tokenized_Traffic_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_39",
+      "paper_id": "",
+      "title": "CLRNet: Cross Layer Refinement Network for Lane Detection",
+      "authors": "Tu Zheng, Yifei Huang, Yang Liu, Wenjian Tang, Zheng Yang, Deng Cai, Xiaofei He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_CLRNet_Cross_Layer_Refinement_Network_for_Lane_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_474",
+      "paper_id": "",
+      "title": "Coaching a Teachable Student",
+      "authors": "Jimuyang Zhang, Zanming Huang, Eshed Ohn-Bar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Coaching_a_Teachable_Student_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1394",
+      "paper_id": "",
+      "title": "Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles",
+      "authors": "Rui Song, Chenwei Liang, Hu Cao, Zhiran Yan, Walter Zimmer, Markus Gross, Andreas Festag, Alois Knoll",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Collaborative_Semantic_Occupancy_Prediction_with_Hybrid_Feature_Fusion_in_Connected_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_711",
+      "paper_id": "",
+      "title": "Communication-Efficient Collaborative Perception via Information Filling with Codebook",
+      "authors": "Yue Hu, Juntong Peng, Sifei Liu, Junhao Ge, Si Liu, Siheng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Communication-Efficient_Collaborative_Perception_via_Information_Filling_with_Codebook_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1012",
+      "paper_id": "",
+      "title": "Continual Learning for Motion Prediction Model via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy",
+      "authors": "DaeJun Kang, Dongsuk Kum, Sanmin Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kang_Continual_Learning_for_Motion_Prediction_Model_via_Meta-Representation_Learning_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2457",
+      "paper_id": "",
+      "title": "Continuous Locomotive Crowd Behavior Generation",
+      "authors": "Inhwan Bae, Junoh Lee, Hae-Gon Jeon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bae_Continuous_Locomotive_Crowd_Behavior_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_256",
+      "paper_id": "",
+      "title": "Convolutions for Spatial Interaction Modeling",
+      "authors": "Zhaoen Su, Chao Wang, David Bradley, Carlos Vallespi-Gonzalez, Carl Wellington, Nemanja Djuric",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Su_Convolutions_for_Spatial_Interaction_Modeling_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1903",
+      "paper_id": "",
+      "title": "Coopernaut: End-to-End Driving With Cooperative Perception for Networked Vehicles",
+      "authors": "Jiaxun Cui, Hang Qiu, Dian Chen, Peter Stone, Yuke Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cui_Coopernaut_End-to-End_Driving_With_Cooperative_Perception_for_Networked_Vehicles_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1581",
+      "paper_id": "",
+      "title": "CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization",
+      "authors": "Junhao Xu, Yanan Zhang, Zhi Cai, Di Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_CoSDH_Communication-Efficient_Collaborative_Perception_via_Supply-Demand_Awareness_and_Intermediate-Late_Hybridization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1168",
+      "paper_id": "",
+      "title": "COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction",
+      "authors": "Qihang Ma, Xin Tan, Yanyun Qu, Lizhuang Ma, Zhizhong Zhang, Yuan Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_COTR_Compact_Occupancy_TRansformer_for_Vision-based_3D_Occupancy_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_951",
+      "paper_id": "",
+      "title": "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection",
+      "authors": "Haibao Yu, Yizhen Luo, Mao Shu, Yiyi Huo, Zebang Yang, Yifeng Shi, Zhenglong Guo, Hanyu Li, Xing Hu, Jirui Yuan, Zaiqing Nie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_833",
+      "paper_id": "",
+      "title": "Deep Multi-Task Learning for Joint Localization, Perception, and Prediction",
+      "authors": "John Phillips, Julieta Martinez, Ioan Andrei Barsan, Sergio Casas, Abbas Sadat, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Phillips_Deep_Multi-Task_Learning_for_Joint_Localization_Perception_and_Prediction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1376",
+      "paper_id": "",
+      "title": "Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction",
+      "authors": "Di Wen, Haoran Xu, Zhaocheng He, Zhe Wu, Guang Tan, Peixi Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_Density-Adaptive_Model_Based_on_Motif_Matrix_for_Multi-Agent_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2258",
+      "paper_id": "",
+      "title": "DIO: Decomposable Implicit 4D Occupancy-Flow World Model",
+      "authors": "Christopher Diehl, Quinlan Sykora, Ben Agro, Thomas Gilles, Sergio Casas, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Diehl_DIO_Decomposable_Implicit_4D_Occupancy-Flow_World_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_900",
+      "paper_id": "",
+      "title": "Distilling Multi-modal Large Language Models for Autonomous Driving",
+      "authors": "Deepti Hegde, Rajeev Yasarla, Hong Cai, Shizhong Han, Apratim Bhattacharyya, Shweta Mahajan, Litian Liu, Risheek Garrepalli, Vishal M. Patel, Fatih Porikli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hegde_Distilling_Multi-modal_Large_Language_Models_for_Autonomous_Driving_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1419",
+      "paper_id": "",
+      "title": "Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction",
+      "authors": "Sriram Narayanan, Ramin Moslemi, Francesco Pittaluga, Buyu Liu, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Narayanan_Divide-and-Conquer_for_Lane-Aware_Diverse_Trajectory_Prediction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_157",
+      "paper_id": "",
+      "title": "Don't Shake the Wheel: Momentum-Aware Planning in End-to-End Autonomous Driving",
+      "authors": "Ziying Song, Caiyan Jia, Lin Liu, Hongyu Pan, Yongchang Zhang, Junming Wang, Xingyu Zhang, Shaoqing Xu, Lei Yang, Yadan Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_Dont_Shake_the_Wheel_Momentum-Aware_Planning_in_End-to-End_Autonomous_Driving_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_571",
+      "paper_id": "",
+      "title": "DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation",
+      "authors": "Guosheng Zhao, Chaojun Ni, Xiaofeng Wang, Zheng Zhu, Xueyang Zhang, Yida Wang, Guan Huang, Xinze Chen, Boyuan Wang, Youyi Zhang, Wenjun Mei, Xingang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_DriveDreamer4D_World_Models_Are_Effective_Data_Machines_for_4D_Driving_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_35",
+      "paper_id": "",
+      "title": "DriveGAN: Towards a Controllable High-Quality Neural Simulation",
+      "authors": "Seung Wook Kim, Jonah Philion, Antonio Torralba, Sanja Fidler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_DriveGAN_Towards_a_Controllable_High-Quality_Neural_Simulation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1839",
+      "paper_id": "",
+      "title": "DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation",
+      "authors": "Hongbin Lin, Zilu Guo, Yifan Zhang, Shuaicheng Niu, Yafeng Li, Ruimao Zhang, Shuguang Cui, Zhen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_DriveGEN_Generalized_and_Robust_3D_Detection_in_Driving_via_Controllable_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_283",
+      "paper_id": "",
+      "title": "DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving",
+      "authors": "Zhenhua Xu, Yan Bai, Yujia Zhang, Zhuoling Li, Fei Xia, Kwan-Yee K. Wong, Jianqiang Wang, Hengshuang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DriveGPT4-V2_Harnessing_Large_Language_Model_Capabilities_for_Enhanced_Closed-Loop_Autonomous_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_610",
+      "paper_id": "",
+      "title": "DriveScape: High-Resolution Driving Video Generation by Multi-View Feature Fusion",
+      "authors": "Wei Wu, Xi Guo, Weixuan Tang, Tingxuan Huang, Chiyu Wang, Chenjing Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_DriveScape_High-Resolution_Driving_Video_Generation_by_Multi-View_Feature_Fusion_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1273",
+      "paper_id": "",
+      "title": "DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving",
+      "authors": "Chen Min, Dawei Zhao, Liang Xiao, Jian Zhao, Xinli Xu, Zheng Zhu, Lei Jin, Jianshu Li, Yulan Guo, Junliang Xing, Liping Jing, Yiming Nie, Bin Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Min_DriveWorld_4D_Pre-trained_Scene_Understanding_via_World_Models_for_Autonomous_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2797",
+      "paper_id": "",
+      "title": "Driving by the Rules: A Benchmark for Integrating Traffic Sign Regulations into Vectorized HD Map",
+      "authors": "Xinyuan Chang, Maixuan Xue, Xinran Liu, Zheng Pan, Xing Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Driving_by_the_Rules_A_Benchmark_for_Integrating_Traffic_Sign_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_873",
+      "paper_id": "",
+      "title": "Driving Everywhere with Large Language Model Policy Adaptation",
+      "authors": "Boyi Li, Yue Wang, Jiageng Mao, Boris Ivanovic, Sushant Veer, Karen Leung, Marco Pavone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Driving_Everywhere_with_Large_Language_Model_Policy_Adaptation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1231",
+      "paper_id": "",
+      "title": "Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+      "authors": "Yuqi Wang, Jiawei He, Lue Fan, Hongxin Li, Yuntao Chen, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Driving_into_the_Future_Multiview_Visual_Forecasting_and_Planning_with_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1317",
+      "paper_id": "",
+      "title": "DrivingSphere: Building a High-fidelity 4D World for Closed-loop Simulation",
+      "authors": "Tianyi Yan, Dongming Wu, Wencheng Han, Junpeng Jiang, Xia Zhou, Kun Zhan, Cheng-zhong Xu, Jianbing Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_DrivingSphere_Building_a_High-fidelity_4D_World_for_Closed-loop_Simulation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1895",
+      "paper_id": "",
+      "title": "DualAD: Disentangling the Dynamic and Static World for End-to-End Driving",
+      "authors": "Simon Doll, Niklas Hanselmann, Lukas Schneider, Richard Schulz, Marius Cordts, Markus Enzweiler, Hendrik P. A. Lensch",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Doll_DualAD_Disentangling_the_Dynamic_and_Static_World_for_End-to-End_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1334",
+      "paper_id": "",
+      "title": "EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance",
+      "authors": "Yang Yue, Yulin Wang, Haojun Jiang, Pan Liu, Shiji Song, Gao Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yue_EchoWorld_Learning_Motion-Aware_World_Models_for_Echocardiography_Probe_Guidance_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2433",
+      "paper_id": "",
+      "title": "Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents",
+      "authors": "Yuxi Wei, Zi Wang, Yifan Lu, Chenxin Xu, Changxing Liu, Hao Zhao, Siheng Chen, Yanfeng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wei_Editable_Scene_Simulation_for_Autonomous_Driving_via_Collaborative_LLM-Agents_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_806",
+      "paper_id": "",
+      "title": "Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes",
+      "authors": "Dongkwon Jin, Wonhui Park, Seong-Gyun Jeong, Heeyeon Kwon, Chang-Su Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Eigenlanes_Data-Driven_Lane_Descriptors_for_Structurally_Diverse_Lanes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1031",
+      "paper_id": "",
+      "title": "Embodied Scene Understanding for Vision Language Models via MetaVQA",
+      "authors": "Weizhen Wang, Chenda Duan, Zhenghao Peng, Yuxin Liu, Bolei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Embodied_Scene_Understanding_for_Vision_Language_Models_via_MetaVQA_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_463",
+      "paper_id": "",
+      "title": "End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps",
+      "authors": "Ke Guo, Wenxi Liu, Jia Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_End-to-End_Trajectory_Distribution_Prediction_Based_on_Occupancy_Grid_Maps_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_809",
+      "paper_id": "",
+      "title": "End-to-End Vectorized HD-Map Construction With Piecewise Bezier Curve",
+      "authors": "Limeng Qiao, Wenjie Ding, Xi Qiu, Chi Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qiao_End-to-End_Vectorized_HD-Map_Construction_With_Piecewise_Bezier_Curve_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1608",
+      "paper_id": "",
+      "title": "Enduring, Efficient and Robust Trajectory Prediction Attack in Autonomous Driving via Optimization-Driven Multi-Frame Perturbation Framework",
+      "authors": "Yi Yu, Weizhen Han, Libing Wu, Bingyi Liu, Enshu Wang, Zhuangzhuang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Enduring_Efficient_and_Robust_Trajectory_Prediction_Attack_in_Autonomous_Driving_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_931",
+      "paper_id": "",
+      "title": "EqMotion: Equivariant Multi-Agent Motion Prediction With Invariant Interaction Reasoning",
+      "authors": "Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yu Guang Wang, Xinchao Wang, Yanfeng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1244",
+      "paper_id": "",
+      "title": "ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments",
+      "authors": "Jingyu Zhang, Kun Yang, Yilei Wang, Hanqi Wang, Peng Sun, Liang Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ERMVP_Communication-Efficient_and_Collaboration-Robust_Multi-Vehicle_Perception_in_Challenging_Environments_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1217",
+      "paper_id": "",
+      "title": "Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers",
+      "authors": "Apratim Bhattacharyya, Daniel Olmeda Reino, Mario Fritz, Bernt Schiele",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2741",
+      "paper_id": "",
+      "title": "EvOcc: Accurate Semantic Occupancy for Automated Driving Using Evidence Theory",
+      "authors": "Jonas Kälble, Sascha Wirges, Maxim Tatarchenko, Eddy Ilg",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kalble_EvOcc_Accurate_Semantic_Occupancy_for_Automated_Driving_Using_Evidence_Theory_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2607",
+      "paper_id": "",
+      "title": "Feedback-Guided Autonomous Driving",
+      "authors": "Jimuyang Zhang, Zanming Huang, Arijit Ray, Eshed Ohn-Bar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Feedback-Guided_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1635",
+      "paper_id": "",
+      "title": "FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-Tail Trajectory Prediction",
+      "authors": "Yuning Wang, Pu Zhang, Lei Bai, Jianru Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_FEND_A_Future_Enhanced_Distribution-Aware_Contrastive_Learning_Framework_for_Long-Tail_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1154",
+      "paper_id": "",
+      "title": "FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs",
+      "authors": "Luke Rowe, Martin Ethier, Eli-Henry Dykhne, Krzysztof Czarnecki",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_330",
+      "paper_id": "",
+      "title": "Focus on Local: Detecting Lane Marker From Bottom Up via Key Point",
+      "authors": "Zhan Qu, Huan Jin, Yang Zhou, Zhen Yang, Wei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Qu_Focus_on_Local_Detecting_Lane_Marker_From_Bottom_Up_via_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1408",
+      "paper_id": "",
+      "title": "Forecasting From LiDAR via Future Object Detection",
+      "authors": "Neehar Peri, Jonathon Luiten, Mengtian Li, Aljoša Ošep, Laura Leal-Taixé, Deva Ramanan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Peri_Forecasting_From_LiDAR_via_Future_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_948",
+      "paper_id": "",
+      "title": "FreeSim: Toward Free-viewpoint Camera Simulation in Driving Scenes",
+      "authors": "Lue Fan, Hao Zhang, Qitai Wang, Hongsheng Li, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_FreeSim_Toward_Free-viewpoint_Camera_Simulation_in_Driving_Scenes_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_637",
+      "paper_id": "",
+      "title": "GaussianFormer-2: Probabilistic Gaussian Superposition for Efficient 3D Occupancy Prediction",
+      "authors": "Yuanhui Huang, Amonnut Thammatadatrakoon, Wenzhao Zheng, Yunpeng Zhang, Dalong Du, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_GaussianFormer-2_Probabilistic_Gaussian_Superposition_for_Efficient_3D_Occupancy_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_580",
+      "paper_id": "",
+      "title": "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction",
+      "authors": "Sicheng Zuo, Wenzhao Zheng, Yuanhui Huang, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zuo_GaussianWorld_Gaussian_World_Model_for_Streaming_3D_Occupancy_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2528",
+      "paper_id": "",
+      "title": "GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding",
+      "authors": "Haoyi Jiang, Liu Liu, Tianheng Cheng, Xinjie Wang, Tianwei Lin, Zhizhong Su, Wenyu Liu, Xinggang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_GaussTR_Foundation_Model-Aligned_Gaussian_Transformer_for_Self-Supervised_3D_Spatial_Understanding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_993",
+      "paper_id": "",
+      "title": "GenAssets: Generating in-the-wild 3D Assets in Latent Space",
+      "authors": "Ze Yang, Jingkang Wang, Haowei Zhang, Sivabalan Manivasagam, Yun Chen, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_GenAssets_Generating_in-the-wild_3D_Assets_in_Latent_Space_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_925",
+      "paper_id": "",
+      "title": "Generalized Predictive Model for Autonomous Driving",
+      "authors": "Jiazhi Yang, Shenyuan Gao, Yihang Qiu, Li Chen, Tianyu Li, Bo Dai, Kashyap Chitta, Penghao Wu, Jia Zeng, Ping Luo, Jun Zhang, Andreas Geiger, Yu Qiao, Hongyang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Generalized_Predictive_Model_for_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1238",
+      "paper_id": "",
+      "title": "Generating Multimodal Driving Scenes via Next-Scene Prediction",
+      "authors": "Yanhao Wu, Haoyang Zhang, Tianwei Lin, Lichao Huang, Shujie Luo, Rui Wu, Congpei Qiu, Wei Ke, Tong Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Generating_Multimodal_Driving_Scenes_via_Next-Scene_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_233",
+      "paper_id": "",
+      "title": "Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior",
+      "authors": "Davis Rempe, Jonah Philion, Leonidas J. Guibas, Sanja Fidler, Or Litany",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Rempe_Generating_Useful_Accident-Prone_Driving_Scenarios_via_a_Learned_Traffic_Prior_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1040",
+      "paper_id": "",
+      "title": "Generative Map Priors for Collaborative BEV Semantic Segmentation",
+      "authors": "Jiahui Fu, Yue Gong, Luting Wang, Shifeng Zhang, Xu Zhou, Si Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Generative_Map_Priors_for_Collaborative_BEV_Semantic_Segmentation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_840",
+      "paper_id": "",
+      "title": "GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving",
+      "authors": "Yun Chen, Frieda Rong, Shivam Duggal, Shenlong Wang, Xinchen Yan, Sivabalan Manivasagam, Shangjie Xue, Ersin Yumer, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_GeoSim_Realistic_Video_Simulation_via_Geometry-Aware_Composition_for_Self-Driving_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1909",
+      "paper_id": "",
+      "title": "GigaTraj: Predicting Long-term Trajectories of Hundreds of Pedestrians in Gigapixel Complex Scenes",
+      "authors": "Haozhe Lin, Chunyu Wei, Li He, Yuchen Guo, Yunqi Zhao, Shanglong Li, Lu Fang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_GigaTraj_Predicting_Long-term_Trajectories_of_Hundreds_of_Pedestrians_in_Gigapixel_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2196",
+      "paper_id": "",
+      "title": "GINA-3D: Learning To Generate Implicit Neural Assets in the Wild",
+      "authors": "Bokui Shen, Xinchen Yan, Charles R. Qi, Mahyar Najibi, Boyang Deng, Leonidas Guibas, Yin Zhou, Dragomir Anguelov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_GINA-3D_Learning_To_Generate_Implicit_Neural_Assets_in_the_Wild_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1199",
+      "paper_id": "",
+      "title": "GLane3D: Detecting Lanes with Graph of 3D Keypoints",
+      "authors": "Halil İbrahim Öztürk, Muhammet Esat Kalfaoğlu, Ozsel Kilinc",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ozturk_GLane3D_Detecting_Lanes_with_Graph_of_3D_Keypoints_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_399",
+      "paper_id": "",
+      "title": "GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving",
+      "authors": "Zebin Xing, Xingyu Zhang, Yang Hu, Bo Jiang, Tong He, Qian Zhang, Xiaoxiao Long, Wei Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_GoalFlow_Goal-Driven_Flow_Matching_for_Multimodal_Trajectories_Generation_in_End-to-End_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_681",
+      "paper_id": "",
+      "title": "Graph-Based Spatial Transformer With Memory Replay for Multi-Future Pedestrian Trajectory Prediction",
+      "authors": "Lihuan Li, Maurice Pagnucco, Yang Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1430",
+      "paper_id": "",
+      "title": "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction With Relational Reasoning",
+      "authors": "Chenxin Xu, Maosen Li, Zhenyang Ni, Ya Zhang, Siheng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupNet_Multiscale_Hypergraph_Neural_Networks_for_Trajectory_Prediction_With_Relational_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_839",
+      "paper_id": "",
+      "title": "HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps",
+      "authors": "Lu Mi, Hang Zhao, Charlie Nash, Xiaohan Jin, Jiyang Gao, Chen Sun, Cordelia Schmid, Nir Shavit, Yuning Chai, Dragomir Anguelov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2096",
+      "paper_id": "",
+      "title": "Higher-order Relational Reasoning for Pedestrian Trajectory Prediction",
+      "authors": "Sungjune Kim, Hyung-gun Chi, Hyerin Lim, Karthik Ramani, Jinkyu Kim, Sangpil Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1796",
+      "paper_id": "",
+      "title": "HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction",
+      "authors": "Yi Zhou, Hui Zhang, Jiaqian Yu, Yifan Yang, Sangil Jung, Seung-In Park, ByungIn Yoo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_HIMap_HybrId_Representation_Learning_for_End-to-end_Vectorized_HD_Map_Construction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1369",
+      "paper_id": "",
+      "title": "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
+      "authors": "Zikang Zhou, Luyao Ye, Jianping Wang, Kui Wu, Kejie Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_99",
+      "paper_id": "",
+      "title": "Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models",
+      "authors": "Xinpeng Ding, Jianhua Han, Hang Xu, Xiaodan Liang, Wei Zhang, Xiaomeng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Holistic_Autonomous_Driving_Understanding_by_Birds-Eye-View_Injected_Multi-Modal_Large_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_297",
+      "paper_id": "",
+      "title": "HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative",
+      "authors": "Cong Ma, Lei Qiao, Chengkai Zhu, Kai Liu, Zelong Kong, Qing Li, Xueqi Zhou, Yuheng Kan, Wei Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_HoloVIC_Large-scale_Dataset_and_Benchmark_for_Multi-Sensor_Holographic_Intersection_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_659",
+      "paper_id": "",
+      "title": "How Many Observations Are Enough? Knowledge Distillation for Trajectory Forecasting",
+      "authors": "Alessio Monti, Angelo Porrello, Simone Calderara, Pasquale Coscia, Lamberto Ballan, Rita Cucchiara",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Monti_How_Many_Observations_Are_Enough_Knowledge_Distillation_for_Trajectory_Forecasting_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_692",
+      "paper_id": "",
+      "title": "HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention",
+      "authors": "Xiaolong Tang, Meina Kan, Shiguang Shan, Zhilong Ji, Jinfeng Bai, Xilin Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_HPNet_Dynamic_Trajectory_Forecasting_with_Historical_Prediction_Attention_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_903",
+      "paper_id": "",
+      "title": "Human Trajectory Prediction With Momentary Observation",
+      "authors": "Jianhua Sun, Yuxuan Li, Liang Chai, Hao-Shu Fang, Yong-Lu Li, Cewu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_11",
+      "paper_id": "",
+      "title": "Implicit Occupancy Flow Fields for Perception and Prediction in Self-Driving",
+      "authors": "Ben Agro, Quinlan Sykora, Sergio Casas, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Agro_Implicit_Occupancy_Flow_Fields_for_Perception_and_Prediction_in_Self-Driving_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2610",
+      "paper_id": "",
+      "title": "InteractionMap: Improving Online Vectorized HDMap Construction with Interaction",
+      "authors": "Kuang Wu, Chuan Yang, Zhanbin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_InteractionMap_Improving_Online_Vectorized_HDMap_Construction_with_Interaction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_357",
+      "paper_id": "",
+      "title": "Interpretable Social Anchors for Human Trajectory Forecasting in Crowds",
+      "authors": "Parth Kothari, Brian Sifringer, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kothari_Interpretable_Social_Anchors_for_Human_Trajectory_Forecasting_in_Crowds_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_30",
+      "paper_id": "",
+      "title": "Introvert: Human Trajectory Prediction via Conditional 3D Attention",
+      "authors": "Nasim Shafiee, Taskin Padir, Ehsan Elhamifar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shafiee_Introvert_Human_Trajectory_Prediction_via_Conditional_3D_Attention_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_749",
+      "paper_id": "",
+      "title": "IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction",
+      "authors": "Dekai Zhu, Guangyao Zhai, Yan Di, Fabian Manhardt, Hendrik Berkemeyer, Tuan Tran, Nassir Navab, Federico Tombari, Benjamin Busam",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_IPCC-TP_Utilizing_Incremental_Pearson_Correlation_Coefficient_for_Joint_Multi-Agent_Trajectory_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1171",
+      "paper_id": "",
+      "title": "Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?",
+      "authors": "Zhiqi Li, Zhiding Yu, Shiyi Lan, Jiahan Li, Jan Kautz, Tong Lu, Jose M. Alvarez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Is_Ego_Status_All_You_Need_for_Open-Loop_End-to-End_Autonomous_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1305",
+      "paper_id": "",
+      "title": "Joint Forecasting of Panoptic Segmentations With Difference Attention",
+      "authors": "Colin Graber, Cyril Jazra, Wenjie Luo, Liangyan Gui, Alexander G. Schwing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Graber_Joint_Forecasting_of_Panoptic_Segmentations_With_Difference_Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_802",
+      "paper_id": "",
+      "title": "Keep Your Eyes on the Lane: Real-Time Attention-Guided Lane Detection",
+      "authors": "Lucas Tabelini, Rodrigo Berriel, Thiago M. Paixao, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tabelini_Keep_Your_Eyes_on_the_Lane_Real-Time_Attention-Guided_Lane_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2109",
+      "paper_id": "",
+      "title": "LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs",
+      "authors": "Yunsheng Ma, Can Cui, Xu Cao, Wenqian Ye, Peiran Liu, Juanwu Lu, Amr Abdelraouf, Rohit Gupta, Kyungtae Han, Aniket Bera, James M. Rehg, Ziran Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_LaMPilot_An_Open_Benchmark_Dataset_for_Autonomous_Driving_with_Language_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2327",
+      "paper_id": "",
+      "title": "Lane2Seq: Towards Unified Lane Detection via Sequence Generation",
+      "authors": "Kunyang Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Lane2Seq_Towards_Unified_Lane_Detection_via_Sequence_Generation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_5",
+      "paper_id": "",
+      "title": "LaneCPP: Continuous 3D Lane Detection using Physical Priors",
+      "authors": "Maximilian Pittner, Joel Janai, Alexandru P. Condurache",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Pittner_LaneCPP_Continuous_3D_Lane_Detection_using_Physical_Priors_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1461",
+      "paper_id": "",
+      "title": "LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents",
+      "authors": "ByeoungDo Kim, Seong Hyeon Park, Seokhwan Lee, Elbek Khoshimjonov, Dongsuk Kum, Junsoo Kim, Jeong Soo Kim, Jun Won Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_LaPred_Lane-Aware_Prediction_of_Multi-Modal_Future_Trajectories_of_Dynamic_Agents_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_398",
+      "paper_id": "",
+      "title": "LASIL: Learner-Aware Supervised Imitation Learning For Long-term Microscopic Traffic Simulation",
+      "authors": "Ke Guo, Zhenwei Miao, Wei Jing, Weiwei Liu, Weizi Li, Dayang Hao, Jia Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_LASIL_Learner-Aware_Supervised_Imitation_Learning_For_Long-term_Microscopic_Traffic_Simulation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_155",
+      "paper_id": "",
+      "title": "Leapfrog Diffusion Model for Stochastic Trajectory Prediction",
+      "authors": "Weibo Mao, Chenxin Xu, Qi Zhu, Siheng Chen, Yanfeng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1076",
+      "paper_id": "",
+      "title": "Learned Two-Plane Perspective Prior Based Image Resampling for Efficient Object Detection",
+      "authors": "Anurag Ghosh, N. Dinesh Reddy, Christoph Mertz, Srinivasa G. Narasimhan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ghosh_Learned_Two-Plane_Perspective_Prior_Based_Image_Resampling_for_Efficient_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_991",
+      "paper_id": "",
+      "title": "Learning and Aggregating Lane Graphs for Urban Automated Driving",
+      "authors": "Martin Büchner, Jannik Zürn, Ion-George Todoran, Abhinav Valada, Wolfram Burgard",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Buchner_Learning_and_Aggregating_Lane_Graphs_for_Urban_Automated_Driving_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_870",
+      "paper_id": "",
+      "title": "Learning by Watching",
+      "authors": "Jimuyang Zhang, Eshed Ohn-Bar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_by_Watching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2273",
+      "paper_id": "",
+      "title": "Learning Extremely High Density Crowds as Active Matters",
+      "authors": "Feixiang He, Jiangbei Yue, Jialin Zhu, Armin Seyfried, Dan Casas, Julien Pettré, He Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/He_Learning_Extremely_High_Density_Crowds_as_Active_Matters_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_427",
+      "paper_id": "",
+      "title": "Learning From All Vehicles",
+      "authors": "Dian Chen, Philipp Krähenbühl",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_From_All_Vehicles_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_592",
+      "paper_id": "",
+      "title": "Leveraging SD Map to Augment HD Map-based Trajectory Prediction",
+      "authors": "Zhiwei Dong, Ran Ding, Wei Li, Peng Zhang, Guobin Tang, Jia Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Leveraging_SD_Map_to_Augment_HD_Map-based_Trajectory_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2203",
+      "paper_id": "",
+      "title": "LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+      "authors": "Hao Shao, Yuxuan Hu, Letian Wang, Guanglu Song, Steven L. Waslander, Yu Liu, Hongsheng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_LMDrive_Closed-Loop_End-to-End_Driving_with_Large_Language_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_797",
+      "paper_id": "",
+      "title": "Localization Is All You Evaluate: Data Leakage in Online Mapping Datasets and How to Fix It",
+      "authors": "Adam Lilja, Junsheng Fu, Erik Stenborg, Lars Hammarstrand",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lilja_Localization_Is_All_You_Evaluate_Data_Leakage_in_Online_Mapping_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2551",
+      "paper_id": "",
+      "title": "LowRankOcc: Tensor Decomposition and Low-Rank Recovery for Vision-based 3D Semantic Occupancy Prediction",
+      "authors": "Linqing Zhao, Xiuwei Xu, Ziwei Wang, Yunpeng Zhang, Borui Zhang, Wenzhao Zheng, Dalong Du, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_LowRankOcc_Tensor_Decomposition_and_Low-Rank_Recovery_for_Vision-based_3D_Semantic_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_337",
+      "paper_id": "",
+      "title": "LTP: Lane-Based Trajectory Prediction for Autonomous Driving",
+      "authors": "Jingke Wang, Tengju Ye, Ziqing Gu, Junbo Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_LTP_Lane-Based_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1278",
+      "paper_id": "",
+      "title": "M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction",
+      "authors": "Qiao Sun, Xin Huang, Junru Gu, Brian C. Williams, Hang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_M2I_From_Factored_Marginal_Trajectory_Prediction_to_Interactive_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2372",
+      "paper_id": "",
+      "title": "MAPLM: A Real-World Large-Scale Vision-Language Benchmark for Map and Traffic Scene Understanding",
+      "authors": "Xu Cao, Tong Zhou, Yunsheng Ma, Wenqian Ye, Can Cui, Kun Tang, Zhipeng Cao, Kaizhao Liang, Ziran Wang, James M. Rehg, Chao Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1462",
+      "paper_id": "",
+      "title": "MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction",
+      "authors": "Jingcheng Ni, Yuxin Guo, Yichen Liu, Rui Chen, Lewei Lu, Zehuan Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_MaskGWM_A_Generalizable_Driving_World_Model_with_Video_Mask_Reconstruction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1234",
+      "paper_id": "",
+      "title": "MGMap: Mask-Guided Learning for Online Vectorized HD Map Construction",
+      "authors": "Xiaolu Liu, Song Wang, Wentong Li, Ruizi Yang, Junbo Chen, Jianke Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_MGMap_Mask-Guided_Learning_for_Online_Vectorized_HD_Map_Construction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1450",
+      "paper_id": "",
+      "title": "MixSim: A Hierarchical Framework for Mixed Reality Traffic Simulation",
+      "authors": "Simon Suo, Kelvin Wong, Justin Xu, James Tu, Alexander Cui, Sergio Casas, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Suo_MixSim_A_Hierarchical_Framework_for_Mixed_Reality_Traffic_Simulation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_290",
+      "paper_id": "",
+      "title": "MMTL-UniAD: A Unified Framework for Multimodal and Multi-Task Learning in Assistive Driving Perception",
+      "authors": "Wenzhuo Liu, Wenshuo Wang, Yicheng Qiao, Qiannan Guo, Jiayin Zhu, Pengfei Li, Zilong Chen, Huiming Yang, Zhiwei Li, Lening Wang, Tiao Tan, Huaping Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MMTL-UniAD_A_Unified_Framework_for_Multimodal_and_Multi-Task_Learning_in_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2436",
+      "paper_id": "",
+      "title": "ModeSeq: Taming Sparse Multimodal Motion Prediction with Sequential Mode Modeling",
+      "authors": "Zikang Zhou, Hengjian Zhou, Haibo Hu, Zihao Wen, Jianping Wang, Yung-Hui Li, Yu-Kai Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_ModeSeq_Taming_Sparse_Multimodal_Motion_Prediction_with_Sequential_Mode_Modeling_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1455",
+      "paper_id": "",
+      "title": "MoFlow: One-Step Flow Matching for Human Trajectory Forecasting via Implicit Maximum Likelihood Estimation based Distillation",
+      "authors": "Yuxiang Fu, Qi Yan, Lele Wang, Ke Li, Renjie Liao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_MoFlow_One-Step_Flow_Matching_for_Human_Trajectory_Forecasting_via_Implicit_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_860",
+      "paper_id": "",
+      "title": "MoST: Multi-Modality Scene Tokenization for Motion Prediction",
+      "authors": "Norman Mu, Jingwei Ji, Zhenpei Yang, Nate Harada, Haotian Tang, Kan Chen, Charles R. Qi, Runzhou Ge, Kratarth Goel, Zoey Yang, Scott Ettinger, Rami Al-Rfou, Dragomir Anguelov, Yin Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mu_MoST_Multi-Modality_Scene_Tokenization_for_Motion_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_612",
+      "paper_id": "",
+      "title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+      "authors": "Chiyu “Max” Jiang, Andre Cornman, Cheolho Park, Benjamin Sapp, Yin Zhou, Dragomir Anguelov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1387",
+      "paper_id": "",
+      "title": "MP3: A Unified Model To Map, Perceive, Predict and Plan",
+      "authors": "Sergio Casas, Abbas Sadat, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Casas_MP3_A_Unified_Model_To_Map_Perceive_Predict_and_Plan_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1176",
+      "paper_id": "",
+      "title": "MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving",
+      "authors": "Zhiyuan Zhang, Xiaofan Li, Zhihao Xu, Wenjie Peng, Zijian Zhou, Miaojing Shi, Shuangping Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_MPDrive_Improving_Spatial_Understanding_with_Marker-Based_Prompt_Learning_for_Autonomous_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_571",
+      "paper_id": "",
+      "title": "Multi-agent Collaborative Perception via Motion-aware Robust Communication Network",
+      "authors": "Shixin Hong, Yu Liu, Zhi Li, Shaohui Li, You He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_Multi-agent_Collaborative_Perception_via_Motion-aware_Robust_Communication_Network_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1080",
+      "paper_id": "",
+      "title": "Multi-modal Knowledge Distillation-based Human Trajectory Forecasting",
+      "authors": "Jaewoo Jeong, Seohee Lee, Daehee Park, Giwon Lee, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jeong_Multi-modal_Knowledge_Distillation-based_Human_Trajectory_Forecasting_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_333",
+      "paper_id": "",
+      "title": "Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset",
+      "authors": "Yiming Li, Zhiheng Li, Nuo Chen, Moonjun Gong, Zonglin Lyu, Zehong Wang, Peili Jiang, Chen Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Multiagent_Multitraversal_Multimodal_Self-Driving_Open_MARS_Dataset_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1394",
+      "paper_id": "",
+      "title": "Multimodal Motion Prediction With Stacked Transformers",
+      "authors": "Yicheng Liu, Jinghuai Zhang, Liangji Fang, Qinhong Jiang, Bolei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Multimodal_Motion_Prediction_With_Stacked_Transformers_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_197",
+      "paper_id": "",
+      "title": "MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction",
+      "authors": "Mihee Lee, Samuel S. Sohn, Seonghyeon Moon, Sejong Yoon, Mubbasir Kapadia, Vladimir Pavlovic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1313",
+      "paper_id": "",
+      "title": "Neural Map Prior for Autonomous Driving",
+      "authors": "Xuan Xiong, Yicheng Liu, Tianyuan Yuan, Yue Wang, Yilun Wang, Hang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xiong_Neural_Map_Prior_for_Autonomous_Driving_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1851",
+      "paper_id": "",
+      "title": "Non-Probability Sampling Network for Stochastic Human Trajectory Prediction",
+      "authors": "Inhwan Bae, Jin-Hwi Park, Hae-Gon Jeon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Non-Probability_Sampling_Network_for_Stochastic_Human_Trajectory_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_693",
+      "paper_id": "",
+      "title": "OccMamba: Semantic Occupancy Prediction with State Space Models",
+      "authors": "Heng Li, Yuenan Hou, Xiaohan Xing, Yuexin Ma, Xiao Sun, Yanyong Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_OccMamba_Semantic_Occupancy_Prediction_with_State_Space_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_307",
+      "paper_id": "",
+      "title": "OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning",
+      "authors": "Shihao Wang, Zhiding Yu, Xiaohui Jiang, Shiyi Lan, Min Shi, Nadine Chang, Jan Kautz, Ying Li, Jose M. Alvarez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_OmniDrive_A_Holistic_Vision-Language_Dataset_for_Autonomous_Driving_with_Counterfactual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1912",
+      "paper_id": "",
+      "title": "On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles",
+      "authors": "Qingzhao Zhang, Shengtuo Hu, Jiachen Sun, Qi Alfred Chen, Z. Morley Mao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_On_Adversarial_Robustness_of_Trajectory_Prediction_for_Autonomous_Vehicles_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1148",
+      "paper_id": "",
+      "title": "On the Road to Portability: Compressing End-to-End Motion Planner for Autonomous Driving",
+      "authors": "Kaituo Feng, Changsheng Li, Dongchun Ren, Ye Yuan, Guoren Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Feng_On_the_Road_to_Portability_Compressing_End-to-End_Motion_Planner_for_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1936",
+      "paper_id": "",
+      "title": "ONCE-3DLanes: Building Monocular 3D Lane Detection",
+      "authors": "Fan Yan, Ming Nie, Xinyue Cai, Jianhua Han, Hang Xu, Zhen Yang, Chaoqiang Ye, Yanwei Fu, Michael Bi Mi, Li Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_ONCE-3DLanes_Building_Monocular_3D_Lane_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_847",
+      "paper_id": "",
+      "title": "One is Plenty: A Polymorphic Feature Interpreter for Immutable Heterogeneous Collaborative Perception",
+      "authors": "Yuchen Xia, Quan Yuan, Guiyang Luo, Xiaoyuan Fu, Yang Li, Xuanhan Zhu, Tianyou Luo, Siheng Chen, Jinglin Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_One_is_Plenty_A_Polymorphic_Feature_Interpreter_for_Immutable_Heterogeneous_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_33",
+      "paper_id": "",
+      "title": "OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising",
+      "authors": "Haichao Zhang, Yi Xu, Hongsheng Lu, Takayuki Shimizu, Yun Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_OOSTraj_Out-of-Sight_Trajectory_Prediction_With_Vision-Positioning_Denoising_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2101",
+      "paper_id": "",
+      "title": "Outdoor Scene Extrapolation with Hierarchical Generative Cellular Automata",
+      "authors": "Dongsu Zhang, Francis Williams, Zan Gojcic, Karsten Kreis, Sanja Fidler, Young Min Kim, Amlan Kar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Outdoor_Scene_Extrapolation_with_Hierarchical_Generative_Cellular_Automata_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1930",
+      "paper_id": "",
+      "title": "Panacea: Panoramic and Controllable Video Generation for Autonomous Driving",
+      "authors": "Yuqing Wen, Yucheng Zhao, Yingfei Liu, Fan Jia, Yanhui Wang, Chong Luo, Chi Zhang, Tiancai Wang, Xiaoyan Sun, Xiangyu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_Panacea_Panoramic_and_Controllable_Video_Generation_for_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1804",
+      "paper_id": "",
+      "title": "PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation",
+      "authors": "Yuqi Wang, Yuntao Chen, Xingyu Liao, Lue Fan, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_PanoOcc_Unified_Occupancy_Representation_for_Camera-based_3D_Panoptic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_195",
+      "paper_id": "",
+      "title": "Panoptic Segmentation Forecasting",
+      "authors": "Colin Graber, Grace Tsai, Michael Firman, Gabriel Brostow, Alexander G. Schwing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Graber_Panoptic_Segmentation_Forecasting_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2386",
+      "paper_id": "",
+      "title": "PARA-Drive: Parallelized Architecture for Real-time Autonomous Driving",
+      "authors": "Xinshuo Weng, Boris Ivanovic, Yan Wang, Yue Wang, Marco Pavone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Weng_PARA-Drive_Parallelized_Architecture_for_Real-time_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_197",
+      "paper_id": "",
+      "title": "Pedestrian and Ego-Vehicle Trajectory Prediction From Monocular Camera",
+      "authors": "Lukas Neumann, Andrea Vedaldi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Neumann_Pedestrian_and_Ego-Vehicle_Trajectory_Prediction_From_Monocular_Camera_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_228",
+      "paper_id": "",
+      "title": "Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment",
+      "authors": "Hiromu Taketsugu, Takeru Oba, Takahiro Maeda, Shohei Nobuhara, Norimichi Ukita",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Taketsugu_Physical_Plausibility-aware_Trajectory_Prediction_via_Locomotion_Embodiment_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1793",
+      "paper_id": "",
+      "title": "Pix2map: Cross-Modal Retrieval for Inferring Street Maps From Images",
+      "authors": "Xindi Wu, KwunFung Lau, Francesco Ferroni, Aljoša Ošep, Deva Ramanan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Pix2map_Cross-Modal_Retrieval_for_Inferring_Street_Maps_From_Images_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1677",
+      "paper_id": "",
+      "title": "Planning-Oriented Autonomous Driving",
+      "authors": "Yihan Hu, Jiazhi Yang, Li Chen, Keyu Li, Chonghao Sima, Xizhou Zhu, Siqi Chai, Senyao Du, Tianwei Lin, Wenhai Wang, Lewei Lu, Xiaosong Jia, Qiang Liu, Jifeng Dai, Yu Qiao, Hongyang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_927",
+      "paper_id": "",
+      "title": "Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting",
+      "authors": "Tarasha Khurana, Peiyun Hu, David Held, Deva Ramanan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Khurana_Point_Cloud_Forecasting_as_a_Proxy_for_4D_Occupancy_Forecasting_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2288",
+      "paper_id": "",
+      "title": "Poly-Autoregressive Prediction for Modeling Interactions",
+      "authors": "Neerja Thakkar, Tara Sadjadpour, Jathushan Rajasegeran, Shiry Ginosar, Jitendra Malik",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Thakkar_Poly-Autoregressive_Prediction_for_Modeling_Interactions_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2167",
+      "paper_id": "",
+      "title": "Producing and Leveraging Online Map Uncertainty in Trajectory Prediction",
+      "authors": "Xunjiang Gu, Guanyu Song, Igor Gilitschenski, Marco Pavone, Boris Ivanovic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Producing_and_Leveraging_Online_Map_Uncertainty_in_Trajectory_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_876",
+      "paper_id": "",
+      "title": "Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-View Transformation",
+      "authors": "Weixiang Yang, Qi Li, Wenxi Liu, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Projecting_Your_View_Attentively_Monocular_Road_Scene_Layout_Estimation_via_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_972",
+      "paper_id": "",
+      "title": "ProphNet: Efficient Agent-Centric Motion Forecasting With Anchor-Informed Proposals",
+      "authors": "Xishun Wang, Tong Su, Fang Da, Xiaodong Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_ProphNet_Efficient_Agent-Centric_Motion_Forecasting_With_Anchor-Informed_Proposals_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1492",
+      "paper_id": "",
+      "title": "Quantifying Uncertainty in Motion Prediction with Variational Bayesian Mixture",
+      "authors": "Juanwu Lu, Can Cui, Yunsheng Ma, Aniket Bera, Ziran Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Quantifying_Uncertainty_in_Motion_Prediction_with_Variational_Bayesian_Mixture_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_794",
+      "paper_id": "",
+      "title": "Query-Centric Trajectory Prediction",
+      "authors": "Zikang Zhou, Jianping Wang, Yung-Hui Li, Yu-Kai Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1821",
+      "paper_id": "",
+      "title": "RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception",
+      "authors": "Ruiyang Hao, Siqi Fan, Yingru Dai, Zhenlin Zhang, Chenxi Li, Yuntian Wang, Haibao Yu, Wenxian Yang, Jirui Yuan, Zaiqing Nie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hao_RCooper_A_Real-world_Large-scale_Dataset_for_Roadside_Cooperative_Perception_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2262",
+      "paper_id": "",
+      "title": "RCP-Bench: Benchmarking Robustness for Collaborative Perception Under Diverse Corruptions",
+      "authors": "Shihang Du, Sanqing Qu, Tianhang Wang, Xudong Zhang, Yunwei Zhu, Jian Mao, Fan Lu, Qiao Lin, Guang Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Du_RCP-Bench_Benchmarking_Robustness_for_Collaborative_Perception_Under_Diverse_Corruptions_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1682",
+      "paper_id": "",
+      "title": "Real-Time Object Detection for Streaming Perception",
+      "authors": "Jinrong Yang, Songtao Liu, Zeming Li, Xiaoping Li, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Real-Time_Object_Detection_for_Streaming_Perception_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2061",
+      "paper_id": "",
+      "title": "ReasonNet: End-to-End Driving With Temporal and Global Reasoning",
+      "authors": "Hao Shao, Letian Wang, Ruobing Chen, Steven L. Waslander, Hongsheng Li, Yu Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shao_ReasonNet_End-to-End_Driving_With_Temporal_and_Global_Reasoning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2324",
+      "paper_id": "",
+      "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration",
+      "authors": "Chaojun Ni, Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, Wenkang Qin, Guan Huang, Chen Liu, Yuyin Chen, Yida Wang, Xueyang Zhang, Yifei Zhan, Kun Zhan, Peng Jia, Xianpeng Lang, Xingang Wang, Wenjun Mei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_ReconDreamer_Crafting_World_Models_for_Driving_Scene_Reconstruction_via_Online_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_223",
+      "paper_id": "",
+      "title": "Remember Intentions: Retrospective-Memory-Based Trajectory Prediction",
+      "authors": "Chenxin Xu, Weibo Mao, Wenjun Zhang, Siheng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Remember_Intentions_Retrospective-Memory-Based_Trajectory_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1135",
+      "paper_id": "",
+      "title": "Rethinking Efficient Lane Detection via Curve Modeling",
+      "authors": "Zhengyang Feng, Shaohua Guo, Xin Tan, Ke Xu, Min Wang, Lizhuang Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Rethinking_Efficient_Lane_Detection_via_Curve_Modeling_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2424",
+      "paper_id": "",
+      "title": "Rethinking Lanes and Points in Complex Scenarios for Monocular 3D Lane Detection",
+      "authors": "Yifan Chang, Junjie Huang, Xiaofeng Wang, Yun Ye, Zhujin Liang, Yi Shan, Dalong Du, Xingang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chang_Rethinking_Lanes_and_Points_in_Complex_Scenarios_for_Monocular_3D_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1935",
+      "paper_id": "",
+      "title": "Rethinking Temporal Fusion with a Unified Gradient Descent View for 3D Semantic Occupancy Prediction",
+      "authors": "Dubing Chen, Huan Zheng, Jin Fang, Xingping Dong, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Rethinking_Temporal_Fusion_with_a_Unified_Gradient_Descent_View_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2803",
+      "paper_id": "",
+      "title": "S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation",
+      "authors": "Yichen Xie, Runsheng Xu, Tong He, Jyh-Jing Hwang, Katie Luo, Jingwei Ji, Hubert Lin, Letian Chen, Yiren Lu, Zhaoqi Leng, Dragomir Anguelov, Mingxing Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_S4-Driver_Scalable_Self-Supervised_Driving_Multimodal_Large_Language_Model_with_Spatio-Temporal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_94",
+      "paper_id": "",
+      "title": "Safe Local Motion Planning With Self-Supervised Freespace Forecasting",
+      "authors": "Peiyun Hu, Aaron Huang, John Dolan, David Held, Deva Ramanan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Safe_Local_Motion_Planning_With_Self-Supervised_Freespace_Forecasting_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2287",
+      "paper_id": "",
+      "title": "Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments",
+      "authors": "Luke Rowe, Roger Girgis, Anthony Gosselin, Liam Paull, Christopher Pal, Felix Heide",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Rowe_Scenario_Dreamer_Vectorized_Latent_Diffusion_for_Generating_Driving_Simulation_Environments_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_851",
+      "paper_id": "",
+      "title": "SceneCrafter: Controllable Multi-View Driving Scene Editing",
+      "authors": "Zehao Zhu, Yuliang Zou, Chiyu Max Jiang, Bo Sun, Vincent Casser, Xiukun Huang, Jiahao Wang, Zhenpei Yang, Ruiqi Gao, Leonidas Guibas, Mingxing Tan, Dragomir Anguelov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_SceneCrafter_Controllable_Multi-View_Driving_Scene_Editing_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2245",
+      "paper_id": "",
+      "title": "SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model",
+      "authors": "Shuhan Tan, John Lambert, Hong Jeon, Sakshum Kulshrestha, Yijing Bai, Jing Luo, Dragomir Anguelov, Mingxing Tan, Chiyu Max Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_SceneDiffuser_City-Scale_Traffic_Simulation_via_a_Generative_World_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_55",
+      "paper_id": "",
+      "title": "SceneGen: Learning To Generate Realistic Traffic Scenes",
+      "authors": "Shuhan Tan, Kelvin Wong, Shenlong Wang, Sivabalan Manivasagam, Mengye Ren, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_SceneGen_Learning_To_Generate_Realistic_Traffic_Scenes_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1677",
+      "paper_id": "",
+      "title": "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning",
+      "authors": "Yuxiao Chen, Boris Ivanovic, Marco Pavone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1316",
+      "paper_id": "",
+      "title": "SDGOCC: Semantic and Depth-Guided Bird's-Eye View Transformation for 3D Multimodal Occupancy Prediction",
+      "authors": "ZaiPeng Duan, ChenXu Dang, Xuzhong Hu, Pei An, Junfeng Ding, Jie Zhan, YunBiao Xu, Jie Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Duan_SDGOCC_Semantic_and_Depth-Guided_Birds-Eye_View_Transformation_for_3D_Multimodal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_307",
+      "paper_id": "",
+      "title": "Self-Supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map",
+      "authors": "Elmira Amirloo, Mohsen Rohani, Ershad Banijamali, Jun Luo, Pascal Poupart",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Amirloo_Self-Supervised_Simultaneous_Multi-Step_Prediction_of_Road_Dynamics_and_Cost_Map_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1615",
+      "paper_id": "",
+      "title": "SelfD: Self-Learning Large-Scale Driving Policies From the Web",
+      "authors": "Jimuyang Zhang, Ruizhao Zhu, Eshed Ohn-Bar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_SelfD_Self-Learning_Large-Scale_Driving_Policies_From_the_Web_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2236",
+      "paper_id": "",
+      "title": "SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction",
+      "authors": "Yuanhui Huang, Wenzhao Zheng, Borui Zhang, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_SelfOcc_Self-Supervised_Vision-Based_3D_Occupancy_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1452",
+      "paper_id": "",
+      "title": "SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
+      "authors": "Liushuai Shi, Le Wang, Chengjiang Long, Sanping Zhou, Mo Zhou, Zhenxing Niu, Gang Hua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1489",
+      "paper_id": "",
+      "title": "Shared Cross-Modal Trajectory Prediction for Autonomous Driving",
+      "authors": "Chiho Choi, Joon Hee Choi, Jiachen Li, Srikanth Malla",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1095",
+      "paper_id": "",
+      "title": "Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations",
+      "authors": "Ahmad Rahimi, Po-Chien Luan, Yuejiang Liu, Frano Rajič, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Rahimi_Sim-to-Real_Causal_Transfer_A_Metric_Learning_Approach_to_Causally-Aware_Interaction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2539",
+      "paper_id": "",
+      "title": "SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment",
+      "authors": "Katrin Renz, Long Chen, Elahe Arani, Oleg Sinavski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Renz_SimLingo_Vision-Only_Closed-Loop_Autonomous_Driving_with_Language-Action_Alignment_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1503",
+      "paper_id": "",
+      "title": "SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model",
+      "authors": "Inhwan Bae, Young-Jae Park, Hae-Gon Jeon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bae_SingularTrajectory_Universal_Trajectory_Predictor_Using_Diffusion_Model_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_431",
+      "paper_id": "",
+      "title": "SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction",
+      "authors": "Yang Zhou, Hao Shao, Letian Wang, Steven L. Waslander, Hongsheng Li, Yu Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_SmartRefine_A_Scenario-Adaptive_Refinement_Framework_for_Efficient_Motion_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1305",
+      "paper_id": "",
+      "title": "SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction",
+      "authors": "Conghao Wong, Beihao Xia, Ziqian Zou, Yulong Wang, Xinge You",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wong_SocialCircle_Learning_the_Angle-based_Social_Interaction_Representation_for_Pedestrian_Trajectory_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2227",
+      "paper_id": "",
+      "title": "SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction",
+      "authors": "Kai Chen, Xiaodong Zhao, Yujie Huang, Guoyu Fang, Xiao Song, Ruiping Wang, Ziyuan Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SocialMOIF_Multi-Order_Intention_Fusion_for_Pedestrian_Trajectory_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_606",
+      "paper_id": "",
+      "title": "SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving",
+      "authors": "Xuesong Chen, Linjiang Huang, Tao Ma, Rongyao Fang, Shaoshuai Shi, Hongsheng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_SOLVE_Synergy_of_Language-Vision_and_End-to-End_Networks_for_Autonomous_Driving_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_553",
+      "paper_id": "",
+      "title": "SparseAlign: a Fully Sparse Framework for Cooperative Object Detection",
+      "authors": "Yunshuang Yuan, Yan Xia, Daniel Cremers, Monika Sester",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yuan_SparseAlign_a_Fully_Sparse_Framework_for_Cooperative_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_444",
+      "paper_id": "",
+      "title": "SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction",
+      "authors": "Pin Tang, Zhongdao Wang, Guoqing Wang, Jilai Zheng, Xiangxuan Ren, Bailan Feng, Chao Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_SparseOcc_Rethinking_Sparse_Latent_Representation_for_Vision-Based_Semantic_Occupancy_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1830",
+      "paper_id": "",
+      "title": "Spatiotemporal Decoupling for Efficient Vision-Based Occupancy Forecasting",
+      "authors": "Jingyi Xu, Xieyuanli Chen, Junyi Ma, Jiawei Huang, Jintao Xu, Yue Wang, Ling Pei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Spatiotemporal_Decoupling_for_Efficient_Vision-Based_Occupancy_Forecasting_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1671",
+      "paper_id": "",
+      "title": "STCOcc: Sparse Spatial-Temporal Cascade Renovation for 3D Occupancy and Scene Flow Prediction",
+      "authors": "Zhimin Liao, Ping Wei, Shuaijia Chen, Haoxuan Wang, Ziyang Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liao_STCOcc_Sparse_Spatial-Temporal_Cascade_Renovation_for_3D_Occupancy_and_Scene_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_406",
+      "paper_id": "",
+      "title": "Stimulus Verification Is a Universal and Effective Sampler in Multi-Modal Human Trajectory Prediction",
+      "authors": "Jianhua Sun, Yuxuan Li, Liang Chai, Cewu Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Stimulus_Verification_Is_a_Universal_and_Effective_Sampler_in_Multi-Modal_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_38",
+      "paper_id": "",
+      "title": "Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion",
+      "authors": "Tianpei Gu, Guangyi Chen, Junlong Li, Chunze Lin, Yongming Rao, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1163",
+      "paper_id": "",
+      "title": "StreamingFlow: Streaming Occupancy Forecasting with Asynchronous Multi-modal Data Streams via Neural Ordinary Differential Equation",
+      "authors": "Yining Shi, Kun Jiang, Ke Wang, Jiusi Li, Yunlong Wang, Mengmeng Yang, Diange Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_StreamingFlow_Streaming_Occupancy_Forecasting_with_Asynchronous_Multi-modal_Data_Streams_via_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_933",
+      "paper_id": "",
+      "title": "StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models",
+      "authors": "Yunzhi Yan, Zhen Xu, Haotong Lin, Haian Jin, Haoyu Guo, Yida Wang, Kun Zhan, Xianpeng Lang, Hujun Bao, Xiaowei Zhou, Sida Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_StreetCrafter_Street_View_Synthesis_with_Controllable_Video_Diffusion_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2097",
+      "paper_id": "",
+      "title": "SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field",
+      "authors": "Lizhe Liu, Bohua Wang, Hongwei Xie, Daqi Liu, Li Liu, Zhiqiang Tian, Kuiyuan Yang, Bing Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_SurroundSDF_Implicit_3D_Scene_Understanding_Based_on_Signed_Distance_Field_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1208",
+      "paper_id": "",
+      "title": "T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving",
+      "authors": "Changsheng Lv, Mengshi Qi, Liang Liu, Huadong Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lv_T2SG_Traffic_Topology_Scene_Graph_for_Topology_Reasoning_in_Autonomous_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1116",
+      "paper_id": "",
+      "title": "T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory",
+      "authors": "Daehee Park, Jaeseok Jeong, Sung-Hoon Yoon, Jaewoo Jeong, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Park_T4P_Test-Time_Training_of_Trajectory_Prediction_via_Masked_Autoencoder_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1298",
+      "paper_id": "",
+      "title": "TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving",
+      "authors": "Shaoheng Fang, Zi Wang, Yiqi Zhong, Junhao Ge, Siheng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_TBP-Former_Learning_Temporal_Birds-Eye-View_Pyramid_for_Joint_Perception_and_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1307",
+      "paper_id": "",
+      "title": "Think Twice Before Driving: Towards Scalable Decoders for End-to-End Autonomous Driving",
+      "authors": "Xiaosong Jia, Penghao Wu, Li Chen, Jiangwei Xie, Conghui He, Junchi Yan, Hongyang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jia_Think_Twice_Before_Driving_Towards_Scalable_Decoders_for_End-to-End_Autonomous_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2149",
+      "paper_id": "",
+      "title": "TopDiG: Class-Agnostic Topological Directional Graph Extraction From Remote Sensing Images",
+      "authors": "Bingnan Yang, Mi Zhang, Zhan Zhang, Zhili Zhang, Xiangyun Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_TopDiG_Class-Agnostic_Topological_Directional_Graph_Extraction_From_Remote_Sensing_Images_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_805",
+      "paper_id": "",
+      "title": "Topology Preserving Local Road Network Estimation From Single Onboard Camera Image",
+      "authors": "Yigit Baran Can, Alexander Liniger, Danda Pani Paudel, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Can_Topology_Preserving_Local_Road_Network_Estimation_From_Single_Onboard_Camera_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_439",
+      "paper_id": "",
+      "title": "Towards Driving-Oriented Metric for Lane Detection Models",
+      "authors": "Takami Sato, Qi Alfred Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sato_Towards_Driving-Oriented_Metric_for_Lane_Detection_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1567",
+      "paper_id": "",
+      "title": "Towards Generalizable Trajectory Prediction using Dual-Level Representation Learning and Adaptive Prompting",
+      "authors": "Kaouther Messaoud, Matthieu Cord, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Messaoud_Towards_Generalizable_Trajectory_Prediction_using_Dual-Level_Representation_Learning_and_Adaptive_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1594",
+      "paper_id": "",
+      "title": "Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective",
+      "authors": "Yuejiang Liu, Riccardo Cadei, Jonas Schweizer, Sherwin Bahmani, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Robust_and_Adaptive_Motion_Forecasting_A_Causal_Representation_Perspective_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1118",
+      "paper_id": "",
+      "title": "Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method",
+      "authors": "Pan Yin, Kaiyu Li, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_Towards_Satellite_Image_Road_Graph_Extraction_A_Global-Scale_Dataset_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1146",
+      "paper_id": "",
+      "title": "TPCN: Temporal Point Cloud Networks for Motion Forecasting",
+      "authors": "Maosheng Ye, Tongyi Cao, Qifeng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_TPCN_Temporal_Point_Cloud_Networks_for_Motion_Forecasting_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_430",
+      "paper_id": "",
+      "title": "Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion",
+      "authors": "Davis Rempe, Zhengyi Luo, Xue Bin Peng, Ye Yuan, Kris Kitani, Karsten Kreis, Sanja Fidler, Or Litany",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Rempe_Trace_and_Pace_Controllable_Pedestrian_Animation_via_Guided_Trajectory_Diffusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_370",
+      "paper_id": "",
+      "title": "TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception",
+      "authors": "Zhiying Song, Lei Yang, Fuxi Wen, Jun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_TraF-Align_Trajectory-aware_Feature_Alignment_for_Asynchronous_Multi-agent_Perception_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1061",
+      "paper_id": "",
+      "title": "TrafficSim: Learning To Simulate Realistic Multi-Agent Behaviors",
+      "authors": "Simon Suo, Sebastian Regalado, Sergio Casas, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Suo_TrafficSim_Learning_To_Simulate_Realistic_Multi-Agent_Behaviors_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2249",
+      "paper_id": "",
+      "title": "Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM",
+      "authors": "Yizhou Huang, Yihua Cheng, Kezhi Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Trajectory_Mamba_Efficient_Attention-Mamba_Forecasting_Model_Based_on_Selective_SSM_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_358",
+      "paper_id": "",
+      "title": "Trajectory Prediction With Latent Belief Energy-Based Model",
+      "authors": "Bo Pang, Tianyang Zhao, Xu Xie, Ying Nian Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Trajectory_Prediction_With_Latent_Belief_Energy-Based_Model_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1949",
+      "paper_id": "",
+      "title": "Transfer Your Perspective: Controllable 3D Generation from Any Viewpoint in a Driving Scene",
+      "authors": "Tai-Yu Pan, Sooyoung Jeon, Mengdi Fan, Jinsu Yoo, Zhenyang Feng, Mark Campbell, Kilian Q. Weinberger, Bharath Hariharan, Wei-Lun Chao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Pan_Transfer_Your_Perspective_Controllable_3D_Generation_from_Any_Viewpoint_in_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1750",
+      "paper_id": "",
+      "title": "TUMTraf V2X Cooperative Perception Dataset",
+      "authors": "Walter Zimmer, Gerhard Arya Wardana, Suren Sritharan, Xingcheng Zhou, Rui Song, Alois C. Knoll",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zimmer_TUMTraf_V2X_Cooperative_Perception_Dataset_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_963",
+      "paper_id": "",
+      "title": "Uncertainty-Guided Never-Ending Learning to Drive",
+      "authors": "Lei Lai, Eshed Ohn-Bar, Sanjay Arora, John Seon Keun Yi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_Uncertainty-Guided_Never-Ending_Learning_to_Drive_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_816",
+      "paper_id": "",
+      "title": "Uncertainty-Instructed Structure Injection for Generalizable HD Map Construction",
+      "authors": "Xiaolu Liu, Ruizi Yang, Song Wang, Wentong Li, Junbo Chen, Jianke Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Uncertainty-Instructed_Structure_Injection_for_Generalizable_HD_Map_Construction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_171",
+      "paper_id": "",
+      "title": "Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction",
+      "authors": "Yi Xu, Armin Bazarjani, Hyung-gun Chi, Chiho Choi, Yun Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Uncovering_the_Missing_Pattern_Unified_Framework_Towards_Trajectory_Imputation_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2081",
+      "paper_id": "",
+      "title": "Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling",
+      "authors": "Guillem Capellera, Antonio Rubio, Luis Ferraz, Antonio Agudo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Capellera_Unified_Uncertainty-Aware_Diffusion_for_Multi-Agent_Trajectory_Modeling_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1115",
+      "paper_id": "",
+      "title": "UniScene: Unified Occupancy-centric Driving Scene Generation",
+      "authors": "Bohan Li, Jiazhe Guo, Hongsi Liu, Yingshuang Zou, Yikang Ding, Xiwu Chen, Hu Zhu, Feiyang Tan, Chi Zhang, Tiancai Wang, Shuchang Zhou, Li Zhang, Xiaojuan Qi, Hao Zhao, Mu Yang, Wenjun Zeng, Xin Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_UniScene_Unified_Occupancy-centric_Driving_Scene_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_79",
+      "paper_id": "",
+      "title": "UniSim: A Neural Closed-Loop Sensor Simulator",
+      "authors": "Ze Yang, Yun Chen, Jingkang Wang, Sivabalan Manivasagam, Wei-Chiu Ma, Anqi Joyce Yang, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_UniSim_A_Neural_Closed-Loop_Sensor_Simulator_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2001",
+      "paper_id": "",
+      "title": "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
+      "authors": "Ben Agro, Quinlan Sykora, Sergio Casas, Thomas Gilles, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Agro_UnO_Unsupervised_Occupancy_Fields_for_Perception_and_Forecasting_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_653",
+      "paper_id": "",
+      "title": "Unsupervised Sampling Promoting for Stochastic Human Trajectory Prediction",
+      "authors": "Guangyi Chen, Zhenhao Chen, Shunxing Fan, Kun Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Unsupervised_Sampling_Promoting_for_Stochastic_Human_Trajectory_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_791",
+      "paper_id": "",
+      "title": "UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation",
+      "authors": "Yichong Lu, Yichi Cai, Shangzhan Zhang, Hongyu Zhou, Haoji Hu, Huimin Yu, Andreas Geiger, Yiyi Liao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_UrbanCAD_Towards_Highly_Controllable_and_Photorealistic_3D_Vehicles_for_Urban_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2268",
+      "paper_id": "",
+      "title": "V2V4Real: A Real-World Large-Scale Dataset for Vehicle-to-Vehicle Cooperative Perception",
+      "authors": "Runsheng Xu, Xin Xia, Jinlong Li, Hanzhao Li, Shuo Zhang, Zhengzhong Tu, Zonglin Meng, Hao Xiang, Xiaoyu Dong, Rui Song, Hongkai Yu, Bolei Zhou, Jiaqi Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_V2V4Real_A_Real-World_Large-Scale_Dataset_for_Vehicle-to-Vehicle_Cooperative_Perception_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1216",
+      "paper_id": "",
+      "title": "V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting",
+      "authors": "Haibao Yu, Wenxian Yang, Hongzhi Ruan, Zhenwei Yang, Yingjuan Tang, Xu Gao, Xin Hao, Yifeng Shi, Yifeng Pan, Ning Sun, Juan Song, Jirui Yuan, Ping Luo, Zaiqing Nie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_V2X-Seq_A_Large-Scale_Sequential_Dataset_for_Vehicle-Infrastructure_Cooperative_Perception_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_301",
+      "paper_id": "",
+      "title": "Vehicle Trajectory Prediction Works, but Not Everywhere",
+      "authors": "Mohammadhossein Bahari, Saeed Saadatnejad, Ahmad Rahimi, Mohammad Shaverdikondori, Amir Hossein Shahidzadeh, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Bahari_Vehicle_Trajectory_Prediction_Works_but_Not_Everywhere_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2271",
+      "paper_id": "",
+      "title": "ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries",
+      "authors": "Junru Gu, Chenxu Hu, Tianyuan Zhang, Xuanyao Chen, Yilun Wang, Yue Wang, Hang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1823",
+      "paper_id": "",
+      "title": "Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving",
+      "authors": "Xiwen Liang, Minzhe Niu, Jianhua Han, Hang Xu, Chunjing Xu, Xiaodan Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liang_Visual_Exemplar_Driven_Task-Prompting_for_Unified_Perception_in_Autonomous_Driving_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1121",
+      "paper_id": "",
+      "title": "Visual Point Cloud Forecasting enables Scalable Autonomous Driving",
+      "authors": "Zetong Yang, Li Chen, Yanan Sun, Hongyang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_241",
+      "paper_id": "",
+      "title": "VLP: Vision Language Planning for Autonomous Driving",
+      "authors": "Chenbin Pan, Burhaneddin Yaman, Tommaso Nesti, Abhirup Mallik, Alessandro G Allievi, Senem Velipasalar, Liu Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_VLP_Vision_Language_Planning_for_Autonomous_Driving_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_650",
+      "paper_id": "",
+      "title": "VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction",
+      "authors": "Ziyue Zhu, Shenlong Wang, Jin Xie, Jiang-jiang Liu, Jingdong Wang, Jian Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_VoxelSplat_Dynamic_Gaussian_Splatting_as_an_Effective_Loss_for_Occupancy_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_820",
+      "paper_id": "",
+      "title": "Whose Track Is It Anyway? Improving Robustness to Tracking Errors With Affinity-Based Trajectory Prediction",
+      "authors": "Xinshuo Weng, Boris Ivanovic, Kris Kitani, Marco Pavone",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Weng_Whose_Track_Is_It_Anyway_Improving_Robustness_to_Tracking_Errors_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    }
+  ]
+}

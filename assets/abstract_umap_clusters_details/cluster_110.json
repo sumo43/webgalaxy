@@ -1,0 +1,1197 @@
+{
+  "cluster_id": 110,
+  "papers": [
+    {
+      "id": "acl25_483",
+      "paper_id": "",
+      "title": "A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models",
+      "authors": "Jiesong Liu, Brian Park, Xipeng Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.482.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_141",
+      "paper_id": "",
+      "title": "A Survey of Post-Training Scaling in Large Language Models",
+      "authors": "Hanyu Lai, Xiao Liu, Junjie Gao, Jiale Cheng, Zehan Qi, Yifan Xu, Shuntian Yao, Dan Zhang, Jinhua Du, Zhenyu Hou, Xin Lv, Minlie Huang, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.140.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_468",
+      "paper_id": "",
+      "title": "AdaDHP: Fine-Grained Fine-Tuning via Dual Hadamard Product and Adaptive Parameter Selection",
+      "authors": "Han Liu, Changya Li, Xiaotong Zhang, Feng Zhang, Fenglong Ma, Wei Wang, Hong Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.467.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_720",
+      "paper_id": "",
+      "title": "Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models",
+      "authors": "Naibin Gu, Peng Fu, Xiyu Liu, Ke Ma, Zheng Lin, Weiping Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.719.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_727",
+      "paper_id": "",
+      "title": "Advancing Parameter Efficiency in Fine-tuning via Representation Editing",
+      "authors": "Muling Wu, Wenhao Liu, Xiaohua Wang, Tianlong Li, Changze Lv, Zixuan Ling, Zhu JianHao, Cenyuan Zhang, Xiaoqing Zheng, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.726.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_179",
+      "paper_id": "",
+      "title": "An Empirical Study on Hyperparameter Optimization for Fine-Tuning Pre-trained Language Models",
+      "authors": "Xueqing Liu, Chi Wang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.178.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_817",
+      "paper_id": "",
+      "title": "Automatic Expert Discovery in LLM Upcycling via Sparse Interpolated Mixture-of-Experts",
+      "authors": "Shengzhuang Chen, Ying Wei, Jonathan Richard Schwarz",
+      "paper_url": "https://aclanthology.org/2025.acl-long.816.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_401",
+      "paper_id": "",
+      "title": "AutoTinyBERT: Automatic Hyper-parameter Optimization for Efficient Pre-trained Language Models",
+      "authors": "Yichun Yin, Cheng Chen, Lifeng Shang, Xin Jiang, Xiao Chen, Qun Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.400.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_583",
+      "paper_id": "",
+      "title": "BeamLoRA: Beam-Constraint Low-Rank Adaptation",
+      "authors": "Naibin Gu, Zhenyu Zhang, Xiyu Liu, Peng Fu, Zheng Lin, Shuohuan Wang, Yu Sun, Hua Wu, Weiping Wang, Haifeng Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.582.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_152",
+      "paper_id": "",
+      "title": "bert2BERT: Towards Reusable Pretrained Language Models",
+      "authors": "Cheng Chen, Yichun Yin, Lifeng Shang, Xin Jiang, Yujia Qin, Fengyu Wang, Zhi Wang, Xiao Chen, Zhiyuan Liu, Qun Liu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.151.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1573",
+      "paper_id": "",
+      "title": "Beyond Output Matching: Bidirectional Alignment for Enhanced In-Context Learning",
+      "authors": "Chengwei Qin, Wenhan Xia, Fangkai Jiao, Chen Chen, Yuchen Hu, Bosheng Ding, Ruirui Chen, Shafiq Joty",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1573.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_7",
+      "paper_id": "",
+      "title": "Binary and Ternary Natural Language Generation",
+      "authors": "Zechun Liu, Barlas Oguz, Aasish Pappu, Yangyang Shi, Raghuraman Krishnamoorthi",
+      "paper_url": "https://aclanthology.org/2023.acl-long.5.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_335",
+      "paper_id": "",
+      "title": "BinaryBERT: Pushing the Limit of BERT Quantization",
+      "authors": "Haoli Bai, Wei Zhang, Lu Hou, Lifeng Shang, Jin Jin, Xin Jiang, Qun Liu, Michael Lyu, Irwin King",
+      "paper_url": "https://aclanthology.org/2021.acl-long.334.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_8",
+      "paper_id": "",
+      "title": "BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation",
+      "authors": "DaYou Du, Yijia Zhang, Shijie Cao, Jiaqi Guo, Ting Cao, Xiaowen Chu, Ningyi Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.7.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_458",
+      "paper_id": "",
+      "title": "Bitnet.cpp: Efficient Edge Inference for Ternary LLMs",
+      "authors": "Jinheng Wang, Hansong Zhou, Ting Song, Shijie Cao, Yan Xia, Ting Cao, Jianyu Wei, Shuming Ma, Hongyu Wang, Furu Wei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.457.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1422",
+      "paper_id": "",
+      "title": "Bypass Back-propagation: Optimization-based Structural Pruning for Large Language Models via Policy Gradient",
+      "authors": "Yuan Gao, Zujing Liu, Weizhong Zhang, Bo Du, Gui-Song Xia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1421.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_454",
+      "paper_id": "",
+      "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+      "authors": "Artidoro Pagnoni, Ramakanth Pasunuru, Pedro Rodriguez, John Nguyen, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason E Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srini Iyer",
+      "paper_url": "https://aclanthology.org/2025.acl-long.453.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_245",
+      "paper_id": "",
+      "title": "CAME: Confidence-guided Adaptive Memory Efficient Optimization",
+      "authors": "Yang Luo, Xiaozhe Ren, Zangwei Zheng, Zhuo Jiang, Xin Jiang, Yang You",
+      "paper_url": "https://aclanthology.org/2023.acl-long.243.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_496",
+      "paper_id": "",
+      "title": "CAMERO: Consistency Regularized Ensemble of Perturbed Language Models with Weight Sharing",
+      "authors": "Chen Liang, Pengcheng He, Yelong Shen, Weizhu Chen, Tuo Zhao",
+      "paper_url": "https://aclanthology.org/2022.acl-long.495.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1526",
+      "paper_id": "",
+      "title": "CLaSp: In-Context Layer Skip for Self-Speculative Decoding",
+      "authors": "Longze Chen, Renke Shan, Huiming Wang, Lu Wang, Ziqiang Liu, Run Luo, Jiawei Wang, Hamid Alinejad-Rokny, Min Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1525.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_126",
+      "paper_id": "",
+      "title": "Composable Sparse Fine-Tuning for Cross-Lingual Transfer",
+      "authors": "Alan Ansell, Edoardo Ponti, Anna Korhonen, Ivan Vulić",
+      "paper_url": "https://aclanthology.org/2022.acl-long.125.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_332",
+      "paper_id": "",
+      "title": "Compression of Generative Pre-trained Language Models via Quantization",
+      "authors": "Chaofan Tao, Lu Hou, Wei Zhang, Lifeng Shang, Xin Jiang, Qun Liu, Ping Luo, Ngai Wong",
+      "paper_url": "https://aclanthology.org/2022.acl-long.331.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_722",
+      "paper_id": "",
+      "title": "Continual Gradient Low-Rank Projection Fine-Tuning for LLMs",
+      "authors": "Chenxu Wang, Yilin Lyu, Zicheng Sun, Liping Jing",
+      "paper_url": "https://aclanthology.org/2025.acl-long.721.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_279",
+      "paper_id": "",
+      "title": "CORAL: Learning Consistent Representations across Multi-step Training with Lighter Speculative Drafter",
+      "authors": "Yepeng Weng, Dianwen Mei, Huishi Qiu, Xujie Chen, Li Liu, Jiang Tian, Zhongchao Shi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.278.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_395",
+      "paper_id": "",
+      "title": "CQIL: Inference Latency Optimization with Concurrent Computation of Quasi-Independent Layers",
+      "authors": "Longwei Zou, Qingyang Wang, Han Zhao, Jiangangkong Jiangangkong, Yi Yang, Yangdong Deng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.394.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_205",
+      "paper_id": "",
+      "title": "Crayon: Customized On-Device LLM via Instant Adapter Blending and Edge-Server Hybrid Inference",
+      "authors": "Jihwan Bang, Juntae Lee, Kyuhong Shim, Seunghan Yang, Simyung Chang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.204.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_470",
+      "paper_id": "",
+      "title": "Curriculum Debiasing: Toward Robust Parameter-Efficient Fine-Tuning Against Dataset Biases",
+      "authors": "Mingyu Lee, Yeachan Kim, Wing-Lam Mok, SangKeun Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.469.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_842",
+      "paper_id": "",
+      "title": "Decoder Tuning: Efficient Language Understanding as Decoding",
+      "authors": "Ganqu Cui, Wentao Li, Ning Ding, Longtao Huang, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2023.acl-long.840.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1094",
+      "paper_id": "",
+      "title": "Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis",
+      "authors": "Junzhuo Li, Bo Wang, Xiuze Zhou, Peijie Jiang, Jia Liu, Xuming Hu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1093.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_71",
+      "paper_id": "",
+      "title": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+      "authors": "Damai Dai, Chengqi Deng, Chenggang Zhao, R.x. Xu, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y. Wu, Zhenda Xie, Y.k. Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.70.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_250",
+      "paper_id": "",
+      "title": "Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of-Expert Models",
+      "authors": "Zihan Qiu, Zeyu Huang, Bo Zheng, Kaiyue Wen, Zekun Wang, Rui Men, Ivan Titov, Dayiheng Liu, Jingren Zhou, Junyang Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.249.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_719",
+      "paper_id": "",
+      "title": "Demystifying Small Language Models for Edge Deployment",
+      "authors": "Zhenyan Lu, Xiang Li, Dongqi Cai, Rongjie Yi, Fangming Liu, Wei Liu, Jian Luan, Xiwen Zhang, Nicholas D. Lane, Mengwei Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.718.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_504",
+      "paper_id": "",
+      "title": "DenseLoRA: Dense Low-Rank Adaptation of Large Language Models",
+      "authors": "Lin Mu, Xiaoyu Wang, Li Ni, Yang Li, Zhize Wu, Peiquan Jin, Yiwen Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.503.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_624",
+      "paper_id": "",
+      "title": "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models",
+      "authors": "Junmo Kang, Wei Xu, Alan Ritter",
+      "paper_url": "https://aclanthology.org/2023.acl-long.622.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_952",
+      "paper_id": "",
+      "title": "DIVE into MoE: Diversity-Enhanced Reconstruction of Large Language Models from Dense into Mixture-of-Experts",
+      "authors": "Yuchen Feng, Bowen Shen, Naibin Gu, Jiaxuan Zhao, Peng Fu, Zheng Lin, Weiping Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.951.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_627",
+      "paper_id": "",
+      "title": "DoRA: Enhancing Parameter-Efficient Fine-Tuning with Dynamic Rank Distribution",
+      "authors": "Yulong Mao, Kaiyu Huang, Changhao Guan, Ganglin Bao, Fengran Mo, Jinan Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.626.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_608",
+      "paper_id": "",
+      "title": "Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding",
+      "authors": "Jun Zhang, Jue Wang, Huan Li, Lidan Shou, Ke Chen, Gang Chen, Sharad Mehrotra",
+      "paper_url": "https://aclanthology.org/2024.acl-long.607.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1415",
+      "paper_id": "",
+      "title": "DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization",
+      "authors": "Hexuan Deng, Wenxiang Jiao, Xuebo Liu, Jing Li, Min Zhang, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1414.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_458",
+      "paper_id": "",
+      "title": "DSEE: Dually Sparsity-embedded Efficient Tuning of Pre-trained Language Models",
+      "authors": "Xuxi Chen, Tianlong Chen, Weizhu Chen, Ahmed Hassan Awadallah, Zhangyang Wang, Yu Cheng",
+      "paper_url": "https://aclanthology.org/2023.acl-long.456.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_360",
+      "paper_id": "",
+      "title": "E-LANG: Energy-Based Joint Inferencing of Super and Swift Language Models",
+      "authors": "Mohammad Akbari, Amin Banitalebi-Dehkordi, Yong Zhang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.359.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_634",
+      "paper_id": "",
+      "title": "EAC-MoE: Expert-Selection Aware Compressor for Mixture-of-Experts Large Language Models",
+      "authors": "Yuanteng Chen, Yuantian Shao, Peisong Wang, Jian Cheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.633.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_172",
+      "paper_id": "",
+      "title": "EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets",
+      "authors": "Xiaohan Chen, Yu Cheng, Shuohang Wang, Zhe Gan, Zhangyang Wang, Jingjing Liu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.171.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1232",
+      "paper_id": "",
+      "title": "Efficient Ensemble for Fine-tuning Language Models on Multiple Datasets",
+      "authors": "Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1231.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_499",
+      "paper_id": "",
+      "title": "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+      "authors": "Mengzhao Chen, Wenqi Shao, Peng Xu, Jiahao Wang, Peng Gao, Kaipeng Zhang, Ping Luo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.498.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_419",
+      "paper_id": "",
+      "title": "Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators",
+      "authors": "Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Zhi-Yuan Xie, Zhong-Yi Lu, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.418.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1563",
+      "paper_id": "",
+      "title": "Energy Considerations of Large Language Model Inference and Efficiency Optimizations",
+      "authors": "Jared Fernandez, Clara Na, Vashisth Tiwari, Yonatan Bisk, Sasha Luccioni, Emma Strubell",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1563.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1130",
+      "paper_id": "",
+      "title": "Enhancing Chain-of-Thought Reasoning with Critical Representation Fine-tuning",
+      "authors": "Chenxi Huang, Shaotian Yan, Liang Xie, Binbin Lin, Sinan Fan, Yue Xin, Deng Cai, Chen Shen, Jieping Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1129.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_487",
+      "paper_id": "",
+      "title": "Faster Speculative Decoding via Effective Draft Decoder with Pruned Candidate Tree",
+      "authors": "Huanran Zheng, Xiaoling Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.486.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_68",
+      "paper_id": "",
+      "title": "FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Large Language Models",
+      "authors": "Raghav Singhal, Kaustubh Ponkshe, Praneeth Vepakomma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.67.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_97",
+      "paper_id": "",
+      "title": "Fine-tuning Happens in Tiny Subspaces: Exploring Intrinsic Task-specific Subspaces of Pre-trained Language Models",
+      "authors": "Zhong Zhang, Bang Liu, Junming Shao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.95.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_714",
+      "paper_id": "",
+      "title": "Flexora: Flexible Low-Rank Adaptation for Large Language Models",
+      "authors": "Chenxing Wei, Yao Shu, Ying Tiffany He, Fei Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.713.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_187",
+      "paper_id": "",
+      "title": "FoldMoE: Efficient Long Sequence MoE Training via Attention-MoE Pipelining",
+      "authors": "Guichao Zhu, Lintian Lei, Yuhao Qing, Yichao Fu, Fanxin Li, Dong Huang, Zekai Sun, Heming Cui",
+      "paper_url": "https://aclanthology.org/2025.acl-long.186.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_460",
+      "paper_id": "",
+      "title": "Forward Knows Efficient Backward Path: Saliency-Guided Memory-Efficient Fine-tuning of Large Language Models",
+      "authors": "Yeachan Kim, SangKeun Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.459.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_199",
+      "paper_id": "",
+      "title": "FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling",
+      "authors": "Weilin Zhao, Tengyu Pan, Xu Han, Yudi Zhang, Ao Sun, Yuxiang Huang, Kaihuo Zhang, Weilun Zhao, Yuxuan Li, Jie Zhou, Hao Zhou, Jianyong Wang, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.198.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_446",
+      "paper_id": "",
+      "title": "Full Parameter Fine-tuning for Large Language Models with Limited Resources",
+      "authors": "Kai Lv, Yuqing Yang, Tengxiao Liu, Qipeng Guo, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.445.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_701",
+      "paper_id": "",
+      "title": "Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning",
+      "authors": "Tuc Nguyen, Thai Le",
+      "paper_url": "https://aclanthology.org/2024.acl-long.700.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_325",
+      "paper_id": "",
+      "title": "GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs",
+      "authors": "Maxim Zhelnin, Viktor Moskvoretskii, Egor Shvetsov, Maria Krylova, Venediktov Egor, Zuev Aleksandr, Evgeny Burnaev",
+      "paper_url": "https://aclanthology.org/2025.acl-long.324.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_158",
+      "paper_id": "",
+      "title": "Gradient-based Intra-attention Pruning on Pre-trained Language Models",
+      "authors": "Ziqing Yang, Yiming Cui, Xin Yao, Shijin Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.156.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_256",
+      "paper_id": "",
+      "title": "GradOT: Training-free Gradient-preserving Offsite-tuning for Large Language Models",
+      "authors": "Kai Yao, Zhaorui Tan, Penglei Gao, Lichun Li, Kaixin Wu, Yinggui Wang, Yuan Zhao, Yixin Ji, Jianke Zhu, Wei Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.255.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_697",
+      "paper_id": "",
+      "title": "Harder Task Needs More Experts: Dynamic Routing in MoE Models",
+      "authors": "Quzhe Huang, Zhenwei An, Nan Zhuang, Mingxu Tao, Chen Zhang, Yang Jin, Kun Xu, Kun Xu, Liwei Chen, Songfang Huang, Yansong Feng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.696.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_477",
+      "paper_id": "",
+      "title": "HiFi: High-Information Attention Heads Hold for Parameter-Efficient Model Adaptation",
+      "authors": "Anchun Gui, Han Xiao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.475.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_184",
+      "paper_id": "",
+      "title": "HyPe: Better Pre-trained Language Model Fine-tuning with Hidden Representation Perturbation",
+      "authors": "Hongyi Yuan, Zheng Yuan, Chuanqi Tan, Fei Huang, Songfang Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.182.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_572",
+      "paper_id": "",
+      "title": "HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts",
+      "authors": "Hao Zhao, Zihan Qiu, Huijia Wu, Zili Wang, Zhaofeng He, Jie Fu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.571.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_772",
+      "paper_id": "",
+      "title": "IAPT: Instance-Aware Prompt Tuning for Large Language Models",
+      "authors": "Wei Zhu, Aaron Tian, Congrui Yin, Yuan Ni, Xiaoling Wang, Guotong Xie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.771.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_922",
+      "paper_id": "",
+      "title": "ImPart: Importance-Aware Delta-Sparsification for Improved Model Compression and Merging in LLMs",
+      "authors": "Yan Yang, Yixia Li, Hongru Wang, Xuetao Wei, James Jianqiao Yu, Yun Chen, Guanhua Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.921.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_613",
+      "paper_id": "",
+      "title": "Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment",
+      "authors": "Janghwan Lee, Seongmin Park, Sukjin Hong, Minsoo Kim, Du-Seong Chang, Jungwook Choi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.612.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1370",
+      "paper_id": "",
+      "title": "Inner Thinking Transformer: Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking",
+      "authors": "Yilong Chen, Junyuan Shang, Zhenyu Zhang, Yanxi Xie, Jiawei Sheng, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1369.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_569",
+      "paper_id": "",
+      "title": "Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning",
+      "authors": "Armen Aghajanyan, Sonal Gupta, Luke Zettlemoyer",
+      "paper_url": "https://aclanthology.org/2021.acl-long.568.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_762",
+      "paper_id": "",
+      "title": "IRT-Router: Effective and Interpretable Multi-LLM Routing via Item Response Theory",
+      "authors": "Wei Song, Zhenya Huang, Cheng Cheng, Weibo Gao, Bihan Xu, GuanHao Zhao, Fei Wang, Runze Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.761.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_100",
+      "paper_id": "",
+      "title": "L4Q: Parameter Efficient Quantization-Aware Fine-Tuning on Large Language Models",
+      "authors": "Hyesung Jeon, Yulhwa Kim, Jae-Joon Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.99.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_682",
+      "paper_id": "",
+      "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+      "authors": "Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agarwal, Ahmed Roman, Ahmed Aly, Beidi Chen, Carole-Jean Wu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.681.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_223",
+      "paper_id": "",
+      "title": "Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning",
+      "authors": "Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, Chang Zong, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.222.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_435",
+      "paper_id": "",
+      "title": "LEMON: Reviving Stronger and Smaller LMs from Larger LMs with Linear Parameter Fusion",
+      "authors": "Yilong Chen, Junyuan Shang, Zhenyu Zhang, Shiyao Cui, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.434.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1096",
+      "paper_id": "",
+      "title": "LESA: Learnable LLM Layer Scaling-Up",
+      "authors": "Yifei Yang, Zouying Cao, Xinbei Ma, Yao Yao, Zhi Chen, Libo Qin, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1095.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_879",
+      "paper_id": "",
+      "title": "Less, but Better: Efficient Multilingual Expansion for LLMs via Layer-wise Mixture-of-Experts",
+      "authors": "Xue Zhang, Yunlong Liang, Fandong Meng, Songming Zhang, Yufeng Chen, Jinan Xu, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.878.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1592",
+      "paper_id": "",
+      "title": "LlamaDuo: LLMOps Pipeline for Seamless Migration from Service LLMs to Small-Scale Local LLMs",
+      "authors": "Chansung Park, Juyong Jiang, Fan Wang, Sayak Paul, Jing Tang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1592.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_679",
+      "paper_id": "",
+      "title": "LLM in a flash: Efficient Large Language Model Inference with Limited Memory",
+      "authors": "Keivan Alizadeh, Seyed Iman Mirzadeh, Dmitry Belenko, S. Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar",
+      "paper_url": "https://aclanthology.org/2024.acl-long.678.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_696",
+      "paper_id": "",
+      "title": "LoRA-Flow: Dynamic LoRA Fusion for Large Language Models in Generative Tasks",
+      "authors": "Hanqing Wang, Bowen Ping, Shuo Wang, Xu Han, Yun Chen, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.695.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1556",
+      "paper_id": "",
+      "title": "Low-Bit Quantization Favors Undertrained LLMs",
+      "authors": "Xu Ouyang, Tao Ge, Thomas Hartvigsen, Zhisong Zhang, Haitao Mi, Dong Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1555.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_123",
+      "paper_id": "",
+      "title": "LRQuant: Learnable and Robust Post-Training Quantization for Large Language Models",
+      "authors": "Jiaqi Zhao, Miao Zhang, Chao Zeng, Ming Wang, Xuebo Liu, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.122.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1007",
+      "paper_id": "",
+      "title": "MaCP: Minimal yet Mighty Adaptation via Hierarchical Cosine Projection",
+      "authors": "Yixian Shen, Qi Bi, Jia-hong Huang, Hongyi Zhu, Andy D. Pimentel, Anuj Pathania",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1006.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_769",
+      "paper_id": "",
+      "title": "Masks Can be Learned as an Alternative to Experts",
+      "authors": "Peiyu Liu, Tianwen Wei, Bo Zhu, Xin Zhao, Shuicheng Yan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.768.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_130",
+      "paper_id": "",
+      "title": "MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter",
+      "authors": "Jitai Hao, Weiwei Sun, Xin Xin, Qi Meng, Zhumin Chen, Pengjie Ren, Zhaochun Ren",
+      "paper_url": "https://aclanthology.org/2024.acl-long.129.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_169",
+      "paper_id": "",
+      "title": "MELoRA: Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning",
+      "authors": "Pengjie Ren, Chengshun Shi, Shiguang Wu, Mengqi Zhang, Zhaochun Ren, Maarten de Rijke, Zhumin Chen, Jiahuan Pei",
+      "paper_url": "https://aclanthology.org/2024.acl-long.168.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_200",
+      "paper_id": "",
+      "title": "Memory-efficient NLLB-200: Language-specific Expert Pruning of a Massively Multilingual Machine Translation Model",
+      "authors": "Yeskendir Koishekenov, Alexandre Berard, Vassilina Nikoulina",
+      "paper_url": "https://aclanthology.org/2023.acl-long.198.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1141",
+      "paper_id": "",
+      "title": "MobiLoRA: Accelerating LoRA-based LLM Inference on Mobile Devices via Context-aware KV Cache Optimization",
+      "authors": "Borui Li, Yitao Wang, Haoran Ma, Ligeng Chen, Jun Xiao, Shuai Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1140.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_50",
+      "paper_id": "",
+      "title": "Multi-CLS BERT: An Efficient Alternative to Traditional Ensembling",
+      "authors": "Haw-Shiuan Chang, Ruei-Yao Sun, Kathryn Ricci, Andrew McCallum",
+      "paper_url": "https://aclanthology.org/2023.acl-long.48.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1048",
+      "paper_id": "",
+      "title": "Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models",
+      "authors": "Yuqiao Tan, Shizhu He, Kang Liu, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1047.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1570",
+      "paper_id": "",
+      "title": "Neural Parameter Search for Slimmer Fine-Tuned Models and Better Transfer",
+      "authors": "Guodong Du, Zitao Fang, Jing Li, Junlin Li, Runhua Jiang, Shuyang Yu, Yifei Guo, Yangneng Chen, Sim Kuan Goh, Ho-Kin Tang, Daojing He, Honghai Liu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1570.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_335",
+      "paper_id": "",
+      "title": "Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models",
+      "authors": "Xudong Lu, Qi Liu, Yuhui Xu, Aojun Zhou, Siyuan Huang, Bo Zhang, Junchi Yan, Hongsheng Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.334.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_173",
+      "paper_id": "",
+      "title": "On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation",
+      "authors": "Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, Bosheng Ding, Liying Cheng, Jiawei Low, Lidong Bing, Luo Si",
+      "paper_url": "https://aclanthology.org/2021.acl-long.172.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_545",
+      "paper_id": "",
+      "title": "On the Impact of Calibration Data in Post-training Quantization and Pruning",
+      "authors": "Miles Williams, Nikolaos Aletras",
+      "paper_url": "https://aclanthology.org/2024.acl-long.544.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_420",
+      "paper_id": "",
+      "title": "One Network, Many Masks: Towards More Parameter-Efficient Transfer Learning",
+      "authors": "Guangtao Zeng, Peiyuan Zhang, Wei Lu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.418.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1125",
+      "paper_id": "",
+      "title": "One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments",
+      "authors": "Ke Yi, Yuhui Xu, Heng Chang, Yuan Meng, Tong Zhang, Jia Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1124.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_619",
+      "paper_id": "",
+      "title": "Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models",
+      "authors": "Jungwoo Park, Taewhoo Lee, Chanwoong Yoon, Hyeon Hwang, Jaewoo Kang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.618.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_284",
+      "paper_id": "",
+      "title": "P2 Law: Scaling Law for Post-Training After Model Pruning",
+      "authors": "Xiaodong Chen, Yuxuan Hu, Xiaokang Zhang, Yanling Wang, Cuiping Li, Hong Chen, Jing Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.283.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_805",
+      "paper_id": "",
+      "title": "PAD-Net: An Efficient Framework for Dynamic Networks",
+      "authors": "Shwai He, Liang Ding, Daize Dong, Boan Liu, Fuqiang Yu, Dacheng Tao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.803.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_235",
+      "paper_id": "",
+      "title": "Parameter-Efficient Fine-Tuning without Introducing New Latency",
+      "authors": "Baohao Liao, Yan Meng, Christof Monz",
+      "paper_url": "https://aclanthology.org/2023.acl-long.233.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl21_48",
+      "paper_id": "",
+      "title": "Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks",
+      "authors": "Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson",
+      "paper_url": "https://aclanthology.org/2021.acl-long.47.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_379",
+      "paper_id": "",
+      "title": "Parameter-Efficient Transfer Learning with Diff Pruning",
+      "authors": "Demi Guo, Alexander Rush, Yoon Kim",
+      "paper_url": "https://aclanthology.org/2021.acl-long.378.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_272",
+      "paper_id": "",
+      "title": "Plug-in and Fine-tuning: Bridging the Gap between Small Language Models and Large Language Models",
+      "authors": "Kyeonghyun Kim, Jinhee Jang, Juhwan Choi, Yoonji Lee, Kyohoon Jin, YoungBin Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.271.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_552",
+      "paper_id": "",
+      "title": "Pre3: Enabling Deterministic Pushdown Automata for Faster Structured LLM Generation",
+      "authors": "Junyi Chen, Shihao Bai, Zaijun Wang, Siyu Wu, Chuheng Du, Hailong Yang, Ruihao Gong, Shengzhong Liu, Fan Wu, Guihai Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.551.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_354",
+      "paper_id": "",
+      "title": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+      "authors": "Xiang Lisa Li, Percy Liang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.353.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl22_131",
+      "paper_id": "",
+      "title": "Probing Structured Pruning on Multilingual Pre-trained Models: Settings, Algorithms, and Efficiency",
+      "authors": "Yanyang Li, Fuli Luo, Runxin Xu, Songfang Huang, Fei Huang, Liwei Wang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.130.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_1",
+      "paper_id": "",
+      "title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "authors": "Lun-Wei Ku, Andre Martins, Vivek Srikumar",
+      "paper_url": "https://aclanthology.org/2024.acl-long.0.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_157",
+      "paper_id": "",
+      "title": "PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA",
+      "authors": "Sheng Wang, Boyang Xue, Jiacheng Ye, Jiyue Jiang, Liheng Chen, Lingpeng Kong, Chuan Wu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.156.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_37",
+      "paper_id": "",
+      "title": "Pruning Pre-trained Language Models Without Fine-Tuning",
+      "authors": "Ting Jiang, Deqing Wang, Fuzhen Zhuang, Ruobing Xie, Feng Xia",
+      "paper_url": "https://aclanthology.org/2023.acl-long.35.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_226",
+      "paper_id": "",
+      "title": "PTQ1.61: Push the Real Limit of Extremely Low-Bit Post-Training Quantization Methods for Large Language Models",
+      "authors": "Jiaqi Zhao, Miao Zhang, Ming Wang, Yuzhang Shang, Kaihao Zhang, Weili Guan, Yaowei Wang, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.225.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_326",
+      "paper_id": "",
+      "title": "Quaff: Quantized Parameter-Efficient Fine-Tuning under Outlier Spatial Stability Hypothesis",
+      "authors": "Hong Huang, Dapeng Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.325.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1474",
+      "paper_id": "",
+      "title": "Quantized Can Still Be Calibrated: A Unified Framework to Calibration in Quantized Large Language Models",
+      "authors": "Mingyu Zhong, Guanchu Wang, Yu-Neng Chuang, Na Zou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1473.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_2",
+      "paper_id": "",
+      "title": "Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models",
+      "authors": "Zhengxin Zhang, Dan Zhao, Xupeng Miao, Gabriele Oliaro, Zhihao Zhang, Qing Li, Yong Jiang, Zhihao Jia",
+      "paper_url": "https://aclanthology.org/2024.acl-long.1.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1542",
+      "paper_id": "",
+      "title": "Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models",
+      "authors": "Xinxin Liu, Aaron Thomas, Cheng Zhang, Jianyi Cheng, Yiren Zhao, Xitong Gao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1541.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1294",
+      "paper_id": "",
+      "title": "RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates",
+      "authors": "Md Kowsher, Tara Esmaeilbeig, Chun-Nam Yu, Chen Chen, Mojtaba Soltanalian, Niloofar Yousefi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1293.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_596",
+      "paper_id": "",
+      "title": "SAM Decoding: Speculative Decoding via Suffix Automaton",
+      "authors": "Yuxuan Hu, Ke Wang, Xiaokang Zhang, Fanjin Zhang, Cuiping Li, Hong Chen, Jing Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.595.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1295",
+      "paper_id": "",
+      "title": "Scaling Laws and Efficient Inference for Ternary Language Models",
+      "authors": "Tejas Vaidhya, Ayush Kaushal, Vineet Jain, Francis Couture-Harpin, Prashant Shishodia, Majid Behbahani, Yuriy Nevmyvaka, Irina Rish",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1294.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_214",
+      "paper_id": "",
+      "title": "Small Pre-trained Language Models Can be Fine-tuned as Large Models via Over-Parameterization",
+      "authors": "Ze-Feng Gao, Kun Zhou, Peiyu Liu, Wayne Xin Zhao, Ji-Rong Wen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.212.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_17",
+      "paper_id": "",
+      "title": "Sparse Progressive Distillation: Resolving Overfitting under Pretrain-and-Finetune Paradigm",
+      "authors": "Shaoyi Huang, Dongkuan Xu, Ian Yen, Yijue Wang, Sung-En Chang, Bingbing Li, Shiyang Chen, Mimi Xie, Sanguthevar Rajasekaran, Hang Liu, Caiwen Ding",
+      "paper_url": "https://aclanthology.org/2022.acl-long.16.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_686",
+      "paper_id": "",
+      "title": "SPECTRA: Faster Large Language Model Inference with Optimized Internal and External Speculation",
+      "authors": "Nguyen-Khang Le, Truong Dinh Do, Le-Minh Nguyen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.685.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_490",
+      "paper_id": "",
+      "title": "StableMoE: Stable Routing Strategy for Mixture of Experts",
+      "authors": "Damai Dai, Li Dong, Shuming Ma, Bo Zheng, Zhifang Sui, Baobao Chang, Furu Wei",
+      "paper_url": "https://aclanthology.org/2022.acl-long.489.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1306",
+      "paper_id": "",
+      "title": "StitchLLM: Serving LLMs, One Block at a Time",
+      "authors": "Bodun Hu, Shuozhe Li, Saurabh Agarwal, Myungjin Lee, Akshay Jajoo, Jiamin Li, Le Xu, Geon-Woo Kim, Donghyun Kim, Hong Xu, Amy Zhang, Aditya Akella",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1305.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_108",
+      "paper_id": "",
+      "title": "Structured Pruning Learns Compact and Accurate Models",
+      "authors": "Mengzhou Xia, Zexuan Zhong, Danqi Chen",
+      "paper_url": "https://aclanthology.org/2022.acl-long.107.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_672",
+      "paper_id": "",
+      "title": "STUN: Structured-Then-Unstructured Pruning for Scalable MoE Pruning",
+      "authors": "Jaeseong Lee, Seung-won Hwang, Aurick Qiao, Daniel F Campos, Zhewei Yao, Yuxiong He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.671.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_511",
+      "paper_id": "",
+      "title": "Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization",
+      "authors": "Chen Liang, Simiao Zuo, Minshuo Chen, Haoming Jiang, Xiaodong Liu, Pengcheng He, Tuo Zhao, Weizhu Chen",
+      "paper_url": "https://aclanthology.org/2021.acl-long.510.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_131",
+      "paper_id": "",
+      "title": "Surgical Feature-Space Decomposition of LLMs: Why, When and How?",
+      "authors": "Arnav Chavan, Nahush Lele, Deepak Gupta",
+      "paper_url": "https://aclanthology.org/2024.acl-long.130.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_364",
+      "paper_id": "",
+      "title": "SwapMoE: Serving Off-the-shelf MoE-based Large Language Models with Tunable Memory Budget",
+      "authors": "Rui Kong, Yuanchun Li, Qingtian Feng, Weijun Wang, Xiaozhou Ye, Ye Ouyang, Linghe Kong, Yunxin Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.363.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1091",
+      "paper_id": "",
+      "title": "TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models",
+      "authors": "Xinyi He, Yihao Liu, Mengyu Zhou, Yeye He, Haoyu Dong, Shi Han, Zejian Yuan, Dongmei Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1090.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_165",
+      "paper_id": "",
+      "title": "Taming LLMs with Gradient Grouping",
+      "authors": "Siyuan Li, Juanxi Tian, Zedong Wang, Xin Jin, Zicheng Liu, Wentao Zhang, Dan Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.164.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_670",
+      "paper_id": "",
+      "title": "TeamLoRA: Boosting Low-Rank Adaptation with Expert Collaboration and Competition",
+      "authors": "Tianwei Lin, Jiang Liu, Wenqiao Zhang, Yang Dai, Haoyuan Li, Zhelun Yu, Wanggui He, Juncheng Li, Jiannan Guo, Hao Jiang, Siliang Tang, Yueting Zhuang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.669.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1598",
+      "paper_id": "",
+      "title": "TETRIS: Optimal Draft Token Selection for Batch Speculative Decoding",
+      "authors": "Zhaoxuan Wu, Zijian Zhou, Arun Verma, Alok Prakash, Daniela Rus, Bryan Kian Hsiang Low",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1598.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1284",
+      "paper_id": "",
+      "title": "The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit",
+      "authors": "Huixue Zhou, Hengrui Gu, Zaifu Zhan, Xi Liu, Kaixiong Zhou, Yongkang Xiao, Mingfu Liang, Srinivas Prasad Govindan, Piyush Chawla, Jiyan Yang, Xiangfei Meng, Huayu Li, Buyun Zhang, Liang Luo, Wen-Yen Chen, Yiping Han, Bo Long, Rui Zhang, Tianlong Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1283.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_357",
+      "paper_id": "",
+      "title": "The Hidden Space of Transformer Language Adapters",
+      "authors": "Jesujoba Alabi, Marius Mosbach, Matan Eyal, Dietrich Klakow, Mor Geva",
+      "paper_url": "https://aclanthology.org/2024.acl-long.356.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1041",
+      "paper_id": "",
+      "title": "THOR-MoE: Hierarchical Task-Guided and Context-Responsive Routing for Neural Machine Translation",
+      "authors": "Yunlong Liang, Fandong Meng, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1040.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_20",
+      "paper_id": "",
+      "title": "Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients",
+      "authors": "Jabin Koo, Minwoo Jang, Jungseul Ok",
+      "paper_url": "https://aclanthology.org/2025.acl-long.19.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_323",
+      "paper_id": "",
+      "title": "Towards Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Label Learning",
+      "authors": "Yeachan Kim, Junho Kim, SangKeun Lee",
+      "paper_url": "https://aclanthology.org/2024.acl-long.322.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_266",
+      "paper_id": "",
+      "title": "Towards Robust Low-Resource Fine-Tuning with Multi-View Compressed Representations",
+      "authors": "Linlin Liu, Xingxuan Li, Megh Thakkar, Xin Li, Shafiq Joty, Luo Si, Lidong Bing",
+      "paper_url": "https://aclanthology.org/2023.acl-long.264.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_34",
+      "paper_id": "",
+      "title": "TrimLLM: Progressive Layer Dropping for Domain-Specific LLMs",
+      "authors": "Lanxiang Hu, Tajana Rosing, Hao Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.33.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_339",
+      "paper_id": "",
+      "title": "Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling",
+      "authors": "Xianzhen Luo, Yixuan Wang, Qingfu Zhu, Zhiming Zhang, Xuanyu Zhang, Qing Yang, Dongliang Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.338.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_879",
+      "paper_id": "",
+      "title": "Two-Stage Fine-Tuning for Improved Bias and Variance for Large Pretrained Language Models",
+      "authors": "Lijing Wang, Yingya Li, Timothy Miller, Steven Bethard, Guergana Savova",
+      "paper_url": "https://aclanthology.org/2023.acl-long.877.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1383",
+      "paper_id": "",
+      "title": "Unifying Uniform and Binary-coding Quantization for Accurate Compression of Large Language Models",
+      "authors": "Seungcheol Park, Jeongin Bae, Beomseok Kwon, Minjun Kim, Byeongwook Kim, Se Jung Kwon, U Kang, Dongsoo Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1382.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_434",
+      "paper_id": "",
+      "title": "UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning",
+      "authors": "Yuning Mao, Lambert Mathias, Rui Hou, Amjad Almahairi, Hao Ma, Jiawei Han, Scott Yih, Madian Khabsa",
+      "paper_url": "https://aclanthology.org/2022.acl-long.433.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1285",
+      "paper_id": "",
+      "title": "Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging",
+      "authors": "Haobo Zhang, Jiayu Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1284.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_520",
+      "paper_id": "",
+      "title": "Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View",
+      "authors": "Yanran Wu, Inez Hua, Yi Ding",
+      "paper_url": "https://aclanthology.org/2025.acl-long.519.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_576",
+      "paper_id": "",
+      "title": "UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter Efficient Fine-Tuning of Large Models",
+      "authors": "Xueyan Zhang, Jinman Zhao, Zhifei Yang, Yibo Zhong, Shuhao Guan, Linbo Cao, Yining Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.575.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_638",
+      "paper_id": "",
+      "title": "Upcycling Instruction Tuning from Dense to Mixture-of-Experts via Parameter Merging",
+      "authors": "Tingfeng Hui, Zhenyu Zhang, Shuohuan Wang, Yu Sun, Hua Wu, Sen Su",
+      "paper_url": "https://aclanthology.org/2025.acl-long.637.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_570",
+      "paper_id": "",
+      "title": "User-side Model Consistency Monitoring for Open Source Large Language Models Inference Services",
+      "authors": "Qijun Miao, Zhixuan Fang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.569.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_348",
+      "paper_id": "",
+      "title": "WRP: Weight Recover Prune for Structured Sparsity",
+      "authors": "Zhendong Tan, Xingjun Zhang, Zheng Wei",
+      "paper_url": "https://aclanthology.org/2024.acl-long.347.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_700",
+      "paper_id": "",
+      "title": "XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts",
+      "authors": "Yifeng Ding, Jiawei Liu, Yuxiang Wei, Lingming Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.699.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1305",
+      "paper_id": "",
+      "title": "“Give Me BF16 or Give Me Death”? Accuracy-Performance Trade-Offs in LLM Quantization",
+      "authors": "Eldar Kurtic, Alexandre Noll Marques, Shubhra Pandit, Mark Kurtz, Dan Alistarh",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1304.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_648",
+      "paper_id": "",
+      "title": "𝜙-Decoding: Adaptive Foresight Sampling for Balanced Inference-Time Exploration and Exploitation",
+      "authors": "Fangzhi Xu, Hang Yan, Chang Ma, Haiteng Zhao, Jun Liu, Qika Lin, Zhiyong Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.647.pdf",
+      "venue": "acl25"
+    }
+  ]
+}

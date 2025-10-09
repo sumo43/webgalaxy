@@ -1,0 +1,1861 @@
+{
+  "cluster_id": 85,
+  "papers": [
+    {
+      "id": "iclr22_q7n2RngwOM",
+      "paper_id": "q7n2RngwOM",
+      "title": "$\\beta$-Intact-VAE: Identifying and Estimating Causal Effects under Limited Overlap",
+      "authors": "Pengzhou Abel Wu, Kenji Fukumizu",
+      "paper_url": "https://openreview.net/pdf/478449496537cfe4195dfc3df5666eac40c4aaeb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_MMAeCXIa89",
+      "paper_id": "MMAeCXIa89",
+      "title": "$\\pi$BO: Augmenting Acquisition Functions with User Beliefs for Bayesian Optimization",
+      "authors": "Carl Hvarfner, Danny Stoll, Artur Souza, Marius Lindauer, Frank Hutter, Luigi Nardi",
+      "paper_url": "https://openreview.net/pdf/e27b0600c99cc8f40e03a89e247d9b309bd479df.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_gqbbL7k8BF",
+      "paper_id": "gqbbL7k8BF",
+      "title": "A Conditional Independence Test in the Presence of Discretization",
+      "authors": "Boyang Sun, Yu Yao, Guang-Yuan Hao, Yumou Qiu, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=gqbbL7k8BF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_NjU0jtXcYn",
+      "paper_id": "NjU0jtXcYn",
+      "title": "A General Framework for User-Guided Bayesian Optimization",
+      "authors": "Carl Hvarfner, Frank Hutter, Luigi Nardi",
+      "paper_url": "https://openreview.net/pdf?id=NjU0jtXcYn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_pHMpgT5xWaE",
+      "paper_id": "pHMpgT5xWaE",
+      "title": "A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming",
+      "authors": "Qingyu Han, Linxin Yang, Qian Chen, Xiang Zhou, Dong Zhang, Akang Wang, Ruoyu Sun, Xiaodong Luo",
+      "paper_url": "https://openreview.net/pdf/d281b847530bbfe077bdc3c9d1651ae8a91cfa19.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_EG9nDN3eGB",
+      "paper_id": "EG9nDN3eGB",
+      "title": "A Graph Enhanced Symbolic Discovery Framework For Efficient Logic Optimization",
+      "authors": "Yinqi Bai, Jie Wang, Lei Chen, Zhihai Wang, Yufei Kuang, Mingxuan Yuan, Jianye HAO, Feng Wu",
+      "paper_url": "https://openreview.net/pdf?id=EG9nDN3eGB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_l35SB-_raSQ",
+      "paper_id": "l35SB-_raSQ",
+      "title": "A Hypergradient Approach to Robust Regression without Correspondence",
+      "authors": "Yujia Xie, Yixiu Mao, Simiao Zuo, Hongteng Xu, Xiaojing Ye, Tuo Zhao, Hongyuan Zha",
+      "paper_url": "https://openreview.net/pdf/01f4f60af211bcbeb9691824fbd8f92211e50098.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_PoDkdFQIu3",
+      "paper_id": "PoDkdFQIu3",
+      "title": "A Linear Algebraic Framework for Counterfactual Generation",
+      "authors": "Jong-Hoon Ahn, Akshay Vashist",
+      "paper_url": "https://openreview.net/pdf?id=PoDkdFQIu3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eeJz7eDWKO",
+      "paper_id": "eeJz7eDWKO",
+      "title": "A Meta-Learning Approach to Bayesian Causal Discovery",
+      "authors": "Anish Dhir, Matthew Ashman, James Requeima, Mark van der Wilk",
+      "paper_url": "https://openreview.net/pdf?id=eeJz7eDWKO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6xrDPHhwD3",
+      "paper_id": "6xrDPHhwD3",
+      "title": "A Multiscale Frequency Domain Causal Framework for Enhanced Pathological Analysis",
+      "authors": "Xiaoyu Cui, Weixing Chen, Jiandong Su",
+      "paper_url": "https://openreview.net/pdf?id=6xrDPHhwD3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ikX6D1oM1c",
+      "paper_id": "ikX6D1oM1c",
+      "title": "A Neural Framework for Generalized Causal Sensitivity Analysis",
+      "authors": "Dennis Frauen, Fergus Imrie, Alicia Curth, Valentyn Melnychuk, Stefan Feuerriegel, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=ikX6D1oM1c",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_rLguqxYvYHB",
+      "paper_id": "rLguqxYvYHB",
+      "title": "A Neural Mean Embedding Approach for Back-door and Front-door Adjustment",
+      "authors": "Liyuan Xu, Arthur Gretton",
+      "paper_url": "https://openreview.net/pdf/d11e23e4e0bf5919aa0d282ad55e5be78154c397.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Q0s6kgrUMr",
+      "paper_id": "Q0s6kgrUMr",
+      "title": "A Robust Method to Discover Causal or Anticausal Relation",
+      "authors": "Yu Yao, Yang Zhou, Bo Han, Mingming Gong, Kun Zhang, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=Q0s6kgrUMr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zGzs5SIwT8",
+      "paper_id": "zGzs5SIwT8",
+      "title": "A Skewness-Based Criterion for Addressing Heteroscedastic Noise in Causal Discovery",
+      "authors": "Yingyu Lin, Yuxing Huang, Wenqin Liu, Haoran Deng, Ignavier Ng, Kun Zhang, Mingming Gong, Yian Ma, Biwei Huang",
+      "paper_url": "https://openreview.net/pdf?id=zGzs5SIwT8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_SA19ijj44B",
+      "paper_id": "SA19ijj44B",
+      "title": "A Study of Bayesian Neural Network Surrogates for Bayesian Optimization",
+      "authors": "Yucen Lily Li, Tim G. J. Rudner, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf?id=SA19ijj44B",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_oMNkj4ER7V",
+      "paper_id": "oMNkj4ER7V",
+      "title": "A Unified Framework for Bayesian Optimization under Contextual Uncertainty",
+      "authors": "Sebastian Shenghong Tay, Chuan-Sheng Foo, Daisuke Urano, Richalynn Leong, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=oMNkj4ER7V",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_S46Knicu56",
+      "paper_id": "S46Knicu56",
+      "title": "A Variational Framework for Estimating Continuous Treatment Effects with Measurement Error",
+      "authors": "Erdun Gao, Howard Bondell, Wei Huang, Mingming Gong",
+      "paper_url": "https://openreview.net/pdf?id=S46Knicu56",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_FhQSGhBlqv",
+      "paper_id": "FhQSGhBlqv",
+      "title": "A Versatile Causal Discovery Framework to Allow Causally-Related Hidden Variables",
+      "authors": "Xinshuai Dong, Biwei Huang, Ignavier Ng, Xiangchen Song, Yujia Zheng, Songyao Jin, Roberto Legaspi, Peter Spirtes, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=FhQSGhBlqv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_bm1JVsVZVu",
+      "paper_id": "bm1JVsVZVu",
+      "title": "Adaptive Stochastic Gradient Algorithm for Black-box Multi-Objective Learning",
+      "authors": "Feiyang Ye, Yueming Lyu, Xuehao Wang, Yu Zhang, Ivor Tsang",
+      "paper_url": "https://openreview.net/pdf?id=bm1JVsVZVu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tBom4xOW1H",
+      "paper_id": "tBom4xOW1H",
+      "title": "Adversarial Generative Flow Network for Solving Vehicle Routing Problems",
+      "authors": "Ni Zhang, Jingfeng Yang, Zhiguang Cao, Xu Chi",
+      "paper_url": "https://openreview.net/pdf?id=tBom4xOW1H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_QuIiLSktO4",
+      "paper_id": "QuIiLSktO4",
+      "title": "Algorithms for Caching and MTS with reduced number of predictions",
+      "authors": "Karim Ahmed Abdel Sadek, Marek Elias",
+      "paper_url": "https://openreview.net/pdf?id=QuIiLSktO4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jCPak79Kev",
+      "paper_id": "jCPak79Kev",
+      "title": "AnalogGenie: A Generative Engine for Automatic Discovery of Analog Circuit Topologies",
+      "authors": "Jian Gao, Weidong Cao, Junyi Yang, Xuan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=jCPak79Kev",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_7I12hXRi8F",
+      "paper_id": "7I12hXRi8F",
+      "title": "ANOCE: Analysis of Causal Effects with Multiple Mediators via Constrained Structural Learning",
+      "authors": "Hengrui Cai, Rui Song, Wenbin Lu",
+      "paper_url": "https://openreview.net/pdf/8142413a92e7df5fb79598dee863640346d53f5b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_mFY0tPDWK8",
+      "paper_id": "mFY0tPDWK8",
+      "title": "Apollo-MILP: An Alternating Prediction-Correction Neural Solving Framework for Mixed-Integer Linear Programming",
+      "authors": "Haoyang Liu, Jie Wang, Zijie Geng, Xijun Li, Yuxuan Zong, Fangzhou Zhu, Jianye HAO, Feng Wu",
+      "paper_url": "https://openreview.net/pdf?id=mFY0tPDWK8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AEFVa6VMu1",
+      "paper_id": "AEFVa6VMu1",
+      "title": "Approximation algorithms for combinatorial optimization with predictions",
+      "authors": "Antonios Antoniadis, Marek Elias, Adam Polak, Moritz Venzin",
+      "paper_url": "https://openreview.net/pdf?id=AEFVa6VMu1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_hSktDu-h94",
+      "paper_id": "hSktDu-h94",
+      "title": "Automatic Loss Function Search for Predict-Then-Optimize Problems with Strong Ranking Property",
+      "authors": "Boshi Wang, Jialin Yi, Hang Dong, Bo Qiao, Chuan Luo, Qingwei Lin",
+      "paper_url": "https://openreview.net/pdf/98fea8b922621c46bbee3b4b58290769005b0897.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_KfptQCEKVW4",
+      "paper_id": "KfptQCEKVW4",
+      "title": "Automating Nearest Neighbor Search Configuration with Constrained Optimization",
+      "authors": "Philip Sun, Ruiqi Guo, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf/7baf4a44b22ee9059ca564133650828b1290566e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_JZMR727O29",
+      "paper_id": "JZMR727O29",
+      "title": "Backpropagation through Combinatorial Algorithms: Identity with Projection Works",
+      "authors": "Subham Sekhar Sahoo, Anselm Paulus, Marin Vlastelica, Vít Musil, Volodymyr Kuleshov, Georg Martius",
+      "paper_url": "https://openreview.net/pdf/1fd744076d10f6b78516e5b369737d7e4ce6811f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_CN223OXgyb5",
+      "paper_id": "CN223OXgyb5",
+      "title": "BALTO: fast tensor program optimization with diversity-based active learning",
+      "authors": "Jun Bi, Xiaqing Li, Qi Guo, Rui Zhang, Yuanbo Wen, Xing Hu, Zidong Du, Xinkai Song, Yifan Hao, Yunji Chen",
+      "paper_url": "https://openreview.net/pdf/e4423008f644bc87714ab4d1c2b3ed7e37ac77d2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_EVVadRFRgL7",
+      "paper_id": "EVVadRFRgL7",
+      "title": "Bayesian Modeling and Uncertainty Quantification for Learning to Optimize: What, Why, and How",
+      "authors": "Yuning You, Yue Cao, Tianlong Chen, Zhangyang Wang, Yang Shen",
+      "paper_url": "https://openreview.net/pdf/19e1837e276ae2dc367c9117f1039ab41b0e7bc4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_uwO71a8wET",
+      "paper_id": "uwO71a8wET",
+      "title": "Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation",
+      "authors": "Konstantin Hess, Valentyn Melnychuk, Dennis Frauen, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf?id=uwO71a8wET",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9j1RD9LlWH",
+      "paper_id": "9j1RD9LlWH",
+      "title": "Bayesian Optimization through Gaussian Cox Process Models for Spatio-temporal Data",
+      "authors": "Yongsheng Mei, Mahdi Imani, Tian Lan",
+      "paper_url": "https://openreview.net/pdf?id=9j1RD9LlWH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1jcnvghayD",
+      "paper_id": "1jcnvghayD",
+      "title": "Bayesian Optimization via Continual Variational Last Layer Training",
+      "authors": "Paul Brunzema, Mikkel Jordahn, John Willes, Sebastian Trimpe, Jasper Snoek, James Harrison",
+      "paper_url": "https://openreview.net/pdf?id=1jcnvghayD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_52fz5sUAy2",
+      "paper_id": "52fz5sUAy2",
+      "title": "Be Aware of the Neighborhood Effect: Modeling Selection Bias under Interference",
+      "authors": "Haoxuan Li, Chunyuan Zheng, Sihao Ding, Peng Wu, Zhi Geng, Fuli Feng, Xiangnan He",
+      "paper_url": "https://openreview.net/pdf?id=52fz5sUAy2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rx0TCew0Lj",
+      "paper_id": "rx0TCew0Lj",
+      "title": "Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints",
+      "authors": "Mihaela C. Stoian, Eleonora Giunchiglia",
+      "paper_url": "https://openreview.net/pdf?id=rx0TCew0Lj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UnCKU8pZVe",
+      "paper_id": "UnCKU8pZVe",
+      "title": "BOFormer: Learning to Solve Multi-Objective Bayesian Optimization via Non-Markovian RL",
+      "authors": "Yu Heng Hung, Kai-Jie Lin, Yu-Heng Lin, Chien-Yi Wang, Cheng Sun, Ping-Chun Hsieh",
+      "paper_url": "https://openreview.net/pdf?id=UnCKU8pZVe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_LNpMtk15AS4",
+      "paper_id": "LNpMtk15AS4",
+      "title": "Boosting Causal Discovery via Adaptive Sample Reweighting",
+      "authors": "An Zhang, Fangfu Liu, Wenchang Ma, Zhibo Cai, Xiang Wang, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf/490a8e5885f74912244f797f7afd7060d7d2bbe9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_TbTJJNjumY",
+      "paper_id": "TbTJJNjumY",
+      "title": "Boosting Neural Combinatorial Optimization for Large-Scale Vehicle Routing Problems",
+      "authors": "Fu Luo, Xi Lin, Yaoxin Wu, Zhenkun Wang, Tong Xialiang, Mingxuan Yuan, Qingfu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=TbTJJNjumY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_d3xKPQVjSc",
+      "paper_id": "d3xKPQVjSc",
+      "title": "Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation",
+      "authors": "Valentyn Melnychuk, Dennis Frauen, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf?id=d3xKPQVjSc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_siHHqDDzvS",
+      "paper_id": "siHHqDDzvS",
+      "title": "BTBS-LNS: Binarized-Tightening, Branch and Search on Learning LNS Policies for MIP",
+      "authors": "Hao Yuan, Wenli Ouyang, Changwen Zhang, Yong Sun, Liming Gong, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=siHHqDDzvS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_K6kt50zAiG",
+      "paper_id": "K6kt50zAiG",
+      "title": "CAMBranch: Contrastive Learning with Augmented MILPs for Branching",
+      "authors": "Jiacheng Lin, Meng XU, Zhihua Xiong, Huangang Wang",
+      "paper_url": "https://openreview.net/pdf?id=K6kt50zAiG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lmKJ1b6PaL",
+      "paper_id": "lmKJ1b6PaL",
+      "title": "Causal Concept Graph Models: Beyond Causal Opacity in Deep Learning",
+      "authors": "Gabriele Dominici, Pietro Barbiero, Mateo Espinosa Zarlenga, Alberto Termine, Martin Gjoreski, Giuseppe Marra, Marc Langheinrich",
+      "paper_url": "https://openreview.net/pdf?id=lmKJ1b6PaL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8muemqlnG3",
+      "paper_id": "8muemqlnG3",
+      "title": "Causal Discovery via Bayesian Optimization",
+      "authors": "Bao Duong, Sunil Gupta, Thin Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=8muemqlnG3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qe1CsfnN1W",
+      "paper_id": "qe1CsfnN1W",
+      "title": "Causal Effect Estimation with Mixed Latent Confounders and Post-treatment Variables",
+      "authors": "Yaochen Zhu, Jing Ma, Liang Wu, Qi Guo, Liangjie Hong, Jundong Li",
+      "paper_url": "https://openreview.net/pdf?id=qe1CsfnN1W",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Ha2MnQM9Ph",
+      "paper_id": "Ha2MnQM9Ph",
+      "title": "Causal Estimation for Text Data with (Apparent) Overlap Violations",
+      "authors": "Lin Gui, Victor Veitch",
+      "paper_url": "https://openreview.net/pdf/e84bb816534c7c06f4113662602be4227637df15.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_foQ4AeEGG7",
+      "paper_id": "foQ4AeEGG7",
+      "title": "Causal Graph Transformer for Treatment Effect Estimation Under Unknown Interference",
+      "authors": "Anpeng Wu, Haiyi Qiu, Zhengming Chen, Zijian Li, Ruoxuan Xiong, Fei Wu, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=foQ4AeEGG7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_96beVMeHh9",
+      "paper_id": "96beVMeHh9",
+      "title": "Causal Identification for Complex Functional Longitudinal Studies",
+      "authors": "Andrew Ying",
+      "paper_url": "https://openreview.net/pdf?id=96beVMeHh9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_wFf9m4v7oC",
+      "paper_id": "wFf9m4v7oC",
+      "title": "Causal Inference with Conditional Front-Door Adjustment and Identifiable Variational Autoencoder",
+      "authors": "Ziqi Xu, Debo Cheng, Jiuyong Li, Jixue Liu, Lin Liu, Kui Yu",
+      "paper_url": "https://openreview.net/pdf?id=wFf9m4v7oC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_pAoqRlTBtY",
+      "paper_id": "pAoqRlTBtY",
+      "title": "Causal Modelling Agents: Causal Graph Discovery through Synergising Metadata- and Data-driven Reasoning",
+      "authors": "Ahmed Abdulaal, adamos hadjivasiliou, Nina Montana-Brown, Tiantian He, Ayodeji Ijishakin, Ivana Drobnjak, Daniel C. Castro, Daniel C. Alexander",
+      "paper_url": "https://openreview.net/pdf?id=pAoqRlTBtY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9juyeCqL0u",
+      "paper_id": "9juyeCqL0u",
+      "title": "Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference",
+      "authors": "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
+      "paper_url": "https://openreview.net/pdf?id=9juyeCqL0u",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dcN0CaXQhT",
+      "paper_id": "dcN0CaXQhT",
+      "title": "Causal Reasoning in the Presence of Latent Confounders via Neural ADMG Learning",
+      "authors": "Matthew Ashman, Chao Ma, Agrin Hilmkil, Joel Jennings, Cheng Zhang",
+      "paper_url": "https://openreview.net/pdf/149ce81bce210b81430db7d28cdb51750814141c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_itZ6ggvMnzS",
+      "paper_id": "itZ6ggvMnzS",
+      "title": "Causal Representation Learning for Instantaneous and Temporal Effects in Interactive Systems",
+      "authors": "Phillip Lippe, Sara Magliacane, Sindy Löwe, Yuki M Asano, Taco Cohen, Efstratios Gavves",
+      "paper_url": "https://openreview.net/pdf/4fc22cb9d6d8f26d83b6ff14379f6e08f167c4c2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_hjROBHstZ3",
+      "paper_id": "hjROBHstZ3",
+      "title": "Causal Representation Learning from Multimodal Biomedical Observations",
+      "authors": "Yuewen Sun, Lingjing Kong, Guangyi Chen, Loka Li, Gongxu Luo, Zijian Li, Yixuan Zhang, Yujia Zheng, Mengyue Yang, Petar Stojanov, Eran Segal, Eric P. Xing, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=hjROBHstZ3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MukGKGtgnr",
+      "paper_id": "MukGKGtgnr",
+      "title": "Causal Structure Recovery with Latent Variables under Milder Distributional and Graphical Assumptions",
+      "authors": "Xiu-Chuan Li, Kun Zhang, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=MukGKGtgnr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_BtZ7vCt5QY",
+      "paper_id": "BtZ7vCt5QY",
+      "title": "Causal-StoNet: Causal Inference for High-Dimensional Complex Data",
+      "authors": "Yaxin Fang, Faming Liang",
+      "paper_url": "https://openreview.net/pdf?id=BtZ7vCt5QY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_US9k5TXVLZ",
+      "paper_id": "US9k5TXVLZ",
+      "title": "Circuit Representation Learning with Masked Gate Modeling and Verilog-AIG Alignment",
+      "authors": "Haoyuan WU, Haisheng Zheng, Yuan Pu, Bei Yu",
+      "paper_url": "https://openreview.net/pdf?id=US9k5TXVLZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rbnf7oe6JQ",
+      "paper_id": "rbnf7oe6JQ",
+      "title": "CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design",
+      "authors": "Wenji Fang, Shang Liu, Jing Wang, Zhiyao Xie",
+      "paper_url": "https://openreview.net/pdf?id=rbnf7oe6JQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nMFSUjxMIl",
+      "paper_id": "nMFSUjxMIl",
+      "title": "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment",
+      "authors": "Xun Jiang, zhuomin chai, Yuxiang Zhao, Yibo Lin, Runsheng Wang, Ru Huang",
+      "paper_url": "https://openreview.net/pdf?id=nMFSUjxMIl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_NE2911Kq1sp",
+      "paper_id": "NE2911Kq1sp",
+      "title": "CktGNN:  Circuit Graph Neural Network for Electronic Design Automation",
+      "authors": "Zehao Dong, Weidong Cao, Muhan Zhang, Dacheng Tao, Yixin Chen, Xuan Zhang",
+      "paper_url": "https://openreview.net/pdf/bb4750b65866d1d9d4d1088f8e0de8b60e3d554c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_fGAIgO75dG",
+      "paper_id": "fGAIgO75dG",
+      "title": "CoLiDE: Concomitant Linear DAG Estimation",
+      "authors": "Seyed Saman Saboksayr, Gonzalo Mateos, Mariano Tepper",
+      "paper_url": "https://openreview.net/pdf?id=fGAIgO75dG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jBYQAtzp5Z",
+      "paper_id": "jBYQAtzp5Z",
+      "title": "Competitive Fair Scheduling with Predictions",
+      "authors": "Tianming Zhao, Chunqiu xia, Xiaomin Chang, Chunhao Li, Wei Li, Albert Zomaya",
+      "paper_url": "https://openreview.net/pdf?id=jBYQAtzp5Z",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KWH4UIoQKS",
+      "paper_id": "KWH4UIoQKS",
+      "title": "Computing Circuits Optimization via Model-Based Circuit Genetic Evolution",
+      "authors": "Zhihai Wang, Jie Wang, Xilin Xia, Dongsheng Zuo, Lei Chen, Yuzhe Ma, Jianye HAO, Mingxuan Yuan, Feng Wu",
+      "paper_url": "https://openreview.net/pdf?id=KWH4UIoQKS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qDhq1icpO8",
+      "paper_id": "qDhq1icpO8",
+      "title": "Conditional Instrumental Variable Regression with Representation Learning for Causal Inference",
+      "authors": "Debo Cheng, Ziqi Xu, Jiuyong Li, Lin Liu, Jixue Liu, Thuc Duy Le",
+      "paper_url": "https://openreview.net/pdf?id=qDhq1icpO8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_St6eyiTEHnG",
+      "paper_id": "St6eyiTEHnG",
+      "title": "Consistent Counterfactuals for Deep Models",
+      "authors": "Emily Black, Zifan Wang, Matt Fredrikson",
+      "paper_url": "https://openreview.net/pdf/9aa3de89ad2eb688c7c39e39d0f8431eb052f3e5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_KWO8LSUC5W",
+      "paper_id": "KWO8LSUC5W",
+      "title": "Constraint-Free Structure Learning with Smooth Acyclic Orientations",
+      "authors": "Riccardo Massidda, Francesco Landolfi, Martina Cinquini, Davide Bacciu",
+      "paper_url": "https://openreview.net/pdf?id=KWO8LSUC5W",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_BHFs80Jf5V",
+      "paper_id": "BHFs80Jf5V",
+      "title": "Constructing Confidence Intervals for Average Treatment Effects from Multiple Datasets",
+      "authors": "Yuxin Wang, Maresa Schröder, Dennis Frauen, Jonas Schweisthal, Konstantin Hess, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf?id=BHFs80Jf5V",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_wZXlEFO3tZ",
+      "paper_id": "wZXlEFO3tZ",
+      "title": "Counterfactual Density Estimation using Kernel Stein Discrepancies",
+      "authors": "Diego Martinez-Taboada, Edward Kennedy",
+      "paper_url": "https://openreview.net/pdf?id=wZXlEFO3tZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_oeDcgVC7Xh",
+      "paper_id": "oeDcgVC7Xh",
+      "title": "Counterfactual Generative Modeling with Variational Causal Inference",
+      "authors": "Yulun Wu, Louis McConnell, Claudia Iriondo",
+      "paper_url": "https://openreview.net/pdf?id=oeDcgVC7Xh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8KQzoD5XAr",
+      "paper_id": "8KQzoD5XAr",
+      "title": "CraftRTL: High-quality Synthetic Data Generation for Verilog Code Models with Correct-by-Construction Non-Textual Representations and Targeted Code Repair",
+      "authors": "Mingjie Liu, Yun-Da Tsai, Wenfei Zhou, Haoxing Ren",
+      "paper_url": "https://openreview.net/pdf?id=8KQzoD5XAr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_GsH-K1VIyy",
+      "paper_id": "GsH-K1VIyy",
+      "title": "Data-Driven Offline Optimization for Architecting Hardware Accelerators",
+      "authors": "Aviral Kumar, Amir Yazdanbakhsh, Milad Hashemi, Kevin Swersky, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf/62fa3ad6648729230b552447a872cf6777743905.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_V1ZHVxJ6dSS",
+      "paper_id": "V1ZHVxJ6dSS",
+      "title": "DC3: A learning method for optimization with hard constraints",
+      "authors": "Priya L. Donti, David Rolnick, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf/07736947eb069cd731941458cb558b9bbec98ba1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_o7koEEMA1bR",
+      "paper_id": "o7koEEMA1bR",
+      "title": "Deep Generative Symbolic Regression",
+      "authors": "Samuel Holt, Zhaozhi Qian, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/82e84acc4e710e5712ae0f5601582769f5bb685c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_jsWCmrsHHs",
+      "paper_id": "jsWCmrsHHs",
+      "title": "Deep Reinforcement Learning Guided Improvement Heuristic for Job Shop Scheduling",
+      "authors": "Cong Zhang, Zhiguang Cao, Wen Song, Yaoxin Wu, Jie Zhang",
+      "paper_url": "https://openreview.net/pdf?id=jsWCmrsHHs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_m5Qsh0kBQG",
+      "paper_id": "m5Qsh0kBQG",
+      "title": "Deep symbolic regression: Recovering mathematical expressions from data via risk-seeking policy gradients",
+      "authors": "Brenden K Petersen, Mikel Landajuela Larma, Terrell N. Mundhenk, Claudio Prata Santiago, Soo Kyung Kim, Joanne Taery Kim",
+      "paper_url": "https://openreview.net/pdf/317665469793748a5dbbedaa91f4f31e395d23bf.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_b10lRabU9W",
+      "paper_id": "b10lRabU9W",
+      "title": "DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale",
+      "authors": "Ziyang Zheng, Shan Huang, Jianyuan Zhong, Zhengyuan Shi, Guohao Dai, Ningyi Xu, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=b10lRabU9W",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2hcfoCHKoB",
+      "paper_id": "2hcfoCHKoB",
+      "title": "DeepRTL: Bridging Verilog Understanding and Generation with a Unified Representation Model",
+      "authors": "Yi Liu, Changran XU, Yunhao Zhou, Zeju Li, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=2hcfoCHKoB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_1YPfmglNRU",
+      "paper_id": "1YPfmglNRU",
+      "title": "Defining Expertise: Applications to Treatment Effect Estimation",
+      "authors": "Alihan Hüyük, Qiyao Wei, Alicia Curth, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=1YPfmglNRU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_u63OVngeSp",
+      "paper_id": "u63OVngeSp",
+      "title": "Deriving Causal Order from Single-Variable Interventions: Guarantees & Algorithm",
+      "authors": "Mathieu Chevalley, Patrick Schwab, Arash Mehrjou",
+      "paper_url": "https://openreview.net/pdf?id=u63OVngeSp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Bp0HBaMNRl",
+      "paper_id": "Bp0HBaMNRl",
+      "title": "Differentiable Causal Discovery for Latent Hierarchical Causal Models",
+      "authors": "Parjanya Prajakta Prashant, Ignavier Ng, Kun Zhang, Biwei Huang",
+      "paper_url": "https://openreview.net/pdf?id=Bp0HBaMNRl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Idusfje4-Wq",
+      "paper_id": "Idusfje4-Wq",
+      "title": "Diffusion Models for Causal Discovery via Topological Ordering",
+      "authors": "Pedro Sanchez, Xiao Liu, Alison Q O'Neil, Sotirios A. Tsaftaris",
+      "paper_url": "https://openreview.net/pdf/6507802ca7e95e60abfdd3910aaefa5450193400.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_mFDU0fP3EQH",
+      "paper_id": "mFDU0fP3EQH",
+      "title": "Discovering Evolution Strategies via Meta-Black-Box Optimization",
+      "authors": "Robert Tjarko Lange, Tom Schaul, Yutian Chen, Tom Zahavy, Valentin Dalibard, Chris Lu, Satinder Singh, Sebastian Flennerhag",
+      "paper_url": "https://openreview.net/pdf/09efdea6923af7e8edaae929d132c514d2ca4920.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Q2bJ2qgcP1",
+      "paper_id": "Q2bJ2qgcP1",
+      "title": "Do Contemporary Causal Inference Models Capture Real-World Heterogeneity? Findings from a Large-Scale Benchmark",
+      "authors": "Haining Yu, Yizhou Sun",
+      "paper_url": "https://openreview.net/pdf?id=Q2bJ2qgcP1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9vTAkJ9Tik",
+      "paper_id": "9vTAkJ9Tik",
+      "title": "Doubly robust identification of treatment effects from multiple environments",
+      "authors": "Piersilvio De Bartolomeis, Julia Kostin, Javier Abad, Yixin Wang, Fanny Yang",
+      "paper_url": "https://openreview.net/pdf?id=9vTAkJ9Tik",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TjGJFkU3xL",
+      "paper_id": "TjGJFkU3xL",
+      "title": "Doubly Robust Proximal Causal Learning for Continuous Treatments",
+      "authors": "Yong Wu, Yanwei Fu, Shouyan Wang, Xinwei Sun",
+      "paper_url": "https://openreview.net/pdf?id=TjGJFkU3xL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_s9zoyICZ4k",
+      "paper_id": "s9zoyICZ4k",
+      "title": "DRoC: Elevating Large Language Models for Complex Vehicle Routing via Decomposed Retrieval of Constraints",
+      "authors": "Xia Jiang, Yaoxin Wu, Chenhao Zhang, Yingqian Zhang",
+      "paper_url": "https://openreview.net/pdf?id=s9zoyICZ4k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yheQRc5xWB",
+      "paper_id": "yheQRc5xWB",
+      "title": "Effective and Efficient Time-Varying Counterfactual Prediction with State-Space Models",
+      "authors": "Haotian Wang, Haoxuan Li, Hao Zou, Haoang Chi, Long Lan, Wanrong Huang, Wenjing Yang",
+      "paper_url": "https://openreview.net/pdf?id=yheQRc5xWB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_nO5caZwFwYu",
+      "paper_id": "nO5caZwFwYu",
+      "title": "Efficient Active Search for Combinatorial Optimization Problems",
+      "authors": "André Hottung, Yeong-Dae Kwon, Kevin Tierney",
+      "paper_url": "https://openreview.net/pdf/80ed58845ccc4912c64aeee73748354bf61b6a13.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_F57HPKZ6KD",
+      "paper_id": "F57HPKZ6KD",
+      "title": "Efficient and Robust Neural Combinatorial Optimization via Wasserstein-Based Coresets",
+      "authors": "Xu Wang, Fuyou Miao, Wenjie Liu, Yan Xiong",
+      "paper_url": "https://openreview.net/pdf?id=F57HPKZ6KD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BZYIEw4mcY",
+      "paper_id": "BZYIEw4mcY",
+      "title": "Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations",
+      "authors": "Xiu-Chuan Li, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=BZYIEw4mcY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_eYciPrLuUhG",
+      "paper_id": "eYciPrLuUhG",
+      "title": "Efficient Neural Causal Discovery without Acyclicity Constraints",
+      "authors": "Phillip Lippe, Taco Cohen, Efstratios Gavves",
+      "paper_url": "https://openreview.net/pdf/5cf966d1e6fc357e1082cb17294a14750c01b92e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_yuy6cGt3KL",
+      "paper_id": "yuy6cGt3KL",
+      "title": "Empirical Analysis of Model Selection for Heterogeneous Causal Effect Estimation",
+      "authors": "Divyat Mahajan, Ioannis Mitliagkas, Brady Neal, Vasilis Syrgkanis",
+      "paper_url": "https://openreview.net/pdf?id=yuy6cGt3KL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_hCmjBJeGXcu",
+      "paper_id": "hCmjBJeGXcu",
+      "title": "Enhancing Meta Learning via Multi-Objective Soft Improvement Functions",
+      "authors": "Runsheng Yu, Weiyu Chen, Xinrun Wang, James Kwok",
+      "paper_url": "https://openreview.net/pdf/f53bb21f36a339d8e616b517696e640b5fbfa3f3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_QVcDQJdFTG",
+      "paper_id": "QVcDQJdFTG",
+      "title": "Ensuring DNN Solution Feasibility for Optimization Problems with Linear Constraints",
+      "authors": "Tianyu Zhao, Xiang Pan, Minghua Chen, Steven Low",
+      "paper_url": "https://openreview.net/pdf/e48b4b7a07d7810a1f1175bb20762f88e7436ae8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_ULsuEVQbV-9",
+      "paper_id": "ULsuEVQbV-9",
+      "title": "Estimating individual treatment effects under unobserved confounding using binary instruments",
+      "authors": "Dennis Frauen, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf/2213116e2bc69d245d15ec4f4ff82d2de202dbe1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Tqdsruwyac",
+      "paper_id": "Tqdsruwyac",
+      "title": "Estimation of single-cell and tissue perturbation effect in spatial transcriptomics via Spatial Causal Disentanglement",
+      "authors": "Stathis Megas, Daniel G. Chen, Krzysztof Polanski, Moshe Eliasof, Carola-Bibiane Schönlieb, Sarah A Teichmann",
+      "paper_url": "https://openreview.net/pdf?id=Tqdsruwyac",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3n6DYH3cIP",
+      "paper_id": "3n6DYH3cIP",
+      "title": "Extendable and Iterative Structure Learning Strategy for Bayesian Networks",
+      "authors": "Hamid Kalantari, Russell Greiner, Pouria Ramazi",
+      "paper_url": "https://openreview.net/pdf?id=3n6DYH3cIP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xnF2U0ro7b",
+      "paper_id": "xnF2U0ro7b",
+      "title": "Feature-Based Online Bilateral Trade",
+      "authors": "Solenne Gaucher, Martino Bernasconi, Matteo Castiglioni, Andrea Celli, Vianney Perchet",
+      "paper_url": "https://openreview.net/pdf?id=xnF2U0ro7b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_m7tJxajC3G",
+      "paper_id": "m7tJxajC3G",
+      "title": "Federated Causal Discovery from Heterogeneous Data",
+      "authors": "Loka Li, Ignavier Ng, Gongxu Luo, Biwei Huang, Guangyi Chen, Tongliang Liu, Bin Gu, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=m7tJxajC3G",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KTgQGXz5xj",
+      "paper_id": "KTgQGXz5xj",
+      "title": "Federated Granger Causality Learning For Interdependent Clients With State Space Representation",
+      "authors": "Ayush Mohanty, Nazal Mohamed, Paritosh Ramanan, Nagi Gebraeel",
+      "paper_url": "https://openreview.net/pdf?id=KTgQGXz5xj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_O4N9kWwV6R",
+      "paper_id": "O4N9kWwV6R",
+      "title": "Few for Many: Tchebycheff Set Scalarization for Many-Objective Optimization",
+      "authors": "Xi Lin, Yilu Liu, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, Qingfu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=O4N9kWwV6R",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_bJxgv5C3sYc",
+      "paper_id": "bJxgv5C3sYc",
+      "title": "Few-Shot Bayesian Optimization with Deep Kernel Surrogates",
+      "authors": "Martin Wistuba, Josif Grabocka",
+      "paper_url": "https://openreview.net/pdf/252b5d1425d46a3495def0a2323048c2884c57db.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_rvvSSmGIFS",
+      "paper_id": "rvvSSmGIFS",
+      "title": "From Probability to Counterfactuals: the Increasing Complexity of Satisfiability in Pearl's Causal Hierarchy",
+      "authors": "Julian Dörfler, Benito van der Zander, Markus Bläser, Maciej Liskiewicz",
+      "paper_url": "https://openreview.net/pdf?id=rvvSSmGIFS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lBB3eSn6fY",
+      "paper_id": "lBB3eSn6fY",
+      "title": "Gaussian Mixture Counterfactual Generator",
+      "authors": "Jong-Hoon Ahn, Akshay Vashist",
+      "paper_url": "https://openreview.net/pdf?id=lBB3eSn6fY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_aKcS3xojnwY",
+      "paper_id": "aKcS3xojnwY",
+      "title": "GEASS: Neural causal feature selection for high-dimensional biological data",
+      "authors": "Mingze Dong, Yuval Kluger",
+      "paper_url": "https://openreview.net/pdf/cae8ae2947fab56338cdfefd11f686b7a431f9f7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_gFR4QwK53h",
+      "paper_id": "gFR4QwK53h",
+      "title": "Gene Regulatory Network Inference in the Presence of Dropouts: a Causal View",
+      "authors": "Haoyue Dai, Ignavier Ng, Gongxu Luo, Peter Spirtes, Petar Stojanov, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=gFR4QwK53h",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_vJZ7dPIjip3",
+      "paper_id": "vJZ7dPIjip3",
+      "title": "Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness",
+      "authors": "Simon Geisler, Johanna Sommer, Jan Schuchardt, Aleksandar Bojchevski, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/cde50097d313f95849a0784c71b151985455962b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_6ZajpxqTlQ",
+      "paper_id": "6ZajpxqTlQ",
+      "title": "Generalize Learned Heuristics to Solve Large-scale Vehicle Routing Problems in Real-time",
+      "authors": "Qingchun Hou, Jingwei Yang, Yiqiang Su, Xiaoqing Wang, Yuming Deng",
+      "paper_url": "https://openreview.net/pdf/1360725553e9aebf2b149f234ac6d83c46a077d4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_rGyi8NNqB0",
+      "paper_id": "rGyi8NNqB0",
+      "title": "Generating Likely Counterfactuals Using Sum-Product Networks",
+      "authors": "Jiří Němeček, Tomáš Pevný, Jakub Marecek",
+      "paper_url": "https://openreview.net/pdf?id=rGyi8NNqB0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_z2z9suDRjw",
+      "paper_id": "z2z9suDRjw",
+      "title": "GOAL: A Generalist Combinatorial Optimization Agent Learner",
+      "authors": "Darko Drakulic, Sofia Michel, Jean-Marc Andreoli",
+      "paper_url": "https://openreview.net/pdf?id=z2z9suDRjw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_B_pCIsX8KL_",
+      "paper_id": "B_pCIsX8KL_",
+      "title": "GRACE-C: Generalized Rate Agnostic Causal Estimation via Constraints",
+      "authors": "Mohammadsajad Abavisani, David Danks, Sergey Plis",
+      "paper_url": "https://openreview.net/pdf/c2afd6ed2baef8ba0d051c56c6a88ec4fdfd0cd9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_teE4pl9ftK",
+      "paper_id": "teE4pl9ftK",
+      "title": "Gradient-Free Generation for Hard-Constrained Systems",
+      "authors": "Chaoran Cheng, Boran Han, Danielle C. Maddix, Abdul Fatir Ansari, Andrew Stuart, Michael W. Mahoney, Bernie Wang",
+      "paper_url": "https://openreview.net/pdf?id=teE4pl9ftK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_nZOUYEN6Wvy",
+      "paper_id": "nZOUYEN6Wvy",
+      "title": "Granger causal inference on DAGs identifies genomic loci regulating transcription",
+      "authors": "Alexander P Wu, Rohit Singh, Bonnie Berger",
+      "paper_url": "https://openreview.net/pdf/85cdf969129ce01319414cf3e7f1ffc801bb8db0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_4PlbIfmX9o",
+      "paper_id": "4PlbIfmX9o",
+      "title": "Graph Assisted Offline-Online Deep Reinforcement Learning for Dynamic Workflow Scheduling",
+      "authors": "Yifan Yang, Gang Chen, Hui Ma, Cong Zhang, Zhiguang Cao, Mengjie Zhang",
+      "paper_url": "https://openreview.net/pdf?id=4PlbIfmX9o",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ar92oEosBIg",
+      "paper_id": "ar92oEosBIg",
+      "title": "Graph Neural Network Guided Local Search for the Traveling Salesperson Problem",
+      "authors": "Benjamin Hudson, Qingbiao Li, Matthew Malencia, Amanda Prorok",
+      "paper_url": "https://openreview.net/pdf/353e2dea7badc5c7bf552499ab129def8f532705.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_yHIIM9BgOo",
+      "paper_id": "yHIIM9BgOo",
+      "title": "Graph-based Deterministic Policy Gradient for Repetitive Combinatorial Optimization Problems",
+      "authors": "Zhongyuan Zhao, Ananthram Swami, Santiago Segarra",
+      "paper_url": "https://openreview.net/pdf/375cd8060d66d3802592086cf8d856f477c86f39.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_SIuD7CySb4",
+      "paper_id": "SIuD7CySb4",
+      "title": "High-Dimensional Bayesian Optimisation with Gaussian Process Prior Variational Autoencoders",
+      "authors": "Siddharth Ramchandran, Manuel Haussmann, Harri Lähdesmäki",
+      "paper_url": "https://openreview.net/pdf?id=SIuD7CySb4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_nAgdXgfmqj",
+      "paper_id": "nAgdXgfmqj",
+      "title": "Hyperparameter Optimization through Neural Network Partitioning",
+      "authors": "Bruno Kacper Mlodozeniec, Matthias Reisser, Christos Louizos",
+      "paper_url": "https://openreview.net/pdf/c737a202fd8cca6c64afefee284c5754e3676139.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_k03mB41vyM",
+      "paper_id": "k03mB41vyM",
+      "title": "Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning",
+      "authors": "Patrik Reizinger, Siyuan Guo, Ferenc Huszár, Bernhard Schölkopf, Wieland Brendel",
+      "paper_url": "https://openreview.net/pdf?id=k03mB41vyM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ia9fKO1Vjq",
+      "paper_id": "ia9fKO1Vjq",
+      "title": "Identifiable Latent Polynomial Causal Models through the Lens of Change",
+      "authors": "Yuhang Liu, Zhen Zhang, Dong Gong, Mingming Gong, Biwei Huang, Anton van den Hengel, Kun Zhang, Javen Qinfeng Shi",
+      "paper_url": "https://openreview.net/pdf?id=ia9fKO1Vjq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_0mtz0pet1z",
+      "paper_id": "0mtz0pet1z",
+      "title": "Incremental Causal Effect for Time to Treatment Initialization",
+      "authors": "Andrew Ying, Zhichen Zhao, Ronghui Xu",
+      "paper_url": "https://openreview.net/pdf?id=0mtz0pet1z",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_w50MQ9Vfty",
+      "paper_id": "w50MQ9Vfty",
+      "title": "Independent-Set Design of Experiments for Estimating Treatment and Spillover Effects under Network Interference",
+      "authors": "Chencheng Cai, Xu Zhang, Edoardo Airoldi",
+      "paper_url": "https://openreview.net/pdf?id=w50MQ9Vfty",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3Fgylj4uqL",
+      "paper_id": "3Fgylj4uqL",
+      "title": "Interpretable Causal Representation Learning for Biological Data in the Pathway Space",
+      "authors": "Jesus de la Fuente Cedeño, Robert Lehmann, Carlos Ruiz-Arenas, Jan Voges, Irene Marín-Goñi, Xabier Martinez de Morentin, David Gomez-Cabrero, Idoia Ochoa, Jesper Tegnér, Vincenzo Lagani, Mikel Hernaez",
+      "paper_url": "https://openreview.net/pdf?id=3Fgylj4uqL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_SEcSahl0Ql",
+      "paper_id": "SEcSahl0Ql",
+      "title": "Iterative Circuit Repair Against Formal Specifications",
+      "authors": "Matthias Cosler, Frederik Schmitt, Christopher Hahn, Bernd Finkbeiner",
+      "paper_url": "https://openreview.net/pdf/836416358c35826ddb12f100d55e28a66973ef30.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_nhrXqy5d5q",
+      "paper_id": "nhrXqy5d5q",
+      "title": "KinFormer: Generalizable Dynamical Symbolic Regression for Catalytic Organic Reaction Kinetics",
+      "authors": "Jindou Chen, Jidong Tian, Liang Wu, ChenXinWei, Xiaokang Yang, Yaohui Jin, Yanyan Xu",
+      "paper_url": "https://openreview.net/pdf?id=nhrXqy5d5q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_McfYbKnpT8",
+      "paper_id": "McfYbKnpT8",
+      "title": "L2P-MIP: Learning to Presolve for Mixed Integer Programming",
+      "authors": "Chang Liu, Zhichen Dong, Haobo Ma, Weilin Luo, Xijun Li, Bowen Pang, Jia Zeng, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=McfYbKnpT8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_YLIsIzC74j",
+      "paper_id": "YLIsIzC74j",
+      "title": "LaMPlace: Learning to Optimize Cross-Stage Metrics in Macro Placement",
+      "authors": "Zijie Geng, Jie Wang, Ziyan Liu, Siyuan Xu, Zhentao Tang, Shixiong Kai, Mingxuan Yuan, Jianye HAO, Feng Wu",
+      "paper_url": "https://openreview.net/pdf?id=YLIsIzC74j",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZCOwwRAaEl",
+      "paper_id": "ZCOwwRAaEl",
+      "title": "Latent Bayesian Optimization via Autoregressive Normalizing Flows",
+      "authors": "Seunghun Lee, Jinyoung Park, Jaewon Chu, Minseo Yoon, Hyunwoo J. Kim",
+      "paper_url": "https://openreview.net/pdf?id=ZCOwwRAaEl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_688hNNMigVX",
+      "paper_id": "688hNNMigVX",
+      "title": "Learning a Data-Driven Policy Network for Pre-Training Automated Feature Engineering",
+      "authors": "Liyao Li, Haobo Wang, Liangyu Zha, Qingyi Huang, Sai Wu, Gang Chen, Junbo Zhao",
+      "paper_url": "https://openreview.net/pdf/1c15c68dc3b8354cfb9326758f23b4ffaddbca2d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_90JprVrJBO",
+      "paper_id": "90JprVrJBO",
+      "title": "Learning a Latent Search Space for Routing Problems using Variational Autoencoders",
+      "authors": "André Hottung, Bhanu Bhandari, Kevin Tierney",
+      "paper_url": "https://openreview.net/pdf/4be79a469cf7db5216d43cb8af17c5e397e9033b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ozZG5FXuTV",
+      "paper_id": "ozZG5FXuTV",
+      "title": "Learning Causal Alignment for Reliable Disease Diagnosis",
+      "authors": "Mingzhou Liu, Ching-Wen Lee, Xinwei Sun, Xueqing Yu, Yu QIAO, Yizhou Wang",
+      "paper_url": "https://openreview.net/pdf?id=ozZG5FXuTV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_7twQI5VnC8",
+      "paper_id": "7twQI5VnC8",
+      "title": "Learning Causal Models from Conditional Moment Restrictions by Importance Weighting",
+      "authors": "Masahiro Kato, Masaaki Imaizumi, Kenichiro McAlinn, Shota Yasui, Haruo Kakehi",
+      "paper_url": "https://openreview.net/pdf/84e1728a94b82499ea64a0d48409de2dfc9115ee.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Zob4P9bRNcK",
+      "paper_id": "Zob4P9bRNcK",
+      "title": "Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model",
+      "authors": "Zhihai Wang, Xijun Li, Jie Wang, Yufei Kuang, Mingxuan Yuan, Jia Zeng, Yongdong Zhang, Feng Wu",
+      "paper_url": "https://openreview.net/pdf/6885b5f02c9a39764dee43349192398b48a69fd5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_sy4Kg_ZQmS7",
+      "paper_id": "sy4Kg_ZQmS7",
+      "title": "Learning Deep Features in Instrumental Variable Regression",
+      "authors": "Liyuan Xu, Yutian Chen, Siddarth Srinivasan, Nando de Freitas, Arnaud Doucet, Arthur Gretton",
+      "paper_url": "https://openreview.net/pdf/44b63f5cdbd7a7ace70009826587fc8c176ef370.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_vdv6CmGksr0",
+      "paper_id": "vdv6CmGksr0",
+      "title": "Learning differentiable solvers for systems with hard constraints",
+      "authors": "Geoffrey Négiar, Michael W. Mahoney, Aditi Krishnapriyan",
+      "paper_url": "https://openreview.net/pdf/b2516cea0dddbe611fcfe92c6b78facc1d26b776.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_JJCjv4dAbyL",
+      "paper_id": "JJCjv4dAbyL",
+      "title": "Learning Discrete Structured Variational Auto-Encoder using Natural Evolution Strategies",
+      "authors": "Alon Berliner, Guy Rotman, Yossi Adi, Roi Reichart, Tamir Hazan",
+      "paper_url": "https://openreview.net/pdf/31efa202599273e261068a5a41dffffc4fe9a922.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_bfuGjlCwAq",
+      "paper_id": "bfuGjlCwAq",
+      "title": "Learning Efficient Online 3D Bin Packing on Packing Configuration Trees",
+      "authors": "Hang Zhao, Yang Yu, Kai Xu",
+      "paper_url": "https://openreview.net/pdf/e5e3ec7c1a72d597a2bb22fa50e8e20915ce740c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_5LXw_QplBiF",
+      "paper_id": "5LXw_QplBiF",
+      "title": "Learning Hierarchical Structures with Differentiable Nondeterministic Stacks",
+      "authors": "Brian DuSell, David Chiang",
+      "paper_url": "https://openreview.net/pdf/bfc2ff0a81fd70d01a09a0cb018dddf36e401060.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_DTkEfj0Ygb8",
+      "paper_id": "DTkEfj0Ygb8",
+      "title": "Learning meta-features for AutoML",
+      "authors": "Herilalaina Rakotoarison, Louisot Milijaona, Andry RASOANAIVO, Michele Sebag, Marc Schoenauer",
+      "paper_url": "https://openreview.net/pdf/2c85e44817e8f27a5434ef26f8089b6dbaec6dab.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_06Wy2BtxXrz",
+      "paper_id": "06Wy2BtxXrz",
+      "title": "Learning Scenario Representation for Solving Two-stage Stochastic Integer Programs",
+      "authors": "Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang",
+      "paper_url": "https://openreview.net/pdf/87cf7ed439965040c8013759c94576533321c4b5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_uUsL07BsMA",
+      "paper_id": "uUsL07BsMA",
+      "title": "Learning Splitting Heuristics in Divide-and-Conquer SAT Solvers with Reinforcement Learning",
+      "authors": "Shumao Zhai, Ning Ge",
+      "paper_url": "https://openreview.net/pdf?id=uUsL07BsMA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_NjF772F4ZZR",
+      "paper_id": "NjF772F4ZZR",
+      "title": "Learning the Pareto Front with Hypernetworks",
+      "authors": "Aviv Navon, Aviv Shamsian, Ethan Fetaya, Gal Chechik",
+      "paper_url": "https://openreview.net/pdf/9c01e8c47f7e80e87af0175ac2a5e9a356f518bd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_ZcnzsHC10Y",
+      "paper_id": "ZcnzsHC10Y",
+      "title": "Learning to CROSS exchange to solve min-max vehicle routing problems",
+      "authors": "Minjun Kim, Junyoung Park, Jinkyoo Park",
+      "paper_url": "https://openreview.net/pdf/f6186924d42b52101410a5f83ca38d9887b561a2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_vaJ4FObpXN",
+      "paper_id": "vaJ4FObpXN",
+      "title": "Learning to Explore and Exploit with GNNs for Unsupervised Combinatorial Optimization",
+      "authors": "Utku Umur ACIKALIN, Aaron M Ferber, Carla P Gomes",
+      "paper_url": "https://openreview.net/pdf?id=vaJ4FObpXN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JHW30A4DXtO",
+      "paper_id": "JHW30A4DXtO",
+      "title": "Learning to Generate Columns with Application to Vertex Coloring",
+      "authors": "Yuan Sun, Andreas T Ernst, Xiaodong Li, Jake Weiner",
+      "paper_url": "https://openreview.net/pdf/d01af810369c47ba35939f31eeca144538d779b4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_hp_RwhKDJ5",
+      "paper_id": "hp_RwhKDJ5",
+      "title": "Learning to Induce Causal Structure",
+      "authors": "Nan Rosemary Ke, Silvia Chiappa, Jane X Wang, Jorg Bornschein, Anirudh Goyal, Melanie Rey, Theophane Weber, Matthew Botvinick, Michael Curtis Mozer, Danilo Jimenez Rezende",
+      "paper_url": "https://openreview.net/pdf/643ee1c6aa6829fd0ace9b8add8fa3bf34b9861f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_ac288vnG_7U",
+      "paper_id": "ac288vnG_7U",
+      "title": "Learning to Make Decisions via Submodular Regularization",
+      "authors": "Ayya Alieva, Aiden Aceves, Jialin Song, Stephen Mayo, Yisong Yue, Yuxin Chen",
+      "paper_url": "https://openreview.net/pdf/1c1034956d2f523aa299974f4f639d1b8ecb0026.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_5t57omGVMw",
+      "paper_id": "5t57omGVMw",
+      "title": "Learning to Relax: Setting Solver Parameters Across a Sequence of Linear System Instances",
+      "authors": "Mikhail Khodak, Edmond Chow, Maria Florina Balcan, Ameet Talwalkar",
+      "paper_url": "https://openreview.net/pdf?id=5t57omGVMw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gyvYKLEm8t",
+      "paper_id": "gyvYKLEm8t",
+      "title": "Learning to Select Nodes in Branch and Bound with Sufficient Tree Representation",
+      "authors": "Sijia Zhang, Shuli Zeng, Shaoang Li, Feng Wu, Xiangyang Li",
+      "paper_url": "https://openreview.net/pdf?id=gyvYKLEm8t",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_6hvtSLkKeZ",
+      "paper_id": "6hvtSLkKeZ",
+      "title": "Learning to solve Class-Constrained Bin Packing Problems via Encoder-Decoder Model",
+      "authors": "Hanni Cheng, Ya Cong, Weihao Jiang, Shiliang Pu",
+      "paper_url": "https://openreview.net/pdf?id=6hvtSLkKeZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Aly68Y5Es0",
+      "paper_id": "Aly68Y5Es0",
+      "title": "Learning-Guided Rolling Horizon Optimization for Long-Horizon Flexible Job-Shop Scheduling",
+      "authors": "Sirui Li, Wenbin Ouyang, Yining Ma, Cathy Wu",
+      "paper_url": "https://openreview.net/pdf?id=Aly68Y5Es0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Bl3e8HV9xW",
+      "paper_id": "Bl3e8HV9xW",
+      "title": "Leveraging Variable Sparsity to Refine Pareto Stationarity in Multi-Objective Optimization",
+      "authors": "Zeou Hu, Yaoliang Yu",
+      "paper_url": "https://openreview.net/pdf?id=Bl3e8HV9xW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_2oWRumm67L",
+      "paper_id": "2oWRumm67L",
+      "title": "Light-MILPopt: Solving Large-scale Mixed Integer Linear Programs with Lightweight Optimizer and Small-scale Training Dataset",
+      "authors": "Huigen Ye, Hua Xu, Hongyan Wang",
+      "paper_url": "https://openreview.net/pdf?id=2oWRumm67L",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_bjxuqI4KwU",
+      "paper_id": "bjxuqI4KwU",
+      "title": "Linear SCM Identification in the Presence of Confounders and Gaussian Noise",
+      "authors": "Vahideh Sanjaroonpouri, Pouria Ramazi",
+      "paper_url": "https://openreview.net/pdf?id=bjxuqI4KwU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9OMvtboTJg",
+      "paper_id": "9OMvtboTJg",
+      "title": "LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch",
+      "authors": "Caigao JIANG, Xiang Shu, Hong Qian, Xingyu Lu, JUN ZHOU, Aimin Zhou, Yang Yu",
+      "paper_url": "https://openreview.net/pdf?id=9OMvtboTJg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_s7oOe6cNRT8",
+      "paper_id": "s7oOe6cNRT8",
+      "title": "M-L2O: Towards Generalizable Learning-to-Optimize by Test-Time Fast Self-Adaptation",
+      "authors": "Junjie Yang, Xuxi Chen, Tianlong Chen, Zhangyang Wang, Yingbin Liang",
+      "paper_url": "https://openreview.net/pdf/28968ae7fa07510ed3a4c526367db53e51ef3115.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Neb17mimVH",
+      "paper_id": "Neb17mimVH",
+      "title": "Many-Objective Multi-Solution Transport",
+      "authors": "Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf?id=Neb17mimVH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1v7SRWsYve",
+      "paper_id": "1v7SRWsYve",
+      "title": "MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation",
+      "authors": "Lu Li, Tianyu Zhang, Zhiqi Bu, Suyuchen Wang, Huan He, Jie Fu, Yonghui Wu, Jiang Bian, Yong Chen, Yoshua Bengio",
+      "paper_url": "https://openreview.net/pdf?id=1v7SRWsYve",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_lZOUQQvwI3q",
+      "paper_id": "lZOUQQvwI3q",
+      "title": "Measuring axiomatic soundness of counterfactual image models",
+      "authors": "Miguel Monteiro, Fabio De Sousa Ribeiro, Nick Pawlowski, Daniel C. Castro, Ben Glocker",
+      "paper_url": "https://openreview.net/pdf/612f4ebbac94eb2919e2ce21756885ab089b5461.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ElykcDu5YK",
+      "paper_id": "ElykcDu5YK",
+      "title": "Meta-VBO: Utilizing Prior Tasks in Optimizing Risk Measures with Gaussian Processes",
+      "authors": "Quoc Phong Nguyen, Bryan Kian Hsiang Low, Patrick Jaillet",
+      "paper_url": "https://openreview.net/pdf?id=ElykcDu5YK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_j8lqABLgub",
+      "paper_id": "j8lqABLgub",
+      "title": "Minimalistic Predictions for Online Class Constraint Scheduling",
+      "authors": "Dorian Guyot, Alexandra Anna Lassota",
+      "paper_url": "https://openreview.net/pdf?id=j8lqABLgub",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dLAYGdKTi2",
+      "paper_id": "dLAYGdKTi2",
+      "title": "Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach",
+      "authors": "Heshan Devaka Fernando, Han Shen, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, Tianyi Chen",
+      "paper_url": "https://openreview.net/pdf/9e46581e9b775d4b10ffcc00c43e0bdb8d21e1b4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_PXXuLvIH5r",
+      "paper_id": "PXXuLvIH5r",
+      "title": "MixSATGEN: Learning Graph Mixing for SAT Instance Generation",
+      "authors": "Xinyan Chen, Yang Li, Runzhong Wang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=PXXuLvIH5r",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QGGNvKaoIU",
+      "paper_id": "QGGNvKaoIU",
+      "title": "Model-agnostic meta-learners for estimating heterogeneous treatment effects over time",
+      "authors": "Dennis Frauen, Konstantin Hess, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf?id=QGGNvKaoIU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9mjZ800m7Y",
+      "paper_id": "9mjZ800m7Y",
+      "title": "Multi-objective Differentiable Neural Architecture Search",
+      "authors": "Rhea Sanjay Sukthanker, Arber Zela, Benedikt Staffler, Samuel Dooley, Josif Grabocka, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf?id=9mjZ800m7Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dKkMnCWfVmm",
+      "paper_id": "dKkMnCWfVmm",
+      "title": "Multi-Objective Online Learning",
+      "authors": "Jiyan Jiang, Wenpeng Zhang, Shiji Zhou, Lihong Gu, Xiaodong Zeng, Wenwu Zhu",
+      "paper_url": "https://openreview.net/pdf/e427cee744afa5b7154df61d9ed0fad7ea26144a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_FlwzVjfMryn",
+      "paper_id": "FlwzVjfMryn",
+      "title": "Multi-objective Optimization by Learning Space Partition",
+      "authors": "Yiyang Zhao, Linnan Wang, Kevin Yang, Tianjun Zhang, Tian Guo, Yuandong Tian",
+      "paper_url": "https://openreview.net/pdf/9de2fff362decf573ae08e0c8975856a05f47a3d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_fSa5IjNMmmi",
+      "paper_id": "fSa5IjNMmmi",
+      "title": "Multi-objective optimization via equivariant deep hypervolume approximation",
+      "authors": "Jim Boelrijk, Bernd Ensing, Patrick Forré",
+      "paper_url": "https://openreview.net/pdf/a46f7e06fdd5abd79f16e1e24307e1e051bf3f9e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_OGtnhKQJms",
+      "paper_id": "OGtnhKQJms",
+      "title": "Multi-View Causal Representation Learning with Partial Observability",
+      "authors": "Dingling Yao, Danru Xu, Sebastien Lachapelle, Sara Magliacane, Perouz Taslakian, Georg Martius, Julius von Kügelgen, Francesco Locatello",
+      "paper_url": "https://openreview.net/pdf?id=OGtnhKQJms",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_vouQcZS8KfW",
+      "paper_id": "vouQcZS8KfW",
+      "title": "Neural Causal Models for Counterfactual Identification and Estimation",
+      "authors": "Kevin Muyuan Xia, Yushu Pan, Elias Bareinboim",
+      "paper_url": "https://openreview.net/pdf/6a0e21a7680d3623cb6e5a6b4eed2167928b096f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_WL8FlAugqQ",
+      "paper_id": "WL8FlAugqQ",
+      "title": "Neural DAG Scheduling via One-Shot Priority Sampling",
+      "authors": "Wonseok Jeon, Mukul Gagrani, Burak Bartan, Weiliang Will Zeng, Harris Teague, Piero Zappi, Christopher Lott",
+      "paper_url": "https://openreview.net/pdf/20210ea69d6b5ccead90b146eeb53cf34ed79f34.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_EEI5R89Cmv",
+      "paper_id": "EEI5R89Cmv",
+      "title": "Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization",
+      "authors": "Zeyuan Ma, Jiacheng Chen, Hongshu Guo, Yue-Jiao Gong",
+      "paper_url": "https://openreview.net/pdf?id=EEI5R89Cmv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ATp1nW2FuZL",
+      "paper_id": "ATp1nW2FuZL",
+      "title": "Neural Learning of One-of-Many Solutions for Combinatorial Problems in Structured Output Spaces",
+      "authors": "Yatin Nandwani, Deepanshu Jindal, Mausam ., Parag Singla",
+      "paper_url": "https://openreview.net/pdf/09d55ad89b9e871fb60d8b0a43c9dc6e57f59bd8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_ibrUkC-pbis",
+      "paper_id": "ibrUkC-pbis",
+      "title": "Neural Models for Output-Space Invariance in Combinatorial Problems",
+      "authors": "Yatin Nandwani, Vidit Jain, Mausam ., Parag Singla",
+      "paper_url": "https://openreview.net/pdf/372d1714883eb775a0b6579118d157fcb97f83bc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_4sJ2FYE65U",
+      "paper_id": "4sJ2FYE65U",
+      "title": "Neural Multi-Objective Combinatorial Optimization via Graph-Image Multimodal Fusion",
+      "authors": "Jinbiao Chen, Jiahai Wang, Zhiguang Cao, Yaoxin Wu",
+      "paper_url": "https://openreview.net/pdf?id=4sJ2FYE65U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_samyfu6G93",
+      "paper_id": "samyfu6G93",
+      "title": "NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks",
+      "authors": "Wenxi Wang, Yang Hu, Mohit Tiwari, Sarfraz Khurshid, Kenneth McMillan, Risto Miikkulainen",
+      "paper_url": "https://openreview.net/pdf?id=samyfu6G93",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_pxI5IPeWgW",
+      "paper_id": "pxI5IPeWgW",
+      "title": "ODE Discovery for Longitudinal Heterogeneous Treatment Effects Inference",
+      "authors": "Krzysztof Kacprzyk, Samuel Holt, Jeroen Berrevoets, Zhaozhi Qian, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=pxI5IPeWgW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TzoHLiGVMo",
+      "paper_id": "TzoHLiGVMo",
+      "title": "ODEFormer: Symbolic Regression of Dynamical Systems with Transformers",
+      "authors": "Stéphane d'Ascoli, Sören Becker, Philippe Schwaller, Alexander Mathis, Niki Kilbertus",
+      "paper_url": "https://openreview.net/pdf?id=TzoHLiGVMo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_FmMKSO4e8JK",
+      "paper_id": "FmMKSO4e8JK",
+      "title": "Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation",
+      "authors": "Justin Fu, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf/4fc7d9a4093bc9bafddf46785cafda74e0be40ce.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_2efNHgYRvM",
+      "paper_id": "2efNHgYRvM",
+      "title": "On the Identification of Temporal Causal Representation with Instantaneous Dependence",
+      "authors": "Zijian Li, Yifan Shen, Kaitao Zheng, Ruichu Cai, Xiangchen Song, Mingming Gong, Guangyi Chen, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=2efNHgYRvM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_bYGSzbCM_i",
+      "paper_id": "bYGSzbCM_i",
+      "title": "Online Adversarial Attacks",
+      "authors": "Andjela Mladenovic, Joey Bose, Hugo Berard, William L. Hamilton, Simon Lacoste-Julien, Pascal Vincent, Gauthier Gidel",
+      "paper_url": "https://openreview.net/pdf/24f13e61662f3513c6032f30cf8bf30a47bdd2d1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_DSQHjibtgKR",
+      "paper_id": "DSQHjibtgKR",
+      "title": "Online Facility Location with Predictions",
+      "authors": "Shaofeng H.-C. Jiang, Erzhi Liu, You Lyu, Zhihao Gavin Tang, Yubo Zhang",
+      "paper_url": "https://openreview.net/pdf/e6b7ec4392916092fad88aaf52f9e10a20de1162.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_qwBK94cP1y",
+      "paper_id": "qwBK94cP1y",
+      "title": "Optimal Transport for Causal Discovery",
+      "authors": "Ruibo Tu, Kun Zhang, Hedvig Kjellstrom, Cheng Zhang",
+      "paper_url": "https://openreview.net/pdf/beb079a1e442ec0e13e5da89161a1f30ba96279f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ReItdfwMcg",
+      "paper_id": "ReItdfwMcg",
+      "title": "Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression",
+      "authors": "Juno Kim, Dimitri Meunier, Arthur Gretton, Taiji Suzuki, Zhu Li",
+      "paper_url": "https://openreview.net/pdf?id=ReItdfwMcg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_D4NJFfrqoq",
+      "paper_id": "D4NJFfrqoq",
+      "title": "Optimistic Bayesian Optimization with Unknown Constraints",
+      "authors": "Quoc Phong Nguyen, Wan Theng Ruth Chew, Le Song, Bryan Kian Hsiang Low, Patrick Jaillet",
+      "paper_url": "https://openreview.net/pdf?id=D4NJFfrqoq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xiyzCfXTS6",
+      "paper_id": "xiyzCfXTS6",
+      "title": "Optimistic Games for Combinatorial Bayesian Optimization with Application to Protein Design",
+      "authors": "Melis Ilayda Bal, Pier Giuseppe Sessa, Mojmir Mutny, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf?id=xiyzCfXTS6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_nbC8iTTXIrk",
+      "paper_id": "nbC8iTTXIrk",
+      "title": "Optimization inspired Multi-Branch Equilibrium Models",
+      "authors": "Mingjie Li, Yisen Wang, Xingyu Xie, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf/64ff80fa7f6ea2e747dc3daa4a44b500a5e7888a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_I6UbnkUveF",
+      "paper_id": "I6UbnkUveF",
+      "title": "Optimizing Posterior Samples for Bayesian Optimization via Rootfinding",
+      "authors": "Taiwo Adebiyi, Bach Do, Ruda Zhang",
+      "paper_url": "https://openreview.net/pdf?id=I6UbnkUveF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YhfrKB3Ah7",
+      "paper_id": "YhfrKB3Ah7",
+      "title": "PABBO: Preferential Amortized Black-Box Optimization",
+      "authors": "Xinyu Zhang, Daolang Huang, Samuel Kaski, Julien Martinelli",
+      "paper_url": "https://openreview.net/pdf?id=YhfrKB3Ah7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_QuObT9BTWo",
+      "paper_id": "QuObT9BTWo",
+      "title": "Pareto Set Learning for Neural Multi-Objective Combinatorial Optimization",
+      "authors": "Xi Lin, Zhiyuan Yang, Qingfu Zhang",
+      "paper_url": "https://openreview.net/pdf/975b8b82804eaa05309f02856d161ef85810c9ca.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_mLyyB4le5u",
+      "paper_id": "mLyyB4le5u",
+      "title": "ParetoFlow: Guided Flows in Multi-Objective Optimization",
+      "authors": "Ye Yuan, Can Chen, Christopher Pal, Xue Liu",
+      "paper_url": "https://openreview.net/pdf?id=mLyyB4le5u",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8y5Uf6oEiB",
+      "paper_id": "8y5Uf6oEiB",
+      "title": "ParFam -- (Neural Guided) Symbolic Regression via Continuous Global Optimization",
+      "authors": "Philipp Scholl, Katharina Bieker, Hillary Hauger, Gitta Kutyniok",
+      "paper_url": "https://openreview.net/pdf?id=8y5Uf6oEiB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TKuYWeFE6S",
+      "paper_id": "TKuYWeFE6S",
+      "title": "PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization",
+      "authors": "André Hottung, Mridul Mahajan, Kevin Tierney",
+      "paper_url": "https://openreview.net/pdf?id=TKuYWeFE6S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ICYasJBlZNs",
+      "paper_id": "ICYasJBlZNs",
+      "title": "Predicting Cellular Responses with Variational Causal Inference and Refined Relational Information",
+      "authors": "Yulun Wu, Rob Barton, Zichen Wang, Vassilis N. Ioannidis, Carlo De Donno, Layne C Price, Luis F. Voloch, George Karypis",
+      "paper_url": "https://openreview.net/pdf/5f9f897ae409bffc5621445608f3a70103eb6b6e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_NdHka08uWn",
+      "paper_id": "NdHka08uWn",
+      "title": "RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression",
+      "authors": "Hengzhe Zhang, Qi Chen, Bing XUE, Wolfgang Banzhaf, Mengjie Zhang",
+      "paper_url": "https://openreview.net/pdf?id=NdHka08uWn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fGhr39bqZa",
+      "paper_id": "fGhr39bqZa",
+      "title": "Recovery of Causal Graph Involving Latent Variables via Homologous Surrogates",
+      "authors": "Xiu-Chuan Li, Jun Wang, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=fGhr39bqZa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_de1218PoEl",
+      "paper_id": "de1218PoEl",
+      "title": "Relaxing the Additivity Constraints in Decentralized No-Regret High-Dimensional Bayesian Optimization",
+      "authors": "Anthony Bardou, Patrick Thiran, Thomas Begin",
+      "paper_url": "https://openreview.net/pdf?id=de1218PoEl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jKhNBulNMh",
+      "paper_id": "jKhNBulNMh",
+      "title": "Rethinking Branching on Exact Combinatorial Optimization Solver: The First Deep Symbolic Discovery Framework",
+      "authors": "Yufei Kuang, Jie Wang, Haoyang Liu, Fangzhou Zhu, Xijun Li, Jia Zeng, Jianye HAO, Bin Li, Feng Wu",
+      "paper_url": "https://openreview.net/pdf?id=jKhNBulNMh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4pRwkYpa2u",
+      "paper_id": "4pRwkYpa2u",
+      "title": "Rethinking Light Decoder-based Solvers for Vehicle Routing Problems",
+      "authors": "Ziwei Huang, Jianan Zhou, Zhiguang Cao, Yixin XU",
+      "paper_url": "https://openreview.net/pdf?id=4pRwkYpa2u",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GM7cmQfk2F",
+      "paper_id": "GM7cmQfk2F",
+      "title": "Rethinking Neural Multi-Objective Combinatorial Optimization via Neat Weight Embedding",
+      "authors": "Jinbiao Chen, Zhiguang Cao, Jiahai Wang, Yaoxin Wu, Hanzhang Qin, Zizhen Zhang, Yue-Jiao Gong",
+      "paper_url": "https://openreview.net/pdf?id=GM7cmQfk2F",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OPGy07PojsZ",
+      "paper_id": "OPGy07PojsZ",
+      "title": "Rethinking Symbolic Regression: Morphology and Adaptability in the Context of Evolutionary Algorithms",
+      "authors": "Kei Sen Fong, Shelvia Wongso, Mehul Motani",
+      "paper_url": "https://openreview.net/pdf/7af58da043c44659d490a741c427285fdc8346d6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_gqeXXrIMr0",
+      "paper_id": "gqeXXrIMr0",
+      "title": "Rethinking Visual Counterfactual Explanations Through Region Constraint",
+      "authors": "Bartlomiej Sobieski, Jakub Grzywaczewski, Bartłomiej Sadlej, Matthew Tivnan, Przemyslaw Biecek",
+      "paper_url": "https://openreview.net/pdf?id=gqeXXrIMr0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0t1O8ziRZp",
+      "paper_id": "0t1O8ziRZp",
+      "title": "Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization",
+      "authors": "Animesh Basak Chowdhury, Marco Romanelli, Benjamin Tan, Ramesh Karri, Siddharth Garg",
+      "paper_url": "https://openreview.net/pdf?id=0t1O8ziRZp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xhEN0kJh4q",
+      "paper_id": "xhEN0kJh4q",
+      "title": "Robust Model-Based Optimization for Challenging Fitness Landscapes",
+      "authors": "Saba Ghaffari, Ehsan Saleh, Alex Schwing, Yu-Xiong Wang, Martin D. Burke, Saurabh Sinha",
+      "paper_url": "https://openreview.net/pdf?id=xhEN0kJh4q",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_2r6YMqz4Mml",
+      "paper_id": "2r6YMqz4Mml",
+      "title": "ROCO: A General Framework for Evaluating Robustness of Combinatorial Optimization Solvers on Graphs",
+      "authors": "Han Lu, Zenan Li, Runzhong Wang, Qibing Ren, Xijun Li, Mingxuan Yuan, Jia Zeng, Xiaokang Yang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf/406ee084bb8f0247b906b0b194bf1f0315cb7867.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_AloCXPpq54",
+      "paper_id": "AloCXPpq54",
+      "title": "Sequential Stochastic Combinatorial Optimization Using Hierarchal Reinforcement Learning",
+      "authors": "Xinsong Feng, Zihan Yu, Yanhai Xiong, Haipeng Chen",
+      "paper_url": "https://openreview.net/pdf?id=AloCXPpq54",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Nx4PMtJ1ER",
+      "paper_id": "Nx4PMtJ1ER",
+      "title": "Signature Kernel Conditional Independence Tests in Causal Discovery for Stochastic Processes",
+      "authors": "Georg Manten, Cecilia Casolo, Emilio Ferrucci, Søren Wengel Mogensen, Cristopher Salvi, Niki Kilbertus",
+      "paper_url": "https://openreview.net/pdf?id=Nx4PMtJ1ER",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bqf0aCF3Dd",
+      "paper_id": "bqf0aCF3Dd",
+      "title": "SOO-Bench: Benchmarks for Evaluating the Stability of Offline Black-Box Optimization",
+      "authors": "Hong Qian, Yiyi Zhu, Xiang Shu, Shuo Liu, Yaolin Wen, Xin An, Huakang Lu, Aimin Zhou, Ke Tang, Yang Yu",
+      "paper_url": "https://openreview.net/pdf?id=bqf0aCF3Dd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kX8h23UG6v",
+      "paper_id": "kX8h23UG6v",
+      "title": "Standard Gaussian Process is All You Need for High-Dimensional Bayesian Optimization",
+      "authors": "Zhitong Xu, Haitao Wang, Jeff M. Phillips, Shandian Zhe",
+      "paper_url": "https://openreview.net/pdf?id=kX8h23UG6v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_aXuWowhIYt",
+      "paper_id": "aXuWowhIYt",
+      "title": "Standardizing Structural Causal Models",
+      "authors": "Weronika Ormaniec, Scott Sussex, Lars Lorch, Bernhard Schölkopf, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf?id=aXuWowhIYt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nHkMm0ywWm",
+      "paper_id": "nHkMm0ywWm",
+      "title": "Structural Estimation of Partially Observed Linear Non-Gaussian Acyclic Model: A Practical Approach with Identifiability",
+      "authors": "Songyao Jin, Feng Xie, Guangyi Chen, Biwei Huang, Zhengming Chen, Xinshuai Dong, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=nHkMm0ywWm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vLJcd43U7a",
+      "paper_id": "vLJcd43U7a",
+      "title": "SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning",
+      "authors": "Jiacheng Chen, Zeyuan Ma, Hongshu Guo, Yining Ma, Jie Zhang, Yue-Jiao Gong",
+      "paper_url": "https://openreview.net/pdf?id=vLJcd43U7a",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_ef0nInZHKIC",
+      "paper_id": "ef0nInZHKIC",
+      "title": "Symbolic Learning to Optimize: Towards Interpretability and Scalability",
+      "authors": "Wenqing Zheng, Tianlong Chen, Ting-Kuei Hu, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf/278475a0ef39ae7c0ff2e358f9723083c0b6b342.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ljAS7cPAU0",
+      "paper_id": "ljAS7cPAU0",
+      "title": "Symbolic regression via MDLformer-guided search: from minimizing prediction error to minimizing description length",
+      "authors": "Zihan Yu, Jingtao Ding, Yong Li, Depeng Jin",
+      "paper_url": "https://openreview.net/pdf?id=ljAS7cPAU0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_J9VogDTa1W",
+      "paper_id": "J9VogDTa1W",
+      "title": "Systems with Switching Causal Relations: A Meta-Causal Perspective",
+      "authors": "Moritz Willig, Tim Tobiasch, Florian Peter Busch, Jonas Seng, Devendra Singh Dhami, Kristian Kersting",
+      "paper_url": "https://openreview.net/pdf?id=J9VogDTa1W",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_0Ij9_q567Ma",
+      "paper_id": "0Ij9_q567Ma",
+      "title": "Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectives",
+      "authors": "Shaokun Zhang, Feiran Jia, Chi Wang, Qingyun Wu",
+      "paper_url": "https://openreview.net/pdf/01544b5bcb68c0bc76fbffa2876dca9d12ec0f24.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Jd3Vd7GCyq",
+      "paper_id": "Jd3Vd7GCyq",
+      "title": "The Computational Complexity of Positive Non-Clashing Teaching in Graphs",
+      "authors": "Robert Ganian, Liana Khazaliya, Fionn Mc Inerney, Mathis Rocton",
+      "paper_url": "https://openreview.net/pdf?id=Jd3Vd7GCyq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iaP7yHRq1l",
+      "paper_id": "iaP7yHRq1l",
+      "title": "THE ROBUSTNESS OF DIFFERENTIABLE CAUSAL DISCOVERY IN MISSPECIFIED SCENARIOS",
+      "authors": "Huiyang Yi, Yanyan He, Duxin Chen, Mingyu Kang, He Wang, Wenwu Yu",
+      "paper_url": "https://openreview.net/pdf?id=iaP7yHRq1l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_m0x0rv6Iwm",
+      "paper_id": "m0x0rv6Iwm",
+      "title": "Time-Varying Propensity Score to Bridge the Gap between the Past and Present",
+      "authors": "Rasool Fakoor, Jonas Mueller, Zachary Chase Lipton, Pratik Chaudhari, Alex Smola",
+      "paper_url": "https://openreview.net/pdf?id=m0x0rv6Iwm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_v1VvCWJAL8",
+      "paper_id": "v1VvCWJAL8",
+      "title": "Towards Characterizing Domain Counterfactuals for Invertible Latent Causal Models",
+      "authors": "Zeyu Zhou, Ruqi Bai, Sean Kulinski, Murat Kocaoglu, David I. Inouye",
+      "paper_url": "https://openreview.net/pdf?id=v1VvCWJAL8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6yENDA7J4G",
+      "paper_id": "6yENDA7J4G",
+      "title": "Towards Foundation Models for Mixed Integer Linear Programming",
+      "authors": "Sirui Li, Janardhan Kulkarni, Ishai Menache, Cathy Wu, Beibin Li",
+      "paper_url": "https://openreview.net/pdf?id=6yENDA7J4G",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_NdcQQ82mfy",
+      "paper_id": "NdcQQ82mfy",
+      "title": "Towards Imitation Learning to Branch for MIP: A Hybrid Reinforcement Learning based Sample Augmentation Approach",
+      "authors": "Changwen Zhang, Wenli Ouyang, Hao Yuan, Liming Gong, Yong Sun, Ziao Guo, Zhichen Dong, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=NdcQQ82mfy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_h21yJhdzbwz",
+      "paper_id": "h21yJhdzbwz",
+      "title": "Towards One-shot Neural Combinatorial Solvers: Theoretical and Empirical Notes on the Cardinality-Constrained Case",
+      "authors": "Runzhong Wang, Li Shen, Yiting Chen, Xiaokang Yang, Dacheng Tao, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf/47ff06773ffd6757c65cd362fde9c7bfd3176168.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_ULzyv9M1j5",
+      "paper_id": "ULzyv9M1j5",
+      "title": "Transformer-based model for symbolic regression via joint supervised learning",
+      "authors": "Wenqiang Li, Weijun Li, Linjun Sun, Min Wu, Lina Yu, Jingyi Liu, Yanjie Li, Songsong Tian",
+      "paper_url": "https://openreview.net/pdf/9f75235bc383f592ff6dce2f44b927b805abc762.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_oOGqJ6Z1sA",
+      "paper_id": "oOGqJ6Z1sA",
+      "title": "Treatment Effects Estimation By Uniform Transformer",
+      "authors": "Ruoqi Yu, Shulei Wang",
+      "paper_url": "https://openreview.net/pdf?id=oOGqJ6Z1sA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rpwGUtTeA5",
+      "paper_id": "rpwGUtTeA5",
+      "title": "UniCBE: An Uniformity-driven Comparing Based Evaluation Framework with Unified Multi-Objective Optimization",
+      "authors": "Peiwen Yuan, Shaoxiong Feng, Yiwei Li, Xinglin Wang, Yueqi Zhang, Jiayi Shi, Chuyi Tan, Boyuan Pan, Yao Hu, Kan Li",
+      "paper_url": "https://openreview.net/pdf?id=rpwGUtTeA5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yEwakMNIex",
+      "paper_id": "yEwakMNIex",
+      "title": "UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP",
+      "authors": "Wenzheng Pan, Hao Xiong, Jiale Ma, Wentao Zhao, Yang Li, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=yEwakMNIex",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_grU1VKEOLi",
+      "paper_id": "grU1VKEOLi",
+      "title": "Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search",
+      "authors": "Yang Li, Jiale Ma, Wenzheng Pan, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=grU1VKEOLi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lk2Qk5xjeu",
+      "paper_id": "lk2Qk5xjeu",
+      "title": "Unifying Causal Representation Learning with the Invariance Principle",
+      "authors": "Dingling Yao, Dario Rancati, Riccardo Cadei, Marco Fumero, Francesco Locatello",
+      "paper_url": "https://openreview.net/pdf?id=lk2Qk5xjeu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_-ENYHCE8zBp",
+      "paper_id": "-ENYHCE8zBp",
+      "title": "Unsupervised Learning for Combinatorial Optimization Needs Meta Learning",
+      "authors": "Haoyu Peter Wang, Pan Li",
+      "paper_url": "https://openreview.net/pdf/e6cfc858d7dfca232e84231fb4af2c1decd454a2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_RmB-88r9dL",
+      "paper_id": "RmB-88r9dL",
+      "title": "VCNet and Functional Targeted Regularization For Learning Causal Effects of Continuous Treatments",
+      "authors": "Lizhen Nie, Mao Ye, qiang liu, Dan Nicolae",
+      "paper_url": "https://openreview.net/pdf/5c2b12078d2981db4bb6e855b2055a732e936fca.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_mk0HzdqY7i1",
+      "paper_id": "mk0HzdqY7i1",
+      "title": "What’s Wrong with Deep Learning in Tree Search for Combinatorial Optimization",
+      "authors": "Maximilian Böther, Otto Kißig, Martin Taraz, Sarel Cohen, Karen Seidel, Tobias Friedrich",
+      "paper_url": "https://openreview.net/pdf/e5f8071b2a7b4ea5b72a544d5351737d28998d92.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_xByvdb3DCm",
+      "paper_id": "xByvdb3DCm",
+      "title": "When Selection Meets Intervention: Additional Complexities in Causal Discovery",
+      "authors": "Haoyue Dai, Ignavier Ng, Jianle Sun, Zeyu Tang, Gongxu Luo, Xinshuai Dong, Peter Spirtes, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf?id=xByvdb3DCm",
+      "venue": "iclr25"
+    }
+  ]
+}

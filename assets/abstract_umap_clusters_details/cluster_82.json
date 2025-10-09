@@ -1,0 +1,3541 @@
+{
+  "cluster_id": 82,
+  "papers": [
+    {
+      "id": "iclr24_fLf589bx1f",
+      "paper_id": "fLf589bx1f",
+      "title": "$\\mathcal{B}$-Coder: Value-Based Deep Reinforcement Learning for Program Synthesis",
+      "authors": "Zishun Yu, Yunzhe Tao, Liyu Chen, Tao Sun, Hongxia Yang",
+      "paper_url": "https://openreview.net/pdf?id=fLf589bx1f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_CkgKSqZbuC",
+      "paper_id": "CkgKSqZbuC",
+      "title": "$R^2$-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning",
+      "authors": "Mintong Kang, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=CkgKSqZbuC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rAoEub6Nw2",
+      "paper_id": "rAoEub6Nw2",
+      "title": "A Statistical Framework for Ranking LLM-based Chatbots",
+      "authors": "Siavash Ameli, Siyuan Zhuang, Ion Stoica, Michael W. Mahoney",
+      "paper_url": "https://openreview.net/pdf?id=rAoEub6Nw2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JAMxRSXLFz",
+      "paper_id": "JAMxRSXLFz",
+      "title": "Active Task Disambiguation with LLMs",
+      "authors": "Kasia Kobalczyk, Nicolás Astorga, Tennison Liu, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=JAMxRSXLFz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_auKAUJZMO6",
+      "paper_id": "auKAUJZMO6",
+      "title": "Adaptive Chameleon  or Stubborn Sloth: Revealing the Behavior of Large Language Models in Knowledge Conflicts",
+      "authors": "Jian Xie, Kai Zhang, Jiangjie Chen, Renze Lou, Yu Su",
+      "paper_url": "https://openreview.net/pdf?id=auKAUJZMO6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2ea5TNVR0c",
+      "paper_id": "2ea5TNVR0c",
+      "title": "Advancing LLM Reasoning Generalists with Preference Trees",
+      "authors": "Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Boji Shan, Zeyuan Liu, Jia Deng, Huimin Chen, Ruobing Xie, Yankai Lin, Zhenghao Liu, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=2ea5TNVR0c",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GtpubstM1D",
+      "paper_id": "GtpubstM1D",
+      "title": "Advancing Mathematical Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages",
+      "authors": "Zui Chen, Tianqiao Liu, Tongqing, Mi Tian, Weiqi Luo, Zitao Liu",
+      "paper_url": "https://openreview.net/pdf?id=GtpubstM1D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Kvdh12wGC0",
+      "paper_id": "Kvdh12wGC0",
+      "title": "Agent Skill Acquisition for Large Language Models via CycleQD",
+      "authors": "So Kuroki, Taishi Nakamura, Takuya Akiba, Yujin Tang",
+      "paper_url": "https://openreview.net/pdf?id=Kvdh12wGC0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_zAdUB0aCTQ",
+      "paper_id": "zAdUB0aCTQ",
+      "title": "AgentBench: Evaluating LLMs as Agents",
+      "authors": "Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang",
+      "paper_url": "https://openreview.net/pdf?id=zAdUB0aCTQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_AC5n7xHuR1",
+      "paper_id": "AC5n7xHuR1",
+      "title": "AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents",
+      "authors": "Maksym Andriushchenko, Alexandra Souly, Mateusz Dziemian, Derek Duenas, Maxwell Lin, Justin Wang, Dan Hendrycks, Andy Zou, J Zico Kolter, Matt Fredrikson, Yarin Gal, Xander Davies",
+      "paper_url": "https://openreview.net/pdf?id=AC5n7xHuR1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oWdzUpOlkX",
+      "paper_id": "oWdzUpOlkX",
+      "title": "AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents",
+      "authors": "Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala",
+      "paper_url": "https://openreview.net/pdf?id=oWdzUpOlkX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mPdmDYIQ7f",
+      "paper_id": "mPdmDYIQ7f",
+      "title": "AgentSquare: Automatic LLM Agent Search in Modular Design Space",
+      "authors": "Yu Shang, Yu Li, Keyu Zhao, Likai Ma, Jiahe Liu, Fengli Xu, Yong Li",
+      "paper_url": "https://openreview.net/pdf?id=mPdmDYIQ7f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ilOEOIqolQ",
+      "paper_id": "ilOEOIqolQ",
+      "title": "AI as Humanity’s Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text",
+      "authors": "Ximing Lu, Melanie Sclar, Skyler Hallinan, Niloofar Mireshghallah, Jiacheng Liu, Seungju Han, Allyson Ettinger, Liwei Jiang, Khyathi Chandu, Nouha Dziri, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=ilOEOIqolQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7Qa2SpjxIS",
+      "paper_id": "7Qa2SpjxIS",
+      "title": "AI Sandbagging: Language Models can Strategically Underperform on Evaluations",
+      "authors": "Teun van der Weij, Felix Hofstätter, Oliver Jaffe, Samuel F. Brown, Francis Rhys Ward",
+      "paper_url": "https://openreview.net/pdf?id=7Qa2SpjxIS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ybfmpJiKXX",
+      "paper_id": "ybfmpJiKXX",
+      "title": "AIMS.au: A Dataset for the Analysis of Modern Slavery Countermeasures in Corporate Statements",
+      "authors": "Adriana Eufrosina Bora, Pierre-Luc St-Charles, Mirko Bronzi, Arsene Fansi Tchango, Bruno Rousseau, Kerrie Mengersen",
+      "paper_url": "https://openreview.net/pdf?id=ybfmpJiKXX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7NL74jUiMg",
+      "paper_id": "7NL74jUiMg",
+      "title": "Alchemy: Amplifying Theorem-Proving Capability Through Symbolic Mutation",
+      "authors": "Shaonan Wu, Shuai Lu, Yeyun Gong, Nan Duan, Ping Wei",
+      "paper_url": "https://openreview.net/pdf?id=7NL74jUiMg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_dNy_RKzJacY",
+      "paper_id": "dNy_RKzJacY",
+      "title": "Aligning AI With Shared Human Values",
+      "authors": "Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf/d05fd010cf3982444373e7567a61c45c18c0f61f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_m4eXBo0VNc",
+      "paper_id": "m4eXBo0VNc",
+      "title": "An Engorgio Prompt Makes Large Language Model Babble on",
+      "authors": "Jianshuo Dong, Ziyuan Zhang, Qingjie Zhang, Tianwei Zhang, Hao Wang, Hewu Li, Qi Li, Chao Zhang, Ke Xu, Han Qiu",
+      "paper_url": "https://openreview.net/pdf?id=m4eXBo0VNc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fVxIEHGnVT",
+      "paper_id": "fVxIEHGnVT",
+      "title": "An interpretable error correction method for enhancing code-to-code translation",
+      "authors": "Min Xue, Artur Andrzejak, Marla Leuther",
+      "paper_url": "https://openreview.net/pdf?id=fVxIEHGnVT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_VVgGbB9TNV",
+      "paper_id": "VVgGbB9TNV",
+      "title": "An LLM can Fool Itself: A Prompt-Based Adversarial Attack",
+      "authors": "Xilie Xu, Keyi Kong, Ning Liu, Lizhen Cui, Di Wang, Jingfeng Zhang, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf?id=VVgGbB9TNV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_f7O3hITh5s",
+      "paper_id": "f7O3hITh5s",
+      "title": "API Pack: A Massive Multi-Programming Language Dataset for API Call Generation",
+      "authors": "Zhen Guo, Adriana Meza Soria, Wei Sun, Yikang Shen, Rameswar Panda",
+      "paper_url": "https://openreview.net/pdf?id=f7O3hITh5s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_x8VNtpCu1I",
+      "paper_id": "x8VNtpCu1I",
+      "title": "Are Bert Family Good Instruction Followers?  A Study on Their Potential And Limitations",
+      "authors": "yisheng xiao, Juntao Li, Zechen Sun, Zechang Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Min Zhang",
+      "paper_url": "https://openreview.net/pdf?id=x8VNtpCu1I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_O9YTt26r2P",
+      "paper_id": "O9YTt26r2P",
+      "title": "Arithmetic Without Algorithms: Language Models Solve Math with a Bag of Heuristics",
+      "authors": "Yaniv Nikankin, Anja Reusch, Aaron Mueller, Yonatan Belinkov",
+      "paper_url": "https://openreview.net/pdf?id=O9YTt26r2P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_bhUPJnS2g0X",
+      "paper_id": "bhUPJnS2g0X",
+      "title": "Ask Me Anything: A simple strategy for prompting language models",
+      "authors": "Simran Arora, Avanika Narayan, Mayee F Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/5b1bcdac167fa4b294480f303ac3722afa8a9aac.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_AS8SPTyBgw",
+      "paper_id": "AS8SPTyBgw",
+      "title": "Ask, and it shall be given: On the Turing completeness of prompting",
+      "authors": "Ruizhong Qiu, Zhe Xu, Wenxuan Bao, Hanghang Tong",
+      "paper_url": "https://openreview.net/pdf?id=AS8SPTyBgw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KIPJKST4gw",
+      "paper_id": "KIPJKST4gw",
+      "title": "At Which Training Stage Does Code Data Help LLMs Reasoning?",
+      "authors": "YINGWEI MA, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li",
+      "paper_url": "https://openreview.net/pdf?id=KIPJKST4gw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ymt4crbbXh",
+      "paper_id": "ymt4crbbXh",
+      "title": "AutoBencher: Towards Declarative Benchmark Construction",
+      "authors": "Xiang Lisa Li, Farzaan Kaiyom, Evan Zheran Liu, Yifan Mai, Percy Liang, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf?id=ymt4crbbXh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bhK7U37VW8",
+      "paper_id": "bhK7U37VW8",
+      "title": "AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs",
+      "authors": "Xiaogeng Liu, Peiran Li, G. Edward Suh, Yevgeniy Vorobeychik, Zhuoqing Mao, Somesh Jha, Patrick McDaniel, Huan Sun, Bo Li, Chaowei Xiao",
+      "paper_url": "https://openreview.net/pdf?id=bhK7U37VW8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2NqssmiXLu",
+      "paper_id": "2NqssmiXLu",
+      "title": "Automated Proof Generation for Rust Code via Self-Evolution",
+      "authors": "Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, Peng CHENG, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou",
+      "paper_url": "https://openreview.net/pdf?id=2NqssmiXLu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_5NTt8GFjUHkr",
+      "paper_id": "5NTt8GFjUHkr",
+      "title": "Automatic Chain of Thought Prompting in Large Language Models",
+      "authors": "Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola",
+      "paper_url": "https://openreview.net/pdf/f566e3690bb4730c79fee6cd769ca1c7f2dc2bc6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_3ogIALgghF",
+      "paper_id": "3ogIALgghF",
+      "title": "Automatic Curriculum Expert Iteration for Reliable LLM Reasoning",
+      "authors": "Zirui Zhao, Hanze Dong, Amrita Saha, Caiming Xiong, Doyen Sahoo",
+      "paper_url": "https://openreview.net/pdf?id=3ogIALgghF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iv1TpRCJeK",
+      "paper_id": "iv1TpRCJeK",
+      "title": "Autonomous Evaluation of LLMs for Truth Maintenance and Reasoning Tasks",
+      "authors": "Rushang Karia, Daniel Richard Bramblett, Daksh Dobhal, Siddharth Srivastava",
+      "paper_url": "https://openreview.net/pdf?id=iv1TpRCJeK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fp6t3F669F",
+      "paper_id": "fp6t3F669F",
+      "title": "BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games",
+      "authors": "Davide Paglieri, Bartłomiej Cupiał, Samuel Coward, Ulyana Piterbarg, Maciej Wolczyk, Akbir Khan, Eduardo Pignatelli, Łukasz Kuciński, Lerrel Pinto, Rob Fergus, Jakob Nicolaus Foerster, Jack Parker-Holder, Tim Rocktäschel",
+      "paper_url": "https://openreview.net/pdf?id=fp6t3F669F",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_phBS6YpTzC",
+      "paper_id": "phBS6YpTzC",
+      "title": "Benchmarking and Improving Generator-Validator Consistency of Language Models",
+      "authors": "Xiang Lisa Li, Vaishnavi Shrivastava, Siyan Li, Tatsunori Hashimoto, Percy Liang",
+      "paper_url": "https://openreview.net/pdf?id=phBS6YpTzC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uE84MGbKD7",
+      "paper_id": "uE84MGbKD7",
+      "title": "Benchmarking LLMs' Judgments with No Gold Standard",
+      "authors": "Shengwei Xu, Yuxuan Lu, Grant Schoenebeck, Yuqing Kong",
+      "paper_url": "https://openreview.net/pdf?id=uE84MGbKD7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ki7b0qD11r",
+      "paper_id": "ki7b0qD11r",
+      "title": "BenTo: Benchmark Reduction with In-Context Transferability",
+      "authors": "Hongyu Zhao, Ming Li, Lichao Sun, Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf?id=ki7b0qD11r",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_st7XqFgbAH",
+      "paper_id": "st7XqFgbAH",
+      "title": "Better than Your Teacher: LLM Agents that learn from Privileged AI Feedback",
+      "authors": "Sanjiban Choudhury, Paloma Sodhi",
+      "paper_url": "https://openreview.net/pdf?id=st7XqFgbAH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_caW7LdAALh",
+      "paper_id": "caW7LdAALh",
+      "title": "Beyond Accuracy: Evaluating Self-Consistency of Code Large Language Models with IdentityChain",
+      "authors": "Marcus J. Min, Yangruibo Ding, Luca Buratti, Saurabh Pujar, Gail Kaiser, Suman Jana, Baishakhi Ray",
+      "paper_url": "https://openreview.net/pdf?id=caW7LdAALh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_E8gYIrbP00",
+      "paper_id": "E8gYIrbP00",
+      "title": "Beyond correlation: The impact of human uncertainty in measuring the effectiveness of automatic evaluation and LLM-as-a-judge",
+      "authors": "Aparna Elangovan, Lei Xu, Jongwoo Ko, Mahsa Elyasi, Ling Liu, Sravan Babu Bodapati, Dan Roth",
+      "paper_url": "https://openreview.net/pdf?id=E8gYIrbP00",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_28qOQwjuma",
+      "paper_id": "28qOQwjuma",
+      "title": "Beyond Graphs: Can Large Language Models Comprehend Hypergraphs?",
+      "authors": "Yifan Feng, Chengwu Yang, Xingliang Hou, Shaoyi Du, Shihui Ying, Zongze Wu, Yue Gao",
+      "paper_url": "https://openreview.net/pdf?id=28qOQwjuma",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gsShHPxkUW",
+      "paper_id": "gsShHPxkUW",
+      "title": "Beyond Surface Structure: A Causal Assessment of LLMs' Comprehension ability",
+      "authors": "Yujin Han, Lei Xu, Sirui Chen, Difan Zou, Chaochao Lu",
+      "paper_url": "https://openreview.net/pdf?id=gsShHPxkUW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kGteeZ18Ir",
+      "paper_id": "kGteeZ18Ir",
+      "title": "Bias Runs Deep: Implicit Reasoning Biases in Persona-Assigned LLMs",
+      "authors": "Shashank Gupta, Vaishnavi Shrivastava, Ameet Deshpande, Ashwin Kalyan, Peter Clark, Ashish Sabharwal, Tushar Khot",
+      "paper_url": "https://openreview.net/pdf?id=kGteeZ18Ir",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_YrycTjllL0",
+      "paper_id": "YrycTjllL0",
+      "title": "BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions",
+      "authors": "Terry Yue Zhuo, Vu Minh Chien, Jenny Chim, Han Hu, Wenhao Yu, Ratnadira Widyasari, Imam Nur Bani Yusuf, Haolan Zhan, Junda He, Indraneil Paul, Simon Brunner, Chen GONG, James Hoang, Armel Randy Zebaze, Xiaoheng Hong, Wen-Ding Li, Jean Kaddour, Ming Xu, Zhihan Zhang, Prateek Yadav, Naman Jain, Alex Gu, Zhoujun Cheng, Jiawei Liu, Qian Liu, Zijian Wang, Binyuan Hui, Niklas Muennighoff, David Lo, Daniel Fried, Xiaoning Du, Harm de Vries, Leandro Von Werra",
+      "paper_url": "https://openreview.net/pdf?id=YrycTjllL0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_b1ivBPLb1n",
+      "paper_id": "b1ivBPLb1n",
+      "title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
+      "authors": "Juan A. Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte Suresh, François Savard, Ahmed Masry, Shravan Nayak, Rabiul Awal, Mahsa Massoud, Amirhossein Abaskohi, Zichao Li, Suyuchen Wang, Pierre-Andre Noel, Mats Leon Richter, Saverio Vadacchino, Shubham Agarwal, Sanket Biswas, Sara Shanian, Ying Zhang, Sathwik Tejaswi Madhusudhan, Joao Monteiro, Krishnamurthy Dj Dvijotham, Torsten Scholak, Nicolas Chapados, Sepideh Kharaghani, Sean Hughes, M. Özsu, Siva Reddy, Marco Pedersoli, Yoshua Bengio, Christopher Pal, Issam H. Laradji, Spandana Gella, Perouz Taslakian, David Vazquez, Sai Rajeswar",
+      "paper_url": "https://openreview.net/pdf?id=b1ivBPLb1n",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7Ttk3RzDeu",
+      "paper_id": "7Ttk3RzDeu",
+      "title": "BooookScore: A systematic exploration of book-length summarization in the era of LLMs",
+      "authors": "Yapei Chang, Kyle Lo, Tanya Goyal, Mohit Iyyer",
+      "paper_url": "https://openreview.net/pdf?id=7Ttk3RzDeu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_qBL04XXex6",
+      "paper_id": "qBL04XXex6",
+      "title": "Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models",
+      "authors": "Sijia Chen, Baochun Li, Di Niu",
+      "paper_url": "https://openreview.net/pdf?id=qBL04XXex6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_qmsX2R19p9",
+      "paper_id": "qmsX2R19p9",
+      "title": "Bridging the Semantic Gap Between Text and Table: A Case Study on NL2SQL",
+      "authors": "Lin Long, Xijun Gu, Xinjie Sun, Wentao Ye, Haobo Wang, Sai Wu, Gang Chen, Junbo Zhao",
+      "paper_url": "https://openreview.net/pdf?id=qmsX2R19p9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3cgMU3TyyE",
+      "paper_id": "3cgMU3TyyE",
+      "title": "Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs with Semantic Space",
+      "authors": "Zhiliang Chen, Xinyuan Niu, Chuan-Sheng Foo, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=3cgMU3TyyE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_yHeg4PbFHh",
+      "paper_id": "yHeg4PbFHh",
+      "title": "BUSTLE: Bottom-Up Program Synthesis Through Learning-Guided Exploration",
+      "authors": "Augustus Odena, Kensen Shi, David Bieber, Rishabh Singh, Charles Sutton, Hanjun Dai",
+      "paper_url": "https://openreview.net/pdf/2a5e6446f3e44243b64f41369e186a582fb55a63.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_SQrHpTllXa",
+      "paper_id": "SQrHpTllXa",
+      "title": "CABINET: Content Relevance-based Noise Reduction for Table Question Answering",
+      "authors": "Sohan Patnaik, Heril Changwal, Milan Aggarwal, Sumit Bhatia, Yaman Kumar, Balaji Krishnamurthy",
+      "paper_url": "https://openreview.net/pdf?id=SQrHpTllXa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RQPSPGpBOP",
+      "paper_id": "RQPSPGpBOP",
+      "title": "Can a Large Language Model be a Gaslighter?",
+      "authors": "Wei Li, Luyao Zhu, Yang Song, Ruixi Lin, Rui Mao, Yang You",
+      "paper_url": "https://openreview.net/pdf?id=RQPSPGpBOP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_vqIH0ObdqL",
+      "paper_id": "vqIH0ObdqL",
+      "title": "Can Large Language Models Infer Causation from Correlation?",
+      "authors": "Zhijing Jin, Jiarui Liu, Zhiheng LYU, Spencer Poff, Mrinmaya Sachan, Rada Mihalcea, Mona T. Diab, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=vqIH0ObdqL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Yk87CwhBDx",
+      "paper_id": "Yk87CwhBDx",
+      "title": "Can Large Language Models Understand Symbolic Graphics Programs?",
+      "authors": "Zeju Qiu, Weiyang Liu, Haiwen Feng, Zhen Liu, Tim Z. Xiao, Katherine M. Collins, Joshua B. Tenenbaum, Adrian Weller, Michael J. Black, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=Yk87CwhBDx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M23dTGWCZy",
+      "paper_id": "M23dTGWCZy",
+      "title": "Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers",
+      "authors": "Chenglei Si, Diyi Yang, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf?id=M23dTGWCZy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8EtSBX41mt",
+      "paper_id": "8EtSBX41mt",
+      "title": "Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?",
+      "authors": "Egor Zverev, Sahar Abdelnabi, Soroush Tabesh, Mario Fritz, Christoph H. Lampert",
+      "paper_url": "https://openreview.net/pdf?id=8EtSBX41mt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_C9ju8QQSCv",
+      "paper_id": "C9ju8QQSCv",
+      "title": "Can LLMs Solve Longer Math Word Problems Better?",
+      "authors": "Xin Xu, Tong Xiao, Zitong Chao, Zhenya Huang, Can Yang, Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=C9ju8QQSCv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iVMcYxTiVM",
+      "paper_id": "iVMcYxTiVM",
+      "title": "Can We Talk Models Into Seeing the World Differently?",
+      "authors": "Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper",
+      "paper_url": "https://openreview.net/pdf?id=iVMcYxTiVM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VQwI055flA",
+      "paper_id": "VQwI055flA",
+      "title": "CARTS: Advancing Neural Theorem Proving with Diversified Tactic Calibration and Bias-Resistant Tree Search",
+      "authors": "Xiao-Wen Yang, Zhi Zhou, Haiming Wang, Aoxue Li, Wen-Da Wei, Hui Jin, Zhenguo Li, Yu-Feng Li",
+      "paper_url": "https://openreview.net/pdf?id=VQwI055flA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yRKelogz5i",
+      "paper_id": "yRKelogz5i",
+      "title": "Causally Motivated Sycophancy Mitigation for Large Language Models",
+      "authors": "Haoxi Li, Xueyang Tang, Jie ZHANG, Song Guo, Sikai Bai, Peiran Dong, Yue Yu",
+      "paper_url": "https://openreview.net/pdf?id=yRKelogz5i",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HQHnhVQznF",
+      "paper_id": "HQHnhVQznF",
+      "title": "Certifying Counterfactual Bias in LLMs",
+      "authors": "Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Singh",
+      "paper_url": "https://openreview.net/pdf?id=HQHnhVQznF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_HobyL1B9CZ",
+      "paper_id": "HobyL1B9CZ",
+      "title": "Chain-of-Experts: When LLMs Meet Complex Operations Research Problems",
+      "authors": "Ziyang Xiao, Dongxiang Zhang, Yangjun Wu, Lilin Xu, Yuan Jessica Wang, Xiongwei Han, Xiaojin Fu, Tao Zhong, Jia Zeng, Mingli Song, Gang Chen",
+      "paper_url": "https://openreview.net/pdf?id=HobyL1B9CZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_cPgh4gWZlz",
+      "paper_id": "cPgh4gWZlz",
+      "title": "Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources",
+      "authors": "Xingxuan Li, Ruochen Zhao, Yew Ken Chia, Bosheng Ding, Shafiq Joty, Soujanya Poria, Lidong Bing",
+      "paper_url": "https://openreview.net/pdf?id=cPgh4gWZlz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_4L0xnS4GQM",
+      "paper_id": "4L0xnS4GQM",
+      "title": "Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding",
+      "authors": "Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister",
+      "paper_url": "https://openreview.net/pdf?id=4L0xnS4GQM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_CvGqMD5OtX",
+      "paper_id": "CvGqMD5OtX",
+      "title": "CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL",
+      "authors": "Mohammadreza Pourreza, Hailong Li, Ruoxi Sun, Yeounoh Chung, Shayan Talaei, Gaurav Tarlok Kakkar, Yu Gan, Amin Saberi, Fatma Ozcan, Sercan O Arik",
+      "paper_url": "https://openreview.net/pdf?id=CvGqMD5OtX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FQepisCUWu",
+      "paper_id": "FQepisCUWu",
+      "title": "ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate",
+      "authors": "Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu",
+      "paper_url": "https://openreview.net/pdf?id=FQepisCUWu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cPD2hU35x3",
+      "paper_id": "cPD2hU35x3",
+      "title": "ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG Capabilities",
+      "authors": "Peng Xu, Wei Ping, Xianchao Wu, Chejian Xu, Zihan Liu, Mohammad Shoeybi, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf?id=cPD2hU35x3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_syThiTmWWm",
+      "paper_id": "syThiTmWWm",
+      "title": "Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates",
+      "authors": "Xiaosen Zheng, Tianyu Pang, Chao Du, Qian Liu, Jing Jiang, Min Lin",
+      "paper_url": "https://openreview.net/pdf?id=syThiTmWWm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_goFpCuJalN",
+      "paper_id": "goFpCuJalN",
+      "title": "ClimaQA: An Automated Evaluation Framework for Climate Question Answering Models",
+      "authors": "Veeramakali Vignesh Manivannan, Yasaman Jafari, Srikar Eranky, Spencer Ho, Rose Yu, Duncan Watson-Parris, Yian Ma, Leon Bergen, Taylor Berg-Kirkpatrick",
+      "paper_url": "https://openreview.net/pdf?id=goFpCuJalN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XomEU3eNeSQ",
+      "paper_id": "XomEU3eNeSQ",
+      "title": "Code Translation with Compiler Representations",
+      "authors": "Marc Szafraniec, Baptiste Roziere, Hugh James Leather, Patrick Labatut, Francois Charton, Gabriel Synnaeve",
+      "paper_url": "https://openreview.net/pdf/e6271eb661d7f4d7cff1993ad01d1e6dcaa983e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_htL4UZ344nF",
+      "paper_id": "htL4UZ344nF",
+      "title": "CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
+      "authors": "Nadezhda Chirkova, Sergey Troshin",
+      "paper_url": "https://openreview.net/pdf/c3138a16b1e95192c50eacb849b3a42ecf8a6999.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_vYhglxSj8j",
+      "paper_id": "vYhglxSj8j",
+      "title": "CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules",
+      "authors": "Hung Le, Hailin Chen, Amrita Saha, Akash Gokul, Doyen Sahoo, Shafiq Joty",
+      "paper_url": "https://openreview.net/pdf?id=vYhglxSj8j",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_iaYcJKpY2B_",
+      "paper_id": "iaYcJKpY2B_",
+      "title": "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis",
+      "authors": "Erik Nijkamp, Bo Pang, Hiroaki Hayashi, Lifu Tu, Huan Wang, Yingbo Zhou, Silvio Savarese, Caiming Xiong",
+      "paper_url": "https://openreview.net/pdf/003bbce081e6ee9edeead69fcdba6fbe3882de42.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_CahIEKCu5Q",
+      "paper_id": "CahIEKCu5Q",
+      "title": "CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding & Reasoning Capabilities of CodeLLMs",
+      "authors": "Dung Manh Nguyen, Thang Chau Phan, Nam Le Hai, Tien-Thong Doan, Nam V. Nguyen, Quang Pham, Nghi D. Q. Bui",
+      "paper_url": "https://openreview.net/pdf?id=CahIEKCu5Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dCPF1wlqj8",
+      "paper_id": "dCPF1wlqj8",
+      "title": "CodePlan: Unlocking Reasoning Potential in Large Language Models by Scaling Code-form Planning",
+      "authors": "Jiaxin Wen, Jian Guan, Hongning Wang, Wei Wu, Minlie Huang",
+      "paper_url": "https://openreview.net/pdf?id=dCPF1wlqj8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ktrw68Cmu9c",
+      "paper_id": "ktrw68Cmu9c",
+      "title": "CodeT:  Code Generation with Generated Tests",
+      "authors": "Bei Chen, Fengji Zhang, Anh Nguyen, Daoguang Zan, Zeqi Lin, Jian-Guang Lou, Weizhu Chen",
+      "paper_url": "https://openreview.net/pdf/39c039dd3e5f58baafde9d304a11e04a606dda0b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_WQc075jmBmf",
+      "paper_id": "WQc075jmBmf",
+      "title": "CodeTrek: Flexible Modeling of Code using an Extensible Relational Representation",
+      "authors": "Pardis Pashakhanloo, Aaditya Naik, Yuepeng Wang, Hanjun Dai, Petros Maniatis, Mayur Naik",
+      "paper_url": "https://openreview.net/pdf/a38e66149abc580fe950eea8b0dfd0e24a7ae1bf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ALVwQjZRS8",
+      "paper_id": "ALVwQjZRS8",
+      "title": "Coeditor: Leveraging Repo-level Diffs for Code Auto-editing",
+      "authors": "Jiayi Wei, Greg Durrett, Isil Dillig",
+      "paper_url": "https://openreview.net/pdf?id=ALVwQjZRS8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_q2DmkZ1wVe",
+      "paper_id": "q2DmkZ1wVe",
+      "title": "CofCA: A STEP-WISE Counterfactual Multi-hop QA benchmark",
+      "authors": "Jian Wu, Linyi Yang, Zhen Wang, Manabu Okumura, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=q2DmkZ1wVe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_yf1icZHC-l9",
+      "paper_id": "yf1icZHC-l9",
+      "title": "Complexity-Based Prompting for Multi-step Reasoning",
+      "authors": "Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark, Tushar Khot",
+      "paper_url": "https://openreview.net/pdf/45dc479ddf081da97bf30a319e61cd0509d1f701.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_6axIMJA7ME3",
+      "paper_id": "6axIMJA7ME3",
+      "title": "Compositional Task Representations for Large Language Models",
+      "authors": "NAN SHAO, Zefan Cai, Hanwei xu, Chonghua Liao, Yanan Zheng, Zhilin Yang",
+      "paper_url": "https://openreview.net/pdf/ef7361f4ac0604d204d4c3f22d833e3e5d4c3163.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_RC5FPYVQaH",
+      "paper_id": "RC5FPYVQaH",
+      "title": "Concept Bottleneck Large Language Models",
+      "authors": "Chung-En Sun, Tuomas Oikarinen, Berk Ustun, Tsui-Wei Weng",
+      "paper_url": "https://openreview.net/pdf?id=RC5FPYVQaH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ZG3RaNIsO8",
+      "paper_id": "ZG3RaNIsO8",
+      "title": "Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers",
+      "authors": "Qingyan Guo, Rui Wang, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang",
+      "paper_url": "https://openreview.net/pdf?id=ZG3RaNIsO8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rpouyo09V0",
+      "paper_id": "rpouyo09V0",
+      "title": "ConvCodeWorld: Benchmarking Conversational Code Generation in Reproducible Feedback Environments",
+      "authors": "Hojae Han, seung-won hwang, Rajhans Samdani, Yuxiong He",
+      "paper_url": "https://openreview.net/pdf?id=rpouyo09V0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iyJOUELYir",
+      "paper_id": "iyJOUELYir",
+      "title": "CoRNStack: High-Quality Contrastive Data for Better Code Retrieval and Reranking",
+      "authors": "Tarun Suresh, Revanth Gangi Reddy, Yifei Xu, Zach Nussbaum, Andriy Mulyar, Brandon Duderstadt, Heng Ji",
+      "paper_url": "https://openreview.net/pdf?id=iyJOUELYir",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_G0vdDSt9XM",
+      "paper_id": "G0vdDSt9XM",
+      "title": "CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets",
+      "authors": "Lifan Yuan, Yangyi Chen, Xingyao Wang, Yi Fung, Hao Peng, Heng Ji",
+      "paper_url": "https://openreview.net/pdf?id=G0vdDSt9XM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Sx038qxjek",
+      "paper_id": "Sx038qxjek",
+      "title": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
+      "authors": "Zhibin Gou, Zhihong Shao, Yeyun Gong, yelong shen, Yujiu Yang, Nan Duan, Weizhu Chen",
+      "paper_url": "https://openreview.net/pdf?id=Sx038qxjek",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_qhC8mr2LEKq",
+      "paper_id": "qhC8mr2LEKq",
+      "title": "CrossBeam: Learning to Search in Bottom-Up Program Synthesis",
+      "authors": "Kensen Shi, Hanjun Dai, Kevin Ellis, Charles Sutton",
+      "paper_url": "https://openreview.net/pdf/d098dde7689c9940303ddd8c11f5f44e8b866692.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_fjEZ2LPceZ",
+      "paper_id": "fjEZ2LPceZ",
+      "title": "CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery",
+      "authors": "Xiaoshuai Song, Muxi Diao, Guanting Dong, Zhengyang Wang, Yujia Fu, Runqi Qiao, Zhexu Wang, Dayuan Fu, Huangxuan Wu, Bin Liang, Weihao Zeng, Yejie Wang, Zhuoma GongQue, Jianing Yu, Qiuna Tan, Weiran Xu",
+      "paper_url": "https://openreview.net/pdf?id=fjEZ2LPceZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jw2fC6REUB",
+      "paper_id": "jw2fC6REUB",
+      "title": "CURIE: Evaluating LLMs on Multitask Scientific Long-Context Understanding and Reasoning",
+      "authors": "Hao Cui, Zahra Shamsi, Gowoon Cheon, Xuejian Ma, Shutong Li, Maria Tikhanovskaya, Peter Christian Norgaard, Nayantara Mudur, Martyna Beata Plomecka, Paul Raccuglia, Yasaman Bahri, Victor V. Albert, Pranesh Srinivasan, Haining Pan, Philippe Faist, Brian A Rohr, Michael J. Statt, Dan Morris, Drew Purves, Elise Kleeman, Ruth Alcantara, Matthew Abraham, Muqthar Mohammad, Ean Phing VanLee, Chenfei Jiang, Elizabeth Dorfman, Eun-Ah Kim, Michael Brenner, Sameera S Ponda, Subhashini Venugopalan",
+      "paper_url": "https://openreview.net/pdf?id=jw2fC6REUB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bjcsVLoHYs",
+      "paper_id": "bjcsVLoHYs",
+      "title": "CycleResearcher: Improving Automated Research via Automated Review",
+      "authors": "Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, Linyi Yang",
+      "paper_url": "https://openreview.net/pdf?id=bjcsVLoHYs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PGhiPGBf47",
+      "paper_id": "PGhiPGBf47",
+      "title": "DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life",
+      "authors": "Yu Ying Chiu, Liwei Jiang, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=PGhiPGBf47",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_odjMSBSWRt",
+      "paper_id": "odjMSBSWRt",
+      "title": "DarkBench: Benchmarking Dark Patterns in Large Language Models",
+      "authors": "Esben Kran, Hieu Minh Nguyen, Akash Kundu, Sami Jawhar, Jinsuk Park, Mateusz Maria Jurewicz",
+      "paper_url": "https://openreview.net/pdf?id=odjMSBSWRt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XHc5zRPxqV9",
+      "paper_id": "XHc5zRPxqV9",
+      "title": "DecAF: Joint Decoding of Answers and Logical Forms for Question Answering over Knowledge Bases",
+      "authors": "Donghan Yu, Sheng Zhang, Patrick Ng, Henghui Zhu, Alexander Hanbo Li, Jun Wang, Yiqun Hu, William Yang Wang, Zhiguo Wang, Bing Xiang",
+      "paper_url": "https://openreview.net/pdf/68c87b5462ee10b7c77096c53bcc5edf61bc0d9e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_W2dR6rypBQ",
+      "paper_id": "W2dR6rypBQ",
+      "title": "Decision Information Meets Large Language Models: The Future of Explainable Operations Research",
+      "authors": "Yansen Zhang, Qingcan Kang, Wing Yin YU, HaileiGong, Xiaojin Fu, Xiongwei Han, Tao Zhong, Chen Ma",
+      "paper_url": "https://openreview.net/pdf?id=W2dR6rypBQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UyhRtB4hjN",
+      "paper_id": "UyhRtB4hjN",
+      "title": "Decision Tree Induction Through LLMs via Semantically-Aware Evolution",
+      "authors": "Tennison Liu, Nicolas Huynh, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=UyhRtB4hjN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__nGgzQjzaRy",
+      "paper_id": "_nGgzQjzaRy",
+      "title": "Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
+      "authors": "Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter Clark, Ashish Sabharwal",
+      "paper_url": "https://openreview.net/pdf/c0a9bac140b181384176f474f3533e053b8d663d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_I4YAIwrsXa",
+      "paper_id": "I4YAIwrsXa",
+      "title": "DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search",
+      "authors": "Huajian Xin, Z.Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du, Wenjun Gao, Haowei Zhang, Qihao Zhu, Dejian Yang, Zhibin Gou, Z.F. Wu, Fuli Luo, Chong Ruan",
+      "paper_url": "https://openreview.net/pdf?id=I4YAIwrsXa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Acvo2RGSCy",
+      "paper_id": "Acvo2RGSCy",
+      "title": "DeLLMa: Decision Making Under Uncertainty with Large Language Models",
+      "authors": "Ollie Liu, Deqing Fu, Dani Yogatama, Willie Neiswanger",
+      "paper_url": "https://openreview.net/pdf?id=Acvo2RGSCy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_m3RRWWFaVe",
+      "paper_id": "m3RRWWFaVe",
+      "title": "DENEVIL: TOWARDS DECIPHERING AND NAVIGATING THE ETHICAL VALUES OF LARGE LANGUAGE MODELS VIA INSTRUCTION LEARNING",
+      "authors": "Shitong Duan, Xiaoyuan Yi, Peng Zhang, Tun Lu, Xing Xie, Ning Gu",
+      "paper_url": "https://openreview.net/pdf?id=m3RRWWFaVe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wN3KaUXA5X",
+      "paper_id": "wN3KaUXA5X",
+      "title": "Diffusion On Syntax Trees For Program Synthesis",
+      "authors": "Shreyas Kapur, Erik Jenner, Stuart Russell",
+      "paper_url": "https://openreview.net/pdf?id=wN3KaUXA5X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_K5j7D81ABvt",
+      "paper_id": "K5j7D81ABvt",
+      "title": "Disambiguating Symbolic Expressions in Informal Documents",
+      "authors": "Dennis Müller, Cezary Kaliszyk",
+      "paper_url": "https://openreview.net/pdf/006f5f9df1ed650389c8a89fd0087c3a9cb81605.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_vyflgpwfJW",
+      "paper_id": "vyflgpwfJW",
+      "title": "DiscoveryBench: Towards Data-Driven Discovery with Large Language Models",
+      "authors": "Bodhisattwa Prasad Majumder, Harshit Surana, Dhruv Agarwal, Bhavana Dalvi Mishra, Abhijeetsingh Meena, Aryan Prakhar, Tirth Vora, Tushar Khot, Ashish Sabharwal, Peter Clark",
+      "paper_url": "https://openreview.net/pdf?id=vyflgpwfJW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_09FiNmvNMw",
+      "paper_id": "09FiNmvNMw",
+      "title": "Divide and Translate: Compositional First-Order Logic Translation and Verification for Complex Logical Reasoning",
+      "authors": "Hyun Ryu, Gyeongman Kim, Hyemin S. Lee, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf?id=09FiNmvNMw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_st77ShxP1K",
+      "paper_id": "st77ShxP1K",
+      "title": "Do as We Do, Not as You Think: the Conformity of Large Language Models",
+      "authors": "Zhiyuan Weng, Guikun Chen, Wenguan Wang",
+      "paper_url": "https://openreview.net/pdf?id=st77ShxP1K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FjQOXenaXK",
+      "paper_id": "FjQOXenaXK",
+      "title": "Do Large Language Models Truly Understand Geometric Structures?",
+      "authors": "Xiaofeng Wang, Yiming Wang, Wenhong Zhu, Rui Wang",
+      "paper_url": "https://openreview.net/pdf?id=FjQOXenaXK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qIN5VDdEOr",
+      "paper_id": "qIN5VDdEOr",
+      "title": "Do LLMs ``know'' internally when they follow instructions?",
+      "authors": "Juyeon Heo, Christina Heinze-Deml, Oussama Elachqar, Kwan Ho Ryan Chan, Shirley You Ren, Andrew Miller, Udhyakumar Nallasamy, Jaya Narain",
+      "paper_url": "https://openreview.net/pdf?id=qIN5VDdEOr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IHp3vOVQO2",
+      "paper_id": "IHp3vOVQO2",
+      "title": "Do LLMs estimate uncertainty well in instruction-following?",
+      "authors": "Juyeon Heo, Miao Xiong, Christina Heinze-Deml, Jaya Narain",
+      "paper_url": "https://openreview.net/pdf?id=IHp3vOVQO2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8zxGruuzr9",
+      "paper_id": "8zxGruuzr9",
+      "title": "Do LLMs have Consistent Values?",
+      "authors": "Naama Rozen, Liat Bezalel, Gal Elidan, Amir Globerson, Ella Daniel",
+      "paper_url": "https://openreview.net/pdf?id=8zxGruuzr9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QWunLKbBGF",
+      "paper_id": "QWunLKbBGF",
+      "title": "Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs",
+      "authors": "Siyan Zhao, Mingyi Hong, Yang Liu, Devamanyu Hazarika, Kaixiang Lin",
+      "paper_url": "https://openreview.net/pdf?id=QWunLKbBGF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ZTCxT2t2Ru",
+      "paper_id": "ZTCxT2t2Ru",
+      "title": "DocPrompting: Generating Code by Retrieving the Docs",
+      "authors": "Shuyan Zhou, Uri Alon, Frank F. Xu, Zhengbao Jiang, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/c9881a374e0bce9d005809d63e83dfdae53d9d40.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Feiz5HtCD0",
+      "paper_id": "Feiz5HtCD0",
+      "title": "Does Writing with Language Models Reduce Content Diversity?",
+      "authors": "Vishakh Padmakumar, He He",
+      "paper_url": "https://openreview.net/pdf?id=Feiz5HtCD0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_V5tdi14ple",
+      "paper_id": "V5tdi14ple",
+      "title": "Don't Trust: Verify -- Grounding LLM Quantitative Reasoning with Autoformalization",
+      "authors": "Jin Peng Zhou, Charles E Staats, Wenda Li, Christian Szegedy, Kilian Q Weinberger, Yuhuai Wu",
+      "paper_url": "https://openreview.net/pdf?id=V5tdi14ple",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7JhGdZvW4T",
+      "paper_id": "7JhGdZvW4T",
+      "title": "DON’T STOP ME NOW: EMBEDDING BASED SCHEDULING FOR LLMS",
+      "authors": "Rana Shahout, eran malach, Chunwei Liu, Weifan Jiang, Minlan Yu, Michael Mitzenmacher",
+      "paper_url": "https://openreview.net/pdf?id=7JhGdZvW4T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tn2mjzjSyR",
+      "paper_id": "tn2mjzjSyR",
+      "title": "DOTS: Learning to Reason Dynamically in LLMs via Optimal Reasoning Trajectories Search",
+      "authors": "Murong Yue, Wenlin Yao, Haitao Mi, Dian Yu, Ziyu Yao, Dong Yu",
+      "paper_url": "https://openreview.net/pdf?id=tn2mjzjSyR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Wc5bmZZU9cy",
+      "paper_id": "Wc5bmZZU9cy",
+      "title": "Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness",
+      "authors": "Shuaichen Chang, Jun Wang, Mingwen Dong, Lin Pan, Henghui Zhu, Alexander Hanbo Li, Wuwei Lan, Sheng Zhang, Jiarong Jiang, Joseph Lilien, Steve Ash, William Yang Wang, Zhiguo Wang, Vittorio Castelli, Patrick Ng, Bing Xiang",
+      "paper_url": "https://openreview.net/pdf/28dd8eb27d485f652c4874af1d995452557ae2b3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_SMa9EAovKMC",
+      "paper_id": "SMa9EAovKMC",
+      "title": "Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs",
+      "authors": "Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, Mateja Jamnik, Guillaume Lample, Yuhuai Wu",
+      "paper_url": "https://openreview.net/pdf/cfd03f19d20263d9c1d1cc026a2b3528392fc857.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_sY5N0zY5Od",
+      "paper_id": "sY5N0zY5Od",
+      "title": "DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines",
+      "authors": "Omar Khattab, Arnav Singhvi, Paridhi Maheshwari, Zhiyuan Zhang, Keshav Santhanam, Sri Vardhamanan A, Saiful Haq, Ashutosh Sharma, Thomas T. Joshi, Hanna Moazam, Heather Miller, Matei Zaharia, Christopher Potts",
+      "paper_url": "https://openreview.net/pdf?id=sY5N0zY5Od",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_VOAMTA8jKu",
+      "paper_id": "VOAMTA8jKu",
+      "title": "DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models",
+      "authors": "Chengke Zou, Xingang Guo, Rui Yang, Junyu Zhang, Bin Hu, Huan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=VOAMTA8jKu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_DHyHRBwJUTN",
+      "paper_id": "DHyHRBwJUTN",
+      "title": "Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning",
+      "authors": "Pan Lu, Liang Qiu, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Tanmay Rajpurohit, Peter Clark, Ashwin Kalyan",
+      "paper_url": "https://openreview.net/pdf/1f2f51f57875ec48e1bb27c936aa39ee2e65d06e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bU1JOvdXXK",
+      "paper_id": "bU1JOvdXXK",
+      "title": "Dysca: A Dynamic and Scalable Benchmark for Evaluating Perception Ability of LVLMs",
+      "authors": "Jie Zhang, Zhongqi Wang, Mengqi Lei, Zheng Yuan, Bei Yan, Shiguang Shan, Xilin Chen",
+      "paper_url": "https://openreview.net/pdf?id=bU1JOvdXXK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gjfOL9z5Xr",
+      "paper_id": "gjfOL9z5Xr",
+      "title": "DyVal: Dynamic Evaluation of Large Language Models for Reasoning Tasks",
+      "authors": "Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie",
+      "paper_url": "https://openreview.net/pdf?id=gjfOL9z5Xr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_6t0Kwf8-jrj",
+      "paper_id": "6t0Kwf8-jrj",
+      "title": "Editing models with task arithmetic",
+      "authors": "Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi",
+      "paper_url": "https://openreview.net/pdf/0776550849b74d70586738db037bf1c9e9707c63.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_CI4sCBMXjP",
+      "paper_id": "CI4sCBMXjP",
+      "title": "ELICIT: LLM Augmentation Via External In-context Capability",
+      "authors": "Futing Wang, Jianhao Yan, Yue Zhang, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=CI4sCBMXjP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JsVIGVntnQ",
+      "paper_id": "JsVIGVntnQ",
+      "title": "Empowering LLM Agents with Zero-Shot Optimal Decision-Making through Q-learning",
+      "authors": "Jiajun Chai, Sicheng Li, Yuqian Fu, Dongbin Zhao, Yuanheng Zhu",
+      "paper_url": "https://openreview.net/pdf?id=JsVIGVntnQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_l32IrJtpOP",
+      "paper_id": "l32IrJtpOP",
+      "title": "Enhancing Graph Of Thought: Enhancing Prompts with LLM Rationales and Dynamic Temperature Control",
+      "authors": "SungUk Shin, Youngjoon Kim",
+      "paper_url": "https://openreview.net/pdf?id=l32IrJtpOP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZsP3YbYeE9",
+      "paper_id": "ZsP3YbYeE9",
+      "title": "Enhancing Language Model Agents using Diversity of Thoughts",
+      "authors": "Vijay Lingam, Behrooz Omidvar Tehrani, Sujay Sanghavi, Gaurav Gupta, Sayan Ghosh, Linbo Liu, Jun Huan, Anoop Deoras",
+      "paper_url": "https://openreview.net/pdf?id=ZsP3YbYeE9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6ycX677p2l",
+      "paper_id": "6ycX677p2l",
+      "title": "Episodic Memories Generation and Evaluation Benchmark for Large Language Models",
+      "authors": "Alexis Huet, Zied Ben Houidi, Dario Rossi",
+      "paper_url": "https://openreview.net/pdf?id=6ycX677p2l",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ndR8Ytrzhh",
+      "paper_id": "ndR8Ytrzhh",
+      "title": "Escape Sky-high Cost: Early-stopping Self-Consistency for Multi-step Reasoning",
+      "authors": "Yiwei Li, Peiwen Yuan, Shaoxiong Feng, Boyuan Pan, Xinglin Wang, Bin Sun, Heda Wang, Kan Li",
+      "paper_url": "https://openreview.net/pdf?id=ndR8Ytrzhh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_3ZqKxMHcAg",
+      "paper_id": "3ZqKxMHcAg",
+      "title": "Evaluating Language Model Agency Through Negotiations",
+      "authors": "Tim Ruben Davidson, Veniamin Veselovsky, Michal Kosinski, Robert West",
+      "paper_url": "https://openreview.net/pdf?id=3ZqKxMHcAg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_tr0KidwPLc",
+      "paper_id": "tr0KidwPLc",
+      "title": "Evaluating Large Language Models at Evaluating Instruction Following",
+      "authors": "Zhiyuan Zeng, Jiatong Yu, Tianyu Gao, Yu Meng, Tanya Goyal, Danqi Chen",
+      "paper_url": "https://openreview.net/pdf?id=tr0KidwPLc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_E36NHwe7Zc",
+      "paper_id": "E36NHwe7Zc",
+      "title": "Evaluating Large Language Models through Role-Guide and Self-Reflection: A Comparative Study",
+      "authors": "Lili Zhao, Yang Wang, Qi Liu, Mengyun Wang, Wei Chen, Zhichao Sheng, Shijin Wang",
+      "paper_url": "https://openreview.net/pdf?id=E36NHwe7Zc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_OXv0zQ1umU",
+      "paper_id": "OXv0zQ1umU",
+      "title": "Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing",
+      "authors": "Xinyu Hu, Pengfei Tang, Simiao Zuo, Zihan Wang, Bowen Song, Qiang Lou, Jian Jiao, Denis X Charles",
+      "paper_url": "https://openreview.net/pdf?id=OXv0zQ1umU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7LGmXXZXtP",
+      "paper_id": "7LGmXXZXtP",
+      "title": "Examining Alignment of Large Language Models through Representative Heuristics: the case of political stereotypes",
+      "authors": "Sullam Jeoung, Yubin Ge, Haohan Wang, Jana Diesner",
+      "paper_url": "https://openreview.net/pdf?id=7LGmXXZXtP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PY56Wur7S0",
+      "paper_id": "PY56Wur7S0",
+      "title": "Execution-guided within-prompt search for programming-by-example",
+      "authors": "Gust Verbruggen, Ashish Tiwari, Mukul Singh, Vu Le, Sumit Gulwani",
+      "paper_url": "https://openreview.net/pdf?id=PY56Wur7S0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_oTRwljRgiv",
+      "paper_id": "oTRwljRgiv",
+      "title": "ExeDec: Execution Decomposition for Compositional Generalization in Neural Program Synthesis",
+      "authors": "Kensen Shi, Joey Hong, Yinlin Deng, Pengcheng Yin, Manzil Zaheer, Charles Sutton",
+      "paper_url": "https://openreview.net/pdf?id=oTRwljRgiv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_owP2mymrTD",
+      "paper_id": "owP2mymrTD",
+      "title": "Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning",
+      "authors": "Mingyang Chen, sunhaoze, Tianpeng Li, Fan Yang, Hao Liang, KeerLu, Bin CUI, Wentao Zhang, Zenan Zhou, weipeng chen",
+      "paper_url": "https://openreview.net/pdf?id=owP2mymrTD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jolYuxpVn1",
+      "paper_id": "jolYuxpVn1",
+      "title": "FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios",
+      "authors": "I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu",
+      "paper_url": "https://openreview.net/pdf?id=jolYuxpVn1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UeVx6L59fg",
+      "paper_id": "UeVx6L59fg",
+      "title": "FaithEval: Can Your Language Model Stay Faithful to Context, Even If \"The Moon is Made of Marshmallows\"",
+      "authors": "Yifei Ming, Senthil Purushwalkam, Shrey Pandit, Zixuan Ke, Xuan-Phi Nguyen, Caiming Xiong, Shafiq Joty",
+      "paper_url": "https://openreview.net/pdf?id=UeVx6L59fg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_UMfcdRIotC",
+      "paper_id": "UMfcdRIotC",
+      "title": "Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals",
+      "authors": "Yair Ori Gat, Nitay Calderon, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart",
+      "paper_url": "https://openreview.net/pdf?id=UMfcdRIotC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_CYmF38ysDa",
+      "paper_id": "CYmF38ysDa",
+      "title": "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets",
+      "authors": "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo",
+      "paper_url": "https://openreview.net/pdf?id=CYmF38ysDa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_B5RrIFMqbe",
+      "paper_id": "B5RrIFMqbe",
+      "title": "FormalAlign: Automated Alignment Evaluation for Autoformalization",
+      "authors": "Jianqiao Lu, Yingjia Wan, Yinya Huang, Jing Xiong, Zhengying Liu, Zhijiang Guo",
+      "paper_url": "https://openreview.net/pdf?id=B5RrIFMqbe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QAAsnSRwgu",
+      "paper_id": "QAAsnSRwgu",
+      "title": "From an LLM Swarm to a PDDL-empowered Hive: Planning Self-executed Instructions in a Multi-modal Jungle",
+      "authors": "Kaustubh Vyas, Damien Graux, Yijun Yang, Sebastien Montella, Chenxin Diao, Wendi Zhou, Pavlos Vougiouklis, Ruofei Lai, Yang Ren, Keshuang Li, Jeff Z. Pan",
+      "paper_url": "https://openreview.net/pdf?id=QAAsnSRwgu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2G021ZqUEZ",
+      "paper_id": "2G021ZqUEZ",
+      "title": "From Commands to Prompts: LLM-based Semantic File System for AIOS",
+      "authors": "Zeru Shi, Kai Mei, Mingyu Jin, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=2G021ZqUEZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_QKBu1BOAwd",
+      "paper_id": "QKBu1BOAwd",
+      "title": "From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions",
+      "authors": "Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=QKBu1BOAwd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JBXO05r4AV",
+      "paper_id": "JBXO05r4AV",
+      "title": "From Few to Many: Self-Improving Many-Shot Reasoners Through Iterative Optimization and Generation",
+      "authors": "Xingchen Wan, Han Zhou, Ruoxi Sun, Sercan O Arik",
+      "paper_url": "https://openreview.net/pdf?id=JBXO05r4AV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_moXtEmCleY",
+      "paper_id": "moXtEmCleY",
+      "title": "From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs",
+      "authors": "Alireza Rezazadeh, Zichao Li, Wei Wei, Yujia Bao",
+      "paper_url": "https://openreview.net/pdf?id=moXtEmCleY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_aA33A70IO6",
+      "paper_id": "aA33A70IO6",
+      "title": "Gaining Wisdom from Setbacks: Aligning Large Language Models via Mistake Analysis",
+      "authors": "Kai Chen, Chunwei Wang, Kuo Yang, Jianhua Han, Lanqing HONG, Fei Mi, Hang Xu, Zhengying Liu, Wenyong Huang, Zhenguo Li, Dit-Yan Yeung, Lifeng Shang",
+      "paper_url": "https://openreview.net/pdf?id=aA33A70IO6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SeQ8l8xo1r",
+      "paper_id": "SeQ8l8xo1r",
+      "title": "GameArena: Evaluating LLM Reasoning through Live Computer Games",
+      "authors": "Lanxiang Hu, Qiyu Li, Anze Xie, Nan Jiang, Ion Stoica, Haojian Jin, Hao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=SeQ8l8xo1r",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zpENPcQSj1",
+      "paper_id": "zpENPcQSj1",
+      "title": "Generalizing Reasoning Problems to Longer Lengths",
+      "authors": "Changnan Xiao, Bing Liu",
+      "paper_url": "https://openreview.net/pdf?id=zpENPcQSj1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_yxKZGQLzOP",
+      "paper_id": "yxKZGQLzOP",
+      "title": "Generating Pragmatic Examples to Train Neural Program Synthesizers",
+      "authors": "Saujas Vaduguru, Daniel Fried, Yewen Pu",
+      "paper_url": "https://openreview.net/pdf?id=yxKZGQLzOP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_yZ7sn9pyqb",
+      "paper_id": "yZ7sn9pyqb",
+      "title": "Generative Monoculture in Large Language Models",
+      "authors": "Fan Wu, Emily Black, Varun Chandrasekaran",
+      "paper_url": "https://openreview.net/pdf?id=yZ7sn9pyqb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Y1r9yCMzeA",
+      "paper_id": "Y1r9yCMzeA",
+      "title": "GraphArena: Evaluating and Exploring Large Language Models on Graph Computation",
+      "authors": "Jianheng Tang, Qifan Zhang, Yuhan Li, Nuo Chen, Jia Li",
+      "paper_url": "https://openreview.net/pdf?id=Y1r9yCMzeA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_jLoC4ez43PZ",
+      "paper_id": "jLoC4ez43PZ",
+      "title": "GraphCodeBERT: Pre-training Code Representations with Data Flow",
+      "authors": "Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie LIU, Long Zhou, Nan Duan, Alexey Svyatkovskiy, Shengyu Fu, Michele Tufano, Shao Kun Deng, Colin Clement, Dawn Drain, Neel Sundaresan, Jian Yin, Daxin Jiang, Ming Zhou",
+      "paper_url": "https://openreview.net/pdf/9e81b47417b883d933baaf98c7e08ce4d7b14fa0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_5RUM1aIdok",
+      "paper_id": "5RUM1aIdok",
+      "title": "GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation",
+      "authors": "Tao Feng, Yihang Sun, Jiaxuan You",
+      "paper_url": "https://openreview.net/pdf?id=5RUM1aIdok",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eU39PDsZtT",
+      "paper_id": "eU39PDsZtT",
+      "title": "GraphRouter: A Graph-based Router for LLM Selections",
+      "authors": "Tao Feng, Yanzhen Shen, Jiaxuan You",
+      "paper_url": "https://openreview.net/pdf?id=eU39PDsZtT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_kyaIeYj4zZ",
+      "paper_id": "kyaIeYj4zZ",
+      "title": "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing",
+      "authors": "Tao Yu, Chien-Sheng Wu, Xi Victoria Lin, bailin wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, richard socher, Caiming Xiong",
+      "paper_url": "https://openreview.net/pdf/41a8d65642880c0853bfa9f37d81b4fc15cba53e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_41e9o6cQPj",
+      "paper_id": "41e9o6cQPj",
+      "title": "GreaseLM: Graph REASoning Enhanced Language Models",
+      "authors": "Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D Manning, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf/1a023786aa33b14412cd0596ee9247b562f4f4fe.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_AjXkRZIvjB",
+      "paper_id": "AjXkRZIvjB",
+      "title": "GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models",
+      "authors": "Seyed Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar",
+      "paper_url": "https://openreview.net/pdf?id=AjXkRZIvjB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8roRgrjbjv",
+      "paper_id": "8roRgrjbjv",
+      "title": "Guaranteed Generation from Large Language Models",
+      "authors": "Minbeom Kim, Thibaut Thonet, Jos Rozen, Hwaran Lee, Kyomin Jung, Marc Dymetman",
+      "paper_url": "https://openreview.net/pdf?id=8roRgrjbjv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qPFsIbF3V6",
+      "paper_id": "qPFsIbF3V6",
+      "title": "Guess & Sketch: Language Model Guided Transpilation",
+      "authors": "Celine Lee, Abdulrahman Mahmoud, Michal Kurek, Simone Campanoni, David Brooks, Stephen Chong, Gu-Yeon Wei, Alexander M Rush",
+      "paper_url": "https://openreview.net/pdf?id=qPFsIbF3V6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nDTvP6tBMd",
+      "paper_id": "nDTvP6tBMd",
+      "title": "HARDMath: A Benchmark Dataset for Challenging Problems in Applied Mathematics",
+      "authors": "Jingxuan Fan, Sarah Martinson, Erik Y. Wang, Kaylie Hausknecht, Jonah Brenner, Danxian Liu, Nianli Peng, Corey Wang, Michael Brenner",
+      "paper_url": "https://openreview.net/pdf?id=nDTvP6tBMd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jUsrbOuQ5e",
+      "paper_id": "jUsrbOuQ5e",
+      "title": "HeadMap: Locating and Enhancing Knowledge Circuits in LLMs",
+      "authors": "Xuehao Wang, Liyuan Wang, Binghuai Lin, Yu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=jUsrbOuQ5e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_293V3bJbmE",
+      "paper_id": "293V3bJbmE",
+      "title": "HELMET: How to Evaluate Long-context Models Effectively and Thoroughly",
+      "authors": "Howard Yen, Tianyu Gao, Minmin Hou, Ke Ding, Daniel Fleischer, Peter Izsak, Moshe Wasserblat, Danqi Chen",
+      "paper_url": "https://openreview.net/pdf?id=293V3bJbmE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Se6MgCtRhz",
+      "paper_id": "Se6MgCtRhz",
+      "title": "Herald: A Natural Language Annotated Lean 4 Dataset",
+      "authors": "Guoxiong Gao, Yutong Wang, Jiedong Jiang, Qi Gao, Zihan Qin, Tianyi Xu, Bin Dong",
+      "paper_url": "https://openreview.net/pdf?id=Se6MgCtRhz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5LXcoDtNyq",
+      "paper_id": "5LXcoDtNyq",
+      "title": "Holistic Reasoning with Long-Context LMs: A Benchmark for Database Operations on Massive Textual Data",
+      "authors": "Seiji Maekawa, Hayate Iso, Nikita Bhutani",
+      "paper_url": "https://openreview.net/pdf?id=5LXcoDtNyq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CkKEuLmRnr",
+      "paper_id": "CkKEuLmRnr",
+      "title": "How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension",
+      "authors": "Xinnan Dai, Haohao Qu, Yifei Shen, Bohang Zhang, Qihao Wen, Wenqi Fan, Dongsheng Li, Jiliang Tang, Caihua Shan",
+      "paper_url": "https://openreview.net/pdf?id=CkKEuLmRnr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_suz4utPr9Y",
+      "paper_id": "suz4utPr9Y",
+      "title": "How efficient is LLM-generated code? A rigorous & high-standard benchmark",
+      "authors": "Ruizhong Qiu, Weiliang Will Zeng, James Ezick, Christopher Lott, Hanghang Tong",
+      "paper_url": "https://openreview.net/pdf?id=suz4utPr9Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_567BjxgaTp",
+      "paper_id": "567BjxgaTp",
+      "title": "How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions",
+      "authors": "Lorenzo Pacchiardi, Alex James Chan, Sören Mindermann, Ilan Moscovitz, Alexa Yue Pan, Yarin Gal, Owain Evans, Jan M. Brauner",
+      "paper_url": "https://openreview.net/pdf?id=567BjxgaTp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_BCP5nAHXqs",
+      "paper_id": "BCP5nAHXqs",
+      "title": "Human Simulacra: Benchmarking the Personification of Large Language Models",
+      "authors": "Qiujie Xie, Qiming Feng, Tianqi Zhang, Qingqiu Li, Linyi Yang, Yuejie Zhang, Rui Feng, Liang He, Shang Gao, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=BCP5nAHXqs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_02f3mUtqnM",
+      "paper_id": "02f3mUtqnM",
+      "title": "Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing",
+      "authors": "Dujian Ding, Ankur Mallick, Chi Wang, Robert Sim, Subhabrata Mukherjee, Victor Rühle, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah",
+      "paper_url": "https://openreview.net/pdf?id=02f3mUtqnM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_G7UtIGQmjm",
+      "paper_id": "G7UtIGQmjm",
+      "title": "Hypothesis Search: Inductive Reasoning with Language Models",
+      "authors": "Ruocheng Wang, Eric Zelikman, Gabriel Poesia, Yewen Pu, Nick Haber, Noah Goodman",
+      "paper_url": "https://openreview.net/pdf?id=G7UtIGQmjm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_dWsdJAXjQD",
+      "paper_id": "dWsdJAXjQD",
+      "title": "ImProver: Agent-Based Automated Proof Optimization",
+      "authors": "Riyaz Ahuja, Jeremy Avigad, Prasad Tetali, Sean Welleck",
+      "paper_url": "https://openreview.net/pdf?id=dWsdJAXjQD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_h7Qz1ulnvF",
+      "paper_id": "h7Qz1ulnvF",
+      "title": "Improving Complex Reasoning with Dynamic Prompt Corruption: A Soft Prompt Optimization Approach",
+      "authors": "Sinan Fan, Liang Xie, Chen Shen, Ge Teng, Xiaosong Yuan, Xiaofeng Zhang, Chenxi Huang, Wenxiao Wang, Xiaofei He, Jieping Ye",
+      "paper_url": "https://openreview.net/pdf?id=h7Qz1ulnvF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DKkQtRMowq",
+      "paper_id": "DKkQtRMowq",
+      "title": "Improving Data Efficiency via Curating LLM-Driven Rating Systems",
+      "authors": "Jinlong Pang, Jiaheng Wei, Ankit Shah, Zhaowei Zhu, Yaxuan Wang, Chen Qian, Yang Liu, Yujia Bao, Wei Wei",
+      "paper_url": "https://openreview.net/pdf?id=DKkQtRMowq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tpGkEgxMJT",
+      "paper_id": "tpGkEgxMJT",
+      "title": "Improving Large Language Model Planning with Action Sequence Similarity",
+      "authors": "Xinran Zhao, Hanie Sedghi, Bernd Bohnet, Dale Schuurmans, Azade Nova",
+      "paper_url": "https://openreview.net/pdf?id=tpGkEgxMJT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IssPhpUsKt",
+      "paper_id": "IssPhpUsKt",
+      "title": "Improving Reasoning Performance in Large Language Models via Representation Engineering",
+      "authors": "Bertram Højer, Oliver Simon Jarvis, Stefan Heinrich",
+      "paper_url": "https://openreview.net/pdf?id=IssPhpUsKt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_hQwb-lbM6EL",
+      "paper_id": "hQwb-lbM6EL",
+      "title": "InCoder: A Generative Model for Code Infilling and Synthesis",
+      "authors": "Daniel Fried, Armen Aghajanyan, Jessy Lin, Sida Wang, Eric Wallace, Freda Shi, Ruiqi Zhong, Scott Yih, Luke Zettlemoyer, Mike Lewis",
+      "paper_url": "https://openreview.net/pdf/be45f53a1cdce7b55fea4d2ed6ba734f27dea87f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_CGhgB8Kz8i",
+      "paper_id": "CGhgB8Kz8i",
+      "title": "Innovative Thinking, Infinite Humor: Humor Research of Large Language Models through Structured Thought Leaps",
+      "authors": "Han Wang, Yilin Zhao, Dian Li, Xiaohan Wang, sinbadliu, Xuguang Lan, Hui Wang",
+      "paper_url": "https://openreview.net/pdf?id=CGhgB8Kz8i",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wWnsoLhHwt",
+      "paper_id": "wWnsoLhHwt",
+      "title": "Inspection and Control of Self-Generated-Text Recognition Ability in Llama3-8b-Instruct",
+      "authors": "Christopher Ackerman, Nina Panickssery",
+      "paper_url": "https://openreview.net/pdf?id=wWnsoLhHwt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_44z7HL4mfX",
+      "paper_id": "44z7HL4mfX",
+      "title": "Instruct-SkillMix: A Powerful Pipeline for LLM Instruction Tuning",
+      "authors": "Simran Kaur, Simon Park, Anirudh Goyal, Sanjeev Arora",
+      "paper_url": "https://openreview.net/pdf?id=44z7HL4mfX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_O6LPudowNQm",
+      "paper_id": "O6LPudowNQm",
+      "title": "INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving",
+      "authors": "Yuhuai Wu, Albert Jiang, Jimmy Ba, Roger Baker Grosse",
+      "paper_url": "https://openreview.net/pdf/bf947d0003a7bfa73f42739223859badb472d6d5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_y0GJXRungR",
+      "paper_id": "y0GJXRungR",
+      "title": "Is Self-Repair a Silver Bullet for Code Generation?",
+      "authors": "Theo X. Olausson, Jeevana Priya Inala, Chenglong Wang, Jianfeng Gao, Armando Solar-Lezama",
+      "paper_url": "https://openreview.net/pdf?id=y0GJXRungR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nDvgHIBRxQ",
+      "paper_id": "nDvgHIBRxQ",
+      "title": "Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist",
+      "authors": "Zihao Zhou, Shudong Liu, Maizhen Ning, Wei Liu, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang",
+      "paper_url": "https://openreview.net/pdf?id=nDvgHIBRxQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Pzj6fzU6wkj",
+      "paper_id": "Pzj6fzU6wkj",
+      "title": "IsarStep: a Benchmark for High-level Mathematical Reasoning",
+      "authors": "Wenda Li, Lei Yu, Yuhuai Wu, Lawrence C. Paulson",
+      "paper_url": "https://openreview.net/pdf/c9fb7dd359102a00d8676684bd704c54961a5285.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_NHxwxc3ql6",
+      "paper_id": "NHxwxc3ql6",
+      "title": "It Helps to Take a Second Opinion: Teaching Smaller LLMs To Deliberate Mutually via Selective Rationale Optimisation",
+      "authors": "Sohan Patnaik, Milan Aggarwal, Sumit Bhatia, Balaji Krishnamurthy",
+      "paper_url": "https://openreview.net/pdf?id=NHxwxc3ql6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ac93gRzxxV",
+      "paper_id": "ac93gRzxxV",
+      "title": "IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking",
+      "authors": "Shubham Ugare, Rohan Gumaste, Tarun Suresh, Gagandeep Singh, Sasa Misailovic",
+      "paper_url": "https://openreview.net/pdf?id=ac93gRzxxV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_G0dksFayVq",
+      "paper_id": "G0dksFayVq",
+      "title": "JudgeBench: A Benchmark for Evaluating LLM-Based Judges",
+      "authors": "Sijun Tan, Siyuan Zhuang, Kyle Montgomery, William Yuan Tang, Alejandro Cuadron, Chenguang Wang, Raluca Popa, Ion Stoica",
+      "paper_url": "https://openreview.net/pdf?id=G0dksFayVq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xsELpEPn4A",
+      "paper_id": "xsELpEPn4A",
+      "title": "JudgeLM: Fine-tuned Large Language Models are Scalable Judges",
+      "authors": "Lianghui Zhu, Xinggang Wang, Xinlong Wang",
+      "paper_url": "https://openreview.net/pdf?id=xsELpEPn4A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3GTtZFiajM",
+      "paper_id": "3GTtZFiajM",
+      "title": "Justice or Prejudice? Quantifying Biases in LLM-as-a-Judge",
+      "authors": "Jiayi Ye, Yanbo Wang, Yue Huang, Dongping Chen, Qihui Zhang, Nuno Moniz, Tian Gao, Werner Geyer, Chao Huang, Pin-Yu Chen, Nitesh V Chawla, Xiangliang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=3GTtZFiajM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VnLhUogHYE",
+      "paper_id": "VnLhUogHYE",
+      "title": "K-HALU: Multiple Answer Korean Hallucination Benchmark for Large Language Models",
+      "authors": "Jaehyung Seo, Heuiseok Lim",
+      "paper_url": "https://openreview.net/pdf?id=VnLhUogHYE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_b3kDP3IytM",
+      "paper_id": "b3kDP3IytM",
+      "title": "KITAB: Evaluating LLMs on Constraint Satisfaction for Information Retrieval",
+      "authors": "Marah I Abdin, Suriya Gunasekar, Varun Chandrasekaran, Jerry Li, Mert Yuksekgonul, Rahee Ghosh Peshawaria, Ranjita Naik, Besmira Nushi",
+      "paper_url": "https://openreview.net/pdf?id=b3kDP3IytM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Zes7Wyif8G",
+      "paper_id": "Zes7Wyif8G",
+      "title": "KLay: Accelerating Arithmetic Circuits for Neurosymbolic AI",
+      "authors": "Jaron Maene, Vincent Derkinderen, Pedro Zuidberg Dos Martires",
+      "paper_url": "https://openreview.net/pdf?id=Zes7Wyif8G",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_WbWtOYIzIK",
+      "paper_id": "WbWtOYIzIK",
+      "title": "Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models",
+      "authors": "Shangbin Feng, Weijia Shi, Yuyang Bai, Vidhisha Balachandran, Tianxing He, Yulia Tsvetkov",
+      "paper_url": "https://openreview.net/pdf?id=WbWtOYIzIK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_oMFOKjwaRS",
+      "paper_id": "oMFOKjwaRS",
+      "title": "Knowledge Graph Finetuning Enhances Knowledge Manipulation in Large Language Models",
+      "authors": "Hanzhu Chen, Xu Shen, Jie Wang, Zehao Wang, Qitan Lv, Junjie He, Rong Wu, Feng Wu, Jieping Ye",
+      "paper_url": "https://openreview.net/pdf?id=oMFOKjwaRS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AqN23oqraW",
+      "paper_id": "AqN23oqraW",
+      "title": "KoLA: Carefully Benchmarking World Knowledge of Large Language Models",
+      "authors": "Jifan Yu, Xiaozhi Wang, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Kaifeng Yun, Linlu GONG, Nianyi Lin, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxin Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Xu Bin, Jie Tang, Juanzi Li",
+      "paper_url": "https://openreview.net/pdf?id=AqN23oqraW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SVRRQ8goQo",
+      "paper_id": "SVRRQ8goQo",
+      "title": "KOR-Bench: Benchmarking Language Models on Knowledge-Orthogonal Reasoning Tasks",
+      "authors": "Kaijing Ma, Xeron Du, Yunran Wang, Haoran Zhang, ZhoufutuWen, Xingwei Qu, Jian Yang, Jiaheng Liu, minghao liu, Xiang Yue, Wenhao Huang, Ge Zhang",
+      "paper_url": "https://openreview.net/pdf?id=SVRRQ8goQo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_eUAr4HwU0X",
+      "paper_id": "eUAr4HwU0X",
+      "title": "L-Eval: Instituting Standardized Evaluation for Long Context Language Models",
+      "authors": "Chenxin An, Shansan Gong, Ming Zhong, Xingjian Zhao, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu",
+      "paper_url": "https://openreview.net/pdf?id=eUAr4HwU0X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EhrzQwsV4K",
+      "paper_id": "EhrzQwsV4K",
+      "title": "L2MAC: Large Language Model Automatic Computer for Extensive Code Generation",
+      "authors": "Samuel Holt, Max Ruiz Luyten, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=EhrzQwsV4K",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ULGbw2URE3",
+      "paper_id": "ULGbw2URE3",
+      "title": "L3Ms — Lagrange Large Language Models",
+      "authors": "Guneet S. Dhillon, Xingjian Shi, Yee Whye Teh, Alex Smola",
+      "paper_url": "https://openreview.net/pdf?id=ULGbw2URE3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hESD2NJFg8",
+      "paper_id": "hESD2NJFg8",
+      "title": "Label-free Node Classification on Graphs with Large Language Models (LLMs)",
+      "authors": "Zhikai Chen, Haitao Mao, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang",
+      "paper_url": "https://openreview.net/pdf?id=hESD2NJFg8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_VEqPDZIDAh",
+      "paper_id": "VEqPDZIDAh",
+      "title": "Language Model Alignment in Multilingual Trolley Problems",
+      "authors": "Zhijing Jin, Max Kleiman-Weiner, Giorgio Piatti, Sydney Levine, Jiarui Liu, Fernando Gonzalez Adauto, Francesco Ortu, András Strausz, Mrinmaya Sachan, Rada Mihalcea, Yejin Choi, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf?id=VEqPDZIDAh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_SaRj2ka1XZ3",
+      "paper_id": "SaRj2ka1XZ3",
+      "title": "Language Models Can Teach Themselves to Program Better",
+      "authors": "Patrick Haluptzok, Matthew Bowers, Adam Tauman Kalai",
+      "paper_url": "https://openreview.net/pdf/70f1e70fce89088da12b7493b7d1a8d444a2acec.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_xJljiPE6dg",
+      "paper_id": "xJljiPE6dg",
+      "title": "Language Models Learn to Mislead Humans via RLHF",
+      "authors": "Jiaxin Wen, Ruiqi Zhong, Akbir Khan, Ethan Perez, Jacob Steinhardt, Minlie Huang, Samuel R. Bowman, He He, Shi Feng",
+      "paper_url": "https://openreview.net/pdf?id=xJljiPE6dg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Tn8EQIFIMQ",
+      "paper_id": "Tn8EQIFIMQ",
+      "title": "Language Models Trained to do Arithmetic Predict Human Risky and Intertemporal Choice",
+      "authors": "Jian-Qiao Zhu, Haijiang Yan, Thomas L. Griffiths",
+      "paper_url": "https://openreview.net/pdf?id=Tn8EQIFIMQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Xh5eMZVONGF",
+      "paper_id": "Xh5eMZVONGF",
+      "title": "Language-Agnostic Representation Learning of Source Code from Structure and Context",
+      "authors": "Daniel Zügner, Tobias Kirschstein, Michele Catasta, Jure Leskovec, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/69c9ae01f0f1b9a15ea1b21d87cdf95dff32a6f5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_6okaSfANzh",
+      "paper_id": "6okaSfANzh",
+      "title": "Large Language Model Cascades with Mixture of Thought Representations for Cost-Efficient Reasoning",
+      "authors": "Murong Yue, Jie Zhao, Min Zhang, Liang Du, Ziyu Yao",
+      "paper_url": "https://openreview.net/pdf?id=6okaSfANzh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_92gvk82DE-",
+      "paper_id": "92gvk82DE-",
+      "title": "Large Language Models are Human-Level Prompt Engineers",
+      "authors": "Yongchao Zhou, Andrei Ioan Muresanu, Ziwen Han, Keiran Paster, Silviu Pitis, Harris Chan, Jimmy Ba",
+      "paper_url": "https://openreview.net/pdf/e7ec7c76cacea5d0272b93de5a569d872e7344e6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_hTphfqtafO",
+      "paper_id": "hTphfqtafO",
+      "title": "Large Language Models are Interpretable Learners",
+      "authors": "Ruochen Wang, Si Si, Felix Yu, Dorothea Wiesmann Rothuizen, Cho-Jui Hsieh, Inderjit S Dhillon",
+      "paper_url": "https://openreview.net/pdf?id=hTphfqtafO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_shr9PXz7T0",
+      "paper_id": "shr9PXz7T0",
+      "title": "Large Language Models Are Not Robust Multiple Choice Selectors",
+      "authors": "Chujie Zheng, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang",
+      "paper_url": "https://openreview.net/pdf?id=shr9PXz7T0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_AgDICX1h50",
+      "paper_id": "AgDICX1h50",
+      "title": "Large Language Models as Analogical Reasoners",
+      "authors": "Michihiro Yasunaga, Xinyun Chen, Yujia Li, Panupong Pasupat, Jure Leskovec, Percy Liang, Ed H. Chi, Denny Zhou",
+      "paper_url": "https://openreview.net/pdf?id=AgDICX1h50",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Bb4VGOWELI",
+      "paper_id": "Bb4VGOWELI",
+      "title": "Large Language Models as Optimizers",
+      "authors": "Chengrun Yang, Xuezhi Wang, Yifeng Lu, Hanxiao Liu, Quoc V Le, Denny Zhou, Xinyun Chen",
+      "paper_url": "https://openreview.net/pdf?id=Bb4VGOWELI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_qV83K9d5WB",
+      "paper_id": "qV83K9d5WB",
+      "title": "Large Language Models as Tool Makers",
+      "authors": "Tianle Cai, Xuezhi Wang, Tengyu Ma, Xinyun Chen, Denny Zhou",
+      "paper_url": "https://openreview.net/pdf?id=qV83K9d5WB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_dAeET8gxqg",
+      "paper_id": "dAeET8gxqg",
+      "title": "Large Language Models Assume People are More Rational than We Really are",
+      "authors": "Ryan Liu, Jiayi Geng, Joshua Peterson, Ilia Sucholutsky, Thomas L. Griffiths",
+      "paper_url": "https://openreview.net/pdf?id=dAeET8gxqg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jY5oml9fe9",
+      "paper_id": "jY5oml9fe9",
+      "title": "Large Language Models can Become Strong Self-Detoxifiers",
+      "authors": "Ching-Yun Ko, Pin-Yu Chen, Payel Das, Youssef Mroueh, Soham Dan, Georgios Kollias, Subhajit Chaudhury, Tejaswini Pedapati, Luca Daniel",
+      "paper_url": "https://openreview.net/pdf?id=jY5oml9fe9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IkmD3fKBPQ",
+      "paper_id": "IkmD3fKBPQ",
+      "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+      "authors": "Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou",
+      "paper_url": "https://openreview.net/pdf?id=IkmD3fKBPQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_C25SgeXWjE",
+      "paper_id": "C25SgeXWjE",
+      "title": "Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation",
+      "authors": "Chengwen Qi, Ren Ma, Bowen Li, He Du, Binyuan Hui, Jinwang Wu, Yuanjun Laili, Conghui He",
+      "paper_url": "https://openreview.net/pdf?id=C25SgeXWjE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RTHbao4Mib",
+      "paper_id": "RTHbao4Mib",
+      "title": "Large Language Models Often Say One Thing and Do Another",
+      "authors": "Ruoxi Xu, Hongyu Lin, Xianpei Han, Jia Zheng, Weixiang Zhou, Le Sun, Yingfei Sun",
+      "paper_url": "https://openreview.net/pdf?id=RTHbao4Mib",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_OOxotBmGol",
+      "paper_id": "OOxotBmGol",
+      "title": "Large Language Models to Enhance Bayesian Optimization",
+      "authors": "Tennison Liu, Nicolás Astorga, Nabeel Seedat, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=OOxotBmGol",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_jxo70B9fQo",
+      "paper_id": "jxo70B9fQo",
+      "title": "Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation",
+      "authors": "Yiming Wang, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang",
+      "paper_url": "https://openreview.net/pdf?id=jxo70B9fQo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7El7K1DoyX",
+      "paper_id": "7El7K1DoyX",
+      "title": "Lawma: The Power of Specialization for Legal Annotation",
+      "authors": "Ricardo Dominguez-Olmedo, Vedant Nanda, Rediet Abebe, Stefan Bechtold, Christoph Engel, Jens Frankenreiter, Krishna P. Gummadi, Moritz Hardt, Michael Livermore",
+      "paper_url": "https://openreview.net/pdf?id=7El7K1DoyX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SOWZ59UyNc",
+      "paper_id": "SOWZ59UyNc",
+      "title": "Lean-STaR: Learning to Interleave Thinking and Proving",
+      "authors": "Haohan Lin, Zhiqing Sun, Sean Welleck, Yiming Yang",
+      "paper_url": "https://openreview.net/pdf?id=SOWZ59UyNc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Uo4EHT4ZZ8",
+      "paper_id": "Uo4EHT4ZZ8",
+      "title": "LeanAgent: Lifelong Learning for Formal Theorem Proving",
+      "authors": "Adarsh Kumarappan, Mo Tiwari, Peiyang Song, Robert Joseph George, Chaowei Xiao, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf?id=Uo4EHT4ZZ8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wtrDLMFU9v",
+      "paper_id": "wtrDLMFU9v",
+      "title": "Learning Evolving Tools for Large Language Models",
+      "authors": "Guoxin Chen, Zhong Zhang, Xin Cong, Fangda Guo, Yesai Wu, Yankai Lin, Wenzheng Feng, Yasheng Wang",
+      "paper_url": "https://openreview.net/pdf?id=wtrDLMFU9v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_4D4TSJE6-K",
+      "paper_id": "4D4TSJE6-K",
+      "title": "Learning Math Reasoning from Self-Sampled Correct and Partially-Correct Solutions",
+      "authors": "Ansong Ni, Jeevana Priya Inala, Chenglong Wang, Alex Polozov, Christopher Meek, Dragomir Radev, Jianfeng Gao",
+      "paper_url": "https://openreview.net/pdf/cd9398ff5cb3cad0cd4e635371b5bd8915893cd4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_v9hAX77--cZ",
+      "paper_id": "v9hAX77--cZ",
+      "title": "Learning Structural Edits via Incremental Tree Transformations",
+      "authors": "Ziyu Yao, Frank F. Xu, Pengcheng Yin, Huan Sun, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/1fa89cfde10c367bd3c970a467f69d1e81ef7f40.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_SIE6VFps9x",
+      "paper_id": "SIE6VFps9x",
+      "title": "Learning to Clarify: Multi-turn Conversations with Action-Based Contrastive Self-Training",
+      "authors": "Maximillian Chen, Ruoxi Sun, Tomas Pfister, Sercan O Arik",
+      "paper_url": "https://openreview.net/pdf?id=SIE6VFps9x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_q79uMSC6ZBT",
+      "paper_id": "q79uMSC6ZBT",
+      "title": "Learning to Complete Code with Sketches",
+      "authors": "Daya Guo, Alexey Svyatkovskiy, Jian Yin, Nan Duan, Marc Brockschmidt, Miltiadis Allamanis",
+      "paper_url": "https://openreview.net/pdf/721a38d7a69acd79d164ead05430e5912c4c0721.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_3Gzz7ZQLiz",
+      "paper_id": "3Gzz7ZQLiz",
+      "title": "Learning to Contextualize Web Pages for Enhanced Decision Making by LLM Agents",
+      "authors": "Dongjun Lee, Juyong Lee, Kyuyoung Kim, Jihoon Tack, Jinwoo Shin, Yee Whye Teh, Kimin Lee",
+      "paper_url": "https://openreview.net/pdf?id=3Gzz7ZQLiz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KmmNb7631I",
+      "paper_id": "KmmNb7631I",
+      "title": "Learning to Plan Before Answering: Self-Teaching LLMs to Learn Abstract Plans for Problem Solving",
+      "authors": "Jin Zhang, Flood Sung, Zhilin Yang, Yang Gao, Chongjie Zhang",
+      "paper_url": "https://openreview.net/pdf?id=KmmNb7631I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_WZH7099tgfM",
+      "paper_id": "WZH7099tgfM",
+      "title": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+      "authors": "Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc V Le, Ed H. Chi",
+      "paper_url": "https://openreview.net/pdf/328fd7b9b742a2398905672f07b91af643001cb5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_3f5PALef5B",
+      "paper_id": "3f5PALef5B",
+      "title": "LEGO-Prover: Neural Theorem Proving with Growing Libraries",
+      "authors": "Haiming Wang, Huajian Xin, Chuanyang Zheng, Zhengying Liu, Qingxing Cao, Yinya Huang, Jing Xiong, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Xiaodan Liang",
+      "paper_url": "https://openreview.net/pdf?id=3f5PALef5B",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hNhwSmtXRh",
+      "paper_id": "hNhwSmtXRh",
+      "title": "Lemur: Harmonizing Natural Language and Code for Language Agents",
+      "authors": "Yiheng Xu, Hongjin SU, Chen Xing, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, Tao Yu",
+      "paper_url": "https://openreview.net/pdf?id=hNhwSmtXRh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Q3YaCghZNt",
+      "paper_id": "Q3YaCghZNt",
+      "title": "Lemur: Integrating Large Language Models in Automated Program Verification",
+      "authors": "Haoze Wu, Clark Barrett, Nina Narodytska",
+      "paper_url": "https://openreview.net/pdf?id=Q3YaCghZNt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_sehRvaIPQQ",
+      "paper_id": "sehRvaIPQQ",
+      "title": "Let Models Speak Ciphers: Multiagent Debate through Embeddings",
+      "authors": "Chau Pham, Boyi Liu, Yingxiang Yang, Zhengyu Chen, Tianyi Liu, Jianbo Yuan, Bryan A. Plummer, Zhaoran Wang, Hongxia Yang",
+      "paper_url": "https://openreview.net/pdf?id=sehRvaIPQQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zqzsZ5cXbB",
+      "paper_id": "zqzsZ5cXbB",
+      "title": "Let the Code LLM Edit Itself When You Edit the Code",
+      "authors": "Zhenyu He, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He",
+      "paper_url": "https://openreview.net/pdf?id=zqzsZ5cXbB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_cmt-6KtR4c4",
+      "paper_id": "cmt-6KtR4c4",
+      "title": "Leveraging Automated Unit Tests for Unsupervised Code Translation",
+      "authors": "Baptiste Roziere, Jie Zhang, Francois Charton, Mark Harman, Gabriel Synnaeve, Guillaume Lample",
+      "paper_url": "https://openreview.net/pdf/5afda866e17de3287b9281461435fdc488309beb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_irPcM6X5FV",
+      "paper_id": "irPcM6X5FV",
+      "title": "Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs",
+      "authors": "Rui Dai, Sile Hu, Xu Shen, Yonggang Zhang, Xinmei Tian, Jieping Ye",
+      "paper_url": "https://openreview.net/pdf?id=irPcM6X5FV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NO6Tv6QcDs",
+      "paper_id": "NO6Tv6QcDs",
+      "title": "Limits to scalable evaluation at the frontier: LLM as judge won’t beat twice the data",
+      "authors": "Florian E. Dorner, Vivian Yvonne Nastl, Moritz Hardt",
+      "paper_url": "https://openreview.net/pdf?id=NO6Tv6QcDs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zjAEa4s3sH",
+      "paper_id": "zjAEa4s3sH",
+      "title": "Lines of Thought in Large Language Models",
+      "authors": "Raphaël Sarfati, Toni J.B. Liu, Nicolas Boulle, Christopher Earls",
+      "paper_url": "https://openreview.net/pdf?id=zjAEa4s3sH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sKYHBTAxVa",
+      "paper_id": "sKYHBTAxVa",
+      "title": "LiveBench: A Challenging, Contamination-Limited LLM Benchmark",
+      "authors": "Colin White, Samuel Dooley, Manley Roberts, Arka Pal, Benjamin Feuer, Siddhartha Jain, Ravid Shwartz-Ziv, Neel Jain, Khalid Saifullah, Sreemanti Dey, Shubh-Agrawal, Sandeep Singh Sandha, Siddartha Venkat Naidu, Chinmay Hegde, Yann LeCun, Tom Goldstein, Willie Neiswanger, Micah Goldblum",
+      "paper_url": "https://openreview.net/pdf?id=sKYHBTAxVa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_chfJJYC3iL",
+      "paper_id": "chfJJYC3iL",
+      "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+      "authors": "Naman Jain, King Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, Ion Stoica",
+      "paper_url": "https://openreview.net/pdf?id=chfJJYC3iL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PYmrUQmMEw",
+      "paper_id": "PYmrUQmMEw",
+      "title": "LLaMA-Omni: Seamless Speech Interaction with Large Language Models",
+      "authors": "Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, Shaolei Zhang, Yang Feng",
+      "paper_url": "https://openreview.net/pdf?id=PYmrUQmMEw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4WnqRR915j",
+      "paper_id": "4WnqRR915j",
+      "title": "Llemma: An Open Language Model for Mathematics",
+      "authors": "Zhangir Azerbayev, Hailey Schoelkopf, Keiran Paster, Marco Dos Santos, Stephen Marcus McAleer, Albert Q. Jiang, Jia Deng, Stella Biderman, Sean Welleck",
+      "paper_url": "https://openreview.net/pdf?id=4WnqRR915j",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jjA4O1vJRz",
+      "paper_id": "jjA4O1vJRz",
+      "title": "LLM Augmented LLMs: Expanding Capabilities through Composition",
+      "authors": "Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Sriram Ganapathy, Abhishek Bapna, Prateek Jain, Partha Talukdar",
+      "paper_url": "https://openreview.net/pdf?id=jjA4O1vJRz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_maRYffiUpI",
+      "paper_id": "maRYffiUpI",
+      "title": "LLM-Assisted Code Cleaning For Training Accurate Code Generators",
+      "authors": "Naman Jain, Tianjun Zhang, Wei-Lin Chiang, Joseph E. Gonzalez, Koushik Sen, Ion Stoica",
+      "paper_url": "https://openreview.net/pdf?id=maRYffiUpI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wNobG8bV5Q",
+      "paper_id": "wNobG8bV5Q",
+      "title": "LLM-based Typed Hyperresolution for Commonsense Reasoning with Knowledge Bases",
+      "authors": "Armin Toroghi, Ali Pesaranghader, Tanmana Sadhu, Scott Sanner",
+      "paper_url": "https://openreview.net/pdf?id=wNobG8bV5Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_m2nmp8P5in",
+      "paper_id": "m2nmp8P5in",
+      "title": "LLM-SR: Scientific Equation Discovery via Programming with Large Language Models",
+      "authors": "Parshin Shojaee, Kazem Meidani, Shashank Gupta, Amir Barati Farimani, Chandan K. Reddy",
+      "paper_url": "https://openreview.net/pdf?id=m2nmp8P5in",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_K3KrOsR6y9",
+      "paper_id": "K3KrOsR6y9",
+      "title": "LLMs Can Plan Only If We Tell Them",
+      "authors": "Bilgehan Sel, Ruoxi Jia, Ming Jin",
+      "paper_url": "https://openreview.net/pdf?id=K3KrOsR6y9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KRnsX5Em3W",
+      "paper_id": "KRnsX5Em3W",
+      "title": "LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations",
+      "authors": "Hadas Orgad, Michael Toker, Zorik Gekhman, Roi Reichart, Idan Szpektor, Hadas Kotek, Yonatan Belinkov",
+      "paper_url": "https://openreview.net/pdf?id=KRnsX5Em3W",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BOfDKxfwt0",
+      "paper_id": "BOfDKxfwt0",
+      "title": "LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset",
+      "authors": "Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Tianle Li, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zhuohan Li, Zi Lin, Eric Xing, Joseph E. Gonzalez, Ion Stoica, Hao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=BOfDKxfwt0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vJgJSrYPe1",
+      "paper_id": "vJgJSrYPe1",
+      "title": "Logic-Logit: A Logic-Based Approach to Choice Modeling",
+      "authors": "Shuhan Zhang, Wendi Ren, Shuang Li",
+      "paper_url": "https://openreview.net/pdf?id=vJgJSrYPe1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SimlDuN0YT",
+      "paper_id": "SimlDuN0YT",
+      "title": "Logical Consistency of Large Language Models in Fact-Checking",
+      "authors": "Bishwamittra Ghosh, Sarah Hasan, Naheed Anjum Arafat, Arijit Khan",
+      "paper_url": "https://openreview.net/pdf?id=SimlDuN0YT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7PGluppo4k",
+      "paper_id": "7PGluppo4k",
+      "title": "Logically Consistent Language Models via Neuro-Symbolic Integration",
+      "authors": "Diego Calanzone, Stefano Teso, Antonio Vergari",
+      "paper_url": "https://openreview.net/pdf?id=7PGluppo4k",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BLGQ3oqldb",
+      "paper_id": "BLGQ3oqldb",
+      "title": "LogicMP: A Neuro-symbolic Approach for Encoding First-order Logic Constraints",
+      "authors": "Weidi Xu, Jingwei Wang, Lele Xie, Jianshan He, Hongting Zhou, Taifeng Wang, Xiaopei Wan, Jingdong Chen, Chao Qu, Wei Chu",
+      "paper_url": "https://openreview.net/pdf?id=BLGQ3oqldb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_3A71qNKWAS",
+      "paper_id": "3A71qNKWAS",
+      "title": "LongGenBench: Benchmarking Long-Form Generation in Long Context LLMs",
+      "authors": "Yuhao Wu, Ming Shan Hee, Zhiqiang Hu, Roy Ka-Wei Lee",
+      "paper_url": "https://openreview.net/pdf?id=3A71qNKWAS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pZiyCaVuti",
+      "paper_id": "pZiyCaVuti",
+      "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+      "authors": "Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu",
+      "paper_url": "https://openreview.net/pdf?id=pZiyCaVuti",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_yLClGs770I",
+      "paper_id": "yLClGs770I",
+      "title": "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning",
+      "authors": "Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen",
+      "paper_url": "https://openreview.net/pdf?id=yLClGs770I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Yqk7EyT52H",
+      "paper_id": "Yqk7EyT52H",
+      "title": "MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model",
+      "authors": "Junjie Li, Yang Liu, Weiqing Liu, Shikai Fang, Lewen Wang, Chang Xu, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=Yqk7EyT52H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_d2H1oTNITn",
+      "paper_id": "d2H1oTNITn",
+      "title": "Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs",
+      "authors": "Yuzhe Gu, Wenwei Zhang, Chengqi Lyu, Dahua Lin, Kai Chen",
+      "paper_url": "https://openreview.net/pdf?id=d2H1oTNITn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_9nsNyN0vox",
+      "paper_id": "9nsNyN0vox",
+      "title": "Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks",
+      "authors": "Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Kang Liu, Jun Zhao",
+      "paper_url": "https://openreview.net/pdf?id=9nsNyN0vox",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1Iuw1jcIrf",
+      "paper_id": "1Iuw1jcIrf",
+      "title": "MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code",
+      "authors": "Zimu Lu, Aojun Zhou, Ke Wang, Houxing Ren, Weikang Shi, Junting Pan, Mingjie Zhan, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=1Iuw1jcIrf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_z8TW0ttBPp",
+      "paper_id": "z8TW0ttBPp",
+      "title": "MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning",
+      "authors": "Ke Wang, Houxing Ren, Aojun Zhou, Zimu Lu, Sichun Luo, Weikang Shi, Renrui Zhang, Linqi Song, Mingjie Zhan, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=z8TW0ttBPp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_YmqAnY0CMEy",
+      "paper_id": "YmqAnY0CMEy",
+      "title": "Mathematical Reasoning via Self-supervised Skip-tree Training",
+      "authors": "Markus Norman Rabe, Dennis Lee, Kshitij Bansal, Christian Szegedy",
+      "paper_url": "https://openreview.net/pdf/405aeadddeb5c223426f15f57b0e520aeb2ce585.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_5ck9PIrTpH",
+      "paper_id": "5ck9PIrTpH",
+      "title": "MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs",
+      "authors": "Andreas Opedal, Haruki Shirakami, Bernhard Schölkopf, Abulhair Saparov, Mrinmaya Sachan",
+      "paper_url": "https://openreview.net/pdf?id=5ck9PIrTpH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KUNzEQMWU7",
+      "paper_id": "KUNzEQMWU7",
+      "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+      "authors": "Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao",
+      "paper_url": "https://openreview.net/pdf?id=KUNzEQMWU7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UunCPtPOlZ",
+      "paper_id": "UunCPtPOlZ",
+      "title": "McEval: Massively Multilingual Code Evaluation",
+      "authors": "Linzheng Chai, Shukai Liu, Jian Yang, Yuwei Yin, JinKe, Jiaheng Liu, Tao Sun, Ge Zhang, Changyu Ren, Hongcheng Guo, Noah Wang, Boyang Wang, Xianjie Wu, Bing Wang, Tongliang Li, Liqun Yang, Sufeng Duan, Zhaoxiang Zhang, Zhoujun Li",
+      "paper_url": "https://openreview.net/pdf?id=UunCPtPOlZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Iyrtb9EJBp",
+      "paper_id": "Iyrtb9EJBp",
+      "title": "Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse",
+      "authors": "Maojia Song, Shang Hong Sim, Rishabh Bhardwaj, Hai Leong Chieu, Navonil Majumder, Soujanya Poria",
+      "paper_url": "https://openreview.net/pdf?id=Iyrtb9EJBp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NfCEVihkdC",
+      "paper_id": "NfCEVihkdC",
+      "title": "Measuring And Improving Persuasiveness Of Large Language Models",
+      "authors": "Somesh Kumar Singh, Yaman Kumar Singla, Harini S I, Balaji Krishnamurthy",
+      "paper_url": "https://openreview.net/pdf?id=NfCEVihkdC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_d7KBjmI3GmQ",
+      "paper_id": "d7KBjmI3GmQ",
+      "title": "Measuring Massive Multitask Language Understanding",
+      "authors": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf/c7127ca5fd516f0080de5b310bec7dde0c5cb907.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Tg8RLxpMDu",
+      "paper_id": "Tg8RLxpMDu",
+      "title": "Measuring memorization in RLHF for code completion",
+      "authors": "Jamie Hayes, Ilia Shumailov, William P. Porter, Aneesh Pappu",
+      "paper_url": "https://openreview.net/pdf?id=Tg8RLxpMDu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4T33izzFpK",
+      "paper_id": "4T33izzFpK",
+      "title": "metabench - A Sparse Benchmark of Reasoning and Knowledge in Large Language Models",
+      "authors": "Alex Kipnis, Konstantinos Voudouris, Luca M. Schulze Buschoff, Eric Schulz",
+      "paper_url": "https://openreview.net/pdf?id=4T33izzFpK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_N8N0hgNDRt",
+      "paper_id": "N8N0hgNDRt",
+      "title": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models",
+      "authors": "Longhui Yu, Weisen Jiang, Han Shi, Jincheng YU, Zhengying Liu, Yu Zhang, James Kwok, Zhenguo Li, Adrian Weller, Weiyang Liu",
+      "paper_url": "https://openreview.net/pdf?id=N8N0hgNDRt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_slO3xTt4CG",
+      "paper_id": "slO3xTt4CG",
+      "title": "MetaMetrics: Calibrating Metrics for Generation Tasks Using Human Preferences",
+      "authors": "Genta Indra Winata, David Anugraha, Lucky Susanto, Garry Kuwanto, Derry Tanti Wijaya",
+      "paper_url": "https://openreview.net/pdf?id=slO3xTt4CG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_R0c2qtalgG",
+      "paper_id": "R0c2qtalgG",
+      "title": "MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use",
+      "authors": "Yue Huang, Jiawen Shi, Yuan Li, Chenrui Fan, Siyuan Wu, Qihui Zhang, Yixin Liu, Pan Zhou, Yao Wan, Neil Zhenqiang Gong, Lichao Sun",
+      "paper_url": "https://openreview.net/pdf?id=R0c2qtalgG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mtJSMcF3ek",
+      "paper_id": "mtJSMcF3ek",
+      "title": "Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models",
+      "authors": "Yuda Song, Hanlin Zhang, Carson Eisenach, Sham M. Kakade, Dean Foster, Udaya Ghai",
+      "paper_url": "https://openreview.net/pdf?id=mtJSMcF3ek",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TuOTSAiHDn",
+      "paper_id": "TuOTSAiHDn",
+      "title": "MIND: Math Informed syNthetic Dialogues for Pretraining LLMs",
+      "authors": "Syeda Nahida Akter, Shrimai Prabhumoye, John Kamalu, Sanjeev Satheesh, Eric Nyberg, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro",
+      "paper_url": "https://openreview.net/pdf?id=TuOTSAiHDn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KIgaAqEFHW",
+      "paper_id": "KIgaAqEFHW",
+      "title": "miniCTX: Neural Theorem Proving with (Long-)Contexts",
+      "authors": "Jiewen Hu, Thomas Zhu, Sean Welleck",
+      "paper_url": "https://openreview.net/pdf?id=KIgaAqEFHW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9ZPegFuFTFv",
+      "paper_id": "9ZPegFuFTFv",
+      "title": "miniF2F: a cross-system benchmark for formal Olympiad-level mathematics",
+      "authors": "Kunhao Zheng, Jesse Michael Han, Stanislas Polu",
+      "paper_url": "https://openreview.net/pdf/74334724110d37109013ea669f8ffec08b3498a1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_jp3gWrMuIZ",
+      "paper_id": "jp3gWrMuIZ",
+      "title": "MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback",
+      "authors": "Xingyao Wang, Zihan Wang, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng, Heng Ji",
+      "paper_url": "https://openreview.net/pdf?id=jp3gWrMuIZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tZCqSVncRf",
+      "paper_id": "tZCqSVncRf",
+      "title": "MIRAGE: Evaluating and Explaining Inductive Reasoning Process in Language Models",
+      "authors": "Jiachun Li, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao",
+      "paper_url": "https://openreview.net/pdf?id=tZCqSVncRf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_h0ZfDIrj7T",
+      "paper_id": "h0ZfDIrj7T",
+      "title": "Mixture-of-Agents Enhances Large Language Model Capabilities",
+      "authors": "Junlin Wang, Jue WANG, Ben Athiwaratkun, Ce Zhang, James Zou",
+      "paper_url": "https://openreview.net/pdf?id=h0ZfDIrj7T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GGlpykXDCa",
+      "paper_id": "GGlpykXDCa",
+      "title": "MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions",
+      "authors": "Jian Wu, Linyi Yang, Dongyuan Li, Yuliang Ji, Manabu Okumura, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=GGlpykXDCa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cwuSAR7EKd",
+      "paper_id": "cwuSAR7EKd",
+      "title": "Modeling Future Conversation Turns to Teach LLMs to Ask Clarifying Questions",
+      "authors": "Michael JQ Zhang, W. Bradley Knox, Eunsol Choi",
+      "paper_url": "https://openreview.net/pdf?id=cwuSAR7EKd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_m9wG6ai2Xk",
+      "paper_id": "m9wG6ai2Xk",
+      "title": "MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations",
+      "authors": "Shaochen Zhong, Yifan Lu, Lize Shao, Bhargav Bhushanam, Xiaocong Du, Yixin Wan, Yucheng Shi, Daochen Zha, Yiwei Wang, Ninghao Liu, Kaixiong Zhou, Shuai Xu, Kai-Wei Chang, Louis Feng, Vipin Chaudhary, Xia Hu",
+      "paper_url": "https://openreview.net/pdf?id=m9wG6ai2Xk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_br4H61LOoI",
+      "paper_id": "br4H61LOoI",
+      "title": "MR-GSM8K: A Meta-Reasoning Benchmark for Large Language Model Evaluation",
+      "authors": "Zhongshen Zeng, Pengguang Chen, Shu Liu, Haiyun Jiang, Jiaya Jia",
+      "paper_url": "https://openreview.net/pdf?id=br4H61LOoI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Rry1SeSOQL",
+      "paper_id": "Rry1SeSOQL",
+      "title": "MT-Ranker: Reference-free machine translation evaluation by inter-system ranking",
+      "authors": "Ibraheem Muhammad Moosa, Rui Zhang, Wenpeng Yin",
+      "paper_url": "https://openreview.net/pdf?id=Rry1SeSOQL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6guG2OlXsr",
+      "paper_id": "6guG2OlXsr",
+      "title": "MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models",
+      "authors": "Pei Wang, Yanan Wu, Noah Wang, Jiaheng Liu, Xiaoshuai Song, Z.Y. Peng, Ken Deng, Chenchen Zhang, JiakaiWang, Junran Peng, Ge Zhang, Hangyu Guo, Zhaoxiang Zhang, Wenbo Su, Bo Zheng",
+      "paper_url": "https://openreview.net/pdf?id=6guG2OlXsr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Bo7eeXm6An8",
+      "paper_id": "Bo7eeXm6An8",
+      "title": "Multi-lingual Evaluation of Code Generation Models",
+      "authors": "Ben Athiwaratkun, Sanjay Krishna Gouda, Zijian Wang, Xiaopeng Li, Yuchen Tian, Ming Tan, Wasi Uddin Ahmad, Shiqi Wang, Qing Sun, Mingyue Shang, Sujan Kumar Gonugondla, Hantian Ding, Varun Kumar, Nathan Fulton, Arash Farahani, Siddhartha Jain, Robert Giaquinto, Haifeng Qian, Murali Krishna Ramanathan, Ramesh Nallapati, Baishakhi Ray, Parminder Bhatia, Sudipta Sengupta, Dan Roth, Bing Xiang",
+      "paper_url": "https://openreview.net/pdf/c2ba4659e44c45ec67969ec9a74097a37184ad62.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_0bmGL4q7vJ",
+      "paper_id": "0bmGL4q7vJ",
+      "title": "Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage",
+      "authors": "Zhi Gao, Bofei Zhang, Pengxiang Li, Xiaojian Ma, Tao Yuan, Yue Fan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li",
+      "paper_url": "https://openreview.net/pdf?id=0bmGL4q7vJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ee6W5UgQLa",
+      "paper_id": "ee6W5UgQLa",
+      "title": "MultiModalQA: complex question answering over text, tables and images",
+      "authors": "Alon Talmor, Ori Yoran, Amnon Catav, Dan Lahav, Yizhong Wang, Akari Asai, Gabriel Ilharco, Hannaneh Hajishirzi, Jonathan Berant",
+      "paper_url": "https://openreview.net/pdf/f3dad930cb55abce99a229e35cc131a2db791b66.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_8xliOUg9EW",
+      "paper_id": "8xliOUg9EW",
+      "title": "MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data",
+      "authors": "Yinya Huang, Xiaohan Lin, Zhengying Liu, Qingxing Cao, Huajian Xin, Haiming Wang, Zhenguo Li, Linqi Song, Xiaodan Liang",
+      "paper_url": "https://openreview.net/pdf?id=8xliOUg9EW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6aHUmotXaw",
+      "paper_id": "6aHUmotXaw",
+      "title": "Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solver",
+      "authors": "Zhenting Qi, Mingyuan MA, Jiahang Xu, Li Lyna Zhang, Fan Yang, Mao Yang",
+      "paper_url": "https://openreview.net/pdf?id=6aHUmotXaw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_0DLwqQLmqV",
+      "paper_id": "0DLwqQLmqV",
+      "title": "NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy",
+      "authors": "Yash Mehta, Colin White, Arber Zela, Arjun Krishnakumar, Guri Zabergja, Shakiba Moradian, Mahmoud Safari, Kaicheng Yu, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf/3e2df1273dd62fef9940be12e0bdd7e3fd0a5b78.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_xC8xh2RSs2",
+      "paper_id": "xC8xh2RSs2",
+      "title": "Navigating Dataset Documentations in AI: A Large-Scale Analysis of Dataset Cards on HuggingFace",
+      "authors": "Xinyu Yang, Weixin Liang, James Zou",
+      "paper_url": "https://openreview.net/pdf?id=xC8xh2RSs2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_NyJ2KIN8P17",
+      "paper_id": "NyJ2KIN8P17",
+      "title": "Neural Program Synthesis with Query",
+      "authors": "Di Huang, Rui Zhang, Xing Hu, Xishan Zhang, Pengwei Jin, Nan Li, Zidong Du, Qi Guo, Yunji Chen",
+      "paper_url": "https://openreview.net/pdf/e5b3abde2c30abab84561a7eb8d74c79cdb1ddec.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_LYHEY783Np",
+      "paper_id": "LYHEY783Np",
+      "title": "Neuron based Personality Trait Induction in Large Language Models",
+      "authors": "Jia Deng, Tianyi Tang, Yanbin Yin, Wenhao yang, Xin Zhao, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=LYHEY783Np",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4ytRL3HJrq",
+      "paper_id": "4ytRL3HJrq",
+      "title": "Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning",
+      "authors": "Nan Jiang, Chengxiao Wang, Kevin Liu, Xiangzhe Xu, Lin Tan, Xiangyu Zhang, Petr Babkin",
+      "paper_url": "https://openreview.net/pdf?id=4ytRL3HJrq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uMEsKEiB7J",
+      "paper_id": "uMEsKEiB7J",
+      "title": "NovelQA: Benchmarking Question Answering on Documents Exceeding 200K Tokens",
+      "authors": "Cunxiang Wang, Ruoxi Ning, Boqi Pan, Tonghui Wu, Qipeng Guo, Cheng Deng, Guangsheng Bao, Xiangkun Hu, Zheng Zhang, Qian Wang, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=uMEsKEiB7J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BWS5gVjgeY",
+      "paper_id": "BWS5gVjgeY",
+      "title": "Number Cookbook: Number Understanding of Language Models and How to Improve It",
+      "authors": "Haotong Yang, Yi Hu, Shijia Kang, Zhouchen Lin, Muhan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=BWS5gVjgeY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6LtdZCyuZR",
+      "paper_id": "6LtdZCyuZR",
+      "title": "NutriBench: A Dataset for Evaluating Large Language Models in Nutrition Estimation from Meal Descriptions",
+      "authors": "Mehak Preet Dhaliwal, Andong Hua, Laya Pullela, Ryan Burke, Yao Qin",
+      "paper_url": "https://openreview.net/pdf?id=6LtdZCyuZR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VYvxrD7aS0",
+      "paper_id": "VYvxrD7aS0",
+      "title": "ObscuraCoder: Powering Efficient Code LM Pre-Training Via Obfuscation Grounding",
+      "authors": "Indraneil Paul, Haoyi Yang, Goran Glavaš, Kristian Kersting, Iryna Gurevych",
+      "paper_url": "https://openreview.net/pdf?id=VYvxrD7aS0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mw1PWNSWZP",
+      "paper_id": "mw1PWNSWZP",
+      "title": "OctoPack: Instruction Tuning Code Large Language Models",
+      "authors": "Niklas Muennighoff, Qian Liu, Armel Randy Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro Von Werra, Shayne Longpre",
+      "paper_url": "https://openreview.net/pdf?id=mw1PWNSWZP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_yaqPf0KAlN",
+      "paper_id": "yaqPf0KAlN",
+      "title": "Omni-MATH: A Universal Olympiad Level Mathematic Benchmark for Large Language Models",
+      "authors": "Bofei Gao, Feifan Song, Zhe Yang, Zefan Cai, Yibo Miao, Qingxiu Dong, Lei Li, Chenghao Ma, Liang Chen, Runxin Xu, Zhengyang Tang, Benyou Wang, Daoguang Zan, Shanghaoran Quan, Ge Zhang, Lei Sha, Yichang Zhang, Xuancheng Ren, Tianyu Liu, Baobao Chang",
+      "paper_url": "https://openreview.net/pdf?id=yaqPf0KAlN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Wf2ndb8nhf",
+      "paper_id": "Wf2ndb8nhf",
+      "title": "On Targeted Manipulation and Deception when Optimizing LLMs for User Feedback",
+      "authors": "Marcus Williams, Micah Carroll, Adhyyan Narang, Constantin Weisser, Brendan Murphy, Anca Dragan",
+      "paper_url": "https://openreview.net/pdf?id=Wf2ndb8nhf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_H3UayAQWoE",
+      "paper_id": "H3UayAQWoE",
+      "title": "On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs",
+      "authors": "Jen-tse Huang, Wenxuan Wang, Eric John Li, Man Ho LAM, Shujie Ren, Youliang Yuan, Wenxiang Jiao, Zhaopeng Tu, Michael Lyu",
+      "paper_url": "https://openreview.net/pdf?id=H3UayAQWoE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vodsIF3o7N",
+      "paper_id": "vodsIF3o7N",
+      "title": "On the Modeling Capabilities of Large Language Models for Sequential Decision Making",
+      "authors": "Martin Klissarov, R Devon Hjelm, Alexander T Toshev, Bogdan Mazoure",
+      "paper_url": "https://openreview.net/pdf?id=vodsIF3o7N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4O0v4s3IzY",
+      "paper_id": "4O0v4s3IzY",
+      "title": "On the self-verification limitations of large language models on reasoning and planning tasks",
+      "authors": "Kaya Stechly, Karthik Valmeekam, Subbarao Kambhampati",
+      "paper_url": "https://openreview.net/pdf?id=4O0v4s3IzY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_bvpkw7UIRdU",
+      "paper_id": "bvpkw7UIRdU",
+      "title": "On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation",
+      "authors": "Tiago Pimentel, Clara Isabel Meister, Ryan Cotterell",
+      "paper_url": "https://openreview.net/pdf/ecbd3cf3099fb64e9d4d2614aa66862f601c3328.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_MmCRswl1UYl",
+      "paper_id": "MmCRswl1UYl",
+      "title": "Open Question Answering over Tables and Text",
+      "authors": "Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Yang Wang, William W. Cohen",
+      "paper_url": "https://openreview.net/pdf/6efd9eab0db73088a48f58c2b76aff5b828c7471.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_AOJyfhWYHf",
+      "paper_id": "AOJyfhWYHf",
+      "title": "OpenChat: Advancing Open-source Language Models with Mixed-Quality Data",
+      "authors": "Guan Wang, Sijie Cheng, Xianyuan Zhan, Xiangang Li, Sen Song, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=AOJyfhWYHf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mTCbq2QssD",
+      "paper_id": "mTCbq2QssD",
+      "title": "OpenMathInstruct-2: Accelerating AI for Math with Massive Open-Source Instruction Data",
+      "authors": "Shubham Toshniwal, Wei Du, Ivan Moshkov, Branislav Kisacanin, Alexan Ayrapetyan, Igor Gitman",
+      "paper_url": "https://openreview.net/pdf?id=mTCbq2QssD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_M4qNIzQYpd",
+      "paper_id": "M4qNIzQYpd",
+      "title": "OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
+      "authors": "Junjielong Xu, Qinan Zhang, Zhiqing Zhong, Shilin He, Chaoyun Zhang, Qingwei Lin, Dan Pei, Pinjia He, Dongmei Zhang, Qi Zhang",
+      "paper_url": "https://openreview.net/pdf?id=M4qNIzQYpd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Qa0ULgosc9",
+      "paper_id": "Qa0ULgosc9",
+      "title": "OpenTab: Advancing Large Language Models as Open-domain Table Reasoners",
+      "authors": "Kezhi Kong, Jiani Zhang, Zhengyuan Shen, Balasubramaniam Srinivasan, Chuan Lei, Christos Faloutsos, Huzefa Rangwala, George Karypis",
+      "paper_url": "https://openreview.net/pdf?id=Qa0ULgosc9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jKHmjlpViu",
+      "paper_id": "jKHmjlpViu",
+      "title": "OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text",
+      "authors": "Keiran Paster, Marco Dos Santos, Zhangir Azerbayev, Jimmy Ba",
+      "paper_url": "https://openreview.net/pdf?id=jKHmjlpViu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fsDZwS49uY",
+      "paper_id": "fsDZwS49uY",
+      "title": "OptiBench Meets ReSocratic: Measure and Improve LLMs for Optimization Modeling",
+      "authors": "Zhicheng Yang, Yiwei Wang, Yinya Huang, Zhijiang Guo, Wei Shi, Xiongwei Han, Liang Feng, Linqi Song, Xiaodan Liang, Jing Tang",
+      "paper_url": "https://openreview.net/pdf?id=fsDZwS49uY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Tigr1kMDZy",
+      "paper_id": "Tigr1kMDZy",
+      "title": "Overthinking the Truth: Understanding how Language Models Process False Demonstrations",
+      "authors": "Danny Halawi, Jean-Stanislas Denain, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf?id=Tigr1kMDZy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_0DZEs8NpUH",
+      "paper_id": "0DZEs8NpUH",
+      "title": "Personality Alignment of Large Language Models",
+      "authors": "Minjun Zhu, Yixuan Weng, Linyi Yang, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=0DZEs8NpUH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2R7498e2Tx",
+      "paper_id": "2R7498e2Tx",
+      "title": "PersonalLLM: Tailoring LLMs to Individual Preferences",
+      "authors": "Thomas P Zollo, Andrew Wei Tung Siah, Naimeng Ye, Ang Li, Hongseok Namkoong",
+      "paper_url": "https://openreview.net/pdf?id=2R7498e2Tx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_bNt7oajl2a",
+      "paper_id": "bNt7oajl2a",
+      "title": "Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement",
+      "authors": "Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, Valentina Pyatkin, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren",
+      "paper_url": "https://openreview.net/pdf?id=bNt7oajl2a",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_sfQ6XpApfS",
+      "paper_id": "sfQ6XpApfS",
+      "title": "PiCO: Peer Review in LLMs based on Consistency Optimization",
+      "authors": "Kun-Peng Ning, Shuo Yang, Yuyang Liu, Jia-Yu Yao, Zhenhui Liu, Yonghong Tian, Yibing Song, Li Yuan",
+      "paper_url": "https://openreview.net/pdf?id=sfQ6XpApfS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_WBXbRs63oVu",
+      "paper_id": "WBXbRs63oVu",
+      "title": "PINTO: Faithful Language Reasoning Using Prompt-Generated Rationales",
+      "authors": "PeiFeng Wang, Aaron Chan, Filip Ilievski, Muhao Chen, Xiang Ren",
+      "paper_url": "https://openreview.net/pdf/7e3d881a1ec0910d26a1dcbaea914860cb610c81.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_0K1OaL6XuK",
+      "paper_id": "0K1OaL6XuK",
+      "title": "Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming",
+      "authors": "Yilun Hao, Yang Zhang, Chuchu Fan",
+      "paper_url": "https://openreview.net/pdf?id=0K1OaL6XuK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_48WAZhwHHw",
+      "paper_id": "48WAZhwHHw",
+      "title": "Planning in Natural Language Improves LLM Search for Code Generation",
+      "authors": "Evan Z Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, William Song, Vaskar Nath, Ziwen Han, Sean M. Hendryx, Summer Yue, Hugh Zhang",
+      "paper_url": "https://openreview.net/pdf?id=48WAZhwHHw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Lr8cOOtYbfL",
+      "paper_id": "Lr8cOOtYbfL",
+      "title": "Planning with Large Language Models for Code Generation",
+      "authors": "Shun Zhang, Zhenfang Chen, Yikang Shen, Mingyu Ding, Joshua B. Tenenbaum, Chuang Gan",
+      "paper_url": "https://openreview.net/pdf/5f8b793197851829ddf2e08915b38f1549cb5b9d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_URPwT55i6O",
+      "paper_id": "URPwT55i6O",
+      "title": "Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation",
+      "authors": "Jasper Dekoninck, Maximilian Baader, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=URPwT55i6O",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sRIU6k2TcU",
+      "paper_id": "sRIU6k2TcU",
+      "title": "Proactive Agent: Shifting LLM Agents from Reactive Responses to Active Assistance",
+      "authors": "Yaxi Lu, Shenzhi Yang, Cheng Qian, Guirong Chen, Qinyu Luo, Yesai Wu, Huadong Wang, Xin Cong, Zhong Zhang, Yankai Lin, Weiwen Liu, Yasheng Wang, Zhiyuan Liu, Fangming Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=sRIU6k2TcU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1hQKHHUsMx",
+      "paper_id": "1hQKHHUsMx",
+      "title": "Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models",
+      "authors": "Laura Ruis, Maximilian Mozes, Juhan Bae, Siddhartha Rao Kamalakara, Dwaraknath Gnaneshwar, Acyr Locatelli, Robert Kirk, Tim Rocktäschel, Edward Grefenstette, Max Bartolo",
+      "paper_url": "https://openreview.net/pdf?id=1hQKHHUsMx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8euJaTveKw",
+      "paper_id": "8euJaTveKw",
+      "title": "Prometheus: Inducing Fine-Grained Evaluation Capability in Language Models",
+      "authors": "Seungone Kim, Jamin Shin, Yejin Cho, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo",
+      "paper_url": "https://openreview.net/pdf?id=8euJaTveKw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_22pyNMuIoa",
+      "paper_id": "22pyNMuIoa",
+      "title": "PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization",
+      "authors": "Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, Jiayou Zhang, Nebojsa Jojic, Eric Xing, Zhiting Hu",
+      "paper_url": "https://openreview.net/pdf?id=22pyNMuIoa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_98p5x51L5af",
+      "paper_id": "98p5x51L5af",
+      "title": "Prompting GPT-3 To Be Reliable",
+      "authors": "Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Lee Boyd-Graber, Lijuan Wang",
+      "paper_url": "https://openreview.net/pdf/1545ad3e1d44fe3f8431c30da415e1dd55352da5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_rpxJc9j04U",
+      "paper_id": "rpxJc9j04U",
+      "title": "Proof Artifact Co-Training for Theorem Proving with Language Models",
+      "authors": "Jesse Michael Han, Jason Rute, Yuhuai Wu, Edward Ayers, Stanislas Polu",
+      "paper_url": "https://openreview.net/pdf/452a6f034546f7c5332394391a04b08aafdba0f7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_FiyS0ecSm0",
+      "paper_id": "FiyS0ecSm0",
+      "title": "Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning",
+      "authors": "Zenan Li, Zhaoyu Li, Wen Tang, Xian Zhang, Yuan Yao, Xujie Si, Fan Yang, Kaiyu Yang, Xiaoxing Ma",
+      "paper_url": "https://openreview.net/pdf?id=FiyS0ecSm0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kbOAIXKWgx",
+      "paper_id": "kbOAIXKWgx",
+      "title": "Re-evaluating Open-ended Evaluation of Large Language Models",
+      "authors": "Siqi Liu, Ian Gemp, Luke Marris, Georgios Piliouras, Nicolas Heess, Marc Lanctot",
+      "paper_url": "https://openreview.net/pdf?id=kbOAIXKWgx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VVixJ9QavY",
+      "paper_id": "VVixJ9QavY",
+      "title": "Reasoning Elicitation in Language Models via Counterfactual Feedback",
+      "authors": "Alihan Hüyük, Xinnuo Xu, Jacqueline R. M. A. Maasch, Aditya V. Nori, Javier Gonzalez",
+      "paper_url": "https://openreview.net/pdf?id=VVixJ9QavY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rTCJ29pkuA",
+      "paper_id": "rTCJ29pkuA",
+      "title": "Reasoning of Large Language Models over Knowledge Graphs with Super-Relations",
+      "authors": "Song Wang, Junhong Lin, Xiaojie Guo, Julian Shun, Jundong Li, Yada Zhu",
+      "paper_url": "https://openreview.net/pdf?id=rTCJ29pkuA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ZGNWW7xZ6Q",
+      "paper_id": "ZGNWW7xZ6Q",
+      "title": "Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning",
+      "authors": "LINHAO LUO, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan",
+      "paper_url": "https://openreview.net/pdf?id=ZGNWW7xZ6Q",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_yORSk4Ycsa",
+      "paper_id": "yORSk4Ycsa",
+      "title": "ReCogLab: a framework testing relational reasoning & cognitive hypotheses on LLMs",
+      "authors": "Andrew Liu, Henry Prior, Gargi Balasubramaniam, Rivka Moroshko, Amir Zait, Ilia Labzovsky, Danny Karmon, Ishita Dasgupta, Kim Stachenfeld, Kenneth Marino",
+      "paper_url": "https://openreview.net/pdf?id=yORSk4Ycsa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_fgKjiVrm6u",
+      "paper_id": "fgKjiVrm6u",
+      "title": "REFACTOR: Learning to Extract Theorems from Proofs",
+      "authors": "Jin Peng Zhou, Yuhuai Wu, Qiyang Li, Roger Baker Grosse",
+      "paper_url": "https://openreview.net/pdf?id=fgKjiVrm6u",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_NiNIthntx7",
+      "paper_id": "NiNIthntx7",
+      "title": "RefactorBench: Evaluating Stateful Reasoning in Language Agents Through Code",
+      "authors": "Dhruv Gautam, Spandan Garg, Jinu Jang, Neel Sundaresan, Roshanak Zilouchian Moghaddam",
+      "paper_url": "https://openreview.net/pdf?id=NiNIthntx7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YUYJsHOf3c",
+      "paper_id": "YUYJsHOf3c",
+      "title": "ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement",
+      "authors": "XIANGYU PENG, Congying Xia, Xinyi Yang, Caiming Xiong, Chien-Sheng Wu, Chen Xing",
+      "paper_url": "https://openreview.net/pdf?id=YUYJsHOf3c",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TXfzH933qV",
+      "paper_id": "TXfzH933qV",
+      "title": "Reliable and Diverse Evaluation of LLM Medical Knowledge Mastery",
+      "authors": "Yuxuan Zhou, Xien Liu, Chen Ning, Xiao Zhang, Ji Wu",
+      "paper_url": "https://openreview.net/pdf?id=TXfzH933qV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_pPjZIOuQuF",
+      "paper_id": "pPjZIOuQuF",
+      "title": "RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems",
+      "authors": "Tianyang Liu, Canwen Xu, Julian McAuley",
+      "paper_url": "https://openreview.net/pdf?id=pPjZIOuQuF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_dw9VUsSHGB",
+      "paper_id": "dw9VUsSHGB",
+      "title": "RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph",
+      "authors": "Siru Ouyang, Wenhao Yu, Kaixin Ma, Zilin Xiao, Zhihan Zhang, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu",
+      "paper_url": "https://openreview.net/pdf?id=dw9VUsSHGB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_mCtadqIxOJ",
+      "paper_id": "mCtadqIxOJ",
+      "title": "Representing Partial Programs with Blended Abstract Semantics",
+      "authors": "Maxwell Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum, Armando Solar-Lezama",
+      "paper_url": "https://openreview.net/pdf/8f274ee0e7de9e855efc59efc1bf500d94b68773.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_hUb2At2DsQ",
+      "paper_id": "hUb2At2DsQ",
+      "title": "Rethinking and Improving Autoformalization: Towards a Faithful Metric and a Dependency Retrieval-based Approach",
+      "authors": "Qi Liu, Xinhao Zheng, Xudong Lu, Qinxiang Cao, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=hUb2At2DsQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_zv-typ1gPxA",
+      "paper_id": "zv-typ1gPxA",
+      "title": "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN",
+      "authors": "Shangqing Liu, Yu Chen, Xiaofei Xie, Jing Kai Siow, Yang Liu",
+      "paper_url": "https://openreview.net/pdf/0c626197d75608b562d47b4d7684f620b1359ef5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_1tBvzOYTLF",
+      "paper_id": "1tBvzOYTLF",
+      "title": "RevisEval: Improving LLM-as-a-Judge via Response-Adapted References",
+      "authors": "Qiyuan Zhang, Yufei Wang, Tiezheng YU, Yuxin Jiang, Chuhan Wu, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma",
+      "paper_url": "https://openreview.net/pdf?id=1tBvzOYTLF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_A6Y7AqlzLW",
+      "paper_id": "A6Y7AqlzLW",
+      "title": "Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning",
+      "authors": "Amrith Setlur, Chirag Nagpal, Adam Fisch, Xinyang Geng, Jacob Eisenstein, Rishabh Agarwal, Alekh Agarwal, Jonathan Berant, Aviral Kumar",
+      "paper_url": "https://openreview.net/pdf?id=A6Y7AqlzLW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yVQcr4qjD6",
+      "paper_id": "yVQcr4qjD6",
+      "title": "Robust Function-Calling for On-Device Language Model via Function Masking",
+      "authors": "Qiqiang Lin, Muning Wen, Qiuying Peng, Guanyu Nie, Junwei Liao, Jun Wang, Xiaoyun Mo, Jiamu Zhou, Cheng Cheng, Yin Zhao, Jun Wang, Weinan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=yVQcr4qjD6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zJjzNj6QUe",
+      "paper_id": "zJjzNj6QUe",
+      "title": "RocketEval: Efficient automated LLM evaluation via grading checklist",
+      "authors": "Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, Jianghong Ma",
+      "paper_url": "https://openreview.net/pdf?id=zJjzNj6QUe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_xYlJRpzZtsY",
+      "paper_id": "xYlJRpzZtsY",
+      "title": "ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning",
+      "authors": "Olga Golovneva, Moya Peng Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz",
+      "paper_url": "https://openreview.net/pdf/3f6164615b8f835462171508e65f188740d76ee8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_BAglD6NGy0",
+      "paper_id": "BAglD6NGy0",
+      "title": "ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL",
+      "authors": "Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng, Peng Hu, Jieping Ye",
+      "paper_url": "https://openreview.net/pdf?id=BAglD6NGy0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8sSqNntaMr",
+      "paper_id": "8sSqNntaMr",
+      "title": "RouteLLM: Learning to Route LLMs from Preference Data",
+      "authors": "Isaac Ong, Amjad Almahairi, Vincent Wu, Wei-Lin Chiang, Tianhao Wu, Joseph E. Gonzalez, M Waleed Kadous, Ion Stoica",
+      "paper_url": "https://openreview.net/pdf?id=8sSqNntaMr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vtT09dYPGI",
+      "paper_id": "vtT09dYPGI",
+      "title": "Routing Experts: Learning to Route Dynamic Experts in Existing Multi-modal Large Language Models",
+      "authors": "Qiong Wu, Zhaoxi Ke, Yiyi Zhou, Xiaoshuai Sun, Rongrong Ji",
+      "paper_url": "https://openreview.net/pdf?id=vtT09dYPGI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_NYBmJN4MyZ",
+      "paper_id": "NYBmJN4MyZ",
+      "title": "Safe Neurosymbolic Learning with Differentiable Symbolic Execution",
+      "authors": "Chenxi Yang, Swarat Chaudhuri",
+      "paper_url": "https://openreview.net/pdf/690814f434fc18ef5083c8fa5370d2421cb68514.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_aBnVU5DL3I",
+      "paper_id": "aBnVU5DL3I",
+      "title": "SaMer: A Scenario-aware Multi-dimensional Evaluator for Large Language Models",
+      "authors": "Kehua Feng, Keyan Ding, Jing Yu, Yiwen Qu, Zhiwen Chen, chengfei lv, Gang Yu, Qiang Zhang, Huajun Chen",
+      "paper_url": "https://openreview.net/pdf?id=aBnVU5DL3I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wSkvf2WyYz",
+      "paper_id": "wSkvf2WyYz",
+      "title": "SBSC: Step-by-Step Coding for Improving Mathematical Olympiad Performance",
+      "authors": "Kunal Singh, Ankan Biswas, Sayandeep Bhowmick, Pradeep Moturi, Siva Kishore Gollapalli",
+      "paper_url": "https://openreview.net/pdf?id=wSkvf2WyYz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gkUyYcY1W9",
+      "paper_id": "gkUyYcY1W9",
+      "title": "SCBench: A KV Cache-Centric Analysis of Long-Context Methods",
+      "authors": "YUCHENG LI, Huiqiang Jiang, Qianhui Wu, Xufang Luo, Surin Ahn, Chengruidong Zhang, Amir H. Abdi, Dongsheng Li, Jianfeng Gao, Yuqing Yang, Lili Qiu",
+      "paper_url": "https://openreview.net/pdf?id=gkUyYcY1W9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8dzKkeWUUb",
+      "paper_id": "8dzKkeWUUb",
+      "title": "SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding",
+      "authors": "Sihang Li, Jin Huang, Jiaxi Zhuang, Yaorui Shi, Xiaochen Cai, Mingjun Xu, Xiang Wang, Linfeng Zhang, Guolin Ke, Hengxing Cai",
+      "paper_url": "https://openreview.net/pdf?id=8dzKkeWUUb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_oyZxhRI2RiE",
+      "paper_id": "oyZxhRI2RiE",
+      "title": "SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing",
+      "authors": "Tao Yu, Rui Zhang, Alex Polozov, Christopher Meek, Ahmed Hassan Awadallah",
+      "paper_url": "https://openreview.net/pdf/5f0fb4ec7db7adfa1bbec5ca4828380eed47533f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_aVfDrl7xDV",
+      "paper_id": "aVfDrl7xDV",
+      "title": "Searching for Optimal Solutions with LLMs via Bayesian Optimization",
+      "authors": "Dhruv Agarwal, Manoj Ghuhan Arivazhagan, Rajarshi Das, Sandesh Swamy, Sopan Khosla, Rashmi Gangadharaiah",
+      "paper_url": "https://openreview.net/pdf?id=aVfDrl7xDV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xKDZAW0He3",
+      "paper_id": "xKDZAW0He3",
+      "title": "SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents",
+      "authors": "Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Xufang Luo, Hao Cheng, Dongsheng Li, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Jianfeng Gao",
+      "paper_url": "https://openreview.net/pdf?id=xKDZAW0He3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_3Pf3Wg6o-A4",
+      "paper_id": "3Pf3Wg6o-A4",
+      "title": "Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning",
+      "authors": "Antonia Creswell, Murray Shanahan, Irina Higgins",
+      "paper_url": "https://openreview.net/pdf/4c8f591f9bb58ccd07ed826e0e57885bc4227b12.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EmQSOi1X2f",
+      "paper_id": "EmQSOi1X2f",
+      "title": "Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation",
+      "authors": "Niels Mündler, Jingxuan He, Slobodan Jenko, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=EmQSOi1X2f",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_cRR0oDFEBC",
+      "paper_id": "cRR0oDFEBC",
+      "title": "Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models",
+      "authors": "Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou",
+      "paper_url": "https://openreview.net/pdf?id=cRR0oDFEBC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_pTHfApDakA",
+      "paper_id": "pTHfApDakA",
+      "title": "SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning",
+      "authors": "Ning Miao, Yee Whye Teh, Tom Rainforth",
+      "paper_url": "https://openreview.net/pdf?id=pTHfApDakA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_F64wTvQBum",
+      "paper_id": "F64wTvQBum",
+      "title": "Shh, don't say that! Domain Certification in LLMs",
+      "authors": "Cornelius Emde, Alasdair Paren, Preetham Arvind, Maxime Guillaume Kayser, Tom Rainforth, Thomas Lukasiewicz, Philip Torr, Adel Bibi",
+      "paper_url": "https://openreview.net/pdf?id=F64wTvQBum",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_lqU2cs3Zca",
+      "paper_id": "lqU2cs3Zca",
+      "title": "Signatory: differentiable computations of the signature and logsignature transforms, on both CPU and GPU",
+      "authors": "Patrick Kidger, Terry Lyons",
+      "paper_url": "https://openreview.net/pdf/21ae7cf194b2f80ef3d5a3fcfd985810e0982774.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_JvkuZZ04O7",
+      "paper_id": "JvkuZZ04O7",
+      "title": "Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation",
+      "authors": "Mufei Li, Siqi Miao, Pan Li",
+      "paper_url": "https://openreview.net/pdf?id=JvkuZZ04O7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mqVgBbNCm9",
+      "paper_id": "mqVgBbNCm9",
+      "title": "Skeleton-of-Thought: Prompting LLMs for Efficient Parallel Generation",
+      "authors": "Xuefei Ning, Zinan Lin, Zixuan Zhou, Zifu Wang, Huazhong Yang, Yu Wang",
+      "paper_url": "https://openreview.net/pdf?id=mqVgBbNCm9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_S2oTVrlcp3",
+      "paper_id": "S2oTVrlcp3",
+      "title": "SmartPlay : A Benchmark for LLMs as Intelligent Agents",
+      "authors": "Yue Wu, Xuan Tang, Tom Mitchell, Yuanzhi Li",
+      "paper_url": "https://openreview.net/pdf?id=S2oTVrlcp3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_KZSEgJGPxu",
+      "paper_id": "KZSEgJGPxu",
+      "title": "SNIP: Bridging Mathematical Symbolic and Numeric Realms with Unified Pre-training",
+      "authors": "Kazem Meidani, Parshin Shojaee, Chandan K. Reddy, Amir Barati Farimani",
+      "paper_url": "https://openreview.net/pdf?id=KZSEgJGPxu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_c8McWs4Av0",
+      "paper_id": "c8McWs4Av0",
+      "title": "Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification",
+      "authors": "Aojun Zhou, Ke Wang, Zimu Lu, Weikang Shi, Sichun Luo, Zipeng Qin, Shaoqing Lu, Anya Jia, Linqi Song, Mingjie Zhan, Hongsheng Li",
+      "paper_url": "https://openreview.net/pdf?id=c8McWs4Av0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9chRqsPOGL",
+      "paper_id": "9chRqsPOGL",
+      "title": "SPaR: Self-Play with Tree-Search Refinement to Improve Instruction-Following in Large Language Models",
+      "authors": "Jiale Cheng, Xiao Liu, Cunxiang Wang, Xiaotao Gu, Yida Lu, Dan Zhang, Yuxiao Dong, Jie Tang, Hongning Wang, Minlie Huang",
+      "paper_url": "https://openreview.net/pdf?id=9chRqsPOGL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XmProj9cPs",
+      "paper_id": "XmProj9cPs",
+      "title": "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows",
+      "authors": "Fangyu Lei, Jixuan Chen, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin SU, ZHAOQING SUO, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, Tao Yu",
+      "paper_url": "https://openreview.net/pdf?id=XmProj9cPs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_izrOLJov5y",
+      "paper_id": "izrOLJov5y",
+      "title": "Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM",
+      "authors": "Eliya Nachmani, Alon Levkovitch, Roy Hirsch, Julian Salazar, Chulayuth Asawaroengchai, Soroosh Mariooryad, Ehud Rivlin, RJ Skerry-Ryan, Michelle Tadmor Ramanovich",
+      "paper_url": "https://openreview.net/pdf?id=izrOLJov5y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_lLp-C5nTdJG",
+      "paper_id": "lLp-C5nTdJG",
+      "title": "Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions",
+      "authors": "David Bieber, Rishab Goel, Dan Zheng, Hugo Larochelle, Daniel Tarlow",
+      "paper_url": "https://openreview.net/pdf/a9d186e4ee1859097ef388e218639a4a12bee126.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5X5Z7Ffrjb",
+      "paper_id": "5X5Z7Ffrjb",
+      "title": "Steering Large Language Models between Code Execution and Textual Reasoning",
+      "authors": "Yongchao Chen, Harsh Jhamtani, Srinagesh Sharma, Chuchu Fan, Chi Wang",
+      "paper_url": "https://openreview.net/pdf?id=5X5Z7Ffrjb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gfI9v7AbFg",
+      "paper_id": "gfI9v7AbFg",
+      "title": "Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search",
+      "authors": "Jonathan Light, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, Wei Cheng, Yisong Yue, Ziniu Hu",
+      "paper_url": "https://openreview.net/pdf?id=gfI9v7AbFg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GhexuBLxbO",
+      "paper_id": "GhexuBLxbO",
+      "title": "StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization",
+      "authors": "Zhuoqun Li, Xuanang Chen, Haiyang Yu, Hongyu Lin, Yaojie Lu, Qiaoyu Tang, Fei Huang, Xianpei Han, Le Sun, Yongbin Li",
+      "paper_url": "https://openreview.net/pdf?id=GhexuBLxbO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_49fIu0yDJ4",
+      "paper_id": "49fIu0yDJ4",
+      "title": "Structuring Benchmark into Knowledge Graphs to Assist Large Language Models in Retrieving and Designing Models",
+      "authors": "Hanmo Liu, Shimin Di, Jialiang Wang, Zhili Wang, Jiachuan Wang, Xiaofang Zhou, Lei Chen",
+      "paper_url": "https://openreview.net/pdf?id=49fIu0yDJ4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PyjZO7oSw2",
+      "paper_id": "PyjZO7oSw2",
+      "title": "SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction",
+      "authors": "Ling Yang, Zhaochen Yu, Tianjun Zhang, Minkai Xu, Joseph E. Gonzalez, Bin CUI, Shuicheng YAN",
+      "paper_url": "https://openreview.net/pdf?id=PyjZO7oSw2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_VTF8yNQM66",
+      "paper_id": "VTF8yNQM66",
+      "title": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+      "authors": "Carlos E Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik R Narasimhan",
+      "paper_url": "https://openreview.net/pdf?id=VTF8yNQM66",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vhPE3PtTgC",
+      "paper_id": "vhPE3PtTgC",
+      "title": "SWEb: A Large Web Dataset for the Scandinavian Languages",
+      "authors": "Tobias Norlund, Tim Isbister, Amaru Cuba Gyllensten, Paul Gabriel dos Santos, Danila Petrelli, Ariel Ekgren, Magnus Sahlgren",
+      "paper_url": "https://openreview.net/pdf?id=vhPE3PtTgC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_KmtVD97J43e",
+      "paper_id": "KmtVD97J43e",
+      "title": "Synchromesh: Reliable Code Generation from Pre-trained Language Models",
+      "authors": "Gabriel Poesia, Alex Polozov, Vu Le, Ashish Tiwari, Gustavo Soares, Christopher Meek, Sumit Gulwani",
+      "paper_url": "https://openreview.net/pdf/6ff098333e70afec46ebe0a90baf01256cacc43c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_KZWaxtzIRx",
+      "paper_id": "KZWaxtzIRx",
+      "title": "SysBench: Can LLMs Follow System Message?",
+      "authors": "Yanzhao Qin, Tao Zhang, Tao Zhang, Yanjun Shen, Wenjing Luo, sunhaoze, Yan Zhang, Yujing Qiao, weipeng chen, Zenan Zhou, Wentao Zhang, Bin CUI",
+      "paper_url": "https://openreview.net/pdf?id=KZWaxtzIRx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3bq3jsvcQ1",
+      "paper_id": "3bq3jsvcQ1",
+      "title": "Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models",
+      "authors": "Huaixiu Steven Zheng, Swaroop Mishra, Xinyun Chen, Heng-Tze Cheng, Ed H. Chi, Quoc V Le, Denny Zhou",
+      "paper_url": "https://openreview.net/pdf?id=3bq3jsvcQ1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_IuXR1CCrSi",
+      "paper_id": "IuXR1CCrSi",
+      "title": "Talk like a Graph: Encoding Graphs for Large Language Models",
+      "authors": "Bahare Fatemi, Jonathan Halcrow, Bryan Perozzi",
+      "paper_url": "https://openreview.net/pdf?id=IuXR1CCrSi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_O50443AsCP",
+      "paper_id": "O50443AsCP",
+      "title": "TAPEX: Table Pre-training via Learning a Neural SQL Executor",
+      "authors": "Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou",
+      "paper_url": "https://openreview.net/pdf/9abc11a326d0ad12abb958697c1ab8e0a585e62b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_KuPixIqPiq",
+      "paper_id": "KuPixIqPiq",
+      "title": "Teaching Large Language Models to Self-Debug",
+      "authors": "Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou",
+      "paper_url": "https://openreview.net/pdf?id=KuPixIqPiq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_dOcQK-f4byz",
+      "paper_id": "dOcQK-f4byz",
+      "title": "Teaching Temporal Logics to Neural Networks",
+      "authors": "Christopher Hahn, Frederik Schmitt, Jens U. Kreber, Markus Norman Rabe, Bernd Finkbeiner",
+      "paper_url": "https://openreview.net/pdf/6e420870f0819a730edea6f8532d9c53257bf865.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_IjQ2Jtemzy",
+      "paper_id": "IjQ2Jtemzy",
+      "title": "Tell me about yourself: LLMs are aware of their learned behaviors",
+      "authors": "Jan Betley, Xuchan Bao, Martín Soto, Anna Sztyber-Betley, James Chua, Owain Evans",
+      "paper_url": "https://openreview.net/pdf?id=IjQ2Jtemzy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_44CoQe6VCq",
+      "paper_id": "44CoQe6VCq",
+      "title": "Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning",
+      "authors": "Bahare Fatemi, Mehran Kazemi, Anton Tsitsulin, Karishma Malkan, Jinyeong Yim, John Palowitch, Sungyong Seo, Jonathan Halcrow, Bryan Perozzi",
+      "paper_url": "https://openreview.net/pdf?id=44CoQe6VCq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7o6SG5gVev",
+      "paper_id": "7o6SG5gVev",
+      "title": "TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark",
+      "authors": "Kush Jain, Gabriel Synnaeve, Baptiste Roziere",
+      "paper_url": "https://openreview.net/pdf?id=7o6SG5gVev",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_HehQobsr0S",
+      "paper_id": "HehQobsr0S",
+      "title": "Text Summarization with Oracle Expectation",
+      "authors": "Yumo Xu, Mirella Lapata",
+      "paper_url": "https://openreview.net/pdf/5b574baaf992ad0f3f1dae8da1bb5508b219aec8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_CF8H8MS5P8",
+      "paper_id": "CF8H8MS5P8",
+      "title": "The Generative AI Paradox: “What It Can Create, It May Not Understand”",
+      "authors": "Peter West, Ximing Lu, Nouha Dziri, Faeze Brahman, Linjie Li, Jena D. Hwang, Liwei Jiang, Jillian Fisher, Abhilasha Ravichander, Khyathi Chandu, Benjamin Newman, Pang Wei Koh, Allyson Ettinger, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=CF8H8MS5P8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_DYIIRgwg2i",
+      "paper_id": "DYIIRgwg2i",
+      "title": "The LLM Surgeon",
+      "authors": "Tycho F. A. van der Ouderaa, Markus Nagel, Mart Van Baalen, Tijmen Blankevoort",
+      "paper_url": "https://openreview.net/pdf?id=DYIIRgwg2i",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_EyaH1wzmao",
+      "paper_id": "EyaH1wzmao",
+      "title": "The Ramanujan Library - Automated Discovery on the Hypergraph of Integer Relations",
+      "authors": "Itay Beit Halachmi, Ido Kaminer",
+      "paper_url": "https://openreview.net/pdf?id=EyaH1wzmao",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_GPKTIktA0k",
+      "paper_id": "GPKTIktA0k",
+      "title": "The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”",
+      "authors": "Lukas Berglund, Meg Tong, Maximilian Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans",
+      "paper_url": "https://openreview.net/pdf?id=GPKTIktA0k",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eznTVIM3bs",
+      "paper_id": "eznTVIM3bs",
+      "title": "The Rise and Down of Babel Tower: Investigating the Evolution Process of Multilingual Code Large Language Model",
+      "authors": "Jiawei Chen, Wentao Chen, Jing Su, Jingjing Xu, Hongyu Lin, Mengjie Ren, Yaojie Lu, Xianpei Han, Le Sun",
+      "paper_url": "https://openreview.net/pdf?id=eznTVIM3bs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pUbbLHjCPM",
+      "paper_id": "pUbbLHjCPM",
+      "title": "Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models",
+      "authors": "Chengyu Du, Jinyi Han, Yizhou Ying, Aili Chen, Qianyu He, Haokun Zhao, Haoran Guo, Sirui Xia, Jiaqing Liang, Zulong Chen, Liangyue Li, Yanghua Xiao",
+      "paper_url": "https://openreview.net/pdf?id=pUbbLHjCPM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oFBu7qaZpS",
+      "paper_id": "oFBu7qaZpS",
+      "title": "Think-on-Graph 2.0: Deep and Faithful Large Language Model Reasoning with Knowledge-guided Retrieval Augmented Generation",
+      "authors": "Shengjie Ma, Chengjin Xu, Xuhui Jiang, Muzhi Li, Huaren Qu, Cehao Yang, Jiaxin Mao, Jian Guo",
+      "paper_url": "https://openreview.net/pdf?id=oFBu7qaZpS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nnVO1PvbTv",
+      "paper_id": "nnVO1PvbTv",
+      "title": "Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph",
+      "authors": "Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel Ni, Heung-Yeung Shum, Jian Guo",
+      "paper_url": "https://openreview.net/pdf?id=nnVO1PvbTv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SBoRhRCzM3",
+      "paper_id": "SBoRhRCzM3",
+      "title": "THOUGHT PROPAGATION: AN ANALOGICAL APPROACH TO COMPLEX REASONING WITH LARGE LANGUAGE MODELS",
+      "authors": "Junchi Yu, Ran He, Zhitao Ying",
+      "paper_url": "https://openreview.net/pdf?id=SBoRhRCzM3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zSfeN1uAcx",
+      "paper_id": "zSfeN1uAcx",
+      "title": "To Code or Not To Code? Exploring Impact of Code in Pre-training",
+      "authors": "Viraat Aryabumi, Yixuan Su, Raymond Ma, Adrien Morisot, Ivan Zhang, Acyr Locatelli, Marzieh Fadaee, Ahmet Üstün, Sara Hooker",
+      "paper_url": "https://openreview.net/pdf?id=zSfeN1uAcx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_K2jOacHUlO",
+      "paper_id": "K2jOacHUlO",
+      "title": "To Trust or Not to Trust? Enhancing Large Language Models' Situated Faithfulness to External Contexts",
+      "authors": "Yukun Huang, Sanxing Chen, Hongyi Cai, Bhuwan Dhingra",
+      "paper_url": "https://openreview.net/pdf?id=K2jOacHUlO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6HcnC3pPkp",
+      "paper_id": "6HcnC3pPkp",
+      "title": "Token-Supervised Value Models for Enhancing Mathematical Problem-Solving Capabilities of Large Language Models",
+      "authors": "Jung Hyun Lee, June Yong Yang, Byeongho Heo, Dongyoon Han, Kyungsu Kim, Eunho Yang, Kang Min Yoo",
+      "paper_url": "https://openreview.net/pdf?id=6HcnC3pPkp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5bUy4F59mk",
+      "paper_id": "5bUy4F59mk",
+      "title": "Tool Decoding: A Plug-and-Play Approach to Enhancing Language Models for Tool Usage",
+      "authors": "Chenheng Zhang, Mingqing Xiao, Yifei Wang, Lizhe Fang, Haihan Zhang, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf?id=5bUy4F59mk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dRz3cizftU",
+      "paper_id": "dRz3cizftU",
+      "title": "Tool-Planner: Task Planning with Clusters across Multiple Tools",
+      "authors": "Yanming Liu, Xinyue Peng, Jiannan Cao, Shi Bo, Yuwei Zhang, Xuhong Zhang, Sheng Cheng, Xun Wang, Jianwei Yin, Tianyu Du",
+      "paper_url": "https://openreview.net/pdf?id=dRz3cizftU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8EB8k6DdCU",
+      "paper_id": "8EB8k6DdCU",
+      "title": "ToolACE: Winning the Points of LLM Function Calling",
+      "authors": "Weiwen Liu, Xu Huang, Xingshan Zeng, xinlong hao, Shuai Yu, Dexun Li, Shuai Wang, Weinan Gan, Zhengying Liu, Yuanqing Yu, Zezhong WANG, Yuxian Wang, Wu Ning, Yutai Hou, Bin Wang, Chuhan Wu, Wang Xinzhi, Yong Liu, Yasheng Wang, Duyu Tang, Dandan Tu, Lifeng Shang, Xin Jiang, Ruiming Tang, Defu Lian, Qun Liu, Enhong Chen",
+      "paper_url": "https://openreview.net/pdf?id=8EB8k6DdCU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_B6pQxqUcT8",
+      "paper_id": "B6pQxqUcT8",
+      "title": "ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search",
+      "authors": "Yuchen Zhuang, Xiang Chen, Tong Yu, Saayan Mitra, Victor Bursztyn, Ryan A. Rossi, Somdeb Sarkhel, Chao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=B6pQxqUcT8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_J1J5eGJsKZ",
+      "paper_id": "J1J5eGJsKZ",
+      "title": "ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models",
+      "authors": "Jeonghoon Shim, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo",
+      "paper_url": "https://openreview.net/pdf?id=J1J5eGJsKZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XLMAMmowdY",
+      "paper_id": "XLMAMmowdY",
+      "title": "ToolGen: Unified Tool Retrieval and Calling via Generation",
+      "authors": "Renxi Wang, Xudong Han, Lei Ji, Shu Wang, Timothy Baldwin, Haonan Li",
+      "paper_url": "https://openreview.net/pdf?id=XLMAMmowdY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_dHng2O0Jjr",
+      "paper_id": "dHng2O0Jjr",
+      "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+      "authors": "Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, dahai li, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=dHng2O0Jjr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Ep0TtjVoap",
+      "paper_id": "Ep0TtjVoap",
+      "title": "ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving",
+      "authors": "Zhibin Gou, Zhihong Shao, Yeyun Gong, yelong shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen",
+      "paper_url": "https://openreview.net/pdf?id=Ep0TtjVoap",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jVEoydFOl9",
+      "paper_id": "jVEoydFOl9",
+      "title": "Towards Foundation Models for Knowledge Graph Reasoning",
+      "authors": "Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu",
+      "paper_url": "https://openreview.net/pdf?id=jVEoydFOl9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_9OevMUdods",
+      "paper_id": "9OevMUdods",
+      "title": "Towards Understanding Factual Knowledge of Large Language Models",
+      "authors": "Xuming Hu, Junzhe Chen, Xiaochuan Li, Yufei Guo, Lijie Wen, Philip S. Yu, Zhijiang Guo",
+      "paper_url": "https://openreview.net/pdf?id=9OevMUdods",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_AqfUa08PCH",
+      "paper_id": "AqfUa08PCH",
+      "title": "Training Language Models on Synthetic Edit Sequences Improves Code Synthesis",
+      "authors": "Ulyana Piterbarg, Lerrel Pinto, Rob Fergus",
+      "paper_url": "https://openreview.net/pdf?id=AqfUa08PCH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Glcsog6zOe",
+      "paper_id": "Glcsog6zOe",
+      "title": "Tree-Planner: Efficient Close-loop Task Planning with Large Language Models",
+      "authors": "Mengkang Hu, Yao Mu, Xinmiao Chelsey Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, Qiguang Chen, Bin Wang, Yu Qiao, Ping Luo",
+      "paper_url": "https://openreview.net/pdf?id=Glcsog6zOe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UwcZEoNP19",
+      "paper_id": "UwcZEoNP19",
+      "title": "Triples as the Key: Structuring Makes Decomposition and Verification Easier in LLM-based TableQA",
+      "authors": "Zhen Yang, Ziwei Du, Minghan Zhang, Wei Du, Jie Chen, Zhen Duan, Shu Zhao",
+      "paper_url": "https://openreview.net/pdf?id=UwcZEoNP19",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_UHPnqSTBPO",
+      "paper_id": "UHPnqSTBPO",
+      "title": "Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement",
+      "authors": "Jaehun Jung, Faeze Brahman, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=UHPnqSTBPO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_eiC4BKypf1",
+      "paper_id": "eiC4BKypf1",
+      "title": "Turning large language models into cognitive models",
+      "authors": "Marcel Binz, Eric Schulz",
+      "paper_url": "https://openreview.net/pdf?id=eiC4BKypf1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_VIUisLx8lQ",
+      "paper_id": "VIUisLx8lQ",
+      "title": "TypedThinker: Diversify Large Language Model Reasoning with Typed Thinking",
+      "authors": "Danqing Wang, Jianxin Ma, Fei Fang, Lei Li",
+      "paper_url": "https://openreview.net/pdf?id=VIUisLx8lQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_4TyNEhI2GdN",
+      "paper_id": "4TyNEhI2GdN",
+      "title": "TypeT5: Seq2seq Type Inference using Static Analysis",
+      "authors": "Jiayi Wei, Greg Durrett, Isil Dillig",
+      "paper_url": "https://openreview.net/pdf/1db193cae16df420c7376f835dbc310fd7c3d31b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_fovPyqPcKY",
+      "paper_id": "fovPyqPcKY",
+      "title": "UGMathBench: A Diverse and Dynamic Benchmark for Undergraduate-Level Mathematical Reasoning with Large Language Models",
+      "authors": "Xin Xu, Jiaxin ZHANG, Tianhao Chen, Zitong Chao, Jishan Hu, Can Yang",
+      "paper_url": "https://openreview.net/pdf?id=fovPyqPcKY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gye2U9uNXx",
+      "paper_id": "gye2U9uNXx",
+      "title": "Uncovering Gaps in How Humans and LLMs Interpret Subjective Language",
+      "authors": "Erik Jones, Arjun Patrawala, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf?id=gye2U9uNXx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_PXD3FAVHJT",
+      "paper_id": "PXD3FAVHJT",
+      "title": "Understanding the Effects of RLHF on LLM Generalisation and Diversity",
+      "authors": "Robert Kirk, Ishita Mediratta, Christoforos Nalmpantis, Jelena Luketina, Eric Hambro, Edward Grefenstette, Roberta Raileanu",
+      "paper_url": "https://openreview.net/pdf?id=PXD3FAVHJT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Z63RvyAZ2Vh",
+      "paper_id": "Z63RvyAZ2Vh",
+      "title": "UniKGQA: Unified Retrieval and Reasoning for Solving Multi-hop Question Answering Over Knowledge Graph",
+      "authors": "Jinhao Jiang, Kun Zhou, Xin Zhao, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf/6a73e95053a44e33e96d38a7d3fc15c14bbe50d9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kN25ggeq1J",
+      "paper_id": "kN25ggeq1J",
+      "title": "Unveiling the Magic of Code Reasoning through Hypothesis Decomposition and Amendment",
+      "authors": "Yuze Zhao, Tianyun Ji, Wenjun Feng, Zhenya Huang, Qi Liu, Zhiding Liu, Yixiao Ma, Kai Zhang, Enhong Chen",
+      "paper_url": "https://openreview.net/pdf?id=kN25ggeq1J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_p74CpDzw1Y",
+      "paper_id": "p74CpDzw1Y",
+      "title": "Varying Shades of Wrong: Aligning LLMs with Wrong Answers Only",
+      "authors": "Jihan Yao, Wenxuan Ding, Shangbin Feng, Lucy Lu Wang, Yulia Tsvetkov",
+      "paper_url": "https://openreview.net/pdf?id=p74CpDzw1Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_acxHV6werE",
+      "paper_id": "acxHV6werE",
+      "title": "VibeCheck: Discover and Quantify Qualitative Differences in Large Language Models",
+      "authors": "Lisa Dunlap, Krishna Mandal, Trevor Darrell, Jacob Steinhardt, Joseph E. Gonzalez",
+      "paper_url": "https://openreview.net/pdf?id=acxHV6werE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oVKEAFjEqv",
+      "paper_id": "oVKEAFjEqv",
+      "title": "WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning",
+      "authors": "Zehan Qi, Xiao Liu, Iat Long Iong, Hanyu Lai, Xueqiao Sun, Jiadai Sun, Xinyue Yang, Yu Yang, Shuntian Yao, Wei Xu, Jie Tang, Yuxiao Dong",
+      "paper_url": "https://openreview.net/pdf?id=oVKEAFjEqv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Zk9guOl9NS",
+      "paper_id": "Zk9guOl9NS",
+      "title": "What Makes Large Language Models Reason in (Multi-Turn) Code Generation?",
+      "authors": "Kunhao Zheng, Juliette Decugis, Jonas Gehring, Taco Cohen, benjamin negrevergne, Gabriel Synnaeve",
+      "paper_url": "https://openreview.net/pdf?id=Zk9guOl9NS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fN8yLc3eA7",
+      "paper_id": "fN8yLc3eA7",
+      "title": "When LLMs Play the Telephone Game: Cultural Attractors as Conceptual Tools to Evaluate LLMs in Multi-turn Settings",
+      "authors": "Jérémy Perez, Grgur Kovač, Corentin Léger, Cédric Colas, Gaia Molinaro, Maxime Derex, Pierre-Yves Oudeyer, Clément Moulin-Frier",
+      "paper_url": "https://openreview.net/pdf?id=fN8yLc3eA7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SqoL14HDm0",
+      "paper_id": "SqoL14HDm0",
+      "title": "When Prompt Engineering Meets Software Engineering: CNL-P as Natural and Robust \"APIs'' for Human-AI Interaction",
+      "authors": "Zhenchang Xing, Yang Liu, Zhuo Cheng, Qing Huang, Dehai Zhao, Daniel SUN, Chenhua Liu",
+      "paper_url": "https://openreview.net/pdf?id=SqoL14HDm0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MKEHCx25xp",
+      "paper_id": "MKEHCx25xp",
+      "title": "WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild",
+      "authors": "Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Abhilasha Ravichander, Valentina Pyatkin, Nouha Dziri, Ronan Le Bras, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=MKEHCx25xp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Bl8u7ZRlbM",
+      "paper_id": "Bl8u7ZRlbM",
+      "title": "WildChat: 1M ChatGPT Interaction Logs in the Wild",
+      "authors": "Wenting Zhao, Xiang Ren, Jack Hessel, Claire Cardie, Yejin Choi, Yuntian Deng",
+      "paper_url": "https://openreview.net/pdf?id=Bl8u7ZRlbM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_UnUwSIgK5W",
+      "paper_id": "UnUwSIgK5W",
+      "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
+      "authors": "Ziyang Luo, Can Xu, Pu Zhao, Qingfeng Sun, Xiubo Geng, Wenxiang Hu, Chongyang Tao, Jing Ma, Qingwei Lin, Daxin Jiang",
+      "paper_url": "https://openreview.net/pdf?id=UnUwSIgK5W",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_CfXh93NDgH",
+      "paper_id": "CfXh93NDgH",
+      "title": "WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions",
+      "authors": "Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Qingwei Lin, Daxin Jiang",
+      "paper_url": "https://openreview.net/pdf?id=CfXh93NDgH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mMPMHWOdOy",
+      "paper_id": "mMPMHWOdOy",
+      "title": "WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct",
+      "authors": "Haipeng Luo, Qingfeng Sun, Can Xu, Pu Zhao, Jian-Guang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Yansong Tang, Dongmei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=mMPMHWOdOy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3Hy00Wvabi",
+      "paper_id": "3Hy00Wvabi",
+      "title": "WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models",
+      "authors": "Shengda Fan, Xin Cong, Yuepeng Fu, Zhong Zhang, Shuyan Zhang, Yuanwei Liu, Yesai Wu, Yankai Lin, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=3Hy00Wvabi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7UqQJUKaLM",
+      "paper_id": "7UqQJUKaLM",
+      "title": "xFinder: Large Language Models as Automated Evaluators for Reliable Evaluation",
+      "authors": "Qingchen Yu, Zifan Zheng, Shichao Song, Zhiyu li, Feiyu Xiong, Bo Tang, Ding Chen",
+      "paper_url": "https://openreview.net/pdf?id=7UqQJUKaLM",
+      "venue": "iclr25"
+    }
+  ]
+}

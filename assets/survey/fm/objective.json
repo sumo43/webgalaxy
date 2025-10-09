@@ -1,0 +1,179 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Language-modeling objectives",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Next / Masked-token Prediction",
+                    "what_is_covered": "Minimize CE on next/masked token.",
+                    "typical_examples": "Next-/masked-token pred.; LM; CE/NLL min.; aux reg.",
+                    "cluster": "4"
+                },
+                {
+                    "id": "1.2",
+                    "name": "General LLM Advancement",
+                    "what_is_covered": "Improve reasoning, alignment, efficiency, robustness.",
+                    "typical_examples": "Reasoning; alignment; eval.; efficiency; robustness; multi-domain",
+                    "cluster": "12"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Alignment & safety objectives",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Human-Preference Alignment",
+                    "what_is_covered": "Maximize learned reward; limit divergence.",
+                    "typical_examples": "Pref. align; reward max.; safety-divergence reg.",
+                    "cluster": "1"
+                },
+                {
+                    "id": "2.2",
+                    "name": "Hallucination & Bias Mitigation",
+                    "what_is_covered": "Cut hallucinations/bias via grounding alignment.",
+                    "typical_examples": "Hallucination det./mit.; x-modal align/ground; bias red.",
+                    "cluster": "0"
+                },
+                {
+                    "id": "2.3",
+                    "name": "General Safety & Robustness",
+                    "what_is_covered": "Losses for safety, explainability, robust autonomy.",
+                    "typical_examples": "Alignment; safety; efficiency; general.; explain.; autonomy",
+                    "cluster": "6"
+                },
+                {
+                    "id": "2.4",
+                    "name": "Security & Privacy Defense",
+                    "what_is_covered": "Defend attacks, watermark, erase concepts.",
+                    "typical_examples": "Adv. robustness; watermark; backdoor/membership defense; privacy; concept erase; interp.",
+                    "cluster": "7"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Adaptation & continual-learning",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Prompt / Self-training Adaptation",
+                    "what_is_covered": "Prompt/pseudo-label adapt for zero/few-shot.",
+                    "typical_examples": "FM adapt; prompt/pseudo-label; zero-/few-shot OVR; robustness; domain gen.",
+                    "cluster": "10"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Retention-Regularized Fine-tuning",
+                    "what_is_covered": "Regularize fine-tuning to retain knowledge.",
+                    "typical_examples": "Task loss + retention reg.; preserve knowledge; generalization",
+                    "cluster": "17"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Multimodal objectives",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "Unified Multimodal Representations",
+                    "what_is_covered": "Vision-language align, ground, reason.",
+                    "typical_examples": "Unif. multimodal; V-L align; grounding; x-modal reason.; zero/few-shot; cont. adapt.",
+                    "cluster": "3"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Contrastive & Masked Alignment",
+                    "what_is_covered": "Contrastive+masked for joint embeddings.",
+                    "typical_examples": "X-modal contrast; masked recon.; joint class.; dist. align",
+                    "cluster": "13"
+                },
+                {
+                    "id": "4.3",
+                    "name": "3D / Multi-view Generation",
+                    "what_is_covered": "Cross-modal loss for 3D-consistent views.",
+                    "typical_examples": "Hi-fid 3D multi-view gen.; sparse 2D/text",
+                    "cluster": "19"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Generative diffusion objectives",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Core Enhancement",
+                    "what_is_covered": "Faster, higher-quality diffusion via guidance.",
+                    "typical_examples": "Accelerate train/inf.; guide/loss opt.; fidelity; diversity; control",
+                    "cluster": "16"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Noise-prediction & Score-matching",
+                    "what_is_covered": "Train via noise pred., reconstr., ELBO.",
+                    "typical_examples": "Noise pred denoise; recon. fid. min.; score/ELBO opt.",
+                    "cluster": "18"
+                },
+                {
+                    "id": "5.3",
+                    "name": "Video / Motion Diffusion",
+                    "what_is_covered": "Conditioned diffusion for coherent video.",
+                    "typical_examples": "Hi-fid coherent video/motion synth.; control; prompt align",
+                    "cluster": "2"
+                },
+                {
+                    "id": "5.4",
+                    "name": "Controllable Image Diffusion",
+                    "what_is_covered": "Steer image diffusion for fairness etc.",
+                    "typical_examples": "Align; personalise; fairness; diversity; spatial; hi fid.; light train",
+                    "cluster": "5"
+                },
+                {
+                    "id": "5.5",
+                    "name": "Latent & Denoising Regularization",
+                    "what_is_covered": "Extra denoise/latent loss.",
+                    "typical_examples": "Denoise min.; latent align; cond. reg.; dist. fid. train",
+                    "cluster": "8"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Policy-learning & RL",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Multi-task Policy RL",
+                    "what_is_covered": "One policy via cloning+pref. RL.",
+                    "typical_examples": "Multi-task policy; behavior/diffusion cloning; pref.-aligned RL; reward exp.",
+                    "cluster": "14"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Optimization & efficiency",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "Loss & Representation Matching",
+                    "what_is_covered": "Minimize task loss, align distributions.",
+                    "typical_examples": "Task combined losses; dist align; repr match; reg. opt.",
+                    "cluster": "11, 15"
+                },
+                {
+                    "id": "7.2",
+                    "name": "Compute / Memory Efficiency",
+                    "what_is_covered": "Cut compute/memory, keep accuracy.",
+                    "typical_examples": "Min. compute/memory/param cost; train/ft/inf.",
+                    "cluster": "9"
+                }
+            ]
+        }
+    ]
+}

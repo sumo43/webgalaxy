@@ -1,0 +1,285 @@
+{
+  "cluster_id": 56,
+  "papers": [
+    {
+      "id": "corl24_LmOF7UAOZ7",
+      "paper_id": "LmOF7UAOZ7",
+      "title": "A Planar-Symmetric SO(3) Representation for Learning Grasp Detection",
+      "authors": "Tianyi Ko, Takuya Ikeda, Hiroya Sato, Koichi Nishiwaki",
+      "paper_url": "https://openreview.net/pdf?id=LmOF7UAOZ7",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23_IeKC9khX5jD",
+      "paper_id": "IeKC9khX5jD",
+      "title": "Affordance-Driven Next-Best-View Planning for Robotic Grasping",
+      "authors": "Xuechao Zhang, Dong Wang, Sun Han, Weichuang Li, Bin Zhao, Zhigang Wang, Xiaoming Duan, Chongrong Fang, Xuelong Li, Jianping He",
+      "paper_url": "https://openreview.net/pdf?id=IeKC9khX5jD",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_7E3JAys1xO",
+      "paper_id": "7E3JAys1xO",
+      "title": "D$^3$RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation",
+      "authors": "Songlin Wei, Haoran Geng, Jiayi Chen, Congyue Deng, Cui Wenbo, Chengyang Zhao, Xiaomeng Fang, Leonidas Guibas, He Wang",
+      "paper_url": "https://openreview.net/pdf?id=7E3JAys1xO",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_zOjU2vZzhCk",
+      "paper_id": "zOjU2vZzhCk",
+      "title": "Dex-NeRF: Using a Neural Radiance Field to Grasp Transparent Objects",
+      "authors": "Jeffrey Ichnowski, Yahav Avigal, Justin Kerr, Ken Goldberg",
+      "paper_url": "https://openreview.net/pdf?id=zOjU2vZzhCk",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl24_5W0iZR9J7h",
+      "paper_id": "5W0iZR9J7h",
+      "title": "DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes",
+      "authors": "Jialiang Zhang, Haoran Liu, Danshi Li, XinQiang Yu, Haoran Geng, Yufei Ding, Jiayi Chen, He Wang",
+      "paper_url": "https://openreview.net/pdf?id=5W0iZR9J7h",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_S2Jwb0i7HN",
+      "paper_id": "S2Jwb0i7HN",
+      "title": "DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics",
+      "authors": "Tyler Ga Wei Lum, Martin Matak, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk",
+      "paper_url": "https://openreview.net/pdf?id=S2Jwb0i7HN",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl23__DYsYC9smK",
+      "paper_id": "_DYsYC9smK",
+      "title": "DYNAMO-GRASP: DYNAMics-aware Optimization for GRASP Point Detection in Suction Grippers",
+      "authors": "Boling Yang, Soofiyan Atar, Markus Grotz, Byron Boots, Joshua Smith",
+      "paper_url": "https://openreview.net/pdf?id=_DYsYC9smK",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_5lSkn5v4LK",
+      "paper_id": "5lSkn5v4LK",
+      "title": "EquiGraspFlow: SE(3)-Equivariant 6-DoF Grasp Pose Generative Flows",
+      "authors": "Byeongdo Lim, Jongmin Kim, Jihwan Kim, Yonghyeon Lee, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf?id=5lSkn5v4LK",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_Bxr45keYrf",
+      "paper_id": "Bxr45keYrf",
+      "title": "Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects",
+      "authors": "Justin Kerr, Letian Fu, Huang Huang, Yahav Avigal, Matthew Tancik, Jeffrey Ichnowski, Angjoo Kanazawa, Ken Goldberg",
+      "paper_url": "https://openreview.net/pdf?id=Bxr45keYrf",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_y1t0c5eUk2w",
+      "paper_id": "y1t0c5eUk2w",
+      "title": "Fusing Priori and Posteriori Metrics for Automatic Dataset Annotation of Planar Grasping",
+      "authors": "Hao Sha, Lai Qianen, Hongxiang Yu, Rong Xiong, Yue Wang",
+      "paper_url": "https://openreview.net/pdf?id=y1t0c5eUk2w",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl23_oyWkrG-LD5",
+      "paper_id": "oyWkrG-LD5",
+      "title": "Geometry Matching for Multi-Embodiment Grasping",
+      "authors": "Maria Attarian, Muhammad Adil Asif, Jingzhou Liu, Ruthrash Hari, Animesh Garg, Igor Gilitschenski, Jonathan Tompson",
+      "paper_url": "https://openreview.net/pdf?id=oyWkrG-LD5",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl24_1jc2zA5Z6J",
+      "paper_id": "1jc2zA5Z6J",
+      "title": "Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer",
+      "authors": "Tyler Ga Wei Lum, Albert H. Li, Preston Culbertson, Krishnan Srinivasan, Aaron Ames, Mac Schwager, Jeannette Bohg",
+      "paper_url": "https://openreview.net/pdf?id=1jc2zA5Z6J",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl21_jOSWHddP1fZ",
+      "paper_id": "jOSWHddP1fZ",
+      "title": "Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds",
+      "authors": "Lirui Wang, Yu Xiang, Wei Yang, Arsalan Mousavian, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=jOSWHddP1fZ",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss24_44",
+      "paper_id": "44",
+      "title": "GRaCE: Balancing Multiple Criteria to Achieve Stable, Collision-Free, and Functional Grasps",
+      "authors": "Tasbolat Taunyazov, Kelvin Lin, Harold SohTasbolat Taunyazov, Kelvin Lin, Harold Soh",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p044.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl24_VUhlMfEekm",
+      "paper_id": "VUhlMfEekm",
+      "title": "Implicit Grasp Diffusion: Bridging the Gap between Dense Prediction and Sampling-based Grasping",
+      "authors": "Pinhao Song, Pengteng Li, Renaud Detry",
+      "paper_url": "https://openreview.net/pdf?id=VUhlMfEekm",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss24_46",
+      "paper_id": "46",
+      "title": "Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering",
+      "authors": "Snehal Jauhri, Ishikaa Lunawat, Georgia ChalvatzakiSnehal Jauhri, Ishikaa Lunawat, Georgia Chalvatzaki",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p046.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "corl22_A12nd105kFr",
+      "paper_id": "A12nd105kFr",
+      "title": "Learning Diverse and Physically Feasible Dexterous Grasps with Generative Model and Bilevel Optimization",
+      "authors": "Albert Wu, Michelle Guo, Karen Liu",
+      "paper_url": "https://openreview.net/pdf?id=A12nd105kFr",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_bUUf1CT1sNu",
+      "paper_id": "bUUf1CT1sNu",
+      "title": "Learning Robust Real-World Dexterous Grasping Policies via Implicit Shape Augmentation",
+      "authors": "Qiuyu Chen, Karl Van Wyk, Yu-Wei Chao, Wei Yang, Arsalan Mousavian, Abhishek Gupta, Dieter Fox",
+      "paper_url": "https://openreview.net/pdf?id=bUUf1CT1sNu",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_Qdb1ODTQTnL",
+      "paper_id": "Qdb1ODTQTnL",
+      "title": "Learning to Regrasp by Learning to Place",
+      "authors": "Shuo Cheng, Kaichun Mo, Lin Shao",
+      "paper_url": "https://openreview.net/pdf?id=Qdb1ODTQTnL",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss23_42",
+      "paper_id": "42",
+      "title": "Learning-Free Grasping of Unknown Objects Using Hidden Superquadrics",
+      "authors": "Yuwei Wu (National University of Singapore)*, Weixiao Liu (Johns Hopkins University), zhiyang liu (National University of Singapore), Gregory S Chirikjian (National University of Singapore)Yuwei Wu (National University of Singapore)*, Weixiao Liu (Johns Hopkins University), zhiyang liu (National University of Singapore), Gregory S Chirikjian (National University of Singapore)",
+      "paper_url": "http://www.roboticsproceedings.org/rss19/p042.pdf",
+      "venue": "rss23"
+    },
+    {
+      "id": "corl23_ycy47ZX0Oc",
+      "paper_id": "ycy47ZX0Oc",
+      "title": "Leveraging 3D Reconstruction for Mechanical Search on Cluttered Shelves",
+      "authors": "Seungyeon Kim, Young Hun Kim, Yonghyeon Lee, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf?id=ycy47ZX0Oc",
+      "venue": "corl23"
+    },
+    {
+      "id": "corl22_OzP68WT3UA",
+      "paper_id": "OzP68WT3UA",
+      "title": "NeuralGrasps: Learning Implicit Representations for Grasps of Multiple Robotic Hands",
+      "authors": "Ninad Khargonkar, Neil Song, Zesheng Xu, B Prabhakaran, Yu Xiang",
+      "paper_url": "https://openreview.net/pdf?id=OzP68WT3UA",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl24_clqzoCrulY",
+      "paper_id": "clqzoCrulY",
+      "title": "OrbitGrasp: SE(3)-Equivariant Grasp Learning",
+      "authors": "Boce Hu, Xupeng Zhu, Dian Wang, Zihao Dong, Haojie Huang, Chenghao Wang, Robin Walters, Robert Platt",
+      "paper_url": "https://openreview.net/pdf?id=clqzoCrulY",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_uJBMZ6S02T",
+      "paper_id": "uJBMZ6S02T",
+      "title": "Real-to-Sim Grasp: Rethinking the Gap between Simulation and Real World in Grasp Detection",
+      "authors": "Jia-Feng Cai, Zibo Chen, Xiao-Ming Wu, Jian-Jian Jiang, Yi-Lin Wei, Wei-Shi Zheng",
+      "paper_url": "https://openreview.net/pdf?id=uJBMZ6S02T",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl24_jPkOFAiOzf",
+      "paper_id": "jPkOFAiOzf",
+      "title": "Region-aware Grasp Framework with Normalized Grasp Space for Efficient 6-DoF Grasping",
+      "authors": "Siang Chen, Pengwei Xie, Wei Tang, Dingchang Hu, Yixiang Dai, Guijin Wang",
+      "paper_url": "https://openreview.net/pdf?id=jPkOFAiOzf",
+      "venue": "corl24"
+    },
+    {
+      "id": "rss22_71",
+      "paper_id": "71",
+      "title": "Sample Efficient Grasp Learning Using Equivariant Models",
+      "authors": "Xupeng Zhu, Dian Wang, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt (Northeastern University)",
+      "paper_url": "http://www.roboticsproceedings.org/rss18/p071.pdf",
+      "venue": "rss22"
+    },
+    {
+      "id": "corl22_4g3PwAp5nsX",
+      "paper_id": "4g3PwAp5nsX",
+      "title": "SE(2)-Equivariant Pushing Dynamics Models for Tabletop Object Manipulations",
+      "authors": "Seungyeon Kim, Byeongdo Lim, Yonghyeon Lee, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf?id=4g3PwAp5nsX",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl21_tCfLLiP7vje",
+      "paper_id": "tCfLLiP7vje",
+      "title": "Seeing Glass: Joint Point-Cloud and Depth Completion for Transparent Objects",
+      "authors": "Haoping Xu, Yi Ru Wang, Sagi Eppel, Alan Aspuru-Guzik, Florian Shkurti, Animesh Garg",
+      "paper_url": "https://openreview.net/pdf?id=tCfLLiP7vje",
+      "venue": "corl21"
+    },
+    {
+      "id": "corl21_2WivNtnaFzx",
+      "paper_id": "2WivNtnaFzx",
+      "title": "SimNet: Enabling Robust Unknown Object Manipulation from Pure Synthetic Data via Stereo",
+      "authors": "Mike Laskey, Brijen Thananjeyan, Kevin Stone, Thomas Kollar, Mark Tjersland",
+      "paper_url": "https://openreview.net/pdf?id=2WivNtnaFzx",
+      "venue": "corl21"
+    },
+    {
+      "id": "rss24_42",
+      "paper_id": "42",
+      "title": "SpringGrasp: Synthesizing Compliant, Dexterous Grasps under Shape Uncertainty",
+      "authors": "Sirui Chen, Jeannette Bohg, Karen LiuSirui Chen, Jeannette Bohg, Karen Liu",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p042.pdf",
+      "venue": "rss24"
+    },
+    {
+      "id": "rss21_24",
+      "paper_id": "24",
+      "title": "Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations",
+      "authors": "Zhenyu Jiang (University of Texas at Austin), Yifeng Zhu (University of Texas at Austin), Maxwell Svetlik (University of Texas at Austin), Kuan Fang (Stanford University), Yuke Zhu (University of Texas at Austin)",
+      "paper_url": "http://www.roboticsproceedings.org/rss17/p024.pdf",
+      "venue": "rss21"
+    },
+    {
+      "id": "corl24_M0JtsLuhEE",
+      "paper_id": "M0JtsLuhEE",
+      "title": "T$^2$SQNet: A Recognition Model for Manipulating Partially Observed Transparent Tableware Objects",
+      "authors": "Young Hun Kim, Seungyeon Kim, Yonghyeon Lee, Frank C. Park",
+      "paper_url": "https://openreview.net/pdf?id=M0JtsLuhEE",
+      "venue": "corl24"
+    },
+    {
+      "id": "corl22_tiPHpS4eA4",
+      "paper_id": "tiPHpS4eA4",
+      "title": "Towards Scale Balanced 6-DoF Grasp Detection in Cluttered Scenes",
+      "authors": "Haoxiang Ma, Di Huang",
+      "paper_url": "https://openreview.net/pdf?id=tiPHpS4eA4",
+      "venue": "corl22"
+    },
+    {
+      "id": "corl22_SrSCqW4dq9",
+      "paper_id": "SrSCqW4dq9",
+      "title": "Volumetric-based Contact Point Detection for 7-DoF Grasping",
+      "authors": "Junhao Cai, Jingcheng Su, Zida Zhou, Hui Cheng, Qifeng Chen, Michael Y Wang",
+      "paper_url": "https://openreview.net/pdf?id=SrSCqW4dq9",
+      "venue": "corl22"
+    },
+    {
+      "id": "rss24_41",
+      "paper_id": "41",
+      "title": "World Models for General Surgical Grasping",
+      "authors": "Hongbin LinHongbin Lin",
+      "paper_url": "https://www.roboticsproceedings.org/rss20/p041.pdf",
+      "venue": "rss24"
+    }
+  ]
+}

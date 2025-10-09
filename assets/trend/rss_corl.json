@@ -1,0 +1,392 @@
+{
+    "13": {
+        "rank": 0,
+        "keywords": "Legged locomotion, Reinforcement learning, Sim-to-real transfer",
+        "slope": 0.0144316229740487,
+        "color": "#00ff80",
+        "proportions": {
+            "2021": 0.04081632653061224,
+            "2022": 0.025830258302583026,
+            "2023": 0.028938906752411574,
+            "2024": 0.08,
+            "2025": 0.08588957055214724
+        }
+    },
+    "28": {
+        "rank": 1,
+        "keywords": "teleoperation, dexterous manipulation, low-cost open-source robotics",
+        "slope": 0.013465604739620702,
+        "color": "#00f784",
+        "proportions": {
+            "2021": 0.004081632653061225,
+            "2022": 0.007380073800738007,
+            "2023": 0.012861736334405145,
+            "2024": 0.0275,
+            "2025": 0.06134969325153374
+        }
+    },
+    "15": {
+        "rank": 2,
+        "keywords": "Language-conditioned manipulation, Vision-language-action models, 3D scene grounding",
+        "slope": 0.013110288305211833,
+        "color": "#00f485",
+        "proportions": {
+            "2021": 0.0326530612244898,
+            "2022": 0.025830258302583026,
+            "2023": 0.06109324758842444,
+            "2024": 0.075,
+            "2025": 0.0736196319018405
+        }
+    },
+    "11": {
+        "rank": 3,
+        "keywords": "LLM-robotics integration, open-vocabulary scene mapping, language-driven task planning",
+        "slope": 0.012134291678775059,
+        "color": "#00eb8a",
+        "proportions": {
+            "2021": 0.00816326530612245,
+            "2022": 0.01845018450184502,
+            "2023": 0.05466237942122187,
+            "2024": 0.0825,
+            "2025": 0.03680981595092025
+        }
+    },
+    "22": {
+        "rank": 4,
+        "keywords": "large-scale robotic datasets, simulation environments, cross-embodiment learning",
+        "slope": 0.010932620212642595,
+        "color": "#00e08f",
+        "proportions": {
+            "2021": 0.0163265306122449,
+            "2022": 0.01845018450184502,
+            "2023": 0.022508038585209004,
+            "2024": 0.05,
+            "2025": 0.05521472392638037
+        }
+    },
+    "29": {
+        "rank": 5,
+        "keywords": "Diffusion Policies, Equivariant Learning, Robotic Manipulation",
+        "slope": 0.010057629279498003,
+        "color": "#00d893",
+        "proportions": {
+            "2021": 0.004081632653061225,
+            "2022": 0.007380073800738007,
+            "2023": 0.03215434083601286,
+            "2024": 0.0425,
+            "2025": 0.03680981595092025
+        }
+    },
+    "2": {
+        "rank": 6,
+        "keywords": "state-estimation, learning-based-SLAM, implicit-3D-mapping",
+        "slope": 0.007552603007562564,
+        "color": "#00c29e",
+        "proportions": {
+            "2021": 0.0163265306122449,
+            "2022": 0.02952029520295203,
+            "2023": 0.01607717041800643,
+            "2024": 0.015,
+            "2025": 0.06134969325153374
+        }
+    },
+    "27": {
+        "rank": 7,
+        "keywords": "Video imitation learning, Dexterous bimanual manipulation, Object-centric affordances",
+        "slope": 0.005728952074796822,
+        "color": "#00b1a6",
+        "proportions": {
+            "2021": 0.0,
+            "2022": 0.02952029520295203,
+            "2023": 0.028938906752411574,
+            "2024": 0.05,
+            "2025": 0.018404907975460124
+        }
+    },
+    "23": {
+        "rank": 8,
+        "keywords": "Dexterous manipulation, Learning-based control, Sim-to-real transfer",
+        "slope": 0.004107972041282948,
+        "color": "#00a3ae",
+        "proportions": {
+            "2021": 0.024489795918367346,
+            "2022": 0.025830258302583026,
+            "2023": 0.03858520900321544,
+            "2024": 0.03,
+            "2025": 0.04294478527607362
+        }
+    },
+    "12": {
+        "rank": 9,
+        "keywords": "interactive robot learning, assistive feeding, user preference adaptation",
+        "slope": 0.003383614032396741,
+        "color": "#009cb1",
+        "proportions": {
+            "2021": 0.0163265306122449,
+            "2022": 0.03690036900369004,
+            "2023": 0.012861736334405145,
+            "2024": 0.0175,
+            "2025": 0.04294478527607362
+        }
+    },
+    "9": {
+        "rank": 10,
+        "keywords": "Learning-based terrain traversability, Proprioceptive state estimation, Off-road robot navigation",
+        "slope": 0.0012609953813323,
+        "color": "#0089bb",
+        "proportions": {
+            "2021": 0.024489795918367346,
+            "2022": 0.014760147601476014,
+            "2023": 0.01929260450160772,
+            "2024": 0.015,
+            "2025": 0.03067484662576687
+        }
+    },
+    "7": {
+        "rank": 11,
+        "keywords": "Mapless navigation, Semantic-topological memory, Deep learning exploration",
+        "slope": 0.0006369835530707868,
+        "color": "#0083be",
+        "proportions": {
+            "2021": 0.012244897959183673,
+            "2022": 0.01845018450184502,
+            "2023": 0.012861736334405145,
+            "2024": 0.0125,
+            "2025": 0.018404907975460124
+        }
+    },
+    "25": {
+        "rank": 12,
+        "keywords": "Tactile sensing, Multimodal perception, Contact-rich manipulation",
+        "slope": -0.0005796925770059022,
+        "color": "#0078c3",
+        "proportions": {
+            "2021": 0.044897959183673466,
+            "2022": 0.05166051660516605,
+            "2023": 0.04823151125401929,
+            "2024": 0.0375,
+            "2025": 0.049079754601226995
+        }
+    },
+    "14": {
+        "rank": 13,
+        "keywords": "Deep Reinforcement Learning, Sim-to-Real Transfer, Robust Robot Control",
+        "slope": -0.0014556626150335652,
+        "color": "#0070c7",
+        "proportions": {
+            "2021": 0.0326530612244898,
+            "2022": 0.025830258302583026,
+            "2023": 0.022508038585209004,
+            "2024": 0.0275,
+            "2025": 0.024539877300613498
+        }
+    },
+    "4": {
+        "rank": 14,
+        "keywords": "quadrotor control, learning-based model predictive control, agile flight",
+        "slope": -0.0017276896451198173,
+        "color": "#006ec8",
+        "proportions": {
+            "2021": 0.0326530612244898,
+            "2022": 0.04059040590405904,
+            "2023": 0.01607717041800643,
+            "2024": 0.015,
+            "2025": 0.03680981595092025
+        }
+    },
+    "10": {
+        "rank": 15,
+        "keywords": "Motion planning, Manifold geometry, Learning-based optimization",
+        "slope": -0.002905639445464199,
+        "color": "#0063ce",
+        "proportions": {
+            "2021": 0.06938775510204082,
+            "2022": 0.033210332103321034,
+            "2023": 0.03536977491961415,
+            "2024": 0.0325,
+            "2025": 0.05521472392638037
+        }
+    },
+    "17": {
+        "rank": 16,
+        "keywords": "TAMP, skill-hierarchy, long-horizon-manipulation",
+        "slope": -0.0030049883874949993,
+        "color": "#0063ce",
+        "proportions": {
+            "2021": 0.04897959183673469,
+            "2022": 0.033210332103321034,
+            "2023": 0.05144694533762058,
+            "2024": 0.0275,
+            "2025": 0.03680981595092025
+        }
+    },
+    "26": {
+        "rank": 17,
+        "keywords": "6-DoF grasping, equivariant neural representations, sim-to-real transfer",
+        "slope": -0.0032419985289748997,
+        "color": "#0060cf",
+        "proportions": {
+            "2021": 0.024489795918367346,
+            "2022": 0.033210332103321034,
+            "2023": 0.01607717041800643,
+            "2024": 0.0375,
+            "2025": 0.006134969325153374
+        }
+    },
+    "24": {
+        "rank": 18,
+        "keywords": "imitation learning, robotic manipulation, data efficiency",
+        "slope": -0.0032710100407627356,
+        "color": "#0060cf",
+        "proportions": {
+            "2021": 0.036734693877551024,
+            "2022": 0.04059040590405904,
+            "2023": 0.028938906752411574,
+            "2024": 0.02,
+            "2025": 0.03067484662576687
+        }
+    },
+    "20": {
+        "rank": 19,
+        "keywords": "Deformable object manipulation, Learning-based dynamics modeling, Particle-based 3D representations",
+        "slope": -0.0034860112858672208,
+        "color": "#005ed0",
+        "proportions": {
+            "2021": 0.036734693877551024,
+            "2022": 0.04797047970479705,
+            "2023": 0.04823151125401929,
+            "2024": 0.0375,
+            "2025": 0.024539877300613498
+        }
+    },
+    "8": {
+        "rank": 20,
+        "keywords": "human-robot collaboration, interactive learning, proactive assistance",
+        "slope": -0.00375999652571961,
+        "color": "#005cd1",
+        "proportions": {
+            "2021": 0.036734693877551024,
+            "2022": 0.033210332103321034,
+            "2023": 0.04180064308681672,
+            "2024": 0.02,
+            "2025": 0.024539877300613498
+        }
+    },
+    "3": {
+        "rank": 21,
+        "keywords": "Multi-robot exploration, Uncertainty modeling, Risk-aware planning",
+        "slope": -0.003919684755254967,
+        "color": "#005ad2",
+        "proportions": {
+            "2021": 0.0326530612244898,
+            "2022": 0.04797047970479705,
+            "2023": 0.04823151125401929,
+            "2024": 0.025,
+            "2025": 0.024539877300613498
+        }
+    },
+    "5": {
+        "rank": 22,
+        "keywords": "Safe Reinforcement Learning, Control Barrier Functions, Reachability Analysis",
+        "slope": -0.00406796353114402,
+        "color": "#0059d2",
+        "proportions": {
+            "2021": 0.07346938775510205,
+            "2022": 0.03690036900369004,
+            "2023": 0.04501607717041801,
+            "2024": 0.045,
+            "2025": 0.049079754601226995
+        }
+    },
+    "16": {
+        "rank": 23,
+        "keywords": "robot co-design, differentiable simulation, soft robotics",
+        "slope": -0.004778654035131816,
+        "color": "#0053d6",
+        "proportions": {
+            "2021": 0.0326530612244898,
+            "2022": 0.02952029520295203,
+            "2023": 0.04180064308681672,
+            "2024": 0.0225,
+            "2025": 0.012269938650306749
+        }
+    },
+    "6": {
+        "rank": 24,
+        "keywords": "Pose Estimation, SLAM Mapping, Point Cloud Registration",
+        "slope": -0.007577000702710171,
+        "color": "#0039e2",
+        "proportions": {
+            "2021": 0.04897959183673469,
+            "2022": 0.05166051660516605,
+            "2023": 0.02572347266881029,
+            "2024": 0.0125,
+            "2025": 0.03067484662576687
+        }
+    },
+    "0": {
+        "rank": 25,
+        "keywords": "3D object detection, multi-sensor fusion, autonomous driving",
+        "slope": -0.007862658970273191,
+        "color": "#0037e3",
+        "proportions": {
+            "2021": 0.0326530612244898,
+            "2022": 0.04059040590405904,
+            "2023": 0.02572347266881029,
+            "2024": 0.015,
+            "2025": 0.006134969325153374
+        }
+    },
+    "19": {
+        "rank": 26,
+        "keywords": "Vision-based manipulation, Object-centric scene representations, Affordance-driven rearrangement",
+        "slope": -0.008414620598879086,
+        "color": "#0032e6",
+        "proportions": {
+            "2021": 0.05714285714285714,
+            "2022": 0.03690036900369004,
+            "2023": 0.03858520900321544,
+            "2024": 0.0425,
+            "2025": 0.012269938650306749
+        }
+    },
+    "21": {
+        "rank": 27,
+        "keywords": "Offline Reinforcement Learning, Robotic Skill Learning, Continual Adaptation",
+        "slope": -0.008905979365916118,
+        "color": "#002de8",
+        "proportions": {
+            "2021": 0.036734693877551024,
+            "2022": 0.04059040590405904,
+            "2023": 0.04501607717041801,
+            "2024": 0.025,
+            "2025": 0.0
+        }
+    },
+    "1": {
+        "rank": 28,
+        "keywords": "Trajectory prediction, Safety-critical scenario generation, Autonomous driving simulation",
+        "slope": -0.01384266487932189,
+        "color": "#0001fe",
+        "proportions": {
+            "2021": 0.05714285714285714,
+            "2022": 0.08118081180811808,
+            "2023": 0.05787781350482315,
+            "2024": 0.0325,
+            "2025": 0.012269938650306749
+        }
+    },
+    "18": {
+        "rank": 29,
+        "keywords": "robotic reinforcement learning, skill-based manipulation, sample-efficient learning",
+        "slope": -0.01400126139016493,
+        "color": "#0000ff",
+        "proportions": {
+            "2021": 0.0653061224489796,
+            "2022": 0.03690036900369004,
+            "2023": 0.022508038585209004,
+            "2024": 0.0275,
+            "2025": 0.0
+        }
+    }
+}

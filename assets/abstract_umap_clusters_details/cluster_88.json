@@ -1,0 +1,1277 @@
+{
+  "cluster_id": 88,
+  "papers": [
+    {
+      "id": "iclr25_fh7GYa7cjO",
+      "paper_id": "fh7GYa7cjO",
+      "title": "$\\phi$-Update: A Class of Policy Update Methods with Policy Convergence Guarantee",
+      "authors": "Wenye Li, Jiacai Liu, Ke Wei",
+      "paper_url": "https://openreview.net/pdf?id=fh7GYa7cjO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_VWqiPBB_EM",
+      "paper_id": "VWqiPBB_EM",
+      "title": "$O(T^{-1})$ Convergence of Optimistic-Follow-the-Regularized-Leader in Two-Player Zero-Sum Markov Games",
+      "authors": "Yuepeng Yang, Cong Ma",
+      "paper_url": "https://openreview.net/pdf/a35472137b52f0a6e8767cfa258493272a4c2699.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_OyyE1FDdrQ",
+      "paper_id": "OyyE1FDdrQ",
+      "title": "$q$-exponential family for policy optimization",
+      "authors": "Lingwei Zhu, Haseeb Shah, Han Wang, Yukie Nagai, Martha White",
+      "paper_url": "https://openreview.net/pdf?id=OyyE1FDdrQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pCj2sLNoJq",
+      "paper_id": "pCj2sLNoJq",
+      "title": "A Generalist Hanabi Agent",
+      "authors": "Arjun V Sudhakar, Hadi Nekoei, Mathieu Reymond, Miao Liu, Janarthanan Rajendran, Sarath Chandar",
+      "paper_url": "https://openreview.net/pdf?id=pCj2sLNoJq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZW4MRZrmSA",
+      "paper_id": "ZW4MRZrmSA",
+      "title": "A Policy-Gradient Approach to Solving Imperfect-Information Games with Best-Iterate Convergence",
+      "authors": "Mingyang Liu, Gabriele Farina, Asuman E. Ozdaglar",
+      "paper_url": "https://openreview.net/pdf?id=ZW4MRZrmSA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_AcrlgZ9BKed",
+      "paper_id": "AcrlgZ9BKed",
+      "title": "A Reduction-Based Framework for Conservative Bandits and Reinforcement Learning",
+      "authors": "Yunchang Yang, Tianhao Wu, Han Zhong, Evrard Garcelon, Matteo Pirotta, Alessandro Lazaric, Liwei Wang, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf/559947894a1c34a3506ac8af2c0fe052117babd0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_DpE5UYUQzZH",
+      "paper_id": "DpE5UYUQzZH",
+      "title": "A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and Two-Player Zero-Sum Games",
+      "authors": "Samuel Sokota, Ryan D'Orazio, J Zico Kolter, Nicolas Loizou, Marc Lanctot, Ioannis Mitliagkas, Noam Brown, Christian Kroer",
+      "paper_url": "https://openreview.net/pdf/81f8c15b95a73eae01692db8cf41977e55d1d108.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_QTXKTXJKIh",
+      "paper_id": "QTXKTXJKIh",
+      "title": "Achieving Near-Optimal Individual Regret & Low Communications in Multi-Agent Bandits",
+      "authors": "Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, Xutong Liu, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui",
+      "paper_url": "https://openreview.net/pdf/04213bd9368859af7649a1f1b85b691f3a583f8b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_DTXZqTNV5nW",
+      "paper_id": "DTXZqTNV5nW",
+      "title": "Actor-Critic Policy Optimization in a Large-Scale Imperfect-Information Game",
+      "authors": "Haobo Fu, Weiming Liu, Shuang Wu, Yijia Wang, Tao Yang, Kai Li, Junliang Xing, Bin Li, Bo Ma, QIANG FU, Yang Wei",
+      "paper_url": "https://openreview.net/pdf/6fe3b02efc57f5d0f92998d2d9f16fbf729ade8f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_AY9KyTGcnk",
+      "paper_id": "AY9KyTGcnk",
+      "title": "Adaptive Regret for Bandits Made Possible: Two Queries Suffice",
+      "authors": "Zhou Lu, Qiuyi Zhang, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan",
+      "paper_url": "https://openreview.net/pdf?id=AY9KyTGcnk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_bBpT6dEjeRG",
+      "paper_id": "bBpT6dEjeRG",
+      "title": "Adversarial Attacks on Adversarial Bandits",
+      "authors": "Yuzhe Ma, Zhijin Zhou",
+      "paper_url": "https://openreview.net/pdf/082ae9856f805df99b2abe0f422e94e79c2f5733.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_YcW8i9VCf5",
+      "paper_id": "YcW8i9VCf5",
+      "title": "Adversarial Causal Bayesian Optimization",
+      "authors": "Scott Sussex, Pier Giuseppe Sessa, Anastasia Makarova, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf?id=YcW8i9VCf5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_uLE3WF3-H_5",
+      "paper_id": "uLE3WF3-H_5",
+      "title": "Adversarial Diversity in Hanabi",
+      "authors": "Brandon Cui, Andrei Lupu, Samuel Sokota, Hengyuan Hu, David J Wu, Jakob Nicolaus Foerster",
+      "paper_url": "https://openreview.net/pdf/87e565d42543f1efac5413ce0bdc2276e4f99253.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_rakhNY32vw",
+      "paper_id": "rakhNY32vw",
+      "title": "Almost Optimal Batch-Regret Tradeoff for Batch Linear Contextual Bandits",
+      "authors": "Zihan Zhang, Xiangyang Ji, Yuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=rakhNY32vw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_nKWjE4QF1hB",
+      "paper_id": "nKWjE4QF1hB",
+      "title": "AlphaZero-based Proof Cost Network to Aid Game Solving",
+      "authors": "Ti-Rong Wu, Chung-Chin Shih, Ting Han Wei, Meng-Yu Tsai, Wei-Yuan Hsu, I-Chen Wu",
+      "paper_url": "https://openreview.net/pdf/b5c23474ea991857d67e3e750bb82c36a669b2e9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_OvU9u6wS2J",
+      "paper_id": "OvU9u6wS2J",
+      "title": "An Online Learning Theory of Trading-Volume Maximization",
+      "authors": "Tommaso Cesari, Roberto Colomboni",
+      "paper_url": "https://openreview.net/pdf?id=OvU9u6wS2J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_cc8h3I3V4E",
+      "paper_id": "cc8h3I3V4E",
+      "title": "Approximating Nash Equilibria in Normal-Form Games via Stochastic Optimization",
+      "authors": "Ian Gemp, Luke Marris, Georgios Piliouras",
+      "paper_url": "https://openreview.net/pdf?id=cc8h3I3V4E",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_oGVu9spZaJJ",
+      "paper_id": "oGVu9spZaJJ",
+      "title": "Asymptotic Instance-Optimal Algorithms for Interactive Decision Making",
+      "authors": "Kefan Dong, Tengyu Ma",
+      "paper_url": "https://openreview.net/pdf/c6b6e7c349fa0b0fadc827dc82f9257d1655f8c7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_vPXp7K_Yhre",
+      "paper_id": "vPXp7K_Yhre",
+      "title": "Asynchronous Gradient Play in Zero-Sum Multi-agent Games",
+      "authors": "Ruicheng Ao, Shicong Cen, Yuejie Chi",
+      "paper_url": "https://openreview.net/pdf/e4a53ceb226d81ca0b14144280148b4353ae53d7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_YHdeAO61l6T",
+      "paper_id": "YHdeAO61l6T",
+      "title": "Auction Learning as a Two-Player Game",
+      "authors": "Jad Rahme, Samy Jelassi, S. Matthew Weinberg",
+      "paper_url": "https://openreview.net/pdf/4d275376b7d84287985b9093947c20acab6d0751.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_OvlcyABNQT",
+      "paper_id": "OvlcyABNQT",
+      "title": "Augmented Bayesian Policy Search",
+      "authors": "Mahdi Kallel, Debabrota Basu, Riad Akrour, Carlo D'Eramo",
+      "paper_url": "https://openreview.net/pdf?id=OvlcyABNQT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7ENakslm9J",
+      "paper_id": "7ENakslm9J",
+      "title": "Bandit Learning in Matching Markets with Indifference",
+      "authors": "Fang Kong, Jingqi Tang, Mingzhu Li, Pinyan Lu, John C.S. Lui, Shuai Li",
+      "paper_url": "https://openreview.net/pdf?id=7ENakslm9J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Q83vFlie_Pr",
+      "paper_id": "Q83vFlie_Pr",
+      "title": "Bandit Learning with Joint Effect of Incentivized Sampling, Delayed Sampling Feedback, and Self-Reinforcing User Preferences",
+      "authors": "Tianchen Zhou, Jia Liu, Chaosheng Dong, Yi Sun",
+      "paper_url": "https://openreview.net/pdf/d654e6eeca4a1faa806d427c0b60d31e7648ad5f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_lsxeNvYqCj",
+      "paper_id": "lsxeNvYqCj",
+      "title": "Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation",
+      "authors": "Thomas Kleine Buening, Aadirupa Saha, Christos Dimitrakakis, Haifeng Xu",
+      "paper_url": "https://openreview.net/pdf?id=lsxeNvYqCj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_yBIJRIYTqa",
+      "paper_id": "yBIJRIYTqa",
+      "title": "Bandits with Replenishable Knapsacks: the Best of both Worlds",
+      "authors": "Martino Bernasconi, Matteo Castiglioni, Andrea Celli, Federico Fusco",
+      "paper_url": "https://openreview.net/pdf?id=yBIJRIYTqa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_50cmx4SrkM",
+      "paper_id": "50cmx4SrkM",
+      "title": "Bayesian Analysis of Combinatorial Gaussian Process Bandits",
+      "authors": "Jack Sandberg, Niklas Åkerblom, Morteza Haghir Chehreghani",
+      "paper_url": "https://openreview.net/pdf?id=50cmx4SrkM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_36L7W3ri4U",
+      "paper_id": "36L7W3ri4U",
+      "title": "Beating Price of Anarchy and Gradient Descent without Regret in Potential Games",
+      "authors": "Iosif Sakos, Stefanos Leonardos, Stelios Andrew Stavroulakis, William Overman, Ioannis Panageas, Georgios Piliouras",
+      "paper_url": "https://openreview.net/pdf?id=36L7W3ri4U",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_3c13LptpIph",
+      "paper_id": "3c13LptpIph",
+      "title": "Behavior Proximal Policy Optimization",
+      "authors": "Zifeng Zhuang, Kun LEI, Jinxin Liu, Donglin Wang, Yilang Guo",
+      "paper_url": "https://openreview.net/pdf/bfe504f95073a72f5a9a90c36e6d53b9b5f87dd4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_1VeQ6VBbev",
+      "paper_id": "1VeQ6VBbev",
+      "title": "Beyond Stationarity: Convergence Analysis of Stochastic Softmax Policy Gradient Methods",
+      "authors": "Sara Klein, Simon Weissmann, Leif Döring",
+      "paper_url": "https://openreview.net/pdf?id=1VeQ6VBbev",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Jrt9iWalFy",
+      "paper_id": "Jrt9iWalFy",
+      "title": "Boosting Perturbed Gradient Ascent for Last-Iterate Convergence in Games",
+      "authors": "Kenshi Abe, Mitsuki Sakamoto, Kaito Ariu, Atsushi Iwasaki",
+      "paper_url": "https://openreview.net/pdf?id=Jrt9iWalFy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RWJX5F5I9g",
+      "paper_id": "RWJX5F5I9g",
+      "title": "Brain Bandit: A Biologically Grounded Neural Network for Efficient Control of Exploration",
+      "authors": "Chen Jiang, Jiahui An, Yating Liu, Ni Ji",
+      "paper_url": "https://openreview.net/pdf?id=RWJX5F5I9g",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_buxFBI6GG4",
+      "paper_id": "buxFBI6GG4",
+      "title": "Breaking the $\\log(1/\\Delta_2)$ Barrier: Better Batched Best Arm Identification with Adaptive Grids",
+      "authors": "Tianyuan Jin, Qin Zhang, Dongruo Zhou",
+      "paper_url": "https://openreview.net/pdf?id=buxFBI6GG4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_ZU-zFnTum1N",
+      "paper_id": "ZU-zFnTum1N",
+      "title": "Bregman Gradient Policy Optimization",
+      "authors": "Feihu Huang, Shangqian Gao, Heng Huang",
+      "paper_url": "https://openreview.net/pdf/e120a3566088f53c36d56bd58eba97a8e2c4ffc6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_7YKV7zkNpX",
+      "paper_id": "7YKV7zkNpX",
+      "title": "Can Reinforcement Learning Solve Asymmetric Combinatorial-Continuous Zero-Sum Games?",
+      "authors": "Yuheng Li, Wang Panpan, Haipeng Chen",
+      "paper_url": "https://openreview.net/pdf?id=7YKV7zkNpX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_eQzLwwGyQrb",
+      "paper_id": "eQzLwwGyQrb",
+      "title": "Can We Find Nash Equilibria at a Linear Rate in Markov Games?",
+      "authors": "Zhuoqing Song, Jason D. Lee, Zhuoran Yang",
+      "paper_url": "https://openreview.net/pdf/f6285c79bac699974cbfa7334d3e42800b338c64.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_F5Em8ASCosV",
+      "paper_id": "F5Em8ASCosV",
+      "title": "Causal Contextual Bandits with Targeted Interventions",
+      "authors": "Chandrasekar Subramanian, Balaraman Ravindran",
+      "paper_url": "https://openreview.net/pdf/b77f8b2b6b86bc81bdb006750510124a95769c01.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_a3wKPZpGtCF",
+      "paper_id": "a3wKPZpGtCF",
+      "title": "Chaos of Learning Beyond Zero-sum and Coordination via Game Decompositions",
+      "authors": "Yun Kuen Cheung, Yixin Tao",
+      "paper_url": "https://openreview.net/pdf/eb21a8cbc05cb76a2135d38e48ebb0d0192bb4d5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_t8FG4cJuL3",
+      "paper_id": "t8FG4cJuL3",
+      "title": "Classic but Everlasting: Traditional Gradient-Based Algorithms Converge Fast Even in Time-Varying Multi-Player Games",
+      "authors": "Yanzheng Chen, Jun Yu",
+      "paper_url": "https://openreview.net/pdf?id=t8FG4cJuL3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_hLbeJ6jObDD",
+      "paper_id": "hLbeJ6jObDD",
+      "title": "Collaborative Pure Exploration in Kernel Bandit",
+      "authors": "Yihan Du, Wei Chen, Yuko Kuroki, Longbo Huang",
+      "paper_url": "https://openreview.net/pdf/de61b7fc244459159df63514d2e06e2a3eaa49f5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_eMHn77ZKOp",
+      "paper_id": "eMHn77ZKOp",
+      "title": "Combinatorial Bandits for Maximum Value Reward Function under Value-Index Feedback",
+      "authors": "Yiliu Wang, Wei Chen, Milan Vojnovic",
+      "paper_url": "https://openreview.net/pdf?id=eMHn77ZKOp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_pBBsrPzq7aF",
+      "paper_id": "pBBsrPzq7aF",
+      "title": "Combinatorial Pure Exploration of Causal Bandits",
+      "authors": "Nuoya Xiong, Wei Chen",
+      "paper_url": "https://openreview.net/pdf/ce0582529b21e3a09fd78c91ca34e1a860955e4c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_xy_2w3J3kH",
+      "paper_id": "xy_2w3J3kH",
+      "title": "Communication-Efficient Actor-Critic Methods for Homogeneous Markov Games",
+      "authors": "Dingyang Chen, Yile Li, Qi Zhang",
+      "paper_url": "https://openreview.net/pdf/53792786d99df961509a8372e2fe61fafba57a92.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_0iscEAo2xB",
+      "paper_id": "0iscEAo2xB",
+      "title": "Comparing Targeting Strategies for Maximizing Social Welfare with Limited Resources",
+      "authors": "Vibhhu Sharma, Bryan Wilder",
+      "paper_url": "https://openreview.net/pdf?id=0iscEAo2xB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ogXkmugNZw",
+      "paper_id": "ogXkmugNZw",
+      "title": "Conflict-Averse Gradient Aggregation for Constrained Multi-Objective Reinforcement Learning",
+      "authors": "Dohyeong Kim, Mineui Hong, Jeongho Park, Songhwai Oh",
+      "paper_url": "https://openreview.net/pdf?id=ogXkmugNZw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SThJXvucjQ",
+      "paper_id": "SThJXvucjQ",
+      "title": "Conservative Contextual Bandits: Beyond Linear Representations",
+      "authors": "Rohan Deb, Mohammad Ghavamzadeh, Arindam Banerjee",
+      "paper_url": "https://openreview.net/pdf?id=SThJXvucjQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_UT-_SVOyD1H",
+      "paper_id": "UT-_SVOyD1H",
+      "title": "Contextual bandits with concave rewards, and an application to fair ranking",
+      "authors": "Virginie Do, Elvis Dohmatob, Matteo Pirotta, Alessandro Lazaric, Nicolas Usunier",
+      "paper_url": "https://openreview.net/pdf/0368dedadc4bf112469a574263d2c2fe4a7f427c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_5ep85sakT3",
+      "paper_id": "5ep85sakT3",
+      "title": "Contextual Bandits with Online Neural Regression",
+      "authors": "Rohan Deb, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee",
+      "paper_url": "https://openreview.net/pdf?id=5ep85sakT3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Z8dr422vtr",
+      "paper_id": "Z8dr422vtr",
+      "title": "Cross-Domain Off-Policy Evaluation and Learning for Contextual Bandits",
+      "authors": "Yuta Natsubori, Masataka Ushiku, Yuta Saito",
+      "paper_url": "https://openreview.net/pdf?id=Z8dr422vtr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_oj2yn1Q4Ett",
+      "paper_id": "oj2yn1Q4Ett",
+      "title": "Decentralized Learning for Overparameterized Problems: A Multi-Agent Kernel Approximation Approach",
+      "authors": "Prashant Khanduri, Haibo Yang, Mingyi Hong, Jia Liu, Hoi To Wai, Sijia Liu",
+      "paper_url": "https://openreview.net/pdf/d2d0106daf104b8b9c7f3868ca69a3a81cd09902.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_bn0GZZdDfI1",
+      "paper_id": "bn0GZZdDfI1",
+      "title": "Decentralized Optimistic Hyperpolicy Mirror Descent: Provably No-Regret Learning in Markov Games",
+      "authors": "Wenhao Zhan, Jason D. Lee, Zhuoran Yang",
+      "paper_url": "https://openreview.net/pdf/3d25b46ef867366688cc4fabce7f2a3a3c33f9a7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_coIaBY8EVF",
+      "paper_id": "coIaBY8EVF",
+      "title": "Decongestion by Representation: Learning to Improve Economic Welfare in Marketplaces",
+      "authors": "Omer Nahum, Gali Noti, David C. Parkes, Nir Rosenfeld",
+      "paper_url": "https://openreview.net/pdf?id=coIaBY8EVF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_421D67DY3i",
+      "paper_id": "421D67DY3i",
+      "title": "Demystifying Online Clustering of Bandits: Enhanced Exploration Under Stochastic and Smoothed Adversarial Contexts",
+      "authors": "Zhuohua Li, Maoli Liu, Xiangxiang Dai, John C.S. Lui",
+      "paper_url": "https://openreview.net/pdf?id=421D67DY3i",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KD5nJUgeW4",
+      "paper_id": "KD5nJUgeW4",
+      "title": "Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games",
+      "authors": "Runyu Lu, Yuanheng Zhu, Dongbin Zhao",
+      "paper_url": "https://openreview.net/pdf?id=KD5nJUgeW4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qn9tBYQHGi",
+      "paper_id": "qn9tBYQHGi",
+      "title": "Do LLM Agents  Have Regret? A Case Study in Online Learning and Games",
+      "authors": "Chanwoo Park, Xiangyu Liu, Asuman E. Ozdaglar, Kaiqing Zhang",
+      "paper_url": "https://openreview.net/pdf?id=qn9tBYQHGi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2iYVBqRHK4",
+      "paper_id": "2iYVBqRHK4",
+      "title": "DOPL: Direct Online Preference Learning for Restless Bandits with Preference Feedback",
+      "authors": "GUOJUN XIONG, Ujwal Dinesha, Debajoy Mukherjee, Jian Li, Srinivas Shakkottai",
+      "paper_url": "https://openreview.net/pdf?id=2iYVBqRHK4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DOXnqYLCcd",
+      "paper_id": "DOXnqYLCcd",
+      "title": "Dynamic Assortment Selection and Pricing with Censored Preference Feedback",
+      "authors": "Jung-hun Kim, Min-hwan Oh",
+      "paper_url": "https://openreview.net/pdf?id=DOXnqYLCcd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_6PbvbLyqT6",
+      "paper_id": "6PbvbLyqT6",
+      "title": "Dynamic Discounted Counterfactual Regret Minimization",
+      "authors": "Hang Xu, Kai Li, Haobo Fu, QIANG FU, Junliang Xing, Jian Cheng",
+      "paper_url": "https://openreview.net/pdf?id=6PbvbLyqT6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_X_ch3VrNSRg",
+      "paper_id": "X_ch3VrNSRg",
+      "title": "EE-Net: Exploitation-Exploration Neural Networks in Contextual Bandits",
+      "authors": "Yikun Ban, Yuchen Yan, Arindam Banerjee, Jingrui He",
+      "paper_url": "https://openreview.net/pdf/c6228ff8fe747650e5b549f73f34d2306402b787.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_UWdPsY7agk",
+      "paper_id": "UWdPsY7agk",
+      "title": "Efficient Causal Decision Making with One-sided Feedback",
+      "authors": "Jianing Chu, Shu Yang, Wenbin Lu, PULAK GHOSH",
+      "paper_url": "https://openreview.net/pdf?id=UWdPsY7agk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MTcgsz1SHr",
+      "paper_id": "MTcgsz1SHr",
+      "title": "Efficient Online Pruning and Abstraction for Imperfect Information Extensive-Form Games",
+      "authors": "Boning Li, Longbo Huang",
+      "paper_url": "https://openreview.net/pdf?id=MTcgsz1SHr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_mjzm6btqgV",
+      "paper_id": "mjzm6btqgV",
+      "title": "Efficiently Computing Nash Equilibria in Adversarial Team Markov Games",
+      "authors": "Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Vaggos Chatziafratis, Stelios Andrew Stavroulakis",
+      "paper_url": "https://openreview.net/pdf/3e531dec92de6b02fcbeef7a63d114423e73b571.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_So6YAqnqgMj",
+      "paper_id": "So6YAqnqgMj",
+      "title": "EigenGame Unloaded: When playing games is better than optimizing",
+      "authors": "Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel",
+      "paper_url": "https://openreview.net/pdf/cedcb096f43d8f1b1e43c8969cf5b1dd7e83d5ae.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_NzTU59SYbNq",
+      "paper_id": "NzTU59SYbNq",
+      "title": "EigenGame: PCA as a Nash Equilibrium",
+      "authors": "Ian Gemp, Brian McWilliams, Claire Vernade, Thore Graepel",
+      "paper_url": "https://openreview.net/pdf/05bd1b2e95cfd532a3902be824f0945943dc7503.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_xLfAgCroImw",
+      "paper_id": "xLfAgCroImw",
+      "title": "Energy-Based Learning for Cooperative Games, with Applications to Valuation Problems in Machine Learning",
+      "authors": "Yatao Bian, Yu Rong, Tingyang Xu, Jiaxiang Wu, Andreas Krause, Junzhou Huang",
+      "paper_url": "https://openreview.net/pdf/52a282d00203dfc39e85be560be1315b7d3ea1e3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Tb8RiXOc3N",
+      "paper_id": "Tb8RiXOc3N",
+      "title": "Epistemic Monte Carlo Tree Search",
+      "authors": "Yaniv Oren, Viliam Vadocz, Matthijs T. J. Spaan, Wendelin Boehmer",
+      "paper_url": "https://openreview.net/pdf?id=Tb8RiXOc3N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_35QyoZv8cKO",
+      "paper_id": "35QyoZv8cKO",
+      "title": "ESCHER: Eschewing Importance Sampling in Games by Computing a History Value Function to Estimate Regret",
+      "authors": "Stephen Marcus McAleer, Gabriele Farina, Marc Lanctot, Tuomas Sandholm",
+      "paper_url": "https://openreview.net/pdf/cdb7c9b1ffde6e7acae887c13857a09a87b3d158.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_uH0FGECSEI",
+      "paper_id": "uH0FGECSEI",
+      "title": "Expected flow networks in stochastic environments and two-player zero-sum games",
+      "authors": "Marco Jiralerspong, Bilun Sun, Danilo Vucetic, Tianyu Zhang, Yoshua Bengio, Gauthier Gidel, Nikolay Malkin",
+      "paper_url": "https://openreview.net/pdf?id=uH0FGECSEI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_bRwBpKrNzF7",
+      "paper_id": "bRwBpKrNzF7",
+      "title": "Faster Last-iterate Convergence of Policy Optimization in Zero-Sum Markov Games",
+      "authors": "Shicong Cen, Yuejie Chi, Simon Shaolei Du, Lin Xiao",
+      "paper_url": "https://openreview.net/pdf/d08b35cf66974eeaf9743746b69c38f772753301.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kx8i1yfkRX",
+      "paper_id": "kx8i1yfkRX",
+      "title": "Finally Rank-Breaking Conquers MNL Bandits: Optimal and Efficient Algorithms for MNL Assortment",
+      "authors": "Aadirupa Saha, Pierre Gaillard",
+      "paper_url": "https://openreview.net/pdf?id=kx8i1yfkRX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jeMZi2Z9xe",
+      "paper_id": "jeMZi2Z9xe",
+      "title": "Follow-the-Perturbed-Leader for Adversarial Bandits: Heavy Tails, Robustness, and Privacy",
+      "authors": "Duo Cheng, Xingyu Zhou, Bo Ji",
+      "paper_url": "https://openreview.net/pdf?id=jeMZi2Z9xe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Oeb0I3JcVc",
+      "paper_id": "Oeb0I3JcVc",
+      "title": "Geometry-Aware Approaches for Balancing Performance and Theoretical Guarantees in Linear Bandits",
+      "authors": "Yuwei Luo, Mohsen Bayati",
+      "paper_url": "https://openreview.net/pdf?id=Oeb0I3JcVc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_gfwON7rAm4",
+      "paper_id": "gfwON7rAm4",
+      "title": "Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games",
+      "authors": "Stefanos Leonardos, Will Overman, Ioannis Panageas, Georgios Piliouras",
+      "paper_url": "https://openreview.net/pdf/91e8010784f5d9c14cf26f0a2e86f8b46808d3ae.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_2PRpcmJecX",
+      "paper_id": "2PRpcmJecX",
+      "title": "Global Convergence of Policy Gradient in Average Reward MDPs",
+      "authors": "Navdeep Kumar, Yashaswini Murthy, Itai Shufaro, Kfir Yehuda Levy, R. Srikant, Shie Mannor",
+      "paper_url": "https://openreview.net/pdf?id=2PRpcmJecX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_fXHl76nO2AZ",
+      "paper_id": "fXHl76nO2AZ",
+      "title": "Gradient Importance Learning for Incomplete Observations",
+      "authors": "Qitong Gao, Dong Wang, Joshua David Amason, Siyang Yuan, Chenyang Tao, Ricardo Henao, Majda Hadziahmetovic, Lawrence Carin, Miroslav Pajic",
+      "paper_url": "https://openreview.net/pdf/77f82d36ef5cbde5647d6e9f7fb7dd38ce4e2a91.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_S4dItvpvAv",
+      "paper_id": "S4dItvpvAv",
+      "title": "How to Find the Exact Pareto Front for Multi-Objective MDPs?",
+      "authors": "Yining Li, Peizhong Ju, Ness Shroff",
+      "paper_url": "https://openreview.net/pdf?id=S4dItvpvAv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_edJ_HipawCa",
+      "paper_id": "edJ_HipawCa",
+      "title": "Impact of Representation Learning in Linear Bandits",
+      "authors": "Jiaqi Yang, Wei Hu, Jason D. Lee, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf/91886e61c4bfd75e5a6cfba8ec66df9e37c55471.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_EPHsIa0Ytg",
+      "paper_id": "EPHsIa0Ytg",
+      "title": "Improved Approximation Algorithms for $k$-Submodular Maximization via Multilinear Extension",
+      "authors": "Huanjian Zhou, Lingxiao Huang, Baoxiang Wang",
+      "paper_url": "https://openreview.net/pdf?id=EPHsIa0Ytg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6bDJ3CIm5w",
+      "paper_id": "6bDJ3CIm5w",
+      "title": "Interference Among First-Price Pacing Equilibria: A Bias and Variance Analysis",
+      "authors": "Luofeng Liao, Christian Kroer, Sergei Leonenkov, Okke Schrijvers, Liang Shi, Nicolas Stier Moses, Congshan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=6bDJ3CIm5w",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_f3jySJpEFT",
+      "paper_id": "f3jySJpEFT",
+      "title": "Lasso Bandit with Compatibility Condition on Optimal Arm",
+      "authors": "Harin Lee, Taehyun Hwang, Min-hwan Oh",
+      "paper_url": "https://openreview.net/pdf?id=f3jySJpEFT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LWeVVPuIx0",
+      "paper_id": "LWeVVPuIx0",
+      "title": "Last-Iterate Convergence Properties of Regret-Matching Algorithms in Games",
+      "authors": "Yang Cai, Gabriele Farina, Julien Grand-Clément, Christian Kroer, Chung-Wei Lee, Haipeng Luo, Weiqiang Zheng",
+      "paper_url": "https://openreview.net/pdf?id=LWeVVPuIx0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_sVU54nyaA9K",
+      "paper_id": "sVU54nyaA9K",
+      "title": "Learning Adversarial Linear Mixture Markov Decision Processes with Bandit Feedback and Unknown Transition",
+      "authors": "Canzhe Zhao, Ruofeng Yang, Baoxiang Wang, Shuai Li",
+      "paper_url": "https://openreview.net/pdf/33f9690f207885a8455b64fd5e907d05a6a5a778.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_99tKiMVJhY",
+      "paper_id": "99tKiMVJhY",
+      "title": "Learning Decentralized Partially Observable Mean Field Control for Artificial Collective Behavior",
+      "authors": "Kai Cui, Sascha H. Hauck, Christian Fabian, Heinz Koeppl",
+      "paper_url": "https://openreview.net/pdf?id=99tKiMVJhY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ptjrpEGrGg",
+      "paper_id": "ptjrpEGrGg",
+      "title": "Learning from Imperfect  Human Feedback: A Tale from Corruption-Robust Dueling",
+      "authors": "Yuwei Cheng, Fan Yao, Xuefeng Liu, Haifeng Xu",
+      "paper_url": "https://openreview.net/pdf?id=ptjrpEGrGg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_0sgntlpKDOz",
+      "paper_id": "0sgntlpKDOz",
+      "title": "Learning Graphon Mean Field Games and Approximate Nash Equilibria",
+      "authors": "Kai Cui, Heinz Koeppl",
+      "paper_url": "https://openreview.net/pdf/b4f2ad24930753086ac1a6b4fea2f45e13771c21.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_vEfmVS5ywF",
+      "paper_id": "vEfmVS5ywF",
+      "title": "Learning in reverse causal strategic environments with ramifications on two sided markets",
+      "authors": "Seamus Somerstep, Yuekai Sun, Yaacov Ritov",
+      "paper_url": "https://openreview.net/pdf?id=vEfmVS5ywF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_-G1kjTFsSs",
+      "paper_id": "-G1kjTFsSs",
+      "title": "Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment",
+      "authors": "Chuanhao Li, Huazheng Wang, Mengdi Wang, Hongning Wang",
+      "paper_url": "https://openreview.net/pdf/7558858d579b52058b99b1fe6ebb3b9143192941.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_zwU9scoU4A",
+      "paper_id": "zwU9scoU4A",
+      "title": "Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach",
+      "authors": "Christian Fabian, Kai Cui, Heinz Koeppl",
+      "paper_url": "https://openreview.net/pdf?id=zwU9scoU4A",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_n4wcdct43X",
+      "paper_id": "n4wcdct43X",
+      "title": "Learning mirror maps in policy mirror descent",
+      "authors": "Carlo Alfano, Sebastian Rene Towers, Silvia Sapora, Chris Lu, Patrick Rebeschini",
+      "paper_url": "https://openreview.net/pdf?id=n4wcdct43X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8utTlmhw8v",
+      "paper_id": "8utTlmhw8v",
+      "title": "Learning Nash Equilibria in Rank-1 Games",
+      "authors": "Nikolas Patris, Ioannis Panageas",
+      "paper_url": "https://openreview.net/pdf?id=8utTlmhw8v",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_7inCJ3MhXt3",
+      "paper_id": "7inCJ3MhXt3",
+      "title": "Learning Neural Contextual Bandits through Perturbed Rewards",
+      "authors": "Yiling Jia, Weitong ZHANG, Dongruo Zhou, Quanquan Gu, Hongning Wang",
+      "paper_url": "https://openreview.net/pdf/03d7a2872a95102e45f49ccf6a1bd08bab2a19d8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_wISvONp3Kq",
+      "paper_id": "wISvONp3Kq",
+      "title": "Learning No-Regret Sparse Generalized Linear Models with Varying Observation(s)",
+      "authors": "Diyang Li, Charles Ling, zhiqiang xu, Huan Xiong, Bin Gu",
+      "paper_url": "https://openreview.net/pdf?id=wISvONp3Kq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_WKuimaBj4I",
+      "paper_id": "WKuimaBj4I",
+      "title": "Learning Optimal Contracts: How to Exploit Small Action Spaces",
+      "authors": "Francesco Bacchiocchi, Matteo Castiglioni, Alberto Marchesi, Nicola Gatti",
+      "paper_url": "https://openreview.net/pdf?id=WKuimaBj4I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_HjOo2k8lhFl",
+      "paper_id": "HjOo2k8lhFl",
+      "title": "Learning Rationalizable Equilibria in Multiplayer Games",
+      "authors": "Yuanhao Wang, Dingwen Kong, Yu Bai, Chi Jin",
+      "paper_url": "https://openreview.net/pdf/d09ac36610fac5f61f64c416d3ac5e4982bb5622.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_qaKRfobbTg",
+      "paper_id": "qaKRfobbTg",
+      "title": "Learning Thresholds with Latent Values and Censored Feedback",
+      "authors": "Jiahao Zhang, Tao Lin, Weiqiang Zheng, Zhe Feng, Yifeng Teng, Xiaotie Deng",
+      "paper_url": "https://openreview.net/pdf?id=qaKRfobbTg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_-z9hdsyUwVQ",
+      "paper_id": "-z9hdsyUwVQ",
+      "title": "Linear Convergence of Natural Policy Gradient Methods with Log-Linear Policies",
+      "authors": "Rui Yuan, Simon Shaolei Du, Robert M. Gower, Alessandro Lazaric, Lin Xiao",
+      "paper_url": "https://openreview.net/pdf/f5aa5904837a28aced14461d3df0197008d01e98.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_i7k2sXSW1b",
+      "paper_id": "i7k2sXSW1b",
+      "title": "Lipschitz Bandits in Optimal Space",
+      "authors": "Xiaoyi Zhu, Zengfeng Huang",
+      "paper_url": "https://openreview.net/pdf?id=i7k2sXSW1b",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_bsKMPAFHO7",
+      "paper_id": "bsKMPAFHO7",
+      "title": "Mediator Interpretation and Faster Learning Algorithms for Linear Correlated Equilibria in General Sequential Games",
+      "authors": "Brian Hu Zhang, Gabriele Farina, Tuomas Sandholm",
+      "paper_url": "https://openreview.net/pdf?id=bsKMPAFHO7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_aBO5SvgSt1",
+      "paper_id": "aBO5SvgSt1",
+      "title": "Mirror Descent Policy Optimization",
+      "authors": "Manan Tomar, Lior Shani, Yonathan Efroni, Mohammad Ghavamzadeh",
+      "paper_url": "https://openreview.net/pdf/03dfa6176ca266c8fa73ec81fc9a35d808fa7ad3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Vk-34OQ7rFo",
+      "paper_id": "Vk-34OQ7rFo",
+      "title": "Model-based Causal Bayesian Optimization",
+      "authors": "Scott Sussex, Anastasia Makarova, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf/4d05ca91171a6278984e77236a0ead44b9d44e48.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_l6CpxixmUg",
+      "paper_id": "l6CpxixmUg",
+      "title": "Modeling content creator incentives on algorithm-curated platforms",
+      "authors": "Jiri Hron, Karl Krauth, Michael Jordan, Niki Kilbertus, Sarah Dean",
+      "paper_url": "https://openreview.net/pdf/12c4dfbbd1516c36a132fe1e8e1205b88da0540b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_TjEzIsyEsQ6",
+      "paper_id": "TjEzIsyEsQ6",
+      "title": "Multi-Objective Reinforcement Learning: Convexity, Stationarity and Pareto Optimality",
+      "authors": "Haoye Lu, Daniel Herman, Yaoliang Yu",
+      "paper_url": "https://openreview.net/pdf/b1854b3d30ef316e856ad1f9b4e489239ef0e185.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_i8dYPGdB1C",
+      "paper_id": "i8dYPGdB1C",
+      "title": "Near-Optimal Online Learning for Multi-Agent Submodular Coordination: Tight Approximation and Communication Efficiency",
+      "authors": "Qixin Zhang, Zongqi Wan, Yu Yang, Li Shen, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=i8dYPGdB1C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_xnYACQquaGV",
+      "paper_id": "xnYACQquaGV",
+      "title": "Neural Contextual Bandits with Deep Representation and Shallow Exploration",
+      "authors": "Pan Xu, Zheng Wen, Handong Zhao, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf/c6ee94e7fd22670895280aaf06535b6373d428eb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_VELhv9BBfn",
+      "paper_id": "VELhv9BBfn",
+      "title": "Neural Dueling Bandits: Preference-Based Optimization with Human Feedback",
+      "authors": "Arun Verma, Zhongxiang Dai, Xiaoqiang Lin, Patrick Jaillet, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=VELhv9BBfn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_tkAtoZkcUnm",
+      "paper_id": "tkAtoZkcUnm",
+      "title": "Neural Thompson Sampling",
+      "authors": "Weitong ZHANG, Dongruo Zhou, Lihong Li, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf/d0c2efae754e3efbba6032b8b7d232a28b2bf5bc.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_4YESQqIys7",
+      "paper_id": "4YESQqIys7",
+      "title": "NfgTransformer: Equivariant Representation Learning for Normal-form Games",
+      "authors": "Siqi Liu, Luke Marris, Georgios Piliouras, Ian Gemp, Nicolas Heess",
+      "paper_url": "https://openreview.net/pdf?id=4YESQqIys7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_PXVGer7hmJ",
+      "paper_id": "PXVGer7hmJ",
+      "title": "Offline Congestion Games: How Feedback Type Affects Data Coverage Requirement",
+      "authors": "Haozhe Jiang, Qiwen Cui, Zhihan Xiong, Maryam Fazel, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf/5d536b4991d001b1cb1a44b7b6d5785c2f3012d8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_sb1HgVDLjN",
+      "paper_id": "sb1HgVDLjN",
+      "title": "Offline Model-Based Optimization by Learning to Rank",
+      "authors": "Rong-Xi Tan, Ke Xue, Shen-Huan Lyu, Haopu Shang, yaowang, Yaoyuan Wang, Fu Sheng, Chao Qian",
+      "paper_url": "https://openreview.net/pdf?id=sb1HgVDLjN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_sPIFuucA3F",
+      "paper_id": "sPIFuucA3F",
+      "title": "Offline Neural Contextual Bandits: Pessimism, Optimization and Generalization",
+      "authors": "Thanh Nguyen-Tang, Sunil Gupta, A. Tuan Nguyen, Svetha Venkatesh",
+      "paper_url": "https://openreview.net/pdf/adc89029ee15c473bef28493efafef96544ac523.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_0oWGVvC6oq",
+      "paper_id": "0oWGVvC6oq",
+      "title": "On Bits and Bandits: Quantifying the Regret-Information Trade-off",
+      "authors": "Itai Shufaro, Nadav Merlis, Nir Weinberger, Shie Mannor",
+      "paper_url": "https://openreview.net/pdf?id=0oWGVvC6oq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tuEP424UQ5",
+      "paper_id": "tuEP424UQ5",
+      "title": "On Generalization Across Environments In Multi-Objective Reinforcement Learning",
+      "authors": "Jayden Teoh, Pradeep Varakantham, Peter Vamplew",
+      "paper_url": "https://openreview.net/pdf?id=tuEP424UQ5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uznKlCpWjV",
+      "paper_id": "uznKlCpWjV",
+      "title": "On Stationary Point Convergence of PPO-Clip",
+      "authors": "Ruinan Jin, Shuai Li, Baoxiang Wang",
+      "paper_url": "https://openreview.net/pdf?id=uznKlCpWjV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_FCMpUOZkxi",
+      "paper_id": "FCMpUOZkxi",
+      "title": "On Stochastic Contextual Bandits with Knapsacks in Small Budget Regime",
+      "authors": "Hengquan Guo, Xin Liu",
+      "paper_url": "https://openreview.net/pdf?id=FCMpUOZkxi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jJXZvPe5z0",
+      "paper_id": "jJXZvPe5z0",
+      "title": "On the Convergence of No-Regret Dynamics in Information Retrieval Games with Proportional Ranking Functions",
+      "authors": "Omer Madmon, Idan Pipano, Itamar Reinman, Moshe Tennenholtz",
+      "paper_url": "https://openreview.net/pdf?id=jJXZvPe5z0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_p8ujRTjEf3",
+      "paper_id": "p8ujRTjEf3",
+      "title": "Only Pay for What Is Uncertain: Variance-Adaptive Thompson Sampling",
+      "authors": "Aadirupa Saha, Branislav Kveton",
+      "paper_url": "https://openreview.net/pdf?id=p8ujRTjEf3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_HrRKc9ei7h",
+      "paper_id": "HrRKc9ei7h",
+      "title": "Oracle Efficient Algorithms for Groupwise Regret",
+      "authors": "Krishna Acharya, Eshwar Ram Arunachaleswaran, Sampath Kannan, Aaron Roth, Juba Ziani",
+      "paper_url": "https://openreview.net/pdf?id=HrRKc9ei7h",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eB7T1bqthA",
+      "paper_id": "eB7T1bqthA",
+      "title": "Pairwise Elimination with Instance-Dependent Guarantees for Bandits with Cost Subsidy",
+      "authors": "Ishank Juneja, Carlee Joe-Wong, Osman Yagan",
+      "paper_url": "https://openreview.net/pdf?id=eB7T1bqthA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_zS9sRyaPFlJ",
+      "paper_id": "zS9sRyaPFlJ",
+      "title": "PD-MORL: Preference-Driven Multi-Objective Reinforcement Learning Algorithm",
+      "authors": "Toygun Basaklar, Suat Gumussoy, Umit Ogras",
+      "paper_url": "https://openreview.net/pdf/55e6fec64df989d7ba873c05d2c219d23391d668.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_d8hYXbxX71",
+      "paper_id": "d8hYXbxX71",
+      "title": "Policy Design in Long-run Welfare Dynamics",
+      "authors": "Jiduan Wu, Rediet Abebe, Moritz Hardt, Ana-Andreea Stoica",
+      "paper_url": "https://openreview.net/pdf?id=d8hYXbxX71",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_fB4V-2QvCEm",
+      "paper_id": "fB4V-2QvCEm",
+      "title": "Population-size-Aware Policy Optimization for Mean-Field Games",
+      "authors": "Pengdeng Li, Xinrun Wang, Shuxin Li, Hau Chan, Bo An",
+      "paper_url": "https://openreview.net/pdf/453e068e0d07905abfd73e6b1e73851d095de2e6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_LXftdR11io",
+      "paper_id": "LXftdR11io",
+      "title": "POTEC: Off-Policy Contextual Bandits for Large Action Spaces via Policy Decomposition",
+      "authors": "Yuta Saito, Jihan Yao, Thorsten Joachims",
+      "paper_url": "https://openreview.net/pdf?id=LXftdR11io",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_MP904TiHqJ-",
+      "paper_id": "MP904TiHqJ-",
+      "title": "Provably convergent quasistatic dynamics for mean-field two-player zero-sum games",
+      "authors": "Chao Ma, Lexing Ying",
+      "paper_url": "https://openreview.net/pdf/acb4ac9a6784cfd88f2b6afa489db7cb2af8de79.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_MofT9KEF0kw",
+      "paper_id": "MofT9KEF0kw",
+      "title": "Pushing the Accuracy-Group Robustness Frontier with Introspective Self-play",
+      "authors": "Jeremiah Zhe Liu, Krishnamurthy Dj Dvijotham, Jihyeon Lee, Quan Yuan, Balaji Lakshminarayanan, Deepak Ramachandran",
+      "paper_url": "https://openreview.net/pdf/51a2f70ce702f351ea58c6f9bfad71a8c3c055fc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_AwWaBXLIJE",
+      "paper_id": "AwWaBXLIJE",
+      "title": "Q-Pensieve: Boosting Sample Efficiency of Multi-Objective RL Through Memory Sharing of Q-Snapshots",
+      "authors": "Wei Hung, Bo Kai Huang, Ping-Chun Hsieh, Xi Liu",
+      "paper_url": "https://openreview.net/pdf/6f04c0806c254e1bc22ec280e54571a782628ae0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_owokKCrGYr",
+      "paper_id": "owokKCrGYr",
+      "title": "Quality-Diversity through AI Feedback",
+      "authors": "Herbie Bradley, Andrew Dai, Hannah Benita Teufel, Jenny Zhang, Koen Oostermeijer, Marco Bellagente, Jeff Clune, Kenneth Stanley, Gregory Schott, Joel Lehman",
+      "paper_url": "https://openreview.net/pdf?id=owokKCrGYr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_GEBkyKZOc4",
+      "paper_id": "GEBkyKZOc4",
+      "title": "Rational Decision-Making Agent with Learning Internal Utility Judgment",
+      "authors": "Yining Ye, Xin Cong, Shizuo Tian, Yujia Qin, Chong Liu, Yankai Lin, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://openreview.net/pdf?id=GEBkyKZOc4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0T49QbSOho",
+      "paper_id": "0T49QbSOho",
+      "title": "Regret-Optimal List Replicable Bandit Learning: Matching Upper and Lower Bounds",
+      "authors": "Michael Chen, A. Pavan, N. V. Vinodchandran, Ruosong Wang, Lin Yang",
+      "paper_url": "https://openreview.net/pdf?id=0T49QbSOho",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_DhH3LbA6F6",
+      "paper_id": "DhH3LbA6F6",
+      "title": "Reinforcement learning with combinatorial actions for coupled restless bandits",
+      "authors": "Lily Xu, Bryan Wilder, Elias Boutros Khalil, Milind Tambe",
+      "paper_url": "https://openreview.net/pdf?id=DhH3LbA6F6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_8FroynZv4C",
+      "paper_id": "8FroynZv4C",
+      "title": "Representation Learning for Low-rank General-sum Markov Games",
+      "authors": "Chengzhuo Ni, Yuda Song, Xuezhou Zhang, Zihan Ding, Chi Jin, Mengdi Wang",
+      "paper_url": "https://openreview.net/pdf/e4a6700bd0867d75ca3bdb47aa252ba2425e580c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_b24n2LS2BJ",
+      "paper_id": "b24n2LS2BJ",
+      "title": "Rethinking Shapley Value for Negative Interactions in Non-convex Games",
+      "authors": "Wonjoon Chang, Myeongjin Lee, Jaesik Choi",
+      "paper_url": "https://openreview.net/pdf?id=b24n2LS2BJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ssRdQimeUI",
+      "paper_id": "ssRdQimeUI",
+      "title": "Reward Dimension Reduction for Scalable Multi-Objective Reinforcement Learning",
+      "authors": "Giseung Park, Youngchul Sung",
+      "paper_url": "https://openreview.net/pdf?id=ssRdQimeUI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_IvepFxYRDG",
+      "paper_id": "IvepFxYRDG",
+      "title": "Sample Efficient Stochastic Policy Extragradient Algorithm for Zero-Sum Markov Game",
+      "authors": "Ziyi Chen, Shaocong Ma, Yi Zhou",
+      "paper_url": "https://openreview.net/pdf/a741fb9d3540a4bbeb6e7a7d823e6777a7b60fa5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_5WPQIVgWCg",
+      "paper_id": "5WPQIVgWCg",
+      "title": "Satisficing Regret Minimization in Bandits",
+      "authors": "Qing Feng, Tianyi Ma, Ruihao Zhu",
+      "paper_url": "https://openreview.net/pdf?id=5WPQIVgWCg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Ki4ocDm364",
+      "paper_id": "Ki4ocDm364",
+      "title": "Scaling Pareto-Efficient Decision Making via Offline Multi-Objective RL",
+      "authors": "Baiting Zhu, Meihua Dang, Aditya Grover",
+      "paper_url": "https://openreview.net/pdf/3d73c1e257eb3d1dd034f43fe3b51884a6dfade4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_h6ktwCPYxE",
+      "paper_id": "h6ktwCPYxE",
+      "title": "Second Order Bounds for Contextual Bandits with Function Approximation",
+      "authors": "Aldo Pacchiano",
+      "paper_url": "https://openreview.net/pdf?id=h6ktwCPYxE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_KemSBwOYJC",
+      "paper_id": "KemSBwOYJC",
+      "title": "Statistical Inference for Fisher Market Equilibrium",
+      "authors": "Luofeng Liao, Yuan Gao, Christian Kroer",
+      "paper_url": "https://openreview.net/pdf/c29b36c06fd3175639e80ff30178fad03267ce5c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_vOFx8HDcvF",
+      "paper_id": "vOFx8HDcvF",
+      "title": "Stochastic Bandits Robust to Adversarial Attacks",
+      "authors": "Xuchuang Wang, Maoli Liu, Jinhang Zuo, Xutong Liu, John C.S. Lui, Mohammad Hajiesmaili",
+      "paper_url": "https://openreview.net/pdf?id=vOFx8HDcvF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_oJZ8bPtCar",
+      "paper_id": "oJZ8bPtCar",
+      "title": "Stochastic No-regret Learning for General Games with Variance Reduction",
+      "authors": "Yichi Zhou, Fang Kong, Shuai Li",
+      "paper_url": "https://openreview.net/pdf/80ca6719730a6be14850965c99cc1783ac104905.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_tfO07iz0b9",
+      "paper_id": "tfO07iz0b9",
+      "title": "Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation",
+      "authors": "Chenyu Zhang, Xu Chen, Xuan Di",
+      "paper_url": "https://openreview.net/pdf?id=tfO07iz0b9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_loYSzjSaAK",
+      "paper_id": "loYSzjSaAK",
+      "title": "Submodular Reinforcement Learning",
+      "authors": "Manish Prajapat, Mojmir Mutny, Melanie Zeilinger, Andreas Krause",
+      "paper_url": "https://openreview.net/pdf?id=loYSzjSaAK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9VGTk2NYjF",
+      "paper_id": "9VGTk2NYjF",
+      "title": "The Complexity of Two-Team Polymatrix Games with Independent Adversaries",
+      "authors": "Alexandros Hollender, Gilbert Maystre, Sai Ganesh Nagarajan",
+      "paper_url": "https://openreview.net/pdf?id=9VGTk2NYjF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Fza94Y8VS4a",
+      "paper_id": "Fza94Y8VS4a",
+      "title": "The Evolution of Uncertainty of Learning in Games",
+      "authors": "Yun Kuen Cheung, Georgios Piliouras, Yixin Tao",
+      "paper_url": "https://openreview.net/pdf/b60f84c940dd1715e1df1ce0effeb9adde6d73b0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_bPiHuNUNv_R",
+      "paper_id": "bPiHuNUNv_R",
+      "title": "The Power of Regularization in Solving Extensive-Form Games",
+      "authors": "Mingyang Liu, Asuman E. Ozdaglar, Tiancheng Yu, Kaiqing Zhang",
+      "paper_url": "https://openreview.net/pdf/e182118c8044afa1567ce02597914314835a0da7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_PEgBEB74JjB",
+      "paper_id": "PEgBEB74JjB",
+      "title": "The Symmetric Generalized Eigenvalue Problem as a Nash Equilibrium",
+      "authors": "Ian Gemp, Charlie Chen, Brian McWilliams",
+      "paper_url": "https://openreview.net/pdf/fa439d55119aeee9e8abbf9fc9998c806d8d9320.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_9kG7TwgLYu",
+      "paper_id": "9kG7TwgLYu",
+      "title": "Time Fairness in Online Knapsack Problems",
+      "authors": "Adam Lechowicz, Rik Sengupta, Bo Sun, Shahin Kamali, Mohammad Hajiesmaili",
+      "paper_url": "https://openreview.net/pdf?id=9kG7TwgLYu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_J2TZgj3Tac",
+      "paper_id": "J2TZgj3Tac",
+      "title": "Toward Optimal Policy Population Growth in Two-Player Zero-Sum Games",
+      "authors": "Stephen Marcus McAleer, JB Lanier, Kevin A. Wang, Pierre Baldi, Tuomas Sandholm, Roy Fox",
+      "paper_url": "https://openreview.net/pdf?id=J2TZgj3Tac",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_4BPFwvKOvo5",
+      "paper_id": "4BPFwvKOvo5",
+      "title": "Towards convergence to Nash equilibria in two-team zero-sum games",
+      "authors": "Fivos Kalogiannis, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis",
+      "paper_url": "https://openreview.net/pdf/f089e06582d6aa8804f308b5b0d27d432cdb6b26.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_LNkMWCEssX",
+      "paper_id": "LNkMWCEssX",
+      "title": "Towards Domain Adaptive Neural Contextual Bandits",
+      "authors": "Ziyan Wang, Xiaoming Huo, Hao Wang",
+      "paper_url": "https://openreview.net/pdf?id=LNkMWCEssX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_sA4qIu3zv6v",
+      "paper_id": "sA4qIu3zv6v",
+      "title": "Towards General Function Approximation in Zero-Sum Markov Games",
+      "authors": "Baihe Huang, Jason D. Lee, Zhaoran Wang, Zhuoran Yang",
+      "paper_url": "https://openreview.net/pdf/89164a5698b4ced1396254451108620fc52d5bc1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_2SwHngthig",
+      "paper_id": "2SwHngthig",
+      "title": "Towards Offline Opponent Modeling with In-context Learning",
+      "authors": "Yuheng Jing, Kai Li, Bingyun Liu, Yifan Zang, Haobo Fu, QIANG FU, Junliang Xing, Jian Cheng",
+      "paper_url": "https://openreview.net/pdf?id=2SwHngthig",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_6yv8UHVJn4",
+      "paper_id": "6yv8UHVJn4",
+      "title": "Towards Optimal Regret in Adversarial Linear MDPs with Bandit Feedback",
+      "authors": "Haolin Liu, Chen-Yu Wei, Julian Zimmert",
+      "paper_url": "https://openreview.net/pdf?id=6yv8UHVJn4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_WzGdBqcBicl",
+      "paper_id": "WzGdBqcBicl",
+      "title": "Understanding and Adopting Rational Behavior by Bellman Score Estimation",
+      "authors": "Kuno Kim, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/88eb87ddbc76eb74567b04754a1b2ffc9ad31fbf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_H4A9e8HvIn",
+      "paper_id": "H4A9e8HvIn",
+      "title": "Unified Projection-Free Algorithms for Adversarial DR-Submodular Optimization",
+      "authors": "Mohammad Pedramfar, Yididiya Y. Nadew, Christopher John Quinn, Vaneet Aggarwal",
+      "paper_url": "https://openreview.net/pdf?id=H4A9e8HvIn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2pNLknCTvG",
+      "paper_id": "2pNLknCTvG",
+      "title": "uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs",
+      "authors": "Yu Chen, Jiatai Huang, Yan Dai, Longbo Huang",
+      "paper_url": "https://openreview.net/pdf?id=2pNLknCTvG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rDH7dIFn20",
+      "paper_id": "rDH7dIFn20",
+      "title": "Variance-aware Regret Bounds for Stochastic Contextual Dueling Bandits",
+      "authors": "Qiwei Di, Tao Jin, Yue Wu, Heyang Zhao, Farzad Farnoud, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf?id=rDH7dIFn20",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_tkwP32nsEq",
+      "paper_id": "tkwP32nsEq",
+      "title": "Variance-Aware Sparse Linear Bandits",
+      "authors": "Yan Dai, Ruosong Wang, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf/515823c3e758168be3caad5fec0b7c8a04637995.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_6MmiS0HUJHR",
+      "paper_id": "6MmiS0HUJHR",
+      "title": "When Can We Learn General-Sum Markov Games with a Large Number of Players Sample-Efficiently?",
+      "authors": "Ziang Song, Song Mei, Yu Bai",
+      "paper_url": "https://openreview.net/pdf/4897aa8eae5efc42c6f0c8f6dcc2f6ce0989de42.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_5sixirvG0I",
+      "paper_id": "5sixirvG0I",
+      "title": "Whittle Index with Multiple Actions and State Constraint for Inventory Management",
+      "authors": "Chuheng Zhang, Xiangsen Wang, Wei Jiang, Xianliang Yang, Siwei Wang, Lei Song, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=5sixirvG0I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TVDUVpgu9s",
+      "paper_id": "TVDUVpgu9s",
+      "title": "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles",
+      "authors": "Zhiwei Tang, Dmitry Rybin, Tsung-Hui Chang",
+      "paper_url": "https://openreview.net/pdf?id=TVDUVpgu9s",
+      "venue": "iclr24"
+    }
+  ]
+}

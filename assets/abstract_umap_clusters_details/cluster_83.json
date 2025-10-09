@@ -1,0 +1,2605 @@
+{
+  "cluster_id": 83,
+  "papers": [
+    {
+      "id": "iclr22_Lwr8We4MIxn",
+      "paper_id": "Lwr8We4MIxn",
+      "title": "A Biologically Interpretable Graph Convolutional Network to Link Genetic Risk Pathways and Imaging Phenotypes of Disease",
+      "authors": "Sayan Ghosal, Qiang Chen, Giulio Pergola, Aaron L Goldman, William Ulrich, Daniel R Weinberger, Archana Venkataraman",
+      "paper_url": "https://openreview.net/pdf/e88ef5a6ee79b4188e9a4d9cb222409009729992.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_RoN6M3i7gJ",
+      "paper_id": "RoN6M3i7gJ",
+      "title": "A Riemannian Framework for Learning Reduced-order Lagrangian Dynamics",
+      "authors": "Katharina Friedl, Noémie Jaquier, Jens Lundell, Tamim Asfour, Danica Kragic",
+      "paper_url": "https://openreview.net/pdf?id=RoN6M3i7gJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_vsMyHUq_C1c",
+      "paper_id": "vsMyHUq_C1c",
+      "title": "A Stable and Scalable Method for Solving Initial Value PDEs with Neural Networks",
+      "authors": "Marc Anton Finzi, Andres Potapczynski, Matthew Choptuik, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf/29b7a937e4233d944f06cc530414bef7be4d941b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_whE31dn74cL",
+      "paper_id": "whE31dn74cL",
+      "title": "A Temporal Kernel Approach for Deep Learning with Continuous-time Information",
+      "authors": "Da Xu, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, Kannan Achan",
+      "paper_url": "https://openreview.net/pdf/40fc3e707f1a7db2333d5459c3b472809d4e33c1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Jbdc0vTOcol",
+      "paper_id": "Jbdc0vTOcol",
+      "title": "A Time Series is Worth 64 Words:  Long-term Forecasting with Transformers",
+      "authors": "Yuqi Nie, Nam H Nguyen, Phanwadee Sinthong, Jayant Kalagnanam",
+      "paper_url": "https://openreview.net/pdf/2e4e6db8733d24f382a7e57c9b3d53d7e0061ade.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_UpgRVWexaD",
+      "paper_id": "UpgRVWexaD",
+      "title": "Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling",
+      "authors": "Hong Wang, Zhongkai Hao, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu",
+      "paper_url": "https://openreview.net/pdf?id=UpgRVWexaD",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_trV41CpAK4",
+      "paper_id": "trV41CpAK4",
+      "title": "Accelerating Neural ODEs: A Variational Formulation-based Approach",
+      "authors": "Hongjue Zhao, Yuchen Wang, Hairong Qi, Zijie Huang, Han Zhao, Lui Sha, Huajie Shao",
+      "paper_url": "https://openreview.net/pdf?id=trV41CpAK4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_P4XmKjXTrM",
+      "paper_id": "P4XmKjXTrM",
+      "title": "ACES: Automatic Cohort Extraction System for Event-Stream Datasets",
+      "authors": "Justin Xu, Jack Gallifant, ALISTAIR JOHNSON, Matthew B.A. McDermott",
+      "paper_url": "https://openreview.net/pdf?id=P4XmKjXTrM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_x4ZmQaumRg",
+      "paper_id": "x4ZmQaumRg",
+      "title": "Active Learning for Neural PDE Solvers",
+      "authors": "Daniel Musekamp, Marimuthu Kalimuthu, David Holzmüller, Makoto Takamoto, Mathias Niepert",
+      "paper_url": "https://openreview.net/pdf?id=x4ZmQaumRg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4Zz5UELkIt",
+      "paper_id": "4Zz5UELkIt",
+      "title": "Adaptive Instrument Design for Indirect Experiments",
+      "authors": "Yash Chandak, Shiv Shankar, Vasilis Syrgkanis, Emma Brunskill",
+      "paper_url": "https://openreview.net/pdf?id=4Zz5UELkIt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_7QI7tVrh2c",
+      "paper_id": "7QI7tVrh2c",
+      "title": "Adversarial Adaptive Sampling: Unify PINN and Optimal Transport for the Approximation of PDEs",
+      "authors": "Kejun Tang, Jiayu Zhai, Xiaoliang Wan, Chao Yang",
+      "paper_url": "https://openreview.net/pdf?id=7QI7tVrh2c",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_kOJf7Dklyv",
+      "paper_id": "kOJf7Dklyv",
+      "title": "Air Quality Prediction with Physics-Guided Dual Neural ODEs in Open Systems",
+      "authors": "Jindong Tian, Yuxuan Liang, Ronghui Xu, Peng Chen, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang",
+      "paper_url": "https://openreview.net/pdf?id=kOJf7Dklyv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_JW3jTjaaAB",
+      "paper_id": "JW3jTjaaAB",
+      "title": "AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction",
+      "authors": "Kethmi Hirushini Hettige, Jiahao Ji, Shili Xiang, Cheng Long, Gao Cong, Jingyuan Wang",
+      "paper_url": "https://openreview.net/pdf?id=JW3jTjaaAB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_psEswR8Jz4",
+      "paper_id": "psEswR8Jz4",
+      "title": "AmortizedPeriod: Attention-based Amortized Inference for Periodicity Identification",
+      "authors": "Hang Yu, Cong Liao, Ruolan Liu, Jianguo Li, Hu Yun, Xinzhe Wang",
+      "paper_url": "https://openreview.net/pdf?id=psEswR8Jz4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_WWlxFtR5sV",
+      "paper_id": "WWlxFtR5sV",
+      "title": "An operator preconditioning perspective on training in physics-informed machine learning",
+      "authors": "Tim De Ryck, Florent Bonnet, Siddhartha Mishra, Emmanuel de Bezenac",
+      "paper_url": "https://openreview.net/pdf?id=WWlxFtR5sV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_o1IiiNIoaA",
+      "paper_id": "o1IiiNIoaA",
+      "title": "ANaGRAM: A Natural Gradient Relative to Adapted Model for efficient PINNs learning",
+      "authors": "Nilo Schwencke, Cyril Furtlehner",
+      "paper_url": "https://openreview.net/pdf?id=o1IiiNIoaA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_xYWqSjBcGMl",
+      "paper_id": "xYWqSjBcGMl",
+      "title": "Anamnesic Neural Differential Equations with Orthogonal Polynomial Projections",
+      "authors": "Edward De Brouwer, Rahul G Krishnan",
+      "paper_url": "https://openreview.net/pdf/1e81b0e867b9b57649971121b1b5e3536d062458.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_LzQQ89U1qm_",
+      "paper_id": "LzQQ89U1qm_",
+      "title": "Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy",
+      "authors": "Jiehui Xu, Haixu Wu, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf/b3974b079de39a5b7e379db64e3fe6b27d3bc07f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_JWpwDdVbaM",
+      "paper_id": "JWpwDdVbaM",
+      "title": "ARM: Refining Multivariate Forecasting with Adaptive Temporal-Contextual Learning",
+      "authors": "Jiecheng Lu, Xu Han, Shihao Yang",
+      "paper_url": "https://openreview.net/pdf?id=JWpwDdVbaM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_kmG8vRXTFv",
+      "paper_id": "kmG8vRXTFv",
+      "title": "Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting",
+      "authors": "Yuan Yin, Vincent LE GUEN, Jérémie DONA, Emmanuel de Bezenac, Ibrahim Ayed, Nicolas THOME, patrick gallinari",
+      "paper_url": "https://openreview.net/pdf/26f8f5665ae13d683ef87f2ff8c2e5a321fac386.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_sZJNkorXMk",
+      "paper_id": "sZJNkorXMk",
+      "title": "Autocorrelation Matters: Understanding the Role of Initialization Schemes for State Space Models",
+      "authors": "Fusheng Liu, Qianxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=sZJNkorXMk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_L01Nn_VJ9i",
+      "paper_id": "L01Nn_VJ9i",
+      "title": "Back2Future: Leveraging Backfill Dynamics for Improving Real-time Predictions in Future",
+      "authors": "Harshavardhan Kamarthi, Alexander Rodríguez, B. Aditya Prakash",
+      "paper_url": "https://openreview.net/pdf/5ff5a41a0773c6764d009a86a74cce3dd35e8ec3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_nA464tCGR5",
+      "paper_id": "nA464tCGR5",
+      "title": "Balanced Neural ODEs: nonlinear model order reduction and Koopman operator approximations",
+      "authors": "Julius Aka, Johannes Brunnemann, Jörg Eiden, Arne Speerforck, Lars Mikelsons",
+      "paper_url": "https://openreview.net/pdf?id=nA464tCGR5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ZZTkLDRmkg",
+      "paper_id": "ZZTkLDRmkg",
+      "title": "BENO: Boundary-embedded Neural Operators for Elliptic PDEs",
+      "authors": "Haixin Wang, Jiaxin LI, Anubhav Dwivedi, Kentaro Hara, Tailin Wu",
+      "paper_url": "https://openreview.net/pdf?id=ZZTkLDRmkg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hj9ZuNimRl",
+      "paper_id": "hj9ZuNimRl",
+      "title": "Better Neural PDE Solvers Through Data-Free Mesh Movers",
+      "authors": "Peiyan Hu, Yue Wang, Zhi-Ming Ma",
+      "paper_url": "https://openreview.net/pdf?id=hj9ZuNimRl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_kkpL4zUXtiw",
+      "paper_id": "kkpL4zUXtiw",
+      "title": "Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients",
+      "authors": "Zhongkai Hao, Chengyang Ying, Hang Su, Jun Zhu, Jian Song, Ze Cheng",
+      "paper_url": "https://openreview.net/pdf/2b30b8c2d9d64ebef78683aa290df344b7e79706.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_O9nZCwdGcG",
+      "paper_id": "O9nZCwdGcG",
+      "title": "Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values",
+      "authors": "Xiaodan Chen, Xiucheng Li, Bo Liu, Zhijun Li",
+      "paper_url": "https://openreview.net/pdf?id=O9nZCwdGcG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LGafQ1g2D2",
+      "paper_id": "LGafQ1g2D2",
+      "title": "Can LLMs Understand Time Series Anomalies?",
+      "authors": "Zihao Zhou, Rose Yu",
+      "paper_url": "https://openreview.net/pdf?id=LGafQ1g2D2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_MJksrOhurE",
+      "paper_id": "MJksrOhurE",
+      "title": "CARD: Channel Aligned Robust Blend Transformer for Time Series Forecasting",
+      "authors": "Xue Wang, Tian Zhou, Qingsong Wen, Jinyang Gao, Bolin Ding, Rong Jin",
+      "paper_url": "https://openreview.net/pdf?id=MJksrOhurE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_m08aK3xxdJ",
+      "paper_id": "m08aK3xxdJ",
+      "title": "CATCH: Channel-Aware Multivariate Time Series Anomaly Detection via Frequency Patching",
+      "authors": "Xingjian Wu, Xiangfei Qiu, Zhengyu Li, Yihang Wang, Jilin Hu, Chenjuan Guo, Hui Xiong, Bin Yang",
+      "paper_url": "https://openreview.net/pdf?id=m08aK3xxdJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wmV4cIbgl6",
+      "paper_id": "wmV4cIbgl6",
+      "title": "CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series",
+      "authors": "Gideon Stein, Maha Shadaydeh, Jan Blunk, Niklas Penzel, Joachim Denzler",
+      "paper_url": "https://openreview.net/pdf?id=wmV4cIbgl6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_iad1yyyGme",
+      "paper_id": "iad1yyyGme",
+      "title": "CausalTime: Realistically Generated Time-series for Benchmarking of Causal Discovery",
+      "authors": "Yuxiao Cheng, Ziqian Wang, Tingxiong Xiao, Qin Zhong, Jinli Suo, Kunlun He",
+      "paper_url": "https://openreview.net/pdf?id=iad1yyyGme",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_YslOW2SO6S",
+      "paper_id": "YslOW2SO6S",
+      "title": "CirT: Global Subseasonal-to-Seasonal Forecasting with Geometry-inspired Transformer",
+      "authors": "Yang Liu, Zinan Zheng, Jiashun Cheng, Fugee Tsung, Deli Zhao, Yu Rong, Jia Li",
+      "paper_url": "https://openreview.net/pdf?id=YslOW2SO6S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_xnC8YwKUE3k",
+      "paper_id": "xnC8YwKUE3k",
+      "title": "Clairvoyance: A Pipeline Toolkit for Medical Time Series",
+      "authors": "Daniel Jarrett, Jinsung Yoon, Ioana Bica, Zhaozhi Qian, Ari Ercole, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/c4f52313ee7aa37bb754ae2f6524cc0aeb47ce43.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_okwxL_c4x84",
+      "paper_id": "okwxL_c4x84",
+      "title": "Clifford Neural Layers for PDE Modeling",
+      "authors": "Johannes Brandstetter, Rianne van den Berg, Max Welling, Jayesh K Gupta",
+      "paper_url": "https://openreview.net/pdf/4878c2dc31b0c173eca7532de05380bef50dffb0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_xuY33XhEGR",
+      "paper_id": "xuY33XhEGR",
+      "title": "ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs",
+      "authors": "Yogesh Verma, Markus Heinonen, Vikas Garg",
+      "paper_url": "https://openreview.net/pdf?id=xuY33XhEGR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_gjNcH0hj0LM",
+      "paper_id": "gjNcH0hj0LM",
+      "title": "Coherence-based Label Propagation over Time Series for Accelerated Active Learning",
+      "authors": "Yooju Shin, Susik Yoon, Sundong Kim, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee",
+      "paper_url": "https://openreview.net/pdf/adfec039282ce54c1aed434a034e6b291eb9364f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_l0V53bErniB",
+      "paper_id": "l0V53bErniB",
+      "title": "Combining Physics and Machine Learning for Network Flow Estimation",
+      "authors": "Arlei Lopes da Silva, Furkan Kocayusufoglu, Saber Jafarpour, Francesco Bullo, Ananthram Swami, Ambuj Singh",
+      "paper_url": "https://openreview.net/pdf/9dc2744a465941220de07cf308acf822ec8aaa64.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_z9SIj-IM7tn",
+      "paper_id": "z9SIj-IM7tn",
+      "title": "Competitive Physics Informed Networks",
+      "authors": "Qi Zeng, Yash Kothari, Spencer H Bryngelson, Florian Tobias Schaefer",
+      "paper_url": "https://openreview.net/pdf/feb4b9be1c1d0679cf4c1f97725f3ae7e2e8d153.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_uClUUJk05H",
+      "paper_id": "uClUUJk05H",
+      "title": "Compositional simulation-based inference for time series",
+      "authors": "Manuel Gloeckler, Shoji Toyota, Kenji Fukumizu, Jakob H. Macke",
+      "paper_url": "https://openreview.net/pdf?id=uClUUJk05H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Y5SEe3dfniJ",
+      "paper_id": "Y5SEe3dfniJ",
+      "title": "Compressing multidimensional weather and climate data into neural networks",
+      "authors": "Langwen Huang, Torsten Hoefler",
+      "paper_url": "https://openreview.net/pdf/6959d1573e13008d77bafdde3a013ed0767d1185.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bRa4JLPzii",
+      "paper_id": "bRa4JLPzii",
+      "title": "CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution",
+      "authors": "Yunju Cho, Jay-Yoon Lee",
+      "paper_url": "https://openreview.net/pdf?id=bRa4JLPzii",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_K1mcPiDdOJ",
+      "paper_id": "K1mcPiDdOJ",
+      "title": "Conditional Information Bottleneck Approach for Time Series Imputation",
+      "authors": "MinGyu Choi, Changhee Lee",
+      "paper_url": "https://openreview.net/pdf?id=K1mcPiDdOJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_APojAzJQiq",
+      "paper_id": "APojAzJQiq",
+      "title": "ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks",
+      "authors": "Qiang Liu, Mengyu Chu, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf?id=APojAzJQiq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_gbe1zHyA73",
+      "paper_id": "gbe1zHyA73",
+      "title": "Constrained Physical-Statistics Models for Dynamical System Identification and Prediction",
+      "authors": "Jérémie DONA, Marie Déchelle, patrick gallinari, Marina Levy",
+      "paper_url": "https://openreview.net/pdf/523bf746dd928f5b2c204455c61d5a91ca94c02d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_syC2764fPc",
+      "paper_id": "syC2764fPc",
+      "title": "Context-Alignment: Activating and Enhancing LLMs Capabilities in Time Series",
+      "authors": "Yuxiao Hu, Qian Li, Dongxiao Zhang, Jinyue Yan, Yuntian Chen",
+      "paper_url": "https://openreview.net/pdf?id=syC2764fPc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MxALfOAnXv",
+      "paper_id": "MxALfOAnXv",
+      "title": "Continuity-Preserving  Convolutional Autoencoders for Learning Continuous Latent Dynamical Models from Images",
+      "authors": "Aiqing Zhu, Yuting Pan, Qianxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=MxALfOAnXv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ePEZvQNFDW",
+      "paper_id": "ePEZvQNFDW",
+      "title": "Continuous Ensemble Weather Forecasting with Diffusion models",
+      "authors": "Martin Andrae, Tomas Landelius, Joel Oskarsson, Fredrik Lindsten",
+      "paper_url": "https://openreview.net/pdf?id=ePEZvQNFDW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_B73niNjbPs",
+      "paper_id": "B73niNjbPs",
+      "title": "Continuous PDE Dynamics Forecasting with Implicit Neural Representations",
+      "authors": "Yuan Yin, Matthieu Kirchmeyer, Jean-Yves Franceschi, Alain Rakotomamonjy, patrick gallinari",
+      "paper_url": "https://openreview.net/pdf/7870a5e000f8b6cb07adaf5eaf38552eecc48b6a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23__4n3k3d1ob",
+      "paper_id": "_4n3k3d1ob",
+      "title": "Continuous-time identification of dynamic state-space models by deep subspace encoding",
+      "authors": "Gerben I. Beintema, Maarten Schoukens, Roland Tóth",
+      "paper_url": "https://openreview.net/pdf/b05187a11aa24e2d51a41d36107f572dd2700a09.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_57PipS27Km",
+      "paper_id": "57PipS27Km",
+      "title": "Continuous-Time Meta-Learning with Forward Mode Differentiation",
+      "authors": "Tristan Deleu, David Kanaa, Leo Feng, Giancarlo Kerg, Yoshua Bengio, Guillaume Lajoie, Pierre-Luc Bacon",
+      "paper_url": "https://openreview.net/pdf/68b03565ea73b881a10643d2e81e4ace23821ef2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_xPkJYRsQGM",
+      "paper_id": "xPkJYRsQGM",
+      "title": "Contrastive Learning for Unsupervised Domain Adaptation of Time Series",
+      "authors": "Yilmazcan Ozyurt, Stefan Feuerriegel, Ce Zhang",
+      "paper_url": "https://openreview.net/pdf/8db66ee8b82ca7ce1a69f87119d02bf7f0b4630e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_4UiLqimGm5",
+      "paper_id": "4UiLqimGm5",
+      "title": "Coordinate-Aware Modulation for Neural Fields",
+      "authors": "Joo Chan Lee, Daniel Rho, Seungtae Nam, Jong Hwan Ko, Eunbyung Park",
+      "paper_url": "https://openreview.net/pdf?id=4UiLqimGm5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_PilZY3omXV2",
+      "paper_id": "PilZY3omXV2",
+      "title": "CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting",
+      "authors": "Gerald Woo, Chenghao Liu, Doyen Sahoo, Akshat Kumar, Steven Hoi",
+      "paper_url": "https://openreview.net/pdf/004dc9aa27163347637dedb217441afb5184d2c0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_kIo_C6QmMOM",
+      "paper_id": "kIo_C6QmMOM",
+      "title": "Coupled Multiwavelet Operator Learning for Coupled Differential Equations",
+      "authors": "Xiongye Xiao, Defu Cao, Ruochen Yang, Gaurav Gupta, Gengshuo Liu, Chenzhong Yin, Radu Balan, Paul Bogdan",
+      "paper_url": "https://openreview.net/pdf/ee0dc763a2dfe94ef4a6a84b6f02e67537508fbb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_A18gWgc5mi",
+      "paper_id": "A18gWgc5mi",
+      "title": "Course Correcting Koopman Representations",
+      "authors": "Mahan Fathi, Clement Gehring, Jonathan Pilault, David Kanaa, Pierre-Luc Bacon, Ross Goroshin",
+      "paper_url": "https://openreview.net/pdf?id=A18gWgc5mi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_FUORz1tG8Og",
+      "paper_id": "FUORz1tG8Og",
+      "title": "CROM: Continuous Reduced-Order Modeling of PDEs Using Implicit Neural Representations",
+      "authors": "Peter Yichen Chen, Jinxu Xiang, Dong Heon Cho, Yue Chang, G A Pershing, Henrique Teles Maia, Maurizio M Chiaramonte, Kevin Thomas Carlberg, Eitan Grinspun",
+      "paper_url": "https://openreview.net/pdf/0b88dbf1d08790a512a587e20d57a19dea822933.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_vSVLM2j9eie",
+      "paper_id": "vSVLM2j9eie",
+      "title": "Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting",
+      "authors": "Yunhao Zhang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf/1d793d6ba7c00ecfe98128614d58e2493255bd89.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_UG8bQcD3Emv",
+      "paper_id": "UG8bQcD3Emv",
+      "title": "CUTS: Neural Causal Discovery from Irregular Time-Series Data",
+      "authors": "Yuxiao Cheng, Runzhao Yang, Tingxiong Xiao, Zongren Li, Jinli Suo, Kunlun He, Qionghai Dai",
+      "paper_url": "https://openreview.net/pdf/e5927dd1ff7287d972c5b409d85506a0c1b5825f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_wENMvIsxNN",
+      "paper_id": "wENMvIsxNN",
+      "title": "D-CODE: Discovering Closed-form ODEs from Observed Trajectories",
+      "authors": "Zhaozhi Qian, Krzysztof Kacprzyk, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/3a0bdc107d197bd18aa7299f8d8f198db2225d03.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_4NhMhElWqP",
+      "paper_id": "4NhMhElWqP",
+      "title": "DAM: Towards a Foundation Model for Forecasting",
+      "authors": "Luke Nicholas Darlow, Qiwen Deng, Ahmed Hassan, Martin Asenov, Rajkarn Singh, Artjom Joosen, Adam Barker, Amos Storkey",
+      "paper_url": "https://openreview.net/pdf?id=4NhMhElWqP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EvyYFSxdgB",
+      "paper_id": "EvyYFSxdgB",
+      "title": "DATS: Difficulty-Aware Task Sampler for Meta-Learning Physics-Informed Neural Networks",
+      "authors": "Maryam Toloubidokhti, Yubo Ye, Ryan Missel, Xiajun Jiang, Nilesh Kumar, Ruby Shrestha, Linwei Wang",
+      "paper_url": "https://openreview.net/pdf?id=EvyYFSxdgB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_EDeVYpT42oS",
+      "paper_id": "EDeVYpT42oS",
+      "title": "Deconstructing the Inductive Biases of Hamiltonian Neural Networks",
+      "authors": "Nate Gruver, Marc Anton Finzi, Samuel Don Stanton, Andrew Gordon Wilson",
+      "paper_url": "https://openreview.net/pdf/0c5f008200cc427b5b6c416a2ec60e6adf6df996.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_BuFNoKBiMs",
+      "paper_id": "BuFNoKBiMs",
+      "title": "Decoupled Marked Temporal Point Process using Neural Ordinary Differential Equations",
+      "authors": "Yujee Song, Donghyun LEE, Rui Meng, Won Hwa Kim",
+      "paper_url": "https://openreview.net/pdf?id=BuFNoKBiMs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OD1MV7vf41",
+      "paper_id": "OD1MV7vf41",
+      "title": "Deep Random Features for Scalable Interpolation of Spatiotemporal Data",
+      "authors": "Weibin Chen, Azhir Mahmood, Michel Tsamados, So Takao",
+      "paper_url": "https://openreview.net/pdf?id=OD1MV7vf41",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_AJAR-JgNw__",
+      "paper_id": "AJAR-JgNw__",
+      "title": "DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting",
+      "authors": "Wei Fan, Shun Zheng, Xiaohan Yi, Wei Cao, Yanjie Fu, Jiang Bian, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/cd132957a26c075bcbe5f26a96995eea829b38e0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_VMurwgAFWP",
+      "paper_id": "VMurwgAFWP",
+      "title": "Designing Mechanical Meta-Materials by Learning Equivariant Flows",
+      "authors": "Mehran Mirramezani, Anne S. Meeussen, Katia Bertoldi, Peter Orbanz, Ryan P Adams",
+      "paper_url": "https://openreview.net/pdf?id=VMurwgAFWP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_hniLRD_XCA",
+      "paper_id": "hniLRD_XCA",
+      "title": "DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator",
+      "authors": "Minghao Han, Jacob Euler-Rolle, Robert K. Katzschmann",
+      "paper_url": "https://openreview.net/pdf/862602026e43c103de39be4295ff8f7288f3acf2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9TClCDZXeh",
+      "paper_id": "9TClCDZXeh",
+      "title": "Differentiable and Learnable Wireless Simulation with Geometric Transformers",
+      "authors": "Thomas Hehn, Markus Peschl, Tribhuvanesh Orekondy, Arash Behboodi, Johann Brehmer",
+      "paper_url": "https://openreview.net/pdf?id=9TClCDZXeh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_4T489T4yav",
+      "paper_id": "4T489T4yav",
+      "title": "Differentiable Segmentation of Sequences",
+      "authors": "Erik Scharwächter, Jonathan Lennartz, Emmanuel Müller",
+      "paper_url": "https://openreview.net/pdf/211648c2242f789fd76f662801f326094db7433d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_3fl1SENSYO",
+      "paper_id": "3fl1SENSYO",
+      "title": "DiffPuter: Empowering Diffusion Models for Missing Data Imputation",
+      "authors": "Hengrui Zhang, Liancheng Fang, Qitian Wu, Philip S. Yu",
+      "paper_url": "https://openreview.net/pdf?id=3fl1SENSYO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MbM1BqGpZu",
+      "paper_id": "MbM1BqGpZu",
+      "title": "Diffusion Transformer Captures Spatial-Temporal Dependencies: A Theory for Gaussian Process Data",
+      "authors": "Hengyu Fu, Zehao Dou, Jiawei Guo, Mengdi Wang, Minshuo Chen",
+      "paper_url": "https://openreview.net/pdf?id=MbM1BqGpZu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bhOysNJvWm",
+      "paper_id": "bhOysNJvWm",
+      "title": "Diffusion Transformers for Tabular Data Time Series Generation",
+      "authors": "Fabrizio Garuti, Enver Sangineto, Simone Luetto, Lorenzo Forni, Rita Cucchiara",
+      "paper_url": "https://openreview.net/pdf?id=bhOysNJvWm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HdUkF1Qk7g",
+      "paper_id": "HdUkF1Qk7g",
+      "title": "Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting",
+      "authors": "Qi Li, Zhenyu Zhang, Lei Yao, Zhaoxia Li, Tianyi Zhong, Yong Zhang",
+      "paper_url": "https://openreview.net/pdf?id=HdUkF1Qk7g",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4h1apFjO99",
+      "paper_id": "4h1apFjO99",
+      "title": "Diffusion-TS: Interpretable Diffusion for General Time Series Generation",
+      "authors": "Xinyu Yuan, Yan Qiao",
+      "paper_url": "https://openreview.net/pdf?id=4h1apFjO99",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Vog_3GXsgmb",
+      "paper_id": "Vog_3GXsgmb",
+      "title": "Discovering Nonlinear PDEs from Scarce Data with Physics-encoded Learning",
+      "authors": "Chengping Rao, Pu Ren, Yang Liu, Hao Sun",
+      "paper_url": "https://openreview.net/pdf/82ec65c9323f68d0077918ee9391653298302272.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_J9FgrqOOni",
+      "paper_id": "J9FgrqOOni",
+      "title": "Discretization-invariance? On the Discretization Mismatch Errors in Neural Operators",
+      "authors": "Wenhan Gao, Ruichen Xu, Yuefan Deng, Yi Liu",
+      "paper_url": "https://openreview.net/pdf?id=J9FgrqOOni",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_iI7hZSczxE",
+      "paper_id": "iI7hZSczxE",
+      "title": "Disentangling Time Series Representations via Contrastive Independence-of-Support on l-Variational Inference",
+      "authors": "Khalid Oublal, Said Ladjal, David Benhaiem, Emmanuel LE BORGNE, François Roueff",
+      "paper_url": "https://openreview.net/pdf?id=iI7hZSczxE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nCrJD7qPJN",
+      "paper_id": "nCrJD7qPJN",
+      "title": "Distilling Dataset into Neural Field",
+      "authors": "Donghyeok Shin, HeeSun Bae, Gyuwon Sim, Wanmo Kang, Il-chul Moon",
+      "paper_url": "https://openreview.net/pdf?id=nCrJD7qPJN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EyTzNHoEyK",
+      "paper_id": "EyTzNHoEyK",
+      "title": "DrivAerML: High-Fidelity Computational Fluid Dynamics Dataset for Road-Car External Aerodynamics",
+      "authors": "Neil Ashton, Charles Mockett, Marian Fuchs, Louis Fliessbach, Hendrik Hetmann, Thilo Knacke, Norbert Schönwald, Vangelis Skaperdas, Grigoris Fotiadis, Astrid Walle, Burkhard Hupertz, Danielle C. Maddix, Peter Yu",
+      "paper_url": "https://openreview.net/pdf?id=EyTzNHoEyK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WjDjem8mWE",
+      "paper_id": "WjDjem8mWE",
+      "title": "DyCAST: Learning Dynamic Causal Structure from Time Series",
+      "authors": "Yue Cheng, Bochen Lyu, Weiwei Xing, Zhanxing Zhu",
+      "paper_url": "https://openreview.net/pdf?id=WjDjem8mWE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_mfIX4QpsARJ",
+      "paper_id": "mfIX4QpsARJ",
+      "title": "EAGLE: Large-scale Learning of Turbulent Fluid Dynamics with Mesh Transformers",
+      "authors": "Steeven JANNY, Aurélien Bénéteau, Madiha Nadri, Julie Digne, Nicolas THOME, Christian Wolf",
+      "paper_url": "https://openreview.net/pdf/09aee140cdc4dcf6fcc6f93e1be103f7e4d37584.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_PJwAkg0z7h",
+      "paper_id": "PJwAkg0z7h",
+      "title": "EasyTPP: Towards Open Benchmarking Temporal Point Processes",
+      "authors": "Siqiao Xue, Xiaoming Shi, Zhixuan Chu, Yan Wang, Hongyan Hao, Fan Zhou, Caigao JIANG, Chen Pan, James Y. Zhang, Qingsong Wen, JUN ZHOU, Hongyuan Mei",
+      "paper_url": "https://openreview.net/pdf?id=PJwAkg0z7h",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_2EpjkjzdCAa",
+      "paper_id": "2EpjkjzdCAa",
+      "title": "Effectively Modeling Time Series with Simple Discrete State Spaces",
+      "authors": "Michael Zhang, Khaled Kamal Saab, Michael Poli, Tri Dao, Karan Goel, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/ab3d042895227ba8357ce14f5695c199eaf81a23.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_KyoVpYvWWnK",
+      "paper_id": "KyoVpYvWWnK",
+      "title": "Efficient Certified Training and Robustness Verification of Neural ODEs",
+      "authors": "Mustafa Zeqiri, Mark Niklas Mueller, Marc Fischer, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf/0b92d93ffeb2c0fc6a508ddf561204f7187a8a69.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_fkrYDQaHOJ",
+      "paper_id": "fkrYDQaHOJ",
+      "title": "Efficient Dynamics Modeling in Interactive Environments with Koopman Theory",
+      "authors": "Arnab Kumar Mondal, Siba Smarak Panigrahi, Sai Rajeswar, Kaleem Siddiqi, Siamak Ravanbakhsh",
+      "paper_url": "https://openreview.net/pdf?id=fkrYDQaHOJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ATLEl_izD87",
+      "paper_id": "ATLEl_izD87",
+      "title": "Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems",
+      "authors": "Suresh Bishnoi, Ravinder Bhattoo, Jayadeva Jayadeva, Sayan Ranu, N M Anoop Krishnan",
+      "paper_url": "https://openreview.net/pdf/6072d07d20319a94340f9a662da80d5419dacdaa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_RD9q5vEe1Q",
+      "paper_id": "RD9q5vEe1Q",
+      "title": "Error-quantified Conformal Inference for Time Series",
+      "authors": "Junxi Wu, Dongjian Hu, Yajie Bao, Shu-Tao Xia, Changliang Zou",
+      "paper_url": "https://openreview.net/pdf?id=RD9q5vEe1Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Z4s73sJYQM",
+      "paper_id": "Z4s73sJYQM",
+      "title": "Evolve Smoothly, Fit Consistently: Learning Smooth Latent Dynamics For Advection-Dominated Systems",
+      "authors": "Zhong Yi Wan, Leonardo Zepeda-Nunez, Anudhyan Boral, Fei Sha",
+      "paper_url": "https://openreview.net/pdf/fc201e7d56b972a927ba9abff6846d2e611de461.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_P07dq7iSAGr",
+      "paper_id": "P07dq7iSAGr",
+      "title": "Explaining Point Processes by Learning Interpretable Temporal Logic Rules",
+      "authors": "Shuang Li, Mingquan Feng, Lu Wang, Abdelmajid Essofi, Yufeng Cao, Junchi Yan, Le Song",
+      "paper_url": "https://openreview.net/pdf/a417bc93488c1842edd3369524cfa9125d192f04.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_qDdSRaOiyb",
+      "paper_id": "qDdSRaOiyb",
+      "title": "Explaining Time Series via Contrastive and Locally Sparse Perturbations",
+      "authors": "Zichuan Liu, Yingying ZHANG, Tianchun Wang, Zefan Wang, Dongsheng Luo, Mengnan Du, Min Wu, Yi Wang, Chunlin Chen, Lunting Fan, Qingsong Wen",
+      "paper_url": "https://openreview.net/pdf?id=qDdSRaOiyb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_tmIiMPl4IPa",
+      "paper_id": "tmIiMPl4IPa",
+      "title": "Factorized Fourier Neural Operators",
+      "authors": "Alasdair Tran, Alexander Mathews, Lexing Xie, Cheng Soon Ong",
+      "paper_url": "https://openreview.net/pdf/c381fdf1b7600bdbaba7b4a98c1679006ec61c83.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_I0n3EyogMi",
+      "paper_id": "I0n3EyogMi",
+      "title": "Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage",
+      "authors": "Ying-yee Ava Lau, Zhiwen Shao, Dit-Yan Yeung",
+      "paper_url": "https://openreview.net/pdf?id=I0n3EyogMi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cmfyMV45XO",
+      "paper_id": "cmfyMV45XO",
+      "title": "Feedback Favors the Generalization of Neural ODEs",
+      "authors": "Jindou Jia, Zihan Yang, Meng Wang, Kexin Guo, Jianfei Yang, Xiang Yu, Lei Guo",
+      "paper_url": "https://openreview.net/pdf?id=cmfyMV45XO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VsxbWTDHjh",
+      "paper_id": "VsxbWTDHjh",
+      "title": "Fengbo: a Clifford Neural Operator pipeline for 3D PDEs in Computational Fluid Dynamics",
+      "authors": "Alberto Pepe, Mattia Montanari, Joan Lasenby",
+      "paper_url": "https://openreview.net/pdf?id=VsxbWTDHjh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_kOu3-S3wJ7",
+      "paper_id": "kOu3-S3wJ7",
+      "title": "Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks",
+      "authors": "Andrea Cini, Ivan Marisca, Cesare Alippi",
+      "paper_url": "https://openreview.net/pdf/227091a9cda893265aa46e20fcf42675d01a8158.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_tLScKVhcCR",
+      "paper_id": "tLScKVhcCR",
+      "title": "FINDE: Neural Differential Equations for Finding and Preserving Invariant Quantities",
+      "authors": "Takashi Matsubara, Takaharu Yaguchi",
+      "paper_url": "https://openreview.net/pdf/29b6bd029ab884b3018dc43a9a3a6cfecbd66e53.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_bWcnvZ3qMb",
+      "paper_id": "bWcnvZ3qMb",
+      "title": "FITS: Modeling Time Series with $10k$ Parameters",
+      "authors": "Zhijian Xu, Ailing Zeng, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=bWcnvZ3qMb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uxVBbSlKQ4",
+      "paper_id": "uxVBbSlKQ4",
+      "title": "Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting",
+      "authors": "Marcel Kollovieh, Marten Lienen, David Lüdke, Leo Schwinn, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=uxVBbSlKQ4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lfPkGWXLLf",
+      "paper_id": "lfPkGWXLLf",
+      "title": "ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities",
+      "authors": "Ezra Karger, Houtan Bastani, Chen Yueh-Han, Zachary Jacobs, Danny Halawi, Fred Zhang, Philip Tetlock",
+      "paper_url": "https://openreview.net/pdf?id=lfPkGWXLLf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_c8P9NQVtmnO",
+      "paper_id": "c8P9NQVtmnO",
+      "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+      "authors": "Zongyi Li, Nikola Borislavov Kovachki, Kamyar Azizzadenesheli, Burigede liu, Kaushik Bhattacharya, Andrew Stuart, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf/53c47f849d1cd4d21b865caf7d774e07a5c42aa4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_4A9IdSa1ul",
+      "paper_id": "4A9IdSa1ul",
+      "title": "FreDF: Learning to Forecast in the Frequency Domain",
+      "authors": "Hao Wang, Lichen Pan, Yuan Shen, Zhichao Chen, Degui Yang, Yifei Yang, Sen Zhang, Xinggao Liu, Haoxuan Li, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=4A9IdSa1ul",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ZhlwoC1XaN",
+      "paper_id": "ZhlwoC1XaN",
+      "title": "From Zero to Turbulence: Generative Modeling for 3D Flow Simulation",
+      "authors": "Marten Lienen, David Lüdke, Jan Hansen-Palmus, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf?id=ZhlwoC1XaN",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_c56TWtYp0W",
+      "paper_id": "c56TWtYp0W",
+      "title": "GAFormer: Enhancing Timeseries Transformers Through Group-Aware Embeddings",
+      "authors": "Jingyun Xiao, Ran Liu, Eva L Dyer",
+      "paper_url": "https://openreview.net/pdf?id=c56TWtYp0W",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eNjXcP6C0H",
+      "paper_id": "eNjXcP6C0H",
+      "title": "Generating Physical Dynamics under Priors",
+      "authors": "Zihan Zhou, Xiaoxue Wang, Tianshu Yu",
+      "paper_url": "https://openreview.net/pdf?id=eNjXcP6C0H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_CdjnzWsQax",
+      "paper_id": "CdjnzWsQax",
+      "title": "Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns",
+      "authors": "Hongbin Huang, Minghua Chen, Xiao Qiao",
+      "paper_url": "https://openreview.net/pdf?id=CdjnzWsQax",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_eY7sLb0dVF",
+      "paper_id": "eY7sLb0dVF",
+      "title": "Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs",
+      "authors": "Ilan Naiman, N. Benjamin Erichson, Pu Ren, Michael W. Mahoney, Omri Azencot",
+      "paper_url": "https://openreview.net/pdf?id=eY7sLb0dVF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ja4rpheN2n",
+      "paper_id": "ja4rpheN2n",
+      "title": "GeSubNet: Gene Interaction Inference for Disease Subtype Network Generation",
+      "authors": "Ziwei Yang, Zheng Chen, Xin Liu, Rikuto Kotoge, Peng Chen, Yasuko Matsubara, Yasushi Sakurai, Jimeng Sun",
+      "paper_url": "https://openreview.net/pdf?id=ja4rpheN2n",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AoraWUmpLU",
+      "paper_id": "AoraWUmpLU",
+      "title": "Global Convergence in Neural ODEs: Impact of Activation Functions",
+      "authors": "Tianxiang Gao, Siyuan Sun, Hailiang Liu, Hongyang Gao",
+      "paper_url": "https://openreview.net/pdf?id=AoraWUmpLU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_cUSNs8nGaV",
+      "paper_id": "cUSNs8nGaV",
+      "title": "GlucoBench: Curated List of Continuous Glucose Monitoring Datasets with Prediction Benchmarks",
+      "authors": "Renat Sergazinov, Elizabeth Chun, Valeriya Rogovchenko, Nathaniel J Fernandes, Nicholas Kasman, Irina Gaynanova",
+      "paper_url": "https://openreview.net/pdf?id=cUSNs8nGaV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_giit4HdDNa",
+      "paper_id": "giit4HdDNa",
+      "title": "Go with the flow: Adaptive control for Neural ODEs",
+      "authors": "Mathieu Chalvidal, Matthew Ricci, Rufin VanRullen, Thomas Serre",
+      "paper_url": "https://openreview.net/pdf/8dc540aca5360588117ac82153292b6a2d2f4897.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_XQlccqJpCC",
+      "paper_id": "XQlccqJpCC",
+      "title": "Going Beyond Static: Understanding Shifts with Time-Series Attribution",
+      "authors": "Jiashuo Liu, Nabeel Seedat, Peng Cui, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=XQlccqJpCC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_45L_dgP48Vd",
+      "paper_id": "45L_dgP48Vd",
+      "title": "Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series",
+      "authors": "Enyan Dai, Jie Chen",
+      "paper_url": "https://openreview.net/pdf/b66a4e577ef3e2caf4cb8c17ee02ca6b15eaca26.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_CAqdG2dy5s",
+      "paper_id": "CAqdG2dy5s",
+      "title": "Graph-based Virtual Sensing from Sparse and Partial Multivariate Observations",
+      "authors": "Giovanni De Felice, Andrea Cini, Daniele Zambon, Vladimir Gusev, Cesare Alippi",
+      "paper_url": "https://openreview.net/pdf?id=CAqdG2dy5s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Kwm8I7dU-l5",
+      "paper_id": "Kwm8I7dU-l5",
+      "title": "Graph-Guided Network for Irregularly Sampled Multivariate Time Series",
+      "authors": "Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik",
+      "paper_url": "https://openreview.net/pdf/6486d4fdf5e5db05e22c8ecd34aaab8401569f24.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Fur0DtynPX",
+      "paper_id": "Fur0DtynPX",
+      "title": "GridMix: Exploring Spatial Modulation for Neural Fields in PDE Modeling",
+      "authors": "Honghui Wang, Shiji Song, Gao Huang",
+      "paper_url": "https://openreview.net/pdf?id=Fur0DtynPX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_A4eCzSohhx",
+      "paper_id": "A4eCzSohhx",
+      "title": "Grounding Continuous Representations in Geometry: Equivariant Neural Fields",
+      "authors": "David Wessels, David M Knigge, Riccardo Valperga, Samuele Papa, Sharvaree Vadgama, Efstratios Gavves, Erik J Bekkers",
+      "paper_url": "https://openreview.net/pdf?id=A4eCzSohhx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_jsZsEd8VEY",
+      "paper_id": "jsZsEd8VEY",
+      "title": "Grounding Graph Network Simulators using Physical Sensor Observations",
+      "authors": "Jonas Linkerhägner, Niklas Freymuth, Paul Maria Scheikl, Franziska Mathis-Ullrich, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf/6cc29c715bf3520566713c94c35e439f84a99f80.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_gfWNItGOES6",
+      "paper_id": "gfWNItGOES6",
+      "title": "Guiding continuous operator learning through Physics-based boundary constraints",
+      "authors": "Nadim Saad, Gaurav Gupta, Shima Alizadeh, Danielle C. Maddix",
+      "paper_url": "https://openreview.net/pdf/22e595c8defe365743f6349da79c0f6b1e7f4099.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_HTx7vrlLBEj",
+      "paper_id": "HTx7vrlLBEj",
+      "title": "Half-Inverse Gradients for Physical Deep Learning",
+      "authors": "Patrick Schnell, Philipp Holl, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf/30d8e38a4f776ba1a0480b58ae7a48fc34a42760.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_Az7opqbQE-3",
+      "paper_id": "Az7opqbQE-3",
+      "title": "Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series",
+      "authors": "Satya Narayan Shukla, Benjamin Marlin",
+      "paper_url": "https://openreview.net/pdf/4a602866528e0ae9511889c65b61991ad9ddfd8b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_ds8yZOUsea",
+      "paper_id": "ds8yZOUsea",
+      "title": "Hidden Parameter Recurrent State Space Models For Changing Dynamics Scenarios",
+      "authors": "Vaisakh Shaj, Dieter Büchler, Rohit Sonker, Philipp Becker, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf/677a627df12a4c559d9876846d7c116f34b2f4cd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Cjz9Xhm7sI",
+      "paper_id": "Cjz9Xhm7sI",
+      "title": "High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation",
+      "authors": "Ziye Wang, Yiran Qin, Lin Zeng, Ruimao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Cjz9Xhm7sI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5AtlfHYCPa",
+      "paper_id": "5AtlfHYCPa",
+      "title": "HR-Extreme: A High-Resolution Dataset for Extreme Weather Forecasting",
+      "authors": "Nian Ran, Peng Xiao, Yue Wang, Wesley Shi, Jianxin Lin, Qi Meng, Richard Allmendinger",
+      "paper_url": "https://openreview.net/pdf?id=5AtlfHYCPa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9kpuB2bgnim",
+      "paper_id": "9kpuB2bgnim",
+      "title": "Huber Additive Models for Non-stationary Time Series Analysis",
+      "authors": "Yingjie Wang, Xianrui Zhong, Fengxiang He, Hong Chen, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf/b179999c2c435d6ce0c920f2fd597bc6b7cfe26e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_OAw6V3ZAhSd",
+      "paper_id": "OAw6V3ZAhSd",
+      "title": "HyperDeepONet: learning operator with complex target function space using the limited resources via hypernetwork",
+      "authors": "Jae Yong Lee, SungWoong CHO, Hyung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/e0f0656145ad8be4800c943a7ba7e7f2504e61a4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_6Pz7afmsOp",
+      "paper_id": "6Pz7afmsOp",
+      "title": "Identification of Intermittent Temporal Latent Process",
+      "authors": "Yuke Li, Yujia Zheng, Guangyi Chen, Kun Zhang, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=6Pz7afmsOp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_d16mJDyQN6",
+      "paper_id": "d16mJDyQN6",
+      "title": "Identifying latent state transitions in non-linear dynamical systems",
+      "authors": "Çağlar Hızlı, Çağatay Yıldız, Matthias Bethge, S. T. John, Pekka Marttinen",
+      "paper_url": "https://openreview.net/pdf?id=d16mJDyQN6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_45NZvF1UHam",
+      "paper_id": "45NZvF1UHam",
+      "title": "Identifying Physical Law of Hamiltonian Systems via Meta-Learning",
+      "authors": "Seungjun Lee, Haesang Yang, Woojae Seong",
+      "paper_url": "https://openreview.net/pdf/258e47b1950abbe8b7433ead4dbc6ec6b2b0a62a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_AbXGwqb5Ht",
+      "paper_id": "AbXGwqb5Ht",
+      "title": "Implicit regularization of deep residual networks towards neural ODEs",
+      "authors": "Pierre Marion, Yu-Han Wu, Michael Eli Sander, Gérard Biau",
+      "paper_url": "https://openreview.net/pdf?id=AbXGwqb5Ht",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_zqkfJA6R1-r",
+      "paper_id": "zqkfJA6R1-r",
+      "title": "Improved Training of Physics-Informed Neural Networks Using Energy-Based Priors: a Study on Electrical Impedance Tomography",
+      "authors": "Akarsh Pokkunuru, Pedram Rooshenas, Thilo Strauss, Anuj Abhishek, Taufiquar Khan",
+      "paper_url": "https://openreview.net/pdf/606fb09bd84f729bc308ee0e859bca508d2d5c14.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_GrpU6dxFmMN",
+      "paper_id": "GrpU6dxFmMN",
+      "title": "Improving the imputation of missing data with Markov Blanket discovery",
+      "authors": "Yang Liu, Anthony Constantinou",
+      "paper_url": "https://openreview.net/pdf/7bf098b7b54ff407868c63742432a4d2d4e5a691.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_D1Y2XFgsPI",
+      "paper_id": "D1Y2XFgsPI",
+      "title": "Imputation for prediction: beware of diminishing returns.",
+      "authors": "Marine Le Morvan, Gael Varoquaux",
+      "paper_url": "https://openreview.net/pdf?id=D1Y2XFgsPI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dCcY2pyNIO",
+      "paper_id": "dCcY2pyNIO",
+      "title": "In-context Time Series Predictor",
+      "authors": "Jiecheng Lu, Yan Sun, Shihao Yang",
+      "paper_url": "https://openreview.net/pdf?id=dCcY2pyNIO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_wta_8Hx2KD",
+      "paper_id": "wta_8Hx2KD",
+      "title": "Incorporating Symmetry into Deep Dynamics Models for Improved Generalization",
+      "authors": "Rui Wang, Robin Walters, Rose Yu",
+      "paper_url": "https://openreview.net/pdf/0baeb937c065c6c783ae239c7722374340b6497e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_xriGRsoAza",
+      "paper_id": "xriGRsoAza",
+      "title": "Inherently Interpretable Time Series Classification via Multiple Instance Learning",
+      "authors": "Joseph Early, Gavin Cheung, Kurt Cutajar, Hanting Xie, Jas Kandola, Niall Twomey",
+      "paper_url": "https://openreview.net/pdf?id=xriGRsoAza",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_nnicaG5xiH",
+      "paper_id": "nnicaG5xiH",
+      "title": "Interpretable Meta-Learning of Physical Systems",
+      "authors": "Matthieu Blanke, Marc Lelarge",
+      "paper_url": "https://openreview.net/pdf?id=nnicaG5xiH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_DEa4JdMWRHp",
+      "paper_id": "DEa4JdMWRHp",
+      "title": "Interpretable Models for Granger Causality Using Self-explaining Neural Networks",
+      "authors": "Ričards Marcinkevičs, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/9adb4d4523a376d9afeece07cffb8e319f8cc687.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_aFWUY3E7ws",
+      "paper_id": "aFWUY3E7ws",
+      "title": "Interpretable Sparse System Identification: Beyond Recent Deep Learning Techniques on Time-Series Prediction",
+      "authors": "Xiaoyi Liu, Duxin Chen, Wenjia Wei, Xia Zhu, Wenwu Yu",
+      "paper_url": "https://openreview.net/pdf?id=aFWUY3E7ws",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EWTFMkTdkT",
+      "paper_id": "EWTFMkTdkT",
+      "title": "Invariance-based Learning of Latent Dynamics",
+      "authors": "Kai Lagemann, Christian Lagemann, Sach Mukherjee",
+      "paper_url": "https://openreview.net/pdf?id=EWTFMkTdkT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_yC2waD70Vj",
+      "paper_id": "yC2waD70Vj",
+      "title": "Inverse Approximation Theory for Nonlinear Recurrent Neural Networks",
+      "authors": "Shida Wang, Zhong Li, Qianxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=yC2waD70Vj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_a9vey6B54y",
+      "paper_id": "a9vey6B54y",
+      "title": "Investigating Pattern Neurons in Urban Time Series Forecasting",
+      "authors": "Chengxin Wang, Yiran Zhao, Shaofeng Cai, Gary Tan",
+      "paper_url": "https://openreview.net/pdf?id=a9vey6B54y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_JePfAI8fah",
+      "paper_id": "JePfAI8fah",
+      "title": "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting",
+      "authors": "Yong Liu, Tengge Hu, Haoran Zhang, Haixu Wu, Shiyu Wang, Lintao Ma, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf?id=JePfAI8fah",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZzmKEpze8e",
+      "paper_id": "ZzmKEpze8e",
+      "title": "Kalman Filter for Online Classification of Non-Stationary Data",
+      "authors": "Michalis Titsias, Alexandre Galashov, Amal Rannen-Triki, Razvan Pascanu, Yee Whye Teh, Jorg Bornschein",
+      "paper_url": "https://openreview.net/pdf?id=ZzmKEpze8e",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_oP7arLOWix",
+      "paper_id": "oP7arLOWix",
+      "title": "Kernel-based Optimally Weighted Conformal Time-Series Prediction",
+      "authors": "Jonghyeok Lee, Chen Xu, Yao Xie",
+      "paper_url": "https://openreview.net/pdf?id=oP7arLOWix",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mkjKqeBXkt",
+      "paper_id": "mkjKqeBXkt",
+      "title": "KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy",
+      "authors": "Qianxiong Xu, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, zhishuai Li",
+      "paper_url": "https://openreview.net/pdf?id=mkjKqeBXkt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5oSUgTzs8Y",
+      "paper_id": "5oSUgTzs8Y",
+      "title": "KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Process for Time Series Forecasting",
+      "authors": "Ronghua Zheng, Hanru Bai, Weiyang Ding",
+      "paper_url": "https://openreview.net/pdf?id=5oSUgTzs8Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kUmdmHxK5N",
+      "paper_id": "kUmdmHxK5N",
+      "title": "Koopman Neural Operator Forecaster for Time-series with Temporal Distributional Shifts",
+      "authors": "Rui Wang, Yihe Dong, Sercan O Arik, Rose Yu",
+      "paper_url": "https://openreview.net/pdf/d87b4c4afa8afd01a326ff318affa6be941bc7f1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_4TSiOTkKe5P",
+      "paper_id": "4TSiOTkKe5P",
+      "title": "Latent Convergent Cross Mapping",
+      "authors": "Edward De Brouwer, Adam Arany, Jaak Simm, Yves Moreau",
+      "paper_url": "https://openreview.net/pdf/973e4e487f91472cfee202c1353ca7932b83a942.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_moIlFZfj_1b",
+      "paper_id": "moIlFZfj_1b",
+      "title": "Latent Neural ODEs with Sparse Bayesian Multiple Shooting",
+      "authors": "Valerii Iakovlev, Cagatay Yildiz, Markus Heinonen, Harri Lähdesmäki",
+      "paper_url": "https://openreview.net/pdf/071adbc58872effe03fcbbb9ee55c07fab778bd9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_bTMMNT7IdW",
+      "paper_id": "bTMMNT7IdW",
+      "title": "Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time",
+      "authors": "QIUHAO Zeng, Changjian Shui, Long-Kai Huang, Peng Liu, Xi Chen, Charles Ling, Boyu Wang",
+      "paper_url": "https://openreview.net/pdf?id=bTMMNT7IdW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_urcEYsZOBz",
+      "paper_id": "urcEYsZOBz",
+      "title": "Latent-EnSF: A Latent Ensemble Score Filter for High-Dimensional Data Assimilation with Sparse Observation Data",
+      "authors": "Phillip Si, Peng Chen",
+      "paper_url": "https://openreview.net/pdf?id=urcEYsZOBz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8TBGdH3t6a",
+      "paper_id": "8TBGdH3t6a",
+      "title": "Learn hybrid prototypes for multivariate time series anomaly detection",
+      "authors": "Ke-Yuan Shen",
+      "paper_url": "https://openreview.net/pdf?id=8TBGdH3t6a",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_msRBojTz-Nh",
+      "paper_id": "msRBojTz-Nh",
+      "title": "Learned Simulators for Turbulence",
+      "authors": "Kim Stachenfeld, Drummond Buschman Fielding, Dmitrii Kochkov, Miles Cranmer, Tobias Pfaff, Jonathan Godwin, Can Cui, Shirley Ho, Peter Battaglia, Alvaro Sanchez-Gonzalez",
+      "paper_url": "https://openreview.net/pdf/a5285382bfece0e469683d88f7053a50f45acb4e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_jqVj8vCQsT",
+      "paper_id": "jqVj8vCQsT",
+      "title": "Learning a Neural Solver for Parametric PDEs to Enhance Physics-Informed Methods",
+      "authors": "Lise Le Boudec, Emmanuel de Bezenac, Louis Serrano, Ramon Daniel Regueiro-Espino, Yuan Yin, Patrick Gallinari",
+      "paper_url": "https://openreview.net/pdf?id=jqVj8vCQsT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_-gfhS00XfKj",
+      "paper_id": "-gfhS00XfKj",
+      "title": "Learning advanced mathematical computations from examples",
+      "authors": "Francois Charton, Amaury Hayat, Guillaume Lample",
+      "paper_url": "https://openreview.net/pdf/fc6de8bba436a4a56d0914d23d125bfb2eb84682.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_3ILxkQ7yElm",
+      "paper_id": "3ILxkQ7yElm",
+      "title": "Learning Continuous Environment Fields via Implicit Functions",
+      "authors": "Xueting Li, Shalini De Mello, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz, Sifei Liu",
+      "paper_url": "https://openreview.net/pdf/bb9cdfc2e84adef6cb9610f21715cf048acaeaa4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_aUX5Plaq7Oy",
+      "paper_id": "aUX5Plaq7Oy",
+      "title": "Learning continuous-time PDEs from sparse data with graph neural networks",
+      "authors": "Valerii Iakovlev, Markus Heinonen, Harri Lähdesmäki",
+      "paper_url": "https://openreview.net/pdf/65985773a2d3e7c1e7d121a48729c30c9a007745.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_PbfgkZ2HdbE",
+      "paper_id": "PbfgkZ2HdbE",
+      "title": "Learning Controllable Adaptive Simulation for Multi-resolution Physics",
+      "authors": "Tailin Wu, Takashi Maruyama, Qingqing Zhao, Gordon Wetzstein, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf/6c5914ffbccd510000a84a0f0aad7cb9fdfbf835.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_uKZdlihDDn",
+      "paper_id": "uKZdlihDDn",
+      "title": "Learning Distributions of Complex Fluid Simulations with Diffusion Graph Networks",
+      "authors": "Mario Lino Valencia, Tobias Pfaff, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf?id=uKZdlihDDn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_q-PbpHD3EOk",
+      "paper_id": "q-PbpHD3EOk",
+      "title": "Learning Fast and Slow for Online Time Series Forecasting",
+      "authors": "Quang Pham, Chenghao Liu, Doyen Sahoo, Steven Hoi",
+      "paper_url": "https://openreview.net/pdf/44160e05022c0f1eeba06011cd69f40c1abe57b3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_KUDUoRsEphu",
+      "paper_id": "KUDUoRsEphu",
+      "title": "Learning Incompressible Fluid Dynamics from Scratch - Towards Fast, Differentiable Fluid Models that Generalize",
+      "authors": "Nils Wandel, Michael Weinmann, Reinhard Klein",
+      "paper_url": "https://openreview.net/pdf/a304e46c25faf8b1991a7580669d779b3c3e2cd6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_Vp2OAxMs2s",
+      "paper_id": "Vp2OAxMs2s",
+      "title": "Learning Interpretable Hierarchical Dynamical Systems Models from Time Series Data",
+      "authors": "Manuel Brenner, Elias Weber, Georgia Koppe, Daniel Durstewitz",
+      "paper_url": "https://openreview.net/pdf?id=Vp2OAxMs2s",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_twSnZwiOIm",
+      "paper_id": "twSnZwiOIm",
+      "title": "Learning invariant representations of time-homogeneous stochastic dynamical systems",
+      "authors": "Vladimir R Kostic, Pietro Novelli, Riccardo Grazzi, Karim Lounici, Massimiliano Pontil",
+      "paper_url": "https://openreview.net/pdf?id=twSnZwiOIm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_roNqYL0_XP",
+      "paper_id": "roNqYL0_XP",
+      "title": "Learning Mesh-Based Simulation with Graph Networks",
+      "authors": "Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter Battaglia",
+      "paper_url": "https://openreview.net/pdf/25e22a812f559c7389d64412f32a87195fb7acbb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_kW_zpEmMLdP",
+      "paper_id": "kW_zpEmMLdP",
+      "title": "Learning Neural Event Functions for Ordinary Differential Equations",
+      "authors": "Ricky T. Q. Chen, Brandon Amos, Maximilian Nickel",
+      "paper_url": "https://openreview.net/pdf/8a62ee7253a08f9f25eb894551c8d60ab24ab39a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ZMv6zKYYUs",
+      "paper_id": "ZMv6zKYYUs",
+      "title": "Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation.",
+      "authors": "Ashutosh Singh, Ricardo Augusto Borsoi, Deniz Erdogmus, Tales Imbiriba",
+      "paper_url": "https://openreview.net/pdf?id=ZMv6zKYYUs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_37EXtKCOkn",
+      "paper_id": "37EXtKCOkn",
+      "title": "Learning Spatiotemporal Dynamical Systems from Point Process Observations",
+      "authors": "Valerii Iakovlev, Harri Lähdesmäki",
+      "paper_url": "https://openreview.net/pdf?id=37EXtKCOkn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_f2wN4v_2__W",
+      "paper_id": "f2wN4v_2__W",
+      "title": "Learning Symbolic Models for Graph-structured Physical Mechanism",
+      "authors": "Hongzhi Shi, Jingtao Ding, Yufan Cao, quanming yao, Li Liu, Yong Li",
+      "paper_url": "https://openreview.net/pdf/49039ff9dc3318b356a8ed79f748feab42a6990e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_RDlLMjLJXdq",
+      "paper_id": "RDlLMjLJXdq",
+      "title": "Learning Temporally Causal Latent Processes from General Temporal Data",
+      "authors": "Weiran Yao, Yuewen Sun, Alex Ho, Changyin Sun, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf/917054f5da79e94676388fea7fc2c7b9714dd8d9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_HFmAukZ-k-2",
+      "paper_id": "HFmAukZ-k-2",
+      "title": "Learning the Dynamics of Physical Systems from Sparse Observations with Finite Element Networks",
+      "authors": "Marten Lienen, Stephan Günnemann",
+      "paper_url": "https://openreview.net/pdf/ded4dea1523b16ecaee30b3bb0676b5556db6544.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_WS7GuBDFa2",
+      "paper_id": "WS7GuBDFa2",
+      "title": "Learning to Embed Time Series Patches Independently",
+      "authors": "Seunghan Lee, Taeyoung Park, Kibok Lee",
+      "paper_url": "https://openreview.net/pdf?id=WS7GuBDFa2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_wwDg3bbYBIq",
+      "paper_id": "wwDg3bbYBIq",
+      "title": "Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting",
+      "authors": "Hyunwook Lee, Seungmin Jin, Hyeshin Chu, Hongkyu Lim, Sungahn Ko",
+      "paper_url": "https://openreview.net/pdf/3d2d0f8c044b58b34cdb6d2a91fcf86fc3792cae.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_OwpLQrpdwE",
+      "paper_id": "OwpLQrpdwE",
+      "title": "Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels",
+      "authors": "Daning Huang, Hanyang He, John Harlim, Yan Li",
+      "paper_url": "https://openreview.net/pdf?id=OwpLQrpdwE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_nYWqxUwFc3x",
+      "paper_id": "nYWqxUwFc3x",
+      "title": "Learning Vortex Dynamics for Fluid Inference and Prediction",
+      "authors": "Yitong Deng, Hong-Xing Yu, Jiajun Wu, Bo Zhu",
+      "paper_url": "https://openreview.net/pdf/2027a65f6a0320b8b07a33d5d3ff6b1cb6a0580a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Fj7Fzm5lWL",
+      "paper_id": "Fj7Fzm5lWL",
+      "title": "Let's do the time-warp-attend: Learning topological invariants of dynamical systems",
+      "authors": "Noa Moriel, Matt Ricci, Mor Nitzan",
+      "paper_url": "https://openreview.net/pdf?id=Fj7Fzm5lWL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_g4OTKRKfS7R",
+      "paper_id": "g4OTKRKfS7R",
+      "title": "Liquid Structural State-Space Models",
+      "authors": "Ramin Hasani, Mathias Lechner, Tsun-Hsuan Wang, Makram Chahine, Alexander Amini, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf/6140538cbe3bb75e4eaff5d9cdfc39f21f285619.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_KeRwLLwZaw",
+      "paper_id": "KeRwLLwZaw",
+      "title": "Locally Connected Echo State Networks for Time Series Forecasting",
+      "authors": "Filip Matzner, František Mráz",
+      "paper_url": "https://openreview.net/pdf?id=KeRwLLwZaw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2TuUXtLGhT",
+      "paper_id": "2TuUXtLGhT",
+      "title": "Long-Context Linear System Identification",
+      "authors": "Oğuz Kaan Yüksel, Mathieu Even, Nicolas Flammarion",
+      "paper_url": "https://openreview.net/pdf?id=2TuUXtLGhT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ziDFH8TPPK",
+      "paper_id": "ziDFH8TPPK",
+      "title": "Long-Term Typhoon Trajectory Prediction: A Physics-Conditioned Approach Without Reanalysis Data",
+      "authors": "Young-Jae Park, Minseok Seo, Doyi Kim, Hyeri Kim, Sanghoon Choi, Beomkyu Choi, Jeongwon Ryu, Sohee Son, Hae-Gon Jeon, Yeji Choi",
+      "paper_url": "https://openreview.net/pdf?id=ziDFH8TPPK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_fCG75wd39ze",
+      "paper_id": "fCG75wd39ze",
+      "title": "LORD: Lower-Dimensional Embedding of Log-Signature in Neural Rough Differential Equations",
+      "authors": "JAEHOON LEE, Jinsung Jeon, Sheo yon Jhin, Jihyeon Hyeong, Jayoung Kim, Minju Jo, Kook Seungji, Noseong Park",
+      "paper_url": "https://openreview.net/pdf/178b571a9442283c345d20ba2bdda24dab7e0aea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_mhYUBYNoGz",
+      "paper_id": "mhYUBYNoGz",
+      "title": "Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality",
+      "authors": "Yiping Lu, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet",
+      "paper_url": "https://openreview.net/pdf/f419ff83079cd27aae97a07c87ba18f22a355d19.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_blfSjHeFM_e",
+      "paper_id": "blfSjHeFM_e",
+      "title": "MALI: A memory efficient and reverse accurate integrator for Neural ODEs",
+      "authors": "Juntang Zhuang, Nicha C Dvornek, sekhar tatikonda, James s Duncan",
+      "paper_url": "https://openreview.net/pdf/f29cac7ba7ac28fa5acb37e735fd0661765f005e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_hNjCVVm0EQ",
+      "paper_id": "hNjCVVm0EQ",
+      "title": "MamKO: Mamba-based Koopman operator for modeling and predictive control",
+      "authors": "ZHAOYANG LI, Minghao Han, Xunyuan Yin",
+      "paper_url": "https://openreview.net/pdf?id=hNjCVVm0EQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bFHR8hNk4I",
+      "paper_id": "bFHR8hNk4I",
+      "title": "MeshMask: Physics-Based Simulations with Masked Graph Neural Networks",
+      "authors": "Paul Garnier, Vincent Lannelongue, Jonathan Viquerat, Elie Hachem",
+      "paper_url": "https://openreview.net/pdf?id=bFHR8hNk4I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_vSix3HPYKSU",
+      "paper_id": "vSix3HPYKSU",
+      "title": "Message Passing Neural PDE Solvers",
+      "authors": "Johannes Brandstetter, Daniel E. Worrall, Max Welling",
+      "paper_url": "https://openreview.net/pdf/dfb3e9b359e53414eb2852a5ed8ed48038f889c0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_QZfdDpTX1uM",
+      "paper_id": "QZfdDpTX1uM",
+      "title": "Meta Temporal Point Processes",
+      "authors": "Wonho Bae, Mohamed Osama Ahmed, Frederick Tung, Gabriel L. Oliveira",
+      "paper_url": "https://openreview.net/pdf/010e244d35bad1b1979dca9dc65f74e8ce5fa492.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_60TXv9Xif5",
+      "paper_id": "60TXv9Xif5",
+      "title": "Metamizer: A Versatile Neural Optimizer for Fast and Accurate Physics Simulations",
+      "authors": "Nils Wandel, Stefan Schulz, Reinhard Klein",
+      "paper_url": "https://openreview.net/pdf?id=60TXv9Xif5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KrWuDiW4Qm",
+      "paper_id": "KrWuDiW4Qm",
+      "title": "MetaPhysiCa: Improving OOD Robustness in Physics-informed Machine Learning",
+      "authors": "S Chandra Mouli, Muhammad Alam, Bruno Ribeiro",
+      "paper_url": "https://openreview.net/pdf?id=KrWuDiW4Qm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_CZiY6OLktd",
+      "paper_id": "CZiY6OLktd",
+      "title": "MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process",
+      "authors": "Xinyao Fan, Yueying Wu, Chang Xu, Yuhao Huang, Weiqing Liu, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf?id=CZiY6OLktd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ThhQyIruEs",
+      "paper_id": "ThhQyIruEs",
+      "title": "MGCFNN: A Neural MultiGrid Solver with Novel Fourier Neural Network for High Wave Number Helmholtz Equations",
+      "authors": "Yan Xie, Minrui Lv, Chen-Song Zhang",
+      "paper_url": "https://openreview.net/pdf?id=ThhQyIruEs",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8OxL034uEr",
+      "paper_id": "8OxL034uEr",
+      "title": "MgNO: Efficient Parameterization of Linear Operators via Multigrid",
+      "authors": "Juncai He, Xinliang Liu, Jinchao Xu",
+      "paper_url": "https://openreview.net/pdf?id=8OxL034uEr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_zt53IDUR1U",
+      "paper_id": "zt53IDUR1U",
+      "title": "MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting",
+      "authors": "Huiqiang Wang, Jian Peng, Feihu Huang, Jince Wang, Junhui Chen, Yifei Xiao",
+      "paper_url": "https://openreview.net/pdf/6e3044ae6e9494f027b7c011f97efa8f0ed029c0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_vpJMJerXHU",
+      "paper_id": "vpJMJerXHU",
+      "title": "ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis",
+      "authors": "Luo donghao, wang xue",
+      "paper_url": "https://openreview.net/pdf?id=vpJMJerXHU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eWocmTQn7H",
+      "paper_id": "eWocmTQn7H",
+      "title": "Multi-Resolution Decomposable Diffusion Model for Non-Stationary Time Series Anomaly Detection",
+      "authors": "Guojin Zhong, pan wang, Jin Yuan, Zhiyong Li, Long Chen",
+      "paper_url": "https://openreview.net/pdf?id=eWocmTQn7H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_mmjnr0G8ZY",
+      "paper_id": "mmjnr0G8ZY",
+      "title": "Multi-Resolution Diffusion Models for Time Series Forecasting",
+      "authors": "Lifeng Shen, Weiyu Chen, James Kwok",
+      "paper_url": "https://openreview.net/pdf?id=mmjnr0G8ZY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_KtH8W3S_RE",
+      "paper_id": "KtH8W3S_RE",
+      "title": "Multi-resolution modeling of a discrete stochastic process identifies causes of cancer",
+      "authors": "Adam Uri Yaari, Maxwell Sherman, Oliver Clarke Priebe, Po-Ru Loh, Boris Katz, Andrei Barbu, Bonnie Berger",
+      "paper_url": "https://openreview.net/pdf/ef004741f232acac82caf795ea408cbd814a413c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_4c0J6lwQ4_",
+      "paper_id": "4c0J6lwQ4_",
+      "title": "Multi-Time Attention Networks for Irregularly Sampled Time Series",
+      "authors": "Satya Narayan Shukla, Benjamin Marlin",
+      "paper_url": "https://openreview.net/pdf/35e8d4bd3fd59a402e488637f16e0fec9e36706a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_6fuPIe9tbnC",
+      "paper_id": "6fuPIe9tbnC",
+      "title": "Multifactor Sequential Disentanglement via Structured Koopman Autoencoders",
+      "authors": "Nimrod Berman, Ilan Naiman, Omri Azencot",
+      "paper_url": "https://openreview.net/pdf/80996ea72234008065b9f90cd4275bc159fa8565.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_WiGQBFuVRv",
+      "paper_id": "WiGQBFuVRv",
+      "title": "Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows",
+      "authors": "Kashif Rasul, Abdul-Saboor Sheikh, Ingmar Schuster, Urs M Bergmann, Roland Vollgraf",
+      "paper_url": "https://openreview.net/pdf/d83950d8eebdd224b7c8b0eb72ca044ccead7fb6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_rdjeCNUS6TG",
+      "paper_id": "rdjeCNUS6TG",
+      "title": "Multivariate Time-series Imputation with Disentangled Temporal Representations",
+      "authors": "SHUAI LIU, Xiucheng Li, Gao Cong, Yile Chen, YUE JIANG",
+      "paper_url": "https://openreview.net/pdf/7c6584c4824cce684dda0337c35779e83ed93b78.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_8vzMLo8LDN",
+      "paper_id": "8vzMLo8LDN",
+      "title": "Neural Context Flows for Meta-Learning of Dynamical Systems",
+      "authors": "Roussel Desmond Nzoyem, David A.W. Barton, Tom Deakin",
+      "paper_url": "https://openreview.net/pdf?id=8vzMLo8LDN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Q1jmmQz72M2",
+      "paper_id": "Q1jmmQz72M2",
+      "title": "Neural Delay Differential Equations",
+      "authors": "Qunxi Zhu, Yao Guo, Wei Lin",
+      "paper_url": "https://openreview.net/pdf/39dbf04903dd5453991dacd8dcb2333de44b3a6e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_JFKR3WqwyXR",
+      "paper_id": "JFKR3WqwyXR",
+      "title": "Neural Jump Ordinary Differential Equations: Consistent Continuous-Time Prediction and Filtering",
+      "authors": "Calypso Herrera, Florian Krach, Josef Teichmann",
+      "paper_url": "https://openreview.net/pdf/56667371832a16b261e1e17afd3b1d2f6e9bfb0e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_27acGyyI1BY",
+      "paper_id": "27acGyyI1BY",
+      "title": "Neural ODE Processes",
+      "authors": "Alexander Norcliffe, Cristian Bodnar, Ben Day, Jacob Moss, Pietro Liò",
+      "paper_url": "https://openreview.net/pdf/cd93774612deb1de0bb3d59b6ecfd4411fbac85f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_XQQA6-So14",
+      "paper_id": "XQQA6-So14",
+      "title": "Neural Spatio-Temporal Point Processes",
+      "authors": "Ricky T. Q. Chen, Brandon Amos, Maximilian Nickel",
+      "paper_url": "https://openreview.net/pdf/668da7eb2c6955f36c010d76bb62d8a0cea81a06.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_kbeX97jExm",
+      "paper_id": "kbeX97jExm",
+      "title": "Neural Wave Equation for Irregularly Sampled Sequence Data",
+      "authors": "Arkaprava Majumdar, M Anand Krishna, P. K. Srijith",
+      "paper_url": "https://openreview.net/pdf?id=kbeX97jExm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_QubsmJT_A0",
+      "paper_id": "QubsmJT_A0",
+      "title": "Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity",
+      "authors": "Deniz Oktay, Mehran Mirramezani, Eder Medina, Ryan P Adams",
+      "paper_url": "https://openreview.net/pdf/04faa9edbfcb1a55394ac2bf8a342b32638ba5a2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kbm6tsICar",
+      "paper_id": "kbm6tsICar",
+      "title": "No Equations Needed: Learning System Dynamics Without Relying on Closed-Form ODEs",
+      "authors": "Krzysztof Kacprzyk, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=kbm6tsICar",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_d2TT6gK9qZn",
+      "paper_id": "d2TT6gK9qZn",
+      "title": "Non-Linear Operator Approximations for Initial Value Problems",
+      "authors": "Gaurav Gupta, Xiongye Xiao, Radu Balan, Paul Bogdan",
+      "paper_url": "https://openreview.net/pdf/64034193e19bb69648d9e3ed9301e225d08d08fe.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_CrfhZAsJDsZ",
+      "paper_id": "CrfhZAsJDsZ",
+      "title": "Nonlinear Reconstruction for Operator Learning of PDEs with Discontinuities",
+      "authors": "Samuel Lanthaler, Roberto Molinaro, Patrik Hadorn, Siddhartha Mishra",
+      "paper_url": "https://openreview.net/pdf/995dfba9492244e0ce9642782af6ec9a55816279.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_B5VvQrI49Pa",
+      "paper_id": "B5VvQrI49Pa",
+      "title": "Nonseparable Symplectic Neural Networks",
+      "authors": "Shiying Xiong, Yunjin Tong, Xingzhe He, Shuqi Yang, Cheng Yang, Bo Zhu",
+      "paper_url": "https://openreview.net/pdf/c9ab2e0778f4de8dcfb0a34ffd1c09aa50ceb3b8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_sLdVl0q68X",
+      "paper_id": "sLdVl0q68X",
+      "title": "NuwaDynamics: Discovering and Updating in Causal Spatio-Temporal Modeling",
+      "authors": "Kun Wang, Hao Wu, Yifan Duan, Guibin Zhang, Kai Wang, Xiaojiang Peng, Yu Zheng, Yuxuan Liang, Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=sLdVl0q68X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_PDYs7Z2XFGv",
+      "paper_id": "PDYs7Z2XFGv",
+      "title": "Omni-Scale CNNs: a simple and effective kernel size configuration for time series classification",
+      "authors": "Wensi Tang, Guodong Long, Lu Liu, Tianyi Zhou, Michael Blumenstein, Jing Jiang",
+      "paper_url": "https://openreview.net/pdf/bc236de1c9c7e988f2851ff83b8062b23a50547c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_9HZtP6I5lv",
+      "paper_id": "9HZtP6I5lv",
+      "title": "OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation",
+      "authors": "Yuchen Lin, Chenguo Lin, Jianjin Xu, Yadong MU",
+      "paper_url": "https://openreview.net/pdf?id=9HZtP6I5lv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_lR3rk7ysXz",
+      "paper_id": "lR3rk7ysXz",
+      "title": "On Diffusion Modeling for Anomaly Detection",
+      "authors": "Victor Livernoche, Vineet Jain, Yashar Hezaveh, Siamak Ravanbakhsh",
+      "paper_url": "https://openreview.net/pdf?id=lR3rk7ysXz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_o9kqa5K3tB",
+      "paper_id": "o9kqa5K3tB",
+      "title": "On the Benefits of Memory for Modeling Time-Dependent PDEs",
+      "authors": "Ricardo Buitrago, Tanya Marwah, Albert Gu, Andrej Risteski",
+      "paper_url": "https://openreview.net/pdf?id=o9kqa5K3tB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kILAd8RdzA",
+      "paper_id": "kILAd8RdzA",
+      "title": "On the Generalization and Approximation Capacities of Neural Controlled Differential Equations",
+      "authors": "Linus Bleistein, Agathe Guilloux",
+      "paper_url": "https://openreview.net/pdf?id=kILAd8RdzA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_A23C57icJt",
+      "paper_id": "A23C57icJt",
+      "title": "Open-CK: A Large Multi-Physics Fields Coupling benchmarks in Combustion Kinetics",
+      "authors": "Zaige Fei, Fan Xu, Junyuan Mao, Yuxuan Liang, Qingsong Wen, Kun Wang, Hao Wu, Yang Wang",
+      "paper_url": "https://openreview.net/pdf?id=A23C57icJt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xPTzjpIQNp",
+      "paper_id": "xPTzjpIQNp",
+      "title": "Optimal Transport for Time Series Imputation",
+      "authors": "Hao Wang, zhengnan li, Haoxuan Li, Xu Chen, Mingming Gong, BinChen, Zhichao Chen",
+      "paper_url": "https://openreview.net/pdf?id=xPTzjpIQNp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GRMfXcAAFh",
+      "paper_id": "GRMfXcAAFh",
+      "title": "Oscillatory State-Space Models",
+      "authors": "T. Konstantin Rusch, Daniela Rus",
+      "paper_url": "https://openreview.net/pdf?id=GRMfXcAAFh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_gUZWOE42l6Q",
+      "paper_id": "gUZWOE42l6Q",
+      "title": "Out-of-distribution Representation Learning for Time Series Classification",
+      "authors": "Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, Xing Xie",
+      "paper_url": "https://openreview.net/pdf/d789366a598458e3e64dd117350163e00c1c54d1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EIPLdFy3vp",
+      "paper_id": "EIPLdFy3vp",
+      "title": "Parametric Augmentation for Time Series Contrastive Learning",
+      "authors": "Xu Zheng, Tianchun Wang, Wei Cheng, Aitian Ma, Haifeng Chen, Mo Sha, Dongsheng Luo",
+      "paper_url": "https://openreview.net/pdf?id=EIPLdFy3vp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_lJkOCMP2aW",
+      "paper_id": "lJkOCMP2aW",
+      "title": "Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting",
+      "authors": "Peng Chen, Yingying ZHANG, Yunyao Cheng, Yang Shu, Yihang Wang, Qingsong Wen, Bin Yang, Chenjuan Guo",
+      "paper_url": "https://openreview.net/pdf?id=lJkOCMP2aW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_vLaHRtHvfFp",
+      "paper_id": "vLaHRtHvfFp",
+      "title": "PDE-Driven Spatiotemporal Disentanglement",
+      "authors": "Jérémie Donà, Jean-Yves Franceschi, sylvain lamprier, patrick gallinari",
+      "paper_url": "https://openreview.net/pdf/8fa879c43fc60a3ebca7377ceeb7bef505d19d0c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_dp27P5HBBt",
+      "paper_id": "dp27P5HBBt",
+      "title": "Periodicity Decoupling Framework for Long-term Series Forecasting",
+      "authors": "Tao Dai, Beiliang Wu, Peiyuan Liu, Naiqi Li, Jigang Bao, Yong Jiang, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf?id=dp27P5HBBt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_z9C5dGip90",
+      "paper_id": "z9C5dGip90",
+      "title": "Phase2vec: dynamical systems embedding with a physics-informed convolutional network",
+      "authors": "Matt Ricci, Noa Moriel, Zoe Piran, Mor Nitzan",
+      "paper_url": "https://openreview.net/pdf/be58512bd70dfcd1702f2a09b66d60dfce307f20.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_fU8H4lzkIm",
+      "paper_id": "fU8H4lzkIm",
+      "title": "PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems",
+      "authors": "Bocheng Zeng, Qi Wang, Mengtao Yan, Yang Liu, Ruizhi Chengze, Yi Zhang, Hongsheng Liu, Zidong Wang, Hao Sun",
+      "paper_url": "https://openreview.net/pdf?id=fU8H4lzkIm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_vyY0jnWG-tK",
+      "paper_id": "vyY0jnWG-tK",
+      "title": "Physics-aware, probabilistic model order reduction with guaranteed stability",
+      "authors": "Sebastian Kaltenbach, Phaedon Stelios Koutsourelakis",
+      "paper_url": "https://openreview.net/pdf/0dbc13eb90ca0605840fb7ee708d76db95df9cbd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_0FxnSZJPmh",
+      "paper_id": "0FxnSZJPmh",
+      "title": "Physics-Informed Deep Inverse Operator Networks for Solving PDE Inverse Problems",
+      "authors": "Sung Woong Cho, Hwijae Son",
+      "paper_url": "https://openreview.net/pdf?id=0FxnSZJPmh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6ouZaBzeNO",
+      "paper_id": "6ouZaBzeNO",
+      "title": "Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time-Series Forecasting Based on Biological ODEs",
+      "authors": "Christian Klötergens, Vijaya Krishna Yalavarthi, Randolf Scholz, Maximilian Stubbemann, Stefan Born, Lars Schmidt-Thieme",
+      "paper_url": "https://openreview.net/pdf?id=6ouZaBzeNO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_G3CpBCQwNh",
+      "paper_id": "G3CpBCQwNh",
+      "title": "PhysPDE: Rethinking PDE Discovery and a Physical Hypothesis Selection Benchmark",
+      "authors": "Mingquan Feng, Yixin Huang, Yizhou Liu, Bofang Jiang, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=G3CpBCQwNh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_w7P92BEsb2",
+      "paper_id": "w7P92BEsb2",
+      "title": "PIED: Physics-Informed Experimental Design for Inverse Problems",
+      "authors": "Apivich Hemachandra, Gregory Kang Ruey Lau, See-Kiong Ng, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=w7P92BEsb2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_y5B0ca4mjt",
+      "paper_id": "y5B0ca4mjt",
+      "title": "PIG: Physics-Informed Gaussians as Adaptive Parametric Mesh Representations",
+      "authors": "Namgyu Kang, Jaemin Oh, Youngjoon Hong, Eunbyung Park",
+      "paper_url": "https://openreview.net/pdf?id=y5B0ca4mjt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Eh1QM3OK51",
+      "paper_id": "Eh1QM3OK51",
+      "title": "PIN: Prolate Spheroidal Wave Function-based Implicit Neural Representations",
+      "authors": "Dhananjaya Jayasundara, Heng Zhao, Demetrio Labate, Vishal M. Patel",
+      "paper_url": "https://openreview.net/pdf?id=Eh1QM3OK51",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DO2WFXU1Be",
+      "paper_id": "DO2WFXU1Be",
+      "title": "PINNsFormer: A Transformer-Based Framework For Physics-Informed Neural Networks",
+      "authors": "Zhiyuan Zhao, Xueying Ding, B. Aditya Prakash",
+      "paper_url": "https://openreview.net/pdf?id=DO2WFXU1Be",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_vAuodZOQEZ",
+      "paper_id": "vAuodZOQEZ",
+      "title": "PINP: Physics-Informed Neural Predictor with latent estimation of fluid flows",
+      "authors": "Huaguan Chen, Yang Liu, Hao Sun",
+      "paper_url": "https://openreview.net/pdf?id=vAuodZOQEZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_U1DjXQeJRx",
+      "paper_id": "U1DjXQeJRx",
+      "title": "Poisson-Dirac Neural Networks for Modeling Coupled Dynamical Systems across Domains",
+      "authors": "Razmik Arman Khosrovian, Takaharu Yaguchi, Hiroaki Yoshimura, Takashi Matsubara",
+      "paper_url": "https://openreview.net/pdf?id=U1DjXQeJRx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_7zwIEbSTDy",
+      "paper_id": "7zwIEbSTDy",
+      "title": "PPT: Patch Order Do Matters In Time Series Pretext Task",
+      "authors": "Jaeho Kim, Kwangryeol Park, Sukmin Yun, Seulki Lee",
+      "paper_url": "https://openreview.net/pdf?id=7zwIEbSTDy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9Fh0z1JmPU",
+      "paper_id": "9Fh0z1JmPU",
+      "title": "PRDP: Progressively Refined Differentiable Physics",
+      "authors": "Kanishk Bhatia, Felix Koehler, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf?id=9Fh0z1JmPU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_XctLdNfCmP",
+      "paper_id": "XctLdNfCmP",
+      "title": "Predicting Physics in Mesh-reduced Space with Temporal Attention",
+      "authors": "XU HAN, Han Gao, Tobias Pfaff, Jian-Xun Wang, Liping Liu",
+      "paper_url": "https://openreview.net/pdf/00dd7d600fb519f519f11d2cc02d0c629f487ece.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_PxRATSTDlS",
+      "paper_id": "PxRATSTDlS",
+      "title": "Predicting the Energy Landscape of Stochastic Dynamical System via  Physics-informed Self-supervised Learning",
+      "authors": "Ruikun Li, Huandong Wang, Qingmin Liao, Yong Li",
+      "paper_url": "https://openreview.net/pdf?id=PxRATSTDlS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_T1XmO8ScKim",
+      "paper_id": "T1XmO8ScKim",
+      "title": "Probabilistic Numeric Convolutional Neural Networks",
+      "authors": "Marc Anton Finzi, Roberto Bondesan, Max Welling",
+      "paper_url": "https://openreview.net/pdf/132819644044c301e530ea14a0a17e7e4d6756d7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_Ix_mh42xq5w",
+      "paper_id": "Ix_mh42xq5w",
+      "title": "PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series",
+      "authors": "Paul Jeha, Michael Bohlke-Schneider, Pedro Mercado, Shubham Kapoor, Rajbir Singh Nirwan, Valentin Flunkert, Jan Gasthaus, Tim Januschowski",
+      "paper_url": "https://openreview.net/pdf/22703570f03d2a1280efaf132cfd17e250dd590c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_0EXmFzUn5I",
+      "paper_id": "0EXmFzUn5I",
+      "title": "Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting",
+      "authors": "Shizhan Liu, Hang Yu, Cong Liao, Jianguo Li, Weiyao Lin, Alex X. Liu, Schahram Dustdar",
+      "paper_url": "https://openreview.net/pdf/2ac159853cd001bbca6a8a12da497c8013914b31.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_yUefexs79U",
+      "paper_id": "yUefexs79U",
+      "title": "Quantitative Approximation for Neural Operators in Nonlinear Parabolic Equations",
+      "authors": "Takashi Furuya, Koichi Taniguchi, Satoshi Okuda",
+      "paper_url": "https://openreview.net/pdf?id=yUefexs79U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Tpjq66xwTq",
+      "paper_id": "Tpjq66xwTq",
+      "title": "Real-time design of architectural structures with differentiable mechanics and neural networks",
+      "authors": "Rafael Pastrana, Eder Medina, Isabel M. de Oliveira, Sigrid Adriaenssens, Ryan P Adams",
+      "paper_url": "https://openreview.net/pdf?id=Tpjq66xwTq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3zQo5oUvia",
+      "paper_id": "3zQo5oUvia",
+      "title": "REBAR: Retrieval-Based Reconstruction for Time-series Contrastive Learning",
+      "authors": "Maxwell Xu, Alexander Moreno, Hui Wei, Benjamin Marlin, James Matthew Rehg",
+      "paper_url": "https://openreview.net/pdf?id=3zQo5oUvia",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_5lgD4vU-l24s",
+      "paper_id": "5lgD4vU-l24s",
+      "title": "Recursive Time Series Data Augmentation",
+      "authors": "Amine Mohamed Aboussalah, Minjae Kwon, Raj G Patel, Cheng Chi, Chi-Guhn Lee",
+      "paper_url": "https://openreview.net/pdf/59b64e2daa15ab42b1105a5c3ae7a533e5612b26.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_KI9NqjLVDT",
+      "paper_id": "KI9NqjLVDT",
+      "title": "ReMasker: Imputing Tabular Data with Masked Autoencoding",
+      "authors": "Tianyu Du, Luca Melis, Ting Wang",
+      "paper_url": "https://openreview.net/pdf?id=KI9NqjLVDT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EHrvRNs2Y0",
+      "paper_id": "EHrvRNs2Y0",
+      "title": "ResFields: Residual Neural Fields for Spatiotemporal Signals",
+      "authors": "Marko Mihajlovic, Sergey Prokudin, Marc Pollefeys, Siyu Tang",
+      "paper_url": "https://openreview.net/pdf?id=EHrvRNs2Y0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_HxzSxSxLOJZ",
+      "paper_id": "HxzSxSxLOJZ",
+      "title": "ResNet After All: Neural ODEs and Their Numerical Solution",
+      "authors": "Katharina Ott, Prateek Katiyar, Philipp Hennig, Michael Tiemann",
+      "paper_url": "https://openreview.net/pdf/b059cce0ad22c05dea6c731336b7fb6d893edab1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_lqTILjL6lP",
+      "paper_id": "lqTILjL6lP",
+      "title": "RESuM: A Rare Event Surrogate Model for  Physics Detector Design",
+      "authors": "Ann-Kathrin Schuetz, A.W.P. Poon, Aobo Li",
+      "paper_url": "https://openreview.net/pdf?id=lqTILjL6lP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_JiTVtCUOpS",
+      "paper_id": "JiTVtCUOpS",
+      "title": "Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators",
+      "authors": "Lifan Zhao, Yanyan Shen",
+      "paper_url": "https://openreview.net/pdf?id=JiTVtCUOpS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_cGDAkQo1C0p",
+      "paper_id": "cGDAkQo1C0p",
+      "title": "Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift",
+      "authors": "Taesung Kim, Jinhee Kim, Yunwon Tae, Cheonbok Park, Jang-Ho Choi, Jaegul Choo",
+      "paper_url": "https://openreview.net/pdf/1d6c993e5092c7d7d1690b7adb1c2ae08d71f9dc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_i_1rbq8yFWC",
+      "paper_id": "i_1rbq8yFWC",
+      "title": "Rhino: Deep Causal Temporal Relationship Learning with History-dependent Noise",
+      "authors": "Wenbo Gong, Joel Jennings, Cheng Zhang, Nick Pawlowski",
+      "paper_url": "https://openreview.net/pdf/fbac1494936fa6cf98eb5c4fb5a71e68dee7d101.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_ctmLBs8lITa",
+      "paper_id": "ctmLBs8lITa",
+      "title": "Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms",
+      "authors": "Linbo Liu, Youngsuk Park, Trong Nghia Hoang, Hilaf Hasson, Luke Huan",
+      "paper_url": "https://openreview.net/pdf/8d7106908729c2d36678b74879e04ee16d9e147b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ltZ9ianMth",
+      "paper_id": "ltZ9ianMth",
+      "title": "RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies",
+      "authors": "Hao Cheng, Qingsong Wen, Yang Liu, Liang Sun",
+      "paper_url": "https://openreview.net/pdf?id=ltZ9ianMth",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_k38Th3x4d9",
+      "paper_id": "k38Th3x4d9",
+      "title": "Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery",
+      "authors": "Xiao Han, Saima Absar, Lu Zhang, Shuhan Yuan",
+      "paper_url": "https://openreview.net/pdf?id=k38Th3x4d9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BkftcwIVmR",
+      "paper_id": "BkftcwIVmR",
+      "title": "S4M: S4 for multivariate time series forecasting with Missing values",
+      "authors": "Peng Jing, Meiqi Yang, Qiong Zhang, Xiaoxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=BkftcwIVmR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_sCrnllCtjoE",
+      "paper_id": "sCrnllCtjoE",
+      "title": "Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting",
+      "authors": "Mohammad Amin Shabani, Amir H. Abdi, Lili Meng, Tristan Sylvain",
+      "paper_url": "https://openreview.net/pdf/614af7ce5f2748b019a31c2016c30250b1c97b9f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_u3dX2CEIZb",
+      "paper_id": "u3dX2CEIZb",
+      "title": "Scaling physics-informed hard constraints with mixture-of-experts",
+      "authors": "Nithin Chalapathi, Yiheng Du, Aditi S. Krishnapriyan",
+      "paper_url": "https://openreview.net/pdf?id=u3dX2CEIZb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_nBCuRzjqK7",
+      "paper_id": "nBCuRzjqK7",
+      "title": "Self-Supervised Contrastive Learning for Long-term Forecasting",
+      "authors": "Junwoo Park, Daehoon Gwak, Jaegul Choo, Edward Choi",
+      "paper_url": "https://openreview.net/pdf?id=nBCuRzjqK7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_DPzQ5n3mNm",
+      "paper_id": "DPzQ5n3mNm",
+      "title": "Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse Problems in Parametric Differential Equations",
+      "authors": "Abdolmehdi Behroozi, Chaopeng Shen, Daniel Kifer",
+      "paper_url": "https://openreview.net/pdf?id=DPzQ5n3mNm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_dx4b7lm8jMM",
+      "paper_id": "dx4b7lm8jMM",
+      "title": "Seq2Tens: An Efficient Representation of Sequences by Low-Rank Tensor Projections",
+      "authors": "Csaba Toth, Patric Bonnier, Harald Oberhauser",
+      "paper_url": "https://openreview.net/pdf/bc313164adf3017b7e94a07aecbd830b43e5c49a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_7C9aRX2nBf2",
+      "paper_id": "7C9aRX2nBf2",
+      "title": "Sequential Latent Variable Models for Few-Shot High-Dimensional Time-Series Forecasting",
+      "authors": "Xiajun Jiang, Ryan Missel, Zhiyuan Li, Linwei Wang",
+      "paper_url": "https://openreview.net/pdf/2a624e3ea737a57633593e32152635c30eaf25d6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_n34taxF0TC",
+      "paper_id": "n34taxF0TC",
+      "title": "Shedding Light on Time Series Classification using Interpretability Gated Networks",
+      "authors": "Yunshi Wen, Tengfei Ma, Ronny Luss, Debarun Bhattacharjya, Achille Fokoue, Anak Agung Julius",
+      "paper_url": "https://openreview.net/pdf?id=n34taxF0TC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_nibeaHUEJx",
+      "paper_id": "nibeaHUEJx",
+      "title": "Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning",
+      "authors": "Berken Utku Demirel, Christian Holz",
+      "paper_url": "https://openreview.net/pdf?id=nibeaHUEJx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Y8KK9kjgIK",
+      "paper_id": "Y8KK9kjgIK",
+      "title": "SigDiffusions: Score-Based Diffusion Models for Time Series via Log-Signature Embeddings",
+      "authors": "Barbora Barancikova, Zhuoyue Huang, Cristopher Salvi",
+      "paper_url": "https://openreview.net/pdf?id=Y8KK9kjgIK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oANkBaVci5",
+      "paper_id": "oANkBaVci5",
+      "title": "SimpleTM: A Simple Baseline for Multivariate Time Series Forecasting",
+      "authors": "Hui Chen, Viet Luong, Lopamudra Mukherjee, Vikas Singh",
+      "paper_url": "https://openreview.net/pdf?id=oANkBaVci5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_LSYhE2hLWG",
+      "paper_id": "LSYhE2hLWG",
+      "title": "SineNet: Learning Temporal Dynamics in Time-Dependent Partial Differential Equations",
+      "authors": "Xuan Zhang, Jacob Helwig, Yuchao Lin, Yaochen Xie, Cong Fu, Stephan Wojtowytsch, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf?id=LSYhE2hLWG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wVADj7yKee",
+      "paper_id": "wVADj7yKee",
+      "title": "SINGER: Stochastic Network Graph Evolving Operator for High Dimensional PDEs",
+      "authors": "Mingquan Feng, Yixin Huang, Weixin Liao, Yuhong Liu, Yizhou Liu, Junchi Yan",
+      "paper_url": "https://openreview.net/pdf?id=wVADj7yKee",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_c-4HSDAWua5",
+      "paper_id": "c-4HSDAWua5",
+      "title": "SketchODE: Learning neural sketch representation in continuous time",
+      "authors": "Ayan Das, Yongxin Yang, Timothy Hospedales, Tao Xiang, Yi-Zhe Song",
+      "paper_url": "https://openreview.net/pdf/9c21c733257184e97d7da6ff51910cd4e914fbb4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_pAsQSWlDUf",
+      "paper_id": "pAsQSWlDUf",
+      "title": "Soft Contrastive Learning for Time Series",
+      "authors": "Seunghan Lee, Taeyoung Park, Kibok Lee",
+      "paper_url": "https://openreview.net/pdf?id=pAsQSWlDUf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5KqveQdXiZ",
+      "paper_id": "5KqveQdXiZ",
+      "title": "Solving Differential Equations with Constrained Learning",
+      "authors": "Viggo Moro, Luiz F. O. Chamon",
+      "paper_url": "https://openreview.net/pdf?id=5KqveQdXiZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_q4AEBLHuA6",
+      "paper_id": "q4AEBLHuA6",
+      "title": "Solving High Frequency and Multi-Scale PDEs with Gaussian Processes",
+      "authors": "Shikai Fang, Madison Cooley, Da Long, Shibo Li, Mike Kirby, Shandian Zhe",
+      "paper_url": "https://openreview.net/pdf?id=q4AEBLHuA6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_4yaFQ7181M",
+      "paper_id": "4yaFQ7181M",
+      "title": "Space and time continuous physics simulation from partial observations",
+      "authors": "Steeven JANNY, Madiha Nadri, Julie Digne, Christian Wolf",
+      "paper_url": "https://openreview.net/pdf?id=4yaFQ7181M",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_qV_M_rhYajc",
+      "paper_id": "qV_M_rhYajc",
+      "title": "Spacetime Representation Learning",
+      "authors": "Marc T. Law, James Lucas",
+      "paper_url": "https://openreview.net/pdf/36cdcef566ad431e1ed53bed1c6ffee73624b56e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_PsIk0kO3hKd",
+      "paper_id": "PsIk0kO3hKd",
+      "title": "Spatio-temporal point processes with deep non-stationary kernels",
+      "authors": "Zheng Dong, Xiuyuan Cheng, Yao Xie",
+      "paper_url": "https://openreview.net/pdf/805a22ec2ddcfcaefd7076337990eb22fe609119.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_92btneN9Wm",
+      "paper_id": "92btneN9Wm",
+      "title": "SPDER: Semiperiodic Damping-Enabled Object Representation",
+      "authors": "Kathan Shah, Chawin Sitawarin",
+      "paper_url": "https://openreview.net/pdf?id=92btneN9Wm",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_MKP1g8wU0P",
+      "paper_id": "MKP1g8wU0P",
+      "title": "Spectral-Refiner: Accurate Fine-Tuning of Spatiotemporal Fourier Neural Operator for Turbulent Flows",
+      "authors": "Shuhao Cao, Francesco Brarda, Ruipeng Li, Yuanzhe Xi",
+      "paper_url": "https://openreview.net/pdf?id=MKP1g8wU0P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_bozbTTWcaw",
+      "paper_id": "bozbTTWcaw",
+      "title": "Stabilizing Backpropagation Through Time to Learn Complex Physics",
+      "authors": "Patrick Schnell, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf?id=bozbTTWcaw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_4VIgNuQ1pY",
+      "paper_id": "4VIgNuQ1pY",
+      "title": "Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data",
+      "authors": "YongKyung Oh, Dongyoung Lim, Sungil Kim",
+      "paper_url": "https://openreview.net/pdf?id=4VIgNuQ1pY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_6iwg437CZs",
+      "paper_id": "6iwg437CZs",
+      "title": "STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction",
+      "authors": "Dennis Wu, Jerry Yao-Chieh Hu, Weijian Li, Bo-Yu Chen, Han Liu",
+      "paper_url": "https://openreview.net/pdf?id=6iwg437CZs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_uVXEKeqJbNa",
+      "paper_id": "uVXEKeqJbNa",
+      "title": "Stiffness-aware neural network for learning Hamiltonian systems",
+      "authors": "SENWEI Liang, Zhongzhan Huang, Hong Zhang",
+      "paper_url": "https://openreview.net/pdf/862118c84d67ec76a2491e8bff7f7d288934bc92.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_ZTK3SefE8_Z",
+      "paper_id": "ZTK3SefE8_Z",
+      "title": "Symbolic Physics Learner: Discovering governing equations via Monte Carlo tree search",
+      "authors": "Fangzheng Sun, Yang Liu, Jian-Xun Wang, Hao Sun",
+      "paper_url": "https://openreview.net/pdf/0c815f206ac64432f9caf1f36b816f9e368dee15.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_HKgRwNhI9R",
+      "paper_id": "HKgRwNhI9R",
+      "title": "Symmetric Basis Convolutions for Learning Lagrangian Fluid Mechanics",
+      "authors": "Rene Winchenbach, Nils Thuerey",
+      "paper_url": "https://openreview.net/pdf?id=HKgRwNhI9R",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23__8mS2NE-HXN",
+      "paper_id": "_8mS2NE-HXN",
+      "title": "SYNC: SAFETY-AWARE NEURAL CONTROL FOR STABILIZING STOCHASTIC DELAY-DIFFERENTIAL EQUATIONS",
+      "authors": "Jingdong Zhang, Qunxi Zhu, Wei Yang, Wei Lin",
+      "paper_url": "https://openreview.net/pdf/4002b61654096398083b7b7f6d86d31e6170b185.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_3y2TfP966N",
+      "paper_id": "3y2TfP966N",
+      "title": "T-Rep: Representation Learning for Time Series using Time-Embeddings",
+      "authors": "Archibald Felix Fraikin, Adrien Bennetot, Stephanie Allassonniere",
+      "paper_url": "https://openreview.net/pdf?id=3y2TfP966N",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_U4uFaLyg7PV",
+      "paper_id": "U4uFaLyg7PV",
+      "title": "T-WaveNet: A Tree-Structured Wavelet Neural Network for Time Series Signal Analysis",
+      "authors": "Minhao LIU, Ailing Zeng, Qiuxia LAI, Ruiyuan Gao, Min Li, Jing Qin, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf/c527f1cebdb3737b281ff65a78f914a97d634bad.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_xtOydkE1Ku",
+      "paper_id": "xtOydkE1Ku",
+      "title": "TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series",
+      "authors": "Arjun Ashok, Étienne Marcotte, Valentina Zantedeschi, Nicolas Chapados, Alexandre Drouin",
+      "paper_url": "https://openreview.net/pdf?id=xtOydkE1Ku",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_wv6g8fWLX2q",
+      "paper_id": "wv6g8fWLX2q",
+      "title": "TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting",
+      "authors": "Yuzhou Chen, Ignacio Segovia-Dominguez, Baris Coskunuzer, Yulia Gel",
+      "paper_url": "https://openreview.net/pdf/7e6227c594fe1f760bcc5ecab60120d7439ba995.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_YH5w12OUuU",
+      "paper_id": "YH5w12OUuU",
+      "title": "TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting",
+      "authors": "Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, Wen Ye, Yan Liu",
+      "paper_url": "https://openreview.net/pdf?id=YH5w12OUuU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_C0q9oBc3n4",
+      "paper_id": "C0q9oBc3n4",
+      "title": "Temporal Dependencies in Feature Importance for Time Series Prediction",
+      "authors": "Kin Kwan Leung, Clayton Rooke, Jonathan Smith, Saba Zuberi, Maksims Volkovs",
+      "paper_url": "https://openreview.net/pdf/0f72b3a91d343251112a9846581eefec130b00b6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_sWOsRj4nT1n",
+      "paper_id": "sWOsRj4nT1n",
+      "title": "Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks",
+      "authors": "Guangji Bai, Chen Ling, Liang Zhao",
+      "paper_url": "https://openreview.net/pdf/5951cadc6186425d767a2acdd1f92bd01ab49268.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Tuh4nZVb0g",
+      "paper_id": "Tuh4nZVb0g",
+      "title": "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series",
+      "authors": "Chenxi Sun, Hongyan Li, Yaliang Li, Shenda Hong",
+      "paper_url": "https://openreview.net/pdf?id=Tuh4nZVb0g",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Nb3a8aUGfj",
+      "paper_id": "Nb3a8aUGfj",
+      "title": "Text2PDE: Latent Diffusion Models for Accessible Physics Simulation",
+      "authors": "Anthony Zhou, Zijie Li, Michael Schneier, John R Buchanan Jr, Amir Barati Farimani",
+      "paper_url": "https://openreview.net/pdf?id=Nb3a8aUGfj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Unb5CVPtae",
+      "paper_id": "Unb5CVPtae",
+      "title": "Time-LLM: Time Series Forecasting by Reprogramming Large Language Models",
+      "authors": "Ming Jin, Shiyu Wang, Lintao Ma, Zhixuan Chu, James Y. Zhang, Xiaoming Shi, Pin-Yu Chen, Yuxuan Liang, Yuan-Fang Li, Shirui Pan, Qingsong Wen",
+      "paper_url": "https://openreview.net/pdf?id=Unb5CVPtae",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_e1wDDFmlVu",
+      "paper_id": "e1wDDFmlVu",
+      "title": "Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts",
+      "authors": "Xiaoming Shi, Shiyu Wang, Yuqi Nie, Dianqi Li, Zhou Ye, Qingsong Wen, Ming Jin",
+      "paper_url": "https://openreview.net/pdf?id=e1wDDFmlVu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Vz0CWFMPUe",
+      "paper_id": "Vz0CWFMPUe",
+      "title": "TimeInf: Time Series Data Contribution via Influence Functions",
+      "authors": "Yizi Zhang, Jingyan Shen, Xiaoxue Xiong, Yongchan Kwon",
+      "paper_url": "https://openreview.net/pdf?id=Vz0CWFMPUe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wTLc79YNbh",
+      "paper_id": "wTLc79YNbh",
+      "title": "TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting",
+      "authors": "Songtao Huang, Zhen Zhao, Can Li, LEI BAI",
+      "paper_url": "https://openreview.net/pdf?id=wTLc79YNbh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1CLzLXSFNn",
+      "paper_id": "1CLzLXSFNn",
+      "title": "TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis",
+      "authors": "Shiyu Wang, Jiawei LI, Xiaoming Shi, Zhou Ye, Baichuan Mo, Wenze Lin, Ju Shengtong, Zhixuan Chu, Ming Jin",
+      "paper_url": "https://openreview.net/pdf?id=1CLzLXSFNn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7oLshfEIC2",
+      "paper_id": "7oLshfEIC2",
+      "title": "TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting",
+      "authors": "Shiyu Wang, Haixu Wu, Xiaoming Shi, Tengge Hu, Huakun Luo, Lintao Ma, James Y. Zhang, JUN ZHOU",
+      "paper_url": "https://openreview.net/pdf?id=7oLshfEIC2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_KMCJXjlDDr",
+      "paper_id": "KMCJXjlDDr",
+      "title": "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting",
+      "authors": "Yong Liu, Guo Qin, Xiangdong Huang, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf?id=KMCJXjlDDr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ju_Uqw384Oq",
+      "paper_id": "ju_Uqw384Oq",
+      "title": "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis",
+      "authors": "Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Long",
+      "paper_url": "https://openreview.net/pdf/98c0a5bad8225b6d1baf5c74047c4d04bacfcfa1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_aKcd7ImG5e",
+      "paper_id": "aKcd7ImG5e",
+      "title": "Towards a General Time Series Anomaly Detector with Adaptive Bottlenecks and Dual Adversarial Decoders",
+      "authors": "Qichao Shentu, Beibu Li, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo",
+      "paper_url": "https://openreview.net/pdf?id=aKcd7ImG5e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AZGIwqCyYY",
+      "paper_id": "AZGIwqCyYY",
+      "title": "Towards Cross Domain Generalization of Hamiltonian Representation via Meta Learning",
+      "authors": "Yeongwoo Song, Hawoong Jeong",
+      "paper_url": "https://openreview.net/pdf?id=AZGIwqCyYY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_K2c04ulKXn",
+      "paper_id": "K2c04ulKXn",
+      "title": "Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach",
+      "authors": "Xiang Lan, Hanshu Yan, Shenda Hong, Mengling Feng",
+      "paper_url": "https://openreview.net/pdf?id=K2c04ulKXn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_uCqxDfLYrB",
+      "paper_id": "uCqxDfLYrB",
+      "title": "Towards Neural Scaling Laws for Time Series Foundation Models",
+      "authors": "Qingren Yao, Chao-Han Huck Yang, Renhe Jiang, Yuxuan Liang, Ming Jin, Shirui Pan",
+      "paper_url": "https://openreview.net/pdf?id=uCqxDfLYrB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_TYXtXLYHpR",
+      "paper_id": "TYXtXLYHpR",
+      "title": "Towards Transparent Time Series Forecasting",
+      "authors": "Krzysztof Kacprzyk, Tennison Liu, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf?id=TYXtXLYHpR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_qae04YACHs",
+      "paper_id": "qae04YACHs",
+      "title": "Transformer-Modulated Diffusion Models for Probabilistic Multivariate  Time Series Forecasting",
+      "authors": "Yuxin Li, Wenchao Chen, Xinyue Hu, Bo Chen, baolin sun, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=qae04YACHs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_NvDRvtrGLo",
+      "paper_id": "NvDRvtrGLo",
+      "title": "TRENDy: Temporal Regression of Effective Nonlinear Dynamics",
+      "authors": "Matt Ricci, Guy Pelc, Zoe Piran, Noa Moriel, Mor Nitzan",
+      "paper_url": "https://openreview.net/pdf?id=NvDRvtrGLo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rDe9yQQYKt",
+      "paper_id": "rDe9yQQYKt",
+      "title": "TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting",
+      "authors": "FENG SHIBO, Wanjin Feng, Xingyu Gao, Peilin Zhao, Zhiqi Shen",
+      "paper_url": "https://openreview.net/pdf?id=rDe9yQQYKt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wkHcXDv7cv",
+      "paper_id": "wkHcXDv7cv",
+      "title": "Tuning Frequency Bias of State Space Models",
+      "authors": "Annan Yu, Dongwei Lyu, Soon Hoe Lim, Michael W. Mahoney, N. Benjamin Erichson",
+      "paper_url": "https://openreview.net/pdf?id=wkHcXDv7cv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_MZDdTzN6Cy",
+      "paper_id": "MZDdTzN6Cy",
+      "title": "TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation",
+      "authors": "Chenghan Li, Mingchen Li, Ruisheng Diao",
+      "paper_url": "https://openreview.net/pdf?id=MZDdTzN6Cy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_izvwgBic9q",
+      "paper_id": "izvwgBic9q",
+      "title": "Unsupervised Learning of Full-Waveform Inversion: Connecting CNN and Partial Differential Equation in a Loop",
+      "authors": "Peng Jin, Xitong Zhang, Yinpeng Chen, Sharon X Huang, Zicheng Liu, Youzuo Lin",
+      "paper_url": "https://openreview.net/pdf/2b601798926b31583beb679577563de37154b91f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_gOZ_pKANaPW",
+      "paper_id": "gOZ_pKANaPW",
+      "title": "Unsupervised Model Selection for Time Series Anomaly Detection",
+      "authors": "Mononito Goswami, Cristian Ignacio Challu, Laurent Callot, Lenon Minorics, Andrey Kan",
+      "paper_url": "https://openreview.net/pdf/b9338f8e0cd4d78c188aa60e26ced6737232b2a8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_8qDwejCuCN",
+      "paper_id": "8qDwejCuCN",
+      "title": "Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding",
+      "authors": "Sana Tonekaboni, Danny Eytan, Anna Goldenberg",
+      "paper_url": "https://openreview.net/pdf/0e06b6edae016465a8d856db9d43ae54b938746a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_IxpTsFS7mh",
+      "paper_id": "IxpTsFS7mh",
+      "title": "VQ-TR: Vector Quantized Attention for Time Series Forecasting",
+      "authors": "Kashif Rasul, Andrew Bennett, Pablo Vicente, Umang Gupta, Hena Ghonia, Anderson Schneider, Yuriy Nevmyvaka",
+      "paper_url": "https://openreview.net/pdf?id=IxpTsFS7mh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_FQhDIGuaJ4",
+      "paper_id": "FQhDIGuaJ4",
+      "title": "Wavelet Diffusion Neural Operator",
+      "authors": "Peiyan Hu, Rui Wang, Xiang Zheng, Tao Zhang, Haodong Feng, Ruiqi Feng, Long Wei, Yue Wang, Zhi-Ming Ma, Tailin Wu",
+      "paper_url": "https://openreview.net/pdf?id=FQhDIGuaJ4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_YfUICnZMwk7",
+      "paper_id": "YfUICnZMwk7",
+      "title": "Weighted Clock Logic Point Process",
+      "authors": "Ruixuan Yan, Yunshi Wen, Debarun Bhattacharjya, Ronny Luss, Tengfei Ma, Achille Fokoue, Anak Agung Julius",
+      "paper_url": "https://openreview.net/pdf/eb9a99d990427c8b4ac5187f36e3bf4c618b20bf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_tPKKXeW33YU",
+      "paper_id": "tPKKXeW33YU",
+      "title": "WiNeRT: Towards Neural Ray Tracing for Wireless Channel Modelling and Differentiable Simulations",
+      "authors": "Tribhuvanesh Orekondy, Pratik Kumar, Shreya Kadambi, Hao Ye, Joseph Soriaga, Arash Behboodi",
+      "paper_url": "https://openreview.net/pdf/6d23a255602a38d6d7163f16454dc1a88ad31db9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_ox2ATRM90I",
+      "paper_id": "ox2ATRM90I",
+      "title": "Yet Another ICU Benchmark: A Flexible Multi-Center Framework for Clinical ML",
+      "authors": "Robin van de Water, Hendrik Nils Aurel Schmidt, Paul Elbers, Patrick Thoral, Bert Arnrich, Patrick Rockenschaub",
+      "paper_url": "https://openreview.net/pdf?id=ox2ATRM90I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TqYjhJrp9m",
+      "paper_id": "TqYjhJrp9m",
+      "title": "Zero-shot forecasting of chaotic systems",
+      "authors": "Yuanzhao Zhang, William Gilpin",
+      "paper_url": "https://openreview.net/pdf?id=TqYjhJrp9m",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NPSZ7V1CCY",
+      "paper_id": "NPSZ7V1CCY",
+      "title": "Zero-shot Imputation with Foundation Inference Models for Dynamical Systems",
+      "authors": "Patrick Seifner, Kostadin Cvejoski, Antonia Körner, Ramses J Sanchez",
+      "paper_url": "https://openreview.net/pdf?id=NPSZ7V1CCY",
+      "venue": "iclr25"
+    }
+  ]
+}

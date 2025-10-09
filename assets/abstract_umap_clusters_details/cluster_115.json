@@ -1,0 +1,965 @@
+{
+  "cluster_id": 115,
+  "papers": [
+    {
+      "id": "acl23_595",
+      "paper_id": "",
+      "title": "A Cognitive Stimulation Dialogue System with Multi-source Knowledge Fusion for Elders with Cognitive Impairment",
+      "authors": "Jiyue Jiang, Sheng Wang, Qintong Li, Lingpeng Kong, Chuan Wu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.593.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_685",
+      "paper_id": "",
+      "title": "A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech",
+      "authors": "Gaurav Verma, Rynaa Grover, Jiawei Zhou, Binny Mathew, Jordan Kraemer, Munmun Choudhury, Srijan Kumar",
+      "paper_url": "https://aclanthology.org/2024.acl-long.684.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_683",
+      "paper_id": "",
+      "title": "A Simple and Flexible Modeling for Mental Disorder Detection by Learning from Clinical Questionnaires",
+      "authors": "Hoyun Song, Jisu Shin, Huije Lee, Jong Park",
+      "paper_url": "https://aclanthology.org/2023.acl-long.681.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_212",
+      "paper_id": "",
+      "title": "A Taxonomy of Empathetic Questions in Social Dialogs",
+      "authors": "Ekaterina Svikhnushina, Iuliana Voinea, Anuradha Welivita, Pearl Pu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.211.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_214",
+      "paper_id": "",
+      "title": "AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness",
+      "authors": "Zixin Chen, Hongzhan Lin, Kaixin Li, Ziyang Luo, Zhen Ye, Guang Chen, Zhiyong Huang, Jing Ma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.213.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_784",
+      "paper_id": "",
+      "title": "Aggregating Multiple Heuristic Signals as Supervision for Unsupervised Automated Essay Scoring",
+      "authors": "Cong Wang, Zhiwei Jiang, Yafeng Yin, Zifeng Cheng, Shiping Ge, Qing Gu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.782.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_171",
+      "paper_id": "",
+      "title": "An Iterative Associative Memory Model for Empathetic Response Generation",
+      "authors": "Zhou Yang, Zhaochun Ren, Wang Yufeng, Haizhou Sun, Chao Chen, Xiaofei Zhu, Xiangwen Liao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.170.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_248",
+      "paper_id": "",
+      "title": "Annotating Online Misogyny",
+      "authors": "Philine Zeinert, Nanna Inie, Leon Derczynski",
+      "paper_url": "https://aclanthology.org/2021.acl-long.247.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_441",
+      "paper_id": "",
+      "title": "Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice",
+      "authors": "Federico Ravenda, Seyed Ali Bahrainian, Andrea Raballo, Antonietta Mira, Noriko Kando",
+      "paper_url": "https://aclanthology.org/2025.acl-long.440.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_122",
+      "paper_id": "",
+      "title": "Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales",
+      "authors": "Maor Reuben, Ortal Slobodin, Idan-Chaim Cohen, Aviad Elyashar, Orna Braun-Lewensohn, Odeya Cohen, Rami Puzis",
+      "paper_url": "https://aclanthology.org/2025.acl-long.121.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1023",
+      "paper_id": "",
+      "title": "AUTALIC: A Dataset for Anti-AUTistic Ableist Language In Context",
+      "authors": "Naba Rizvi, Harper Strickland, Daniel Gitelman, Alexis Morales Flores, Tristan Cooper, Aekta Kallepalli, Akshat Alurkar, Haaset Owens, Saleha Ahmedi, Isha Khirwadkar, Imani N. S. Munyaka, Nedjma Ousidhoum",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1022.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_274",
+      "paper_id": "",
+      "title": "Automatic Identification and Classification of Bragging in Social Media",
+      "authors": "Mali Jin, Daniel Preotiuc-Pietro, A. Seza Doğruöz, Nikolaos Aletras",
+      "paper_url": "https://aclanthology.org/2022.acl-long.273.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_121",
+      "paper_id": "",
+      "title": "Behind Closed Words: Creating and Investigating the forePLay Annotated Dataset for Polish Erotic Discourse",
+      "authors": "Anna Kołos, Katarzyna Lorenc, Emilia Wiśnios, Agnieszka Karlińska",
+      "paper_url": "https://aclanthology.org/2025.acl-long.120.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1025",
+      "paper_id": "",
+      "title": "CAMI: A Counselor Agent Supporting Motivational Interviewing through State Inference and Topic Exploration",
+      "authors": "Yizhe Yang, Palakorn Achananuparp, Heyan Huang, Jing Jiang, Phey Ling Kit, Nicholas Gabriel Lim, Cameron Tan Shi Ern, Ee-Peng Lim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1024.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_814",
+      "paper_id": "",
+      "title": "Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation",
+      "authors": "Dongjin Kang, Sunghwan Kim, Taeyoon Kwon, Seungjun Moon, Hyunsouk Cho, Youngjae Yu, Dongha Lee, Jinyoung Yeo",
+      "paper_url": "https://aclanthology.org/2024.acl-long.813.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1043",
+      "paper_id": "",
+      "title": "Can Third Parties Read Our Emotions?",
+      "authors": "Jiayi Li, Yingfan Zhou, Pranav Narayanan Venkit, Halima Binte Islam, Sneha Arya, Shomir Wilson, Sarah Rajtmajer",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1042.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_70",
+      "paper_id": "",
+      "title": "Capturing Author Self Beliefs in Social Media Language",
+      "authors": "Siddharth Mangalik, Adithya V. Ganesan, Abigail Wheeler, Nicholas Kerry, Jeremy D. W. Clifton, H. Andrew Schwartz, Ryan L. Boyd",
+      "paper_url": "https://aclanthology.org/2025.acl-long.69.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_459",
+      "paper_id": "",
+      "title": "CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation",
+      "authors": "Jinfeng Zhou, Chujie Zheng, Bo Wang, Zheng Zhang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.457.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1274",
+      "paper_id": "",
+      "title": "CEAES: Bidirectional Reinforcement Learning Optimization for Consistent and Explainable Essay Assessment",
+      "authors": "Xia Li, Wenjing Pan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1273.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_632",
+      "paper_id": "",
+      "title": "ClarifyDelphi: Reinforced Clarification Questions with Defeasibility Rewards for Social and Moral Situations",
+      "authors": "Valentina Pyatkin, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi, Chandra Bhagavatula",
+      "paper_url": "https://aclanthology.org/2023.acl-long.630.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1425",
+      "paper_id": "",
+      "title": "Class Distillation with Mahalanobis Contrast: An Efficient Training Paradigm for Pragmatic Language Understanding Tasks",
+      "authors": "Chenlu Wang, Weimin Lyu, Ritwik Banerjee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1424.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_557",
+      "paper_id": "",
+      "title": "Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction",
+      "authors": "Ashish Sharma, Kevin Rushton, Inna Lin, David Wadden, Khendra Lucas, Adam Miner, Theresa Nguyen, Tim Althoff",
+      "paper_url": "https://aclanthology.org/2023.acl-long.555.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1022",
+      "paper_id": "",
+      "title": "Consistent Client Simulation for Motivational Interviewing-based Counseling",
+      "authors": "Yizhe Yang, Palakorn Achananuparp, Heyan Huang, Jing Jiang, Nicholas Gabriel Lim, Cameron Tan Shi Ern, Phey Ling Kit, Jenny Giam Xiuhui, John Pinto, Ee-Peng Lim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1021.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_461",
+      "paper_id": "",
+      "title": "Controversy and Conformity: from Generalized to Personalized Aggressiveness Detection",
+      "authors": "Kamil Kanclerz, Alicja Figas, Marcin Gruza, Tomasz Kajdanowicz, Jan Kocon, Daria Puchalska, Przemyslaw Kazienko",
+      "paper_url": "https://aclanthology.org/2021.acl-long.460.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_415",
+      "paper_id": "",
+      "title": "Conundrums in Cross-Prompt Automated Essay Scoring: Making Sense of the State of the Art",
+      "authors": "Shengjie Li, Vincent Ng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.414.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1341",
+      "paper_id": "",
+      "title": "Counterspeech the ultimate shield! Multi-Conditioned Counterspeech Generation through Attributed Prefix Learning",
+      "authors": "Aswini Kumar Padhi, Anil Bandhakavi, Tanmoy Chakraborty",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1340.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_320",
+      "paper_id": "",
+      "title": "Counterspeeches up my sleeve! Intent Distribution Learning and Persistent Fusion for Intent-Conditioned Counterspeech Generation",
+      "authors": "Rishabh Gupta, Shaily Desai, Manvi Goel, Anil Bandhakavi, Tanmoy Chakraborty, Md. Shad Akhtar",
+      "paper_url": "https://aclanthology.org/2023.acl-long.318.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_926",
+      "paper_id": "",
+      "title": "CULEMO: Cultural Lenses on Emotion - Benchmarking LLMs for Cross-Cultural Emotion Understanding",
+      "authors": "Tadesse Destaw Belay, Ahmed Haj Ahmed, Alvin Grissom II, Iqra Ameer, Grigori Sidorov, Olga Kolesnikova, Seid Muhie Yimam",
+      "paper_url": "https://aclanthology.org/2025.acl-long.925.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_457",
+      "paper_id": "",
+      "title": "Culture Matters in Toxic Language Detection in Persian",
+      "authors": "Zahra Bokaei, Walid Magdy, Bonnie Webber",
+      "paper_url": "https://aclanthology.org/2025.acl-long.456.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_455",
+      "paper_id": "",
+      "title": "Deciphering Hate: Identifying Hateful Memes and Their Targets",
+      "authors": "Eftekhar Hossain, Omar Sharif, Mohammed Moshiul Hoque, Sarah M. Preum",
+      "paper_url": "https://aclanthology.org/2024.acl-long.454.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_517",
+      "paper_id": "",
+      "title": "Detecting Propaganda Techniques in Memes",
+      "authors": "Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov, Giovanni Da San Martino",
+      "paper_url": "https://aclanthology.org/2021.acl-long.516.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1396",
+      "paper_id": "",
+      "title": "Dialogue Systems for Emotional Support via Value Reinforcement",
+      "authors": "Juhee Kim, Chunghu Mok, Jisun Lee, Hyang Sook Kim, Yohan Jo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1395.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_160",
+      "paper_id": "",
+      "title": "DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation",
+      "authors": "Guanqun Bi, Lei Shen, Yanan Cao, Meng Chen, Yuqiang Xie, Zheng Lin, Xiaodong He",
+      "paper_url": "https://aclanthology.org/2023.acl-long.158.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_855",
+      "paper_id": "",
+      "title": "DisorBERT: A Double Domain Adaptation Model for Detecting Signs of Mental Disorders in Social Media",
+      "authors": "Mario Ezra Aragón, A. Pastor López-Monroy, Luis C. González, David E. Losada, Manuel Montes-y-Gómez",
+      "paper_url": "https://aclanthology.org/2023.acl-long.853.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_660",
+      "paper_id": "",
+      "title": "DREsS: Dataset for Rubric-based Essay Scoring on EFL Writing",
+      "authors": "Haneul Yoo, Jieun Han, So-Yeon Ahn, Alice Oh",
+      "paper_url": "https://aclanthology.org/2025.acl-long.659.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_387",
+      "paper_id": "",
+      "title": "Early Detection of Sexual Predators in Chats",
+      "authors": "Matthias Vogt, Ulf Leser, Alan Akbik",
+      "paper_url": "https://aclanthology.org/2021.acl-long.386.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_159",
+      "paper_id": "",
+      "title": "Edited Media Understanding Frames: Reasoning About the Intent and Implications of Visual Misinformation",
+      "authors": "Jeff Da, Maxwell Forbes, Rowan Zellers, Anthony Zheng, Jena D. Hwang, Antoine Bosselut, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2021.acl-long.158.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_327",
+      "paper_id": "",
+      "title": "EmoBench: Evaluating the Emotional Intelligence of Large Language Models",
+      "authors": "Sahand Sabour, Siyang Liu, Zheyuan Zhang, June Liu, Jinfeng Zhou, Alvionna Sunaryo, Tatia Lee, Rada Mihalcea, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.326.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_440",
+      "paper_id": "",
+      "title": "Empathy Prediction from Diverse Perspectives",
+      "authors": "Francine Chen, Scott Carter, Tatiana Lau, Nayeli Suseth Bravo, Sumanta Bhattacharyya, Kate Sieck, Charlene C. Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.439.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_724",
+      "paper_id": "",
+      "title": "ESCoT: Towards Interpretable Emotional Support Dialogue Systems",
+      "authors": "Tenggan Zhang, Xinjie Zhang, Jinming Zhao, Li Zhou, Qin Jin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.723.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_91",
+      "paper_id": "",
+      "title": "Evaluating Intention Detection Capability of Large Language Models in Persuasive Dialogues",
+      "authors": "Hiromasa Sakurai, Yusuke Miyao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.90.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_810",
+      "paper_id": "",
+      "title": "Explaining Matters: Leveraging Definitions and Semantic Expansion for Sexism Detection",
+      "authors": "Sahrish Khan, Arshad Jhumka, Gabriele Pergola",
+      "paper_url": "https://aclanthology.org/2025.acl-long.809.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_900",
+      "paper_id": "",
+      "title": "Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks",
+      "authors": "Junyu Lu, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang, Hongfei Lin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.898.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_98",
+      "paper_id": "",
+      "title": "Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach",
+      "authors": "Jinfeng Zhou, Zhuang Chen, Bo Wang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.96.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_260",
+      "paper_id": "",
+      "title": "From the Detection of Toxic Spans in Online Discussions to the Analysis of Toxic-to-Civil Transfer",
+      "authors": "John Pavlopoulos, Leo Laugier, Alexandros Xenos, Jeffrey Sorensen, Ion Androutsopoulos",
+      "paper_url": "https://aclanthology.org/2022.acl-long.259.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_895",
+      "paper_id": "",
+      "title": "Graphically Speaking: Unmasking Abuse in Social Media with Conversation Insights",
+      "authors": "Célia Nouri, Chloé Clavel, Jean-Philippe Cointet",
+      "paper_url": "https://aclanthology.org/2025.acl-long.894.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1441",
+      "paper_id": "",
+      "title": "Hanging in the Balance: Pivotal Moments in Crisis Counseling Conversations",
+      "authors": "Vivian Nguyen, Lillian Lee, Cristian Danescu-Niculescu-Mizil",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1440.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_557",
+      "paper_id": "",
+      "title": "Hate Speech Detection Based on Sentiment Knowledge Sharing",
+      "authors": "Xianbing Zhou, Yang Yong, Xiaochao Fan, Ge Ren, Yunfeng Song, Yufeng Diao, Liang Yang, Hongfei Lin",
+      "paper_url": "https://aclanthology.org/2021.acl-long.556.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_5",
+      "paper_id": "",
+      "title": "HateCheck: Functional Tests for Hate Speech Detection Models",
+      "authors": "Paul Röttger, Bertie Vidgen, Dong Nguyen, Zeerak Waseem, Helen Margetts, Janet Pierrehumbert",
+      "paper_url": "https://aclanthology.org/2021.acl-long.4.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_116",
+      "paper_id": "",
+      "title": "HateDay: Insights from a Global Hate Speech Dataset Representative of a Day on Twitter",
+      "authors": "Manuel Tonneau, Diyi Liu, Niyati Malhotra, Scott A. Hale, Samuel Fraiberger, Victor Orozco-Olvera, Paul Röttger",
+      "paper_url": "https://aclanthology.org/2025.acl-long.115.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_94",
+      "paper_id": "",
+      "title": "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy",
+      "authors": "Mengxi Xiao, Qianqian Xie, Ziyan Kuang, Zhicheng Liu, Kailai Yang, Min Peng, Weiguang Han, Jimin Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.93.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_251",
+      "paper_id": "",
+      "title": "Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech",
+      "authors": "Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, Marco Guerini",
+      "paper_url": "https://aclanthology.org/2021.acl-long.250.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_654",
+      "paper_id": "",
+      "title": "Hybrid Uncertainty Quantification for Selective Text Classification in Ambiguous Tasks",
+      "authors": "Artem Vazhentsev, Gleb Kuzmin, Akim Tsvigun, Alexander Panchenko, Maxim Panov, Mikhail Burtsev, Artem Shelmanov",
+      "paper_url": "https://aclanthology.org/2023.acl-long.652.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_319",
+      "paper_id": "",
+      "title": "Identifying Moments of Change from Longitudinal User Text",
+      "authors": "Adam Tsakalidis, Federico Nanni, Anthony Hills, Jenny Chim, Jiayu Song, Maria Liakata",
+      "paper_url": "https://aclanthology.org/2022.acl-long.318.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_307",
+      "paper_id": "",
+      "title": "Identifying the Human Values behind Arguments",
+      "authors": "Johannes Kiesel, Milad Alshomary, Nicolas Handke, Xiaoni Cai, Henning Wachsmuth, Benno Stein",
+      "paper_url": "https://aclanthology.org/2022.acl-long.306.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_48",
+      "paper_id": "",
+      "title": "IMBUE: Improving Interpersonal Effectiveness through Simulation and Just-in-time Feedback with Human-Language Model Interaction",
+      "authors": "Inna Lin, Ashish Sharma, Christopher Rytting, Adam Miner, Jina Suh, Tim Althoff",
+      "paper_url": "https://aclanthology.org/2024.acl-long.47.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_843",
+      "paper_id": "",
+      "title": "ImpliHateVid: A Benchmark Dataset and Two-stage Contrastive Learning Framework for Implicit Hate Speech Detection in Videos",
+      "authors": "Mohammad Zia Ur Rehman, Anukriti Bhatnagar, Omkar Kabde, Shubhi Bansal, Dr. Nagendra Kumar",
+      "paper_url": "https://aclanthology.org/2025.acl-long.842.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_698",
+      "paper_id": "",
+      "title": "Improving Domain Generalization for Prompt-Aware Essay Scoring via Disentangled Representation Learning",
+      "authors": "Zhiwei Jiang, Tianyi Gao, Yafeng Yin, Meng Liu, Hua Yu, Zifeng Cheng, Qing Gu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.696.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_379",
+      "paper_id": "",
+      "title": "Improving Generalizability in Implicitly Abusive Language Detection with Concept Activation Vectors",
+      "authors": "Isar Nejadgholi, Kathleen Fraser, Svetlana Kiritchenko",
+      "paper_url": "https://aclanthology.org/2022.acl-long.378.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_292",
+      "paper_id": "",
+      "title": "Improving Hateful Meme Detection through Retrieval-Guided Contrastive Learning",
+      "authors": "Jingbiao Mei, Jinghong Chen, Weizhe Lin, Bill Byrne, Marcus Tomalin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.291.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_713",
+      "paper_id": "",
+      "title": "Improving the Detection of Multilingual Online Attacks with Rich Social Media Data from Singapore",
+      "authors": "Janosch Haber, Bertie Vidgen, Matthew Chapman, Vibhor Agarwal, Roy Ka-Wei Lee, Yong Keong Yap, Paul Röttger",
+      "paper_url": "https://aclanthology.org/2023.acl-long.711.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_579",
+      "paper_id": "",
+      "title": "Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires",
+      "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.578.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_859",
+      "paper_id": "",
+      "title": "It’s Not Bragging If You Can Back It Up: Can LLMs Understand Braggings?",
+      "authors": "Jingjie Zeng, Huayang Li, Liang Yang, Yuanyuan Sun, Hongfei Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.858.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1331",
+      "paper_id": "",
+      "title": "Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation",
+      "authors": "Soumitra Ghosh, Gopendra Vikram Singh, Shambhavi Shambhavi, Sabarna Choudhury, Asif Ekbal",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1330.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_227",
+      "paper_id": "",
+      "title": "Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations",
+      "authors": "Yang Deng, Wenxuan Zhang, Yifei Yuan, Wai Lam",
+      "paper_url": "https://aclanthology.org/2023.acl-long.225.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_609",
+      "paper_id": "",
+      "title": "KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors",
+      "authors": "Zhiyang Qi, Takumasa Kaneko, Keiko Takamizo, Mariko Ukiyo, Michimasa Inaba",
+      "paper_url": "https://aclanthology.org/2025.acl-long.608.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_133",
+      "paper_id": "",
+      "title": "Learning from the Worst: Dynamically Generated Datasets to Improve Online Hate Detection",
+      "authors": "Bertie Vidgen, Tristan Thrush, Zeerak Waseem, Douwe Kiela",
+      "paper_url": "https://aclanthology.org/2021.acl-long.132.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_323",
+      "paper_id": "",
+      "title": "Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data",
+      "authors": "Paul Pu Liang, Terrance Liu, Anna Cai, Michal Muszynski, Ryo Ishii, Nick Allen, Randy Auerbach, David Brent, Ruslan Salakhutdinov, Louis-Philippe Morency",
+      "paper_url": "https://aclanthology.org/2021.acl-long.322.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_374",
+      "paper_id": "",
+      "title": "Leveraging Machine-Generated Rationales to Facilitate Social Meaning Detection in Conversations",
+      "authors": "Ritam Dutt, Zhen Wu, Jiaxin Shi, Divyanshu Sheth, Prakhar Gupta, Carolyn Rose",
+      "paper_url": "https://aclanthology.org/2024.acl-long.373.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_245",
+      "paper_id": "",
+      "title": "LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback",
+      "authors": "Timon Ziegenbein, Gabriella Skitalinskaya, Alireza Bayat Makou, Henning Wachsmuth",
+      "paper_url": "https://aclanthology.org/2024.acl-long.244.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_656",
+      "paper_id": "",
+      "title": "Logic-driven Indirect Supervision: An Application to Crisis Counseling",
+      "authors": "Mattia Medina Grespan, Meghan Broadbent, Xinyao Zhang, Katherine Axford, Brent Kious, Zac Imel, Vivek Srikumar",
+      "paper_url": "https://aclanthology.org/2023.acl-long.654.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_440",
+      "paper_id": "",
+      "title": "MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention",
+      "authors": "Prince Jha, Raghav Jain, Konika Mandal, Aman Chadha, Sriparna Saha, Pushpak Bhattacharyya",
+      "paper_url": "https://aclanthology.org/2024.acl-long.439.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_928",
+      "paper_id": "",
+      "title": "MemeQA: Holistic Evaluation for Meme Understanding",
+      "authors": "Khoi P. N. Nguyen, Terrence Li, Derek Lou Zhou, Gabriel Xiong, Pranav Balu, Nandhan Alahari, Alan Huang, Tanush Chauhan, Harshavardhan Bala, Emre Guzelordu, Affan Kashfi, Aaron Xu, Suyesh Shrestha, Megan Vu, Jerry Wang, Vincent Ng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.927.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_291",
+      "paper_id": "",
+      "title": "MEMEX: Detecting Explanatory Evidence for Memes via Knowledge-Enriched Contextualization",
+      "authors": "Shivam Sharma, Ramaneswaran S, Udit Arora, Md. Shad Akhtar, Tanmoy Chakraborty",
+      "paper_url": "https://aclanthology.org/2023.acl-long.289.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_207",
+      "paper_id": "",
+      "title": "MentalManip: A Dataset For Fine-grained Analysis of Mental Manipulation in Conversations",
+      "authors": "Yuxin Wang, Ivory Yang, Saeed Hassanpour, Soroush Vosoughi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.206.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_47",
+      "paper_id": "",
+      "title": "MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection",
+      "authors": "Ziyan Liu, Chunxiao Fan, Haoran Lou, Yuexin Wu, Kaiwei Deng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.46.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_26",
+      "paper_id": "",
+      "title": "MISC: A Mixed Strategy-Aware Model integrating COMET for Emotional Support Conversation",
+      "authors": "Quan Tu, Yanran Li, Jianwei Cui, Bin Wang, Ji-Rong Wen, Rui Yan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.25.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_223",
+      "paper_id": "",
+      "title": "Misinfo Reaction Frames: Reasoning about Readers’ Reactions to News Headlines",
+      "authors": "Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2022.acl-long.222.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_885",
+      "paper_id": "",
+      "title": "Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring",
+      "authors": "Po-Kai Chen, Bo-Wei Tsai, Shao Kuan Wei, Chien-Yao Wang, Jia-Ching Wang, Yi-Ting Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.884.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_240",
+      "paper_id": "",
+      "title": "Modeling Appropriate Language in Argumentation",
+      "authors": "Timon Ziegenbein, Shahbaz Syed, Felix Lange, Martin Potthast, Henning Wachsmuth",
+      "paper_url": "https://aclanthology.org/2023.acl-long.238.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_125",
+      "paper_id": "",
+      "title": "MoralDial: A Framework to Train and Evaluate Moral Dialogue Systems via Moral Discussions",
+      "authors": "Hao Sun, Zhexin Zhang, Fei Mi, Yasheng Wang, Wei Liu, Jianwei Cui, Bin Wang, Qun Liu, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.123.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_228",
+      "paper_id": "",
+      "title": "Multi-Level Feedback Generation with Large Language Models for Empowering Novice Peer Counselors",
+      "authors": "Alicja Chaszczewicz, Raj Shah, Ryan Louie, Bruce Arnow, Robert Kraut, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.227.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_25",
+      "paper_id": "",
+      "title": "Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems",
+      "authors": "Ling.Yu Zhu, Zhengkun Zhang, Jun Wang, Hongbin Wang, Haiying Wu, Zhenglu Yang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.24.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_454",
+      "paper_id": "",
+      "title": "Multilingual Detection of Personal Employment Status on Twitter",
+      "authors": "Manuel Tonneau, Dhaval Adjodah, Joao Palotti, Nir Grinberg, Samuel Fraiberger",
+      "paper_url": "https://aclanthology.org/2022.acl-long.453.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_489",
+      "paper_id": "",
+      "title": "NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data",
+      "authors": "Manuel Tonneau, Pedro Quinta De Castro, Karim Lasri, Ibrahim Farouq, Lakshmi Subramanian, Victor Orozco-Olvera, Samuel Fraiberger",
+      "paper_url": "https://aclanthology.org/2024.acl-long.488.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_514",
+      "paper_id": "",
+      "title": "On the Robustness of Offensive Language Classifiers",
+      "authors": "Jonathan Rusert, Zubair Shafiq, Padmini Srinivasan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.513.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_687",
+      "paper_id": "",
+      "title": "PAL to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent",
+      "authors": "Kshitij Mishra, Priyanshu Priya, Asif Ekbal",
+      "paper_url": "https://aclanthology.org/2023.acl-long.685.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_470",
+      "paper_id": "",
+      "title": "ParaDetox: Detoxification with Parallel Data",
+      "authors": "Varvara Logacheva, Daryna Dementieva, Sergey Ustyantsev, Daniil Moskovskiy, David Dale, Irina Krotova, Nikita Semenov, Alexander Panchenko",
+      "paper_url": "https://aclanthology.org/2022.acl-long.469.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_85",
+      "paper_id": "",
+      "title": "PMAES: Prompt-mapping Contrastive Learning for Cross-prompt Automated Essay Scoring",
+      "authors": "Yuan Chen, Xia Li",
+      "paper_url": "https://aclanthology.org/2023.acl-long.83.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_32",
+      "paper_id": "",
+      "title": "Pouring Your Heart Out: Investigating the Role of Figurative Language in Online Expressions of Empathy",
+      "authors": "Gyeongeun Lee, Christina Wong, Meghan Guo, Natalie Parde",
+      "paper_url": "https://aclanthology.org/2024.acl-long.31.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_597",
+      "paper_id": "",
+      "title": "PsyAdvisor: A Plug-and-Play Strategy Advice Planner with Proactive Questioning in Psychological Conversations",
+      "authors": "Yuxin Hu, Danni Liu, Bo Liu, Yida Chen, Jiuxin Cao, Yan Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.596.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_780",
+      "paper_id": "",
+      "title": "PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents",
+      "authors": "Qisen Yang, Zekun Wang, Honghui Chen, Shenzhi Wang, Yifan Pu, Xin Gao, Wenhao Huang, Shiji Song, Gao Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.779.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_327",
+      "paper_id": "",
+      "title": "Psycholinguistic Tripartite Graph Network for Personality Detection",
+      "authors": "Tao Yang, Feifan Yang, Haolan Ouyang, Xiaojun Quan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.326.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1050",
+      "paper_id": "",
+      "title": "PsyDial: A Large-scale Long-term Conversational Dataset for Mental Health Support",
+      "authors": "Huachuan Qiu, Zhenzhong Lan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1049.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_56",
+      "paper_id": "",
+      "title": "PsyDT: Using LLMs to Construct the Digital Twin of Psychological Counselor with Personalized Counseling Style for Psychological Counseling",
+      "authors": "Haojie Xie, Yirong Chen, Xiaofen Xing, Jingkai Lin, Xiangmin Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.55.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1236",
+      "paper_id": "",
+      "title": "ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework",
+      "authors": "Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1235.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_211",
+      "paper_id": "",
+      "title": "Ruddit: Norms of Offensiveness for English Reddit Comments",
+      "authors": "Rishav Hada, Sohi Sudhir, Pushkar Mishra, Helen Yannakoudakis, Saif M. Mohammad, Ekaterina Shutova",
+      "paper_url": "https://aclanthology.org/2021.acl-long.210.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_24",
+      "paper_id": "",
+      "title": "Rule By Example: Harnessing Logical Rules for Explainable Hate Speech Detection",
+      "authors": "Christopher Clarke, Matthew Hall, Gaurav Mittal, Ye Yu, Sandra Sajeev, Jason Mars, Mei Chen",
+      "paper_url": "https://aclanthology.org/2023.acl-long.22.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_4",
+      "paper_id": "",
+      "title": "SafeConv: Explaining and Correcting Conversational Unsafe Behavior",
+      "authors": "Mian Zhang, Lifeng Jin, Linfeng Song, Haitao Mi, Wenliang Chen, Dong Yu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.2.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_285",
+      "paper_id": "",
+      "title": "SafetyKit: First Aid for Measuring Safety in Open-domain Conversational Systems",
+      "authors": "Emily Dinan, Gavin Abercrombie, A. Bergman, Shannon Spruit, Dirk Hovy, Y-Lan Boureau, Verena Rieser",
+      "paper_url": "https://aclanthology.org/2022.acl-long.284.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_612",
+      "paper_id": "",
+      "title": "Self-chats from Large Language Models Make Small Emotional Support Chatbot Better",
+      "authors": "Zhonghua Zheng, Lizi Liao, Yang Deng, Libo Qin, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.611.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1111",
+      "paper_id": "",
+      "title": "Silencing Empowerment, Allowing Bigotry: Auditing the Moderation of Hate Speech on Twitch",
+      "authors": "Prarabdh Shukla, Wei Yin Chong, Yash Patel, Brennan Schaffner, Danish Pruthi, Arjun Bhagoji",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1110.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_55",
+      "paper_id": "",
+      "title": "SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues",
+      "authors": "Liang Qiu, Yuan Liang, Yizhou Zhao, Pan Lu, Baolin Peng, Zhou Yu, Ying Nian Wu, Song-Chun Zhu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.54.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_824",
+      "paper_id": "",
+      "title": "SPZ: A Semantic Perturbation-based Data Augmentation Method with Zonal-Mixing for Alzheimer’s Disease Detection",
+      "authors": "FangFang Li, Cheng Huang, PuZhen Su, Jie Yin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.823.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_418",
+      "paper_id": "",
+      "title": "STICKERCONV: Generating Multimodal Empathetic Responses from Scratch",
+      "authors": "Yiqun Zhang, Fanheng Kong, Peidong Wang, Shuang Sun, SWangLing SWangLing, Shi Feng, Daling Wang, Yifei Zhang, Kaisong Song",
+      "paper_url": "https://aclanthology.org/2024.acl-long.417.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_315",
+      "paper_id": "",
+      "title": "Supporting Cognitive and Emotional Empathic Writing of Students",
+      "authors": "Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh, Jan Marco Leimeister",
+      "paper_url": "https://aclanthology.org/2021.acl-long.314.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_802",
+      "paper_id": "",
+      "title": "Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction",
+      "authors": "Haoqiu Yan, Yongxin Zhu, Kai Zheng, Bing Liu, Haoyu Cao, Deqiang Jiang, Linli Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.801.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_602",
+      "paper_id": "",
+      "title": "The Moral Debater: A Study on the Computational Generation of Morally Framed Arguments",
+      "authors": "Milad Alshomary, Roxanne El Baff, Timon Gurcke, Henning Wachsmuth",
+      "paper_url": "https://aclanthology.org/2022.acl-long.601.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_262",
+      "paper_id": "",
+      "title": "The Moral Integrity Corpus: A Benchmark for Ethical Dialogue Systems",
+      "authors": "Caleb Ziems, Jane Yu, Yi-Chia Wang, Alon Halevy, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.261.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl21_545",
+      "paper_id": "",
+      "title": "The R-U-A-Robot Dataset: Helping Avoid Chatbot Deception by Detecting User Questions About Human or Non-Human Identity",
+      "authors": "David Gros, Yu Li, Zhou Yu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.544.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl21_270",
+      "paper_id": "",
+      "title": "Towards Emotional Support Dialog Systems",
+      "authors": "Siyang Liu, Chujie Zheng, Orianna Demasi, Sahand Sabour, Yu Li, Zhou Yu, Yong Jiang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.269.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_497",
+      "paper_id": "",
+      "title": "Towards Identifying Fine-Grained Depression Symptoms from Memes",
+      "authors": "Shweta Yadav, Cornelia Caragea, Chenye Zhao, Naincy Kumari, Marvin Solberg, Tanmay Sharma",
+      "paper_url": "https://aclanthology.org/2023.acl-long.495.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_235",
+      "paper_id": "",
+      "title": "ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection",
+      "authors": "Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, Ece Kamar",
+      "paper_url": "https://aclanthology.org/2022.acl-long.234.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_346",
+      "paper_id": "",
+      "title": "Tracking Life’s Ups and Downs: Mining Life Events from Social Media Posts for Mental Health Analysis",
+      "authors": "Minghao Lv, Siyuan Chen, Haoan Jin, Minghao Yuan, Qianqian Ju, Yujia Peng, Kenny Q. Zhu, Mengyue Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.345.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_765",
+      "paper_id": "",
+      "title": "Training Models to Generate, Recognize, and Reframe Unhelpful Thoughts",
+      "authors": "Mounica Maddela, Megan Ung, Jing Xu, Andrea Madotto, Heather Foran, Y-Lan Boureau",
+      "paper_url": "https://aclanthology.org/2023.acl-long.763.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_240",
+      "paper_id": "",
+      "title": "Uncertainty-Guided Modal Rebalance for Hateful Memes Detection",
+      "authors": "Chuanpeng Yang, Yaxin Liu, Fuqing Zhu, Jizhong Han, Songlin Hu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.239.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_579",
+      "paper_id": "",
+      "title": "Understanding Client Reactions in Online Mental Health Counseling",
+      "authors": "Anqi Li, Lizhi Ma, Yaling Mei, Hongliang He, Shuai Zhang, Huachuan Qiu, Zhenzhong Lan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.577.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_273",
+      "paper_id": "",
+      "title": "What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma",
+      "authors": "Han Meng, Yancan Chen, Yunan Li, Yitian Yang, Jungup Lee, Renwen Zhang, Yi-Chieh Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.272.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_618",
+      "paper_id": "",
+      "title": "Your spouse needs professional help: Determining the Contextual Appropriateness of Messages through Modeling Social Relationships",
+      "authors": "David Jurgens, Agrima Seth, Jackson Sargent, Athena Aghighi, Michael Geraci",
+      "paper_url": "https://aclanthology.org/2023.acl-long.616.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_154",
+      "paper_id": "",
+      "title": "“You might think about slightly revising the title”: Identifying Hedges in Peer-tutoring Interactions",
+      "authors": "Yann Raphalen, Chloé Clavel, Justine Cassell",
+      "paper_url": "https://aclanthology.org/2022.acl-long.153.pdf",
+      "venue": "acl22"
+    }
+  ]
+}

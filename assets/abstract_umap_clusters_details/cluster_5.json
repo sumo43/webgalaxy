@@ -1,0 +1,725 @@
+{
+  "cluster_id": 5,
+  "papers": [
+    {
+      "id": "cvpr25_2126",
+      "paper_id": "",
+      "title": "A Dataset for Semantic Segmentation in the Presence of Unknowns",
+      "authors": "Zakaria Laskar, Tomas Vojir, Matej Grcic, Iaroslav Melekhov, Shankar Gangisetty, Juho Kannala, Jiri Matas, Giorgos Tolias, C.V. Jawahar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Laskar_A_Dataset_for_Semantic_Segmentation_in_the_Presence_of_Unknowns_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1757",
+      "paper_id": "",
+      "title": "A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation",
+      "authors": "Congqi Cao, Yue Lu, Peng Wang, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_A_New_Comprehensive_Benchmark_for_Semi-Supervised_Video_Anomaly_Detection_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2552",
+      "paper_id": "",
+      "title": "A Unified Latent Schrodinger Bridge Diffusion Model for Unsupervised Anomaly Detection and Localization",
+      "authors": "Shilhora Akshay, Niveditha Lakshmi Narasimhan, Jacob George, Vineeth N Balasubramanian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Akshay_A_Unified_Latent_Schrodinger_Bridge_Diffusion_Model_for_Unsupervised_Anomaly_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2849",
+      "paper_id": "",
+      "title": "AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP",
+      "authors": "Wenxin Ma, Xu Zhang, Qingsong Yao, Fenghe Tang, Chenxu Wu, Yingtai Li, Rui Yan, Zihang Jiang, S.Kevin Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ma_AA-CLIP_Enhancing_Zero-Shot_Anomaly_Detection_via_Anomaly-Aware_CLIP_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_373",
+      "paper_id": "",
+      "title": "Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images",
+      "authors": "Chaoqin Huang, Aofan Jiang, Jinghao Feng, Ya Zhang, Xinchao Wang, Yanfeng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Adapting_Visual-Language_Models_for_Generalizable_Anomaly_Detection_in_Medical_Images_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1584",
+      "paper_id": "",
+      "title": "Anomaly Detection in Video via Self-Supervised and Multi-Task Learning",
+      "authors": "Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_549",
+      "paper_id": "",
+      "title": "Anomaly Detection via Reverse Distillation From One-Class Embedding",
+      "authors": "Hanqiu Deng, Xingyu Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Anomaly_Detection_via_Reverse_Distillation_From_One-Class_Embedding_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1753",
+      "paper_id": "",
+      "title": "Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection",
+      "authors": "Jiawen Zhu, Choubo Ding, Yu Tian, Guansong Pang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Anomaly_Heterogeneity_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_367",
+      "paper_id": "",
+      "title": "AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios",
+      "authors": "Ziming Huang, Xurui Li, Haotian Liu, Feng Xue, Yuzhe Wang, Yu Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_AnomalyNCD_Towards_Novel_Anomaly_Class_Discovery_in_Industrial_Scenarios_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1153",
+      "paper_id": "",
+      "title": "Anomize: Better Open Vocabulary Video Anomaly Detection",
+      "authors": "Fei Li, Wenxuan Liu, Jingjing Chen, Ruixu Zhang, Yuran Wang, Xian Zhong, Zheng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Anomize_Better_Open_Vocabulary_Video_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_729",
+      "paper_id": "",
+      "title": "Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection",
+      "authors": "Hitesh Sapkota, Qi Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sapkota_Bayesian_Nonparametric_Submodular_Video_Partition_for_Robust_Anomaly_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2045",
+      "paper_id": "",
+      "title": "Bayesian Prompt Flow Learning for Zero-Shot Anomaly Detection",
+      "authors": "Zhen Qu, Xian Tao, Xinyi Gong, ShiChen Qu, Qiyu Chen, Zhengtao Zhang, Xingang Wang, Guiguang Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qu_Bayesian_Prompt_Flow_Learning_for_Zero-Shot_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1694",
+      "paper_id": "",
+      "title": "Beyond Single-Modal Boundary: Cross-Modal Anomaly Detection through Visual Prototype and Harmonization",
+      "authors": "Kai Mao, Ping Wei, Yiyang Lian, Yangyang Wang, Nanning Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mao_Beyond_Single-Modal_Boundary_Cross-Modal_Anomaly_Detection_through_Visual_Prototype_and_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1097",
+      "paper_id": "",
+      "title": "Catching Both Gray and Black Swans: Open-Set Supervised Anomaly Detection",
+      "authors": "Choubo Ding, Guansong Pang, Chunhua Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Catching_Both_Gray_and_Black_Swans_Open-Set_Supervised_Anomaly_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1077",
+      "paper_id": "",
+      "title": "Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline",
+      "authors": "Anas Al-lahham, Muhammad Zaigham Zaheer, Nurbek Tastan, Karthik Nandakumar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2171",
+      "paper_id": "",
+      "title": "Correcting Deviations from Normality: A Reformulated Diffusion Model for Multi-Class Unsupervised Anomaly Detection",
+      "authors": "Farzad Beizaee, Gregory A. Lodygensky, Christian Desrosiers, Jose Dolz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Beizaee_Correcting_Deviations_from_Normality_A_Reformulated_Diffusion_Model_for_Multi-Class_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_294",
+      "paper_id": "",
+      "title": "CutPaste: Self-Supervised Learning for Anomaly Detection and Localization",
+      "authors": "Chun-Liang Li, Kihyuk Sohn, Jinsung Yoon, Tomas Pfister",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_CutPaste_Self-Supervised_Learning_for_Anomaly_Detection_and_Localization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1120",
+      "paper_id": "",
+      "title": "Deep Anomaly Discovery From Unlabeled Videos via Normality Advantage and Self-Paced Refinement",
+      "authors": "Guang Yu, Siqi Wang, Zhiping Cai, Xinwang Liu, Chuanfu Xu, Chengkun Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Deep_Anomaly_Discovery_From_Unlabeled_Videos_via_Normality_Advantage_and_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_244",
+      "paper_id": "",
+      "title": "DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection",
+      "authors": "Jaewoo Song, Daemin Park, Kanghyun Baek, Sangyub Lee, Jooyoung Choi, Eunji Kim, Sungroh Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_DefectFill_Realistic_Defect_Generation_with_Inpainting_Diffusion_Model_for_Visual_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_103",
+      "paper_id": "",
+      "title": "DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection",
+      "authors": "Xuan Zhang, Shiyu Li, Xi Li, Ping Huang, Jiulong Shan, Ting Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_DeSTSeg_Segmentation_Guided_Denoising_Student-Teacher_for_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_44",
+      "paper_id": "",
+      "title": "DFM: Differentiable Feature Matching for Anomaly Detection",
+      "authors": "Sheng Wu, Yimi Wang, Xudong Liu, Yuguang Yang, Runqi Wang, Guodong Guo, David Doermann, Baochang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_DFM_Differentiable_Feature_Matching_for_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1007",
+      "paper_id": "",
+      "title": "Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection",
+      "authors": "Jia Guo, Shuai Lu, Weihang Zhang, Fang Chen, Huiqi Li, Hongen Liao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Dinomaly_The_Less_Is_More_Philosophy_in_Multi-Class_Unsupervised_Anomaly_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_623",
+      "paper_id": "",
+      "title": "Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection",
+      "authors": "Fuyun Wang, Tong Zhang, Yuanzhi Wang, Yide Qiu, Xin Liu, Xu Guo, Zhen Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Distribution_Prototype_Diffusion_Learning_for_Open-set_Supervised_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1883",
+      "paper_id": "",
+      "title": "Diversity-Measurable Anomaly Detection",
+      "authors": "Wenrui Liu, Hong Chang, Bingpeng Ma, Shiguang Shan, Xilin Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Diversity-Measurable_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_256",
+      "paper_id": "",
+      "title": "Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation",
+      "authors": "Ying Jin, Jinlong Peng, Qingdong He, Teng Hu, Jiafu Wu, Hao Chen, Haoxuan Wang, Wenbing Zhu, Mingmin Chi, Jun Liu, Yabiao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jin_Dual-Interrelated_Diffusion_Model_for_Few-Shot_Anomaly_Image_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_403",
+      "paper_id": "",
+      "title": "EVAL: Explainable Video Anomaly Localization",
+      "authors": "Ashish Singh, Michael J. Jones, Erik G. Learned-Miller",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_EVAL_Explainable_Video_Anomaly_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_176",
+      "paper_id": "",
+      "title": "Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection",
+      "authors": "Xincheng Yao, Ruoqi Li, Jing Zhang, Jun Sun, Chongyang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Explicit_Boundary_Guided_Semi-Push-Pull_Contrastive_Learning_for_Supervised_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_233",
+      "paper_id": "",
+      "title": "Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection",
+      "authors": "Chen Zhang, Guorong Li, Yuankai Qi, Shuhui Wang, Laiyun Qing, Qingming Huang, Ming-Hsuan Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Exploiting_Completeness_and_Uncertainty_of_Pseudo_Labels_for_Weakly_Supervised_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1702",
+      "paper_id": "",
+      "title": "Exploring Intrinsic Normal Prototypes within a Single Image for Universal Anomaly Detection",
+      "authors": "Wei Luo, Yunkang Cao, Haiming Yao, Xiaotian Zhang, Jianan Lou, Yuqi Cheng, Weiming Shen, Wenyong Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Exploring_Intrinsic_Normal_Prototypes_within_a_Single_Image_for_Universal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1527",
+      "paper_id": "",
+      "title": "Generating Anomalies for Video Anomaly Detection With Prompt-Based Feature Mapping",
+      "authors": "Zuhao Liu, Xiao-Ming Wu, Dian Zheng, Kun-Yu Lin, Wei-Shi Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1756",
+      "paper_id": "",
+      "title": "Generative Cooperative Learning for Unsupervised Video Anomaly Detection",
+      "authors": "M. Zaigham Zaheer, Arif Mahmood, M. Haris Khan, Mattia Segu, Fisher Yu, Seung-Ik Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1257",
+      "paper_id": "",
+      "title": "Glancing at the Patch: Anomaly Localization With Global and Local Feature Comparison",
+      "authors": "Shenzhi Wang, Liwei Wu, Lei Cui, Yujun Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Glancing_at_the_Patch_Anomaly_Localization_With_Global_and_Local_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1280",
+      "paper_id": "",
+      "title": "Harnessing Large Language Models for Training-free Video Anomaly Detection",
+      "authors": "Luca Zanella, Willi Menapace, Massimiliano Mancini, Yiming Wang, Elisa Ricci",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1889",
+      "paper_id": "",
+      "title": "Hierarchical Semantic Contrast for Scene-Aware Video Anomaly Detection",
+      "authors": "Shengyang Sun, Xiaojin Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Hierarchical_Semantic_Contrast_for_Scene-Aware_Video_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_240",
+      "paper_id": "",
+      "title": "Hyperbolic Anomaly Detection",
+      "authors": "Huimin Li, Zhentao Chen, Yunhao Xu, Junlin Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Hyperbolic_Anomaly_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2641",
+      "paper_id": "",
+      "title": "Just Dance with pi! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection",
+      "authors": "Snehashis Majhi, Giacomo D'Amicantonio, Antitza Dantcheva, Quan Kong, Lorenzo Garattoni, Gianpiero Francesca, Egor Bondarev, Francois Bremond",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Majhi_Just_Dance_with_pi_A_Poly-modal_Inductor_for_Weakly-supervised_Video_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_162",
+      "paper_id": "",
+      "title": "Learning Normal Dynamics in Videos With Meta Prototype Network",
+      "authors": "Hui Lv, Chen Chen, Zhen Cui, Chunyan Xu, Yong Li, Jian Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Learning_Normal_Dynamics_in_Videos_With_Meta_Prototype_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2213",
+      "paper_id": "",
+      "title": "Long-Tailed Anomaly Detection with Learnable Class Names",
+      "authors": "Chih-Hui Ho, Kuan-Chuan Peng, Nuno Vasconcelos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ho_Long-Tailed_Anomaly_Detection_with_Learnable_Class_Names_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_782",
+      "paper_id": "",
+      "title": "Look Around for Anomalies: Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning",
+      "authors": "MyeongAh Cho, Minjung Kim, Sangwon Hwang, Chaewon Park, Kyungjae Lee, Sangyoun Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2383",
+      "paper_id": "",
+      "title": "Looking 3D: Anomaly Detection with 2D-3D Alignment",
+      "authors": "Ankan Bhunia, Changjian Li, Hakan Bilen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bhunia_Looking_3D_Anomaly_Detection_with_2D-3D_Alignment_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_656",
+      "paper_id": "",
+      "title": "MANTA: A Large-Scale Multi-View and Visual-Text Anomaly Detection Dataset for Tiny Objects",
+      "authors": "Lei Fan, Dongdong Fan, Zhiguang Hu, Yiwen Ding, Donglin Di, Kai Yi, Maurice Pagnucco, Yang Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_MANTA_A_Large-Scale_Multi-View_and_Visual-Text_Anomaly_Detection_Dataset_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_88",
+      "paper_id": "",
+      "title": "MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection",
+      "authors": "Jia-Chang Feng, Fa-Ting Hong, Wei-Shi Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_MIST_Multiple_Instance_Self-Training_Framework_for_Video_Anomaly_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1897",
+      "paper_id": "",
+      "title": "MULDE: Multiscale Log-Density Estimation via Denoising Score Matching for Video Anomaly Detection",
+      "authors": "Jakub Micorek, Horst Possegger, Dominik Narnhofer, Horst Bischof, Mateusz Kozinski",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Micorek_MULDE_Multiscale_Log-Density_Estimation_via_Denoising_Score_Matching_for_Video_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_433",
+      "paper_id": "",
+      "title": "Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning",
+      "authors": "Menghao Zhang, Jingyu Wang, Qi Qi, Haifeng Sun, Zirui Zhuang, Pengfei Ren, Ruilong Ma, Jianxin Liao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1813",
+      "paper_id": "",
+      "title": "Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties",
+      "authors": "Wenqiao Li, Bozhong Zheng, Xiaohao Xu, Jinye Gan, Fading Lu, Xiang Li, Na Ni, Zheng Tian, Xiaonan Huang, Shenghua Gao, Yingna Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Multi-Sensor_Object_Anomaly_Detection_Unifying_Appearance_Geometry_and_Internal_Properties_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1090",
+      "paper_id": "",
+      "title": "Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping",
+      "authors": "Alex Costanzino, Pierluigi Zama Ramirez, Giuseppe Lisanti, Luigi Di Stefano",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Costanzino_Multimodal_Industrial_Anomaly_Detection_by_Crossmodal_Feature_Mapping_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1198",
+      "paper_id": "",
+      "title": "Multimodal Industrial Anomaly Detection via Hybrid Fusion",
+      "authors": "Yue Wang, Jinlong Peng, Jiangning Zhang, Ran Yi, Yabiao Wang, Chengjie Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Multimodal_Industrial_Anomaly_Detection_via_Hybrid_Fusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1585",
+      "paper_id": "",
+      "title": "Multiresolution Knowledge Distillation for Anomaly Detection",
+      "authors": "Mohammadreza Salehi, Niousha Sadjadi, Soroosh Baselizadeh, Mohammad H. Rohban, Hamid R. Rabiee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2730",
+      "paper_id": "",
+      "title": "Noise-Resistant Video Anomaly Detection via RGB Error-Guided Multiscale Predictive Coding and Dynamic Memory",
+      "authors": "Han Hu, Wenli Du, Peng Liao, Bing Wang, Siyuan Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_Noise-Resistant_Video_Anomaly_Detection_via_RGB_Error-Guided_Multiscale_Predictive_Coding_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1280",
+      "paper_id": "",
+      "title": "Odd-One-Out: Anomaly Detection by Comparing with Neighbors",
+      "authors": "Ankan Bhunia, Changjian Li, Hakan Bilen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bhunia_Odd-One-Out_Anomaly_Detection_by_Comparing_with_Neighbors_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1821",
+      "paper_id": "",
+      "title": "OmniAL: A Unified CNN Framework for Unsupervised Anomaly Localization",
+      "authors": "Ying Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_OmniAL_A_Unified_CNN_Framework_for_Unsupervised_Anomaly_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1872",
+      "paper_id": "",
+      "title": "One-for-More: Continual Diffusion Model for Anomaly Detection",
+      "authors": "Xiaofan Li, Xin Tan, Zhuo Chen, Zhizhong Zhang, Ruixin Zhang, Rizen Guo, Guanna Jiang, Yulong Chen, Yanyun Qu, Lizhuang Ma, Yuan Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_One-for-More_Continual_Diffusion_Model_for_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1026",
+      "paper_id": "",
+      "title": "Open-Vocabulary Video Anomaly Detection",
+      "authors": "Peng Wu, Xuerong Zhou, Guansong Pang, Yujia Sun, Jing Liu, Peng Wang, Yanning Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_505",
+      "paper_id": "",
+      "title": "Open-World Semantic Segmentation Including Class Similarity",
+      "authors": "Matteo Sodano, Federico Magistri, Lucas Nunes, Jens Behley, Cyrill Stachniss",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_776",
+      "paper_id": "",
+      "title": "PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation",
+      "authors": "Tal Reiss, Niv Cohen, Liron Bergman, Yedid Hoshen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Reiss_PANDA_Adapting_Pretrained_Features_for_Anomaly_Detection_and_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1768",
+      "paper_id": "",
+      "title": "PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies",
+      "authors": "Mojtaba Nafez, Amirhossein Koochakian, Arad Maleki, Jafar Habibi, Mohammad Hossein Rohban",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Nafez_PatchGuard_Adversarially_Robust_Anomaly_Detection_and_Localization_through_Vision_Transformers_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_536",
+      "paper_id": "",
+      "title": "PIAD: Pose and Illumination agnostic Anomaly Detection",
+      "authors": "Kaichen Yang, Junjie Cao, Zeyu Bai, Zhixun Su, Andrea Tagliasacchi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_657",
+      "paper_id": "",
+      "title": "Pixel-Wise Anomaly Detection in Complex Driving Scenes",
+      "authors": "Giancarlo Di Biase, Hermann Blum, Roland Siegwart, Cesar Cadena",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Di_Biase_Pixel-Wise_Anomaly_Detection_in_Complex_Driving_Scenes_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1356",
+      "paper_id": "",
+      "title": "PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection",
+      "authors": "Jianan Ye, Weiguang Zhao, Xi Yang, Guangliang Cheng, Kaizhu Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ye_PO3AD_Predicting_Point_Offsets_toward_Better_3D_Point_Cloud_Anomaly_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1517",
+      "paper_id": "",
+      "title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
+      "authors": "Junxi Chen, Liang Li, Li Su, Zheng-jun Zha, Qingming Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1363",
+      "paper_id": "",
+      "title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection",
+      "authors": "Xiaofan Li, Zhizhong Zhang, Xin Tan, Chengwei Chen, Yanyun Qu, Yuan Xie, Lizhuang Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_PromptAD_Learning_Prompts_with_only_Normal_Samples_for_Few-Shot_Anomaly_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1521",
+      "paper_id": "",
+      "title": "Prototypical Residual Networks for Anomaly Detection and Localization",
+      "authors": "Hui Zhang, Zuxuan Wu, Zheng Wang, Zhineng Chen, Yu-Gang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Prototypical_Residual_Networks_for_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1416",
+      "paper_id": "",
+      "title": "PyramidFlow: High-Resolution Defect Contrastive Localization Using Pyramid Normalizing Flow",
+      "authors": "Jiarui Lei, Xiaobo Hu, Yue Wang, Dong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_PyramidFlow_High-Resolution_Defect_Contrastive_Localization_Using_Pyramid_Normalizing_Flow_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_825",
+      "paper_id": "",
+      "title": "Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection",
+      "authors": "Wenbing Zhu, Lidong Wang, Ziqing Zhou, Chengjie Wang, Yurui Pan, Ruoyi Zhang, Zhuhao Chen, Linjie Cheng, Bin-Bin Gao, Jiangning Zhang, Zhenye Gan, Yuxie Wang, Yulong Chen, Shuguang Qian, Mingmin Chi, Bo Peng, Lizhuang Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Real-IAD_D3_A_Real-World_2DPseudo-3D3D_Dataset_for_Industrial_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1270",
+      "paper_id": "",
+      "title": "Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection",
+      "authors": "Chengjie Wang, Wenbing Zhu, Bin-Bin Gao, Zhenye Gan, Jiangning Zhang, Zhihao Gu, Shuguang Qian, Mingang Chen, Lizhuang Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Real-IAD_A_Real-World_Multi-View_Dataset_for_Benchmarking_Versatile_Industrial_Anomaly_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2100",
+      "paper_id": "",
+      "title": "RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection",
+      "authors": "Ximiao Zhang, Min Xu, Xiuzhuang Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_RealNet_A_Feature_Selection_Network_with_Realistic_Synthetic_Anomaly_for_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1628",
+      "paper_id": "",
+      "title": "Revisiting Reverse Distillation for Anomaly Detection",
+      "authors": "Tran Dinh Tien, Anh Tuan Nguyen, Nguyen Hoang Tran, Ta Duc Huy, Soan T.M. Duong, Chanh D. Tr. Nguyen, Steven Q. H. Truong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_918",
+      "paper_id": "",
+      "title": "Self-Distilled Masked Auto-Encoders are Efficient Video Anomaly Detectors",
+      "authors": "Nicolae-C?t?lin Ristea, Florinel-Alin Croitoru, Radu Tudor Ionescu, Marius Popescu, Fahad Shahbaz Khan, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ristea_Self-Distilled_Masked_Auto-Encoders_are_Efficient_Video_Anomaly_Detectors_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_180",
+      "paper_id": "",
+      "title": "Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection",
+      "authors": "Nicolae-Cătălin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_959",
+      "paper_id": "",
+      "title": "SimpleNet: A Simple Network for Image Anomaly Detection and Localization",
+      "authors": "Zhikang Liu, Yiming Zhou, Yuansheng Xu, Zilei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SimpleNet_A_Simple_Network_for_Image_Anomaly_Detection_and_Localization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_697",
+      "paper_id": "",
+      "title": "Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving",
+      "authors": "Alexey Nekrasov, Malcolm Burdorf, Stewart Worrall, Bastian Leibe, Julie Stephany Berrio Perez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_467",
+      "paper_id": "",
+      "title": "Supervised Anomaly Detection for Complex Industrial Images",
+      "authors": "Aimira Baitieva, David Hurych, Victor Besnier, Olivier Bernard",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Baitieva_Supervised_Anomaly_Detection_for_Complex_Industrial_Images_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2522",
+      "paper_id": "",
+      "title": "TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection",
+      "authors": "Yoon Gyo Jung, Jaewoo Park, Jaeho Yoon, Kuan-Chuan Peng, Wonchul Kim, Andrew Beng Jin Teoh, Octavia Camps",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_TailedCore_Few-Shot_Sampling_for_Unsupervised_Long-Tail_Noisy_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_443",
+      "paper_id": "",
+      "title": "Text Prompt with Normality Guidance for Weakly Supervised Video Anomaly Detection",
+      "authors": "Zhiwei Yang, Jing Liu, Peng Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Text_Prompt_with_Normality_Guidance_for_Weakly_Supervised_Video_Anomaly_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2615",
+      "paper_id": "",
+      "title": "Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation",
+      "authors": "Mingyu Lee, Jongwon Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Text-Guided_Variational_Image_Generation_for_Industrial_Anomaly_Detection_and_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1969",
+      "paper_id": "",
+      "title": "Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts",
+      "authors": "Jiawen Zhu, Guansong Pang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Toward_Generalist_Anomaly_Detection_via_In-context_Residual_Learning_with_Few-shot_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_118",
+      "paper_id": "",
+      "title": "Towards Scalable 3D Anomaly Detection and Localization: A Benchmark via 3D Anomaly Synthesis and A Self-Supervised Learning Network",
+      "authors": "Wenqiao Li, Xiaohao Xu, Yao Gu, Bozhong Zheng, Shenghua Gao, Yingna Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Towards_Scalable_3D_Anomaly_Detection_and_Localization_A_Benchmark_via_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2182",
+      "paper_id": "",
+      "title": "Towards Surveillance Video-and-Language Understanding: New Dataset Baselines and Challenges",
+      "authors": "Tongtong Yuan, Xuange Zhang, Kun Liu, Bo Liu, Chen Chen, Jian Jin, Zhenzhen Jiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Towards_Surveillance_Video-and-Language_Understanding_New_Dataset_Baselines_and_Challenges_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1090",
+      "paper_id": "",
+      "title": "Towards Total Recall in Industrial Anomaly Detection",
+      "authors": "Karsten Roth, Latha Pemula, Joaquin Zepeda, Bernhard Schölkopf, Thomas Brox, Peter Gehler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Roth_Towards_Total_Recall_in_Industrial_Anomaly_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2035",
+      "paper_id": "",
+      "title": "Towards Training-free Anomaly Detection with Vision and Language Foundation Models",
+      "authors": "Jinjin Zhang, Guodong Wang, Yizhou Jin, Di Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Towards_Training-free_Anomaly_Detection_with_Vision_and_Language_Foundation_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1861",
+      "paper_id": "",
+      "title": "Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection",
+      "authors": "Wenqiao Li, Yao Gu, Xintao Chen, Xiaohao Xu, Ming Hu, Xiaonan Huang, Yingna Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Towards_Visual_Discrimination_and_Reasoning_of_Real-World_Physical_Dynamics_Physics-Grounded_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1340",
+      "paper_id": "",
+      "title": "Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models",
+      "authors": "Jiacong Xu, Shao-Yuan Lo, Bardia Safaei, Vishal M. Patel, Isht Dwivedi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Towards_Zero-Shot_Anomaly_Detection_and_Reasoning_with_Multimodal_Large_Language_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1736",
+      "paper_id": "",
+      "title": "Track Any Anomalous Object:A Granular Video Anomaly Detection Pipeline",
+      "authors": "Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Track_Any_Anomalous_ObjectA_Granular_Video_Anomaly_Detection_Pipeline_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_2053",
+      "paper_id": "",
+      "title": "UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection",
+      "authors": "Andra Acsintoae, Andrei Florescu, Mariana-Iuliana Georgescu, Tudor Mare, Paul Sumedrea, Radu Tudor Ionescu, Fahad Shahbaz Khan, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2005",
+      "paper_id": "",
+      "title": "Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
+      "authors": "Hui Lv, Zhongqi Yue, Qianru Sun, Bin Luo, Zhen Cui, Hanwang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Unbiased_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_796",
+      "paper_id": "",
+      "title": "UniNet: A Contrastive Learning-guided Unified Framework with Feature Selection for Anomaly Detection",
+      "authors": "Shun Wei, Jielin Jiang, Xiaolong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_UniNet_A_Contrastive_Learning-guided_Unified_Framework_with_Feature_Selection_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1430",
+      "paper_id": "",
+      "title": "UniVAD: A Training-free Unified Model for Few-shot Visual Anomaly Detection",
+      "authors": "Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gu_UniVAD_A_Training-free_Unified_Model_for_Few-shot_Visual_Anomaly_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1209",
+      "paper_id": "",
+      "title": "Unseen Visual Anomaly Generation",
+      "authors": "Han Sun, Yunkang Cao, Hao Dong, Olga Fink",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Unseen_Visual_Anomaly_Generation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_28",
+      "paper_id": "",
+      "title": "Video Event Restoration Based on Keyframes for Video Anomaly Detection",
+      "authors": "Zhiwei Yang, Jing Liu, Zhaoyang Wu, Peng Wu, Xiaotao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Video_Event_Restoration_Based_on_Keyframes_for_Video_Anomaly_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2207",
+      "paper_id": "",
+      "title": "WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation",
+      "authors": "Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jeong_WinCLIP_Zero-Few-Shot_Anomaly_Classification_and_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    }
+  ]
+}

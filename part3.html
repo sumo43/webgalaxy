@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Content & Trend Viewer (Lazy)</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    /* ===== Theme ===== */
+    :root{
+      --bg:#0b0c10; --card:#111317; --border:#252a32; --muted:#9aa3af; --text:#f1f5f9;
+      --heading:#f6dcc9; --accent:#ef9a73; --accent-strong:#e6764f;
+      --table-head:#1b212a; --table-row:#12161d; --table-row-alt:#0f141b; --grid:#2a303a;
+    }
+
+    body{ padding:3rem 2rem; background:var(--bg); color:var(--text);
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;}
+    .container{ max-width:90%; }
+
+    .section-title{ color:var(--heading); font-weight:800; letter-spacing:-.02em; line-height:1.1; }
+
+    /* Tabs */
+    .nav-tabs{ border-bottom:1px solid var(--border); }
+    .nav-tabs .nav-link{
+      display:inline-flex; align-items:center; padding:.55rem 1rem; margin:0 .35rem; line-height:1.2;
+      color:#b8c1cc; background:transparent; border:none!important; border-bottom:3px solid transparent;
+      border-radius:.75rem;
+    }
+    .nav-tabs .nav-link:hover{ color:var(--text); }
+    .nav-tabs .nav-link.active{
+      color:var(--accent); background:rgba(255,255,255,.06); border-bottom-color:var(--accent);
+      box-shadow: inset 0 -3px 0 var(--accent); font-weight:700;
+    }
+
+    .nav-pills .nav-link{ color:#cfd6df; background:transparent; }
+    .nav-pills .nav-link:hover{ color:var(--text); }
+    .nav-pills .nav-link.active{ background:#151a22; color:var(--accent); font-weight:600; border:1px solid var(--border); }
+    .inner-tab-content{ padding-top:1.5rem; }
+
+    /* Cards / panes */
+    .main-tab-pane{
+      background:var(--card); padding:2.5rem; border:1px solid var(--border); border-radius:1rem;
+      box-shadow:0 10px 30px rgba(0,0,0,.35); margin-top:-1px;
+    }
+
+    /* Category header */
+    .category-title{ color:var(--accent); font-size:1.25rem; padding-bottom:.75rem; margin-bottom:.75rem; border-bottom:1px solid var(--border); font-weight:700; }
+
+    /* Tables */
+    .table{ font-size:.95rem; border-collapse:separate; border-spacing:0;
+      --bs-table-color:var(--text); --bs-table-bg:var(--table-row);
+      --bs-table-striped-bg:var(--table-row-alt); --bs-table-striped-color:var(--text);
+      --bs-table-hover-bg:var(--table-row-alt); --bs-table-hover-color:var(--text);
+      --bs-table-border-color:var(--grid); color:var(--text);}
+    .table thead th{ font-weight:700; background:var(--table-head); border-bottom:2px solid var(--grid); color:var(--text);}
+    .table tbody tr td{ vertical-align:middle; border-top:1px solid var(--grid);}
+    .table-hover tbody tr:hover{ background:var(--table-row-alt); color:var(--text);}
+    .table th, .table td{ white-space:normal; word-break:break-word; }
+
+    /* Trend cards */
+    .trend-plot-container{
+      width:100%; height:300px; border:1px solid var(--border); border-radius:1rem;
+      background:var(--card); box-shadow:0 6px 20px rgba(0,0,0,.35);
+    }
+
+    .text-muted{ color:var(--muted)!important; }
+    hr{ border-color:var(--border); opacity:1; }
+    code{ color:var(--text); background:#151a22; border:1px solid var(--border); padding:.125rem .25rem; border-radius:.375rem; }
+
+    /* ===== Mobile-first fixes ===== */
+    /* Scrollable tabs with snap */
+    .tabs-scroll{ overflow-x:auto; overflow-y:hidden; flex-wrap:nowrap; -webkit-overflow-scrolling:touch; gap:.25rem; scroll-snap-type:x proximity; }
+    .tabs-scroll .nav-item{ flex:0 0 auto; scroll-snap-align:center; }
+    .tabs-scroll::-webkit-scrollbar{ display:none; } /* hide iOS/Chrome scrollbar */
+    .tabs-scroll{ scrollbar-width:none; }           /* hide Firefox scrollbar */
+
+    @media (max-width: 576px){
+      body{ padding:1rem; }
+      .container{ max-width:100%; }
+      .display-4{ font-size:1.75rem; }
+      .main-tab-pane{ padding:1rem; border-radius:.75rem; }
+      .nav .nav-link{ padding:.5rem .75rem; font-size:.9rem; }
+      .category-title{ font-size:1.1rem; }
+      .table{ font-size:.9rem; }
+      .trend-plot-container{ height:220px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container" id="app"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script>
+    /* -------- Config -------- */
+    const TREND_DATA_PATHS = {
+      robotics:{ name:"Robotics", path:"./assets/trend/rss_corl.json" },
+      cv:{ name:"CV", path:"./assets/trend/cvpr.json" },
+      nlp:{ name:"NLP", path:"./assets/trend/acl.json" },
+      ml:{ name:"ML", path:"./assets/trend/iclr.json" },
+      siggraph:{ name:"Graphics", path:"./assets/trend/siggraph.json" },
+      nature:{ name:"Nature", path:"./assets/trend/nature.json" },
+      science:{ name:"Science", path:"./assets/trend/science.json" }
+    };
+
+    const APP_STATE = {
+      trends:{ loadedDomains:new Set(), data:new Map(), observer:null, plotted:new Set() }
+    };
+
+    /* -------- Utils -------- */
+    async function fetchJSON(url){
+      try{ const res = await fetch(url,{cache:"no-store"}); if(!res.ok) return {ok:false,status:res.status,data:null}; return {ok:true,status:res.status,data:await res.json()}; }
+      catch(e){ return {ok:false,status:0,data:null}; }
+    }
+    function chunk(arr, size){ const out=[]; for(let i=0;i<arr.length;i+=size) out.push(arr.slice(i,i+size)); return out; }
+    function el(tag, attrs={}, html=""){
+      const node=document.createElement(tag);
+      Object.entries(attrs).forEach(([k,v])=>{ if(k==="class") node.className=v; else if(k.startsWith("data-")) node.setAttribute(k,v); else if(k==="for") node.htmlFor=v; else node.setAttribute(k,v); });
+      if(html instanceof Node) node.appendChild(html); else if(Array.isArray(html)) html.forEach(c=>node.appendChild(c)); else node.innerHTML=html; return node;
+    }
+    function spinner(label="Loading…"){ return el("div",{class:"d-flex flex-column align-items-center text-muted my-3"},`<div class="spinner-border" role="status" aria-hidden="true"></div><div class="small mt-2">${label}</div>`); }
+    function normalizeTrendsJSON(loaded){
+      if(!loaded) return []; if(Array.isArray(loaded)) return loaded; if(Array.isArray(loaded.trends)) return loaded.trends;
+      if(typeof loaded==="object"){ return Object.entries(loaded).map(([k,v])=>({ cluster_id:v?.cluster_id ?? v?.cluster ?? k, ...v })); }
+      return [];
+    }
+
+    /* ===== Trends ===== */
+    function renderTrendsShell(){
+      const section=el("div",{class:"trends-section mt-2"});
+
+      const wrapper=el("div",{class:"main-tab-pane"});
+      const tabList=el("ul",{class:"nav nav-pills tabs-scroll",id:"trends-sub-tabs",role:"tablist"});
+      const tabContent=el("div",{class:"tab-content inner-tab-content",id:"trends-sub-tabs-content"});
+
+      const keys=Object.keys(TREND_DATA_PATHS);
+      keys.forEach((domainKey,idx)=>{
+        const domain=TREND_DATA_PATHS[domainKey]; const isActive=idx===0?"active":"";
+        const li=el("li",{class:"nav-item",role:"presentation"});
+        const btn=el("button",{class:`nav-link ${isActive}`,id:`${domainKey}-trends-tab`,type:"button","data-bs-toggle":"tab","data-bs-target":`#trends-${domainKey}-pane`,"data-domain":domainKey},domain.name);
+        li.appendChild(btn); tabList.appendChild(li);
+
+        const pane=el("div",{class:`tab-pane fade ${isActive?"show active":""}`,id:`trends-${domainKey}-pane`,role:"tabpanel"});
+        pane.appendChild(spinner("Waiting to load trends…")); tabContent.appendChild(pane);
+      });
+
+      wrapper.appendChild(tabList); wrapper.appendChild(tabContent);
+      wrapper.addEventListener('shown.bs.tab',ev=>{ const domainKey=ev.target?.dataset?.domain; if(domainKey) ensureTrendsDomainLoaded(domainKey); });
+      section.appendChild(wrapper);
+      return section;
+    }
+
+    async function ensureTrendsDomainLoaded(domainKey){
+      if(APP_STATE.trends.loadedDomains.has(domainKey)){ setTimeout(()=>window.dispatchEvent(new Event('resize')),0); return; }
+      const pane=document.getElementById(`trends-${domainKey}-pane`); if(!pane) return;
+      pane.innerHTML=""; pane.appendChild(spinner("Loading trends…"));
+
+      const cfg=TREND_DATA_PATHS[domainKey];
+      const res=await fetchJSON(cfg.path);
+      const trends=normalizeTrendsJSON(res.data);
+
+      pane.innerHTML="";
+      if(!Array.isArray(trends) || !trends.length){
+        const msg=res.ok?"Trend file loaded but had an unexpected format or was empty.":`No trend data file found (status ${res.status}).`;
+        pane.appendChild(el("p",{class:"text-muted mt-3"},`${msg} Please check the configured JSON file.`));
+        APP_STATE.trends.loadedDomains.add(domainKey); return;
+      }
+
+      let sorted=trends;
+      if(trends.length && typeof trends[0]==="object" && "rank" in trends[0]) sorted=trends.slice().sort((a,b)=>(a.rank??Infinity)-(b.rank??Infinity));
+
+      const mapById=new Map(sorted.map(t=>[String(t.cluster_id),t]));
+      APP_STATE.trends.data.set(domainKey,{trends:sorted,mapById});
+
+      const rows=chunk(sorted,3);
+      rows.forEach(row=>{
+        const rowDiv=el("div",{class:"row g-3 mb-1"});
+        row.forEach(trend=>{
+          const col=el("div",{class:"col-lg-4 col-md-6"});
+          const container=el("div",{class:"trend-plot-container",id:`plot-${domainKey}-${trend.cluster_id}`,"data-domain":domainKey,"data-cid":String(trend.cluster_id)});
+          col.appendChild(container); rowDiv.appendChild(col);
+        });
+        pane.appendChild(rowDiv);
+      });
+
+      if(!APP_STATE.trends.observer){ APP_STATE.trends.observer=new IntersectionObserver(handlePlotIntersect,{root:null,rootMargin:'0px',threshold:0.25}); }
+      pane.querySelectorAll('.trend-plot-container').forEach(node=>APP_STATE.trends.observer.observe(node));
+      APP_STATE.trends.loadedDomains.add(domainKey);
+      setTimeout(()=>window.dispatchEvent(new Event('resize')),50);
+    }
+
+    function handlePlotIntersect(entries,observer){
+      entries.forEach(entry=>{
+        if(!entry.isIntersecting) return;
+        const el=entry.target, domainKey=el.getAttribute('data-domain'), cid=el.getAttribute('data-cid');
+        const plotKey=`${domainKey}-${cid}`; if(APP_STATE.trends.plotted.has(plotKey)){ observer.unobserve(el); return; }
+        const domain=APP_STATE.trends.data.get(domainKey); if(!domain) return;
+        const trend=domain.mapById.get(String(cid)); if(!trend) return;
+        plotTrend(el.id,trend); APP_STATE.trends.plotted.add(plotKey); observer.unobserve(el);
+      });
+    }
+
+    function plotTrend(plotId, trend){
+      const years=Object.keys(trend.proportions||{}).sort();
+      const proportions=years.map(y=>(trend.proportions[y]??0)*100);
+
+      const trace={ x:years, y:proportions, mode:"lines+markers", name:`Cluster ${trend.cluster_id}`,
+        line:{ color:trend.color||"#5fa8ff", width:2 }, marker:{ color:trend.color||"#5fa8ff", size:6 } };
+
+      const keywords=trend.keywords||""; let titleHTML=`<b>${keywords}</b>`;
+      if(keywords.length>25){ const ideal=Math.floor(keywords.length/2); let split=keywords.lastIndexOf(" ",ideal);
+        if(split===-1) split=keywords.indexOf(" ",ideal); if(split!==-1){ titleHTML=`<b>${keywords.substring(0,split)}<br>${keywords.substring(split+1)}</b>`; } }
+
+      const container=document.getElementById(plotId);
+      const h=container ? container.clientHeight : (window.innerWidth<576?220:300);
+
+      const layout={
+        height:h, margin:{l:50,r:20,t:60,b:40}, plot_bgcolor:"rgba(0,0,0,0)", paper_bgcolor:"rgba(0,0,0,0)",
+        yaxis:{ title:{text:"Share (%)",font:{color:"rgba(255,255,255,.85)"}}, tickfont:{color:"rgba(255,255,255,.7)"}, range:[0,10], gridcolor:"rgba(255,255,255,.12)" },
+        xaxis:{ title:{text:"Year",font:{color:"rgba(255,255,255,.85)"}}, tickfont:{color:"rgba(255,255,255,.7)"}, gridcolor:"rgba(255,255,255,.12)" },
+        hovermode:"closest", title:{ text:titleHTML, font:{ size:14, color:trend.color||"#ef9a73" }, y:.95, x:.5, xanchor:"center" }
+      };
+      Plotly.newPlot(plotId,[trace],layout,{ responsive:true, displayModeBar:false });
+    }
+
+    (function main(){
+      const app=document.getElementById("app");
+      const trendsSection=renderTrendsShell(); app.appendChild(trendsSection);
+      const firstDomainKey=Object.keys(TREND_DATA_PATHS)[0]; ensureTrendsDomainLoaded(firstDomainKey);
+    })();
+  </script>
+</body>
+</html>

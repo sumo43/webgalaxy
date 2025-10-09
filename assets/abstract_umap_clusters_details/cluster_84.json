@@ -1,0 +1,1821 @@
+{
+  "cluster_id": 84,
+  "papers": [
+    {
+      "id": "iclr21_vYVI1CHPaQg",
+      "paper_id": "vYVI1CHPaQg",
+      "title": "A Better Alternative to Error Feedback for Communication-Efficient Distributed Learning",
+      "authors": "Samuel Horváth, Peter Richtarik",
+      "paper_url": "https://openreview.net/pdf/74506361fdee66a12846aa4de625aa16b5745878.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_hkSjjs4o5d",
+      "paper_id": "hkSjjs4o5d",
+      "title": "A Differentially Private Clustering Algorithm for Well-Clustered Graphs",
+      "authors": "Weiqiang He, Hendrik Fichtenberger, Pan Peng",
+      "paper_url": "https://openreview.net/pdf?id=hkSjjs4o5d",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ZKEuFKfCKA",
+      "paper_id": "ZKEuFKfCKA",
+      "title": "A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging",
+      "authors": "Shiqiang Wang, Mingyue Ji",
+      "paper_url": "https://openreview.net/pdf?id=ZKEuFKfCKA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_JrmPG9ufKg",
+      "paper_id": "JrmPG9ufKg",
+      "title": "A Mutual Information Perspective on Federated Contrastive Learning",
+      "authors": "Christos Louizos, Matthias Reisser, Denis Korzhenkov",
+      "paper_url": "https://openreview.net/pdf?id=JrmPG9ufKg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_FUiDMCr_W4o",
+      "paper_id": "FUiDMCr_W4o",
+      "title": "A Statistical Framework for Personalized Federated Learning and Estimation: Theory, Algorithms, and Privacy",
+      "authors": "Kaan Ozkara, Antonious M. Girgis, Deepesh Data, Suhas Diggavi",
+      "paper_url": "https://openreview.net/pdf/1addd86b6341672a0897ffdf066611ae89dac3bc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_541PxiEKN3F",
+      "paper_id": "541PxiEKN3F",
+      "title": "Acceleration of Federated Learning with Alleviated Forgetting in Local Training",
+      "authors": "Chencheng Xu, Zhiwei Hong, Minlie Huang, Tao Jiang",
+      "paper_url": "https://openreview.net/pdf/7bfcce1814c09fc250d134309321dc8e0995db05.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_ShQrnAsbPI",
+      "paper_id": "ShQrnAsbPI",
+      "title": "Accurate Forgetting for Heterogeneous Federated Continual Learning",
+      "authors": "Abudukelimu Wuerkaixi, Sen Cui, Jingfeng Zhang, Kunda Yan, Bo Han, Gang Niu, Lei Fang, Changshui Zhang, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf?id=ShQrnAsbPI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_omrLHFzC37",
+      "paper_id": "omrLHFzC37",
+      "title": "Achieving Dimension-Free Communication in Federated Learning via Zeroth-Order Optimization",
+      "authors": "Zhe Li, Bicheng Ying, Zidong Liu, Chaosheng Dong, Haibo Yang",
+      "paper_url": "https://openreview.net/pdf?id=omrLHFzC37",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_jDdzh5ul-d",
+      "paper_id": "jDdzh5ul-d",
+      "title": "Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning",
+      "authors": "Haibo Yang, Minghong Fang, Jia Liu",
+      "paper_url": "https://openreview.net/pdf/d80668746783bad5c0b3ff7eff505b3c40b825cd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ikkvC1UnnE",
+      "paper_id": "ikkvC1UnnE",
+      "title": "Adaptive Batch Size for Privately Finding Second-Order Stationary Points",
+      "authors": "Daogao Liu, Kunal Talwar",
+      "paper_url": "https://openreview.net/pdf?id=ikkvC1UnnE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_g0mlwqs8pi",
+      "paper_id": "g0mlwqs8pi",
+      "title": "Adaptive Federated Learning with Auto-Tuned Clients",
+      "authors": "Junhyung Lyle Kim, Taha Toghani, Cesar A Uribe, Anastasios Kyrillidis",
+      "paper_url": "https://openreview.net/pdf?id=g0mlwqs8pi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_LkFG3lB13U5",
+      "paper_id": "LkFG3lB13U5",
+      "title": "Adaptive Federated Optimization",
+      "authors": "Sashank J. Reddi, Zachary Charles, Manzil Zaheer, Zachary Garrett, Keith Rush, Jakub Konečný, Sanjiv Kumar, Hugh Brendan McMahan",
+      "paper_url": "https://openreview.net/pdf/d3f38daf93af27b20819fe19a4c3ca3f2635d9b1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_03OkC0LKDD",
+      "paper_id": "03OkC0LKDD",
+      "title": "Adaptive Gradient Clipping for Robust Federated Learning",
+      "authors": "Youssef Allouah, Rachid Guerraoui, Nirupam Gupta, Ahmed Jellouli, Geovani Rizk, John Stephan",
+      "paper_url": "https://openreview.net/pdf?id=03OkC0LKDD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Xo0lbDt975",
+      "paper_id": "Xo0lbDt975",
+      "title": "An Agnostic Approach to Federated Learning with Class Imbalance",
+      "authors": "Zebang Shen, Juan Cervino, Hamed Hassani, Alejandro Ribeiro",
+      "paper_url": "https://openreview.net/pdf/5fb84fb47293dfccb811ff5d9f4c2a1861530f17.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_BdPvGRvoBC",
+      "paper_id": "BdPvGRvoBC",
+      "title": "An improved analysis of per-sample and per-update clipping in federated learning",
+      "authors": "Bo Li, Xiaowen Jiang, Mikkel N. Schmidt, Tommy Sonne Alstrøm, Sebastian U Stich",
+      "paper_url": "https://openreview.net/pdf?id=BdPvGRvoBC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5DUekOKWcS",
+      "paper_id": "5DUekOKWcS",
+      "title": "Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis",
+      "authors": "Guangchen Lan, Dong-Jun Han, Abolfazl Hashemi, Vaneet Aggarwal, Christopher Brinton",
+      "paper_url": "https://openreview.net/pdf?id=5DUekOKWcS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_AJBGSVSTT2",
+      "paper_id": "AJBGSVSTT2",
+      "title": "Backdoor Federated Learning by Poisoning Backdoor-Critical Layers",
+      "authors": "Haomin Zhuang, Mingxian Yu, Hao Wang, Yang Hua, Jian Li, Xu Yuan",
+      "paper_url": "https://openreview.net/pdf?id=AJBGSVSTT2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_79nO2DPjVX",
+      "paper_id": "79nO2DPjVX",
+      "title": "Bad-PFL: Exploiting Backdoor Attacks against Personalized Federated Learning",
+      "authors": "Mingyuan Fan, Zhanyi Hu, Fuyi Wang, Cen Chen",
+      "paper_url": "https://openreview.net/pdf?id=79nO2DPjVX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uz7d2N2zul",
+      "paper_id": "uz7d2N2zul",
+      "title": "Bayesian Coreset Optimization for Personalized Federated Learning",
+      "authors": "Prateek Chanda, Shrey Modi, Ganesh Ramakrishnan",
+      "paper_url": "https://openreview.net/pdf?id=uz7d2N2zul",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_wprSv7ichW",
+      "paper_id": "wprSv7ichW",
+      "title": "Benchmarking Algorithms for Federated Domain Generalization",
+      "authors": "Ruqi Bai, Saurabh Bagchi, David I. Inouye",
+      "paper_url": "https://openreview.net/pdf?id=wprSv7ichW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_cRxYWKiTan",
+      "paper_id": "cRxYWKiTan",
+      "title": "Better Generative Replay for Continual Federated Learning",
+      "authors": "Daiqing Qi, Handong Zhao, Sheng Li",
+      "paper_url": "https://openreview.net/pdf/615fb01c6988a5eceaf1dbbe4113fd17ab8cc9f4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_V7CYzdruWdm",
+      "paper_id": "V7CYzdruWdm",
+      "title": "Bias Propagation in Federated Learning",
+      "authors": "Hongyan Chang, Reza Shokri",
+      "paper_url": "https://openreview.net/pdf/cd842625432bee710e8d97bcd6d111c02078164e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_7dpmlkBuJFC",
+      "paper_id": "7dpmlkBuJFC",
+      "title": "Bypassing the Ambient Dimension: Private SGD with Gradient Subspace Identification",
+      "authors": "Yingxue Zhou, Steven Wu, Arindam Banerjee",
+      "paper_url": "https://openreview.net/pdf/72b062d9241693b3927766cc1cea70d6cd216bd2.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_PbEHqvFtcS",
+      "paper_id": "PbEHqvFtcS",
+      "title": "Byzantine-Resilient Non-Convex Stochastic Gradient Descent",
+      "authors": "Zeyuan Allen-Zhu, Faeze Ebrahimianghazani, Jerry Li, Dan Alistarh",
+      "paper_url": "https://openreview.net/pdf/028c5ec3b39d900de34fdeafb26a3ada7f3abc11.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_jXKKDEi5vJt",
+      "paper_id": "jXKKDEi5vJt",
+      "title": "Byzantine-Robust Learning on Heterogeneous Datasets via Bucketing",
+      "authors": "Sai Praneeth Karimireddy, Lie He, Martin Jaggi",
+      "paper_url": "https://openreview.net/pdf/def52b4b7685b406e3aa64994f6e04b41df63bdb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Cy5IKvYbR3",
+      "paper_id": "Cy5IKvYbR3",
+      "title": "Can Textual Gradient Work in Federated Learning?",
+      "authors": "Minghui Chen, Ruinan Jin, Wenlong Deng, Yuanyuan Chen, Zhi Huang, Han Yu, Xiaoxiao Li",
+      "paper_url": "https://openreview.net/pdf?id=Cy5IKvYbR3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Kf7Yyf4O0u",
+      "paper_id": "Kf7Yyf4O0u",
+      "title": "CANIFE: Crafting Canaries for Empirical Privacy Measurement in Federated Learning",
+      "authors": "Samuel Maddock, Alexandre Sablayrolles, Pierre Stock",
+      "paper_url": "https://openreview.net/pdf/6b1d947f2e3ef1d00d6505afa1d44a021202d5b6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_h2EbJ4_wMVq",
+      "paper_id": "h2EbJ4_wMVq",
+      "title": "CaPC Learning: Confidential and Private Collaborative Learning",
+      "authors": "Christopher A. Choquette-Choo, Natalie Dullerud, Adam Dziedzic, Yunxiang Zhang, Somesh Jha, Nicolas Papernot, Xiao Wang",
+      "paper_url": "https://openreview.net/pdf/db02ce664fd72e5ee7ca8809ea8714aa7e6cfdb6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_ROpY0qRUXL",
+      "paper_id": "ROpY0qRUXL",
+      "title": "Closed-Form Merging of Parameter-Efficient Modules for Federated Continual Learning",
+      "authors": "Riccardo Salami, Pietro Buzzega, Matteo Mosconi, Jacopo Bonato, Luigi Sabetta, Simone Calderara",
+      "paper_url": "https://openreview.net/pdf?id=ROpY0qRUXL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_eKllxpLOOm",
+      "paper_id": "eKllxpLOOm",
+      "title": "Combating Exacerbated Heterogeneity for Robust Models in Federated Learning",
+      "authors": "Jianing Zhu, Jiangchao Yao, Tongliang Liu, quanming yao, Jianliang Xu, Bo Han",
+      "paper_url": "https://openreview.net/pdf/be55361c7545539cbbf76ba1cb0bf7b7d99ec94e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_nFI3wFM9yN",
+      "paper_id": "nFI3wFM9yN",
+      "title": "Communication-Efficient Federated Non-Linear Bandit Optimization",
+      "authors": "Chuanhao Li, Chong Liu, Yu-Xiang Wang",
+      "paper_url": "https://openreview.net/pdf?id=nFI3wFM9yN",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_PQY2v6VtGe",
+      "paper_id": "PQY2v6VtGe",
+      "title": "Confidential-DPproof: Confidential Proof of Differentially Private Training",
+      "authors": "Ali Shahin Shamsabadi, Gefei Tan, Tudor Ioan Cebere, Aurélien Bellet, Hamed Haddadi, Nicolas Papernot, Xiao Wang, Adrian Weller",
+      "paper_url": "https://openreview.net/pdf?id=PQY2v6VtGe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_iIfDQVyuFD",
+      "paper_id": "iIfDQVyuFD",
+      "title": "Confidential-PROFITT: Confidential PROof of FaIr Training of Trees",
+      "authors": "Ali Shahin Shamsabadi, Sierra Calanda Wyllie, Nicholas Franzese, Natalie Dullerud, Sébastien Gambs, Nicolas Papernot, Xiao Wang, Adrian Weller",
+      "paper_url": "https://openreview.net/pdf/20b12822064b2d7eb054021a0f1209e1dd066515.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_ipQrjRsl11",
+      "paper_id": "ipQrjRsl11",
+      "title": "Connecting Federated ADMM to Bayes",
+      "authors": "Siddharth Swaroop, Mohammad Emtiyaz Khan, Finale Doshi-Velez",
+      "paper_url": "https://openreview.net/pdf?id=ipQrjRsl11",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_m52uU0dVbH",
+      "paper_id": "m52uU0dVbH",
+      "title": "Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit",
+      "authors": "Duanyi YAO, Songze Li, Ye XUE, Jin Liu",
+      "paper_url": "https://openreview.net/pdf?id=m52uU0dVbH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_kjmLabjSE2",
+      "paper_id": "kjmLabjSE2",
+      "title": "Convergent Privacy Loss of Noisy-SGD without Convexity and Smoothness",
+      "authors": "Eli Chien, Pan Li",
+      "paper_url": "https://openreview.net/pdf?id=kjmLabjSE2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_xHmCdSArUC",
+      "paper_id": "xHmCdSArUC",
+      "title": "Correlated Noise Provably Beats Independent Noise for Differentially Private Learning",
+      "authors": "Christopher A. Choquette-Choo, Krishnamurthy Dj Dvijotham, Krishna Pillutla, Arun Ganesh, Thomas Steinke, Abhradeep Guha Thakurta",
+      "paper_url": "https://openreview.net/pdf?id=xHmCdSArUC",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23__hb4vM3jspB",
+      "paper_id": "_hb4vM3jspB",
+      "title": "Data-Free One-Shot Federated Learning Under Very High Statistical Heterogeneity",
+      "authors": "Clare Elizabeth Heinbaugh, Emilio Luz-Ricca, Huajie Shao",
+      "paper_url": "https://openreview.net/pdf/901da9f189ab8197e3781bf2163cd89298ff148e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_lPJUQsSIxm",
+      "paper_id": "lPJUQsSIxm",
+      "title": "DCT-CryptoNets: Scaling Private Inference in the Frequency Domain",
+      "authors": "Arjun Roy, Kaushik Roy",
+      "paper_url": "https://openreview.net/pdf?id=lPJUQsSIxm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9h45qxXEx0",
+      "paper_id": "9h45qxXEx0",
+      "title": "Debiasing Federated Learning with Correlated Client Participation",
+      "authors": "Zhenyu Sun, ziyang zhang, Zheng Xu, Gauri Joshi, Pranay Sharma, Ermin Wei",
+      "paper_url": "https://openreview.net/pdf?id=9h45qxXEx0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_cznqgb4DNv",
+      "paper_id": "cznqgb4DNv",
+      "title": "Decentralized Sporadic Federated Learning: A Unified Algorithmic Framework with Convergence Guarantees",
+      "authors": "Shahryar Zehtabi, Dong-Jun Han, Rohit Parasnis, Seyyedali Hosseinalipour, Christopher Brinton",
+      "paper_url": "https://openreview.net/pdf?id=cznqgb4DNv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_v1rFkElnIn",
+      "paper_id": "v1rFkElnIn",
+      "title": "Decoupled Subgraph Federated Learning",
+      "authors": "Javad Aliakbari, Johan Östman, Alexandre Graell i Amat",
+      "paper_url": "https://openreview.net/pdf?id=v1rFkElnIn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qBWhjsNPEY",
+      "paper_id": "qBWhjsNPEY",
+      "title": "DeepZero: Scaling Up Zeroth-Order Optimization for Deep Model Training",
+      "authors": "Aochuan Chen, Yimeng Zhang, Jinghan Jia, James Diffenderfer, Konstantinos Parasyris, Jiancheng Liu, Yihua Zhang, Zheng Zhang, Bhavya Kailkhura, Sijia Liu",
+      "paper_url": "https://openreview.net/pdf?id=qBWhjsNPEY",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SBj2Qdhgew",
+      "paper_id": "SBj2Qdhgew",
+      "title": "Demystifying Local & Global Fairness Trade-offs in Federated Learning Using Partial Information Decomposition",
+      "authors": "Faisal Hamman, Sanghamitra Dutta",
+      "paper_url": "https://openreview.net/pdf?id=SBj2Qdhgew",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_pf8RIZTMU58",
+      "paper_id": "pf8RIZTMU58",
+      "title": "DepthFL : Depthwise Federated Learning for Heterogeneous Clients",
+      "authors": "Minjae Kim, Sangyoon Yu, Suhyun Kim, Soo-Mook Moon",
+      "paper_url": "https://openreview.net/pdf/d71d905418b534a4d81650cfdc74e174d78bea48.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_2TIYkqieKw",
+      "paper_id": "2TIYkqieKw",
+      "title": "DICE: Data Influence Cascade in Decentralized Learning",
+      "authors": "Tongtian Zhu, Wenhao Li, Can Wang, Fengxiang He",
+      "paper_url": "https://openreview.net/pdf?id=2TIYkqieKw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_3UHoYrglYkG",
+      "paper_id": "3UHoYrglYkG",
+      "title": "Differentially Private $L_2$-Heavy Hitters in the Sliding Window Model",
+      "authors": "Jeremiah Blocki, Seunghoon Lee, Tamalika Mukherjee, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf/7a0d8905677bac47b853d1dfdaa37542861101da.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_j1zQGmQQOX1",
+      "paper_id": "j1zQGmQQOX1",
+      "title": "Differentially Private Adaptive Optimization with Delayed Preconditioners",
+      "authors": "Tian Li, Manzil Zaheer, Ken Liu, Sashank J. Reddi, Hugh Brendan McMahan, Virginia Smith",
+      "paper_url": "https://openreview.net/pdf/66a6dccdd07b9a1103315a658487355c6e004885.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_W0nydevOlG",
+      "paper_id": "W0nydevOlG",
+      "title": "Differentially Private Federated Learning with Time-Adaptive Privacy Spending",
+      "authors": "Shahrzad Kiani, Nupur Kulkarni, Adam Dziedzic, Stark Draper, Franziska Boenisch",
+      "paper_url": "https://openreview.net/pdf?id=W0nydevOlG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_7I8LPkcx8V",
+      "paper_id": "7I8LPkcx8V",
+      "title": "Differentially Private Fractional Frequency Moments Estimation with Polylogarithmic Space",
+      "authors": "Lun Wang, Iosif Pinelis, Dawn Song",
+      "paper_url": "https://openreview.net/pdf/3464581c1cb95e51fe436b0388170760d904c5a4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_1z3SOCwst9",
+      "paper_id": "1z3SOCwst9",
+      "title": "Differentially private learners for heterogeneous treatment effects",
+      "authors": "Maresa Schröder, Valentyn Melnychuk, Stefan Feuerriegel",
+      "paper_url": "https://openreview.net/pdf?id=1z3SOCwst9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_YTWGvpFOQD-",
+      "paper_id": "YTWGvpFOQD-",
+      "title": "Differentially Private Learning Needs Better Features (or Much More Data)",
+      "authors": "Florian Tramer, Dan Boneh",
+      "paper_url": "https://openreview.net/pdf/63107901e325896b18874aad193314befc47c7ae.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_F52tAK5Gbg",
+      "paper_id": "F52tAK5Gbg",
+      "title": "Differentially private optimization for non-decomposable objective functions",
+      "authors": "Weiwei Kong, Andres Munoz medina, Mónica Ribero",
+      "paper_url": "https://openreview.net/pdf?id=F52tAK5Gbg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_uFbWHyTlPn",
+      "paper_id": "uFbWHyTlPn",
+      "title": "Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach",
+      "authors": "Xinwei Zhang, Zhiqi Bu, Steven Wu, Mingyi Hong",
+      "paper_url": "https://openreview.net/pdf?id=uFbWHyTlPn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Q7uE3M5aMD",
+      "paper_id": "Q7uE3M5aMD",
+      "title": "Discrimination-free Insurance Pricing with Privatized Sensitive Attributes",
+      "authors": "Tianhe Zhang, Suhan Liu, Peng Shi",
+      "paper_url": "https://openreview.net/pdf?id=Q7uE3M5aMD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Lfy9q7Icp9",
+      "paper_id": "Lfy9q7Icp9",
+      "title": "DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction",
+      "authors": "Xinwei Zhang, Zhiqi Bu, Borja Balle, Mingyi Hong, Meisam Razaviyayn, Vahab Mirrokni",
+      "paper_url": "https://openreview.net/pdf?id=Lfy9q7Icp9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_qLOaeRvteqbx",
+      "paper_id": "qLOaeRvteqbx",
+      "title": "Disparate Impact in Differential Privacy from Gradient Misalignment",
+      "authors": "Maria S. Esipova, Atiyeh Ashari Ghomi, Yaqiao Luo, Jesse C Cresswell",
+      "paper_url": "https://openreview.net/pdf/6101c980f75602f74261af8068d5b04eb74e1476.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_cw8FeirkIfU",
+      "paper_id": "cw8FeirkIfU",
+      "title": "Distributed Differential Privacy in Multi-Armed Bandits",
+      "authors": "Sayak Ray Chowdhury, Xingyu Zhou",
+      "paper_url": "https://openreview.net/pdf/a27fa22bf764de3adf4fac72e6b5e551444389b4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_H8UHdhWG6A3",
+      "paper_id": "H8UHdhWG6A3",
+      "title": "Distributed Momentum for Byzantine-resilient Stochastic Gradient Descent",
+      "authors": "El Mahdi El Mhamdi, Rachid Guerraoui, Sébastien Rouault",
+      "paper_url": "https://openreview.net/pdf/0bf4965da02ac45abfd26b1d5098ad915f6b89ff.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_E4EE_ohFGz",
+      "paper_id": "E4EE_ohFGz",
+      "title": "Diurnal or Nocturnal? Federated Learning of Multi-branch Networks from Periodically Shifting Distributions",
+      "authors": "Chen Zhu, Zheng Xu, Mingqing Chen, Jakub Konečný, Andrew Hard, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/9b5ecb00ea582bf0bc094c59b0c48d7c18be9def.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_oVE1z8NlNe",
+      "paper_id": "oVE1z8NlNe",
+      "title": "Divergence-aware Federated Self-Supervised Learning",
+      "authors": "Weiming Zhuang, Yonggang Wen, Shuai Zhang",
+      "paper_url": "https://openreview.net/pdf/0f42d73623138cacd0d8e8d263d5d4fcaa2c5a65.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_nwKXyFvaUm",
+      "paper_id": "nwKXyFvaUm",
+      "title": "Diverse Client Selection for Federated Learning via Submodular Maximization",
+      "authors": "Ravikumar Balakrishnan, Tian Li, Tianyi Zhou, Nageen Himayat, Virginia Smith, Jeff Bilmes",
+      "paper_url": "https://openreview.net/pdf/4d539789e55d133a96781cda576be4ab34ec5982.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_7aogOj_VYO0",
+      "paper_id": "7aogOj_VYO0",
+      "title": "Do not Let Privacy Overbill Utility:  Gradient Embedding Perturbation for Private Learning",
+      "authors": "Da Yu, Huishuai Zhang, Wei Chen, Tie-Yan Liu",
+      "paper_url": "https://openreview.net/pdf/d70f5682ba3c5d03cd82bb7d287b19e150c1f9a5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_BEyEziZ4R6",
+      "paper_id": "BEyEziZ4R6",
+      "title": "DP-SGD Without Clipping: The Lipschitz Neural Network Way",
+      "authors": "Louis Béthune, Thomas Massena, Thibaut Boissin, Aurélien Bellet, Franck Mamalet, Yannick Prudent, Corentin Friedrich, Mathieu Serrurier, David Vigouroux",
+      "paper_url": "https://openreview.net/pdf?id=BEyEziZ4R6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_rSUCajhLsQ",
+      "paper_id": "rSUCajhLsQ",
+      "title": "Easy Differentially Private Linear Regression",
+      "authors": "Kareem Amin, Matthew Joseph, Mónica Ribero, Sergei Vassilvitskii",
+      "paper_url": "https://openreview.net/pdf/9089bcf6b829ee1ffef90ee7aa9727703d8ae5f3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_py4ZV2qYQI",
+      "paper_id": "py4ZV2qYQI",
+      "title": "Effective and Efficient Federated Tree Learning on Hybrid Data",
+      "authors": "Qinbin Li, Chulin Xie, Xiaojun Xu, Xiaoyuan Liu, Ce Zhang, Bo Li, Bingsheng He, Dawn Song",
+      "paper_url": "https://openreview.net/pdf?id=py4ZV2qYQI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_QsCSLPP55Ku",
+      "paper_id": "QsCSLPP55Ku",
+      "title": "Effective passive membership inference attacks in federated learning against overparameterized models",
+      "authors": "Jiacheng Li, Ninghui Li, Bruno Ribeiro",
+      "paper_url": "https://openreview.net/pdf/954032a07615cd8bfbd1828c3a300c03f31a286c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_uhLAcrAZ9cJ",
+      "paper_id": "uhLAcrAZ9cJ",
+      "title": "Efficient Federated Domain Translation",
+      "authors": "Zeyu Zhou, Sheikh Shams Azam, Christopher Brinton, David I. Inouye",
+      "paper_url": "https://openreview.net/pdf/1c9f96c284bcd668a45cc1e02f89a0988b28eaeb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22__QLmakITKg",
+      "paper_id": "_QLmakITKg",
+      "title": "Efficient Split-Mix Federated Learning for On-Demand and In-Situ Customization",
+      "authors": "Junyuan Hong, Haotao Wang, Zhangyang Wang, Jiayu Zhou",
+      "paper_url": "https://openreview.net/pdf/98ee807a90553d41affe59b4484a0754e4bdb5d7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_HMe5CJv9dQ",
+      "paper_id": "HMe5CJv9dQ",
+      "title": "Efficiently Computing Similarities to Private Datasets",
+      "authors": "Arturs Backurs, Zinan Lin, Sepideh Mahabadi, Sandeep Silwal, Jakub Tarnawski",
+      "paper_url": "https://openreview.net/pdf?id=HMe5CJv9dQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5Jc7r5aqHJ",
+      "paper_id": "5Jc7r5aqHJ",
+      "title": "Energy-based Backdoor Defense Against Federated Graph Learning",
+      "authors": "Guancheng Wan, Zitong Shi, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye",
+      "paper_url": "https://openreview.net/pdf?id=5Jc7r5aqHJ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zPDpdk3V8L",
+      "paper_id": "zPDpdk3V8L",
+      "title": "Enhancing Clustered Federated Learning: Integration of Strategies and Improved Methodologies",
+      "authors": "Yongxin Guo, Xiaoying Tang, Tao Lin",
+      "paper_url": "https://openreview.net/pdf?id=zPDpdk3V8L",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3wEGdrV5Cb",
+      "paper_id": "3wEGdrV5Cb",
+      "title": "Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning",
+      "authors": "Jingyuan Zhang, Yiyang Duan, Shuaicheng Niu, YANG CAO, Wei Yang Bryan Lim",
+      "paper_url": "https://openreview.net/pdf?id=3wEGdrV5Cb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_IwPXYk6BV9",
+      "paper_id": "IwPXYk6BV9",
+      "title": "Enhancing Learning with Label Differential Privacy by Vector Approximation",
+      "authors": "Puning Zhao, Jiafei Wu, Zhe Liu, Li Shen, Zhikun Zhang, Rongfei Fan, Le Sun, Qingming Li",
+      "paper_url": "https://openreview.net/pdf?id=IwPXYk6BV9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_tm8s3696Ox",
+      "paper_id": "tm8s3696Ox",
+      "title": "Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting",
+      "authors": "Rong Dai, Yonggang Zhang, Ang Li, Tongliang Liu, Xun Yang, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=tm8s3696Ox",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ytZIYmztET",
+      "paper_id": "ytZIYmztET",
+      "title": "EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data",
+      "authors": "Michael Crawshaw, Yajie Bao, Mingrui Liu",
+      "paper_url": "https://openreview.net/pdf/f6d22b6e793323df4cb76d40bad4829718e1f12f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FCBbh0HCrF",
+      "paper_id": "FCBbh0HCrF",
+      "title": "Event-Driven Online Vertical Federated Learning",
+      "authors": "Ganyu Wang, Boyu Wang, Bin Gu, Charles Ling",
+      "paper_url": "https://openreview.net/pdf?id=FCBbh0HCrF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_J863DxU7Sx",
+      "paper_id": "J863DxU7Sx",
+      "title": "Exploiting Hidden Symmetry to Improve Objective Perturbation for DP Linear Learners with a Nonsmooth L1-Norm",
+      "authors": "Du Chen, Geoffrey A. Chua",
+      "paper_url": "https://openreview.net/pdf?id=J863DxU7Sx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_oze0clVGPeX",
+      "paper_id": "oze0clVGPeX",
+      "title": "Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping",
+      "authors": "Jiyan He, Xuechen Li, Da Yu, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian",
+      "paper_url": "https://openreview.net/pdf/0090ccfeba79836829be2f524cc06c2d90ef6180.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_sLQb8q0sUi",
+      "paper_id": "sLQb8q0sUi",
+      "title": "Fair and Efficient Contribution Valuation for Vertical Federated Learning",
+      "authors": "Zhenan Fan, Huang Fang, Xinglu Wang, Zirui Zhou, Jian Pei, Michael Friedlander, Yong Zhang",
+      "paper_url": "https://openreview.net/pdf?id=sLQb8q0sUi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_NY3wMJuaLf",
+      "paper_id": "NY3wMJuaLf",
+      "title": "Fake It Till Make It: Federated Learning with Consensus-Oriented Generation",
+      "authors": "Rui Ye, Yaxin Du, Zhenyang Ni, Yanfeng Wang, Siheng Chen",
+      "paper_url": "https://openreview.net/pdf?id=NY3wMJuaLf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ElC6LYO4MfD",
+      "paper_id": "ElC6LYO4MfD",
+      "title": "Faster federated optimization under second-order similarity",
+      "authors": "Ahmed Khaled, Chi Jin",
+      "paper_url": "https://openreview.net/pdf/e1863fb8fa839d7726613016245ed5b8e27ff6f2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_HuaYQfggn5u",
+      "paper_id": "HuaYQfggn5u",
+      "title": "FedBABU: Toward Enhanced Representation for Federated Image Classification",
+      "authors": "Jaehoon Oh, SangMook Kim, Se-Young Yun",
+      "paper_url": "https://openreview.net/pdf/09e0b377fa4e3200e80d267b3e1df94235e10a45.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_dgtpE6gKjHn",
+      "paper_id": "dgtpE6gKjHn",
+      "title": "FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning",
+      "authors": "Hong-You Chen, Wei-Lun Chao",
+      "paper_url": "https://openreview.net/pdf/9ba5f8c61a25604e0dd3f88e6c9d54997bdad777.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_6YEQUn0QICG",
+      "paper_id": "6YEQUn0QICG",
+      "title": "FedBN: Federated Learning on Non-IID Features via Local Batch Normalization",
+      "authors": "Xiaoxiao Li, Meirui JIANG, Xiaofei Zhang, Michael Kamp, Qi Dou",
+      "paper_url": "https://openreview.net/pdf/37e144ecec7a76ce5093d4ec328649e8ef208a5b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_nbPGqeH3lt",
+      "paper_id": "nbPGqeH3lt",
+      "title": "FedCDA: Federated Learning with Cross-rounds Divergence-aware Aggregation",
+      "authors": "Haozhao Wang, Haoran Xu, Yichen Li, Yuan Xu, Ruixuan Li, Tianwei Zhang",
+      "paper_url": "https://openreview.net/pdf?id=nbPGqeH3lt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_ZaVVVlcdaN",
+      "paper_id": "ZaVVVlcdaN",
+      "title": "FedChain: Chained Algorithms for Near-optimal Communication Cost in Federated Learning",
+      "authors": "Charlie Hou, Kiran Koshy Thekumparampil, Giulia Fanti, Sewoong Oh",
+      "paper_url": "https://openreview.net/pdf/4b6bb8ca9713c12151f31fef5fda64b39e34e734.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_msXxrttLOi",
+      "paper_id": "msXxrttLOi",
+      "title": "FedCompass: Efficient Cross-Silo Federated Learning on Heterogeneous Client Devices Using a Computing Power-Aware Scheduler",
+      "authors": "Zilinghan Li, Pranshu Chaturvedi, Shilan He, Han Chen, Gagandeep Singh, Volodymyr Kindratenko, Eliu A Huerta, Kibaek Kim, Ravi Madduri",
+      "paper_url": "https://openreview.net/pdf?id=msXxrttLOi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_kjn99xFUF3",
+      "paper_id": "kjn99xFUF3",
+      "title": "FedDA: Faster Adaptive Gradient Methods for Federated Constrained Optimization",
+      "authors": "Junyi Li, Feihu Huang, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=kjn99xFUF3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_6P9Y25Pljl6",
+      "paper_id": "6P9Y25Pljl6",
+      "title": "FedDAR: Federated Domain-Aware Representation Learning",
+      "authors": "Aoxiao Zhong, Hao He, Zhaolin Ren, Na Li, Quanzheng Li",
+      "paper_url": "https://openreview.net/pdf/665489145995b4ea0d25bd9c551dc68004d604e5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_FoUpv84hMw",
+      "paper_id": "FoUpv84hMw",
+      "title": "Federated $Q$-Learning with Reference-Advantage Decomposition: Almost Optimal Regret and Logarithmic Communication Cost",
+      "authors": "Zhong Zheng, Haochen Zhang, Lingzhou Xue",
+      "paper_url": "https://openreview.net/pdf?id=FoUpv84hMw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ydREOIttdC",
+      "paper_id": "ydREOIttdC",
+      "title": "Federated Class-Incremental Learning: A Hybrid Approach Using Latent Exemplars and Data-Free Techniques to Address Local and Global Forgetting",
+      "authors": "Milad Khademi Nori, IL MIN KIM, Guanghui Wang",
+      "paper_url": "https://openreview.net/pdf?id=ydREOIttdC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8TERgu1Lb2",
+      "paper_id": "8TERgu1Lb2",
+      "title": "Federated Domain Generalization with Data-free On-server Matching Gradient",
+      "authors": "Trong Binh Nguyen, Duong Minh Nguyen, Jinsun Park, Viet Quoc Pham, Won-Joo Hwang",
+      "paper_url": "https://openreview.net/pdf?id=8TERgu1Lb2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZiPoAlKf9Y",
+      "paper_id": "ZiPoAlKf9Y",
+      "title": "Federated Few-Shot Class-Incremental Learning",
+      "authors": "Muhammad Anwar Ma'sum, Mahardhika Pratama, Lin Liu, H Habibullah, Ryszard Kowalczyk",
+      "paper_url": "https://openreview.net/pdf?id=ZiPoAlKf9Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dZrQR7OR11",
+      "paper_id": "dZrQR7OR11",
+      "title": "Federated Learning as Variational Inference: A Scalable Expectation Propagation Approach",
+      "authors": "Han Guo, Philip Greengard, Hongyi Wang, Andrew Gelman, Yoon Kim, Eric Xing",
+      "paper_url": "https://openreview.net/pdf/09d677213942ea7b619b844047ec9a0f45b12261.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_B7v4QMR6Z9w",
+      "paper_id": "B7v4QMR6Z9w",
+      "title": "Federated Learning Based on Dynamic Regularization",
+      "authors": "Durmus Alp Emre Acar, Yue Zhao, Ramon Matas, Matthew Mattina, Paul Whatmough, Venkatesh Saligrama",
+      "paper_url": "https://openreview.net/pdf/d5d8224518e951c4f83d7ee7338ee5862ea09a04.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_WHA8009laxu",
+      "paper_id": "WHA8009laxu",
+      "title": "Federated Learning from Only Unlabeled Data with Class-conditional-sharing Clients",
+      "authors": "Nan Lu, Zhao Wang, Xiaoxiao Li, Gang Niu, Qi Dou, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf/9dbc6100a2a81a4d65580c913a1a7974a6fe470d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_hDDV1lsRV8",
+      "paper_id": "hDDV1lsRV8",
+      "title": "Federated Learning from Small Datasets",
+      "authors": "Michael Kamp, Jonas Fischer, Jilles Vreeken",
+      "paper_url": "https://openreview.net/pdf/00cf1af90ef46baaaee3333a1ca4303356378bd5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_GFsU8a0sGB",
+      "paper_id": "GFsU8a0sGB",
+      "title": "Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms",
+      "authors": "Maruan Al-Shedivat, Jennifer Gillenwater, Eric Xing, Afshin Rostamizadeh",
+      "paper_url": "https://openreview.net/pdf/3c19f2476503b117ff059dbfc938d5efd211ed0f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_R1U5G2spbLd",
+      "paper_id": "R1U5G2spbLd",
+      "title": "Federated Nearest Neighbor Machine Translation",
+      "authors": "Yichao Du, Zhirui Zhang, Bingzhe Wu, Lemao Liu, Tong Xu, Enhong Chen",
+      "paper_url": "https://openreview.net/pdf/d522448b622262195feddfaf6b8265bbd8f42382.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_38m4h8HcNRL",
+      "paper_id": "38m4h8HcNRL",
+      "title": "Federated Neural Bandits",
+      "authors": "Zhongxiang Dai, Yao Shu, Arun Verma, Flint Xiaofeng Fan, Bryan Kian Hsiang Low, Patrick Jaillet",
+      "paper_url": "https://openreview.net/pdf/8ac7b7db42b45091cff07d9f5d520796a17d3efa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_nAs4LdaP9Y",
+      "paper_id": "nAs4LdaP9Y",
+      "title": "Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning",
+      "authors": "Yavuz Faruk Bakman, Duygu Nur Yaldiz, Yahya H. Ezzeldin, Salman Avestimehr",
+      "paper_url": "https://openreview.net/pdf?id=nAs4LdaP9Y",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_fe6ANBxcKM",
+      "paper_id": "fe6ANBxcKM",
+      "title": "Federated Q-Learning: Linear Regret Speedup with Low Communication Cost",
+      "authors": "Zhong Zheng, Fengyu Gao, Lingzhou Xue, Jing Yang",
+      "paper_url": "https://openreview.net/pdf?id=fe6ANBxcKM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_xkXdE81mOK",
+      "paper_id": "xkXdE81mOK",
+      "title": "Federated Recommendation with Additive Personalization",
+      "authors": "Zhiwei Li, Guodong Long, Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf?id=xkXdE81mOK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_ce6CFXBh30h",
+      "paper_id": "ce6CFXBh30h",
+      "title": "Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning",
+      "authors": "Wonyong Jeong, Jaehong Yoon, Eunho Yang, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/ad9ec9703d076e1e57c6d24f75e75deb35be77b0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_IPrzNbddXV",
+      "paper_id": "IPrzNbddXV",
+      "title": "FedExP: Speeding Up Federated Averaging via Extrapolation",
+      "authors": "Divyansh Jhunjhunwala, Shiqiang Wang, Gauri Joshi",
+      "paper_url": "https://openreview.net/pdf/8f9800051e3387ff23fc9a42a792d5ace5e665aa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_U9yFP90jU0",
+      "paper_id": "U9yFP90jU0",
+      "title": "FedFA:  Federated Feature Augmentation",
+      "authors": "Tianfei Zhou, Ender Konukoglu",
+      "paper_url": "https://openreview.net/pdf/83d761ced643dbc84793236240410a72064dcf32.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Kl9CqKf7h6",
+      "paper_id": "Kl9CqKf7h6",
+      "title": "FedHyper: A Universal and Robust Learning Rate Scheduler for Federated Learning with Hypergradient Descent",
+      "authors": "Ziyao Wang, Jianyu Wang, Ang Li",
+      "paper_url": "https://openreview.net/pdf?id=Kl9CqKf7h6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_giU9fYGTND",
+      "paper_id": "giU9fYGTND",
+      "title": "FedImpro: Measuring and Improving Client Update in Federated Learning",
+      "authors": "Zhenheng Tang, Yonggang Zhang, Shaohuai Shi, Xinmei Tian, Tongliang Liu, Bo Han, Xiaowen Chu",
+      "paper_url": "https://openreview.net/pdf?id=giU9fYGTND",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_nTNgkEIfeb",
+      "paper_id": "nTNgkEIfeb",
+      "title": "FedInverse: Evaluating Privacy Leakage in Federated Learning",
+      "authors": "Di Wu, Jun Bai, Yiliao Song, Junjun Chen, Wei Zhou, Yong Xiang, Atul Sajjanhar",
+      "paper_url": "https://openreview.net/pdf?id=nTNgkEIfeb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_V3j5d0GQgH",
+      "paper_id": "V3j5d0GQgH",
+      "title": "FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data",
+      "authors": "Zikai Xiao, Zihan Chen, Liyinglan Liu, YANG FENG, Joey Tianyi Zhou, Jian Wu, Wanlu Liu, Howard Hao Yang, Zuozhu Liu",
+      "paper_url": "https://openreview.net/pdf?id=V3j5d0GQgH",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6RjQ54M1rM",
+      "paper_id": "6RjQ54M1rM",
+      "title": "FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking",
+      "authors": "Changlong Shi, Jinmeng Li, He Zhao, Dan dan Guo, Yi Chang",
+      "paper_url": "https://openreview.net/pdf?id=6RjQ54M1rM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Ogga20D2HO-",
+      "paper_id": "Ogga20D2HO-",
+      "title": "FedMix: Approximation of Mixup under Mean Augmented Federated Learning",
+      "authors": "Tehrim Yoon, Sumin Shin, Sung Ju Hwang, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf/0258da18459084a22b881d20dbd411e7184bb3d3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_hbHwZYqk9T",
+      "paper_id": "hbHwZYqk9T",
+      "title": "FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity",
+      "authors": "Kai Yi, Nidham Gazagnadou, Peter Richtárik, Lingjuan Lyu",
+      "paper_url": "https://openreview.net/pdf?id=hbHwZYqk9T",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_d71n4ftoCBy",
+      "paper_id": "d71n4ftoCBy",
+      "title": "FedPara: Low-rank Hadamard Product for Communication-Efficient Federated Learning",
+      "authors": "Nam Hyeon-Woo, Moon Ye-Bin, Tae-Hyun Oh",
+      "paper_url": "https://openreview.net/pdf/4dc185d690323acd6419fa90d304ed213b53a7e6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_bZjxxYURKT",
+      "paper_id": "bZjxxYURKT",
+      "title": "FedSpeed: Larger Local Interval, Less Communication Round, and Higher Generalization Accuracy",
+      "authors": "Yan Sun, Li Shen, Tiansheng Huang, Liang Ding, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf/a67b74b94c31bbb5dc3c6bbe829796b30ff25b6b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_44hcrfzydU",
+      "paper_id": "44hcrfzydU",
+      "title": "FedTMOS: Efficient One-Shot Federated Learning with Tsetlin Machine",
+      "authors": "Shannon How Shi Qi, Jagmohan Chauhan, Geoff V. Merrett, Jonathon Hare",
+      "paper_url": "https://openreview.net/pdf?id=44hcrfzydU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_DRu8PMHgCh",
+      "paper_id": "DRu8PMHgCh",
+      "title": "FedTrans: Client-Transparent Utility Estimation for Robust Federated Learning",
+      "authors": "Mingkun Yang, Ran Zhu, Qing Wang, Jie Yang",
+      "paper_url": "https://openreview.net/pdf?id=DRu8PMHgCh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hAYHmV1gM8",
+      "paper_id": "hAYHmV1gM8",
+      "title": "FedWon: Triumphing Multi-domain Federated Learning Without Normalization",
+      "authors": "Weiming Zhuang, Lingjuan Lyu",
+      "paper_url": "https://openreview.net/pdf?id=hAYHmV1gM8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_D2eOVqPX9g",
+      "paper_id": "D2eOVqPX9g",
+      "title": "Finite-Time Analysis of On-Policy Heterogeneous Federated Reinforcement Learning",
+      "authors": "Chenyu Zhang, Han Wang, Aritra Mitra, James Anderson",
+      "paper_url": "https://openreview.net/pdf?id=D2eOVqPX9g",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_9aokcgBVIj1",
+      "paper_id": "9aokcgBVIj1",
+      "title": "FiT: Parameter Efficient Few-shot Transfer Learning for Personalized and Federated Image Classification",
+      "authors": "Aliaksandra Shysheya, John F Bronskill, Massimiliano Patacchiola, Sebastian Nowozin, Richard E Turner",
+      "paper_url": "https://openreview.net/pdf/23f3b31eae45a21349ad7d90fe16f9e3add566ea.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_vrE2fqAInO",
+      "paper_id": "vrE2fqAInO",
+      "title": "Fixed-Budget Differentially Private Best Arm Identification",
+      "authors": "Zhirui Chen, P. N. Karthik, Yeow Meng Chee, Vincent Tan",
+      "paper_url": "https://openreview.net/pdf?id=vrE2fqAInO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_7avlrpzWqo",
+      "paper_id": "7avlrpzWqo",
+      "title": "Flag Aggregator: Scalable Distributed Training under Failures and Augmented Losses using Convex Optimization",
+      "authors": "Hamidreza Almasi, Harsh Mishra, Balajee Vamanan, Sathya N. Ravi",
+      "paper_url": "https://openreview.net/pdf?id=7avlrpzWqo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_Xo2E217_M4n",
+      "paper_id": "Xo2E217_M4n",
+      "title": "FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning",
+      "authors": "Kaiyuan Zhang, Guanhong Tao, Qiuling Xu, Siyuan Cheng, Shengwei An, Yingqi Liu, Shiwei Feng, Guangyu Shen, Pin-Yu Chen, Shiqing Ma, Xiangyu Zhang",
+      "paper_url": "https://openreview.net/pdf/6731b5784520aedd43f4da6cb01e5587b66819be.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_lo3nlFHOft",
+      "paper_id": "lo3nlFHOft",
+      "title": "From Promise to Practice: Realizing High-performance Decentralized Training",
+      "authors": "Zesen Wang, Jiaojiao Zhang, Xuyang Wu, Mikael Johansson",
+      "paper_url": "https://openreview.net/pdf?id=lo3nlFHOft",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_IQZuCuFeAM",
+      "paper_id": "IQZuCuFeAM",
+      "title": "From Random to Relevant: Harnessing Salient Masks in Non-IID Federated Learning",
+      "authors": "Riyasat Ohib, Bishal Thapaliya, Jingyu Liu, Vince Calhoun, Sergey Plis",
+      "paper_url": "https://openreview.net/pdf?id=IQZuCuFeAM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_K2Tqn8R9pu",
+      "paper_id": "K2Tqn8R9pu",
+      "title": "Gaussian Differentially Private Human Faces Under a Face Radial Curve Representation",
+      "authors": "Carlos J Soto, Matthew Reimherr, Aleksandra Slavkovic, Mark Shriver",
+      "paper_url": "https://openreview.net/pdf?id=K2Tqn8R9pu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_-EHqoysUYLx",
+      "paper_id": "-EHqoysUYLx",
+      "title": "Generalization Bounds for Federated Learning: Fast Rates, Unparticipating Clients and Unbounded Losses",
+      "authors": "Xiaolin Hu, Shaojie Li, Yong Liu",
+      "paper_url": "https://openreview.net/pdf/99d8d947e127360f989b7314c8418212c738e43d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_TNkPBBYFkXg",
+      "paper_id": "TNkPBBYFkXg",
+      "title": "HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients",
+      "authors": "Enmao Diao, Jie Ding, Vahid Tarokh",
+      "paper_url": "https://openreview.net/pdf/da02aa1b25ebd5799fabfa9e199c793460ef9794.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_7pWRLDBAtc",
+      "paper_id": "7pWRLDBAtc",
+      "title": "Heterogeneous Personalized Federated Learning by Local-Global Updates Mixing via Convergence Rate",
+      "authors": "Meirui Jiang, Anjie Le, Xiaoxiao Li, Qi Dou",
+      "paper_url": "https://openreview.net/pdf?id=7pWRLDBAtc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_krx55l2A6G",
+      "paper_id": "krx55l2A6G",
+      "title": "Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning",
+      "authors": "Kostadin Garov, Dimitar Iliev Dimitrov, Nikola Jovanović, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=krx55l2A6G",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_B8akWa62Da",
+      "paper_id": "B8akWa62Da",
+      "title": "Hot-pluggable Federated Learning: Bridging General and Personalized FL via Dynamic Selection",
+      "authors": "Lei Shen, Zhenheng Tang, Lijun Wu, Yonggang Zhang, Xiaowen Chu, Tao Qin, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=B8akWa62Da",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_H0oaWl6THa",
+      "paper_id": "H0oaWl6THa",
+      "title": "Hybrid Local SGD for Federated Learning with Heterogeneous Communications",
+      "authors": "Yuanxiong Guo, Ying Sun, Rui Hu, Yanmin Gong",
+      "paper_url": "https://openreview.net/pdf/e765632eb816448e521a3fb0562e39c39651de07.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_-70L8lpp9DF",
+      "paper_id": "-70L8lpp9DF",
+      "title": "Hyperparameter Tuning with Renyi Differential Privacy",
+      "authors": "Nicolas Papernot, Thomas Steinke",
+      "paper_url": "https://openreview.net/pdf/8832d0e112b9fd6c5c8f0be8a093625e4de6e337.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_cVUOnF7iVp",
+      "paper_id": "cVUOnF7iVp",
+      "title": "Improved Analysis of Sparse Linear Regression in Local Differential Privacy Model",
+      "authors": "Liyang Zhu, Meng Ding, Vaneet Aggarwal, Jinhui Xu, Di Wang",
+      "paper_url": "https://openreview.net/pdf?id=cVUOnF7iVp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_FRLswckPXQ5",
+      "paper_id": "FRLswckPXQ5",
+      "title": "Improved Convergence of Differential Private SGD with Gradient Clipping",
+      "authors": "Huang Fang, Xiaoyun Li, Chenglin Fan, Ping Li",
+      "paper_url": "https://openreview.net/pdf/c33017ab9b28f8e423d8877e14fc05727755427b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_7l1IjZVddDW",
+      "paper_id": "7l1IjZVddDW",
+      "title": "Improving Federated Learning Face Recognition via Privacy-Agnostic Clusters",
+      "authors": "Qiang Meng, Feng Zhou, Hainan Ren, Tianshu Feng, Guochao Liu, Yuanqing Lin",
+      "paper_url": "https://openreview.net/pdf/6e32e9b384f0d8b5260a2a95ad7645cebf50046f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_FlY7WQ2hWS",
+      "paper_id": "FlY7WQ2hWS",
+      "title": "Incentive-Aware Federated Learning with Training-Time Model Rewards",
+      "authors": "Zhaoxuan Wu, Mohammad Mohammadi Amiri, Ramesh Raskar, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=FlY7WQ2hWS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_ykEixGIJYb",
+      "paper_id": "ykEixGIJYb",
+      "title": "Incentivized Truthful Communication for Federated Bandits",
+      "authors": "Zhepei Wei, Chuanhao Li, Tianze Ren, Haifeng Xu, Hongning Wang",
+      "paper_url": "https://openreview.net/pdf?id=ykEixGIJYb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_JmC_Tld3v-f",
+      "paper_id": "JmC_Tld3v-f",
+      "title": "Individual Privacy Accounting with Gaussian Differential Privacy",
+      "authors": "Antti Koskela, Marlon Tobaben, Antti Honkela",
+      "paper_url": "https://openreview.net/pdf/61df3e0808cc0744f590bb515d62b73a91d529a0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_FIrQfNSOoTr",
+      "paper_id": "FIrQfNSOoTr",
+      "title": "Instance-wise Batch Label Restoration via Gradients in Federated Learning",
+      "authors": "Kailang Ma, Yu Sun, Jian Cui, Dawei Li, Zhenyu Guan, Jianwei Liu",
+      "paper_url": "https://openreview.net/pdf/c944d53a6bbd6d2e400a4514d9e48ff0c7fb64a0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_Cc0qk6r4Nd",
+      "paper_id": "Cc0qk6r4Nd",
+      "title": "Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning",
+      "authors": "Yun-Hin Chan, Rui Zhou, Running Zhao, Zhihan JIANG, Edith C. H. Ngai",
+      "paper_url": "https://openreview.net/pdf?id=Cc0qk6r4Nd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_cOtBRgsf2fO",
+      "paper_id": "cOtBRgsf2fO",
+      "title": "Label Leakage and Protection in Two-party Split Learning",
+      "authors": "Oscar Li, Jiankai Sun, Xin Yang, Weihao Gao, Hongyi Zhang, Junyuan Xie, Virginia Smith, Chong Wang",
+      "paper_url": "https://openreview.net/pdf/d1b9d2d34049b477cd71dab64cd68252285e2090.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_JnYaF3vv3G",
+      "paper_id": "JnYaF3vv3G",
+      "title": "LabelDP-Pro: Learning with Label Differential Privacy via Projections",
+      "authors": "Badih Ghazi, Yangsibo Huang, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, Chiyuan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=JnYaF3vv3G",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_QjSOgxJ0hp",
+      "paper_id": "QjSOgxJ0hp",
+      "title": "Learning from End User Data with Shuffled Differential Privacy over Kernel Densities",
+      "authors": "Tal Wagner",
+      "paper_url": "https://openreview.net/pdf?id=QjSOgxJ0hp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8FHWkY0SwF",
+      "paper_id": "8FHWkY0SwF",
+      "title": "Learning Personalized Causally Invariant Representations for Heterogeneous Federated Clients",
+      "authors": "Xueyang Tang, Song Guo, Jie ZHANG, Jingcai Guo",
+      "paper_url": "https://openreview.net/pdf?id=8FHWkY0SwF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_BGF9IeDfmlH",
+      "paper_id": "BGF9IeDfmlH",
+      "title": "Learning to Linearize Deep Neural Networks  for Secure and Efficient Private Inference",
+      "authors": "Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Tiffany Liu, Peter Anthony Beerel",
+      "paper_url": "https://openreview.net/pdf/35f3e94fd4c6765836d89bf0ee8307a99020a02c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_84gjULz1t5",
+      "paper_id": "84gjULz1t5",
+      "title": "Linear Convergent Decentralized Optimization with Compression",
+      "authors": "Xiaorui Liu, Yao Li, Rongrong Wang, Jiliang Tang, Ming Yan",
+      "paper_url": "https://openreview.net/pdf/2c18c598153405d899eb172db4db2e112b25c66f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_lydPkW4lfz",
+      "paper_id": "lydPkW4lfz",
+      "title": "Local Steps Speed Up Local GD for Heterogeneous Distributed Logistic Regression",
+      "authors": "Michael Crawshaw, Blake Woodworth, Mingrui Liu",
+      "paper_url": "https://openreview.net/pdf?id=lydPkW4lfz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PpYy0dR3Qw",
+      "paper_id": "PpYy0dR3Qw",
+      "title": "LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression",
+      "authors": "Laurent Condat, Arto Maranjyan, Peter Richtárik",
+      "paper_url": "https://openreview.net/pdf?id=PpYy0dR3Qw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_TDf-XFAwc79",
+      "paper_id": "TDf-XFAwc79",
+      "title": "Meta Knowledge Condensation for Federated Learning",
+      "authors": "Ping Liu, Xin Yu, Joey Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf/5cab9457b013d537fb818c57e3ac00c817524faa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_TrJ36UfD9P",
+      "paper_id": "TrJ36UfD9P",
+      "title": "Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization",
+      "authors": "Yury Demidovich, Petr Ostroukhov, Grigory Malinovsky, Samuel Horváth, Martin Takáč, Peter Richtárik, Eduard Gorbunov",
+      "paper_url": "https://openreview.net/pdf?id=TrJ36UfD9P",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_2QGJXyMNoPz",
+      "paper_id": "2QGJXyMNoPz",
+      "title": "MocoSFL: enabling cross-client collaborative self-supervised learning",
+      "authors": "Jingtao Li, Lingjuan Lyu, Daisuke Iso, Chaitali Chakrabarti, Michael Spranger",
+      "paper_url": "https://openreview.net/pdf/e7d98a4942f9fa3e0236bec53218b97e0792f3ee.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_TdhkAcXkRi",
+      "paper_id": "TdhkAcXkRi",
+      "title": "Momentum Benefits Non-iid Federated Learning Simply and Provably",
+      "authors": "Ziheng Cheng, Xinmeng Huang, Pengfei Wu, Kun Yuan",
+      "paper_url": "https://openreview.net/pdf?id=TdhkAcXkRi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_C70cp4Cn32",
+      "paper_id": "C70cp4Cn32",
+      "title": "Multi-Level Local SGD: Distributed SGD for Heterogeneous Hierarchical Networks",
+      "authors": "Timothy Castiglia, Anirban Das, Stacy Patterson",
+      "paper_url": "https://openreview.net/pdf/8dbde4c960f1598d19e7201058a77a1224b4a939.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Hnk1WRMAYqg",
+      "paper_id": "Hnk1WRMAYqg",
+      "title": "Multimodal Federated Learning via Contrastive Representation Ensemble",
+      "authors": "Qiying Yu, Yang Liu, Yimu Wang, Ke Xu, Jingjing Liu",
+      "paper_url": "https://openreview.net/pdf/a51674bdcfdff01c5f5e3ad87446148a5ce6b4be.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_txV4dNeusx",
+      "paper_id": "txV4dNeusx",
+      "title": "Near-Exact Privacy Amplification for Matrix Mechanisms",
+      "authors": "Christopher A. Choquette-Choo, Arun Ganesh, Saminul Haque, Thomas Steinke, Abhradeep Guha Thakurta",
+      "paper_url": "https://openreview.net/pdf?id=txV4dNeusx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_I1hQbx10Kxn",
+      "paper_id": "I1hQbx10Kxn",
+      "title": "On Bridging Generic and Personalized Federated Learning for Image Classification",
+      "authors": "Hong-You Chen, Wei-Lun Chao",
+      "paper_url": "https://openreview.net/pdf/770f89d1e8fedb42b47cd1ac9c8df3df92f3a178.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_cuAxSHcsSX",
+      "paper_id": "cuAxSHcsSX",
+      "title": "On Differentially Private Federated Linear Contextual Bandits",
+      "authors": "Xingyu Zhou, Sayak Ray Chowdhury",
+      "paper_url": "https://openreview.net/pdf?id=cuAxSHcsSX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_AhElGnhU2BV",
+      "paper_id": "AhElGnhU2BV",
+      "title": "On InstaHide, Phase Retrieval, and Sparse Matrix Factorization",
+      "authors": "Sitan Chen, Xiaoxiao Li, Zhao Song, Danyang Zhuo",
+      "paper_url": "https://openreview.net/pdf/14d55d0812b8f1205f82c19f49a21c021d7b296e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_of6EuHT7de",
+      "paper_id": "of6EuHT7de",
+      "title": "On the Byzantine-Resilience of Distillation-Based Federated Learning",
+      "authors": "Christophe Roux, Max Zimmer, Sebastian Pokutta",
+      "paper_url": "https://openreview.net/pdf?id=of6EuHT7de",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_wriKDQqiOQ",
+      "paper_id": "wriKDQqiOQ",
+      "title": "On the Effect of Batch Size in Byzantine-Robust Distributed Learning",
+      "authors": "Yi-Rui Yang, Chang-Wei Shi, Wu-Jun Li",
+      "paper_url": "https://openreview.net/pdf?id=wriKDQqiOQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_fWWFv--P0xP",
+      "paper_id": "fWWFv--P0xP",
+      "title": "On the Importance and Applicability of Pre-Training for Federated Learning",
+      "authors": "Hong-You Chen, Cheng-Hao Tu, Ziwei Li, Han Wei Shen, Wei-Lun Chao",
+      "paper_url": "https://openreview.net/pdf/d1a6a32bc6d3abc4be477317cdca0f63fe17a19b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_7pDI74iOyu",
+      "paper_id": "7pDI74iOyu",
+      "title": "On the Importance of Language-driven Representation Learning for Heterogeneous Federated Learning",
+      "authors": "Yunlu Yan, Chun-Mei Feng, Wangmeng Zuo, Salman Khan, Yong Liu, Lei Zhu",
+      "paper_url": "https://openreview.net/pdf?id=7pDI74iOyu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BfUDZGqCAu",
+      "paper_id": "BfUDZGqCAu",
+      "title": "On the Linear Speedup of Personalized Federated Reinforcement Learning with Shared Representations",
+      "authors": "GUOJUN XIONG, Shufan Wang, Daniel Jiang, Jian Li",
+      "paper_url": "https://openreview.net/pdf?id=BfUDZGqCAu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yLhJYvkKA0",
+      "paper_id": "yLhJYvkKA0",
+      "title": "On the Price of Differential Privacy for Hierarchical Clustering",
+      "authors": "Chengyuan Deng, Jie Gao, Jalaj Upadhyay, Chen Wang, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf?id=yLhJYvkKA0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_0BqyZSWfzo",
+      "paper_id": "0BqyZSWfzo",
+      "title": "One-shot Empirical Privacy Estimation for Federated Learning",
+      "authors": "Galen Andrew, Peter Kairouz, Sewoong Oh, Alina Oprea, Hugh Brendan McMahan, Vinith Menon Suriyakumar",
+      "paper_url": "https://openreview.net/pdf?id=0BqyZSWfzo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_fbqOEOqurU",
+      "paper_id": "fbqOEOqurU",
+      "title": "Optimality of Matrix Mechanism on $\\ell_p^p$-metric",
+      "authors": "Zongrui Zou, Jingcheng Liu, Jalaj Upadhyay",
+      "paper_url": "https://openreview.net/pdf?id=fbqOEOqurU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yQcFniousM",
+      "paper_id": "yQcFniousM",
+      "title": "Pacmann: Efficient Private Approximate Nearest Neighbor Search",
+      "authors": "Mingxun Zhou, Elaine Shi, Giulia Fanti",
+      "paper_url": "https://openreview.net/pdf?id=yQcFniousM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_A9WQaxYsfx",
+      "paper_id": "A9WQaxYsfx",
+      "title": "Panning for Gold in Federated Learning: Targeted Text Extraction under Arbitrarily Large-Scale Aggregation",
+      "authors": "Hong-Min Chu, Jonas Geiping, Liam H Fowl, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/62d267bced5f7a24db1b239d5ee670b50f2776cd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MrYiwlDRQO",
+      "paper_id": "MrYiwlDRQO",
+      "title": "PeFLL: Personalized Federated Learning by Learning to Learn",
+      "authors": "Jonathan Scott, Hossein Zakerinia, Christoph H Lampert",
+      "paper_url": "https://openreview.net/pdf?id=MrYiwlDRQO",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_hxEIgUXLFF",
+      "paper_id": "hxEIgUXLFF",
+      "title": "PerFedMask: Personalized Federated Learning with Optimized Masking Vectors",
+      "authors": "Mehdi Setayesh, Xiaoxiao Li, Vincent W.S. Wong",
+      "paper_url": "https://openreview.net/pdf/03f646c79d86851f00a6e806f8984dd0ec3512c9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_SXZr8aDKia",
+      "paper_id": "SXZr8aDKia",
+      "title": "Personalized Federated Learning with Feature Alignment and Classifier Collaboration",
+      "authors": "Jian Xu, Xinyi Tong, Shao-Lun Huang",
+      "paper_url": "https://openreview.net/pdf/7e45d7414cae758349f97df5277f8897ef7b8c04.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_ehJqJQk9cw",
+      "paper_id": "ehJqJQk9cw",
+      "title": "Personalized Federated Learning with First Order Model Optimization",
+      "authors": "Michael Zhang, Karan Sapra, Sanja Fidler, Serena Yeung, Jose M. Alvarez",
+      "paper_url": "https://openreview.net/pdf/f4b5b0c02b8e08918168f163c5f057cd709802b9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_8rbkePAapb",
+      "paper_id": "8rbkePAapb",
+      "title": "PFGuard: A Generative Framework with Privacy and Fairness Safeguards",
+      "authors": "Soyeon Kim, Yuji Roh, Geon Heo, Steven Euijong Whang",
+      "paper_url": "https://openreview.net/pdf?id=8rbkePAapb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_lVgB2FUbzuQ",
+      "paper_id": "lVgB2FUbzuQ",
+      "title": "Predicting Infectiousness for Proactive Contact Tracing",
+      "authors": "Yoshua Bengio, Prateek Gupta, Tegan Maharaj, Nasim Rahaman, Martin Weiss, Tristan Deleu, Eilif Benjamin Muller, Meng Qu, victor schmidt, Pierre-Luc St-Charles, hannah alsdurf, Olexa Bilaniuk, david buckeridge, gaetan caron, pierre luc carrier, Joumana Ghosn, satya ortiz gagne, Christopher Pal, Irina Rish, Bernhard Schölkopf, abhinav sharma, Jian Tang, andrew williams",
+      "paper_url": "https://openreview.net/pdf/77dc30fa1394d3f1fb24031ef8b391fa4d51c35d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_6J3ehSUrMU",
+      "paper_id": "6J3ehSUrMU",
+      "title": "Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting",
+      "authors": "Enyi Jiang, Yibo Jacky Zhang, Sanmi Koyejo",
+      "paper_url": "https://openreview.net/pdf?id=6J3ehSUrMU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_B9kUJuWrYC",
+      "paper_id": "B9kUJuWrYC",
+      "title": "PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models",
+      "authors": "Kyeongkook Seo, Dong-Jun Han, Jaejun Yoo",
+      "paper_url": "https://openreview.net/pdf?id=B9kUJuWrYC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_xUzWmFdglP",
+      "paper_id": "xUzWmFdglP",
+      "title": "Privacy Amplification for Matrix Mechanisms",
+      "authors": "Christopher A. Choquette-Choo, Arun Ganesh, Thomas Steinke, Abhradeep Guha Thakurta",
+      "paper_url": "https://openreview.net/pdf?id=xUzWmFdglP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_5i2f-aR6B8H",
+      "paper_id": "5i2f-aR6B8H",
+      "title": "Privacy Implications of Shuffling",
+      "authors": "Casey Meehan, Amrita Roy Chowdhury, Kamalika Chaudhuri, Somesh Jha",
+      "paper_url": "https://openreview.net/pdf/173bb7fd934e874c2567373bc9917f7ca85707b1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_TVY6GoURrw",
+      "paper_id": "TVY6GoURrw",
+      "title": "Private Federated Learning Without a Trusted Server: Optimal Algorithms for Convex Losses",
+      "authors": "Andrew Lowy, Meisam Razaviyayn",
+      "paper_url": "https://openreview.net/pdf/d390a5f0054fceb5ef93b755f3b8c613a4214bc4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_JQQDePbfxh",
+      "paper_id": "JQQDePbfxh",
+      "title": "Private Mechanism Design via Quantile Estimation",
+      "authors": "Yuanyuan Yang, Tao Xiao, Bhuvesh Kumar, Jamie Heather Morgenstern",
+      "paper_url": "https://openreview.net/pdf?id=JQQDePbfxh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_6isfR3JCbi",
+      "paper_id": "6isfR3JCbi",
+      "title": "Private Post-GAN Boosting",
+      "authors": "Marcel Neunhoeffer, Steven Wu, Cynthia Dwork",
+      "paper_url": "https://openreview.net/pdf/9af34be61229e9ded84048009befadeb57d1957d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_hVTaXJ0I5M",
+      "paper_id": "hVTaXJ0I5M",
+      "title": "Privately Counting Partially Ordered Data",
+      "authors": "Matthew Joseph, Mónica Ribero, Alexander Yu",
+      "paper_url": "https://openreview.net/pdf?id=hVTaXJ0I5M",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZuazHmXTns",
+      "paper_id": "ZuazHmXTns",
+      "title": "Problem-Parameter-Free Federated Learning",
+      "authors": "Wenjing Yan, Kai Zhang, Xiaolu Wang, Xuanyu Cao",
+      "paper_url": "https://openreview.net/pdf?id=ZuazHmXTns",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_RSU17UoKfJF",
+      "paper_id": "RSU17UoKfJF",
+      "title": "R-GAP: Recursive Gradient Attack on Privacy",
+      "authors": "Junyi Zhu, Matthew B. Blaschko",
+      "paper_url": "https://openreview.net/pdf/943e8621d1ff1fb8b9daa8cc68876c327966099c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_B7ZbqNLDn-_",
+      "paper_id": "B7ZbqNLDn-_",
+      "title": "Recycling Model Updates in Federated Learning: Are Gradient Subspaces Low-Rank?",
+      "authors": "Sheikh Shams Azam, Seyyedali Hosseinalipour, Qiang Qiu, Christopher Brinton",
+      "paper_url": "https://openreview.net/pdf/76e2433c08e957e7f19a49e6815d0f6b52da92cd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_h9O0wsmL-cT",
+      "paper_id": "h9O0wsmL-cT",
+      "title": "Regression with Label Differential Privacy",
+      "authors": "Badih Ghazi, Pritish Kamath, Ravi Kumar, Ethan Leeman, Pasin Manurangsi, Avinash Varadarajan, Chiyuan Zhang",
+      "paper_url": "https://openreview.net/pdf/3b8644d8c7fbebf7b519a2e229d90c1dffc71a6b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_fwzUgo0FM9v",
+      "paper_id": "fwzUgo0FM9v",
+      "title": "Robbing the Fed:  Directly Obtaining Private Data in Federated Learning with Modified Models",
+      "authors": "Liam H Fowl, Jonas Geiping, Wojciech Czaja, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/f001474d4a74672028ea06af6f68b4e7c71bca47.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_qxLVaYbsSI",
+      "paper_id": "qxLVaYbsSI",
+      "title": "Robust Training of Federated Models with Extremely Label Deficiency",
+      "authors": "Yonggang Zhang, Zhiqin Yang, Xinmei Tian, Nannan Wang, Tongliang Liu, Bo Han",
+      "paper_url": "https://openreview.net/pdf?id=qxLVaYbsSI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_Cz3dbFm5u-",
+      "paper_id": "Cz3dbFm5u-",
+      "title": "SAFENet: A Secure, Accurate and Fast Neural Network Inference",
+      "authors": "Qian Lou, Yilin Shen, Hongxia Jin, Lei Jiang",
+      "paper_url": "https://openreview.net/pdf/97de03f7c5d063182fff81551e472cc846458389.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_AvmBgiQxxp",
+      "paper_id": "AvmBgiQxxp",
+      "title": "Scalable Decentralized Learning with Teleportation",
+      "authors": "Yuki Takezawa, Sebastian U Stich",
+      "paper_url": "https://openreview.net/pdf?id=AvmBgiQxxp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_69Fp4dcmJN",
+      "paper_id": "69Fp4dcmJN",
+      "title": "Scaling up the Banded Matrix Factorization Mechanism for Large Scale Differentially Private ML",
+      "authors": "Ryan McKenna",
+      "paper_url": "https://openreview.net/pdf?id=69Fp4dcmJN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_iX3uESGdsO",
+      "paper_id": "iX3uESGdsO",
+      "title": "Selective Aggregation for Low-Rank Adaptation in Federated Learning",
+      "authors": "Pengxin Guo, Shuang Zeng, Yanran Wang, Huijie Fan, Feifei Wang, Liangqiong Qu",
+      "paper_url": "https://openreview.net/pdf?id=iX3uESGdsO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8HuLgtjqOD",
+      "paper_id": "8HuLgtjqOD",
+      "title": "SEPARATE: A Simple Low-rank Projection for Gradient Compression in Modern Large-scale Model Training Process",
+      "authors": "Hanzhen Zhao, Xingyu Xie, Cong Fang, Zhouchen Lin",
+      "paper_url": "https://openreview.net/pdf?id=8HuLgtjqOD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_oJpVVGXu9i",
+      "paper_id": "oJpVVGXu9i",
+      "title": "Share Your Representation Only: Guaranteed Improvement of the Privacy-Utility Tradeoff in Federated Learning",
+      "authors": "Zebang Shen, Jiayuan Ye, Anmin Kang, Hamed Hassani, Reza Shokri",
+      "paper_url": "https://openreview.net/pdf/65d25b717d0c0bbcfc88e898afc2ffee03b7d15e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_DrZXuTGg2A-",
+      "paper_id": "DrZXuTGg2A-",
+      "title": "Shuffle Private Stochastic Convex Optimization",
+      "authors": "Albert Cheu, Matthew Joseph, Jieming Mao, Binghui Peng",
+      "paper_url": "https://openreview.net/pdf/7c8c9c62ecd536de1d742c826d9a85c22f8e430b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_3RhuF8foyPW",
+      "paper_id": "3RhuF8foyPW",
+      "title": "Single-shot General Hyper-parameter Optimization for Federated Learning",
+      "authors": "Yi Zhou, Parikshit Ram, Theodoros Salonidis, Nathalie Baracaldo, Horst Samulowitz, Heiko Ludwig",
+      "paper_url": "https://openreview.net/pdf/05e0c917ee8caab80ea9a21a831a3c9589442e99.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_k1FHgri5y3-",
+      "paper_id": "k1FHgri5y3-",
+      "title": "Sparse Random Networks for Communication-Efficient Federated Learning",
+      "authors": "Berivan Isik, Francesco Pase, Deniz Gunduz, Tsachy Weissman, Zorzi Michele",
+      "paper_url": "https://openreview.net/pdf/59128a762bccd9ac786cf20c698a39364cbe709c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_OBUQNASaWw",
+      "paper_id": "OBUQNASaWw",
+      "title": "SparsyFed: Sparse Adaptive Federated Learning",
+      "authors": "Adriano Guastella, Lorenzo Sani, Alex Iacob, Alessio Mora, Paolo Bellavista, Nicholas Donald Lane",
+      "paper_url": "https://openreview.net/pdf?id=OBUQNASaWw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_hxUwnEGxW87",
+      "paper_id": "hxUwnEGxW87",
+      "title": "Statistical Theory of Differentially Private Marginal-based Data Synthesis Algorithms",
+      "authors": "Ximing Li, Chendi Wang, Guang Cheng",
+      "paper_url": "https://openreview.net/pdf/3058893e9f851ac461611b0b24f93d716651a067.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_jj5ZjZsWJe",
+      "paper_id": "jj5ZjZsWJe",
+      "title": "Stochastic Controlled Averaging for Federated Learning with Communication Compression",
+      "authors": "Xinmeng Huang, Ping Li, Xiaoyun Li",
+      "paper_url": "https://openreview.net/pdf?id=jj5ZjZsWJe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_3nM5uhPlfv6",
+      "paper_id": "3nM5uhPlfv6",
+      "title": "Stochastic Differentially Private and Fair Learning",
+      "authors": "Andrew Lowy, Devansh Gupta, Meisam Razaviyayn",
+      "paper_url": "https://openreview.net/pdf/fc65ef7914e82ee94fba6f4e3211b110fd97f24b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cH65nS5sOz",
+      "paper_id": "cH65nS5sOz",
+      "title": "Subgraph Federated Learning for Local Generalization",
+      "authors": "Sungwon Kim, Yoonho Lee, Yunhak Oh, Namkyeong Lee, Sukwon Yun, Junseok Lee, Sein Kim, Carl Yang, Chanyoung Park",
+      "paper_url": "https://openreview.net/pdf?id=cH65nS5sOz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_jh1nCir1R3d",
+      "paper_id": "jh1nCir1R3d",
+      "title": "SWIFT: Rapid Decentralized Federated Learning via Wait-Free Model Communication",
+      "authors": "Marco Bornstein, Tahseen Rabbani, Evan Z Wang, Amrit Bedi, Furong Huang",
+      "paper_url": "https://openreview.net/pdf/8958ed315a36eceffb2712c6e256766b009fdd23.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_4aywmeb97I",
+      "paper_id": "4aywmeb97I",
+      "title": "Tackling the Data Heterogeneity in Asynchronous Federated Learning with Cached Update Calibration",
+      "authors": "Yujia Wang, Yuanpu Cao, Jingcheng Wu, Ruoyu Chen, Jinghui Chen",
+      "paper_url": "https://openreview.net/pdf?id=4aywmeb97I",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_3aBuJEza5sq",
+      "paper_id": "3aBuJEza5sq",
+      "title": "Test-Time Robust Personalization for Federated Learning",
+      "authors": "Liangze Jiang, Tao Lin",
+      "paper_url": "https://openreview.net/pdf/760207455793019468b1695bd64f24537a7765bc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_29V3AWjVAFi",
+      "paper_id": "29V3AWjVAFi",
+      "title": "The Best of Both Worlds: Accurate Global and Personalized Models through Federated Learning with Data-Free Hyper-Knowledge Distillation",
+      "authors": "Huancheng Chen, Chianing Wang, Haris Vikalo",
+      "paper_url": "https://openreview.net/pdf/333b4b6fba8d961b0d290a1fc082f7c5c2899ddc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_XlTDBZFXWp",
+      "paper_id": "XlTDBZFXWp",
+      "title": "The importance of feature preprocessing for differentially private linear optimization",
+      "authors": "Ziteng Sun, Ananda Theertha Suresh, Aditya Krishna Menon",
+      "paper_url": "https://openreview.net/pdf?id=XlTDBZFXWp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_DwqoBkj2Mw",
+      "paper_id": "DwqoBkj2Mw",
+      "title": "The Last Iterate Advantage: Empirical Auditing and Principled Heuristic Analysis of Differentially Private SGD",
+      "authors": "Milad Nasr, Thomas Steinke, Borja Balle, Christopher A. Choquette-Choo, Arun Ganesh, Matthew Jagielski, Jamie Hayes, Abhradeep Guha Thakurta, Adam Smith, Andreas Terzis",
+      "paper_url": "https://openreview.net/pdf?id=DwqoBkj2Mw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xzKFnsJIXL",
+      "paper_id": "xzKFnsJIXL",
+      "title": "Tighter Privacy Auditing of DP-SGD in the Hidden State Threat Model",
+      "authors": "Tudor Ioan Cebere, Aurélien Bellet, Nicolas Papernot",
+      "paper_url": "https://openreview.net/pdf?id=xzKFnsJIXL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_rzrqh85f4Sc",
+      "paper_id": "rzrqh85f4Sc",
+      "title": "Towards Addressing Label Skews in One-Shot Federated Learning",
+      "authors": "Yiqun Diao, Qinbin Li, Bingsheng He",
+      "paper_url": "https://openreview.net/pdf/8eeb662e01315fcdeccb79b7f1631b46d561813e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_2kGKsyhtvh",
+      "paper_id": "2kGKsyhtvh",
+      "title": "Towards hyperparameter-free optimization with differential privacy",
+      "authors": "Ruixuan Liu, Zhiqi Bu",
+      "paper_url": "https://openreview.net/pdf?id=2kGKsyhtvh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_lQI_mZjvBxj",
+      "paper_id": "lQI_mZjvBxj",
+      "title": "Towards Model Agnostic Federated Learning Using Knowledge Distillation",
+      "authors": "Andrei Afonin, Sai Praneeth Karimireddy",
+      "paper_url": "https://openreview.net/pdf/f344afa0b3f559c81737bef7821131844aa1feb1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_EXnIyMVTL8s",
+      "paper_id": "EXnIyMVTL8s",
+      "title": "Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning",
+      "authors": "Yujun Shi, Jian Liang, Wenqing Zhang, Vincent Tan, Song Bai",
+      "paper_url": "https://openreview.net/pdf/604a58996edbc056a1d05e06f41f2d8809fce38b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_pmweVpJ229",
+      "paper_id": "pmweVpJ229",
+      "title": "Tractable MCMC for Private Learning with Pure and Gaussian Differential Privacy",
+      "authors": "Yingyu Lin, Yian Ma, Yu-Xiang Wang, Rachel Emily Redberg, Zhiqi Bu",
+      "paper_url": "https://openreview.net/pdf?id=pmweVpJ229",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_mMNimwRb7Gr",
+      "paper_id": "mMNimwRb7Gr",
+      "title": "Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection",
+      "authors": "Shuyang Yu, Junyuan Hong, Haotao Wang, Zhangyang Wang, Jiayu Zhou",
+      "paper_url": "https://openreview.net/pdf/3943d2638f2adc77b54de624c3d14c17ee8615f8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EcetCr4trp",
+      "paper_id": "EcetCr4trp",
+      "title": "Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory",
+      "authors": "Wei Huang, Ye Shi, Zhongyi Cai, Taiji Suzuki",
+      "paper_url": "https://openreview.net/pdf?id=EcetCr4trp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_znhZbonEoe",
+      "paper_id": "znhZbonEoe",
+      "title": "Understanding the Stability-based Generalization of Personalized Federated Learning",
+      "authors": "Yingqi Liu, Qinglun Li, Jie Tan, Yifan Shi, Li Shen, Xiaochun Cao",
+      "paper_url": "https://openreview.net/pdf?id=znhZbonEoe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Osr0KZJeTX",
+      "paper_id": "Osr0KZJeTX",
+      "title": "Unlocking the Potential of Model Calibration in Federated Learning",
+      "authors": "Yun-Wei Chu, Dong-Jun Han, Seyyedali Hosseinalipour, Christopher Brinton",
+      "paper_url": "https://openreview.net/pdf?id=Osr0KZJeTX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_pfuqQQCB34",
+      "paper_id": "pfuqQQCB34",
+      "title": "Variance Reduction is an Antidote to Byzantines: Better Rates, Weaker Assumptions and Communication Compression as a Cherry on the Top",
+      "authors": "Eduard Gorbunov, Samuel Horváth, Peter Richtárik, Gauthier Gidel",
+      "paper_url": "https://openreview.net/pdf/628ed3086a3fa5385dafa18893069cc3b950bc45.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_glwwbaeKm2",
+      "paper_id": "glwwbaeKm2",
+      "title": "VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks",
+      "authors": "Zhaomin Wu, Junyi Hou, Bingsheng He",
+      "paper_url": "https://openreview.net/pdf?id=glwwbaeKm2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_OXi1FmHGzz",
+      "paper_id": "OXi1FmHGzz",
+      "title": "Vertical Federated Learning with Missing Features During Training and Inference",
+      "authors": "Pedro Valdeira, Shiqiang Wang, Yuejie Chi",
+      "paper_url": "https://openreview.net/pdf?id=OXi1FmHGzz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sqRgz88TM3",
+      "paper_id": "sqRgz88TM3",
+      "title": "VFLAIR: A Research Library and Benchmark for Vertical Federated Learning",
+      "authors": "Tianyuan Zou, Zixuan GU, Yu He, Hideaki Takahashi, Yang Liu, Ya-Qin Zhang",
+      "paper_url": "https://openreview.net/pdf?id=sqRgz88TM3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_VimqQq-i_Q",
+      "paper_id": "VimqQq-i_Q",
+      "title": "What Do We Mean by Generalization in Federated Learning?",
+      "authors": "Honglin Yuan, Warren Richard Morningstar, Lin Ning, Karan Singhal",
+      "paper_url": "https://openreview.net/pdf/52ed8e81d3311fe4d43cf85b2faadfa3fcdaa83a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_Mpa3tRJFBb",
+      "paper_id": "Mpa3tRJFBb",
+      "title": "Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning",
+      "authors": "John Nguyen, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat",
+      "paper_url": "https://openreview.net/pdf/270568c6d80daef0fdc3934838d90aba2eb3610c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_2sDQwC_hmnM",
+      "paper_id": "2sDQwC_hmnM",
+      "title": "ZeroFL: Efficient On-Device Training for  Federated Learning with Local Sparsity",
+      "authors": "Xinchi Qiu, Javier Fernandez-Marques, Pedro PB Gusmao, Yan Gao, Titouan Parcollet, Nicholas Donald Lane",
+      "paper_url": "https://openreview.net/pdf/51f094e72c1306f6546a372f9bb52b32060ebcf4.pdf",
+      "venue": "iclr22"
+    }
+  ]
+}

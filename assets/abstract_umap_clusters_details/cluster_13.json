@@ -1,0 +1,1509 @@
+{
+  "cluster_id": 13,
+  "papers": [
+    {
+      "id": "cvpr25_2102",
+      "paper_id": "",
+      "title": "A Distractor-Aware Memory for Visual Object Tracking with SAM2",
+      "authors": "Jovana Videnovic, Alan Lukezic, Matej Kristan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Videnovic_A_Distractor-Aware_Memory_for_Visual_Object_Tracking_with_SAM2_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1538",
+      "paper_id": "",
+      "title": "A Generalized Loss Function for Crowd Counting and Localization",
+      "authors": "Jia Wan, Ziquan Liu, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_A_Generalized_Loss_Function_for_Crowd_Counting_and_Localization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_747",
+      "paper_id": "",
+      "title": "A Variational Bayesian Method for Similarity Learning in Non-Rigid Image Registration",
+      "authors": "Daniel Grzech, Mohammad Farid Azampour, Ben Glocker, Julia Schnabel, Nassir Navab, Bernhard Kainz, Loïc Le Folgoc",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Grzech_A_Variational_Bayesian_Method_for_Similarity_Learning_in_Non-Rigid_Image_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1431",
+      "paper_id": "",
+      "title": "ABMDRNet: Adaptive-Weighted Bi-Directional Modality Difference Reduction Network for RGB-T Semantic Segmentation",
+      "authors": "Qiang Zhang, Shenlu Zhao, Yongjiang Luo, Dingwen Zhang, Nianchang Huang, Jungong Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_ABMDRNet_Adaptive-Weighted_Bi-Directional_Modality_Difference_Reduction_Network_for_RGB-T_Semantic_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_336",
+      "paper_id": "",
+      "title": "ADA-Track: End-to-End Multi-Camera 3D Multi-Object Tracking with Alternating Detection and Association",
+      "authors": "Shuxiao Ding, Lukas Schneider, Marius Cordts, Juergen Gall",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_ADA-Track_End-to-End_Multi-Camera_3D_Multi-Object_Tracking_with_Alternating_Detection_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_2274",
+      "paper_id": "",
+      "title": "Adaptive Sparse Convolutional Networks With Global Context Enhancement for Faster Object Detection on Drone Images",
+      "authors": "Bowei Du, Yecheng Huang, Jiaxin Chen, Di Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Adaptive_Sparse_Convolutional_Networks_With_Global_Context_Enhancement_for_Faster_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_969",
+      "paper_id": "",
+      "title": "Adiabatic Quantum Computing for Multi Object Tracking",
+      "authors": "Jan-Nico Zaech, Alexander Liniger, Martin Danelljan, Dengxin Dai, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1056",
+      "paper_id": "",
+      "title": "Affine Medical Image Registration With Coarse-To-Fine Vision Transformer",
+      "authors": "Tony C. W. Mok, Albert C. S. Chung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mok_Affine_Medical_Image_Registration_With_Coarse-To-Fine_Vision_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1078",
+      "paper_id": "",
+      "title": "Aladdin: Joint Atlas Building and Diffeomorphic Registration Learning With Pairwise Alignment",
+      "authors": "Zhipeng Ding, Marc Niethammer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Aladdin_Joint_Atlas_Building_and_Diffeomorphic_Registration_Learning_With_Pairwise_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1662",
+      "paper_id": "",
+      "title": "All-Day Multi-Camera Multi-Target Tracking",
+      "authors": "Huijie Fan, Yu Qiao, Yihao Zhen, Tinghui Zhao, Baojie Fan, Qiang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_All-Day_Multi-Camera_Multi-Target_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_755",
+      "paper_id": "",
+      "title": "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation",
+      "authors": "Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Alpha-Refine_Boosting_Tracking_Performance_by_Precise_Bounding_Box_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1406",
+      "paper_id": "",
+      "title": "ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data",
+      "authors": "Haojie Zhao, Junsong Chen, Lijun Wang, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_ARKitTrack_A_New_Diverse_Dataset_for_Tracking_Using_Mobile_RGB-D_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1350",
+      "paper_id": "",
+      "title": "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe",
+      "authors": "Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_ARTrackV2_Prompting_Autoregressive_Tracker_Where_to_Look_and_How_to_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2324",
+      "paper_id": "",
+      "title": "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers",
+      "authors": "Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_Autoregressive_Queries_for_Adaptive_Tracking_with_Spatio-Temporal_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_661",
+      "paper_id": "",
+      "title": "Autoregressive Sequential Pretraining for Visual Tracking",
+      "authors": "Shiyi Liang, Yifan Bai, Yihong Gong, Xing Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_Autoregressive_Sequential_Pretraining_for_Visual_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2023",
+      "paper_id": "",
+      "title": "Autoregressive Visual Tracking",
+      "authors": "Xing Wei, Yifan Bai, Yongchao Zheng, Dahu Shi, Yihong Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1694",
+      "paper_id": "",
+      "title": "Bi-Level Alignment for Cross-Domain Crowd Counting",
+      "authors": "Shenjian Gong, Shanshan Zhang, Jian Yang, Dengxin Dai, Bernt Schiele",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gong_Bi-Level_Alignment_for_Cross-Domain_Crowd_Counting_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1160",
+      "paper_id": "",
+      "title": "Boosting Crowd Counting via Multifaceted Attention",
+      "authors": "Hui Lin, Zhiheng Ma, Rongrong Ji, Yaowei Wang, Xiaopeng Hong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Boosting_Crowd_Counting_via_Multifaceted_Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1427",
+      "paper_id": "",
+      "title": "Boosting Detection in Crowd Analysis via Underutilized Output Features",
+      "authors": "Shaokai Wu, Fengyu Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Boosting_Detection_in_Crowd_Analysis_via_Underutilized_Output_Features_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_799",
+      "paper_id": "",
+      "title": "Bridging Search Region Interaction With Template for RGB-T Tracking",
+      "authors": "Tianrui Hui, Zizheng Xun, Fengguang Peng, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1058",
+      "paper_id": "",
+      "title": "CapsuleRRT: Relationships-Aware Regression Tracking via Capsules",
+      "authors": "Ding Ma, Xiangqian Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_29",
+      "paper_id": "",
+      "title": "CARL: A Framework for Equivariant Image Registration",
+      "authors": "Hastings Greer, Lin Tian, François-Xavier Vialard, Roland Kwitt, Raul San Jose Estepar, Marc Niethammer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Greer_CARL_A_Framework_for_Equivariant_Image_Registration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1795",
+      "paper_id": "",
+      "title": "Causal Mode Multiplexer: A Novel Framework for Unbiased Multispectral Pedestrian Detection",
+      "authors": "Taeheon Kim, Sebin Shin, Youngjoon Yu, Hak Gu Kim, Yong Man Ro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Causal_Mode_Multiplexer_A_Novel_Framework_for_Unbiased_Multispectral_Pedestrian_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1850",
+      "paper_id": "",
+      "title": "CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion",
+      "authors": "Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Shuang Xu, Zudi Lin, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2111",
+      "paper_id": "",
+      "title": "CholecTrack20: A Multi-Perspective Tracking Dataset for Surgical Tools",
+      "authors": "Chinedu Innocent Nwoye, Kareem Elgohary, Anvita Srinivas, Fauzan Zaid, Joël L. Lavanchy, Nicolas Padoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Nwoye_CholecTrack20_A_Multi-Perspective_Tracking_Dataset_for_Surgical_Tools_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2575",
+      "paper_id": "",
+      "title": "Context-Aware Integration of Language and Visual References for Natural Language Tracking",
+      "authors": "Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shao_Context-Aware_Integration_of_Language_and_Visual_References_for_Natural_Language_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1968",
+      "paper_id": "",
+      "title": "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration",
+      "authors": "Mingyuan Meng, Dagan Feng, Lei Bi, Jinman Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Meng_Correlation-aware_Coarse-to-fine_MLPs_for_Deformable_Medical_Image_Registration_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1376",
+      "paper_id": "",
+      "title": "Correlation-Aware Deep Tracking",
+      "authors": "Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Correlation-Aware_Deep_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_655",
+      "paper_id": "",
+      "title": "Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting",
+      "authors": "Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Cross-Modal_Collaborative_Representation_Learning_and_a_Large-Scale_RGBT_Benchmark_for_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_895",
+      "paper_id": "",
+      "title": "Cross-View Cross-Scene Multi-View Crowd Counting",
+      "authors": "Qi Zhang, Wei Lin, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Cross-View_Cross-Scene_Multi-View_Crowd_Counting_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1074",
+      "paper_id": "",
+      "title": "Crowd Counting in the Frequency Domain",
+      "authors": "Weibo Shu, Jia Wan, Kay Chen Tan, Sam Kwong, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shu_Crowd_Counting_in_the_Frequency_Domain_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1935",
+      "paper_id": "",
+      "title": "CrowdCLIP: Unsupervised Crowd Counting via Vision-Language Model",
+      "authors": "Dingkang Liang, Jiahao Xie, Zhikang Zou, Xiaoqing Ye, Wei Xu, Xiang Bai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liang_CrowdCLIP_Unsupervised_Crowd_Counting_via_Vision-Language_Model_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1097",
+      "paper_id": "",
+      "title": "CrowdDiff: Multi-hypothesis Crowd Density Estimation using Diffusion Models",
+      "authors": "Yasiru Ranasinghe, Nithin Gopalakrishnan Nair, Wele Gedara Chaminda Bandara, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_CrowdDiff_Multi-hypothesis_Crowd_Density_Estimation_using_Diffusion_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_2045",
+      "paper_id": "",
+      "title": "DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion",
+      "authors": "Peize Sun, Jinkun Cao, Yi Jiang, Zehuan Yuan, Song Bai, Kris Kitani, Ping Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_DanceTrack_Multi-Object_Tracking_in_Uniform_Appearance_and_Diverse_Motion_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1350",
+      "paper_id": "",
+      "title": "DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion",
+      "authors": "Jinyuan Liu, Bowei Zhang, Qingyun Mei, Xingyuan Li, Yang Zou, Zhiying Jiang, Long Ma, Risheng Liu, Xin Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_DCEvo_Discriminative_Cross-Dimensional_Evolutionary_Learning_for_Infrared_and_Visible_Image_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1793",
+      "paper_id": "",
+      "title": "DeconfuseTrack: Dealing with Confusion for Multi-Object Tracking",
+      "authors": "Cheng Huang, Shoudong Han, Mengyu He, Wenbo Zheng, Yuhao Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_DeconfuseTrack_Dealing_with_Confusion_for_Multi-Object_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1855",
+      "paper_id": "",
+      "title": "Delving into the Trajectory Long-tail Distribution for Muti-object Tracking",
+      "authors": "Sijia Chen, En Yu, Jinyang Li, Wenbing Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Delving_into_the_Trajectory_Long-tail_Distribution_for_Muti-object_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1571",
+      "paper_id": "",
+      "title": "Dense Optical Tracking: Connecting the Dots",
+      "authors": "Guillaume Le Moing, Jean Ponce, Cordelia Schmid",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Moing_Dense_Optical_Tracking_Connecting_the_Dots_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_190",
+      "paper_id": "",
+      "title": "Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark",
+      "authors": "Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Detection_Tracking_and_Counting_Meets_Drones_in_Crowds_A_Benchmark_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2570",
+      "paper_id": "",
+      "title": "Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared UAV Target Detection",
+      "authors": "Houzhang Fang, Xiaolin Wang, Zengyang Li, Lu Wang, Qingshan Li, Yi Chang, Luxin Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fang_Detection-Friendly_Nonuniformity_Correction_A_Union_Framework_for_Infrared_UAV_Target_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1697",
+      "paper_id": "",
+      "title": "DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction",
+      "authors": "Weiyi Lv, Yuhang Huang, Ning Zhang, Ruei-Sung Lin, Mei Han, Dan Zeng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_DiffMOT_A_Real-time_Diffusion-based_Multiple_Object_Tracker_with_Non-linear_Prediction_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1462",
+      "paper_id": "",
+      "title": "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking",
+      "authors": "Fei Xie, Zhongdao Wang, Chao Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_369",
+      "paper_id": "",
+      "title": "Discriminative Appearance Modeling With Multi-Track Pooling for Real-Time Multi-Object Tracking",
+      "authors": "Chanho Kim, Li Fuxin, Mazen Alotaibi, James M. Rehg",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Discriminative_Appearance_Modeling_With_Multi-Track_Pooling_for_Real-Time_Multi-Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_948",
+      "paper_id": "",
+      "title": "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy",
+      "authors": "Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_237",
+      "paper_id": "",
+      "title": "Dogfight: Detecting Drones From Drones Videos",
+      "authors": "Muhammad Waseem Ashraf, Waqas Sultani, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1262",
+      "paper_id": "",
+      "title": "DR.VIC: Decomposition and Reasoning for Video Individual Counting",
+      "authors": "Tao Han, Lei Bai, Junyu Gao, Qi Wang, Wanli Ouyang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Han_DR.VIC_Decomposition_and_Reasoning_for_Video_Individual_Counting_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_419",
+      "paper_id": "",
+      "title": "DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking",
+      "authors": "Mingzhe Guo, Weiping Tan, Wenyu Ran, Liping Jing, Zhipeng Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_DreamTrack_Dreaming_the_Future_for_Multimodal_Visual_Object_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1290",
+      "paper_id": "",
+      "title": "DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos",
+      "authors": "Arjun Balasingam, Joseph Chandler, Chenning Li, Zhoutong Zhang, Hari Balakrishnan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Balasingam_DriveTrack_A_Benchmark_for_Long-Range_Point_Tracking_in_Real-World_Videos_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_539",
+      "paper_id": "",
+      "title": "DyGLIP: A Dynamic Graph Model With Link Prediction for Accurate Multi-Camera Multiple Object Tracking",
+      "authors": "Kha Gia Quach, Pha Nguyen, Huu Le, Thanh-Dat Truong, Chi Nhan Duong, Minh-Triet Tran, Khoa Luu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Quach_DyGLIP_A_Dynamic_Graph_Model_With_Link_Prediction_for_Accurate_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_686",
+      "paper_id": "",
+      "title": "Dynamic Updates for Language Adaptation in Visual-Language Tracking",
+      "authors": "Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dynamic_Updates_for_Language_Adaptation_in_Visual-Language_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_881",
+      "paper_id": "",
+      "title": "Efficient RGB-T Tracking via Cross-Modality Distillation",
+      "authors": "Tianlu Zhang, Hongyuan Guo, Qiang Jiao, Qiang Zhang, Jungong Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Efficient_RGB-T_Tracking_via_Cross-Modality_Distillation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1687",
+      "paper_id": "",
+      "title": "Equivariant Multi-Modality Image Fusion",
+      "authors": "Zixiang Zhao, Haowen Bai, Jiangshe Zhang, Yulun Zhang, Kai Zhang, Shuang Xu, Dongdong Chen, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Equivariant_Multi-Modality_Image_Fusion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_612",
+      "paper_id": "",
+      "title": "Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond",
+      "authors": "Guanyao Wu, Haoyu Liu, Hongming Fu, Yichuan Peng, Jinyuan Liu, Xin Fan, Risheng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Every_SAM_Drop_Counts_Embracing_Semantic_Priors_for_Multi-Modality_Image_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2374",
+      "paper_id": "",
+      "title": "Exploring Historical Information for RGBE Visual Tracking with Mamba",
+      "authors": "Chuanyu Sun, Jiqing Zhang, Yang Wang, Huilin Ge, Qianchen Xia, Baocai Yin, Xin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Exploring_Historical_Information_for_RGBE_Visual_Tracking_with_Mamba_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1925",
+      "paper_id": "",
+      "title": "Exploring Temporally-Aware Features for Point Tracking",
+      "authors": "Inès Hyeonsu Kim, Seokju Cho, Jiahui Huang, Jung Yi, Joon-Young Lee, Seungryong Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Exploring_Temporally-Aware_Features_for_Point_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1670",
+      "paper_id": "",
+      "title": "FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking",
+      "authors": "Seokju Cho, Jiahui Huang, Seungryong Kim, Joon-Young Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1162",
+      "paper_id": "",
+      "title": "Focus on Details: Online Multi-Object Tracking With Diverse Fine-Grained Representation",
+      "authors": "Hao Ren, Shoudong Han, Huilin Ding, Ziwen Zhang, Hongwei Wang, Faquan Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Focus_on_Details_Online_Multi-Object_Tracking_With_Diverse_Fine-Grained_Representation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_376",
+      "paper_id": "",
+      "title": "Focusing on Tracks for Online Multi-Object Tracking",
+      "authors": "Kyujin Shim, Kangwook Ko, Yujin Yang, Changick Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shim_Focusing_on_Tracks_for_Online_Multi-Object_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1645",
+      "paper_id": "",
+      "title": "Free Lunch Enhancements for Multi-modal Crowd Counting",
+      "authors": "Haoliang Meng, Xiaopeng Hong, Zhengqin Lai, Miao Shang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Meng_Free_Lunch_Enhancements_for_Multi-modal_Crowd_Counting_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_329",
+      "paper_id": "",
+      "title": "Generalizable Pedestrian Detection: The Elephant in the Room",
+      "authors": "Irtiza Hasan, Shengcai Liao, Jinpeng Li, Saad Ullah Akram, Ling Shao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1563",
+      "paper_id": "",
+      "title": "Generalized Relation Modeling for Transformer Tracking",
+      "authors": "Shenyuan Gao, Chunluan Zhou, Jun Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Generalized_Relation_Modeling_for_Transformer_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_670",
+      "paper_id": "",
+      "title": "Global Tracking Transformers",
+      "authors": "Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Philipp Krähenbühl",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Global_Tracking_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1466",
+      "paper_id": "",
+      "title": "Global Tracking via Ensemble of Local Trackers",
+      "authors": "Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, Zhenyu He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Global_Tracking_via_Ensemble_of_Local_Trackers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_651",
+      "paper_id": "",
+      "title": "GMOT-40: A Benchmark for Generic Multiple Object Tracking",
+      "authors": "Hexin Bai, Wensheng Cheng, Peng Chu, Juehuan Liu, Kai Zhang, Haibin Ling",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_GMOT-40_A_Benchmark_for_Generic_Multiple_Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1346",
+      "paper_id": "",
+      "title": "GradICON: Approximate Diffeomorphisms via Gradient Inverse Consistency",
+      "authors": "Lin Tian, Hastings Greer, François-Xavier Vialard, Roland Kwitt, Raúl San José Estépar, Richard Jarrett Rushmore, Nikolaos Makris, Sylvain Bouix, Marc Niethammer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_GradICON_Approximate_Diffeomorphisms_via_Gradient_Inverse_Consistency_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2192",
+      "paper_id": "",
+      "title": "GRAE-3DMOT: Geometry Relation-Aware Encoder for Online 3D Multi-Object Tracking",
+      "authors": "Hyunseop Kim, Hyo-Jun Lee, Yonguk Lee, Jinu Lee, Hanul Kim, Yeong Jun Koh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_GRAE-3DMOT_Geometry_Relation-Aware_Encoder_for_Online_3D_Multi-Object_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_786",
+      "paper_id": "",
+      "title": "Graph Attention Tracking",
+      "authors": "Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Graph_Attention_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_184",
+      "paper_id": "",
+      "title": "H-ViT: A Hierarchical Vision Transformer for Deformable Image Registration",
+      "authors": "Morteza Ghahremani, Mohammad Khateri, Bailiang Jian, Benedikt Wiestler, Ehsan Adeli, Christian Wachinger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ghahremani_H-ViT_A_Hierarchical_Vision_Transformer_for_Deformable_Image_Registration_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2229",
+      "paper_id": "",
+      "title": "HIPTrack: Visual Tracking with Historical Prompts",
+      "authors": "Wenrui Cai, Qingjie Liu, Yunhong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_HIPTrack_Visual_Tracking_with_Historical_Prompts_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1715",
+      "paper_id": "",
+      "title": "IIRP-Net: Iterative Inference Residual Pyramid Network for Enhanced Image Registration",
+      "authors": "Tai Ma, Suwei Zhang, Jiafeng Li, Ying Wen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_IIRP-Net_Iterative_Inference_Residual_Pyramid_Network_for_Enhanced_Image_Registration_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_543",
+      "paper_id": "",
+      "title": "iKUN: Speak to Trackers without Retraining",
+      "authors": "Yunhao Du, Cheng Lei, Zhicheng Zhao, Fei Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Du_iKUN_Speak_to_Trackers_without_Retraining_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1330",
+      "paper_id": "",
+      "title": "Improving Multiple Object Tracking With Single Object Tracking",
+      "authors": "Linyu Zheng, Ming Tang, Yingying Chen, Guibo Zhu, Jinqiao Wang, Hanqing Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Improving_Multiple_Object_Tracking_With_Single_Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1612",
+      "paper_id": "",
+      "title": "Improving Multiple Pedestrian Tracking by Track Management and Occlusion Handling",
+      "authors": "Daniel Stadler, Jurgen Beyerer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Stadler_Improving_Multiple_Pedestrian_Tracking_by_Track_Management_and_Occlusion_Handling_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_800",
+      "paper_id": "",
+      "title": "Indescribable Multi-Modal Spatial Evaluator",
+      "authors": "Lingke Kong, X. Sharon Qi, Qijin Shen, Jiacheng Wang, Jingyi Zhang, Yanle Hu, Qichao Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kong_Indescribable_Multi-Modal_Spatial_Evaluator_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2691",
+      "paper_id": "",
+      "title": "Infrared Small Target Detection with Scale and Location Sensitivity",
+      "authors": "Qiankun Liu, Rui Liu, Bolun Zheng, Hongkui Wang, Ying Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Infrared_Small_Target_Detection_with_Scale_and_Location_Sensitivity_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1736",
+      "paper_id": "",
+      "title": "ISNet: Shape Matters for Infrared Small Target Detection",
+      "authors": "Mingjin Zhang, Rui Zhang, Yuxiang Yang, Haichen Bai, Jing Zhang, Jie Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1653",
+      "paper_id": "",
+      "title": "Joint Visual Grounding and Tracking With Natural Language Specification",
+      "authors": "Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Joint_Visual_Grounding_and_Tracking_With_Natural_Language_Specification_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1434",
+      "paper_id": "",
+      "title": "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems",
+      "authors": "Yifan Wang, Jian Zhao, Zhaoxin Fan, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1104",
+      "paper_id": "",
+      "title": "Learnable Graph Matching: Incorporating Graph Partitioning With Deep Feature Learning for Multiple Object Tracking",
+      "authors": "Jiawei He, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/He_Learnable_Graph_Matching_Incorporating_Graph_Partitioning_With_Deep_Feature_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2043",
+      "paper_id": "",
+      "title": "Learned Trajectory Embedding for Subspace Clustering",
+      "authors": "Yaroslava Lochman, Carl Olsson, Christopher Zach",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lochman_Learned_Trajectory_Embedding_for_Subspace_Clustering_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1486",
+      "paper_id": "",
+      "title": "Learning a Proposal Classifier for Multiple Object Tracking",
+      "authors": "Peng Dai, Renliang Weng, Wongun Choi, Changshui Zhang, Zhangping He, Wei Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Learning_a_Proposal_Classifier_for_Multiple_Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_996",
+      "paper_id": "",
+      "title": "Learning Based Multi-Modality Image and Video Compression",
+      "authors": "Guo Lu, Tianxiong Zhong, Jing Geng, Qiang Hu, Dong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2725",
+      "paper_id": "",
+      "title": "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking",
+      "authors": "You Wu, Xucheng Wang, Xiangyang Yang, Mengyuan Liu, Dan Zeng, Hengzhou Ye, Shuiwang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Learning_Occlusion-Robust_Vision_Transformers_for_Real-Time_UAV_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1859",
+      "paper_id": "",
+      "title": "Learning of Global Objective for Network Flow in Multi-Object Tracking",
+      "authors": "Shuai Li, Yu Kong, Hamid Rezatofighi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_of_Global_Objective_for_Network_Flow_in_Multi-Object_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_221",
+      "paper_id": "",
+      "title": "Learning To Filter: Siamese Relation Network for Robust Tracking",
+      "authors": "Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Learning_To_Filter_Siamese_Relation_Network_for_Robust_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1503",
+      "paper_id": "",
+      "title": "Learning To Fuse Asymmetric Feature Maps in Siamese Trackers",
+      "authors": "Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Learning_To_Fuse_Asymmetric_Feature_Maps_in_Siamese_Trackers_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1137",
+      "paper_id": "",
+      "title": "Learning-Based Image Registration With Meta-Regularization",
+      "authors": "Ebrahim Al Safadi, Xubo Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Safadi_Learning-Based_Image_Registration_With_Meta-Regularization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_2023",
+      "paper_id": "",
+      "title": "Leveraging Self-Supervision for Cross-Domain Crowd Counting",
+      "authors": "Weizhe Liu, Nikita Durasov, Pascal Fua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Leveraging_Self-Supervision_for_Cross-Domain_Crowd_Counting_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_725",
+      "paper_id": "",
+      "title": "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search",
+      "authors": "Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_LightTrack_Finding_Lightweight_Neural_Networks_for_Object_Tracking_via_One-Shot_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1159",
+      "paper_id": "",
+      "title": "LMGP: Lifted Multicut Meets Geometry Projections for Multi-Camera Multi-Object Tracking",
+      "authors": "Duy M. H. Nguyen, Roberto Henschel, Bodo Rosenhahn, Daniel Sonntag, Paul Swoboda",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_LMGP_Lifted_Multicut_Meets_Geometry_Projections_for_Multi-Camera_Multi-Object_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_460",
+      "paper_id": "",
+      "title": "Localized Semantic Feature Mixers for Efficient Pedestrian Detection in Autonomous Driving",
+      "authors": "Abdul Hannan Khan, Mohammed Shariq Nawaz, Andreas Dengel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Khan_Localized_Semantic_Feature_Mixers_for_Efficient_Pedestrian_Detection_in_Autonomous_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2406",
+      "paper_id": "",
+      "title": "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking",
+      "authors": "Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MambaVLT_Time-Evolving_Multimodal_State_Space_Model_for_Vision-Language_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_48",
+      "paper_id": "",
+      "title": "Mapping Degeneration Meets Label Evolution: Learning Infrared Small Target Detection With Single Point Supervision",
+      "authors": "Xinyi Ying, Li Liu, Yingqian Wang, Ruojing Li, Nuo Chen, Zaiping Lin, Weidong Sheng, Shilin Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ying_Mapping_Degeneration_Meets_Label_Evolution_Learning_Infrared_Small_Target_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_544",
+      "paper_id": "",
+      "title": "MeMOT: Multi-Object Tracking With Memory",
+      "authors": "Jiarui Cai, Mingze Xu, Wei Li, Yuanjun Xiong, Wei Xia, Zhuowen Tu, Stefano Soatto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_MeMOT_Multi-Object_Tracking_With_Memory_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_807",
+      "paper_id": "",
+      "title": "MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding From Object Detection",
+      "authors": "Wenda Zhao, Shigeng Xie, Fan Zhao, You He, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_MetaFusion_Infrared_and_Visible_Image_Fusion_via_Meta-Feature_Embedding_From_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_644",
+      "paper_id": "",
+      "title": "MITracker: Multi-View Integration for Visual Object Tracking",
+      "authors": "Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Han Zhang, Qing Yang, Qian Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_MITracker_Multi-View_Integration_for_Visual_Object_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1493",
+      "paper_id": "",
+      "title": "MixFormer: End-to-End Tracking With Iterative Mixed Attention",
+      "authors": "Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cui_MixFormer_End-to-End_Tracking_With_Iterative_Mixed_Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1885",
+      "paper_id": "",
+      "title": "Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration",
+      "authors": "Tony C. W. Mok, Zi Li, Yunhao Bai, Jianpeng Zhang, Wei Liu, Yan-Jie Zhou, Ke Yan, Dakai Jin, Yu Shi, Xiaoli Yin, Le Lu, Ling Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mok_Modality-Agnostic_Structural_Image_Representation_Learning_for_Deformable_Multi-Modality_Medical_Image_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_330",
+      "paper_id": "",
+      "title": "Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking",
+      "authors": "Hongkai Wei, Yang Yang, Shijie Sun, Mingtao Feng, Xiangyu Song, Qi Lei, Hongli Hu, Rong Wang, Huansheng Song, Naveed Akhtar, Ajmal Saeed Mian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_875",
+      "paper_id": "",
+      "title": "MotionTrack: Learning Robust Short-Term and Long-Term Motions for Multi-Object Tracking",
+      "authors": "Zheng Qin, Sanping Zhou, Le Wang, Jinghai Duan, Gang Hua, Wei Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_MotionTrack_Learning_Robust_Short-Term_and_Long-Term_Motions_for_Multi-Object_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2335",
+      "paper_id": "",
+      "title": "MOTRv2: Bootstrapping End-to-End Multi-Object Tracking by Pretrained Object Detectors",
+      "authors": "Yuang Zhang, Tiancai Wang, Xiangyu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MOTRv2_Bootstrapping_End-to-End_Multi-Object_Tracking_by_Pretrained_Object_Detectors_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2271",
+      "paper_id": "",
+      "title": "MRFS: Mutually Reinforcing Image Fusion and Segmentation",
+      "authors": "Hao Zhang, Xuhui Zuo, Jie Jiang, Chunchao Guo, Jiayi Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MRFS_Mutually_Reinforcing_Image_Fusion_and_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_679",
+      "paper_id": "",
+      "title": "MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark",
+      "authors": "Sanghyun Woo, Kwanyong Park, Inkyu Shin, Myungchul Kim, In So Kweon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Woo_MTMMC_A_Large-Scale_Real-World_Multi-Modal_Camera_Tracking_Benchmark_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_715",
+      "paper_id": "",
+      "title": "Multi-Object Tracking in the Dark",
+      "authors": "Xinzhe Wang, Kang Ma, Qiankun Liu, Yunhao Zou, Ying Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Multi-Object_Tracking_in_the_Dark_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_408",
+      "paper_id": "",
+      "title": "Multi-Object Tracking Meets Moving UAV",
+      "authors": "Shuai Liu, Xin Li, Huchuan Lu, You He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Multi-Object_Tracking_Meets_Moving_UAV_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2485",
+      "paper_id": "",
+      "title": "MultiMorph: On-demand Atlas Construction",
+      "authors": "S. Mazdak Abulnaga, Andrew Hoopes, Neel Dey, Malte Hoffmann, Bruce Fischl, John Guttag, Adrian Dalca",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Abulnaga_MultiMorph_On-demand_Atlas_Construction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1386",
+      "paper_id": "",
+      "title": "Multiple Object Tracking as ID Prediction",
+      "authors": "Ruopeng Gao, Ji Qi, Limin Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_Multiple_Object_Tracking_as_ID_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_342",
+      "paper_id": "",
+      "title": "Multiple Object Tracking With Correlation Learning",
+      "authors": "Qiang Wang, Yun Zheng, Pan Pan, Yinghui Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Multiple_Object_Tracking_With_Correlation_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1807",
+      "paper_id": "",
+      "title": "Multispectral Video Semantic Segmentation: A Benchmark Dataset and Baseline",
+      "authors": "Wei Ji, Jingjing Li, Cheng Bian, Zongwei Zhou, Jiaying Zhao, Alan L. Yuille, Li Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ji_Multispectral_Video_Semantic_Segmentation_A_Benchmark_Dataset_and_Baseline_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2012",
+      "paper_id": "",
+      "title": "Multiview Aerial Visual RECognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?",
+      "authors": "Aritra Dutta, Srijan Das, Jacob Nielsen, Rajatsubhra Chakraborty, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dutta_Multiview_Aerial_Visual_RECognition_MAVREC_Can_Multi-view_Improve_Aerial_Visual_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_136",
+      "paper_id": "",
+      "title": "MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking",
+      "authors": "Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_MUST_The_First_Dataset_and_Unified_Framework_for_Multispectral_UAV_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_690",
+      "paper_id": "",
+      "title": "NetTrack: Tracking Highly Dynamic Objects with a Net",
+      "authors": "Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_NetTrack_Tracking_Highly_Dynamic_Objects_with_a_Net_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_789",
+      "paper_id": "",
+      "title": "NODEO: A Neural Ordinary Differential Equation Based Optimization Framework for Deformable Image Registration",
+      "authors": "Yifan Wu, Tom Z. Jiahao, Jiancong Wang, Paul A. Yushkevich, M. Ani Hsieh, James C. Gee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_NODEO_A_Neural_Ordinary_Differential_Equation_Based_Optimization_Framework_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1699",
+      "paper_id": "",
+      "title": "Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking",
+      "authors": "Jinkun Cao, Jiangmiao Pang, Xinshuo Weng, Rawal Khirodkar, Kris Kitani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Observation-Centric_SORT_Rethinking_SORT_for_Robust_Multi-Object_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2845",
+      "paper_id": "",
+      "title": "Omnidirectional Multi-Object Tracking",
+      "authors": "Kai Luo, Hao Shi, Sheng Wu, Fei Teng, Mengfei Duan, Chang Huang, Yuhang Wang, Kaiwei Wang, Kailun Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_396",
+      "paper_id": "",
+      "title": "One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion",
+      "authors": "Chunyang Cheng, Tianyang Xu, Zhenhua Feng, Xiaojun Wu, Zhangyong Tang, Hui Li, Zeyang Zhang, Sara Atito, Muhammad Awais, Josef Kittler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_One_Model_for_ALL_Low-Level_Task_Interaction_Is_a_Key_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1638",
+      "paper_id": "",
+      "title": "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning",
+      "authors": "Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hong_OneTracker_Unifying_Visual_Object_Tracking_with_Foundation_Models_and_Efficient_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_617",
+      "paper_id": "",
+      "title": "Online Multiple Object Tracking With Cross-Task Synergy",
+      "authors": "Song Guo, Jingya Wang, Xinchao Wang, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Online_Multiple_Object_Tracking_With_Cross-Task_Synergy_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_142",
+      "paper_id": "",
+      "title": "Opening Up Open World Tracking",
+      "authors": "Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Opening_Up_Open_World_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1473",
+      "paper_id": "",
+      "title": "Optimal Transport Minimization: Crowd Localization on Density Maps for Semi-Supervised Counting",
+      "authors": "Wei Lin, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Optimal_Transport_Minimization_Crowd_Localization_on_Density_Maps_for_Semi-Supervised_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_613",
+      "paper_id": "",
+      "title": "OVTrack: Open-Vocabulary Multiple Object Tracking",
+      "authors": "Siyuan Li, Tobias Fischer, Lei Ke, Henghui Ding, Martin Danelljan, Fisher Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_901",
+      "paper_id": "",
+      "title": "Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision",
+      "authors": "Jinnyeong Kim, Seung-Hwan Baek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Pixel-aligned_RGB-NIR_Stereo_Imaging_and_Dataset_for_Robot_Vision_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2283",
+      "paper_id": "",
+      "title": "Point-to-Region Loss for Semi-Supervised Point-Based Crowd Counting",
+      "authors": "Wei Lin, Chenyang Zhao, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Point-to-Region_Loss_for_Semi-Supervised_Point-Based_Crowd_Counting_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_308",
+      "paper_id": "",
+      "title": "Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking",
+      "authors": "Fatemeh Saleh, Sadegh Aliakbarian, Hamid Rezatofighi, Mathieu Salzmann, Stephen Gould",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Saleh_Probabilistic_Tracklet_Scoring_and_Inpainting_for_Multiple_Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_186",
+      "paper_id": "",
+      "title": "Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion",
+      "authors": "Naishan Zheng, Man Zhou, Jie Huang, Junming Hou, Haoying Li, Yuan Xu, Feng Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Probing_Synergistic_High-Order_Interaction_in_Infrared_and_Visible_Image_Fusion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_444",
+      "paper_id": "",
+      "title": "Progressive Transformation Learning for Leveraging Virtual Images in Training",
+      "authors": "Yi-Ting Shen, Hyungtae Lee, Heesung Kwon, Shuvra S. Bhattacharyya",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Progressive_Transformation_Learning_for_Leveraging_Virtual_Images_in_Training_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1067",
+      "paper_id": "",
+      "title": "Progressive Unsupervised Learning for Visual Object Tracking",
+      "authors": "Qiangqiang Wu, Jia Wan, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2240",
+      "paper_id": "",
+      "title": "Propagate and Calibrate: Real-Time Passive Non-Line-of-Sight Tracking",
+      "authors": "Yihao Wang, Zhigang Wang, Bin Zhao, Dong Wang, Mulin Chen, Xuelong Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Propagate_and_Calibrate_Real-Time_Passive_Non-Line-of-Sight_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2049",
+      "paper_id": "",
+      "title": "Pseudo Visible Feature Fine-Grained Fusion for Thermal Object Detection",
+      "authors": "Ting Li, Mao Ye, Tianwen Wu, Nianxin Li, Shuaifeng Li, Song Tang, Luping Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Pseudo_Visible_Feature_Fine-Grained_Fusion_for_Thermal_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_394",
+      "paper_id": "",
+      "title": "Quasi-Dense Similarity Learning for Multiple Object Tracking",
+      "authors": "Jiangmiao Pang, Linlu Qiu, Xia Li, Haofeng Chen, Qi Li, Trevor Darrell, Fisher Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Quasi-Dense_Similarity_Learning_for_Multiple_Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1801",
+      "paper_id": "",
+      "title": "Ranking-Based Siamese Visual Tracking",
+      "authors": "Feng Tang, Qiang Ling",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Ranking-Based_Siamese_Visual_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2221",
+      "paper_id": "",
+      "title": "Referring Multi-Object Tracking",
+      "authors": "Dongming Wu, Wencheng Han, Tiancai Wang, Xingping Dong, Xiangyu Zhang, Jianbing Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Referring_Multi-Object_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1078",
+      "paper_id": "",
+      "title": "Regressor-Segmenter Mutual Prompt Learning for Crowd Counting",
+      "authors": "Mingyue Guo, Li Yuan, Zhaoyi Yan, Binghui Chen, Yaowei Wang, Qixiang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_Regressor-Segmenter_Mutual_Prompt_Learning_for_Crowd_Counting_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_416",
+      "paper_id": "",
+      "title": "Representation Learning for Visual Object Tracking by Masked Appearance Transfer",
+      "authors": "Haojie Zhao, Dong Wang, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_163",
+      "paper_id": "",
+      "title": "Resource-Efficient RGBD Aerial Tracking",
+      "authors": "Jinyu Yang, Shang Gao, Zhe Li, Feng Zheng, Aleš Leonardis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1892",
+      "paper_id": "",
+      "title": "Rethinking Spatial Invariance of Convolutional Networks for Object Counting",
+      "authors": "Zhi-Qi Cheng, Qi Dai, Hong Li, Jingkuan Song, Xiao Wu, Alexander G. Hauptmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Rethinking_Spatial_Invariance_of_Convolutional_Networks_for_Object_Counting_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_540",
+      "paper_id": "",
+      "title": "RFNet: Unsupervised Network for Mutually Reinforcing Multi-Modal Image Registration and Fusion",
+      "authors": "Han Xu, Jiayi Ma, Jiteng Yuan, Zhuliang Le, Wei Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_RFNet_Unsupervised_Network_for_Mutually_Reinforcing_Multi-Modal_Image_Registration_and_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1513",
+      "paper_id": "",
+      "title": "Rotation Equivariant Siamese Networks for Tracking",
+      "authors": "Deepak K. Gupta, Devanshu Arya, Efstratios Gavves",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gupta_Rotation_Equivariant_Siamese_Networks_for_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1893",
+      "paper_id": "",
+      "title": "RTracker: Recoverable Tracking via PN Tree Structured Memory",
+      "authors": "Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_RTracker_Recoverable_Tracking_via_PN_Tree_Structured_Memory_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1348",
+      "paper_id": "",
+      "title": "SACB-Net: Spatial-awareness Convolutions for Medical Image Registration",
+      "authors": "Xinxing Cheng, Tianyang Zhang, Wenqi Lu, Qingjie Meng, Alejandro F. Frangi, Jinming Duan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_SACB-Net_Spatial-awareness_Convolutions_for_Medical_Image_Registration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1144",
+      "paper_id": "",
+      "title": "SAIST: Segment Any Infrared Small Target Model Guided by Contrastive Language-Image Pretraining",
+      "authors": "Mingjin Zhang, Xiaolong Li, Fei Gao, Jie Guo, Xinbo Gao, Jing Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_SAIST_Segment_Any_Infrared_Small_Target_Model_Guided_by_Contrastive_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1657",
+      "paper_id": "",
+      "title": "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking",
+      "authors": "Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hou_SDSTrack_Self-Distillation_Symmetric_Adapter_Learning_for_Multi-Modal_Visual_Object_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1430",
+      "paper_id": "",
+      "title": "Self-Supervised Multi-Object Tracking with Path Consistency",
+      "authors": "Zijia Lu, Bing Shuai, Yanbei Chen, Zhenlin Xu, Davide Modolo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Self-Supervised_Multi-Object_Tracking_with_Path_Consistency_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_433",
+      "paper_id": "",
+      "title": "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking",
+      "authors": "Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_SeqTrack_Sequence_to_Sequence_Learning_for_Visual_Object_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1223",
+      "paper_id": "",
+      "title": "Siamese Natural Language Tracker: Tracking by Natural Language Descriptions With Siamese Trackers",
+      "authors": "Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Siamese_Natural_Language_Tracker_Tracking_by_Natural_Language_Descriptions_With_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_769",
+      "paper_id": "",
+      "title": "SiamMOT: Siamese Multi-Object Tracking",
+      "authors": "Bing Shuai, Andrew Berneshawi, Xinyu Li, Davide Modolo, Joseph Tighe",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_789",
+      "paper_id": "",
+      "title": "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking",
+      "authors": "Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_Similarity-Guided_Layer-Adaptive_Vision_Transformer_for_UAV_Tracking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1847",
+      "paper_id": "",
+      "title": "Simple Cues Lead to a Strong Multi-Object Tracker",
+      "authors": "Jenny Seidenschwarz, Guillem Brasó, Víctor Castro Serrano, Ismail Elezi, Laura Leal-Taixé",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Seidenschwarz_Simple_Cues_Lead_to_a_Strong_Multi-Object_Tracker_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_577",
+      "paper_id": "",
+      "title": "Single Domain Generalization for Crowd Counting",
+      "authors": "Zhuoxuan Peng, S.-H. Gary Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Peng_Single_Domain_Generalization_for_Crowd_Counting_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1669",
+      "paper_id": "",
+      "title": "Single-Model and Any-Modality for Video Object Tracking",
+      "authors": "Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Single-Model_and_Any-Modality_for_Video_Object_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2108",
+      "paper_id": "",
+      "title": "SpatialTracker: Tracking Any 2D Pixels in 3D Space",
+      "authors": "Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_SpatialTracker_Tracking_Any_2D_Pixels_in_3D_Space_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_897",
+      "paper_id": "",
+      "title": "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking",
+      "authors": "Wenrui Cai, Qingjie Liu, Yunhong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Cai_SPMTrack_Spatio-Temporal_Parameter-Efficient_Fine-Tuning_with_Mixture_of_Experts_for_Scalable_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1069",
+      "paper_id": "",
+      "title": "Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking",
+      "authors": "Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_Standing_Between_Past_and_Future_Spatio-Temporal_Modeling_for_Multi-Camera_3D_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_446",
+      "paper_id": "",
+      "title": "STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes",
+      "authors": "Peishan Cong, Xinge Zhu, Feng Qiao, Yiming Ren, Xidong Peng, Yuenan Hou, Lan Xu, Ruigang Yang, Dinesh Manocha, Yuexin Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_STCrowd_A_Multimodal_Dataset_for_Pedestrian_Perception_in_Crowded_Scenes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_270",
+      "paper_id": "",
+      "title": "STMTrack: Template-Free Visual Tracking With Space-Time Memory Networks",
+      "authors": "Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Fu_STMTrack_Template-Free_Visual_Tracking_With_Space-Time_Memory_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_715",
+      "paper_id": "",
+      "title": "Target-Aware Dual Adversarial Learning and a Multi-Scenario Multi-Modality Benchmark To Fuse Infrared and Visible for Object Detection",
+      "authors": "Jinyuan Liu, Xin Fan, Zhanbo Huang, Guanyao Wu, Risheng Liu, Wei Zhong, Zhongxuan Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Target-Aware_Dual_Adversarial_Learning_and_a_Multi-Scenario_Multi-Modality_Benchmark_To_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_82",
+      "paper_id": "",
+      "title": "Task-Customized Mixture of Adapters for General Image Fusion",
+      "authors": "Pengfei Zhu, Yang Sun, Bing Cao, Qinghua Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Task-Customized_Mixture_of_Adapters_for_General_Image_Fusion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1766",
+      "paper_id": "",
+      "title": "Task-driven Image Fusion with Learnable Fusion Loss",
+      "authors": "Haowen Bai, Jiangshe Zhang, Zixiang Zhao, Yichen Wu, Lilun Deng, Yukun Cui, Tao Feng, Shuang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bai_Task-driven_Image_Fusion_with_Learnable_Fusion_Loss_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_141",
+      "paper_id": "",
+      "title": "Taste More, Taste Better: Diverse Data and Strong Model Boost Semi-Supervised Crowd Counting",
+      "authors": "Maochen Yang, Zekun Li, Jian Zhang, Lei Qi, Yinghuan Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Taste_More_Taste_Better_Diverse_Data_and_Strong_Model_Boost_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_808",
+      "paper_id": "",
+      "title": "TCTrack: Temporal Contexts for Aerial Tracking",
+      "authors": "Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_TCTrack_Temporal_Contexts_for_Aerial_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1261",
+      "paper_id": "",
+      "title": "Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion",
+      "authors": "Xunpeng Yi, Han Xu, Hao Zhang, Linfeng Tang, Jiayi Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yi_Text-IF_Leveraging_Semantic_Text_Guidance_for_Degradation-Aware_and_Interactive_Image_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_953",
+      "paper_id": "",
+      "title": "Time3D: End-to-End Joint Monocular 3D Object Detection and Tracking for Autonomous Driving",
+      "authors": "Peixuan Li, Jieyu Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Time3D_End-to-End_Joint_Monocular_3D_Object_Detection_and_Tracking_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1129",
+      "paper_id": "",
+      "title": "Towards Discriminative Representation: Multi-View Trajectory Contrastive Learning for Online Multi-Object Tracking",
+      "authors": "En Yu, Zhuoling Li, Shoudong Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Discriminative_Representation_Multi-View_Trajectory_Contrastive_Learning_for_Online_Multi-Object_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1708",
+      "paper_id": "",
+      "title": "Towards Generalizable Multi-Object Tracking",
+      "authors": "Zheng Qin, Le Wang, Sanping Zhou, Panpan Fu, Gang Hua, Wei Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Towards_Generalizable_Multi-Object_Tracking_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1083",
+      "paper_id": "",
+      "title": "Towards More Flexible and Accurate Object Tracking With Natural Language: Algorithms and Benchmark",
+      "authors": "Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Towards_More_Flexible_and_Accurate_Object_Tracking_With_Natural_Language_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1110",
+      "paper_id": "",
+      "title": "Track To Detect and Segment: An Online Multi-Object Tracker",
+      "authors": "Jialian Wu, Jiale Cao, Liangchen Song, Yu Wang, Ming Yang, Junsong Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1626",
+      "paper_id": "",
+      "title": "TrackFormer: Multi-Object Tracking With Transformers",
+      "authors": "Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixé, Christoph Feichtenhofer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Meinhardt_TrackFormer_Multi-Object_Tracking_With_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2122",
+      "paper_id": "",
+      "title": "Tracking Multiple Deformable Objects in Egocentric Videos",
+      "authors": "Mingzhen Huang, Xiaoxing Li, Jun Hu, Honghong Peng, Siwei Lyu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Tracking_Multiple_Deformable_Objects_in_Egocentric_Videos_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_753",
+      "paper_id": "",
+      "title": "Tracking Pedestrian Heads in Dense Crowd",
+      "authors": "Ramana Sundararaman, Cedric De Almeida Braga, Eric Marchand, Julien Pettre",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Sundararaman_Tracking_Pedestrian_Heads_in_Dense_Crowd_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1252",
+      "paper_id": "",
+      "title": "Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better",
+      "authors": "Zihang Lai, Andrea Vedaldi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_Tracktention_Leveraging_Point_Tracking_to_Attend_Videos_Faster_and_Better_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_923",
+      "paper_id": "",
+      "title": "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking",
+      "authors": "Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Transformer_Meets_Tracker_Exploiting_Temporal_Context_for_Robust_Visual_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_633",
+      "paper_id": "",
+      "title": "Transformer Tracking",
+      "authors": "Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun Yang, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Transformer_Tracking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1445",
+      "paper_id": "",
+      "title": "Transformer Tracking With Cyclic Shifting Window Attention",
+      "authors": "Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Transformer_Tracking_With_Cyclic_Shifting_Window_Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_531",
+      "paper_id": "",
+      "title": "Transforming Model Prediction for Tracking",
+      "authors": "Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mayer_Transforming_Model_Prediction_for_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1221",
+      "paper_id": "",
+      "title": "UAV-Human: A Large Benchmark for Human Behavior Understanding With Unmanned Aerial Vehicles",
+      "authors": "Tianjiao Li, Jun Liu, Wei Zhang, Yun Ni, Wenqian Wang, Zhiheng Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_UAV-Human_A_Large_Benchmark_for_Human_Behavior_Understanding_With_Unmanned_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_732",
+      "paper_id": "",
+      "title": "Unified Transformer Tracker for Object Tracking",
+      "authors": "Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Unified_Transformer_Tracker_for_Object_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1552",
+      "paper_id": "",
+      "title": "Unifying Short and Long-Term Tracking With Graph Hierarchies",
+      "authors": "Orcun Cetintas, Guillem Brasó, Laura Leal-Taixé",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cetintas_Unifying_Short_and_Long-Term_Tracking_With_Graph_Hierarchies_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1349",
+      "paper_id": "",
+      "title": "Unsupervised Contour Tracking of Live Cells by Mechanical and Cycle Consistency Losses",
+      "authors": "Junbong Jang, Kwonmoo Lee, Tae-Kyun Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jang_Unsupervised_Contour_Tracking_of_Live_Cells_by_Mechanical_and_Cycle_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_740",
+      "paper_id": "",
+      "title": "Unsupervised Domain Adaptation for Nighttime Aerial Tracking",
+      "authors": "Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Unsupervised_Domain_Adaptation_for_Nighttime_Aerial_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_728",
+      "paper_id": "",
+      "title": "Unsupervised Learning of Accurate Siamese Tracking",
+      "authors": "Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shen_Unsupervised_Learning_of_Accurate_Siamese_Tracking_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1478",
+      "paper_id": "",
+      "title": "UTM: A Unified Multiple Object Tracking Model With Identity-Aware Feature Enhancement",
+      "authors": "Sisi You, Hantao Yao, Bing-Kun Bao, Changsheng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/You_UTM_A_Unified_Multiple_Object_Tracking_Model_With_Identity-Aware_Feature_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_321",
+      "paper_id": "",
+      "title": "Variational Pedestrian Detection",
+      "authors": "Yuang Zhang, Huanyu He, Jianguo Li, Yuxi Li, John See, Weiyao Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Variational_Pedestrian_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1354",
+      "paper_id": "",
+      "title": "VideoTrack: Learning To Track Objects via Video Transformer",
+      "authors": "Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_VideoTrack_Learning_To_Track_Objects_via_Video_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1889",
+      "paper_id": "",
+      "title": "Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline",
+      "authors": "Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Visible-Thermal_UAV_Tracking_A_Large-Scale_Benchmark_and_New_Baseline_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1709",
+      "paper_id": "",
+      "title": "Visual Prompt Multi-Modal Tracking",
+      "authors": "Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_545",
+      "paper_id": "",
+      "title": "VLPD: Context-Aware Pedestrian Detection via Vision-Language Semantic Self-Supervision",
+      "authors": "Mengyin Liu, Jie Jiang, Chao Zhu, Xu-Cheng Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_VLPD_Context-Aware_Pedestrian_Detection_via_Vision-Language_Semantic_Self-Supervision_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1963",
+      "paper_id": "",
+      "title": "Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection",
+      "authors": "Chen Chen, Jiahao Qi, Xingyue Liu, Kangcheng Bin, Ruigang Fu, Xikun Hu, Ping Zhong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2037",
+      "paper_id": "",
+      "title": "Weakly Supervised Video Individual Counting",
+      "authors": "Xinyan Liu, Guorong Li, Yuankai Qi, Ziheng Yan, Zhenjun Han, Anton van den Hengel, Ming-Hsuan Yang, Qingming Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Weakly_Supervised_Video_Individual_Counting_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    }
+  ]
+}

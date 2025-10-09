@@ -1,0 +1,187 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Physical Simulation & Dynamics",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Fluid & Multiphase Dynamics",
+                    "what_is_covered": "Simulation of liquids, gases and multiphase flows with particle/grid methods.",
+                    "typical_examples": "Fluid simulation, Particle-grid coupling, Multiphase vortical dynamics",
+                    "cluster": "1"
+                },
+                {
+                    "id": "1.2",
+                    "name": "Cloth & Garment Simulation",
+                    "what_is_covered": "Physically based simulation, reconstruction and design of cloth and garments.",
+                    "typical_examples": "Cloth simulation, Collision handling, GPU acceleration, Sewing patterns, 3D garment reconstruction, Virtual garment simulation",
+                    "cluster": "4,20"
+                },
+                {
+                    "id": "1.3",
+                    "name": "Character & Dexterous Manipulation",
+                    "what_is_covered": "Physics-based hand-object interaction and dexterous manipulation.",
+                    "typical_examples": "Hand-object interaction, Dexterous manipulation, Physics-based simulation",
+                    "cluster": "26"
+                },
+                {
+                    "id": "1.4",
+                    "name": "Physics-based Character Control",
+                    "what_is_covered": "Data-driven or physics-guided control of articulated characters.",
+                    "typical_examples": "Physics-based character control, Deep learning motion synthesis, Interactive animation",
+                    "cluster": "29"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Geometry, Shape & Fabrication",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Mesh & Surface Processing",
+                    "what_is_covered": "Algorithms for editing, parameterising and reconstructing meshes and implicit surfaces.",
+                    "typical_examples": "Efficient PDE solvers, Geometry processing, Mesh parameterization, Injective deformation, Developable surface approximation, Implicit surfaces, Mesh simplification, Distance functions, Normal orientation, Surface reconstruction, Boolean operations",
+                    "cluster": "0,5,6,7"
+                },
+                {
+                    "id": "2.2",
+                    "name": "CAD & 3D Shape Representation",
+                    "what_is_covered": "Learning, generation and analysis of CAD/B-Rep and other 3D shape formats.",
+                    "typical_examples": "3D shape representation, CAD/B-Rep generation, Deep geometric learning",
+                    "cluster": "13"
+                },
+                {
+                    "id": "2.3",
+                    "name": "Computational Fabrication & Structural Optimisation",
+                    "what_is_covered": "Design and optimisation of structures and materials for manufacturing and 3D printing.",
+                    "typical_examples": "Computational fabrication, Structural optimization, Programmable materials, Differentiable appearance optimization, Neural rendering for 3D printing",
+                    "cluster": "12,9"
+                },
+                {
+                    "id": "2.4",
+                    "name": "Vector & Stroke Graphics",
+                    "what_is_covered": "Creation and processing of 2D vector graphics and sketch strokes.",
+                    "typical_examples": "Vector graphics, Sketch processing, Stroke-based rendering",
+                    "cluster": "19"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Rendering & Appearance Modelling",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "Monte-Carlo Rendering & Denoising",
+                    "what_is_covered": "Unbiased path tracing with Monte Carlo sampling and neural denoising.",
+                    "typical_examples": "Monte Carlo rendering, Importance sampling, Neural denoising",
+                    "cluster": "2"
+                },
+                {
+                    "id": "3.2",
+                    "name": "Differentiable & Inverse Rendering",
+                    "what_is_covered": "Rendering pipelines with analytic or Monte Carlo derivatives for inverse problems.",
+                    "typical_examples": "Differentiable rendering, Monte Carlo path tracing, Inverse optimization",
+                    "cluster": "3"
+                },
+                {
+                    "id": "3.3",
+                    "name": "Neural Scene Representation & Relighting",
+                    "what_is_covered": "Neural radiance or Gaussian representations for view synthesis, relighting and compression.",
+                    "typical_examples": "Neural scene representations, Neural Radiance Fields, Gaussian splatting, Novel view synthesis, Dynamic scene reconstruction, Neural relighting, Light transport, Photorealistic rendering, GPU-accelerated rendering, Memory-efficient compression",
+                    "cluster": "10,14,16,17"
+                },
+                {
+                    "id": "3.4",
+                    "name": "Material & BRDF Modelling",
+                    "what_is_covered": "Modelling of material appearance and light scattering using neural or multi-scale methods.",
+                    "typical_examples": "Material appearance, Neural BRDF modeling, Multi-scale light scattering",
+                    "cluster": "8"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Computational Imaging, Displays & XR",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "End-to-End Camera & Image Restoration",
+                    "what_is_covered": "Joint optics-sensor-algorithm design and neural image restoration.",
+                    "typical_examples": "Computational imaging, End-to-end camera design, Neural image restoration",
+                    "cluster": "15"
+                },
+                {
+                    "id": "4.2",
+                    "name": "Perceptual & Advanced Displays",
+                    "what_is_covered": "Display technologies leveraging human vision models, including foveated and holographic displays.",
+                    "typical_examples": "Foveated rendering, Holographic displays, Perceptual vision models",
+                    "cluster": "21"
+                },
+                {
+                    "id": "4.3",
+                    "name": "VR/AR Interaction & Haptics",
+                    "what_is_covered": "Techniques for immersive interaction, projection mapping and tactile feedback.",
+                    "typical_examples": "VR/AR interaction, Projection mapping, Haptic feedback",
+                    "cluster": "22"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Procedural & Generative Content Creation",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "Procedural Natural Assets",
+                    "what_is_covered": "Automatic generation of plants, hair and other natural elements.",
+                    "typical_examples": "Vegetation modeling, Hair simulation, Procedural generation",
+                    "cluster": "11"
+                },
+                {
+                    "id": "5.2",
+                    "name": "Procedural Materials & Textures",
+                    "what_is_covered": "Synthesis and recolouring of materials and textures, diffusion-driven asset creation.",
+                    "typical_examples": "Procedural material & texture generation, Palette-based color recoloring, Diffusion-driven 3D asset synthesis",
+                    "cluster": "18"
+                },
+                {
+                    "id": "5.3",
+                    "name": "Diffusion-based Image Generation & Editing",
+                    "what_is_covered": "Generative diffusion models for image creation, controllable editing and personalization.",
+                    "typical_examples": "Diffusion-based image generation, Controllable editing, Personalization",
+                    "cluster": "23"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Human Modelling, Capture & Animation",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Face & Avatar Modelling",
+                    "what_is_covered": "Neural representations for real-time animated faces and stylised avatars.",
+                    "typical_examples": "Neural 3D face avatars, Gaussian/NeRF representations, Real-time facial animation, Portrait-stylization, StyleGAN-manipulation, 3D-avatar-generation",
+                    "cluster": "24,25"
+                },
+                {
+                    "id": "6.2",
+                    "name": "Motion Capture & Sensing",
+                    "what_is_covered": "Acquisition of human motion using markers, inertial sensors or hybrid setups.",
+                    "typical_examples": "MotionCapture, FiducialMarkers, InertialSensors",
+                    "cluster": "27"
+                },
+                {
+                    "id": "6.3",
+                    "name": "Controllable Human Motion & Video Synthesis",
+                    "what_is_covered": "Learning and diffusion-based synthesis of human motion and controllable video.",
+                    "typical_examples": "Controllable video synthesis, Human motion animation, Diffusion models",
+                    "cluster": "28"
+                }
+            ]
+        }
+    ]
+}

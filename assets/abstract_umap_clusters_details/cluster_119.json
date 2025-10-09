@@ -1,0 +1,1389 @@
+{
+  "cluster_id": 119,
+  "papers": [
+    {
+      "id": "acl23_196",
+      "paper_id": "",
+      "title": "A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning",
+      "authors": "Naibin Gu, Peng Fu, Xiyu Liu, Zhengxiao Liu, Zheng Lin, Weiping Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.194.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1115",
+      "paper_id": "",
+      "title": "A Statistical and Multi-Perspective Revisiting of the Membership Inference Attack in Large Language Models",
+      "authors": "Bowen Chen, Namgi Han, Yusuke Miyao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1114.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_297",
+      "paper_id": "",
+      "title": "A Sweet Rabbit Hole by DARCY: Using Honeypots to Detect Universal Trigger’s Adversarial Attacks",
+      "authors": "Thai Le, Noseong Park, Dongwon Lee",
+      "paper_url": "https://aclanthology.org/2021.acl-long.296.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_860",
+      "paper_id": "",
+      "title": "A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns",
+      "authors": "Tianyi Men, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.859.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_442",
+      "paper_id": "",
+      "title": "Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space",
+      "authors": "Zongru Wu, Zhuosheng Zhang, Pengzhou Cheng, Gongshen Liu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.441.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_510",
+      "paper_id": "",
+      "title": "Adversarial Authorship Attribution for Deobfuscation",
+      "authors": "Wanyue Zhai, Jonathan Rusert, Zubair Shafiq, Padmini Srinivasan",
+      "paper_url": "https://aclanthology.org/2022.acl-long.509.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1013",
+      "paper_id": "",
+      "title": "Adversarial Tokenization",
+      "authors": "Renato Geh, Zilei Shao, Guy Van Den Broeck",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1012.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_852",
+      "paper_id": "",
+      "title": "AGD: Adversarial Game Defense Against Jailbreak Attacks in Large Language Models",
+      "authors": "Shilong Pan, Zhiliang Tian, Zhen Huang, Wanlong Yu, Zhihua Wen, Xinwang Liu, Kai Lu, Minlie Huang, Dongsheng Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.851.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_477",
+      "paper_id": "",
+      "title": "Agents Under Siege: Breaking Pragmatic Multi-Agent LLM Systems with Optimized Prompt Attacks",
+      "authors": "Rana Shahroz, Zhen Tan, Sukwon Yun, Charles Fleming, Tianlong Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.476.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_400",
+      "paper_id": "",
+      "title": "AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection",
+      "authors": "Weidi Luo, Shenghong Dai, Xiaogeng Liu, Suman Banerjee, Huan Sun, Muhao Chen, Chaowei Xiao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.399.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1186",
+      "paper_id": "",
+      "title": "ALGEN: Few-shot Inversion Attacks on Textual Embeddings via Cross-Model Alignment and Generation",
+      "authors": "Yiyi Chen, Qiongkai Xu, Johannes Bjerva",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1185.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_435",
+      "paper_id": "",
+      "title": "An Empirical Study of Memorization in NLP",
+      "authors": "Xiaosen Zheng, Jing Jiang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.434.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_631",
+      "paper_id": "",
+      "title": "An Entropy-based Text Watermarking Detection Method",
+      "authors": "Yijian Lu, Aiwei Liu, Dianzhi Yu, Jingjing Li, Irwin King",
+      "paper_url": "https://aclanthology.org/2024.acl-long.630.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_324",
+      "paper_id": "",
+      "title": "Anonymisation Models for Text Data: State of the art, Challenges and Future Directions",
+      "authors": "Pierre Lison, Ildikó Pilán, David Sanchez, Montserrat Batet, Lilja Øvrelid",
+      "paper_url": "https://aclanthology.org/2021.acl-long.323.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl23_425",
+      "paper_id": "",
+      "title": "Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark",
+      "authors": "Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie",
+      "paper_url": "https://aclanthology.org/2023.acl-long.423.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_810",
+      "paper_id": "",
+      "title": "ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs",
+      "authors": "Fengqing Jiang, Zhangchen Xu, Luyao Niu, Zhen Xiang, Bhaskar Ramasubramanian, Bo Li, Radha Poovendran",
+      "paper_url": "https://aclanthology.org/2024.acl-long.809.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_412",
+      "paper_id": "",
+      "title": "Attacking Vision-Language Computer Agents via Pop-ups",
+      "authors": "Yanzhe Zhang, Tao Yu, Diyi Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.411.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_542",
+      "paper_id": "",
+      "title": "Backdooring Neural Code Search",
+      "authors": "Weisong Sun, Yuchen Chen, Guanhong Tao, Chunrong Fang, Xiangyu Zhang, Quanjun Zhang, Bin Luo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.540.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_531",
+      "paper_id": "",
+      "title": "BadAgent: Inserting and Activating Backdoor Attacks in LLM Agents",
+      "authors": "Yifei Wang, Dizhan Xue, Shengjie Zhang, Shengsheng Qian",
+      "paper_url": "https://aclanthology.org/2024.acl-long.530.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_727",
+      "paper_id": "",
+      "title": "BITE: Textual Backdoor Attacks with Iterative Trigger Injection",
+      "authors": "Jun Yan, Vansh Gupta, Xiang Ren",
+      "paper_url": "https://aclanthology.org/2023.acl-long.725.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_465",
+      "paper_id": "",
+      "title": "Bypassing LLM Watermarks with Color-Aware Substitutions",
+      "authors": "Qilong Wu, Varun Chandrasekaran",
+      "paper_url": "https://aclanthology.org/2024.acl-long.464.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_891",
+      "paper_id": "",
+      "title": "Can Indirect Prompt Injection Attacks Be Detected and Removed?",
+      "authors": "Yulin Chen, Haoran Li, Yuan Sui, Yufei He, Yue Liu, Yangqiu Song, Bryan Hooi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.890.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_649",
+      "paper_id": "",
+      "title": "Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?",
+      "authors": "Leyi Pan, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.648.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1281",
+      "paper_id": "",
+      "title": "Can LLMs Deceive CLIP? Benchmarking Adversarial Compositionality of Pre-trained Multimodal Representation via Text Updates",
+      "authors": "Jaewoo Ahn, Heeseung Yun, Dayoon Ko, Gunhee Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1280.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_227",
+      "paper_id": "",
+      "title": "Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models",
+      "authors": "Zhiwei He, Binglin Zhou, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.226.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_833",
+      "paper_id": "",
+      "title": "Can’t See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs",
+      "authors": "Wenxuan Wang, Xiaoyuan Liu, Kuiyi Gao, Jen-tse Huang, Youliang Yuan, Pinjia He, Shuai Wang, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.832.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_42",
+      "paper_id": "",
+      "title": "CASN:Class-Aware Score Network for Textual Adversarial Detection",
+      "authors": "Rong Bao, Rui Zheng, Liang Ding, Qi Zhang, Dacheng Tao",
+      "paper_url": "https://aclanthology.org/2023.acl-long.40.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_835",
+      "paper_id": "",
+      "title": "Causal Estimation of Memorisation Profiles",
+      "authors": "Pietro Lesci, Clara Meister, Thomas Hofmann, Andreas Vlachos, Tiago Pimentel",
+      "paper_url": "https://aclanthology.org/2024.acl-long.834.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1088",
+      "paper_id": "",
+      "title": "Caution for the Environment: Multimodal LLM Agents are Susceptible to Environmental Distractions",
+      "authors": "Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1087.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1110",
+      "paper_id": "",
+      "title": "CENTAUR: Bridging the Impossible Trinity of Privacy, Efficiency, and Performance in Privacy-Preserving Transformer Inference",
+      "authors": "Jinglong Luo, Guanzhong Chen, Yehong Zhang, Shiyu Liu, Hui Wang, Yue Yu, Xun Zhou, Yuan Qi, Zenglin Xu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1109.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_733",
+      "paper_id": "",
+      "title": "Chinese SafetyQA: A Safety Short-form Factuality Benchmark for Large Language Models",
+      "authors": "Yingshui Tan, Boren Zheng, Baihui Zheng, Kerui Cao, Huiyun Jing, Jincheng Wei, Jiaheng Liu, Yancheng He, Wenbo Su, Xiaoyong Zhu, Bo Zheng, Kaifu Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.732.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_182",
+      "paper_id": "",
+      "title": "CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding",
+      "authors": "Dong Wang, Ning Ding, Piji Li, Haitao Zheng",
+      "paper_url": "https://aclanthology.org/2021.acl-long.181.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1470",
+      "paper_id": "",
+      "title": "CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP",
+      "authors": "Tianyu Yang, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1469.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_658",
+      "paper_id": "",
+      "title": "Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding",
+      "authors": "Haneul Yoo, Yongjin Yang, Hwaran Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.657.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_236",
+      "paper_id": "",
+      "title": "CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following",
+      "authors": "Kaiyan Zhang, Jianyu Wang, Ermo Hua, Biqing Qi, Ning Ding, Bowen Zhou",
+      "paper_url": "https://aclanthology.org/2024.acl-long.235.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_147",
+      "paper_id": "",
+      "title": "Con Instruction: Universal Jailbreaking of Multimodal Large Language Models via Non-Textual Modalities",
+      "authors": "Jiahui Geng, Thy Thy Tran, Preslav Nakov, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2025.acl-long.146.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_671",
+      "paper_id": "",
+      "title": "CRiskEval: A Chinese Multi-Level Risk Evaluation Benchmark Dataset for Large Language Models",
+      "authors": "Ling Shi, Deyi Xiong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.670.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1330",
+      "paper_id": "",
+      "title": "Data-Constrained Synthesis of Training Data for De-Identification",
+      "authors": "Thomas Vakili, Aron Henriksson, Hercules Dalianis",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1329.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_569",
+      "paper_id": "",
+      "title": "Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM",
+      "authors": "Bochuan Cao, Yuanpu Cao, Lu Lin, Jinghui Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.568.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_482",
+      "paper_id": "",
+      "title": "Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization",
+      "authors": "Zhexin Zhang, Junxiao Yang, Pei Ke, Fei Mi, Hongning Wang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.481.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_898",
+      "paper_id": "",
+      "title": "Defense Against Prompt Injection Attack by Leveraging Attack Techniques",
+      "authors": "Yulin Chen, Haoran Li, Zihao Zheng, Dekai Wu, Yangqiu Song, Bryan Hooi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.897.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_427",
+      "paper_id": "",
+      "title": "Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble",
+      "authors": "Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-Wei Chang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2021.acl-long.426.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_455",
+      "paper_id": "",
+      "title": "DiffuseDef: Improved Robustness to Adversarial Attacks via Iterative Denoising",
+      "authors": "Zhenhao Li, Huichi Zhou, Marek Rei, Lucia Specia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.454.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_432",
+      "paper_id": "",
+      "title": "DIP: Dead code Insertion based Black-box Attack for Programming Language Model",
+      "authors": "CheolWon Na, YunSeok Choi, Jee-Hyong Lee",
+      "paper_url": "https://aclanthology.org/2023.acl-long.430.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_306",
+      "paper_id": "",
+      "title": "Disentangling Biased Knowledge from Reasoning in Large Language Models via Machine Unlearning",
+      "authors": "Zheyuan Liu, Suraj Maharjan, Fanyou Wu, Rahil Parikh, Belhassen Bayar, Srinivasan H. Sengamedu, Meng Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.305.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_783",
+      "paper_id": "",
+      "title": "Don’t Retrain, Just Rewrite: Countering Adversarial Perturbations by Rewriting Text",
+      "authors": "Ashim Gupta, Carter Blum, Temma Choji, Yingjie Fei, Shalin Shah, Alakananda Vempala, Vivek Srikumar",
+      "paper_url": "https://aclanthology.org/2023.acl-long.781.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_682",
+      "paper_id": "",
+      "title": "DSRM: Boost Textual Adversarial Training with Distribution Shift Risk Minimization",
+      "authors": "SongYang Gao, Shihan Dou, Yan Liu, Xiao Wang, Qi Zhang, Zhongyu Wei, Jin Ma, Ying Shan",
+      "paper_url": "https://aclanthology.org/2023.acl-long.680.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_836",
+      "paper_id": "",
+      "title": "DualGuard: A Parameter Space Transformation Approach for Bidirectional Defense in Split-Based LLM Fine-Tuning",
+      "authors": "Zihan Liu, Yizhen Wang, Rui Wang, Sai Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.835.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_964",
+      "paper_id": "",
+      "title": "Dynamic Evaluation with Cognitive Reasoning for Multi-turn Safety of Large Language Models",
+      "authors": "Lanxue Zhang, Yanan Cao, Yuqiang Xie, Fang Fang, Yangxi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.963.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_291",
+      "paper_id": "",
+      "title": "Efficient Universal Goal Hijacking with Semantics-guided Prompt Organization",
+      "authors": "Yihao Huang, Chong Wang, Xiaojun Jia, Qing Guo, Felix Juefei-Xu, Jian Zhang, Yang Liu, Geguang Pu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.290.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_317",
+      "paper_id": "",
+      "title": "Efficiently Identifying Watermarked Segments in Mixed-Source Texts",
+      "authors": "Xuandong Zhao, Chenwen Liao, Yu-Xiang Wang, Lei Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.316.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_878",
+      "paper_id": "",
+      "title": "ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models",
+      "authors": "Xuxu Liu, Siyuan Liang, Mengya Han, Yong Luo, Aishan Liu, Xiantao Cai, Zheng He, Dacheng Tao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.877.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_843",
+      "paper_id": "",
+      "title": "Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!",
+      "authors": "Zhanhui Zhou, Jie Liu, Zhichen Dong, Jiaheng Liu, Chao Yang, Wanli Ouyang, Yu Qiao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.842.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_617",
+      "paper_id": "",
+      "title": "Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization",
+      "authors": "Yuhao Wang, Keyan Ding, Kehua Feng, Zeyuan Wang, Ming Qin, Xiaotong Li, Qiang Zhang, Huajun Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.616.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_146",
+      "paper_id": "",
+      "title": "Ensemble Watermarks for Large Language Models",
+      "authors": "Georg Niess, Roman Kern",
+      "paper_url": "https://aclanthology.org/2025.acl-long.145.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1221",
+      "paper_id": "",
+      "title": "Estimating Privacy Leakage of Augmented Contextual Knowledge in Language Models",
+      "authors": "James Flemings, Bo Jiang, Wanrong Zhang, Zafar Takhirov, Murali Annavaram",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1220.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_711",
+      "paper_id": "",
+      "title": "ETHICIST: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation",
+      "authors": "Zhexin Zhang, Jiaxin Wen, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.709.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_411",
+      "paper_id": "",
+      "title": "Exploiting the Shadows: Unveiling Privacy Leaks through Lower-Ranked Tokens in Large Language Models",
+      "authors": "Yuan Zhou, Zhuo Zhang, Xiangyu Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.410.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_217",
+      "paper_id": "",
+      "title": "Exploring Memorization in Fine-tuned Language Models",
+      "authors": "Shenglai Zeng, Yaxin Li, Jie Ren, Yiding Liu, Han Xu, Pengfei He, Yue Xing, Shuaiqiang Wang, Jiliang Tang, Dawei Yin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.216.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_138",
+      "paper_id": "",
+      "title": "Extreme Miscalibration and the Illusion of Adversarial Robustness",
+      "authors": "Vyas Raina, Samson Tan, Volkan Cevher, Aditya Rawal, Sheng Zha, George Karypis",
+      "paper_url": "https://aclanthology.org/2024.acl-long.137.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_387",
+      "paper_id": "",
+      "title": "Flooding-X: Improving BERT’s Resistance to Adversarial Attacks via Loss-Restricted Fine-Tuning",
+      "authors": "Qin Liu, Rui Zheng, Bao Rong, Jingyi Liu, ZhiHua Liu, Zhanzhan Cheng, Liang Qiao, Tao Gui, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.386.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_239",
+      "paper_id": "",
+      "title": "from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors",
+      "authors": "Yu Yan, Sheng Sun, Zenghao Duan, Teli Liu, Min Liu, Zhiyi Yin, LeiJingyu LeiJingyu, Qi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.238.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_510",
+      "paper_id": "",
+      "title": "From Trade-off to Synergy: A Versatile Symbiotic Watermarking Framework for Large Language Models",
+      "authors": "Yidan Wang, Yubing Ren, Yanan Cao, Binxing Fang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.509.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_360",
+      "paper_id": "",
+      "title": "G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems",
+      "authors": "Shilong Wang, Guibin Zhang, Miao Yu, Guancheng Wan, Fanci Meng, Chongye Guo, Kun Wang, Yang Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.359.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_31",
+      "paper_id": "",
+      "title": "GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis",
+      "authors": "Yueqi Xie, Minghong Fang, Renjie Pi, Neil Gong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.30.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_966",
+      "paper_id": "",
+      "title": "Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints",
+      "authors": "Junxiao Yang, Zhexin Zhang, Shiyao Cui, Hongning Wang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.965.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_316",
+      "paper_id": "",
+      "title": "GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick",
+      "authors": "Jiayi Fu, Xuandong Zhao, Ruihan Yang, Yuansen Zhang, Jiangjie Chen, Yanghua Xiao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.315.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_38",
+      "paper_id": "",
+      "title": "Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger",
+      "authors": "Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2021.acl-long.37.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_725",
+      "paper_id": "",
+      "title": "HiddenDetect: Detecting Jailbreak Attacks against Multimodal Large Language Models via Monitoring Hidden States",
+      "authors": "Yilei Jiang, Xinyan Gao, Tianshuo Peng, Yingshui Tan, Xiaoyong Zhu, Bo Zheng, Xiangyu Yue",
+      "paper_url": "https://aclanthology.org/2025.acl-long.724.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_493",
+      "paper_id": "",
+      "title": "How do humans perceive adversarial text? A reality check on the validity and naturalness of word-based adversarial attacks",
+      "authors": "Salijona Dyrmishi, Salah Ghamizi, Maxime Cordy",
+      "paper_url": "https://aclanthology.org/2023.acl-long.491.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_774",
+      "paper_id": "",
+      "title": "How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs",
+      "authors": "Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi",
+      "paper_url": "https://aclanthology.org/2024.acl-long.773.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_246",
+      "paper_id": "",
+      "title": "Improve Safety Training of Large Language Models with Safety-Critical Singular Vectors Localization",
+      "authors": "Peijian Gu, Quan Wang, Zhendong Mao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.245.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1006",
+      "paper_id": "",
+      "title": "Improved Unbiased Watermark for Large Language Models",
+      "authors": "Ruibo Chen, Yihan Wu, Junfeng Guo, Heng Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1005.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_380",
+      "paper_id": "",
+      "title": "Improving the Robustness of Summarization Systems with Dual Augmentation",
+      "authors": "Xiuying Chen, Guodong Long, Chongyang Tao, Mingzhe Li, Xin Gao, Chengqi Zhang, Xiangliang Zhang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.378.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_75",
+      "paper_id": "",
+      "title": "Jailbreak Large Vision-Language Models Through Multi-Modal Linkage",
+      "authors": "Yu Wang, Xiaofei Zhou, Yichen Wang, Geyuan Zhang, Tianxing He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.74.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_300",
+      "paper_id": "",
+      "title": "Jailbreak Open-Sourced Large Language Models via Enforced Decoding",
+      "authors": "Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, Jinyuan Jia, Jinghui Chen, Dinghao Wu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.299.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_571",
+      "paper_id": "",
+      "title": "Jailbreaking? One Step Is Enough!",
+      "authors": "Weixiong Zheng, Peijian Zeng, YiWei Li, Hongyan Wu, Nankai Lin, Junhao Chen, Aimin Yang, Yongmei Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.570.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1046",
+      "paper_id": "",
+      "title": "JailbreakRadar: Comprehensive Assessment of Jailbreak Attacks Against LLMs",
+      "authors": "Junjie Chu, Yugeng Liu, Ziqing Yang, Xinyue Shen, Michael Backes, Yang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1045.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_742",
+      "paper_id": "",
+      "title": "KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment",
+      "authors": "Lingzhi Wang, Tong Chen, Wei Yuan, Xingshan Zeng, Kam-Fai Wong, Hongzhi Yin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.740.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_807",
+      "paper_id": "",
+      "title": "Knowledge Unlearning for Mitigating Privacy Risks in Language Models",
+      "authors": "Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.805.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_763",
+      "paper_id": "",
+      "title": "Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic",
+      "authors": "Rishabh Bhardwaj, Duc Anh Do, Soujanya Poria",
+      "paper_url": "https://aclanthology.org/2024.acl-long.762.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1142",
+      "paper_id": "",
+      "title": "Language Models Resist Alignment: Evidence From Data Compression",
+      "authors": "Jiaming Ji, Kaile Wang, Tianyi Alex Qiu, Boyuan Chen, Jiayi Zhou, Changye Li, Hantao Lou, Josef Dai, Yunhuai Liu, Yaodong Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1141.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1056",
+      "paper_id": "",
+      "title": "LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint",
+      "authors": "Qianli Ma, Dongrui Liu, Qian Chen, Linfeng Zhang, Jing Shao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1055.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1351",
+      "paper_id": "",
+      "title": "LLMs Caught in the Crossfire: Malware Requests and Jailbreak Challenges",
+      "authors": "Haoyang Li, Huan Gao, Zhiyuan Zhao, Zhiyu Lin, Junyu Gao, Xuelong Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1350.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1208",
+      "paper_id": "",
+      "title": "LLMs know their vulnerabilities: Uncover Safety Gaps through Natural Distribution Shifts",
+      "authors": "Qibing Ren, Hao Li, Dongrui Liu, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1207.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1531",
+      "paper_id": "",
+      "title": "LongSafety: Evaluating Long-Context Safety of Large Language Models",
+      "authors": "Yida Lu, Jiale Cheng, Zhexin Zhang, Shiyao Cui, Cunxiang Wang, Xiaotao Gu, Yuxiao Dong, Jie Tang, Hongning Wang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1530.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1480",
+      "paper_id": "",
+      "title": "LSSF: Safety Alignment for Large Language Models through Low-Rank Safety Subspace Fusion",
+      "authors": "Guanghao Zhou, Panjia Qiu, Cen Chen, Hongyu Li, Jason Chu, Xin Zhang, Jun Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1479.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_806",
+      "paper_id": "",
+      "title": "M2S: Multi-turn to Single-turn jailbreak in Red Teaming for LLMs",
+      "authors": "Junwoo Ha, Hyunjun Kim, Sangyoon Yu, Haon Park, Ashkan Yousefpour, Yuna Park, Suhyun Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.805.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_458",
+      "paper_id": "",
+      "title": "Machine Unlearning of Pre-trained Large Language Models",
+      "authors": "Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang, Zezhou Cheng, Xiang Yue",
+      "paper_url": "https://aclanthology.org/2024.acl-long.457.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_412",
+      "paper_id": "",
+      "title": "Matching Pairs: Attributing Fine-Tuned Models to their Pre-Trained Large Language Models",
+      "authors": "Myles Foley, Ambrish Rawat, Taesung Lee, Yufang Hou, Gabriele Picco, Giulio Zizzo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.410.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1456",
+      "paper_id": "",
+      "title": "MEraser: An Effective Fingerprint Erasure Approach for Large Language Models",
+      "authors": "Jingxuan Zhang, Zhenhua Xu, Rui Hu, Wenpeng Xing, Xuhong Zhang, Meng Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1455.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1571",
+      "paper_id": "",
+      "title": "Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models",
+      "authors": "Zenghui Yuan, Yangming Xu, Jiawen Shi, Pan Zhou, Lichao Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1571.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_343",
+      "paper_id": "",
+      "title": "MergePrint: Merge-Resistant Fingerprints for Robust Black-box Ownership Verification of Large Language Models",
+      "authors": "Shojiro Yamabe, Futa Kai Waseda, Tsubasa Takahashi, Koki Wataoka",
+      "paper_url": "https://aclanthology.org/2025.acl-long.342.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_673",
+      "paper_id": "",
+      "title": "Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System",
+      "authors": "Ziyou Jiang, Mingyang Li, Guowei Yang, Junjie Wang, Yuekai Huang, Zhiyuan Chang, Qing Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.672.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_296",
+      "paper_id": "",
+      "title": "Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models",
+      "authors": "Zheyuan Liu, Guangyao Dou, Xiangchi Yuan, Chunhui Zhang, Zhaoxuan Tan, Meng Jiang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.295.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_241",
+      "paper_id": "",
+      "title": "MorphMark: Flexible Adaptive Watermarking for Large Language Models",
+      "authors": "Zongqi Wang, Tianle Gu, Baoyuan Wu, Yujiu Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.240.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1283",
+      "paper_id": "",
+      "title": "MTSA: Multi-turn Safety Alignment for LLMs through Multi-round Red-teaming",
+      "authors": "Weiyang Guo, Jing Li, Wenya Wang, Yu Li, Daojing He, Jun Yu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1282.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_401",
+      "paper_id": "",
+      "title": "Multi-target Backdoor Attacks for Code Pre-trained Models",
+      "authors": "Yanzhou Li, Shangqing Liu, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.399.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_685",
+      "paper_id": "",
+      "title": "Multi-task Adversarial Attacks against Black-box Model with Few-shot Queries",
+      "authors": "Wenqiang Wang, Yan Xiao, Hao Lin, Yangshijie Zhang, Xiaochun Cao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.684.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_235",
+      "paper_id": "",
+      "title": "Multimodal Pragmatic Jailbreak on Text-to-image Models",
+      "authors": "Tong Liu, Zhixin Lai, Jiawen Wang, Gengyuan Zhang, Shuo Chen, Philip Torr, Vera Demberg, Volker Tresp, Jindong Gu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.234.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_254",
+      "paper_id": "",
+      "title": "Navigating the OverKill in Large Language Models",
+      "authors": "Chenyu Shi, Xiao Wang, Qiming Ge, Songyang Gao, Xianjun Yang, Tao Gui, Qi Zhang, Xuanjing Huang, Xun Zhao, Dahua Lin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.253.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_869",
+      "paper_id": "",
+      "title": "NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models",
+      "authors": "Kai Mei, Zheng Li, Zhenting Wang, Yang Zhang, Shiqing Ma",
+      "paper_url": "https://aclanthology.org/2023.acl-long.867.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_59",
+      "paper_id": "",
+      "title": "ObfusLM: Privacy-preserving Language Model Service against Embedding Inversion Attacks",
+      "authors": "Yu Lin, Ruining Yang, Yunlong Mao, Qizhi Zhang, Jue Hong, Quanwei Cai, Ye Wu, Huiqi Liu, Zhiyu Chen, Bing Duan, Sheng Zhong",
+      "paper_url": "https://aclanthology.org/2025.acl-long.58.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1372",
+      "paper_id": "",
+      "title": "Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport",
+      "authors": "Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1371.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_348",
+      "paper_id": "",
+      "title": "Pass off Fish Eyes for Pearls: Attacking Model Selection of Pre-trained Models",
+      "authors": "Biru Zhu, Yujia Qin, Fanchao Qi, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.347.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_476",
+      "paper_id": "",
+      "title": "PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization",
+      "authors": "Yidan Wang, Yanan Cao, Yubing Ren, Fang Fang, Zheng Lin, Binxing Fang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.475.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1469",
+      "paper_id": "",
+      "title": "PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free",
+      "authors": "Hao Li, Xiaogeng Liu, Ning Zhang, Chaowei Xiao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1468.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1545",
+      "paper_id": "",
+      "title": "PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs with Human Preference",
+      "authors": "Jiaming Ji, Donghai Hong, Borong Zhang, Boyuan Chen, Josef Dai, Boren Zheng, Tianyi Alex Qiu, Jiayi Zhou, Kaile Wang, Boxun Li, Sirui Han, Yike Guo, Yaodong Yang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1544.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_519",
+      "paper_id": "",
+      "title": "PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance",
+      "authors": "Haoran Li, Wenbin Hu, Huihao Jing, Yulin Chen, Qi Hu, Sirui Han, Tianshu Chu, Peizhao Hu, Yangqiu Song",
+      "paper_url": "https://aclanthology.org/2025.acl-long.518.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_533",
+      "paper_id": "",
+      "title": "PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration",
+      "authors": "Ziqian Zeng, Jianwei Wang, Junyao Yang, Zhengdong Lu, Haoran Li, Huiping Zhuang, Cen Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.532.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_811",
+      "paper_id": "",
+      "title": "Private Memorization Editing: Turning Memorization into a Defense to Strengthen Data Privacy in Large Language Models",
+      "authors": "Elena Sofia Ruzzetti, Giancarlo A. Xompero, Davide Venditti, Fabio Massimo Zanzotto",
+      "paper_url": "https://aclanthology.org/2025.acl-long.810.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_5",
+      "paper_id": "",
+      "title": "PrivLM-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models",
+      "authors": "Haoran Li, Dadi Guo, Donghao Li, Wei Fan, Qi Hu, Xin Liu, Chunkit Chan, Duanyi Yao, Yuan Yao, Yangqiu Song",
+      "paper_url": "https://aclanthology.org/2024.acl-long.4.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_592",
+      "paper_id": "",
+      "title": "PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails",
+      "authors": "Neal Mangaokar, Ashish Hooda, Jihye Choi, Shreyas Chandrashekaran, Kassem Fawaz, Somesh Jha, Atul Prakash",
+      "paper_url": "https://aclanthology.org/2024.acl-long.591.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_813",
+      "paper_id": "",
+      "title": "PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety",
+      "authors": "Zaibin Zhang, Yongting Zhang, Lijun Li, Hongzhi Gao, Lijun Wang, Huchuan Lu, Feng Zhao, Yu Qiao, Jing Shao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.812.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_648",
+      "paper_id": "",
+      "title": "Query-Efficient Black-Box Red Teaming via Bayesian Optimization",
+      "authors": "Deokjae Lee, JunYeong Lee, Jung-Woo Ha, Jin-Hwa Kim, Sang-Woo Lee, Hwaran Lee, Hyun Oh Song",
+      "paper_url": "https://aclanthology.org/2023.acl-long.646.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_284",
+      "paper_id": "",
+      "title": "Randomized Smoothing with Masked Inference for Adversarially Robust Text Classifications",
+      "authors": "Han Cheol Moon, Shafiq Joty, Ruochen Zhao, Megh Thakkar, Chi Xu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.282.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_742",
+      "paper_id": "",
+      "title": "Reducing Privacy Risks in Online Self-Disclosures with Language Models",
+      "authors": "Yao Dou, Isadora Krsek, Tarek Naous, Anubha Kabra, Sauvik Das, Alan Ritter, Wei Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.741.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_159",
+      "paper_id": "",
+      "title": "Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training",
+      "authors": "Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Jiahao Xu, Tian Liang, Pinjia He, Zhaopeng Tu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.158.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_298",
+      "paper_id": "",
+      "title": "ReLearn: Unlearning via Learning for Large Language Models",
+      "authors": "Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.297.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1174",
+      "paper_id": "",
+      "title": "Representation Bending for Large Language Model Safety",
+      "authors": "Ashkan Yousefpour, Taeheon Kim, Ryan Sungmo Kwon, Seungbeen Lee, Wonje Jeung, Seungju Han, Alvin Wan, Harrison Ngan, Youngjae Yu, Jonghyun Choi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1173.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_432",
+      "paper_id": "",
+      "title": "Rethinking Stealthiness of Backdoor Attack against NLP Models",
+      "authors": "Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, Xu Sun",
+      "paper_url": "https://aclanthology.org/2021.acl-long.431.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl24_141",
+      "paper_id": "",
+      "title": "RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models",
+      "authors": "Jiongxiao Wang, Junlin Wu, Muhao Chen, Yevgeniy Vorobeychik, Chaowei Xiao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.140.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_157",
+      "paper_id": "",
+      "title": "RMLM: A Flexible Defense Framework for Proactively Mitigating Word-level Adversarial Attacks",
+      "authors": "Zhaoyang Wang, Zhiyue Liu, Xiaopeng Zheng, Qinliang Su, Jiahai Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.155.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl22_158",
+      "paper_id": "",
+      "title": "Robust Lottery Tickets for Pre-trained Language Models",
+      "authors": "Rui Zheng, Bao Rong, Yuhao Zhou, Di Liang, Sirui Wang, Wei Wu, Tao Gui, Qi Zhang, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2022.acl-long.157.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_119",
+      "paper_id": "",
+      "title": "Robust Multi-bit Natural Language Watermarking through Invariant Features",
+      "authors": "KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak",
+      "paper_url": "https://aclanthology.org/2023.acl-long.117.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1405",
+      "paper_id": "",
+      "title": "Robust Utility-Preserving Text Anonymization Based on Large Language Models",
+      "authors": "Tianyu Yang, Xiaodan Zhu, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1404.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_66",
+      "paper_id": "",
+      "title": "RoCBert: Robust Chinese Bert with Multimodal Contrastive Pretraining",
+      "authors": "Hui Su, Weiwei Shi, Xiaoyu Shen, Zhou Xiao, Tuo Ji, Jiarui Fang, Jie Zhou",
+      "paper_url": "https://aclanthology.org/2022.acl-long.65.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_98",
+      "paper_id": "",
+      "title": "Root Defense Strategies: Ensuring Safety of LLM at the Decoding Level",
+      "authors": "Xinyi Zeng, Yuying Shang, Jiawei Chen, Jingyuan Zhang, Yu Tian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.97.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_304",
+      "paper_id": "",
+      "title": "SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding",
+      "authors": "Zhangchen Xu, Fengqing Jiang, Luyao Niu, Jinyuan Jia, Bill Yuchen Lin, Radha Poovendran",
+      "paper_url": "https://aclanthology.org/2024.acl-long.303.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_462",
+      "paper_id": "",
+      "title": "Safety Alignment in NLP Tasks: Weakly Aligned Summarization as an In-Context Attack",
+      "authors": "Yu Fu, Yufei Li, Wen Xiao, Cong Liu, Yue Dong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.461.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1241",
+      "paper_id": "",
+      "title": "Safety Alignment via Constrained Knowledge Unlearning",
+      "authors": "Zesheng Shi, Yucheng Zhou, Jing Li, Yuxin Jin, Yu Li, Daojing He, Fangming Liu, Saleh Alharbi, Jun Yu, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1240.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_831",
+      "paper_id": "",
+      "title": "SafetyBench: Evaluating the Safety of Large Language Models",
+      "authors": "Zhexin Zhang, Leqi Lei, Lindong Wu, Rui Sun, Yongkang Huang, Chong Long, Xiao Liu, Xuanyu Lei, Jie Tang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.830.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1437",
+      "paper_id": "",
+      "title": "Sandcastles in the Storm: Revisiting the (Im)possibility of Strong Watermarking",
+      "authors": "Fabrice Y Harel-Canada, Boran Erol, Connor Choi, Jason Liu, Gary Jiarui Song, Nanyun Peng, Amit Sahai",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1436.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1413",
+      "paper_id": "",
+      "title": "SDD: Self-Degraded Defense against Malicious Fine-tuning",
+      "authors": "ZiXuan Chen, Weikai Lu, Xin Lin, Ziqian Zeng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1412.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1213",
+      "paper_id": "",
+      "title": "SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings",
+      "authors": "Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, Ziqian Zeng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1212.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_239",
+      "paper_id": "",
+      "title": "Sentence-level Privacy for Document Embeddings",
+      "authors": "Casey Meehan, Khalil Mrini, Kamalika Chaudhuri",
+      "paper_url": "https://aclanthology.org/2022.acl-long.238.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_425",
+      "paper_id": "",
+      "title": "SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?",
+      "authors": "Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu, Xiangliang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.424.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1234",
+      "paper_id": "",
+      "title": "Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models",
+      "authors": "Lang Gao, Jiahui Geng, Xiangliang Zhang, Preslav Nakov, Xiuying Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1233.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_815",
+      "paper_id": "",
+      "title": "Sheep’s Skin, Wolf’s Deeds: Are LLMs Ready for Metaphorical Implicit Hate Speech?",
+      "authors": "Jingjie Zeng, Liang Yang, Zekun Wang, Yuanyuan Sun, Hongfei Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.814.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_460",
+      "paper_id": "",
+      "title": "SHIELD: Defending Textual Neural Networks against Multiple Black-Box Adversarial Attacks with Stochastic Multi-Expert Patcher",
+      "authors": "Thai Le, Noseong Park, Dongwon Lee",
+      "paper_url": "https://aclanthology.org/2022.acl-long.459.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1145",
+      "paper_id": "",
+      "title": "Small Changes, Big Impact: How Manipulating a Few Neurons Can Drastically Alter LLM Aggression",
+      "authors": "Jaewook Lee, Junseo Jang, Oh-Woog Kwon, Harksoo Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1144.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_708",
+      "paper_id": "",
+      "title": "Stealing Training Data from Large Language Models in Decentralized Training through Activation Inversion Attack",
+      "authors": "Chenxi Dai, Lin Lu, Pan Zhou",
+      "paper_url": "https://aclanthology.org/2025.acl-long.707.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_319",
+      "paper_id": "",
+      "title": "Stealthy Attack on Large Language Model based Recommendation",
+      "authors": "Jinghao Zhang, Yuting Liu, Qiang Liu, Shu Wu, Guibing Guo, Liang Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.318.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_252",
+      "paper_id": "",
+      "title": "Stepwise Reasoning Disruption Attack of LLMs",
+      "authors": "Jingyu Peng, Maolin Wang, Xiangyu Zhao, Kai Zhang, Wanyu Wang, Pengyue Jia, Qidong Liu, Ruocheng Guo, Qi Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.251.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_76",
+      "paper_id": "",
+      "title": "Synthetic Text Generation with Differential Privacy: A Simple and Practical Recipe",
+      "authors": "Xiang Yue, Huseyin Inan, Xuechen Li, Girish Kumar, Julia McAnallen, Hoda Shajari, Huan Sun, David Levitan, Robert Sim",
+      "paper_url": "https://aclanthology.org/2023.acl-long.74.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl23_22",
+      "paper_id": "",
+      "title": "Text Adversarial Purification as Defense against Adversarial Attacks",
+      "authors": "Linyang Li, Demin Song, Xipeng Qiu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.20.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_423",
+      "paper_id": "",
+      "title": "Text Embedding Inversion Security for Multilingual Language Models",
+      "authors": "Yiyi Chen, Heather Lent, Johannes Bjerva",
+      "paper_url": "https://aclanthology.org/2024.acl-long.422.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1436",
+      "paper_id": "",
+      "title": "The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection in LLM Agents",
+      "authors": "Feiran Jia, Tong Wu, Xin Qin, Anna Squicciarini",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1435.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_335",
+      "paper_id": "",
+      "title": "The TIP of the Iceberg: Revealing a Hidden Class of Task-in-Prompt Adversarial Attacks on LLMs",
+      "authors": "Sergey Berezin, Reza Farahbakhsh, Noel Crespi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.334.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_591",
+      "paper_id": "",
+      "title": "The Tug of War Within: Mitigating the Fairness-Privacy Conflicts in Large Language Models",
+      "authors": "Chen Qian, Dongrui Liu, Jie Zhang, Yong Liu, Jing Shao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.590.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_49",
+      "paper_id": "",
+      "title": "Token-wise Influential Training Data Retrieval for Large Language Models",
+      "authors": "Huawei Lin, Jikai Long, Zhaozhuo Xu, Weijie Zhao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.48.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_120",
+      "paper_id": "",
+      "title": "ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages",
+      "authors": "Junjie Ye, Sixian Li, Guanyu Li, Caishuang Huang, Songyang Gao, Yilong Wu, Qi Zhang, Tao Gui, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.119.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_231",
+      "paper_id": "",
+      "title": "Transferable Embedding Inversion Attack: Uncovering Privacy Risks in Text Embeddings without Model Queries",
+      "authors": "Yu-Hsiang Huang, Yuche Tsai, Hsiang Hsiao, Hong-Yi Lin, Shou-De Lin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.230.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_734",
+      "paper_id": "",
+      "title": "TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis",
+      "authors": "Xiaorui Wu, Xiaofeng Mao, Fei Li, Xin Zhang, Xuanhong Li, Chong Teng, Donghong Ji, Zhuang Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.733.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_378",
+      "paper_id": "",
+      "title": "Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution",
+      "authors": "Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, Maosong Sun",
+      "paper_url": "https://aclanthology.org/2021.acl-long.377.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_542",
+      "paper_id": "",
+      "title": "TWIST: Text-encoder Weight-editing for Inserting Secret Trojans in Text-to-Image Models",
+      "authors": "Xindi Li, Zhe Liu, Tong Zhang, Jiahao Chen, Qingming Li, Jinbao Li, Shouling Ji",
+      "paper_url": "https://aclanthology.org/2025.acl-long.541.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_344",
+      "paper_id": "",
+      "title": "Unlearning Traces the Influential Training Data of Language Models",
+      "authors": "Masaru Isonuma, Ivan Titov",
+      "paper_url": "https://aclanthology.org/2024.acl-long.343.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1228",
+      "paper_id": "",
+      "title": "Unveiling Privacy Risks in LLM Agent Memory",
+      "authors": "Bo Wang, Weiyi He, Shenglai Zeng, Zhen Xiang, Yue Xing, Jiliang Tang, Pengfei He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1227.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_406",
+      "paper_id": "",
+      "title": "VLSBench: Unveiling Visual Leakage in Multimodal Safety",
+      "authors": "Xuhao Hu, Dongrui Liu, Hao Li, Xuanjing Huang, Jing Shao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.405.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_979",
+      "paper_id": "",
+      "title": "Vulnerability of LLMs to Vertically Aligned Text Manipulations",
+      "authors": "Zhecheng Li, Yiwei Wang, Bryan Hooi, Yujun Cai, Zhen Xiong, Nanyun Peng, Kai-Wei Chang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.978.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_726",
+      "paper_id": "",
+      "title": "WARDEN: Multi-Directional Backdoor Watermarks for Embedding-as-a-Service Copyright Protection",
+      "authors": "Anudeex Shetty, Yue Teng, Ke He, Qiongkai Xu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.725.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_84",
+      "paper_id": "",
+      "title": "WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models",
+      "authors": "Shangqing Tu, Yuliang Sun, Yushi Bai, Jifan Yu, Lei Hou, Juanzi Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.83.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_392",
+      "paper_id": "",
+      "title": "Watermarking Large Language Models: An Unbiased and Low-risk Method",
+      "authors": "Minjia Mao, Dongjun Wei, Zeyu Chen, Xiao Fang, Michael Chau",
+      "paper_url": "https://aclanthology.org/2025.acl-long.391.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_497",
+      "paper_id": "",
+      "title": "WatME: Towards Lossless Watermarking Through Lexical Redundancy",
+      "authors": "Liang Chen, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-Fai Wong",
+      "paper_url": "https://aclanthology.org/2024.acl-long.496.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1123",
+      "paper_id": "",
+      "title": "WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks",
+      "authors": "Anudeex Shetty, Qiongkai Xu, Jey Han Lau",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1122.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_102",
+      "paper_id": "",
+      "title": "What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs",
+      "authors": "Sangyeop Kim, Yohan Lee, Yongwoo Song, Kimin Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.101.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_115",
+      "paper_id": "",
+      "title": "When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations",
+      "authors": "Huaizhi Ge, Yiming Li, Qifan Wang, Yongfeng Zhang, Ruixiang Tang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.114.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_937",
+      "paper_id": "",
+      "title": "When GPT Spills the Tea: Comprehensive Assessment of Knowledge File Leakage in GPTs",
+      "authors": "Xinyue Shen, Yun Shen, Michael Backes, Yang Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.936.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_102",
+      "paper_id": "",
+      "title": "White-Box Multi-Objective Adversarial Attack on Dialogue Generation",
+      "authors": "Yufei Li, Zexin Li, Yingfan Gao, Cong Liu",
+      "paper_url": "https://aclanthology.org/2023.acl-long.100.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_269",
+      "paper_id": "",
+      "title": "Who Wrote this Code? Watermarking for Code Generation",
+      "authors": "Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim",
+      "paper_url": "https://aclanthology.org/2024.acl-long.268.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_739",
+      "paper_id": "",
+      "title": "Why Safeguarded Ships Run Aground? Aligned Large Language Models’ Safety Mechanisms Tend to Be Anchored in The Template Region",
+      "authors": "Chak Tou Leong, Qingyu Yin, Jian Wang, Wenjie Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.738.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_539",
+      "paper_id": "",
+      "title": "“That Is a Suspicious Reaction!”: Interpreting Logits Variation to Detect NLP Adversarial Attacks",
+      "authors": "Edoardo Mosca, Shreyash Agarwal, Javier Rando Ramírez, Georg Groh",
+      "paper_url": "https://aclanthology.org/2022.acl-long.538.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_74",
+      "paper_id": "",
+      "title": "“Yes, My LoRD.” Guiding Language Model Extraction with Locality Reinforced Distillation",
+      "authors": "Zi Liang, Qingqing Ye, Yanyun Wang, Sen Zhang, Yaxin Xiao, RongHua Li, Jianliang Xu, Haibo Hu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.73.pdf",
+      "venue": "acl25"
+    }
+  ]
+}

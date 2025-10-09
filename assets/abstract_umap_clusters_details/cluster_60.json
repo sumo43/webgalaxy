@@ -1,0 +1,2021 @@
+{
+  "cluster_id": 60,
+  "papers": [
+    {
+      "id": "iclr23_wkg_b4-IwTZ",
+      "paper_id": "wkg_b4-IwTZ",
+      "title": "A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias",
+      "authors": "Puja Trivedi, Danai Koutra, Jayaraman J. Thiagarajan",
+      "paper_url": "https://openreview.net/pdf/a96c8869749346661838b9c685006ca0e44e9011.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_mQ72XRfYRZ",
+      "paper_id": "mQ72XRfYRZ",
+      "title": "A Hierarchical Bayesian Model for Few-Shot Meta Learning",
+      "authors": "Minyoung Kim, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf?id=mQ72XRfYRZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_S07feAlQHgM",
+      "paper_id": "S07feAlQHgM",
+      "title": "A Model or 603 Exemplars: Towards Memory-Efficient Class-Incremental Learning",
+      "authors": "Da-Wei Zhou, Qi-Wei Wang, Han-Jia Ye, De-Chuan Zhan",
+      "paper_url": "https://openreview.net/pdf/1b652f4ee2aba1681f8d0e268557ff8ce743d37d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MVe2dnWPCu",
+      "paper_id": "MVe2dnWPCu",
+      "title": "A Probabilistic Framework for Modular Continual Learning",
+      "authors": "Lazar Valkov, Akash Srivastava, Swarat Chaudhuri, Charles Sutton",
+      "paper_url": "https://openreview.net/pdf?id=MVe2dnWPCu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_BE5aK0ETbp",
+      "paper_id": "BE5aK0ETbp",
+      "title": "A Unified and General Framework for Continual Learning",
+      "authors": "Zhenyi Wang, Yan Li, Li Shen, Heng Huang",
+      "paper_url": "https://openreview.net/pdf?id=BE5aK0ETbp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_04cII6MumYV",
+      "paper_id": "04cII6MumYV",
+      "title": "A Universal Representation Transformer Layer for Few-Shot Image Classification",
+      "authors": "Lu Liu, William L. Hamilton, Guodong Long, Jing Jiang, Hugo Larochelle",
+      "paper_url": "https://openreview.net/pdf/82c74f9d1bbe056efab8db3ab6e90c45142d11f3.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_sb-IkS8DQw2",
+      "paper_id": "sb-IkS8DQw2",
+      "title": "Accurate Bayesian Meta-Learning by Accurate Task Posterior Inference",
+      "authors": "Michael Volpp, Philipp Dahlinger, Philipp Becker, Christian Daniel, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf/9d238d2b9fa5ae8f7a156a4a41514ec781bbbf91.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_mnLmmtW7HO",
+      "paper_id": "mnLmmtW7HO",
+      "title": "Active Learning for Continual Learning: Keeping the Past Alive in the Present",
+      "authors": "Jaehyun Park, Dongmin Park, Jae-Gil Lee",
+      "paper_url": "https://openreview.net/pdf?id=mnLmmtW7HO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_YHUGlwTzFB",
+      "paper_id": "YHUGlwTzFB",
+      "title": "Active Test-Time Adaptation: Theoretical Analyses and An Algorithm",
+      "authors": "Shurui Gui, Xiner Li, Shuiwang Ji",
+      "paper_url": "https://openreview.net/pdf?id=YHUGlwTzFB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Q5uh1Nvv5dm",
+      "paper_id": "Q5uh1Nvv5dm",
+      "title": "AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation",
+      "authors": "David Berthelot, Rebecca Roelofs, Kihyuk Sohn, Nicholas Carlini, Alexey Kurakin",
+      "paper_url": "https://openreview.net/pdf/8dd30c7eff2e4f152d2d24368c232baec4e5e974.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_HF1UmIVv6a",
+      "paper_id": "HF1UmIVv6a",
+      "title": "ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation",
+      "authors": "Ze Yang, Shichao Dong, Ruibo Li, Nan Song, Guosheng Lin",
+      "paper_url": "https://openreview.net/pdf?id=HF1UmIVv6a",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sEMJ1PLSZR",
+      "paper_id": "sEMJ1PLSZR",
+      "title": "Adaptive Energy Alignment for Accelerating Test-Time Adaptation",
+      "authors": "Wonjeong Choi, Do-Yeon Kim, Jungwuk Park, Jungmoon Lee, Younghyun Park, Dong-Jun Han, Jaekyun Moon",
+      "paper_url": "https://openreview.net/pdf?id=sEMJ1PLSZR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9bLdbp46Q1",
+      "paper_id": "9bLdbp46Q1",
+      "title": "Adaptive Retention & Correction: Test-Time Training for Continual Learning",
+      "authors": "Haoran Chen, Micah Goldblum, Zuxuan Wu, Yu-Gang Jiang",
+      "paper_url": "https://openreview.net/pdf?id=9bLdbp46Q1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_sKPzAXoylB",
+      "paper_id": "sKPzAXoylB",
+      "title": "Addressing Loss of Plasticity and Catastrophic Forgetting in Continual Learning",
+      "authors": "Mohamed Elsayed, A. Rupam Mahmood",
+      "paper_url": "https://openreview.net/pdf?id=sKPzAXoylB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_M95oDwJXayG",
+      "paper_id": "M95oDwJXayG",
+      "title": "Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation",
+      "authors": "Marius-Constantin Dinu, Markus Holzleitner, Maximilian Beck, Hoan Duc Nguyen, Andrea Huber, Hamid Eghbal-zadeh, Bernhard A. Moser, Sergei Pereverzyev, Sepp Hochreiter, Werner Zellinger",
+      "paper_url": "https://openreview.net/pdf/36c115dd350b35beffcf18cbfd0a6afd2ab5a0e7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_V6uxd8MEqw",
+      "paper_id": "V6uxd8MEqw",
+      "title": "Advancing Prompt-Based Methods for Replay-Independent General Continual Learning",
+      "authors": "Zhiqi KANG, Liyuan Wang, Xingxing Zhang, Karteek Alahari",
+      "paper_url": "https://openreview.net/pdf?id=V6uxd8MEqw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_LhY8QdUGSuw",
+      "paper_id": "LhY8QdUGSuw",
+      "title": "Anatomy of Catastrophic Forgetting: Hidden Representations and Task Semantics",
+      "authors": "Vinay Venkatesh Ramasesh, Ethan Dyer, Maithra Raghu",
+      "paper_url": "https://openreview.net/pdf/d11b4b8cdf4b9f940c435a7b3c50cf2790aa071d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_7VkHffT5X2",
+      "paper_id": "7VkHffT5X2",
+      "title": "AnoLLM: Large Language Models for Tabular Anomaly Detection",
+      "authors": "Che-Ping Tsai, Ganyu Teng, Phillip Wallis, Wei Ding",
+      "paper_url": "https://openreview.net/pdf?id=7VkHffT5X2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22__hszZbt46bT",
+      "paper_id": "_hszZbt46bT",
+      "title": "Anomaly Detection for Tabular Data with Internal Contrastive Learning",
+      "authors": "Tom Shenkar, Lior Wolf",
+      "paper_url": "https://openreview.net/pdf/067e5071eee6bb0a62c48953456a5c12e7469b55.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_yyLvxYBJV1B",
+      "paper_id": "yyLvxYBJV1B",
+      "title": "AnyDA: Anytime Domain Adaptation",
+      "authors": "Omprakash Chakraborty, Aadarsh Sahoo, Rameswar Panda, Abir Das",
+      "paper_url": "https://openreview.net/pdf/cd2f8530081a65f6a7fee97f47a107998f5a9a17.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_vujTf_I8Kmc",
+      "paper_id": "vujTf_I8Kmc",
+      "title": "Attentional Constellation Nets for Few-Shot Learning",
+      "authors": "Weijian Xu, yifan xu, Huaijin Wang, Zhuowen Tu",
+      "paper_url": "https://openreview.net/pdf/4bfc13fc5e8eadc3b396aa15c6e583195e33ef5e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_WNQjN5HzXt",
+      "paper_id": "WNQjN5HzXt",
+      "title": "AUGCAL: Improving Sim2Real Adaptation by Uncertainty Calibration on Augmented Synthetic Images",
+      "authors": "Prithvijit Chattopadhyay, Bharat Goyal, Boglarka Ecsedi, Viraj Uday Prabhu, Judy Hoffman",
+      "paper_url": "https://openreview.net/pdf?id=WNQjN5HzXt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_lgNx56yZh8a",
+      "paper_id": "lgNx56yZh8a",
+      "title": "Bayesian Few-Shot Classification with One-vs-Each Pólya-Gamma Augmented Gaussian Processes",
+      "authors": "Jake Snell, Richard Zemel",
+      "paper_url": "https://openreview.net/pdf/7b95dc29c35f2fff01beeecbf82b977b59478341.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_k9SVcrmXL8",
+      "paper_id": "k9SVcrmXL8",
+      "title": "BECLR: Batch Enhanced Contrastive Few-Shot Learning",
+      "authors": "Stylianos Poulakakis-Daktylidis, Hadi Jamali-Rad",
+      "paper_url": "https://openreview.net/pdf?id=k9SVcrmXL8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_iP77_axu0h3",
+      "paper_id": "iP77_axu0h3",
+      "title": "BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion",
+      "authors": "Fu-Yun Wang, Da-Wei Zhou, Liu Liu, Han-Jia Ye, Yatao Bian, De-Chuan Zhan, Peilin Zhao",
+      "paper_url": "https://openreview.net/pdf/17675705f29fec1ec99d9152ef6c0143641cda49.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_umIdUL8rMH",
+      "paper_id": "umIdUL8rMH",
+      "title": "BOIL: Towards Representation Change for Few-shot Learning",
+      "authors": "Jaehoon Oh, Hyungjun Yoo, ChangHwan Kim, Se-Young Yun",
+      "paper_url": "https://openreview.net/pdf/1a8c0d92bdde5a60d7b354b43c36e22abacfc99a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_AZR4R3lw7y",
+      "paper_id": "AZR4R3lw7y",
+      "title": "Boosting Multiple Views for pretrained-based Continual Learning",
+      "authors": "Quyen Tran, Tung Lam Tran, Khanh Doan, Toan Tran, Dinh Phung, Khoat Than, Trung Le",
+      "paper_url": "https://openreview.net/pdf?id=AZR4R3lw7y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dOAkHmsjRX",
+      "paper_id": "dOAkHmsjRX",
+      "title": "Budgeted Online Continual Learning by Adaptive Layer Freezing and Frequency-based Sampling",
+      "authors": "Minhyuk Seo, Hyunseo Koh, Jonghyun Choi",
+      "paper_url": "https://openreview.net/pdf?id=dOAkHmsjRX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_UKr0MwZM6fL",
+      "paper_id": "UKr0MwZM6fL",
+      "title": "Building a Subspace of Policies for Scalable Continual Learning",
+      "authors": "Jean-Baptiste Gaya, Thang Doan, Lucas Caccia, Laure Soulier, Ludovic Denoyer, Roberta Raileanu",
+      "paper_url": "https://openreview.net/pdf/ab8b649c5427a1281f061c035a6c4c3a82699f57.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_fszrlQ2DuP",
+      "paper_id": "fszrlQ2DuP",
+      "title": "Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?",
+      "authors": "Jianfei Yang, Hanjie Qian, Yuecong Xu, Kai Wang, Lihua Xie",
+      "paper_url": "https://openreview.net/pdf?id=fszrlQ2DuP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_F91SROvVJ_6",
+      "paper_id": "F91SROvVJ_6",
+      "title": "Causal Balancing for Domain Generalization",
+      "authors": "Xinyi Wang, Michael Saxon, Jiachen Li, Hongyang Zhang, Kun Zhang, William Yang Wang",
+      "paper_url": "https://openreview.net/pdf/6b88930a2f4b17b072ce937d41b10c43e6d346fd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_XGzk5OKWFFc",
+      "paper_id": "XGzk5OKWFFc",
+      "title": "CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation",
+      "authors": "Tongkun Xu, Weihua Chen, Pichao WANG, Fan Wang, Hao Li, Rong Jin",
+      "paper_url": "https://openreview.net/pdf/5af495124dcff5b772396db65ab98725f7b036b7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_8QfK9Dq4q0",
+      "paper_id": "8QfK9Dq4q0",
+      "title": "Class Incremental Learning via Likelihood Ratio Based Task Prediction",
+      "authors": "Haowei Lin, Yijia Shao, Weinan Qian, Ningxin Pan, Yiduo Guo, Bing Liu",
+      "paper_url": "https://openreview.net/pdf?id=8QfK9Dq4q0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_RnxwxGXxex",
+      "paper_id": "RnxwxGXxex",
+      "title": "CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models",
+      "authors": "Shengzhuang Chen, Yikai Liao, Xiaoxiao Sun, Kede Ma, Ying Wei",
+      "paper_url": "https://openreview.net/pdf?id=RnxwxGXxex",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_U4XLJhqwNF1",
+      "paper_id": "U4XLJhqwNF1",
+      "title": "CO2: Consistent Contrast for Unsupervised Visual Representation Learning",
+      "authors": "Chen Wei, Huiyu Wang, Wei Shen, Alan Yuille",
+      "paper_url": "https://openreview.net/pdf/3bf139a485a1e2e65ce2dc0b66f592976f4cfe61.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_506BjJ1ziZ",
+      "paper_id": "506BjJ1ziZ",
+      "title": "COME: Test-time Adaption by Conservatively Minimizing Entropy",
+      "authors": "Qingyang Zhang, Yatao Bian, Xinke Kong, Peilin Zhao, Changqing Zhang",
+      "paper_url": "https://openreview.net/pdf?id=506BjJ1ziZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_eJIJF3-LoZO",
+      "paper_id": "eJIJF3-LoZO",
+      "title": "Concept Learners for Few-Shot Learning",
+      "authors": "Kaidi Cao, Maria Brbic, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf/4502f92e9d047dea9aa42deceb3ff6b44a74942e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_zRJu6mU2BaE",
+      "paper_id": "zRJu6mU2BaE",
+      "title": "ConFeSS: A Framework for Single Source Cross-Domain Few-Shot Learning",
+      "authors": "Debasmit Das, Sungrack Yun, Fatih Porikli",
+      "paper_url": "https://openreview.net/pdf/9a6c5c7a1d3338348f0f985794c41857eabbb501.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Gq1Zjhovjr",
+      "paper_id": "Gq1Zjhovjr",
+      "title": "Consistency Regularization for Domain Generalization with Logit Attribution Matching",
+      "authors": "Han Gao, Kaican Li, Weiyan Xie, Zhi LIN, Yongxiang Huang, Luning Wang, Caleb Chen Cao, Nevin L. Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Gq1Zjhovjr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_zx_uX-BO7CH",
+      "paper_id": "zx_uX-BO7CH",
+      "title": "Contextual Transformation Networks for Online Continual Learning",
+      "authors": "Quang Pham, Chenghao Liu, Doyen Sahoo, Steven HOI",
+      "paper_url": "https://openreview.net/pdf/677e7eacc15f5a8cfa20b7a38a726599b2f960ca.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Zy350cRstc6",
+      "paper_id": "Zy350cRstc6",
+      "title": "Continual evaluation for lifelong learning: Identifying the stability gap",
+      "authors": "Matthias De Lange, Gido M van de Ven, Tinne Tuytelaars",
+      "paper_url": "https://openreview.net/pdf/913d2396e313fdd690c50b875b3c31efaa2e05a5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_8xeBUgD8u9",
+      "paper_id": "8xeBUgD8u9",
+      "title": "Continual learning in recurrent neural networks",
+      "authors": "Benjamin Ehret, Christian Henning, Maria Cervera, Alexander Meulemans, Johannes von Oswald, Benjamin F Grewe",
+      "paper_url": "https://openreview.net/pdf/c8abb8aebd4518ff958e3cde3bb8c972fecd7cba.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_Xvfz8NHmCj",
+      "paper_id": "Xvfz8NHmCj",
+      "title": "Continual Learning on a Diet:  Learning from Sparsely Labeled Streams Under Constrained Computation",
+      "authors": "Wenxuan Zhang, Youssef Mohamed, Bernard Ghanem, Philip Torr, Adel Bibi, Mohamed Elhoseiny",
+      "paper_url": "https://openreview.net/pdf?id=Xvfz8NHmCj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_metRpM4Zrcb",
+      "paper_id": "metRpM4Zrcb",
+      "title": "Continual Learning with Filter Atom Swapping",
+      "authors": "Zichen Miao, Ze Wang, Wei Chen, Qiang Qiu",
+      "paper_url": "https://openreview.net/pdf/f453901d83c3373b05abe089d047948fa6e10b9b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_7YDLgf9_zgm",
+      "paper_id": "7YDLgf9_zgm",
+      "title": "Continual Learning with Recursive Gradient Optimization",
+      "authors": "Hao Liu, Huaping Liu",
+      "paper_url": "https://openreview.net/pdf/19ab5aa0cb46a13fe9b97dab46913da24e89d2fb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_BllUWdpIOA",
+      "paper_id": "BllUWdpIOA",
+      "title": "Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation",
+      "authors": "Jae-Hong Lee, Joon-Hyuk Chang",
+      "paper_url": "https://openreview.net/pdf?id=BllUWdpIOA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_vwLLQ-HwqhZ",
+      "paper_id": "vwLLQ-HwqhZ",
+      "title": "Continual Normalization: Rethinking Batch Normalization for Online Continual Learning",
+      "authors": "Quang Pham, Chenghao Liu, Steven HOI",
+      "paper_url": "https://openreview.net/pdf/10665207380ab7045b3c071ec3558f28f179a53a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Dl3MsjaIdp",
+      "paper_id": "Dl3MsjaIdp",
+      "title": "Continual Slow-and-Fast Adaptation of Latent Neural Dynamics (CoSFan): Meta-Learning What-How & When to Adapt",
+      "authors": "Ryan Missel, Linwei Wang",
+      "paper_url": "https://openreview.net/pdf?id=Dl3MsjaIdp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_m3twGT2bAug",
+      "paper_id": "m3twGT2bAug",
+      "title": "Continuous pseudo-labeling from the start",
+      "authors": "Dan Berrebbi, Ronan Collobert, Samy Bengio, Navdeep Jaitly, Tatiana Likhomanenko",
+      "paper_url": "https://openreview.net/pdf/798c3dbf85d7a7bebf220083f508c53e8569a286.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_6iVJOtr2zL2",
+      "paper_id": "6iVJOtr2zL2",
+      "title": "Contrastive Meta-Learning for Partially Observable Few-Shot Learning",
+      "authors": "Adam Jelley, Amos Storkey, Antreas Antoniou, Sam Devlin",
+      "paper_url": "https://openreview.net/pdf/e772b9003ad73dfd1a36126e495b1a62b2495389.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_F8whUO8HNbP",
+      "paper_id": "F8whUO8HNbP",
+      "title": "Contrastive Syn-to-Real Generalization",
+      "authors": "Wuyang Chen, Zhiding Yu, Shalini De Mello, Sifei Liu, Jose M. Alvarez, Zhangyang Wang, Anima Anandkumar",
+      "paper_url": "https://openreview.net/pdf/a7ade6e78d9e1ddd5b9584676f313379bbfbce16.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_mAztx8QO3B",
+      "paper_id": "mAztx8QO3B",
+      "title": "Coreset Selection via Reducible Loss in Continual Learning",
+      "authors": "Ruilin Tong, Yuhang Liu, Javen Qinfeng Shi, Dong Gong",
+      "paper_url": "https://openreview.net/pdf?id=mAztx8QO3B",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_F2v4aqEL6ze",
+      "paper_id": "F2v4aqEL6ze",
+      "title": "CPR: Classifier-Projection Regularization for Continual Learning",
+      "authors": "Sungmin Cha, Hsiang Hsu, Taebaek Hwang, Flavio Calmon, Taesup Moon",
+      "paper_url": "https://openreview.net/pdf/005d36463de5356fd7dbaf00e06791a95cada59a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Kn-HA8DFik",
+      "paper_id": "Kn-HA8DFik",
+      "title": "Cross-Level Distillation and Feature Denoising for Cross-Domain Few-Shot Classification",
+      "authors": "Hao ZHENG, Runqi Wang, Jianzhuang Liu, Asako Kanezaki",
+      "paper_url": "https://openreview.net/pdf/cc48f6aebf1eb9429f8570a25b548a0e9c3e85a8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_48RBsJwGkJf",
+      "paper_id": "48RBsJwGkJf",
+      "title": "CrossMatch: Cross-Classifier Consistency Regularization for Open-Set Single Domain Generalization",
+      "authors": "Ronghang Zhu, Sheng Li",
+      "paper_url": "https://openreview.net/pdf/3e9c8f0127840613ea019e2229f86378b1cc0e91.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Sh4FOyZRpv",
+      "paper_id": "Sh4FOyZRpv",
+      "title": "CTSyn: A Foundation Model for Cross Tabular Data Generation",
+      "authors": "Xiaofeng Lin, Chenheng Xu, Matthew Yang, Guang Cheng",
+      "paper_url": "https://openreview.net/pdf?id=Sh4FOyZRpv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_bjkX6Kzb5H",
+      "paper_id": "bjkX6Kzb5H",
+      "title": "Cut out the annotator, keep the cutout: better segmentation with weak supervision",
+      "authors": "Sarah Hooper, Michael Wornow, Ying Hang Seah, Peter Kellman, Hui Xue, Frederic Sala, Curtis Langlotz, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/483be50ec4cee1c25de217a88795d4d99938cb4a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_wC98X1qpDBA",
+      "paper_id": "wC98X1qpDBA",
+      "title": "Cycle-consistent Masked AutoEncoder for Unsupervised Domain Generalization",
+      "authors": "Haiyang Yang, Xiaotong Li, SHIXIANG TANG, Feng Zhu, Yizhou Wang, Meilin Chen, LEI BAI, Rui Zhao, Wanli Ouyang",
+      "paper_url": "https://openreview.net/pdf/80923f306be26ea8c160f03fb85027b691b34dbb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_L8e7tBf4pP",
+      "paper_id": "L8e7tBf4pP",
+      "title": "DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation",
+      "authors": "Changdae Oh, Yixuan Li, Kyungwoo Song, Sangdoo Yun, Dongyoon Han",
+      "paper_url": "https://openreview.net/pdf?id=L8e7tBf4pP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XoYdD3m0mv",
+      "paper_id": "XoYdD3m0mv",
+      "title": "Deep Linear Probe Generators for Weight Space Learning",
+      "authors": "Jonathan Kahana, Eliahu Horwitz, Imri Shuval, Yedid Hoshen",
+      "paper_url": "https://openreview.net/pdf?id=XoYdD3m0mv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_L8iZdgeKmI6",
+      "paper_id": "L8iZdgeKmI6",
+      "title": "Deja Vu: Continual Model Generalization for Unseen Domains",
+      "authors": "Chenxi Liu, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu",
+      "paper_url": "https://openreview.net/pdf/308a0282513449f22438eeb7ca60ec1b03b7f924.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_eGm22rqG93",
+      "paper_id": "eGm22rqG93",
+      "title": "DELTA: DEGRADATION-FREE FULLY TEST-TIME ADAPTATION",
+      "authors": "Bowen Zhao, Chen Chen, Shu-Tao Xia",
+      "paper_url": "https://openreview.net/pdf/aecdf7f8281e50fbbedf1b0bdb5bc5401421aa7b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_WAISmwsqDsb",
+      "paper_id": "WAISmwsqDsb",
+      "title": "DINO: A Conditional Energy-Based GAN for Domain Translation",
+      "authors": "Konstantinos Vougioukas, Stavros Petridis, Maja Pantic",
+      "paper_url": "https://openreview.net/pdf/1770fc1a0716d2fde0cefb49d59d540311331789.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_4WM4cy42B81",
+      "paper_id": "4WM4cy42B81",
+      "title": "Dirichlet-based Uncertainty Calibration for Active Domain Adaptation",
+      "authors": "Mixue Xie, Shuang Li, Rui Zhang, Chi Harold Liu",
+      "paper_url": "https://openreview.net/pdf/d263b9c4283973a09247e2e1effd05f8d9bd7652.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_p98WJxUC3Ca",
+      "paper_id": "p98WJxUC3Ca",
+      "title": "Discrepancy-Based Active Learning for Domain Adaptation",
+      "authors": "Antoine de Mathelin, François Deheeger, Mathilde MOUGEOT, Nicolas Vayatis",
+      "paper_url": "https://openreview.net/pdf/c414fd73c946f1f7e7d5cd305b3daff711d9c75b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_sSyytcewxe",
+      "paper_id": "sSyytcewxe",
+      "title": "Divide and not forget: Ensemble of  selectively trained experts  in Continual Learning",
+      "authors": "Grzegorz Rypeść, Sebastian Cygert, Valeriya Khan, Tomasz Trzcinski, Bartosz Michał Zieliński, Bartłomiej Twardowski",
+      "paper_url": "https://openreview.net/pdf?id=sSyytcewxe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_hVrXUps3LFA",
+      "paper_id": "hVrXUps3LFA",
+      "title": "Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors",
+      "authors": "Jianfei Yang, Xiangyu Peng, Kai Wang, Zheng Zhu, Jiashi Feng, Lihua Xie, Yang You",
+      "paper_url": "https://openreview.net/pdf/f6acdba3a448c8c49b38089c9fcca2175f862634.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_aOX3a9q3RVV",
+      "paper_id": "aOX3a9q3RVV",
+      "title": "Divisive Feature Normalization Improves Image Recognition Performance in AlexNet",
+      "authors": "Michelle Miller, SueYeon Chung, Kenneth D. Miller",
+      "paper_url": "https://openreview.net/pdf/452011d69839dd4fa39ba4bec882b24cb5bb2649.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_AwgtcUAhBq",
+      "paper_id": "AwgtcUAhBq",
+      "title": "Domain Adversarial Training: A Game Perspective",
+      "authors": "David Acuna, Marc T Law, Guojun Zhang, Sanja Fidler",
+      "paper_url": "https://openreview.net/pdf/e7f03a4c2a754cc0f8a114d7a24b3d00814adfcd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_7IG0wsTND7w",
+      "paper_id": "7IG0wsTND7w",
+      "title": "Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach",
+      "authors": "Minyoung Kim, Da Li, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf/606ab5f6ce734035bd7fb28ab57e8aca0216384d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_fk7RbGibe1",
+      "paper_id": "fk7RbGibe1",
+      "title": "Domain Generalization via Heckman-type Selection Models",
+      "authors": "Hyungu Kahng, Hyungrok Do, Judy Zhong",
+      "paper_url": "https://openreview.net/pdf/44f6a3958bfee5b8302b55dd30335b9c8be982eb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_6xHJ37MVxxp",
+      "paper_id": "6xHJ37MVxxp",
+      "title": "Domain Generalization with MixStyle",
+      "authors": "Kaiyang Zhou, Yongxin Yang, Yu Qiao, Tao Xiang",
+      "paper_url": "https://openreview.net/pdf/e3135e8b22333ad40de9d8f855c3fb4253a2090b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_pxStyaf2oJ5",
+      "paper_id": "pxStyaf2oJ5",
+      "title": "Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation",
+      "authors": "Zihao Xu, Guang-Yuan Hao, Hao He, Hao Wang",
+      "paper_url": "https://openreview.net/pdf/4340ecd2eb1d6cddf23d0257a4ab36cd01fba41e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_CJnceDksRd",
+      "paper_id": "CJnceDksRd",
+      "title": "DRL: Decomposed Representation Learning for Tabular Anomaly Detection",
+      "authors": "Hangting Ye, He Zhao, Wei Fan, Mingyuan Zhou, Dan dan Guo, Yi Chang",
+      "paper_url": "https://openreview.net/pdf?id=CJnceDksRd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jDsmB4o5S0",
+      "paper_id": "jDsmB4o5S0",
+      "title": "Dual Process Learning: Controlling Use of In-Context vs. In-Weights Strategies with Weight Forgetting",
+      "authors": "Suraj Anand, Michael A. Lepori, Jack Merullo, Ellie Pavlick",
+      "paper_url": "https://openreview.net/pdf?id=jDsmB4o5S0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_lWaz5a9lcFU",
+      "paper_id": "lWaz5a9lcFU",
+      "title": "EEC: Learning to Encode and Regenerate Images for Continual Learning",
+      "authors": "Ali Ayub, Alan Wagner",
+      "paper_url": "https://openreview.net/pdf/e0fae0a996116aba06f3a1e0ff97fd0078ca47d2.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_GhVS8_yPeEa",
+      "paper_id": "GhVS8_yPeEa",
+      "title": "Effect of scale on catastrophic forgetting in neural networks",
+      "authors": "Vinay Venkatesh Ramasesh, Aitor Lewkowycz, Ethan Dyer",
+      "paper_url": "https://openreview.net/pdf/54d452543db390a26979d51399ae9c6ed01f4de1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_EKV158tSfwv",
+      "paper_id": "EKV158tSfwv",
+      "title": "Efficient Continual Learning with Modular Networks and Task-Driven Priors",
+      "authors": "Tom Veniat, Ludovic Denoyer, MarcAurelio Ranzato",
+      "paper_url": "https://openreview.net/pdf/8c3f194bd890ab75d3046245b587fdf9c6393d9b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_QiJuMJl0QS",
+      "paper_id": "QiJuMJl0QS",
+      "title": "Efficient Heterogeneous Meta-Learning via Channel Shuffling Modulation",
+      "authors": "Minh Hoang, Carl Kingsford",
+      "paper_url": "https://openreview.net/pdf?id=QiJuMJl0QS",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_SZzQz8ikwg",
+      "paper_id": "SZzQz8ikwg",
+      "title": "Efficient local linearity regularization to overcome catastrophic overfitting",
+      "authors": "Elias Abad Rocamora, Fanghui Liu, Grigorios Chrysos, Pablo M. Olmos, Volkan Cevher",
+      "paper_url": "https://openreview.net/pdf?id=SZzQz8ikwg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Q5Sawm0nqo",
+      "paper_id": "Q5Sawm0nqo",
+      "title": "Efficient Source-Free Time-Series Adaptation via Parameter Subspace Disentanglement",
+      "authors": "Gaurav Patel, Christopher Michael Sandino, Behrooz Mahasseni, Ellen L. Zippi, Erdrin Azemi, Ali Moin, Juri Minxha",
+      "paper_url": "https://openreview.net/pdf?id=Q5Sawm0nqo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7D9X2cFnt1",
+      "paper_id": "7D9X2cFnt1",
+      "title": "Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning",
+      "authors": "Simone Magistri, Tomaso Trinci, Albin Soutif, Joost van de Weijer, Andrew D. Bagdanov",
+      "paper_url": "https://openreview.net/pdf?id=7D9X2cFnt1",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_3dnrKbeVatv",
+      "paper_id": "3dnrKbeVatv",
+      "title": "Energy-Based Test Sample Adaptation for Domain Generalization",
+      "authors": "Zehao Xiao, Xiantong Zhen, Shengcai Liao, Cees G. M. Snoek",
+      "paper_url": "https://openreview.net/pdf/e4bd83cbf4ad64afe2edb5356e4800dbfc07072a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_9w3iw8wDuE",
+      "paper_id": "9w3iw8wDuE",
+      "title": "Entropy is not Enough for Test-Time Adaptation: From the Perspective of Disentangled Factors",
+      "authors": "Jonghyun Lee, Dahuin Jung, Saehyung Lee, Junsung Park, Juhyeon Shin, Uiwon Hwang, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf?id=9w3iw8wDuE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_zlbci7019Z3",
+      "paper_id": "zlbci7019Z3",
+      "title": "Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning",
+      "authors": "Fahad Sarfraz, Elahe Arani, Bahram Zonooz",
+      "paper_url": "https://openreview.net/pdf/1fbbc169fd74408bb6e6db0a1a2363e7161ae239.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_z7p2V6KROOV",
+      "paper_id": "z7p2V6KROOV",
+      "title": "Extending the WILDS Benchmark for Unsupervised Adaptation",
+      "authors": "Shiori Sagawa, Pang Wei Koh, Tony Lee, Irena Gao, Sang Michael Xie, Kendrick Shen, Ananya Kumar, Weihua Hu, Michihiro Yasunaga, Henrik Marklund, Sara Beery, Etienne David, Ian Stavness, Wei Guo, Jure Leskovec, Kate Saenko, Tatsunori Hashimoto, Sergey Levine, Chelsea Finn, Percy Liang",
+      "paper_url": "https://openreview.net/pdf/16bc69d47c7ff67867bfc50009d6b9fc5043a00f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_f65RuQgVlp",
+      "paper_id": "f65RuQgVlp",
+      "title": "Federated Continual Learning Goes Online: Uncertainty-Aware Memory Management for Vision Tasks and Beyond",
+      "authors": "Giuseppe Serra, Florian Buettner",
+      "paper_url": "https://openreview.net/pdf?id=f65RuQgVlp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2ET561DyPe",
+      "paper_id": "2ET561DyPe",
+      "title": "Few-Class Arena: A Benchmark for Efficient Selection of Vision Models and Dataset Difficulty Measurement",
+      "authors": "Bryan Bo Cao, Lawrence O'Gorman, Michael Coss, Shubham Jain",
+      "paper_url": "https://openreview.net/pdf?id=2ET561DyPe",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_6kCiVaoQdx9",
+      "paper_id": "6kCiVaoQdx9",
+      "title": "Few-shot Learning via Dirichlet Tessellation Ensemble",
+      "authors": "Chunwei Ma, Ziyun Huang, Mingchen Gao, Jinhui Xu",
+      "paper_url": "https://openreview.net/pdf/f02d54e514e3af112f1ef58d64a80b6533b4d63f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_pW2Q2xLwIMD",
+      "paper_id": "pW2Q2xLwIMD",
+      "title": "Few-Shot Learning via Learning the Representation, Provably",
+      "authors": "Simon Shaolei Du, Wei Hu, Sham M. Kakade, Jason D. Lee, Qi Lei",
+      "paper_url": "https://openreview.net/pdf/d552a527585afe0600e439411a5e9152ce459182.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_ei3SY1_zYsE",
+      "paper_id": "ei3SY1_zYsE",
+      "title": "Fortuitous Forgetting in Connectionist Networks",
+      "authors": "Hattie Zhou, Ankit Vani, Hugo Larochelle, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/ca4d5fd0fac40867b797ca356f4056c7cb11fc6a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_GPTjnA57h_3",
+      "paper_id": "GPTjnA57h_3",
+      "title": "Free Lunch for Domain Adversarial Training: Environment Label Smoothing",
+      "authors": "YiFan Zhang, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan",
+      "paper_url": "https://openreview.net/pdf/a57a488c5037baaa9467aa0442529885253edeee.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_JWOiYxMG92s",
+      "paper_id": "JWOiYxMG92s",
+      "title": "Free Lunch for Few-shot Learning:  Distribution Calibration",
+      "authors": "Shuo Yang, Lu Liu, Min Xu",
+      "paper_url": "https://openreview.net/pdf/657c8cfa6bb8f5a10bf00d0e87e08b924e17fcf6.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21__IM-AfFhna9",
+      "paper_id": "_IM-AfFhna9",
+      "title": "Generalized Variational Continual Learning",
+      "authors": "Noel Loo, Siddharth Swaroop, Richard E Turner",
+      "paper_url": "https://openreview.net/pdf/75e7423995a4eb4d239591596556bd1ac05f5e63.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3z60EWfh1p",
+      "paper_id": "3z60EWfh1p",
+      "title": "Geometrically Aligned Transfer Encoder for Inductive Transfer in Regression Tasks",
+      "authors": "Sung Moon Ko, Sumin Lee, Dae-Woong Jeong, Woohyung Lim, Sehui Han",
+      "paper_url": "https://openreview.net/pdf?id=3z60EWfh1p",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_fPVRcJqspu",
+      "paper_id": "fPVRcJqspu",
+      "title": "GOGGLE: Generative Modelling for Tabular Data by Learning Relational Structure",
+      "authors": "Tennison Liu, Zhaozhi Qian, Jeroen Berrevoets, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/7589a804d2686c2acfc5aa8c679329619789df08.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_vDwBW49HmO",
+      "paper_id": "vDwBW49HmO",
+      "title": "Gradient Matching for Domain Generalization",
+      "authors": "Yuge Shi, Jeffrey Seely, Philip Torr, Siddharth N, Awni Hannun, Nicolas Usunier, Gabriel Synnaeve",
+      "paper_url": "https://openreview.net/pdf/8a8aa9b1acdc5b55622687f272cb96ad87fa97b8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_3AOj0RCNC2",
+      "paper_id": "3AOj0RCNC2",
+      "title": "Gradient Projection Memory for Continual Learning",
+      "authors": "Gobinda Saha, Isha Garg, Kaushik Roy",
+      "paper_url": "https://openreview.net/pdf/a65e5f689852fad25dc117881988232e0f95ed52.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_iTTZFKrlGV",
+      "paper_id": "iTTZFKrlGV",
+      "title": "Gradual Domain Adaptation via Gradient Flow",
+      "authors": "Zhan Zhuang, Yu Zhang, Ying Wei",
+      "paper_url": "https://openreview.net/pdf?id=iTTZFKrlGV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_HHSEKOnPvaO",
+      "paper_id": "HHSEKOnPvaO",
+      "title": "Graph-Based Continual Learning",
+      "authors": "Binh Tang, David S. Matteson",
+      "paper_url": "https://openreview.net/pdf/39a91d5348ba8489817ac3ee4a93637e12b23c4b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_wq0luyH3m4",
+      "paper_id": "wq0luyH3m4",
+      "title": "Hard-Meta-Dataset++: Towards Understanding Few-Shot Performance on Difficult Tasks",
+      "authors": "Samyadeep Basu, Megan Stanley, John F Bronskill, Soheil Feizi, Daniela Massiceti",
+      "paper_url": "https://openreview.net/pdf/677bd75f3d760e8f3557883a7a87346e49ab51fe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_i3RI65sR7N",
+      "paper_id": "i3RI65sR7N",
+      "title": "Hierarchical Variational Memory for Few-shot Learning Across Domains",
+      "authors": "Yingjun Du, Xiantong Zhen, Ling Shao, Cees G. M. Snoek",
+      "paper_url": "https://openreview.net/pdf/97127f112b9804e1962c3670a2de7a6c351ac591.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_6T8czSBWce",
+      "paper_id": "6T8czSBWce",
+      "title": "High-dimension Prototype is a Better Incremental Object Detection Learner",
+      "authors": "Yanjie Wang, Liqun Chen, Tianming Zhao, Tao Zhang, Guodong Wang, Luxin Yan, Sheng Zhong, Jiahuan Zhou, Xu Zou",
+      "paper_url": "https://openreview.net/pdf?id=6T8czSBWce",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_49h_IkpJtaE",
+      "paper_id": "49h_IkpJtaE",
+      "title": "How to Train Your MAML to Excel in Few-Shot Classification",
+      "authors": "Han-Jia Ye, Wei-Lun Chao",
+      "paper_url": "https://openreview.net/pdf/959d2177bd1cb26a51379f81a0acdd1335afe8e3.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_xzqLpqRzxLq",
+      "paper_id": "xzqLpqRzxLq",
+      "title": "IEPT: Instance-Level and Episode-Level Pretext Tasks for Few-Shot Learning",
+      "authors": "Manli Zhang, Jianhong Zhang, Zhiwu Lu, Tao Xiang, Mingyu Ding, Songfang Huang",
+      "paper_url": "https://openreview.net/pdf/a68102247933495b5b77811b3b5299cf97a108f4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_pA8Q5WiEMg",
+      "paper_id": "pA8Q5WiEMg",
+      "title": "Improved Regret Bounds for Non-Convex Online-Within-Online Meta Learning",
+      "authors": "Jiechao Guan, Hui Xiong",
+      "paper_url": "https://openreview.net/pdf?id=pA8Q5WiEMg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Dc4rXq3HIA",
+      "paper_id": "Dc4rXq3HIA",
+      "title": "Improving Domain Generalization with Domain Relations",
+      "authors": "Huaxiu Yao, Xinyu Yang, Xinyi Pan, Shengchao Liu, Pang Wei Koh, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf?id=Dc4rXq3HIA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Fk3eod9aaD",
+      "paper_id": "Fk3eod9aaD",
+      "title": "In Search of Forgotten Domain Generalization",
+      "authors": "Prasanna Mayilvahanan, Roland S. Zimmermann, Thaddäus Wiedemer, Evgenia Rusak, Attila Juhos, Matthias Bethge, Wieland Brendel",
+      "paper_url": "https://openreview.net/pdf?id=Fk3eod9aaD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_lQdXeXDoWtI",
+      "paper_id": "lQdXeXDoWtI",
+      "title": "In Search of Lost Domain Generalization",
+      "authors": "Ishaan Gulrajani, David Lopez-Paz",
+      "paper_url": "https://openreview.net/pdf/83e32f2664eddb15fdc2ac88f7bff07dd2682647.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_3SV-ZePhnZM",
+      "paper_id": "3SV-ZePhnZM",
+      "title": "Incremental few-shot learning via vector quantization in deep embedded space",
+      "authors": "Kuilin Chen, Chi-Guhn Lee",
+      "paper_url": "https://openreview.net/pdf/e34aea7744f0d7fa06719626e37f52420d1dc247.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_c5tbxWXU9-y",
+      "paper_id": "c5tbxWXU9-y",
+      "title": "Information-Theoretic Analysis of Unsupervised Domain Adaptation",
+      "authors": "Ziqiao Wang, Yongyi Mao",
+      "paper_url": "https://openreview.net/pdf/a95b76c0a74038a35b156f33bc0a432274fc4d96.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_IpctgL7khPp",
+      "paper_id": "IpctgL7khPp",
+      "title": "Information-theoretic Online Memory Selection for Continual Learning",
+      "authors": "Shengyang Sun, Daniele Calandriello, Huiyi Hu, Ang Li, Michalis Titsias",
+      "paper_url": "https://openreview.net/pdf/c23f5db3dfaa1687d370340809b6da378029c78e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_IMPA6MndSXU",
+      "paper_id": "IMPA6MndSXU",
+      "title": "Integrating Categorical Semantics into Unsupervised Domain Translation",
+      "authors": "Samuel Lavoie-Marchildon, Faruk Ahmed, Aaron Courville",
+      "paper_url": "https://openreview.net/pdf/63644971703ef2d045a2404b8db5e211dd90c275.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_YtntjusJV6",
+      "paper_id": "YtntjusJV6",
+      "title": "Interpretations of Domain Adaptations via Layer Variational Analysis",
+      "authors": "Huan-Hsin Tseng, Hsin-Yi Lin, Kuo-Hsuan Hung, Yu Tsao",
+      "paper_url": "https://openreview.net/pdf/8887f249acf345628ee7b7c06fe8b3c9b46fb676.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_C53FwQZigu",
+      "paper_id": "C53FwQZigu",
+      "title": "IPSeg: Image Posterior Mitigates Semantic Drift in Class-Incremental Segmentation",
+      "authors": "Xiao Yu, Yan Fang, Yunchao Wei, Yao Zhao",
+      "paper_url": "https://openreview.net/pdf?id=C53FwQZigu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_dL35lx-mTEs",
+      "paper_id": "dL35lx-mTEs",
+      "title": "Is Forgetting Less a Good Inductive Bias for Forward Transfer?",
+      "authors": "Jiefeng Chen, Timothy Nguyen, Dilan Gorur, Arslan Chaudhry",
+      "paper_url": "https://openreview.net/pdf/e98c841e4d915d736af993e7cece2a394298133a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_wCOJpXm0Me",
+      "paper_id": "wCOJpXm0Me",
+      "title": "Is Large-scale Pretraining the Secret to Good Domain Generalization?",
+      "authors": "Piotr Teterwak, Kuniaki Saito, Theodoros Tsiligkaridis, Bryan A. Plummer, Kate Saenko",
+      "paper_url": "https://openreview.net/pdf?id=wCOJpXm0Me",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_0JzqUlIVVDd",
+      "paper_id": "0JzqUlIVVDd",
+      "title": "KL Guided Domain Adaptation",
+      "authors": "A. Tuan Nguyen, Toan Tran, Yarin Gal, Philip Torr, Atilim Gunes Baydin",
+      "paper_url": "https://openreview.net/pdf/943a05167d50e4a4de4e6c043f7c7e6374502f72.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_cEygmQNOeI",
+      "paper_id": "cEygmQNOeI",
+      "title": "Language Models are Realistic Tabular Data Generators",
+      "authors": "Vadim Borisov, Kathrin Sessler, Tobias Leemann, Martin Pawelczyk, Gjergji Kasneci",
+      "paper_url": "https://openreview.net/pdf/93e938176cd4da2511c79883813c6bb7781f9804.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_8F6bws5JBy",
+      "paper_id": "8F6bws5JBy",
+      "title": "Language-Interfaced Tabular Oversampling via Progressive Imputation and Self-Authentication",
+      "authors": "June Yong Yang, Geondo Park, Joowon Kim, Hyeongwon Jang, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf?id=8F6bws5JBy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_mSGcDhQPwm",
+      "paper_id": "mSGcDhQPwm",
+      "title": "Last Iterate Convergence of Incremental Methods as a Model of Forgetting",
+      "authors": "Xufeng Cai, Jelena Diakonikolas",
+      "paper_url": "https://openreview.net/pdf?id=mSGcDhQPwm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Hcb2cgPbMg",
+      "paper_id": "Hcb2cgPbMg",
+      "title": "Learning Continually by Spectral Regularization",
+      "authors": "Alex Lewandowski, Michał Bortkiewicz, Saurabh Kumar, András György, Dale Schuurmans, Mateusz Ostaszewski, Marlos C. Machado",
+      "paper_url": "https://openreview.net/pdf?id=Hcb2cgPbMg",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_tFgdrQbbaa",
+      "paper_id": "tFgdrQbbaa",
+      "title": "Learning curves for continual learning in neural networks: Self-knowledge transfer and forgetting",
+      "authors": "Ryo Karakida, Shotaro Akaho",
+      "paper_url": "https://openreview.net/pdf/496372cd3a258b357f5e999076aa2f2a991ca5c8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_uxxFrDwrE7Y",
+      "paper_id": "uxxFrDwrE7Y",
+      "title": "Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System",
+      "authors": "Elahe Arani, Fahad Sarfraz, Bahram Zonooz",
+      "paper_url": "https://openreview.net/pdf/03691b7344e6968cc95744a627d25e3b5e60ca3e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_WH6u2SvlLp4",
+      "paper_id": "WH6u2SvlLp4",
+      "title": "Learning Prototype-oriented Set Representations for Meta-Learning",
+      "authors": "Dan dan Guo, Long Tian, Minghe Zhang, Mingyuan Zhou, Hongyuan Zha",
+      "paper_url": "https://openreview.net/pdf/68183379fa9bdd81c24c017f6e6ab5b9720d1c15.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_CIaQKbTBwtU",
+      "paper_id": "CIaQKbTBwtU",
+      "title": "Learning to Generalize across Domains on Single Test Samples",
+      "authors": "Zehao Xiao, Xiantong Zhen, Ling Shao, Cees G. M. Snoek",
+      "paper_url": "https://openreview.net/pdf/4fcc67594340f12c1beb7e4f1ce64c7be6f70c0a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_pWVASryOyFw",
+      "paper_id": "pWVASryOyFw",
+      "title": "Learning Uncertainty for Unknown Domains with Zero-Target-Assumption",
+      "authors": "Yu Yu, Hassan Sajjad, Jia Xu",
+      "paper_url": "https://openreview.net/pdf/51a6f57de280cd08d584ebf7d65e42f4a9832852.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_gfPUokHsW-",
+      "paper_id": "gfPUokHsW-",
+      "title": "Learning without Prejudices: Continual Unbiased Learning via Benign and Malignant Forgetting",
+      "authors": "Myeongho Jeon, Hyoje Lee, Yedarm Seong, Myungjoo Kang",
+      "paper_url": "https://openreview.net/pdf/ab51561ee336a34e1760b429c76c558f699ad838.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_Fmg_fQYUejf",
+      "paper_id": "Fmg_fQYUejf",
+      "title": "Linear Mode Connectivity in Multitask and Continual Learning",
+      "authors": "Seyed Iman Mirzadeh, Mehrdad Farajtabar, Dilan Gorur, Razvan Pascanu, Hassan Ghasemzadeh",
+      "paper_url": "https://openreview.net/pdf/258e0f0ad7124932b50cc607ded20cd020bfccf8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_anzIzGZuLi",
+      "paper_id": "anzIzGZuLi",
+      "title": "Making Pre-trained Language Models Great on Tabular Prediction",
+      "authors": "Jiahuan Yan, Bo Zheng, Hongxia Xu, Yiheng Zhu, Danny Chen, Jimeng Sun, Jian Wu, Jintai Chen",
+      "paper_url": "https://openreview.net/pdf?id=anzIzGZuLi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_LDAwu17QaJz",
+      "paper_id": "LDAwu17QaJz",
+      "title": "MAML is a Noisy Contrastive Learner in Classification",
+      "authors": "Chia Hsiang Kao, Wei-Chen Chiu, Pin-Yu Chen",
+      "paper_url": "https://openreview.net/pdf/0139eec2530d6f2ebd6cb972ba3c98769ed552df.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_lNZJyEDxy4",
+      "paper_id": "lNZJyEDxy4",
+      "title": "MCM: Masked Cell Modeling for Anomaly Detection in Tabular Data",
+      "authors": "Jiaxin Yin, Yuanyuan Qiao, Zitang Zhou, Xiangchao Wang, Jie Yang",
+      "paper_url": "https://openreview.net/pdf?id=lNZJyEDxy4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_N92hjSf5NNh",
+      "paper_id": "N92hjSf5NNh",
+      "title": "MECTA: Memory-Economic Continual Test-Time Model Adaptation",
+      "authors": "Junyuan Hong, Lingjuan Lyu, Jiayu Zhou, Michael Spranger",
+      "paper_url": "https://openreview.net/pdf/251a7a3699b3f24e5039dd2c53f82accdf4afab6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_D3PcGLdMx0",
+      "paper_id": "D3PcGLdMx0",
+      "title": "MELR: Meta-Learning via Modeling Episode-Level Relationships for Few-Shot Learning",
+      "authors": "Nanyi Fei, Zhiwu Lu, Tao Xiang, Songfang Huang",
+      "paper_url": "https://openreview.net/pdf/b13008d5731f5acac5931a7669386147ba3088da.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_a7H7OucbWaU",
+      "paper_id": "a7H7OucbWaU",
+      "title": "Memory Replay with Data Compression for Continual Learning",
+      "authors": "Liyuan Wang, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing HONG, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu",
+      "paper_url": "https://openreview.net/pdf/f05469fd5cb6748c9852f8b46453a984b34fe0f6.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_sGVmr7KHfn",
+      "paper_id": "sGVmr7KHfn",
+      "title": "Memory-Assisted Sub-Prototype Mining for Universal Domain Adaptation",
+      "authors": "Yuxiang Lai, Yi Zhou, Xinghong Liu, Tao Zhou",
+      "paper_url": "https://openreview.net/pdf?id=sGVmr7KHfn",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_TpD2aG1h0D",
+      "paper_id": "TpD2aG1h0D",
+      "title": "Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction",
+      "authors": "Yichen Wu, Long-Kai Huang, Renzhen Wang, Deyu Meng, Ying Wei",
+      "paper_url": "https://openreview.net/pdf?id=TpD2aG1h0D",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_MEpKGLsY8f",
+      "paper_id": "MEpKGLsY8f",
+      "title": "Meta Discovery: Learning to Discover Novel Classes given Very Limited Data",
+      "authors": "Haoang Chi, Feng Liu, Wenjing Yang, Long Lan, Tongliang Liu, Bo Han, Gang Niu, Mingyuan Zhou, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf/ce36270eda861ce89f8998343017db1dff96ed19.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_GQd7mXSPua",
+      "paper_id": "GQd7mXSPua",
+      "title": "Meta Learning Low Rank Covariance Factors for Energy Based Deterministic Uncertainty",
+      "authors": "Jeffrey Ryan Willette, Hae Beom Lee, Juho Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/62e7fc9d01f6386911b5a5f46df746fe07a8c819.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_wS0UFjsNYjn",
+      "paper_id": "wS0UFjsNYjn",
+      "title": "Meta-GMVAE: Mixture of Gaussian VAE for Unsupervised Meta-Learning",
+      "authors": "Dong Bok Lee, Dongchan Min, Seanie Lee, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/7b58adedb02a73d26b32a949a08c9238409022a5.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_b3Cu426njo",
+      "paper_id": "b3Cu426njo",
+      "title": "Meta-Learning Priors Using Unrolled Proximal Networks",
+      "authors": "Yilang Zhang, Georgios B. Giannakis",
+      "paper_url": "https://openreview.net/pdf?id=b3Cu426njo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_ajXWF7bVR8d",
+      "paper_id": "ajXWF7bVR8d",
+      "title": "Meta-Learning with Fewer Tasks through Task Interpolation",
+      "authors": "Huaxiu Yao, Linjun Zhang, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf/ebbfc5841da414394c96beeba92500546061461a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_60j5LygnmD",
+      "paper_id": "60j5LygnmD",
+      "title": "Meta-learning with negative learning rates",
+      "authors": "Alberto Bernacchia",
+      "paper_url": "https://openreview.net/pdf/af54b731e47f23c1fd6d58dd050db1ab79d41b33.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Ti87Pv5Oc8",
+      "paper_id": "Ti87Pv5Oc8",
+      "title": "Meta-Learning with Neural Tangent Kernels",
+      "authors": "Yufan Zhou, Zhenyi Wang, Jiayi Xian, Changyou Chen, Jinhui Xu",
+      "paper_url": "https://openreview.net/pdf/07382947621a75697286cffb9d20483d2fd8337e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_DiWRG9JTWZ",
+      "paper_id": "DiWRG9JTWZ",
+      "title": "MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation",
+      "authors": "Min Zhang, Haoxuan Li, Fei Wu, Kun Kuang",
+      "paper_url": "https://openreview.net/pdf?id=DiWRG9JTWZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_vqGi8Kp0wM",
+      "paper_id": "vqGi8Kp0wM",
+      "title": "Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks",
+      "authors": "Peihao Zhu, Rameen Abdal, John Femiani, Peter Wonka",
+      "paper_url": "https://openreview.net/pdf/2f6e593f100fa850ecde50e059aa6b2e73a3f6fe.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ANBuEJesgx",
+      "paper_id": "ANBuEJesgx",
+      "title": "MIRACLE 3D: Memory-efficient Integrated Robust Approach for Continual Learning on 3D Point Clouds via Shape Model Construction",
+      "authors": "Hossein Resani, Behrooz Nasihatkon",
+      "paper_url": "https://openreview.net/pdf?id=ANBuEJesgx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_h1XoHOd19I",
+      "paper_id": "h1XoHOd19I",
+      "title": "Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment",
+      "authors": "Jinhao Jiang, Junyi Li, Xin Zhao, Yang Song, Tao Zhang, Ji-Rong Wen",
+      "paper_url": "https://openreview.net/pdf?id=h1XoHOd19I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_WfvgGBcgbE7",
+      "paper_id": "WfvgGBcgbE7",
+      "title": "Model Zoo: A Growing Brain That Learns Continually",
+      "authors": "Rahul Ramesh, Pratik Chaudhari",
+      "paper_url": "https://openreview.net/pdf/19902f663252dc5dfc680fe78ec3d27c0a55e73e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_Y6aHdDNQYD",
+      "paper_id": "Y6aHdDNQYD",
+      "title": "MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection",
+      "authors": "Zhuoxiao Chen, Junjie Meng, Mahsa Baktashmotlagh, Yonggang Zhang, Zi Huang, Yadan Luo",
+      "paper_url": "https://openreview.net/pdf?id=Y6aHdDNQYD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_75PhjtbBdr",
+      "paper_id": "75PhjtbBdr",
+      "title": "Multi-Label Test-Time Adaptation with Bound Entropy Minimization",
+      "authors": "Xiangyu Wu, Feng Yu, Yang Yang, Qing-Guo Chen, Jianfeng Lu",
+      "paper_url": "https://openreview.net/pdf?id=75PhjtbBdr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_bqoHdVMIbt",
+      "paper_id": "bqoHdVMIbt",
+      "title": "Multimodal Unsupervised Domain Generalization by Retrieving Across the Modality Gap",
+      "authors": "Christopher Liao, Christian So, Theodoros Tsiligkaridis, Brian Kulis",
+      "paper_url": "https://openreview.net/pdf?id=bqoHdVMIbt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_73WTGs96kho",
+      "paper_id": "73WTGs96kho",
+      "title": "Net-DNF: Effective Deep Modeling of Tabular Data",
+      "authors": "Liran Katzir, Gal Elidan, Ran El-Yaniv",
+      "paper_url": "https://openreview.net/pdf/0faa3d246b873caa0ff0a42200c685558260733c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_y5W8tpojhtJ",
+      "paper_id": "y5W8tpojhtJ",
+      "title": "Neural Collapse Inspired Feature-Classifier Alignment for Few-Shot Class-Incremental Learning",
+      "authors": "Yibo Yang, Haobo Yuan, Xiangtai Li, Zhouchen Lin, Philip Torr, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf/0ffbc09764bcd3fed340d49d2404429bae5277f5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_T7YV5UZKBc",
+      "paper_id": "T7YV5UZKBc",
+      "title": "Neural Fine-Tuning Search for Few-Shot Learning",
+      "authors": "Panagiotis Eustratiadis, Łukasz Dudziak, Da Li, Timothy Hospedales",
+      "paper_url": "https://openreview.net/pdf?id=T7YV5UZKBc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nc0XGK40dn",
+      "paper_id": "nc0XGK40dn",
+      "title": "Never Forget the Basics: In-distribution Knowledge Retention for Continual Test-time Adaptation in Human Motion Prediction",
+      "authors": "Qiongjie Cui, Na Zhao",
+      "paper_url": "https://openreview.net/pdf?id=nc0XGK40dn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_fxC7kJYwA_a",
+      "paper_id": "fxC7kJYwA_a",
+      "title": "New Insights for the Stability-Plasticity Dilemma in Online Continual Learning",
+      "authors": "Dahuin Jung, Dongjin Lee, Sunwon Hong, Hyemi Jang, Ho Bae, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf/3b6a297e3a6c2f568ec5b521b172a207403e9f93.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_N8MaByOzUfb",
+      "paper_id": "N8MaByOzUfb",
+      "title": "New Insights on Reducing Abrupt Representation Change in Online Continual Learning",
+      "authors": "Lucas Caccia, Rahaf Aljundi, Nader Asadi, Tinne Tuytelaars, Joelle Pineau, Eugene Belilovsky",
+      "paper_url": "https://openreview.net/pdf/83b22fca57bfe89e11778c687ac0a3b7bb503c15.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_o81ZyBCojoA",
+      "paper_id": "o81ZyBCojoA",
+      "title": "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning",
+      "authors": "Ren Wang, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Chuang Gan, Meng Wang",
+      "paper_url": "https://openreview.net/pdf/c29f970186b2b2658cd52eea7aac2b5266c649f4.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_N0ETIi580T",
+      "paper_id": "N0ETIi580T",
+      "title": "On the Adversarial Vulnerability of Label-Free Test-Time Adaptation",
+      "authors": "Shahriar Rifat, Jonathan Ashdown, Michael J. De Lucia, Ananthram Swami, Francesco Restuccia",
+      "paper_url": "https://openreview.net/pdf?id=N0ETIi580T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_DNRADop4ksB",
+      "paper_id": "DNRADop4ksB",
+      "title": "On the Importance of Firth Bias Reduction in Few-Shot Classification",
+      "authors": "Saba Ghaffari, Ehsan Saleh, David Forsyth, Yu-Xiong Wang",
+      "paper_url": "https://openreview.net/pdf/fafc00da00fec3e0c8db049a4e2e14a588fa4aa7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_z57WK5lGeHd",
+      "paper_id": "z57WK5lGeHd",
+      "title": "On the Soft-Subnetwork for Few-Shot Class Incremental Learning",
+      "authors": "Haeyong Kang, Jaehong Yoon, Sultan Rizky Hikmawan Madjid, Sung Ju Hwang, Chang D. Yoo",
+      "paper_url": "https://openreview.net/pdf/917067cad3106d4ad6406f9730ecb51a250db36e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_18XzeuYZh_",
+      "paper_id": "18XzeuYZh_",
+      "title": "Online Bias Correction for Task-Free Continual Learning",
+      "authors": "Aristotelis Chrysakis, Marie-Francine Moens",
+      "paper_url": "https://openreview.net/pdf/d93cf42c88023cfea940ad6527e02004c76890e0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_qco4ekz2Epm",
+      "paper_id": "qco4ekz2Epm",
+      "title": "Online Boundary-Free Continual Learning by Scheduled Data Prior",
+      "authors": "Hyunseo Koh, Minhyuk Seo, Jihwan Bang, Hwanjun Song, Deokki Hong, Seulki Park, Jung-Woo Ha, Jonghyun Choi",
+      "paper_url": "https://openreview.net/pdf/f2f68e7b9360596d1b1b4e3cef67f6b556287653.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_nrGGfMbY_qK",
+      "paper_id": "nrGGfMbY_qK",
+      "title": "Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference",
+      "authors": "Hyunseo Koh, Dahyun Kim, Jung-Woo Ha, Jonghyun Choi",
+      "paper_url": "https://openreview.net/pdf/ee1c732abb45197cf11bd542a9df4b33a403823f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_f9D-5WNG4Nv",
+      "paper_id": "f9D-5WNG4Nv",
+      "title": "Online Coreset Selection for Rehearsal-based Continual Learning",
+      "authors": "Jaehong Yoon, Divyam Madaan, Eunho Yang, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/2e384d1d48f24a63d604505e79eb70f45ecbfe91.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_rhhQjGj09A",
+      "paper_id": "rhhQjGj09A",
+      "title": "Optimal Protocols for Continual Learning via Statistical Physics and Control Theory",
+      "authors": "Francesco Mori, Stefano Sarao Mannelli, Francesca Mignacco",
+      "paper_url": "https://openreview.net/pdf?id=rhhQjGj09A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Vf6WcUDnY7c",
+      "paper_id": "Vf6WcUDnY7c",
+      "title": "Optimizing Spca-based Continual Learning: A Theoretical Approach",
+      "authors": "Chunchun Yang, Malik Tiomoko, Zengfu Wang",
+      "paper_url": "https://openreview.net/pdf/a20ec8899b62b37efc84fd55afa5fc1c384cbb3a.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_FbuyDzZTPt",
+      "paper_id": "FbuyDzZTPt",
+      "title": "OVOR: OnePrompt with Virtual Outlier Regularization for Rehearsal-Free Class-Incremental Learning",
+      "authors": "Wei-Cheng Huang, Chun-Fu Chen, Hsiang Hsu",
+      "paper_url": "https://openreview.net/pdf?id=FbuyDzZTPt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_jpq0qHggw3t",
+      "paper_id": "jpq0qHggw3t",
+      "title": "Partial Label Unsupervised Domain Adaptation with Class-Prototype Alignment",
+      "authors": "Yan Yan, Yuhong Guo",
+      "paper_url": "https://openreview.net/pdf/dd2d4c58a30acac15a00d195cf88a31841339611.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_CgCmwcfgEdH",
+      "paper_id": "CgCmwcfgEdH",
+      "title": "PGrad: Learning Principal Gradients For Domain Generalization",
+      "authors": "Zhe Wang, Jake Grigsby, Yanjun Qi",
+      "paper_url": "https://openreview.net/pdf/3624aed42e1bd899a25cf9a4c59dd981a3281799.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_DJZDgMOLXQ",
+      "paper_id": "DJZDgMOLXQ",
+      "title": "Prediction Error-based Classification for Class-Incremental Learning",
+      "authors": "Michał Zając, Tinne Tuytelaars, Gido M van de Ven",
+      "paper_url": "https://openreview.net/pdf?id=DJZDgMOLXQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_x5LvBK43wg",
+      "paper_id": "x5LvBK43wg",
+      "title": "PROGRAM: PROtotype GRAph Model based Pseudo-Label Learning for Test-Time Adaptation",
+      "authors": "Haopeng Sun, Lumin Xu, Sheng Jin, Ping Luo, Chen Qian, Wentao Liu",
+      "paper_url": "https://openreview.net/pdf?id=x5LvBK43wg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_H7M_5K5qKJV",
+      "paper_id": "H7M_5K5qKJV",
+      "title": "Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer",
+      "authors": "Ronghang Zhu, Ronghang Zhu, Xiang Yu, Sheng Li",
+      "paper_url": "https://openreview.net/pdf/9e54132af1c66891c78ab803b81ba0fbbccdfc8b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_zJXg_Wmob03",
+      "paper_id": "zJXg_Wmob03",
+      "title": "Progressive Voronoi Diagram Subdivision Enables Accurate Data-free Class-Incremental Learning",
+      "authors": "Chunwei Ma, Zhanghexuan Ji, Ziyun Huang, Yan Shen, Mingchen Gao, Jinhui Xu",
+      "paper_url": "https://openreview.net/pdf/fa71e6b29715caf412bd9f071aea37172a746fc3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_f6CBQYxXvr",
+      "paper_id": "f6CBQYxXvr",
+      "title": "Project and Probe: Sample-Efficient Adaptation by Interpolating Orthogonal Features",
+      "authors": "Annie S Chen, Yoonho Lee, Amrith Setlur, Sergey Levine, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf?id=f6CBQYxXvr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_EH2O3h7sBI",
+      "paper_id": "EH2O3h7sBI",
+      "title": "Prompt Gradient Projection for Continual Learning",
+      "authors": "Jingyang Qiao, zhizhong zhang, Xin Tan, Chengwei Chen, Yanyun Qu, Yong Peng, Yuan Xie",
+      "paper_url": "https://openreview.net/pdf?id=EH2O3h7sBI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_bRqaHn3J5I",
+      "paper_id": "bRqaHn3J5I",
+      "title": "Prototype antithesis for biological few-shot class-incremental learning",
+      "authors": "Binghao Liu, Han Yang, Fang Wan, Fei Gu",
+      "paper_url": "https://openreview.net/pdf?id=bRqaHn3J5I",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_gRCCdgpVZf",
+      "paper_id": "gRCCdgpVZf",
+      "title": "Provable Adaptation across Multiway Domains via Representation Learning",
+      "authors": "Zhili Feng, Shaobo Han, Simon Shaolei Du",
+      "paper_url": "https://openreview.net/pdf/097cce8a39240bc2a614483e1cb4e0314237f10a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_FIj9IEPCKr",
+      "paper_id": "FIj9IEPCKr",
+      "title": "Proxy Denoising for Source-Free Domain Adaptation",
+      "authors": "Song Tang, Wenxin Su, Yan Gan, Mao Ye, Jianwei Dr. Zhang, Xiatian Zhu",
+      "paper_url": "https://openreview.net/pdf?id=FIj9IEPCKr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_J3H8Az3YlB",
+      "paper_id": "J3H8Az3YlB",
+      "title": "RECAST: Reparameterized, Compact weight Adaptation for Sequential Tasks",
+      "authors": "Nazia Tasnim, Bryan A. Plummer",
+      "paper_url": "https://openreview.net/pdf?id=J3H8Az3YlB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_tHgJoMfy6nI",
+      "paper_id": "tHgJoMfy6nI",
+      "title": "Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting",
+      "authors": "Sayna Ebrahimi, Suzanne Petryk, Akash Gokul, William Gan, Joseph E. Gonzalez, Marcus Rohrbach, trevor darrell",
+      "paper_url": "https://openreview.net/pdf/c9a83cab23e5aa3aa692ee2b8ff385ac2cd2da0b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_9p2ekP904Rs",
+      "paper_id": "9p2ekP904Rs",
+      "title": "Representation Learning via Invariant Causal Mechanisms",
+      "authors": "Jovana Mitrovic, Brian McWilliams, Jacob C Walker, Lars Holger Buesing, Charles Blundell",
+      "paper_url": "https://openreview.net/pdf/34eb2506b5a0b489bced58ab4bb038ff7356ade7.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_9Hrka5PA7LW",
+      "paper_id": "9Hrka5PA7LW",
+      "title": "Representational Continuity for Unsupervised Continual Learning",
+      "authors": "Divyam Madaan, Jaehong Yoon, Yuanchun Li, Yunxin Liu, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/947f2c6dc3cd63a83d402bf9cbaddf42e362709e.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_qkLMTphG5-h",
+      "paper_id": "qkLMTphG5-h",
+      "title": "Repurposing Pretrained Models for Robust Out-of-domain Few-Shot Learning",
+      "authors": "Namyeong Kwon, Hwidong Na, Gabriel Huang, Simon Lacoste-Julien",
+      "paper_url": "https://openreview.net/pdf/d7cdb4aa01e48fb3d0a82cabe99b8fe0b1c57f47.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_tXc-riXhmx",
+      "paper_id": "tXc-riXhmx",
+      "title": "Revisit Finetuning strategy for Few-Shot Learning to Transfer the Emdeddings",
+      "authors": "Heng Wang, Tan Yue, Xiang Ye, Zihang He, Bohan Li, Yong Li",
+      "paper_url": "https://openreview.net/pdf/b382c59b1c6211dd6e1fbea2766b109e56e8f766.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_JytL2MrlLT",
+      "paper_id": "JytL2MrlLT",
+      "title": "Revisiting Nearest Neighbor for Tabular Data: A Deep Tabular Baseline Two Decades Later",
+      "authors": "Han-Jia Ye, Huai-Hong Yin, De-Chuan Zhan, Wei-Lun Chao",
+      "paper_url": "https://openreview.net/pdf?id=JytL2MrlLT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_nx9Z5Kva96",
+      "paper_id": "nx9Z5Kva96",
+      "title": "Revisiting Source-Free Domain Adaptation: a New Perspective via Uncertainty Control",
+      "authors": "Gezheng Xu, Hui Guo, Li Yi, Charles Ling, Boyu Wang, Grace Yi",
+      "paper_url": "https://openreview.net/pdf?id=nx9Z5Kva96",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_5U1rlpX68A",
+      "paper_id": "5U1rlpX68A",
+      "title": "SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning",
+      "authors": "Yichen Wu, Hongming Piao, Long-Kai Huang, Renzhen Wang, Wanhua Li, Hanspeter Pfister, Deyu Meng, Kede Ma, Ying Wei",
+      "paper_url": "https://openreview.net/pdf?id=5U1rlpX68A",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3Z2flzXzBY",
+      "paper_id": "3Z2flzXzBY",
+      "title": "Selective Label Enhancement Learning for Test-Time Adaptation",
+      "authors": "Yihao Hu, Congyu Qiao, Xin Geng, Ning Xu",
+      "paper_url": "https://openreview.net/pdf?id=3Z2flzXzBY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_G82uQztzxl",
+      "paper_id": "G82uQztzxl",
+      "title": "Self-Normalized Resets for Plasticity in Continual Learning",
+      "authors": "Vivek Farias, Adam Daniel Jozefiak",
+      "paper_url": "https://openreview.net/pdf?id=G82uQztzxl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kIAx30hYi_p",
+      "paper_id": "kIAx30hYi_p",
+      "title": "Self-Supervised Set Representation Learning for Unsupervised Meta-Learning",
+      "authors": "Dong Bok Lee, Seanie Lee, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha, Sung Ju Hwang",
+      "paper_url": "https://openreview.net/pdf/9ce55edaecb2d3fc88d5f57116eae4648e79ecf4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_O3Y56aqpChA",
+      "paper_id": "O3Y56aqpChA",
+      "title": "Self-training For Few-shot Transfer Across Extreme Task Differences",
+      "authors": "Cheng Perng Phoo, Bharath Hariharan",
+      "paper_url": "https://openreview.net/pdf/1b36075cafa13e37ec6b9a3796f921d4d587ac0a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_WwwJfkGq0G",
+      "paper_id": "WwwJfkGq0G",
+      "title": "Semantic Aware Representation Learning for Lifelong Learning",
+      "authors": "Fahad Sarfraz, Elahe Arani, Bahram Zonooz",
+      "paper_url": "https://openreview.net/pdf?id=WwwJfkGq0G",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kUCgHbmO11",
+      "paper_id": "kUCgHbmO11",
+      "title": "SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation",
+      "authors": "Uiwon Hwang, Jonghyun Lee, Juhyeon Shin, Sungroh Yoon",
+      "paper_url": "https://openreview.net/pdf?id=kUCgHbmO11",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_BqrPeZ_e5P",
+      "paper_id": "BqrPeZ_e5P",
+      "title": "SIMPLE: Specialized Model-Sample Matching for Domain Generalization",
+      "authors": "Ziyue Li, Kan Ren, XINYANG JIANG, Yifei Shen, Haipeng Zhang, Dongsheng Li",
+      "paper_url": "https://openreview.net/pdf/6b566de37f3281e3a1bec3d36af62f11b72f4fc5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_rObkvzJxTG",
+      "paper_id": "rObkvzJxTG",
+      "title": "Smoothing the Shift: Towards Stable Test-Time Adaptation under Complex Multimodal Noises",
+      "authors": "Zirun Guo, Tao Jin",
+      "paper_url": "https://openreview.net/pdf?id=rObkvzJxTG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_1JDiK_TbV4S",
+      "paper_id": "1JDiK_TbV4S",
+      "title": "Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration",
+      "authors": "Cian Eastwood, Ian Mason, Chris Williams, Bernhard Schölkopf",
+      "paper_url": "https://openreview.net/pdf/aeb9d0c4c2be949d33ea83ddad8547e536405144.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_JknGeelZJpHP",
+      "paper_id": "JknGeelZJpHP",
+      "title": "Sparse Distributed Memory is a Continual Learner",
+      "authors": "Trenton Bricken, Xander Davies, Deepak Singh, Dmitry Krotov, Gabriel Kreiman",
+      "paper_url": "https://openreview.net/pdf/56ddb3d15021d5342d872d0058e6754318b2a8cf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_6N5OM5Duuj",
+      "paper_id": "6N5OM5Duuj",
+      "title": "STAR: Stability-Inducing Weight Perturbation for Continual Learning",
+      "authors": "Masih Eskandar, Tooba Imtiaz, Davin Hill, Zifeng Wang, Jennifer Dy",
+      "paper_url": "https://openreview.net/pdf?id=6N5OM5Duuj",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_1mNssCWt_v",
+      "paper_id": "1mNssCWt_v",
+      "title": "STaSy: Score-based Tabular data Synthesis",
+      "authors": "Jayoung Kim, Chaejeong Lee, Noseong Park",
+      "paper_url": "https://openreview.net/pdf/7cc08c44de490f3e79794b5827aa36b84f99c4c3.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23__xlsjehDvlY",
+      "paper_id": "_xlsjehDvlY",
+      "title": "STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables",
+      "authors": "Jaehyun Nam, Jihoon Tack, Kyungmin Lee, Hankook Lee, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/119c2e47ecfab89ce208c770994cdb25ae1c39c8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_boJy41J-tnQ",
+      "paper_id": "boJy41J-tnQ",
+      "title": "Subspace Regularizers for Few-Shot Class Incremental Learning",
+      "authors": "Afra Feyza Akyürek, Ekin Akyürek, Derry Wijaya, Jacob Andreas",
+      "paper_url": "https://openreview.net/pdf/23bc15dae0714cd2d58e51d9c64892ca38433f7d.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_APuPRxjHvZ",
+      "paper_id": "APuPRxjHvZ",
+      "title": "Surgical Fine-Tuning Improves Adaptation to Distribution Shifts",
+      "authors": "Yoonho Lee, Annie S Chen, Fahim Tajwar, Ananya Kumar, Huaxiu Yao, Percy Liang, Chelsea Finn",
+      "paper_url": "https://openreview.net/pdf/8a90aaabfc83b6bbb06e9e18b8e9657a7615415d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_H-iABMvzIc",
+      "paper_id": "H-iABMvzIc",
+      "title": "Switch to Generalize: Domain-Switch Learning for Cross-Domain Few-Shot Classification",
+      "authors": "Zhengdong Hu, Yifan Sun, Yi Yang",
+      "paper_url": "https://openreview.net/pdf/d34f743c2c676ac34213466790c222f7aa5a1b28.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_gx3LMRB15C",
+      "paper_id": "gx3LMRB15C",
+      "title": "T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data",
+      "authors": "Hugo Thimonier, José Lucas De Melo Costa, Fabrice Popineau, Arpad Rimmel, Bich-Liên DOAN",
+      "paper_url": "https://openreview.net/pdf?id=gx3LMRB15C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_OgbtSLESnI",
+      "paper_id": "OgbtSLESnI",
+      "title": "TabCaps: A Capsule Neural Network for Tabular Data Classification with BoW Routing",
+      "authors": "Jintai Chen, KuanLun Liao, Yanwen Fang, Danny Chen, Jian Wu",
+      "paper_url": "https://openreview.net/pdf/d3467a186dcd15df473440f6c24fe4d2d8f569c0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_swvURjrt8z",
+      "paper_id": "swvURjrt8z",
+      "title": "TabDiff: a Mixed-type Diffusion Model for Tabular Data Generation",
+      "authors": "Juntong Shi, Minkai Xu, Harper Hua, Hengrui Zhang, Stefano Ermon, Jure Leskovec",
+      "paper_url": "https://openreview.net/pdf?id=swvURjrt8z",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Sd4wYYOhmY",
+      "paper_id": "Sd4wYYOhmY",
+      "title": "TabM: Advancing tabular deep learning with parameter-efficient ensembling",
+      "authors": "Yury Gorishniy, Akim Kotelnikov, Artem Babenko",
+      "paper_url": "https://openreview.net/pdf?id=Sd4wYYOhmY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_cp5PvcI6w8_",
+      "paper_id": "cp5PvcI6w8_",
+      "title": "TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second",
+      "authors": "Noah Hollmann, Samuel Müller, Katharina Eggensperger, Frank Hutter",
+      "paper_url": "https://openreview.net/pdf/a14bada70718d8e2f05879f7f5dd162a0adbe28c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_rhgIgTSSxW",
+      "paper_id": "rhgIgTSSxW",
+      "title": "TabR: Tabular Deep Learning Meets Nearest Neighbors",
+      "authors": "Yury Gorishniy, Ivan Rubachev, Nikolay Kartashev, Daniil Shlenskii, Akim Kotelnikov, Artem Babenko",
+      "paper_url": "https://openreview.net/pdf?id=rhgIgTSSxW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_L14sqcrUC3",
+      "paper_id": "L14sqcrUC3",
+      "title": "TabReD: Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks",
+      "authors": "Ivan Rubachev, Nikolay Kartashev, Yury Gorishniy, Artem Babenko",
+      "paper_url": "https://openreview.net/pdf?id=L14sqcrUC3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_n6H86gW8u0d",
+      "paper_id": "n6H86gW8u0d",
+      "title": "TANGOS: Regularizing Tabular Neural Networks through Gradient Orthogonalization and Specialization",
+      "authors": "Alan Jeffares, Tennison Liu, Jonathan Crabbé, Fergus Imrie, Mihaela van der Schaar",
+      "paper_url": "https://openreview.net/pdf/5f93d8d5c3151fe345bdad2447b2f741e0a0f567.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_u2GZOiUTbt",
+      "paper_id": "u2GZOiUTbt",
+      "title": "Task Affinity with Maximum Bipartite Matching in Few-Shot Learning",
+      "authors": "Cat Phuoc Le, Juncheng Dong, Mohammadreza Soltani, Vahid Tarokh",
+      "paper_url": "https://openreview.net/pdf/9f6c1ee6225b1fcb5afc57472b4f1fa49e81df37.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_A3HHaEdqAJL",
+      "paper_id": "A3HHaEdqAJL",
+      "title": "Task Relatedness-Based Generalization Bounds for Meta Learning",
+      "authors": "Jiechao Guan, Zhiwu Lu",
+      "paper_url": "https://openreview.net/pdf/ebbc100be110ad3e6a5f5491100b967847d22082.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_-M0TNnyWFT5",
+      "paper_id": "-M0TNnyWFT5",
+      "title": "Task-Aware Information Routing from Common Representation Space in Lifelong Learning",
+      "authors": "Prashant Shivaram Bhat, Bahram Zonooz, Elahe Arani",
+      "paper_url": "https://openreview.net/pdf/1de7ad7060651b8d4abeed5bc573cc6a83a35dfe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_uXl3bZLkr3c",
+      "paper_id": "uXl3bZLkr3c",
+      "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
+      "authors": "Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell",
+      "paper_url": "https://openreview.net/pdf/4de0af9691a5dcc52de7de756676fded33d037ef.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_TPZRq4FALB",
+      "paper_id": "TPZRq4FALB",
+      "title": "Test-time Adaptation against Multi-modal Reliability Bias",
+      "authors": "Mouxing Yang, Yunfan Li, Changqing Zhang, Peng Hu, Xi Peng",
+      "paper_url": "https://openreview.net/pdf?id=TPZRq4FALB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_SXtl7NRyE5",
+      "paper_id": "SXtl7NRyE5",
+      "title": "Test-time Adaptation for Regression by Subspace Alignment",
+      "authors": "Kazuki Adachi, Shin'ya Yamaguchi, Atsutoshi Kumagai, Tomoki Hamagami",
+      "paper_url": "https://openreview.net/pdf?id=SXtl7NRyE5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_EzLtB4M1SbM",
+      "paper_id": "EzLtB4M1SbM",
+      "title": "Test-Time Adaptation via Self-Training with Nearest Neighbor Information",
+      "authors": "Minguk Jang, Sae-Young Chung, Hye Won Chung",
+      "paper_url": "https://openreview.net/pdf/0e2ac6f6559d51722e3cd94bb05d39893d9ccd39.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_4wk2eOKGvh",
+      "paper_id": "4wk2eOKGvh",
+      "title": "Test-Time Ensemble via Linear Mode Connectivity: A Path to Better Adaptation",
+      "authors": "Byungjai Kim, Chanho Ahn, Wissam J. Baddar, Kikyung Kim, HUIJIN LEE, Saehyun Ahn, Seungju Han, Sungjoo Suh, Eunho Yang",
+      "paper_url": "https://openreview.net/pdf?id=4wk2eOKGvh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_6orC5MvgPBK",
+      "paper_id": "6orC5MvgPBK",
+      "title": "Thalamus: a brain-inspired algorithm for biologically-plausible continual learning and disentangled representations",
+      "authors": "Ali Hummos",
+      "paper_url": "https://openreview.net/pdf/ee4dce013cdb125a610759d64c058b9dd35caa6e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MEGQGNUfPx",
+      "paper_id": "MEGQGNUfPx",
+      "title": "The Effectiveness of Random Forgetting for Robust Generalization",
+      "authors": "Vijaya Raghavan T Ramkumar, Bahram Zonooz, Elahe Arani",
+      "paper_url": "https://openreview.net/pdf?id=MEGQGNUfPx",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_u3dHl287oB",
+      "paper_id": "u3dHl287oB",
+      "title": "The Joint Effect of Task Similarity and Overparameterization on Catastrophic Forgetting — An Analytical Model",
+      "authors": "Daniel Goldfarb, Itay Evron, Nir Weinberger, Daniel Soudry, PAul HAnd",
+      "paper_url": "https://openreview.net/pdf?id=u3dHl287oB",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_SZ3wtsXfzQR",
+      "paper_id": "SZ3wtsXfzQR",
+      "title": "Theoretical bounds on estimation error for meta-learning",
+      "authors": "James Lucas, Mengye Ren, Irene Raissa KAMENI KAMENI, Toniann Pitassi, Richard Zemel",
+      "paper_url": "https://openreview.net/pdf/f6e0a3923ea91b65f312ccf597276c427be18097.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Jifob4dSh99",
+      "paper_id": "Jifob4dSh99",
+      "title": "Theoretical Characterization of the Generalization Performance of Overfitted Meta-Learning",
+      "authors": "Peizhong Ju, Yingbin Liang, Ness Shroff",
+      "paper_url": "https://openreview.net/pdf/530cea61955f988aae7e61844cecb69daf8817a2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_7XgKAabsPp",
+      "paper_id": "7XgKAabsPp",
+      "title": "Theory on Mixture-of-Experts in Continual Learning",
+      "authors": "Hongbo Li, Sen Lin, Lingjie Duan, Yingbin Liang, Ness Shroff",
+      "paper_url": "https://openreview.net/pdf?id=7XgKAabsPp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_55uj7mU7Cv",
+      "paper_id": "55uj7mU7Cv",
+      "title": "Towards Identifiable Unsupervised Domain Translation: A Diversified Distribution Matching Approach",
+      "authors": "Sagar Shrestha, Xiao Fu",
+      "paper_url": "https://openreview.net/pdf?id=55uj7mU7Cv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hj323oR3rw",
+      "paper_id": "hj323oR3rw",
+      "title": "Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization",
+      "authors": "Hao Dong, Eleni Chatzi, Olga Fink",
+      "paper_url": "https://openreview.net/pdf?id=hj323oR3rw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_g2YraF75Tj",
+      "paper_id": "g2YraF75Tj",
+      "title": "Towards Stable Test-time Adaptation in Dynamic Wild World",
+      "authors": "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, Mingkui Tan",
+      "paper_url": "https://openreview.net/pdf/4bf9a568654ef33fe83fe18f5e34b489be3ca06b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_FJXf1FXN8C",
+      "paper_id": "FJXf1FXN8C",
+      "title": "Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation",
+      "authors": "Jun-Kun Wang, Andre Wibisono",
+      "paper_url": "https://openreview.net/pdf/7d000edac11267f0b5a613d835780cd4ccb9102d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_b0RuGUYo8pA",
+      "paper_id": "b0RuGUYo8pA",
+      "title": "Transfer Learning with Deep Tabular Models",
+      "authors": "Roman Levin, Valeriia Cherepanova, Avi Schwarzschild, Arpit Bansal, C. Bayan Bruss, Tom Goldstein, Andrew Gordon Wilson, Micah Goldblum",
+      "paper_url": "https://openreview.net/pdf/fffc8ea6e63cf3db729b9a0289bd08c7eee4e8e5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_iEvAf8i6JjO",
+      "paper_id": "iEvAf8i6JjO",
+      "title": "TRGP: Trust Region Gradient Projection for Continual Learning",
+      "authors": "Sen Lin, Li Yang, Deliang Fan, Junshan Zhang",
+      "paper_url": "https://openreview.net/pdf/7291715ef56df6f6a92491a5977eb95a2db1ca86.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_bqv7M0wc4x",
+      "paper_id": "bqv7M0wc4x",
+      "title": "TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models",
+      "authors": "Liangzu Peng, Juan Elenter, Joshua Agterberg, Alejandro Ribeiro, Rene Vidal",
+      "paper_url": "https://openreview.net/pdf?id=bqv7M0wc4x",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_EQfeudmWLQ",
+      "paper_id": "EQfeudmWLQ",
+      "title": "TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation",
+      "authors": "Hyesu Lim, Byeonggeun Kim, Jaegul Choo, Sungha Choi",
+      "paper_url": "https://openreview.net/pdf/cac516c4c0f5e33e98d8f7a4853bbbc87a45b3f1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5sU32OCxgZ",
+      "paper_id": "5sU32OCxgZ",
+      "title": "TTVD: Towards a Geometric Framework for Test-Time Adaptation Based on Voronoi Diagram",
+      "authors": "Mingxi Lei, Chunwei Ma, Meng Ding, Yufan Zhou, Ziyun Huang, Jinhui Xu",
+      "paper_url": "https://openreview.net/pdf?id=5sU32OCxgZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_xyxU99Nutg",
+      "paper_id": "xyxU99Nutg",
+      "title": "Un-Mixing Test-Time Normalization Statistics: Combatting Label Temporal Correlation",
+      "authors": "Devavrat Tomar, Guillaume Vray, Jean-Philippe Thiran, Behzad Bozorgtabar",
+      "paper_url": "https://openreview.net/pdf?id=xyxU99Nutg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_2UnCj3jeao",
+      "paper_id": "2UnCj3jeao",
+      "title": "Unbalancedness in Neural Monge Maps Improves Unpaired Domain Translation",
+      "authors": "Luca Eyring, Dominik Klein, Théo Uscidda, Giovanni Palla, Niki Kilbertus, Zeynep Akata, Fabian J Theis",
+      "paper_url": "https://openreview.net/pdf?id=2UnCj3jeao",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_MJIve1zgR_",
+      "paper_id": "MJIve1zgR_",
+      "title": "Unbiased Teacher for Semi-Supervised Object Detection",
+      "authors": "Yen-Cheng Liu, Chih-Yao Ma, Zijian He, Chia-Wen Kuo, Kan Chen, Peizhao Zhang, Bichen Wu, Zsolt Kira, Peter Vajda",
+      "paper_url": "https://openreview.net/pdf/1dd575a67ecfb86555b7d78bf428003194aa1e8e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_I2mIxuXA72",
+      "paper_id": "I2mIxuXA72",
+      "title": "Understanding Domain Generalization: A Noise Robustness Perspective",
+      "authors": "Rui Qiao, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=I2mIxuXA72",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_JVlyfHEEm0k",
+      "paper_id": "JVlyfHEEm0k",
+      "title": "Understanding Train-Validation Split in Meta-Learning with Neural Networks",
+      "authors": "Xinzhe Zuo, Zixiang Chen, Huaxiu Yao, Yuan Cao, Quanquan Gu",
+      "paper_url": "https://openreview.net/pdf/b36628c00cf099f06c22fb730529a978598fddfa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_6LLho5X6xV",
+      "paper_id": "6LLho5X6xV",
+      "title": "UniTabE: A Universal Pretraining Protocol for Tabular Foundation  Model in Data Science",
+      "authors": "Yazheng Yang, Yuqi Wang, Guang Liu, Ledell Wu, Qi Liu",
+      "paper_url": "https://openreview.net/pdf?id=6LLho5X6xV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_eNoiRal5xi",
+      "paper_id": "eNoiRal5xi",
+      "title": "Unknown Domain Inconsistency Minimization for Domain Generalization",
+      "authors": "Seungjae Shin, HeeSun Bae, Byeonghu Na, Yoon-Yeong Kim, Il-chul Moon",
+      "paper_url": "https://openreview.net/pdf?id=eNoiRal5xi",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_gc8QAQfXv6",
+      "paper_id": "gc8QAQfXv6",
+      "title": "Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning",
+      "authors": "Gangwei Jiang, Caigao JIANG, Zhaoyi Li, Siqiao Xue, JUN ZHOU, Linqi Song, Defu Lian, Ying Wei",
+      "paper_url": "https://openreview.net/pdf?id=gc8QAQfXv6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_3rULBvOJ8D2",
+      "paper_id": "3rULBvOJ8D2",
+      "title": "Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate",
+      "authors": "Yingtian Zou, Fusheng Liu, Qianxiao Li",
+      "paper_url": "https://openreview.net/pdf/f7252f69a2c6aea15401a405687f27c41c8a1489.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_XOjv2HxIF6i",
+      "paper_id": "XOjv2HxIF6i",
+      "title": "Unsupervised Meta-Learning through Latent-Space Interpolation in Generative Models",
+      "authors": "Siavash Khodadadeh, Sharare Zehtabian, Saeed Vahidian, Weijia Wang, Bill Lin, Ladislau Boloni",
+      "paper_url": "https://openreview.net/pdf/8242bb1cb5c7dc59b17a736254778eca82c71c06.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_TdTGGj7fYYJ",
+      "paper_id": "TdTGGj7fYYJ",
+      "title": "Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning",
+      "authors": "Huiwon Jang, Hankook Lee, Jinwoo Shin",
+      "paper_url": "https://openreview.net/pdf/65c63b72201856c7d08ce81fba8f12b50947aa77.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_sJ88Wg5Bp5",
+      "paper_id": "sJ88Wg5Bp5",
+      "title": "ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation",
+      "authors": "Jiaming Liu, Senqiao Yang, Peidong Jia, Renrui Zhang, Ming Lu, Yandong Guo, Wei Xue, Shanghang Zhang",
+      "paper_url": "https://openreview.net/pdf?id=sJ88Wg5Bp5",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9aZ2ixiYGd",
+      "paper_id": "9aZ2ixiYGd",
+      "title": "Vision and Language Synergy for Rehearsal Free Continual Learning",
+      "authors": "Muhammad Anwar Ma'sum, Mahardhika Pratama, Savitha Ramasamy, Lin Liu, H Habibullah, Ryszard Kowalczyk",
+      "paper_url": "https://openreview.net/pdf?id=9aZ2ixiYGd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_oZIvHV04XgC",
+      "paper_id": "oZIvHV04XgC",
+      "title": "Wandering within a world: Online contextualized few-shot learning",
+      "authors": "Mengye Ren, Michael Louis Iuzzolino, Michael Curtis Mozer, Richard Zemel",
+      "paper_url": "https://openreview.net/pdf/c7d39970b7f4089067f9662d8cebe4f73c71d1bb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_kPLzOfPfA2l",
+      "paper_id": "kPLzOfPfA2l",
+      "title": "Warping the Space: Weight Space Rotation for Class-Incremental Few-Shot Learning",
+      "authors": "Do-Yeon Kim, Dong-Jun Han, Jun Seo, Jaekyun Moon",
+      "paper_url": "https://openreview.net/pdf/36973a131d3dce27cb038d510a98686e3e24a480.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_u2Pd6x794I",
+      "paper_id": "u2Pd6x794I",
+      "title": "When Source-Free Domain Adaptation Meets Learning with Noisy Labels",
+      "authors": "Li Yi, Gezheng Xu, Pengcheng Xu, Jiaqi Li, Ruizhi Pu, Charles Ling, Ian McLeod, Boyu Wang",
+      "paper_url": "https://openreview.net/pdf/3132194ea43e68910cd7e90e9be2141425b45f39.pdf",
+      "venue": "iclr23"
+    }
+  ]
+}

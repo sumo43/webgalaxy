@@ -1,0 +1,589 @@
+{
+  "cluster_id": 114,
+  "papers": [
+    {
+      "id": "acl22_354",
+      "paper_id": "",
+      "title": "A Neural Network Architecture for Program Understanding Inspired by Human Behaviors",
+      "authors": "Renyu Zhu, Lei Yuan, Xiang Li, Ming Gao, Wenyuan Cai",
+      "paper_url": "https://aclanthology.org/2022.acl-long.353.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl22_182",
+      "paper_id": "",
+      "title": "Accelerating Code Search with Deep Hashing and Code Classification",
+      "authors": "Wenchao Gu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Michael Lyu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.181.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_588",
+      "paper_id": "",
+      "title": "ACECODER: Acing Coder RL via Automated Test-Case Synthesis",
+      "authors": "Huaye Zeng, Dongfu Jiang, Haozhe Wang, Ping Nie, Xiaotong Chen, Wenhu Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.587.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_231",
+      "paper_id": "",
+      "title": "Adaptive Testing and Debugging of NLP Models",
+      "authors": "Marco Tulio Ribeiro, Scott Lundberg",
+      "paper_url": "https://aclanthology.org/2022.acl-long.230.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_731",
+      "paper_id": "",
+      "title": "ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models",
+      "authors": "Hojae Han, Jaejin Kim, Jaeseok Yoo, Youngwon Lee, Seung-won Hwang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.730.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1491",
+      "paper_id": "",
+      "title": "Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories",
+      "authors": "Alperen Yildiz, Sin G Teo, Yiling Lou, Yebo Feng, Chong Wang, Dinil Mon Divakaran",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1490.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_309",
+      "paper_id": "",
+      "title": "Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation",
+      "authors": "Xiangyu Zhang, Yu Zhou, Guang Yang, Wei Cheng, Taolue Chen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.308.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1205",
+      "paper_id": "",
+      "title": "Can Language Models Replace Programmers for Coding? REPOCOD Says ‘Not Yet’",
+      "authors": "Shanchao Liang, Nan Jiang, Yiran Hu, Lin Tan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1204.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_850",
+      "paper_id": "",
+      "title": "Can You Really Trust Code Copilot? Evaluating Large Language Models from a Code Security Perspective",
+      "authors": "Yutao Mou, Xiao Deng, Yuxiao Luo, Shikun Zhang, Wei Ye",
+      "paper_url": "https://aclanthology.org/2025.acl-long.849.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_738",
+      "paper_id": "",
+      "title": "CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges",
+      "authors": "Kechi Zhang, Jia Li, Ge Li, Xianjie Shi, Zhi Jin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.737.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_772",
+      "paper_id": "",
+      "title": "CodeDPO: Aligning Code Models with Self Generated and Verified Source Code",
+      "authors": "Kechi Zhang, Ge Li, Yihong Dong, Jingjing Xu, Jun Zhang, Jing Su, Yongfei Liu, Zhi Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.771.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_302",
+      "paper_id": "",
+      "title": "CodeScope: An Execution-based Multilingual Multitask Multidimensional Benchmark for Evaluating LLMs on Code Understanding and Generation",
+      "authors": "Weixiang Yan, Haitian Liu, Yunkun Wang, Yunzhe Li, Qian Chen, Wen Wang, Tingyu Lin, Weishan Zhao, Li Zhu, Hari Sundaram, Shuiguang Deng",
+      "paper_url": "https://aclanthology.org/2024.acl-long.301.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1073",
+      "paper_id": "",
+      "title": "CoIR: A Comprehensive Benchmark for Code Information Retrieval Models",
+      "authors": "Xiangyang Li, Kuicai Dong, Yi Quan Lee, Wei Xia, Hao Zhang, Xinyi Dai, Yasheng Wang, Ruiming Tang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1072.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_104",
+      "paper_id": "",
+      "title": "CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System",
+      "authors": "Li Hu, Guoqiang Chen, Xiuwei Shang, Shaoyin Cheng, Benlong Wu, LiGangyang LiGangyang, Xu Zhu, Weiming Zhang, Nenghai Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.103.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_443",
+      "paper_id": "",
+      "title": "CoSQA: 20,000+ Web Queries for Code Search and Question Answering",
+      "authors": "Junjie Huang, Duyu Tang, Linjun Shou, Ming Gong, Ke Xu, Daxin Jiang, Ming Zhou, Nan Duan",
+      "paper_url": "https://aclanthology.org/2021.acl-long.442.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1159",
+      "paper_id": "",
+      "title": "CRUXEVAL-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution",
+      "authors": "Ruiyang Xu, Jialun Cao, Yaojie Lu, Ming Wen, Hongyu Lin, Xianpei Han, Ben He, Shing-Chi Cheung, Le Sun",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1158.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_974",
+      "paper_id": "",
+      "title": "DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal",
+      "authors": "Vaibhav Aggarwal, Ojasv Kamal, Abhinav Japesh, Zhijing Jin, Bernhard Schölkopf",
+      "paper_url": "https://aclanthology.org/2025.acl-long.973.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_432",
+      "paper_id": "",
+      "title": "Dataflow-Guided Retrieval Augmentation for Repository-Level Code Completion",
+      "authors": "Wei Cheng, Yuhan Wu, Wei Hu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.431.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_590",
+      "paper_id": "",
+      "title": "DebateCoder: Towards Collective Intelligence of LLMs via Test Case Driven LLM Debate for Code Generation",
+      "authors": "Jizheng Chen, Kounianhua Du, Xinyi Dai, Weiming Zhang, Xihuai Wang, Yasheng Wang, Ruiming Tang, Weinan Zhang, Yong Yu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.589.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_260",
+      "paper_id": "",
+      "title": "DolphCoder: Echo-Locating Code Large Language Models with Diverse and Multi-Objective Instruction Tuning",
+      "authors": "Yejie Wang, Keqing He, Guanting Dong, Pei Wang, Weihao Zeng, Muxi Diao, Weiran Xu, Jingang Wang, Mengdi Zhang, Xunliang Cai",
+      "paper_url": "https://aclanthology.org/2024.acl-long.259.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_344",
+      "paper_id": "",
+      "title": "Dynamic Scaling of Unit Tests for Code Reward Modeling",
+      "authors": "Zeyao Ma, Xiaokang Zhang, Jing Zhang, Jifan Yu, Sijia Luo, Jie Tang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.343.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_5",
+      "paper_id": "",
+      "title": "ELABORATION: A Comprehensive Benchmark on Human-LLM Competitive Programming",
+      "authors": "Xinwei Yang, Zhaofeng Liu, Chen Huang, Jiashuai Zhang, Tong Zhang, Yifan Zhang, Wenqiang Lei",
+      "paper_url": "https://aclanthology.org/2025.acl-long.4.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_79",
+      "paper_id": "",
+      "title": "Enhancing Large Language Models in Coding Through Multi-Perspective Self-Consistency",
+      "authors": "Baizhou Huang, Shuai Lu, Xiaojun Wan, Nan Duan",
+      "paper_url": "https://aclanthology.org/2024.acl-long.78.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_888",
+      "paper_id": "",
+      "title": "ExploraCoder: Advancing Code Generation for Multiple Unseen APIs via Planning and Chained Exploration",
+      "authors": "Yunkun Wang, Yue Zhang, Zhen Qin, Chen Zhi, Binhua Li, Fei Huang, Yongbin Li, Shuiguang Deng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.887.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_395",
+      "paper_id": "",
+      "title": "Exploring Dynamic Selection of Branch Expansion Orders for Code Generation",
+      "authors": "Hui Jiang, Chulun Zhou, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu, Jinsong Su",
+      "paper_url": "https://aclanthology.org/2021.acl-long.394.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_840",
+      "paper_id": "",
+      "title": "FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation",
+      "authors": "Wei Li, Xin Zhang, Zhongxin Guo, Shaoguang Mao, Wen Luo, Guangyue Peng, Yangyu Huang, Houfeng Wang, Scarlett Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.839.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_677",
+      "paper_id": "",
+      "title": "GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding",
+      "authors": "Ziyin Zhang, Hang Yu, Sage Lee, Peng Di, Jianguo Li, Rui Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.676.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_600",
+      "paper_id": "",
+      "title": "GiFT: Gibbs Fine-Tuning for Code Generation",
+      "authors": "Haochen Li, Wanjin Feng, Xin Zhou, Zhiqi Shen",
+      "paper_url": "https://aclanthology.org/2025.acl-long.599.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_340",
+      "paper_id": "",
+      "title": "Impact of Evaluation Methodologies on Code Summarization",
+      "authors": "Pengyu Nie, Jiyang Zhang, Junyi Jessy Li, Ray Mooney, Milos Gligoric",
+      "paper_url": "https://aclanthology.org/2022.acl-long.339.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_215",
+      "paper_id": "",
+      "title": "Instruction Fusion: Advancing Prompt Evolution through Hybridization",
+      "authors": "Weidong Guo, Jiuding Yang, Kaitong Yang, Xiangyang Li, Zhuwei Rao, Yu Xu, Di Niu",
+      "paper_url": "https://aclanthology.org/2024.acl-long.214.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_803",
+      "paper_id": "",
+      "title": "IRCoder: Intermediate Representations Make Language Models Robust Multilingual Code Generators",
+      "authors": "Indraneil Paul, Goran Glavaš, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2024.acl-long.802.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_620",
+      "paper_id": "",
+      "title": "JumpCoder: Go Beyond Autoregressive Coder via Online Modification",
+      "authors": "Mouxiang Chen, Hao Tian, Zhongxin Liu, Xiaoxue Ren, Jianling Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.619.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_413",
+      "paper_id": "",
+      "title": "Large Language Models Meet NL2Code: A Survey",
+      "authors": "Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Wang Yongji, Jian-Guang Lou",
+      "paper_url": "https://aclanthology.org/2023.acl-long.411.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_630",
+      "paper_id": "",
+      "title": "Learning Task Decomposition to Assist Humans in Competitive Programming",
+      "authors": "Jiaxin Wen, Ruiqi Zhong, Pei Ke, Zhihong Shao, Hongning Wang, Minlie Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.629.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_21",
+      "paper_id": "",
+      "title": "LLM-Powered Test Case Generation for Detecting Bugs in Plausible Programs",
+      "authors": "Kaibo Liu, Zhenpeng Chen, Yiyang Liu, Jie M. Zhang, Mark Harman, Yudong Han, Yun Ma, Yihong Dong, Ge Li, Gang Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.20.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_427",
+      "paper_id": "",
+      "title": "LocAgent: Graph-Guided LLM Agents for Code Localization",
+      "authors": "Zhaoling Chen, Robert Tang, Gangda Deng, Fang Wu, Jialong Wu, Zhiwei Jiang, Viktor Prasanna, Arman Cohan, Xingyao Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.426.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_764",
+      "paper_id": "",
+      "title": "M2RC-EVAL: Massively Multilingual Repository-level Code Completion Evaluation",
+      "authors": "Jiaheng Liu, Ken Deng, Congnan Liu, Jian Yang, Shukai Liu, He Zhu, Peng Zhao, Linzheng Chai, Yanan Wu, JinKe JinKe, Ge Zhang, Zekun Moore Wang, Guoan Zhang, Yingshui Tan, Bangyu Xiang, Zhaoxiang Zhang, Wenbo Su, Bo Zheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.763.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_270",
+      "paper_id": "",
+      "title": "MapCoder: Multi-Agent Code Generation for Competitive Problem Solving",
+      "authors": "Md. Ashraful Islam, Mohammed Eunus Ali, Md Rizwan Parvez",
+      "paper_url": "https://aclanthology.org/2024.acl-long.269.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_38",
+      "paper_id": "",
+      "title": "Modeling Hierarchical Syntax Structure with Triplet Position for Source Code Summarization",
+      "authors": "Juncai Guo, Jin Liu, Yao Wan, Li Li, Pingyi Zhou",
+      "paper_url": "https://aclanthology.org/2022.acl-long.37.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl24_208",
+      "paper_id": "",
+      "title": "MPCoder: Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning",
+      "authors": "Zhenlong Dai, Chang Yao, WenKang Han, Yuanying Yuanying, Zhipeng Gao, Jingyuan Chen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.207.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_11",
+      "paper_id": "",
+      "title": "Natural Language to Code Generation in Interactive Data Science Notebooks",
+      "authors": "Pengcheng Yin, Wen-Ding Li, Kefan Xiao, Abhishek Rao, Yeming Wen, Kensen Shi, Joshua Howland, Paige Bailey, Michele Catasta, Henryk Michalewski, Oleksandr Polozov, Charles Sutton",
+      "paper_url": "https://aclanthology.org/2023.acl-long.9.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_905",
+      "paper_id": "",
+      "title": "OASIS: Order-Augmented Strategy for Improved Code Search",
+      "authors": "Gao Zuchen, Zizheng Zhan, Xianming Li, Erxin Yu, Haotian Zhang, Chenbin Chenbin, Yuqun Zhang, Jing Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.904.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1591",
+      "paper_id": "",
+      "title": "OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models",
+      "authors": "Siming Huang, Tianhao Cheng, Jason Klein Liu, Weidi Xu, Jiaran Hao, Liuyihan Song, Yang Xu, Jian Yang, Jiaheng Liu, Chenchen Zhang, Linzheng Chai, Ruifeng Yuan, Xianzhen Luo, Qiufeng Wang, YuanTao Fan, Qingfu Zhu, Zhaoxiang Zhang, Yang Gao, Jie Fu, Qian Liu, Houyi Li, Ge Zhang, Yuan Qi, Xu Yinghui, Wei Chu, Zili Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1591.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_55",
+      "paper_id": "",
+      "title": "Personality-Guided Code Generation Using Large Language Models",
+      "authors": "Yaoqi Guo, Zhenpeng Chen, Jie M. Zhang, Yang Liu, Yun Ma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.54.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_622",
+      "paper_id": "",
+      "title": "Planning-Driven Programming: A Large Language Model Programming Workflow",
+      "authors": "Chao Lei, Yanchuan Chang, Nir Lipovetzky, Krista A. Ehinger",
+      "paper_url": "https://aclanthology.org/2025.acl-long.621.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_770",
+      "paper_id": "",
+      "title": "Program Synthesis Benchmark for Visual Programming in XLogoOnline Environment",
+      "authors": "Chao Wen, Jacqueline Staub, Adish Singla",
+      "paper_url": "https://aclanthology.org/2025.acl-long.769.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_563",
+      "paper_id": "",
+      "title": "PwnGPT: Automatic Exploit Generation Based on Large Language Models",
+      "authors": "Wanzong Peng, Lin Ye, Xuetao Du, Hongli Zhang, Dongyang Zhan, Yunting Zhang, Yicheng Guo, Chen Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.562.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_801",
+      "paper_id": "",
+      "title": "Python Code Generation by Asking Clarification Questions",
+      "authors": "Haau-Sing (Xiaocheng) Li, Mohsen Mesgar, André Martins, Iryna Gurevych",
+      "paper_url": "https://aclanthology.org/2023.acl-long.799.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_643",
+      "paper_id": "",
+      "title": "Qwen2.5-xCoder: Multi-Agent Collaboration for Multilingual Code Instruction Tuning",
+      "authors": "Jian Yang, Wei Zhang, Yibo Miao, Shanghaoran Quan, Zhenhe Wu, Qiyao Peng, Liqun Yang, Tianyu Liu, Zeyu Cui, Binyuan Hui, Junyang Lin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.642.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_432",
+      "paper_id": "",
+      "title": "ReACC: A Retrieval-Augmented Code Completion Framework",
+      "authors": "Shuai Lu, Nan Duan, Hojae Han, Daya Guo, Seung-won Hwang, Alexey Svyatkovskiy",
+      "paper_url": "https://aclanthology.org/2022.acl-long.431.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl23_775",
+      "paper_id": "",
+      "title": "ReCode: Robustness Evaluation of Code Generation Models",
+      "authors": "Shiqi Wang, Zheng Li, Haifeng Qian, Chenghao Yang, Zijian Wang, Mingyue Shang, Varun Kumar, Samson Tan, Baishakhi Ray, Parminder Bhatia, Ramesh Nallapati, Murali Krishna Ramanathan, Dan Roth, Bing Xiang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.773.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_495",
+      "paper_id": "",
+      "title": "ReflectionCoder: Learning from Reflection Sequence for Enhanced One-off Code Generation",
+      "authors": "Houxing Ren, Mingjie Zhan, Zhongyuan Wu, Aojun Zhou, Junting Pan, Hongsheng Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.494.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_49",
+      "paper_id": "",
+      "title": "Rethinking Repetition Problems of LLMs in Code Generation",
+      "authors": "Yihong Dong, Yuchen Liu, Xue Jiang, Bin Gu, Zhi Jin, Ge Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.48.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1107",
+      "paper_id": "",
+      "title": "Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation",
+      "authors": "Deokhyung Kang, Jeonghun Cho, Yejin Jeon, Sunbin Jang, Minsub Lee, Jawoon Cho, Gary Lee",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1106.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_882",
+      "paper_id": "",
+      "title": "Revisit Self-Debugging with Self-Generated Tests for Code Generation",
+      "authors": "Xiancai Chen, Zhengwei Tao, Kechi Zhang, Changzhi Zhou, Xinyu Zhang, Wanli Gu, Yuanpeng He, Mengdi Zhang, Xunliang Cai, Haiyan Zhao, Zhi Jin",
+      "paper_url": "https://aclanthology.org/2025.acl-long.881.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_76",
+      "paper_id": "",
+      "title": "Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search",
+      "authors": "Haochen Li, Xin Zhou, Zhiqi Shen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.75.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_47",
+      "paper_id": "",
+      "title": "Self-Edit: Fault-Aware Code Editor for Code Generation",
+      "authors": "Kechi Zhang, Zhuo Li, Jia Li, Ge Li, Zhi Jin",
+      "paper_url": "https://aclanthology.org/2023.acl-long.45.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_560",
+      "paper_id": "",
+      "title": "SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning",
+      "authors": "Zexiong Ma, Chao Peng, Pengfei Gao, Xiangxin Meng, Yanzhen Zou, Bing Xie",
+      "paper_url": "https://aclanthology.org/2025.acl-long.559.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1388",
+      "paper_id": "",
+      "title": "Speed Up Your Code: Progressive Code Acceleration Through Bidirectional Tree Editing",
+      "authors": "Longhui Zhang, Jiahao Wang, Meishan Zhang, GaoXiong Cao, Ensheng Shi, Mayuchi Mayuchi, Jun Yu, Honghai Liu, Jing Li, Min Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1387.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_252",
+      "paper_id": "",
+      "title": "StepCoder: Improving Code Generation with Reinforcement Learning from Compiler Feedback",
+      "authors": "Shihan Dou, Yan Liu, Haoxiang Jia, Enyu Zhou, Limao Xiong, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan, Zhiheng Xi, Yuhao Zhou, Tao Ji, Rui Zheng, Qi Zhang, Tao Gui, Xuanjing Huang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.251.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1264",
+      "paper_id": "",
+      "title": "Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences",
+      "authors": "Mohammad Saqib Hasan, Saikat Chakraborty, Santu Karmaker, Niranjan Balasubramanian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1263.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_437",
+      "paper_id": "",
+      "title": "Towards Learning (Dis)-Similarity of Source Code from Program Contrasts",
+      "authors": "Yangruibo Ding, Luca Buratti, Saurabh Pujar, Alessandro Morari, Baishakhi Ray, Saikat Chakraborty",
+      "paper_url": "https://aclanthology.org/2022.acl-long.436.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_15",
+      "paper_id": "",
+      "title": "Tree-of-Evolution: Tree-Structured Instruction Evolution for Code Generation in Large Language Models",
+      "authors": "Ziyang Luo, Kaixin Li, Hongzhan Lin, Yuchen Tian, Mohan Kankanhalli, Jing Ma",
+      "paper_url": "https://aclanthology.org/2025.acl-long.14.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_101",
+      "paper_id": "",
+      "title": "UniCoder: Scaling Code Large Language Model via Universal Code",
+      "authors": "Tao Sun, Linzheng Chai, Jian Yang, Yuwei Yin, Hongcheng Guo, Jiaheng Liu, Bing Wang, Liqun Yang, Zhoujun Li",
+      "paper_url": "https://aclanthology.org/2024.acl-long.100.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl22_500",
+      "paper_id": "",
+      "title": "UniXcoder: Unified Cross-Modal Pre-training for Code Representation",
+      "authors": "Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou, Jian Yin",
+      "paper_url": "https://aclanthology.org/2022.acl-long.499.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_190",
+      "paper_id": "",
+      "title": "UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench",
+      "authors": "Boxi Yu, Yuxuan Zhu, Pinjia He, Daniel Kang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.189.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_168",
+      "paper_id": "",
+      "title": "Virtual Compiler Is All You Need For Assembly Code Search",
+      "authors": "Zeyu Gao, Hao Wang, Yuanda Wang, Chao Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.167.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_528",
+      "paper_id": "",
+      "title": "VulLibGen: Generating Names of Vulnerability-Affected Packages via a Large Language Model",
+      "authors": "Tianyu Chen, Lin Li, ZhuLiuchuan ZhuLiuchuan, Zongyang Li, Xueqing Liu, Guangtai Liang, Qianxiang Wang, Tao Xie",
+      "paper_url": "https://aclanthology.org/2024.acl-long.527.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1209",
+      "paper_id": "",
+      "title": "WAFFLE: Fine-tuning Multi-Modal Model for Automated Front-End Development",
+      "authors": "Shanchao Liang, Nan Jiang, Shangshu Qian, Lin Tan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1208.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_247",
+      "paper_id": "",
+      "title": "WarriorCoder: Learning from Expert Battles to Augment Code Large Language Models",
+      "authors": "Huawen Feng, Pu Zhao, Qingfeng Sun, Can Xu, Fangkai Yang, Lu Wang, Qianli Ma, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.246.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_281",
+      "paper_id": "",
+      "title": "WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning",
+      "authors": "Zhaojian Yu, Xin Zhang, Ning Shang, Yangyu Huang, Can Xu, Yishujie Zhao, Wenxiang Hu, Qiufeng Yin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.280.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_201",
+      "paper_id": "",
+      "title": "When Good and Reproducible Results are a Giant with Feet of Clay: The Importance of Software Quality in NLP",
+      "authors": "Sara Papi, Marco Gaido, Andrea Pilzer, Matteo Negri",
+      "paper_url": "https://aclanthology.org/2024.acl-long.200.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_368",
+      "paper_id": "",
+      "title": "XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval",
+      "authors": "Mohammad Abdullah Matin Khan, M Saiful Bari, Xuan Long Do, Weishi Wang, Md Rizwan Parvez, Shafiq Joty",
+      "paper_url": "https://aclanthology.org/2024.acl-long.367.pdf",
+      "venue": "acl24"
+    }
+  ]
+}

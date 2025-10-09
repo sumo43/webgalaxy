@@ -1,0 +1,1413 @@
+{
+  "cluster_id": 79,
+  "papers": [
+    {
+      "id": "iclr25_p3mxzKmuZy",
+      "paper_id": "p3mxzKmuZy",
+      "title": "A Benchmark for Semantic Sensitive Information in LLMs Outputs",
+      "authors": "Qingjie Zhang, Han Qiu, Di Wang, Yiming Li, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Liu Yan, Chao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=p3mxzKmuZy",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Q1MHvGmhyT",
+      "paper_id": "Q1MHvGmhyT",
+      "title": "A Closer Look at Machine Unlearning for Large Language Models",
+      "authors": "Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin",
+      "paper_url": "https://openreview.net/pdf?id=Q1MHvGmhyT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_51WraMid8K",
+      "paper_id": "51WraMid8K",
+      "title": "A Probabilistic Perspective on Unlearning and Alignment for Large Language Models",
+      "authors": "Yan Scholten, Stephan Günnemann, Leo Schwinn",
+      "paper_url": "https://openreview.net/pdf?id=51WraMid8K",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_XAN8G0rvoB",
+      "paper_id": "XAN8G0rvoB",
+      "title": "A Statistical Approach for Controlled Training Data Detection",
+      "authors": "Zirui Hu, Yingjie Wang, Zheng Zhang, Hong Chen, Dacheng Tao",
+      "paper_url": "https://openreview.net/pdf?id=XAN8G0rvoB",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_keu6sxrPWn",
+      "paper_id": "keu6sxrPWn",
+      "title": "Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats",
+      "authors": "Jiaxin Wen, Vivek Hebbar, Caleb Larson, Aryan Bhatt, Ansh Radhakrishnan, Mrinank Sharma, Henry Sleight, Shi Feng, He He, Ethan Perez, Buck Shlegeris, Akbir Khan",
+      "paper_url": "https://openreview.net/pdf?id=keu6sxrPWn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_swWF948IiC",
+      "paper_id": "swWF948IiC",
+      "title": "Adversarial Machine Unlearning",
+      "authors": "Zonglin Di, Sixie Yu, Yevgeniy Vorobeychik, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=swWF948IiC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GcbhbZsgiu",
+      "paper_id": "GcbhbZsgiu",
+      "title": "Adversarial Mixup Unlearning",
+      "authors": "Zhuoyi PENG, Yixuan Tang, Yi Yang",
+      "paper_url": "https://openreview.net/pdf?id=GcbhbZsgiu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hkdqxN3c7t",
+      "paper_id": "hkdqxN3c7t",
+      "title": "Adversarial Search Engine Optimization for Large Language Models",
+      "authors": "Fredrik Nestaas, Edoardo Debenedetti, Florian Tramèr",
+      "paper_url": "https://openreview.net/pdf?id=hkdqxN3c7t",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0BujOfTqab",
+      "paper_id": "0BujOfTqab",
+      "title": "AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models",
+      "authors": "Mintong Kang, Chejian Xu, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=0BujOfTqab",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_V4y0CpX4hK",
+      "paper_id": "V4y0CpX4hK",
+      "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+      "authors": "Hanrong Zhang, Jingyuan Huang, Kai Mei, Yifei Yao, Zhenting Wang, Chenlu Zhan, Hongwei Wang, Yongfeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=V4y0CpX4hK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_3xpTXF5ALZ",
+      "paper_id": "3xpTXF5ALZ",
+      "title": "AI2TALE: An Innovative Information Theory-based Approach for Learning to Localize Phishing Attacks",
+      "authors": "Van Nguyen, Tingmin Wu, Xingliang YUAN, Marthie Grobler, Surya Nepal, Carsten Rudolph",
+      "paper_url": "https://openreview.net/pdf?id=3xpTXF5ALZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_nc5GgFAvtk",
+      "paper_id": "nc5GgFAvtk",
+      "title": "An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models",
+      "authors": "Haochen Luo, Jindong Gu, Fengyuan Liu, Philip Torr",
+      "paper_url": "https://openreview.net/pdf?id=nc5GgFAvtk",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_XrsOu4KgDE",
+      "paper_id": "XrsOu4KgDE",
+      "title": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
+      "authors": "Huihan Li, Arnav Goel, Keyu He, Xiang Ren",
+      "paper_url": "https://openreview.net/pdf?id=XrsOu4KgDE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_7Jwpw4qKkb",
+      "paper_id": "7Jwpw4qKkb",
+      "title": "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models",
+      "authors": "Xiaogeng Liu, Nan Xu, Muhao Chen, Chaowei Xiao",
+      "paper_url": "https://openreview.net/pdf?id=7Jwpw4qKkb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_c93SBwz1Ma",
+      "paper_id": "c93SBwz1Ma",
+      "title": "BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models",
+      "authors": "Zhen Xiang, Fengqing Jiang, Zidi Xiong, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=c93SBwz1Ma",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_duZANm2ABX",
+      "paper_id": "duZANm2ABX",
+      "title": "BadEdit: Backdooring Large Language Models by Model Editing",
+      "authors": "Yanzhou Li, Tianlin Li, Kangjie Chen, Jian Zhang, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=duZANm2ABX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_eC2a2IndIt",
+      "paper_id": "eC2a2IndIt",
+      "title": "BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge",
+      "authors": "Terry Tong, Fei Wang, Zhe Zhao, Muhao Chen",
+      "paper_url": "https://openreview.net/pdf?id=eC2a2IndIt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Mng8CQ9eBW",
+      "paper_id": "Mng8CQ9eBW",
+      "title": "BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models",
+      "authors": "Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, Chun Fan",
+      "paper_url": "https://openreview.net/pdf/4ac63a977d9d85abecd09a2214e195931e835ab5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ei3qCntB66",
+      "paper_id": "ei3qCntB66",
+      "title": "BadRobot: Jailbreaking Embodied LLM Agents in the Physical World",
+      "authors": "Hangtao Zhang, Chenyu Zhu, Xianlong Wang, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=ei3qCntB66",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_kmn0BhQk7p",
+      "paper_id": "kmn0BhQk7p",
+      "title": "Beyond Memorization: Violating Privacy via Inference with Large Language Models",
+      "authors": "Robin Staab, Mark Vero, Mislav Balunovic, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=kmn0BhQk7p",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rnJxelIZrq",
+      "paper_id": "rnJxelIZrq",
+      "title": "Beyond Mere Token Analysis: A Hypergraph Metric Space Framework for Defending Against Socially Engineered LLM Attacks",
+      "authors": "Manohar Kaul, Aditya Saibewar, Sadbhavana Babar",
+      "paper_url": "https://openreview.net/pdf?id=rnJxelIZrq",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_HPSAkIHRbb",
+      "paper_id": "HPSAkIHRbb",
+      "title": "BingoGuard: LLM Content Moderation Tools with Risk Levels",
+      "authors": "Fan Yin, Philippe Laban, XIANGYU PENG, Yilun Zhou, Yixin Mao, Vaibhav Vats, Linnea Ross, Divyansh Agarwal, Caiming Xiong, Chien-Sheng Wu",
+      "paper_url": "https://openreview.net/pdf?id=HPSAkIHRbb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wwVGZRnAYG",
+      "paper_id": "wwVGZRnAYG",
+      "title": "BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks",
+      "authors": "Yunhan Zhao, Xiang Zheng, Lin Luo, Yige Li, Xingjun Ma, Yu-Gang Jiang",
+      "paper_url": "https://openreview.net/pdf?id=wwVGZRnAYG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_tTPHgb0EtV",
+      "paper_id": "tTPHgb0EtV",
+      "title": "Booster: Tackling Harmful Fine-tuning for Large Language Models via Attenuating Harmful Perturbation",
+      "authors": "Tiansheng Huang, Sihao Hu, Fatih Ilhan, Selim Furkan Tekin, Ling Liu",
+      "paper_url": "https://openreview.net/pdf?id=tTPHgb0EtV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8Rov0fjpOL",
+      "paper_id": "8Rov0fjpOL",
+      "title": "Breach By A Thousand Leaks: Unsafe Information Leakage in 'Safe' AI Responses",
+      "authors": "David Glukhov, Ziwen Han, Ilia Shumailov, Vardan Papyan, Nicolas Papernot",
+      "paper_url": "https://openreview.net/pdf?id=8Rov0fjpOL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ccxD4mtkTU",
+      "paper_id": "ccxD4mtkTU",
+      "title": "Can LLM-Generated Misinformation Be Detected?",
+      "authors": "Canyu Chen, Kai Shu",
+      "paper_url": "https://openreview.net/pdf?id=ccxD4mtkTU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gmg7t8b4s0",
+      "paper_id": "gmg7t8b4s0",
+      "title": "Can LLMs Keep a Secret? Testing  Privacy  Implications of Language Models  via Contextual Integrity Theory",
+      "authors": "Niloofar Mireshghallah, Hyunwoo Kim, Xuhui Zhou, Yulia Tsvetkov, Maarten Sap, Reza Shokri, Yejin Choi",
+      "paper_url": "https://openreview.net/pdf?id=gmg7t8b4s0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_7erlRDoaV8",
+      "paper_id": "7erlRDoaV8",
+      "title": "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks",
+      "authors": "Vaidehi Patil, Peter Hase, Mohit Bansal",
+      "paper_url": "https://openreview.net/pdf?id=7erlRDoaV8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_S1Bv3068Xt",
+      "paper_id": "S1Bv3068Xt",
+      "title": "Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems",
+      "authors": "Ruochen Jiao, Shaoyuan Xie, Justin Yue, TAKAMI SATO, Lixu Wang, Yixuan Wang, Qi Alfred Chen, Qi Zhu",
+      "paper_url": "https://openreview.net/pdf?id=S1Bv3068Xt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lHSeDYamnz",
+      "paper_id": "lHSeDYamnz",
+      "title": "Catastrophic Failure of LLM Unlearning via Quantization",
+      "authors": "Zhiwei Zhang, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang",
+      "paper_url": "https://openreview.net/pdf?id=lHSeDYamnz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_r42tSSCHPh",
+      "paper_id": "r42tSSCHPh",
+      "title": "Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation",
+      "authors": "Yangsibo Huang, Samyak Gupta, Mengzhou Xia, Kai Li, Danqi Chen",
+      "paper_url": "https://openreview.net/pdf?id=r42tSSCHPh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_IUmj2dw5se",
+      "paper_id": "IUmj2dw5se",
+      "title": "CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models",
+      "authors": "Song Wang, Peng Wang, Tong Zhou, Yushun Dong, Zhen Tan, Jundong Li",
+      "paper_url": "https://openreview.net/pdf?id=IUmj2dw5se",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_USI3ZbuFaV",
+      "paper_id": "USI3ZbuFaV",
+      "title": "Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks",
+      "authors": "Bowei He, Lihao Yin, Huiling Zhen, Jianping Zhang, Lanqing HONG, Mingxuan Yuan, Chen Ma",
+      "paper_url": "https://openreview.net/pdf?id=USI3ZbuFaV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KYipmCMmSO",
+      "paper_id": "KYipmCMmSO",
+      "title": "Characterizing the Training Dynamics of Private Fine-tuning with Langevin Diffusion",
+      "authors": "Shuqi Ke, Charlie Hou, Sewoong Oh, Giulia Fanti",
+      "paper_url": "https://openreview.net/pdf?id=KYipmCMmSO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_mUMvr33FTu",
+      "paper_id": "mUMvr33FTu",
+      "title": "CipherPrune:  Efficient and Scalable Private Transformer Inference",
+      "authors": "Yancheng Zhang, Jiaqi Xue, Mengxin Zheng, Mimi Xie, Mingzhe Zhang, Lei Jiang, Qian Lou",
+      "paper_url": "https://openreview.net/pdf?id=mUMvr33FTu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kynD1UUk6q",
+      "paper_id": "kynD1UUk6q",
+      "title": "Collapsed Language Models Promote Fairness",
+      "authors": "Jingxuan Xu, Wuyang Chen, Linyi Li, Yao Zhao, Yunchao Wei",
+      "paper_url": "https://openreview.net/pdf?id=kynD1UUk6q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_RzUvkI3p1D",
+      "paper_id": "RzUvkI3p1D",
+      "title": "Concept-ROT: Poisoning Concepts in Large Language Models with Model Editing",
+      "authors": "Keltin Grimes, Marco Christiani, David Shriver, Marissa Catherine Connor",
+      "paper_url": "https://openreview.net/pdf?id=RzUvkI3p1D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_aTYexOYlLb",
+      "paper_id": "aTYexOYlLb",
+      "title": "Confidence Elicitation: A New Attack Vector for Large Language Models",
+      "authors": "Brian Formento, Chuan-Sheng Foo, See-Kiong Ng",
+      "paper_url": "https://openreview.net/pdf?id=aTYexOYlLb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9OJflnNu6C",
+      "paper_id": "9OJflnNu6C",
+      "title": "Controllable Unlearning for Image-to-Image Generative Models via $\\epsilon$-Constrained Optimization",
+      "authors": "XiaoHua Feng, Yuyuan Li, Chaochao Chen, Li Zhang, Longfei Li, JUN ZHOU, Xiaolin Zheng",
+      "paper_url": "https://openreview.net/pdf?id=9OJflnNu6C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LIBLIlk5M9",
+      "paper_id": "LIBLIlk5M9",
+      "title": "CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion",
+      "authors": "Joshua Kazdan, Hao Sun, Jiaqi Han, Felix Petersen, Frederick Vu, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=LIBLIlk5M9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_4KqkizXgXU",
+      "paper_id": "4KqkizXgXU",
+      "title": "Curiosity-driven Red-teaming for Large Language Models",
+      "authors": "Zhang-Wei Hong, Idan Shenfeld, Tsun-Hsuan Wang, Yung-Sung Chuang, Aldo Pareja, James R. Glass, Akash Srivastava, Pulkit Agrawal",
+      "paper_url": "https://openreview.net/pdf?id=4KqkizXgXU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_tc90LV0yRL",
+      "paper_id": "tc90LV0yRL",
+      "title": "Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models",
+      "authors": "Andy K Zhang, Neil Perry, Riya Dulepet, Joey Ji, Celeste Menders, Justin W Lin, Eliot Jones, Gashon Hussein, Samantha Liu, Donovan Julian Jasper, Pura Peetathawatchai, Ari Glenn, Vikram Sivashankar, Daniel Zamoshchin, Leo Glikbarg, Derek Askaryar, Haoxiang Yang, Aolin Zhang, Rishi Alluri, Nathan Tran, Rinnara Sangpisit, Kenny O Oseleononmen, Dan Boneh, Daniel E. Ho, Percy Liang",
+      "paper_url": "https://openreview.net/pdf?id=tc90LV0yRL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SuHScQv5gP",
+      "paper_id": "SuHScQv5gP",
+      "title": "Data Unlearning in Diffusion Models",
+      "authors": "Silas Alberti, Kenan Hasanaliyev, Manav Shah, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=SuHScQv5gP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sVNfWhtaJC",
+      "paper_id": "sVNfWhtaJC",
+      "title": "Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning",
+      "authors": "Fengyu Gao, Ruida Zhou, Tianhao Wang, Cong Shen, Jing Yang",
+      "paper_url": "https://openreview.net/pdf?id=sVNfWhtaJC",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_r0BrY4BiEXO",
+      "paper_id": "r0BrY4BiEXO",
+      "title": "Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models",
+      "authors": "Liam H Fowl, Jonas Geiping, Steven Reich, Yuxin Wen, Wojciech Czaja, Micah Goldblum, Tom Goldstein",
+      "paper_url": "https://openreview.net/pdf/b2cbf4d1dffc2268fe28070b8b6a4e40118f959c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_z9j7wctoGV",
+      "paper_id": "z9j7wctoGV",
+      "title": "Deep Kernel Relative Test for Machine-generated Text Detection",
+      "authors": "Yiliao Song, Zhenqiao Yuan, Shuhai Zhang, Zhen Fang, Jun Yu, Feng Liu",
+      "paper_url": "https://openreview.net/pdf?id=z9j7wctoGV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_3fEKavFsnv",
+      "paper_id": "3fEKavFsnv",
+      "title": "Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy",
+      "authors": "Shuhai Zhang, Yiliao Song, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui Tan",
+      "paper_url": "https://openreview.net/pdf?id=3fEKavFsnv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_zWqr3MQuNs",
+      "paper_id": "zWqr3MQuNs",
+      "title": "Detecting Pretraining Data from Large Language Models",
+      "authors": "Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, Luke Zettlemoyer",
+      "paper_url": "https://openreview.net/pdf?id=zWqr3MQuNs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Q42f0dfjECO",
+      "paper_id": "Q42f0dfjECO",
+      "title": "Differentially Private Fine-tuning of Language Models",
+      "authors": "Da Yu, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A Inan, Gautam Kamath, Janardhan Kulkarni, Yin Tat Lee, Andre Manoel, Lukas Wutschitz, Sergey Yekhanin, Huishuai Zhang",
+      "paper_url": "https://openreview.net/pdf/a7f73a09ee1b6071d23daf0142ff02e4926db6e9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_lLkgj7FEtZ",
+      "paper_id": "lLkgj7FEtZ",
+      "title": "Differentially Private Steering for Large Language Model Alignment",
+      "authors": "Anmol Goel, Yaxi Hu, Iryna Gurevych, Amartya Sanyal",
+      "paper_url": "https://openreview.net/pdf?id=lLkgj7FEtZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_YEhQs8POIo",
+      "paper_id": "YEhQs8POIo",
+      "title": "Differentially Private Synthetic Data via Foundation Model APIs 1: Images",
+      "authors": "Zinan Lin, Sivakanth Gopi, Janardhan Kulkarni, Harsha Nori, Sergey Yekhanin",
+      "paper_url": "https://openreview.net/pdf?id=YEhQs8POIo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_goBaGHLAdP",
+      "paper_id": "goBaGHLAdP",
+      "title": "Directional Gradient Projection for Robust Fine-Tuning of Foundation Models",
+      "authors": "Chengyue Huang, Junjiao Tian, Brisa Maneechotesuwan, Shivang Chopra, Zsolt Kira",
+      "paper_url": "https://openreview.net/pdf?id=goBaGHLAdP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YauQYh2k1g",
+      "paper_id": "YauQYh2k1g",
+      "title": "Dissecting Adversarial Robustness of Multimodal LM Agents",
+      "authors": "Chen Henry Wu, Rishi Rajesh Shah, Jing Yu Koh, Russ Salakhutdinov, Daniel Fried, Aditi Raghunathan",
+      "paper_url": "https://openreview.net/pdf?id=YauQYh2k1g",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Xlayxj2fWp",
+      "paper_id": "Xlayxj2fWp",
+      "title": "DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text",
+      "authors": "Xianjun Yang, Wei Cheng, Yue Wu, Linda Ruth Petzold, William Yang Wang, Haifeng Chen",
+      "paper_url": "https://openreview.net/pdf?id=Xlayxj2fWp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_lXE5lB6ppV",
+      "paper_id": "lXE5lB6ppV",
+      "title": "Do as I do (Safely): Mitigating Task-Specific Fine-tuning Risks in Large Language Models",
+      "authors": "Francisco Eiras, Aleksandar Petrov, Philip Torr, M. Pawan Kumar, Adel Bibi",
+      "paper_url": "https://openreview.net/pdf?id=lXE5lB6ppV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_aJUuere4fM",
+      "paper_id": "aJUuere4fM",
+      "title": "Does Refusal Training in LLMs Generalize to the Past Tense?",
+      "authors": "Maksym Andriushchenko, Nicolas Flammarion",
+      "paper_url": "https://openreview.net/pdf?id=aJUuere4fM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_LO4MEPoqrG",
+      "paper_id": "LO4MEPoqrG",
+      "title": "Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?",
+      "authors": "Sravanti Addepalli, Yerram Varun, Arun Suggala, Karthikeyan Shanmugam, Prateek Jain",
+      "paper_url": "https://openreview.net/pdf?id=LO4MEPoqrG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Ifz3IgsEPX",
+      "paper_id": "Ifz3IgsEPX",
+      "title": "DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer",
+      "authors": "Junyuan Hong, Jiachen T. Wang, Chenhui Zhang, Zhangheng LI, Bo Li, Zhangyang Wang",
+      "paper_url": "https://openreview.net/pdf?id=Ifz3IgsEPX",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_41uZB8bDFh",
+      "paper_id": "41uZB8bDFh",
+      "title": "Durable Quantization Conditioned Misalignment Attack on Large Language Models",
+      "authors": "Peiran Dong, Haowei Li, Song Guo",
+      "paper_url": "https://openreview.net/pdf?id=41uZB8bDFh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_nsCOeCLR8e",
+      "paper_id": "nsCOeCLR8e",
+      "title": "DynFrs: An Efficient Framework for Machine Unlearning in Random Forest",
+      "authors": "Shurong Wang, Zhuoyang Shen, Xinbao Qiao, Tongning Zhang, Meng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=nsCOeCLR8e",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jCDF7G3LpF",
+      "paper_id": "jCDF7G3LpF",
+      "title": "EFFICIENT JAILBREAK ATTACK SEQUENCES ON LARGE LANGUAGE MODELS VIA MULTI-ARMED BANDIT-BASED CONTEXT SWITCHING",
+      "authors": "Aditya Ramesh, Shivam Bhardwaj, Aditya Saibewar, Manohar Kaul",
+      "paper_url": "https://openreview.net/pdf?id=jCDF7G3LpF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_fhcu4FBLciL",
+      "paper_id": "fhcu4FBLciL",
+      "title": "Efficient Model Updates for Approximate Unlearning of Graph-Structured Data",
+      "authors": "Eli Chien, Chao Pan, Olgica Milenkovic",
+      "paper_url": "https://openreview.net/pdf/1651053a4b3f9ed11277a7dab44f3ad0d5956b29.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_xMOLUzo2Lk",
+      "paper_id": "xMOLUzo2Lk",
+      "title": "EIA: ENVIRONMENTAL INJECTION ATTACK ON GENERALIST WEB AGENTS FOR PRIVACY LEAKAGE",
+      "authors": "Zeyi Liao, Lingbo Mo, Chejian Xu, Mintong Kang, Jiawei Zhang, Chaowei Xiao, Yuan Tian, Bo Li, Huan Sun",
+      "paper_url": "https://openreview.net/pdf?id=xMOLUzo2Lk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sYNWqQYJhz",
+      "paper_id": "sYNWqQYJhz",
+      "title": "Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models",
+      "authors": "Rui Ye, Jingyi Chai, Xiangrui Liu, Yaodong Yang, Yanfeng Wang, Siheng Chen",
+      "paper_url": "https://openreview.net/pdf?id=sYNWqQYJhz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_FEpAUnS7f7",
+      "paper_id": "FEpAUnS7f7",
+      "title": "Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents",
+      "authors": "BOLUN SUN, Yifan Zhou, Haiyun Jiang",
+      "paper_url": "https://openreview.net/pdf?id=FEpAUnS7f7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pbre0HKsfE",
+      "paper_id": "pbre0HKsfE",
+      "title": "Encryption-Friendly LLM Architecture",
+      "authors": "Donghwan Rho, Taeseong Kim, Minje Park, Jung Woo Kim, Hyunsik Chae, Ernest K. Ryu, Jung Hee Cheon",
+      "paper_url": "https://openreview.net/pdf?id=pbre0HKsfE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ztpy1gsUpT",
+      "paper_id": "ztpy1gsUpT",
+      "title": "Enhancing Small Medical Learners with Privacy-preserving Contextual Prompting",
+      "authors": "Xinlu Zhang, Shiyang Li, Xianjun Yang, Chenxin Tian, Yao Qin, Linda Ruth Petzold",
+      "paper_url": "https://openreview.net/pdf?id=ztpy1gsUpT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_zSwH0Wo2wo",
+      "paper_id": "zSwH0Wo2wo",
+      "title": "Explore, Establish, Exploit: Red Teaming Language Models from Scratch",
+      "authors": "Stephen Casper, Jason Lin, Joe Kwon, Gatlen Culp, Dylan Hadfield-Menell",
+      "paper_url": "https://openreview.net/pdf?id=zSwH0Wo2wo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wvFnqVVUhN",
+      "paper_id": "wvFnqVVUhN",
+      "title": "Failures to Find Transferable Image Jailbreaks Between Vision-Language Models",
+      "authors": "Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristobal Eyzaguirre, Zane Durante, Joe Benton, Brando Miranda, Henry Sleight, Tony Tong Wang, John Hughes, Rajashree Agrawal, Mrinank Sharma, Scott Emmons, Sanmi Koyejo, Ethan Perez",
+      "paper_url": "https://openreview.net/pdf?id=wvFnqVVUhN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_N6JECD-PI5w",
+      "paper_id": "N6JECD-PI5w",
+      "title": "FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders",
+      "authors": "Pengyu Cheng, Weituo Hao, Siyang Yuan, Shijing Si, Lawrence Carin",
+      "paper_url": "https://openreview.net/pdf/c3b19ced57b7827c059693736c4217a27b682d92.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_RSGoXnS9GH",
+      "paper_id": "RSGoXnS9GH",
+      "title": "FairMT-Bench: Benchmarking Fairness for Multi-turn Dialogue in Conversational LLMs",
+      "authors": "Zhiting Fan, Ruizhe Chen, Tianxiang Hu, Zuozhu Liu",
+      "paper_url": "https://openreview.net/pdf?id=RSGoXnS9GH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_-llS6TiOew",
+      "paper_id": "-llS6TiOew",
+      "title": "Fairness in Representation for Multilingual NLP: Insights from Controlled Experiments on Conditional Language Modeling",
+      "authors": "Ada Wan",
+      "paper_url": "https://openreview.net/pdf/1bc81aec7b25823dcaab95c24c1c5c0779bd3c7c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_Bpcgcr8E8Z",
+      "paper_id": "Bpcgcr8E8Z",
+      "title": "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature",
+      "authors": "Guangsheng Bao, Yanbin Zhao, Zhiyang Teng, Linyi Yang, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Bpcgcr8E8Z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_cWiEN1plhJ",
+      "paper_id": "cWiEN1plhJ",
+      "title": "Few-Shot Detection of Machine-Generated Text using Style Representations",
+      "authors": "Rafael Alberto Rivera Soto, Kailin Koch, Aleem Khan, Barry Y. Chen, Marcus Bishop, Nicholas Andrews",
+      "paper_url": "https://openreview.net/pdf?id=cWiEN1plhJ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_hTEGyKf0dZ",
+      "paper_id": "hTEGyKf0dZ",
+      "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+      "authors": "Xiangyu Qi, Yi Zeng, Tinghao Xie, Pin-Yu Chen, Ruoxi Jia, Prateek Mittal, Peter Henderson",
+      "paper_url": "https://openreview.net/pdf?id=hTEGyKf0dZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_X8dzvdkQwO",
+      "paper_id": "X8dzvdkQwO",
+      "title": "Fine-tuning can Help Detect Pretraining Data from Large Language Models",
+      "authors": "Hengxiang Zhang, Songxin Zhang, Bingyi Jing, Hongxin Wei",
+      "paper_url": "https://openreview.net/pdf?id=X8dzvdkQwO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_hnrB5YHoYu",
+      "paper_id": "hnrB5YHoYu",
+      "title": "Finetuning Text-to-Image Diffusion Models for Fairness",
+      "authors": "Xudong Shen, Chao Du, Tianyu Pang, Min Lin, Yongkang Wong, Mohan Kankanhalli",
+      "paper_url": "https://openreview.net/pdf?id=hnrB5YHoYu",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_j3krplz_4w6",
+      "paper_id": "j3krplz_4w6",
+      "title": "Fooling Explanations in Text Classifiers",
+      "authors": "Adam Ivankay, Ivan Girardi, Chiara Marchiori, Pascal Frossard",
+      "paper_url": "https://openreview.net/pdf/1625b3e98423b8b43cb565c202827783d512083c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_uhaLuZcCjH",
+      "paper_id": "uhaLuZcCjH",
+      "title": "Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks",
+      "authors": "Zi Wang, Divyam Anshumaan, Ashish Hooda, Yudong Chen, Somesh Jha",
+      "paper_url": "https://openreview.net/pdf?id=uhaLuZcCjH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_an3fugFA23",
+      "paper_id": "an3fugFA23",
+      "title": "Glimpse: Enabling White-Box Methods to Use Proprietary Models for Zero-Shot LLM-Generated Text Detection",
+      "authors": "Guangsheng Bao, Yanbin Zhao, Juncai He, Yue Zhang",
+      "paper_url": "https://openreview.net/pdf?id=an3fugFA23",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_X9yCkmT5Qrl",
+      "paper_id": "X9yCkmT5Qrl",
+      "title": "GNNDelete: A General Strategy for Unlearning in Graph Neural Networks",
+      "authors": "Jiali Cheng, George Dasoulas, Huan He, Chirag Agarwal, Marinka Zitnik",
+      "paper_url": "https://openreview.net/pdf/d344e51366b6eeb1347bf96857a1cdeb5ca03e64.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_MbfAK4s61A",
+      "paper_id": "MbfAK4s61A",
+      "title": "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher",
+      "authors": "Youliang Yuan, Wenxiang Jiao, Wenxuan Wang, Jen-tse Huang, Pinjia He, Shuming Shi, Zhaopeng Tu",
+      "paper_url": "https://openreview.net/pdf?id=MbfAK4s61A",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_zZ8fgXHkXi",
+      "paper_id": "zZ8fgXHkXi",
+      "title": "h4rm3l: A Language for Composable Jailbreak Attack Synthesis",
+      "authors": "Moussa Koulako Bala Doumbouya, Ananjan Nandi, Gabriel Poesia, Davide Ghilardi, Anna Goldie, Federico Bianchi, Dan Jurafsky, Christopher D Manning",
+      "paper_url": "https://openreview.net/pdf?id=zZ8fgXHkXi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_C3TrHWanh5",
+      "paper_id": "C3TrHWanh5",
+      "title": "Hessian-Free Online Certified Unlearning",
+      "authors": "Xinbao Qiao, Meng Zhang, Ming Tang, Ermin Wei",
+      "paper_url": "https://openreview.net/pdf?id=C3TrHWanh5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NGKQoaqLpo",
+      "paper_id": "NGKQoaqLpo",
+      "title": "How new data permeates LLM knowledge and how to dilute it",
+      "authors": "Chen Sun, Renat Aksitov, Andrey Zhmoginov, Nolan Andrew Miller, Max Vladymyrov, Ulrich Rueckert, Been Kim, Mark Sandler",
+      "paper_url": "https://openreview.net/pdf?id=NGKQoaqLpo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_PIpGN5Ko3v",
+      "paper_id": "PIpGN5Ko3v",
+      "title": "Humanizing the Machine: Proxy Attacks to Mislead LLM Detectors",
+      "authors": "Tianchun Wang, Yuanzhou Chen, Zichuan Liu, Zhanwen Chen, Haifeng Chen, Xiang Zhang, Wei Cheng",
+      "paper_url": "https://openreview.net/pdf?id=PIpGN5Ko3v",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_GEcwtMk1uA",
+      "paper_id": "GEcwtMk1uA",
+      "title": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox",
+      "authors": "Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J. Maddison, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf?id=GEcwtMk1uA",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_e9yfCY7Q3U",
+      "paper_id": "e9yfCY7Q3U",
+      "title": "Improved Techniques for Optimization-Based Jailbreaking on Large Language Models",
+      "authors": "Xiaojun Jia, Tianyu Pang, Chao Du, Yihao Huang, Jindong Gu, Yang Liu, Xiaochun Cao, Min Lin",
+      "paper_url": "https://openreview.net/pdf?id=e9yfCY7Q3U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_NLPzL6HWNl",
+      "paper_id": "NLPzL6HWNl",
+      "title": "Improving LoRA in Privacy-preserving Federated Learning",
+      "authors": "Youbang Sun, Zitao Li, Yaliang Li, Bolin Ding",
+      "paper_url": "https://openreview.net/pdf?id=NLPzL6HWNl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9QPH1YQCMn",
+      "paper_id": "9QPH1YQCMn",
+      "title": "Infilling Score: A Pretraining Data Detection Algorithm for Large Language Models",
+      "authors": "Negin Raoof, Litu Rout, Giannis Daras, Sujay Sanghavi, Constantine Caramanis, Sanjay Shakkottai, Alex Dimakis",
+      "paper_url": "https://openreview.net/pdf?id=9QPH1YQCMn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_hpH98mK5Puk",
+      "paper_id": "hpH98mK5Puk",
+      "title": "InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective",
+      "authors": "Boxin Wang, Shuohang Wang, Yu Cheng, Zhe Gan, Ruoxi Jia, Bo Li, Jingjing Liu",
+      "paper_url": "https://openreview.net/pdf/979f4c1546f37b773853220cc456e35122193f84.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_aSy2nYwiZ2",
+      "paper_id": "aSy2nYwiZ2",
+      "title": "Injecting Universal Jailbreak Backdoors into LLMs in Minutes",
+      "authors": "Zhuowei Chen, Qiannan Zhang, Shichao Pei",
+      "paper_url": "https://openreview.net/pdf?id=aSy2nYwiZ2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sjWG7B8dvt",
+      "paper_id": "sjWG7B8dvt",
+      "title": "Instructional Segment Embedding: Improving LLM Safety with Instruction Hierarchy",
+      "authors": "Tong Wu, Shujian Zhang, Kaiqiang Song, Silei Xu, Sanqiang Zhao, Ravi Agrawal, Sathish Reddy Indurthi, Chong Xiang, Prateek Mittal, Wenxuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=sjWG7B8dvt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_9LdJDU7E91",
+      "paper_id": "9LdJDU7E91",
+      "title": "IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities",
+      "authors": "Ziyang Li, Saikat Dutta, Mayur Naik",
+      "paper_url": "https://openreview.net/pdf?id=9LdJDU7E91",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_s20W12XTF8",
+      "paper_id": "s20W12XTF8",
+      "title": "Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models",
+      "authors": "Guobin Shen, Dongcheng Zhao, Yiting Dong, Xiang He, Yi Zeng",
+      "paper_url": "https://openreview.net/pdf?id=s20W12XTF8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_plmBsXHxgR",
+      "paper_id": "plmBsXHxgR",
+      "title": "Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models",
+      "authors": "Erfan Shayegani, Yue Dong, Nael Abu-Ghazaleh",
+      "paper_url": "https://openreview.net/pdf?id=plmBsXHxgR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_hXA8wqRdyV",
+      "paper_id": "hXA8wqRdyV",
+      "title": "Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks",
+      "authors": "Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion",
+      "paper_url": "https://openreview.net/pdf?id=hXA8wqRdyV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_SIZWiya7FE",
+      "paper_id": "SIZWiya7FE",
+      "title": "Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models",
+      "authors": "Shaofei Shen, Chenhao Zhang, Yawen Zhao, Alina Bialkowski, Weitong Tony Chen, Miao Xu",
+      "paper_url": "https://openreview.net/pdf?id=SIZWiya7FE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_4eJDMjYZZG",
+      "paper_id": "4eJDMjYZZG",
+      "title": "Language Model Detectors Are Easily Optimized Against",
+      "authors": "Charlotte Nicks, Eric Mitchell, Rafael Rafailov, Archit Sharma, Christopher D Manning, Chelsea Finn, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf?id=4eJDMjYZZG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_82p8VHRsaK",
+      "paper_id": "82p8VHRsaK",
+      "title": "Language Models are Advanced Anonymizers",
+      "authors": "Robin Staab, Mark Vero, Mislav Balunovic, Martin Vechev",
+      "paper_url": "https://openreview.net/pdf?id=82p8VHRsaK",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_bVuP3ltATMz",
+      "paper_id": "bVuP3ltATMz",
+      "title": "Large Language Models Can Be Strong Differentially Private Learners",
+      "authors": "Xuechen Li, Florian Tramer, Percy Liang, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf/d88e1e721c4085b8a6403837f45b8c483ad0225b.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_1mXufFuv95",
+      "paper_id": "1mXufFuv95",
+      "title": "Learning Diverse Attacks on Large Language Models for Robust Red-Teaming and Safety Tuning",
+      "authors": "Seanie Lee, Minsu Kim, Lynn Cherif, David Dobre, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi, Gauthier Gidel, Yoshua Bengio, Nikolay Malkin, Moksh Jain",
+      "paper_url": "https://openreview.net/pdf?id=1mXufFuv95",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_6ESRicalFE",
+      "paper_id": "6ESRicalFE",
+      "title": "LLM Unlearning via Loss Adjustment with Only Forget Data",
+      "authors": "Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Shah, Yujia Bao, Yang Liu, Wei Wei",
+      "paper_url": "https://openreview.net/pdf?id=6ESRicalFE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_9hjVoPWPnh",
+      "paper_id": "9hjVoPWPnh",
+      "title": "Machine Unlearning for Image-to-Image Generative Models",
+      "authors": "Guihong Li, Hsiang Hsu, Chun-Fu Chen, Radu Marculescu",
+      "paper_url": "https://openreview.net/pdf?id=9hjVoPWPnh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_VzwfoFyYDga",
+      "paper_id": "VzwfoFyYDga",
+      "title": "Machine Unlearning of Federated Clusters",
+      "authors": "Chao Pan, Jin Sima, Saurav Prakash, Vishal Rana, Olgica Milenkovic",
+      "paper_url": "https://openreview.net/pdf/51ee65b11a32de7ad446a5917d748f9da5399714.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_3vXpZpOn29",
+      "paper_id": "3vXpZpOn29",
+      "title": "Machine Unlearning via Simulated Oracle Matching",
+      "authors": "Kristian Georgiev, Roy Rinberg, Sung Min Park, Shivam Garg, Andrew Ilyas, Aleksander Madry, Seth Neel",
+      "paper_url": "https://openreview.net/pdf?id=3vXpZpOn29",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_590yfqz1LE",
+      "paper_id": "590yfqz1LE",
+      "title": "Measuring Non-Adversarial Reproduction of Training Data in Large Language Models",
+      "authors": "Michael Aerni, Javier Rando, Edoardo Debenedetti, Nicholas Carlini, Daphne Ippolito, Florian Tramèr",
+      "paper_url": "https://openreview.net/pdf?id=590yfqz1LE",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZGkfoufDaU",
+      "paper_id": "ZGkfoufDaU",
+      "title": "Min-K%++: Improved Baseline for Pre-Training Data Detection from Large Language Models",
+      "authors": "Jingyang Zhang, Jingwei Sun, Eric Yeats, Yang Ouyang, Martin Kuo, Jianyi Zhang, Hao Frank Yang, Hai Li",
+      "paper_url": "https://openreview.net/pdf?id=ZGkfoufDaU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_lOi6FtIwR8",
+      "paper_id": "lOi6FtIwR8",
+      "title": "Model Editing as a Robust and Denoised variant of DPO: A Case Study on Toxicity",
+      "authors": "Rheeya Uppaal, Apratim Dey, Yiting He, Yiqiao Zhong, Junjie Hu",
+      "paper_url": "https://openreview.net/pdf?id=lOi6FtIwR8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_CWmvjOEhgH-",
+      "paper_id": "CWmvjOEhgH-",
+      "title": "MPCFORMER: FAST, PERFORMANT AND PRIVATE TRANSFORMER INFERENCE WITH MPC",
+      "authors": "Dacheng Li, Hongyi Wang, Rulin Shao, Han Guo, Eric Xing, Hao Zhang",
+      "paper_url": "https://openreview.net/pdf/f2f107f5dbed42ef3523a9abb2677e2c00c61c31.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_vESNKdEMGp",
+      "paper_id": "vESNKdEMGp",
+      "title": "Multilingual Jailbreak Challenges in Large Language Models",
+      "authors": "Yue Deng, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing",
+      "paper_url": "https://openreview.net/pdf?id=vESNKdEMGp",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_5Lp6qU9hzV",
+      "paper_id": "5Lp6qU9hzV",
+      "title": "Multiscale Positive-Unlabeled Detection of AI-Generated Texts",
+      "authors": "Yuchuan Tian, Hanting Chen, Xutao Wang, Zheyuan Bai, QINGHUA ZHANG, Ruifeng Li, Chao Xu, Yunhe Wang",
+      "paper_url": "https://openreview.net/pdf?id=5Lp6qU9hzV",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_TArmA033BU",
+      "paper_id": "TArmA033BU",
+      "title": "MUSE: Machine Unlearning Six-Way Evaluation for Language Models",
+      "authors": "Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=TArmA033BU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wUbum0nd9N",
+      "paper_id": "wUbum0nd9N",
+      "title": "On Calibration of LLM-based Guard Models for Reliable Content Moderation",
+      "authors": "Hongfu Liu, Hengguan Huang, Xiangming Gu, Hao Wang, Ye Wang",
+      "paper_url": "https://openreview.net/pdf?id=wUbum0nd9N",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fXJCqdUSVG",
+      "paper_id": "fXJCqdUSVG",
+      "title": "On Evaluating the Durability of Safeguards for Open-Weight LLMs",
+      "authors": "Xiangyu Qi, Boyi Wei, Nicholas Carlini, Yangsibo Huang, Tinghao Xie, Luxi He, Matthew Jagielski, Milad Nasr, Prateek Mittal, Peter Henderson",
+      "paper_url": "https://openreview.net/pdf?id=fXJCqdUSVG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Essg9kb4yx",
+      "paper_id": "Essg9kb4yx",
+      "title": "On Large Language Model Continual Unlearning",
+      "authors": "Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu",
+      "paper_url": "https://openreview.net/pdf?id=Essg9kb4yx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_h0Ak8A5yqw",
+      "paper_id": "h0Ak8A5yqw",
+      "title": "On the Role of Attention Heads in Large Language Model Safety",
+      "authors": "Zhenhong Zhou, Haiyang Yu, Xinghua Zhang, Rongwu Xu, Fei Huang, Kun Wang, Yang Liu, Junfeng Fang, Yongbin Li",
+      "paper_url": "https://openreview.net/pdf?id=h0Ak8A5yqw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_sULAwlAWc1",
+      "paper_id": "sULAwlAWc1",
+      "title": "One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs",
+      "authors": "Linbao Li, Yannan Liu, Daojing He, YU LI",
+      "paper_url": "https://openreview.net/pdf?id=sULAwlAWc1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_rWjZWHYPcz",
+      "paper_id": "rWjZWHYPcz",
+      "title": "PaLD: Detection of Text Partially Written by Large Language Models",
+      "authors": "Eric Lei, Hsiang Hsu, Chun-Fu Chen",
+      "paper_url": "https://openreview.net/pdf?id=rWjZWHYPcz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_txoJvjfI9w",
+      "paper_id": "txoJvjfI9w",
+      "title": "PEARL: Towards Permutation-Resilient LLMs",
+      "authors": "Liang CHEN, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong",
+      "paper_url": "https://openreview.net/pdf?id=txoJvjfI9w",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eiqrnVaeIw",
+      "paper_id": "eiqrnVaeIw",
+      "title": "Persistent Pre-training Poisoning of LLMs",
+      "authors": "Yiming Zhang, Javier Rando, Ivan Evtimov, Jianfeng Chi, Eric Michael Smith, Nicholas Carlini, Florian Tramèr, Daphne Ippolito",
+      "paper_url": "https://openreview.net/pdf?id=eiqrnVaeIw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_jKcZ4hF4s5",
+      "paper_id": "jKcZ4hF4s5",
+      "title": "Positive-Unlabeled Diffusion Models for Preventing Sensitive Data Generation",
+      "authors": "Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka, Tomoya Yamashita",
+      "paper_url": "https://openreview.net/pdf?id=jKcZ4hF4s5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_60Vd7QOXlM",
+      "paper_id": "60Vd7QOXlM",
+      "title": "Privacy Auditing of Large Language Models",
+      "authors": "Ashwinee Panda, Xinyu Tang, Christopher A. Choquette-Choo, Milad Nasr, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf?id=60Vd7QOXlM",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_x4OPJ7lHVU",
+      "paper_id": "x4OPJ7lHVU",
+      "title": "Privacy-Preserving In-Context Learning for Large Language Models",
+      "authors": "Tong Wu, Ashwinee Panda, Jiachen T. Wang, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf?id=x4OPJ7lHVU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_oZtt0pRnOl",
+      "paper_id": "oZtt0pRnOl",
+      "title": "Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation",
+      "authors": "Xinyu Tang, Richard Shin, Huseyin A Inan, Andre Manoel, Fatemehsadat Mireshghallah, Zinan Lin, Sivakanth Gopi, Janardhan Kulkarni, Robert Sim",
+      "paper_url": "https://openreview.net/pdf?id=oZtt0pRnOl",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Equ277PBN0",
+      "paper_id": "Equ277PBN0",
+      "title": "Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models",
+      "authors": "Linh Tran, Wei Sun, Stacy Patterson, Ana Milanova",
+      "paper_url": "https://openreview.net/pdf?id=Equ277PBN0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_io8uRPYktn",
+      "paper_id": "io8uRPYktn",
+      "title": "Proactive Privacy Amnesia for Large Language Models: Safeguarding PII with Negligible Impact on Model Utility",
+      "authors": "Martin Kuo, Jingyang Zhang, Jianyi Zhang, Minxue Tang, Louis DiValentin, Aolin Ding, Jingwei Sun, William Chen, Amin Hass, Tianlong Chen, Yiran Chen, Hai Li",
+      "paper_url": "https://openreview.net/pdf?id=io8uRPYktn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_EbxYDBhE3S",
+      "paper_id": "EbxYDBhE3S",
+      "title": "Probe before You Talk: Towards Black-box Defense against Backdoor Unalignment for Large Language Models",
+      "authors": "Biao Yi, Tiansheng Huang, Sishuo Chen, Tong Li, Zheli Liu, Zhixuan Chu, Yiming Li",
+      "paper_url": "https://openreview.net/pdf?id=EbxYDBhE3S",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_5tGGWOijvq",
+      "paper_id": "5tGGWOijvq",
+      "title": "Prompt Risk Control: A Rigorous Framework for Responsible Deployment of Large Language Models",
+      "authors": "Thomas P Zollo, Todd Morrill, Zhun Deng, Jake Snell, Toniann Pitassi, Richard Zemel",
+      "paper_url": "https://openreview.net/pdf?id=5tGGWOijvq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_7GKbQ1WT1C",
+      "paper_id": "7GKbQ1WT1C",
+      "title": "Prompting Fairness: Integrating Causality to Debias Large Language Models",
+      "authors": "Jingling Li, Zeyu Tang, Xiaoyu Liu, Peter Spirtes, Kun Zhang, Liu Leqi, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=7GKbQ1WT1C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dh78yRFVK9",
+      "paper_id": "dh78yRFVK9",
+      "title": "Provable unlearning in topic modeling and downstream tasks",
+      "authors": "Stanley Wei, Sadhika Malladi, Sanjeev Arora, Amartya Sanyal",
+      "paper_url": "https://openreview.net/pdf?id=dh78yRFVK9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_KS8mIvetg2",
+      "paper_id": "KS8mIvetg2",
+      "title": "Proving Test Set Contamination in Black-Box Language Models",
+      "authors": "Yonatan Oren, Nicole Meister, Niladri S. Chatterji, Faisal Ladhak, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf?id=KS8mIvetg2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_bQWE2UqXmf",
+      "paper_id": "bQWE2UqXmf",
+      "title": "Raidar: geneRative AI Detection viA Rewriting",
+      "authors": "Chengzhi Mao, Carl Vondrick, Hao Wang, Junfeng Yang",
+      "paper_url": "https://openreview.net/pdf?id=bQWE2UqXmf",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_txZVQRc2ab",
+      "paper_id": "txZVQRc2ab",
+      "title": "RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models",
+      "authors": "Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang",
+      "paper_url": "https://openreview.net/pdf?id=txZVQRc2ab",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_huo8MqVH6t",
+      "paper_id": "huo8MqVH6t",
+      "title": "Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond",
+      "authors": "Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han, Kilian Q Weinberger",
+      "paper_url": "https://openreview.net/pdf?id=huo8MqVH6t",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_s5orchdb33",
+      "paper_id": "s5orchdb33",
+      "title": "Robust LLM safeguarding via refusal feature adversarial training",
+      "authors": "Lei Yu, Virginie Do, Karen Hambardzumyan, Nicola Cancedda",
+      "paper_url": "https://openreview.net/pdf?id=s5orchdb33",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_L5godAOC2z",
+      "paper_id": "L5godAOC2z",
+      "title": "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction",
+      "authors": "Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang",
+      "paper_url": "https://openreview.net/pdf?id=L5godAOC2z",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kUH1yPMAn7",
+      "paper_id": "kUH1yPMAn7",
+      "title": "Safety Layers in Aligned Large Language Models: The Key to LLM Security",
+      "authors": "Shen Li, Liuyi Yao, Lan Zhang, Yaliang Li",
+      "paper_url": "https://openreview.net/pdf?id=kUH1yPMAn7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_gT5hALch9z",
+      "paper_id": "gT5hALch9z",
+      "title": "Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions",
+      "authors": "Federico Bianchi, Mirac Suzgun, Giuseppe Attanasio, Paul Rottger, Dan Jurafsky, Tatsunori Hashimoto, James Zou",
+      "paper_url": "https://openreview.net/pdf?id=gT5hALch9z",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_gn0mIhQGNM",
+      "paper_id": "gn0mIhQGNM",
+      "title": "SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation",
+      "authors": "Chongyu Fan, Jiancheng Liu, Yihua Zhang, Eric Wong, Dennis Wei, Sijia Liu",
+      "paper_url": "https://openreview.net/pdf?id=gn0mIhQGNM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9WYMDgxDac",
+      "paper_id": "9WYMDgxDac",
+      "title": "Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models",
+      "authors": "Qingni Wang, Tiantian Geng, Zhiyuan Wang, Teng Wang, Bo Fu, Feng Zheng",
+      "paper_url": "https://openreview.net/pdf?id=9WYMDgxDac",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_pPyJyeLriR",
+      "paper_id": "pPyJyeLriR",
+      "title": "Scalable and Certifiable Graph Unlearning: Overcoming the Approximation Error Barrier",
+      "authors": "Lu Yi, Zhewei Wei",
+      "paper_url": "https://openreview.net/pdf?id=pPyJyeLriR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YzxMu1asQi",
+      "paper_id": "YzxMu1asQi",
+      "title": "Scaling Laws for Adversarial Attacks on Language Model Activations and Tokens",
+      "authors": "Stanislav Fort",
+      "paper_url": "https://openreview.net/pdf?id=YzxMu1asQi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gjwhDHeAsz",
+      "paper_id": "gjwhDHeAsz",
+      "title": "Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning in Diffusion Models",
+      "authors": "Tianqi Chen, Shujian Zhang, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=gjwhDHeAsz",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VHguhvcoM5",
+      "paper_id": "VHguhvcoM5",
+      "title": "SEAL: Safety-enhanced Aligned LLM Fine-tuning via Bilevel Data Selection",
+      "authors": "Han Shen, Pin-Yu Chen, Payel Das, Tianyi Chen",
+      "paper_url": "https://openreview.net/pdf?id=VHguhvcoM5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_2cF3f9t31y",
+      "paper_id": "2cF3f9t31y",
+      "title": "SelectFormer in Data Markets: Privacy-Preserving and Efficient Data Selection for Transformers with Multi-Party Computation",
+      "authors": "Xu Ouyang, Felix Xiaozhu Lin, Yangfeng Ji",
+      "paper_url": "https://openreview.net/pdf?id=2cF3f9t31y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KzSGJy1PIf",
+      "paper_id": "KzSGJy1PIf",
+      "title": "Selective Unlearning via Representation Erasure Using Domain Adversarial Training",
+      "authors": "Nazanin Mohammadi Sepahvand, Eleni Triantafillou, Hugo Larochelle, Doina Precup, James J. Clark, Daniel M. Roy, Gintare Karolina Dziugaite",
+      "paper_url": "https://openreview.net/pdf?id=KzSGJy1PIf",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_kO0DgO07hW",
+      "paper_id": "kO0DgO07hW",
+      "title": "Semantic Loss Guided Data Efficient Supervised Fine Tuning for Safe Responses in LLMs",
+      "authors": "Yuxiao Lu, Arunesh Sinha, Pradeep Varakantham",
+      "paper_url": "https://openreview.net/pdf?id=kO0DgO07hW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_YfKNaRktan",
+      "paper_id": "YfKNaRktan",
+      "title": "SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal",
+      "authors": "Tinghao Xie, Xiangyu Qi, Yi Zeng, Yangsibo Huang, Udari Madhushani Sehwag, Kaixuan Huang, Luxi He, Boyi Wei, Dacheng Li, Ying Sheng, Ruoxi Jia, Bo Li, Kai Li, Danqi Chen, Peter Henderson, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf?id=YfKNaRktan",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_SCBn8MCLwc",
+      "paper_id": "SCBn8MCLwc",
+      "title": "Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation",
+      "authors": "Xinpeng Wang, Chengzhi Hu, Paul Röttger, Barbara Plank",
+      "paper_url": "https://openreview.net/pdf?id=SCBn8MCLwc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_4FIjRodbW6",
+      "paper_id": "4FIjRodbW6",
+      "title": "Tamper-Resistant Safeguards for Open-Weight LLMs",
+      "authors": "Rishub Tamirisa, Bhrugu Bharathi, Long Phan, Andy Zhou, Alice Gatti, Tarun Suresh, Maxwell Lin, Justin Wang, Rowan Wang, Ron Arel, Andy Zou, Dawn Song, Bo Li, Dan Hendrycks, Mantas Mazeika",
+      "paper_url": "https://openreview.net/pdf?id=4FIjRodbW6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_hpeyWG1PP6",
+      "paper_id": "hpeyWG1PP6",
+      "title": "TDDBench: A Benchmark for Training data detection",
+      "authors": "Zhihao Zhu, Yi Yang, Defu Lian",
+      "paper_url": "https://openreview.net/pdf?id=hpeyWG1PP6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qo21ZlfNu6",
+      "paper_id": "qo21ZlfNu6",
+      "title": "Teach LLMs to Phish: Stealing Private Information from Language Models",
+      "authors": "Ashwinee Panda, Christopher A. Choquette-Choo, Zhengming Zhang, Yaoqing Yang, Prateek Mittal",
+      "paper_url": "https://openreview.net/pdf?id=qo21ZlfNu6",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_fsW7wJGLBd",
+      "paper_id": "fsW7wJGLBd",
+      "title": "Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game",
+      "authors": "Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey, Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan Ritter, Stuart Russell",
+      "paper_url": "https://openreview.net/pdf?id=fsW7wJGLBd",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_5tKXUZil3X",
+      "paper_id": "5tKXUZil3X",
+      "title": "TextGrad: Advancing Robustness Evaluation in NLP by Gradient-Driven Optimization",
+      "authors": "Bairu Hou, Jinghan Jia, Yihua Zhang, Guanhua Zhang, Yang Zhang, Sijia Liu, Shiyu Chang",
+      "paper_url": "https://openreview.net/pdf/58c155b8082b3366c06a92d24d638d198650fb53.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_xIWfWvKM7aQ",
+      "paper_id": "xIWfWvKM7aQ",
+      "title": "TextShield: Beyond Successfully Detecting Adversarial Sentences in text classification",
+      "authors": "Lingfeng Shen, Ze Zhang, Haiyun Jiang, Ying Chen",
+      "paper_url": "https://openreview.net/pdf/40ef2e2daf7fd2712ff9dc55e56eb90b342fdaba.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_SQGUDc9tC8",
+      "paper_id": "SQGUDc9tC8",
+      "title": "The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models",
+      "authors": "Yan Liu, Yu Liu, Xiaokang Chen, Pin-Yu Chen, Daoguang Zan, Min-Yen Kan, Tsung-Yi Ho",
+      "paper_url": "https://openreview.net/pdf?id=SQGUDc9tC8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_K0E_F0gFDgA",
+      "paper_id": "K0E_F0gFDgA",
+      "title": "The MultiBERTs: BERT Reproductions for Robustness Analysis",
+      "authors": "Thibault Sellam, Steve Yadlowsky, Ian Tenney, Jason Wei, Naomi Saphra, Alexander D'Amour, Tal Linzen, Jasmijn Bastings, Iulia Raluca Turc, Jacob Eisenstein, Dipanjan Das, Ellie Pavlick",
+      "paper_url": "https://openreview.net/pdf/2e66adcaa5191446f5006eb5db26da387f29ec18.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_HVFMooKrHX",
+      "paper_id": "HVFMooKrHX",
+      "title": "The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning",
+      "authors": "Youssef Allouah, Joshua Kazdan, Rachid Guerraoui, Sanmi Koyejo",
+      "paper_url": "https://openreview.net/pdf?id=HVFMooKrHX",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_2Rwq6c3tvr",
+      "paper_id": "2Rwq6c3tvr",
+      "title": "Time Travel in LLMs: Tracing Data Contamination in Large Language Models",
+      "authors": "Shahriar Golchin, Mihai Surdeanu",
+      "paper_url": "https://openreview.net/pdf?id=2Rwq6c3tvr",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_m2NVG4Htxs",
+      "paper_id": "m2NVG4Htxs",
+      "title": "To the Cutoff... and Beyond? A Longitudinal Perspective on LLM Data Contamination",
+      "authors": "Manley Roberts, Himanshu Thakur, Christine Herlihy, Colin White, Samuel Dooley",
+      "paper_url": "https://openreview.net/pdf?id=m2NVG4Htxs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_xZD10GhCvM",
+      "paper_id": "xZD10GhCvM",
+      "title": "Toward Adversarial Training on Contextualized Language Representation",
+      "authors": "Hongqiu Wu, Yongxiang Liu, Hanwen Shi, hai zhao, Min Zhang",
+      "paper_url": "https://openreview.net/pdf/f99847b969c62de5c7cf014d27a5a81631b43597.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_wUtCieKuQU",
+      "paper_id": "wUtCieKuQU",
+      "title": "Towards Effective Evaluations and Comparisons for LLM Unlearning Methods",
+      "authors": "Qizhou Wang, Bo Han, Puning Yang, Jianing Zhu, Tongliang Liu, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf?id=wUtCieKuQU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_1ExfUpmIW4",
+      "paper_id": "1ExfUpmIW4",
+      "title": "Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs",
+      "authors": "Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee",
+      "paper_url": "https://openreview.net/pdf?id=1ExfUpmIW4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ks5nebunVn_",
+      "paper_id": "ks5nebunVn_",
+      "title": "Towards Robustness Against Natural Language Word Substitutions",
+      "authors": "Xinshuai Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu",
+      "paper_url": "https://openreview.net/pdf/164becb7cba519983d9f4cb5dfe5a1661e8cfa13.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_oe51Q5Uo37",
+      "paper_id": "oe51Q5Uo37",
+      "title": "Towards Scalable Exact Machine Unlearning Using Parameter-Efficient Fine-Tuning",
+      "authors": "Somnath Basu Roy Chowdhury, Krzysztof Marcin Choromanski, Arijit Sehanobish, Kumar Avinava Dubey, Snigdha Chaturvedi",
+      "paper_url": "https://openreview.net/pdf?id=oe51Q5Uo37",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_vo4AHjowKi",
+      "paper_id": "vo4AHjowKi",
+      "title": "Training-free LLM-generated Text Detection by Mining Token Probability Sequences",
+      "authors": "Yihuai Xu, Yongwei Wang, Yifei Bi, Huangsen Cao, Zhouhan Lin, Yu Zhao, Fei Wu",
+      "paper_url": "https://openreview.net/pdf?id=vo4AHjowKi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_yR47RmND1m",
+      "paper_id": "yR47RmND1m",
+      "title": "Understanding and Enhancing Safety Mechanisms of LLMs via Safety-Specific Neuron",
+      "authors": "Yiran Zhao, Wenxuan Zhang, Yuxi Xie, Anirudh Goyal, Kenji Kawaguchi, Michael Shieh",
+      "paper_url": "https://openreview.net/pdf?id=yR47RmND1m",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_asR9FVd4eL",
+      "paper_id": "asR9FVd4eL",
+      "title": "Understanding and Enhancing the Transferability of Jailbreaking Attacks",
+      "authors": "Runqi Lin, Bo Han, Fengwang Li, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=asR9FVd4eL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_eLLBILFRsA",
+      "paper_id": "eLLBILFRsA",
+      "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
+      "authors": "Huimin LU, Masaru Isonuma, Junichiro Mori, Ichiro Sakata",
+      "paper_url": "https://openreview.net/pdf?id=eLLBILFRsA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_FvevdI0aA_h",
+      "paper_id": "FvevdI0aA_h",
+      "title": "Unified Detoxifying and Debiasing in Language Generation via Inference-time Adaptive Optimization",
+      "authors": "Zonghan Yang, Xiaoyuan Yi, Peng Li, Yang Liu, Xing Xie",
+      "paper_url": "https://openreview.net/pdf/d5308cde03505a14781fa29264be9ecd9cba9bc4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_zONMuIVCAT",
+      "paper_id": "zONMuIVCAT",
+      "title": "Unified Parameter-Efficient Unlearning for LLMs",
+      "authors": "Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He",
+      "paper_url": "https://openreview.net/pdf?id=zONMuIVCAT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_GxCGsxiAaK",
+      "paper_id": "GxCGsxiAaK",
+      "title": "Universal Jailbreak Backdoors from Poisoned Human Feedback",
+      "authors": "Javier Rando, Florian Tramèr",
+      "paper_url": "https://openreview.net/pdf?id=GxCGsxiAaK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_5xxGP9x5dZ",
+      "paper_id": "5xxGP9x5dZ",
+      "title": "Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model Accuracy",
+      "authors": "Yangsibo Huang, Daogao Liu, Lynn Chua, Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, Milad Nasr, Amer Sinha, Chiyuan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=5xxGP9x5dZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_fMNRYBvcQN",
+      "paper_id": "fMNRYBvcQN",
+      "title": "Unlearning or Obfuscating? Jogging the Memory of Unlearned LLMs via Benign Relearning",
+      "authors": "Shengyuan Hu, Yiwei Fu, Steven Wu, Virginia Smith",
+      "paper_url": "https://openreview.net/pdf?id=fMNRYBvcQN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_6bcAD6g688",
+      "paper_id": "6bcAD6g688",
+      "title": "Unmasking and Improving Data Credibility: A Study with Datasets for Training Harmless Language Models",
+      "authors": "Zhaowei Zhu, Jialu Wang, Hao Cheng, Yang Liu",
+      "paper_url": "https://openreview.net/pdf?id=6bcAD6g688",
+      "venue": "iclr24"
+    }
+  ]
+}

@@ -1,0 +1,2589 @@
+{
+  "cluster_id": 74,
+  "papers": [
+    {
+      "id": "iclr24_HE9eUQlAvo",
+      "paper_id": "HE9eUQlAvo",
+      "title": "\"What Data Benefits My Classifier?\" Enhancing Model Performance and Interpretability through Influence-Based Data Selection",
+      "authors": "Anshuman Chhabra, Peizhao Li, Prasant Mohapatra, Hongfu Liu",
+      "paper_url": "https://openreview.net/pdf?id=HE9eUQlAvo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_GzNhzX9kVa",
+      "paper_id": "GzNhzX9kVa",
+      "title": "A Benchmark Study on Calibration",
+      "authors": "Linwei Tao, Younan Zhu, Haolan Guo, Minjing Dong, Chang Xu",
+      "paper_url": "https://openreview.net/pdf?id=GzNhzX9kVa",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_rPkCVSsoM4",
+      "paper_id": "rPkCVSsoM4",
+      "title": "A Causal Lens for Learning Long-term Fair Policies",
+      "authors": "Jacob Lear, Lu Zhang",
+      "paper_url": "https://openreview.net/pdf?id=rPkCVSsoM4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_ruGY8v10mK",
+      "paper_id": "ruGY8v10mK",
+      "title": "A Data-Driven Measure of Relative Uncertainty for Misclassification Detection",
+      "authors": "Eduardo Dadalto Câmara Gomes, Marco Romanelli, Georg Pichler, Pablo Piantanida",
+      "paper_url": "https://openreview.net/pdf?id=ruGY8v10mK",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_Dl4LetuLdyK",
+      "paper_id": "Dl4LetuLdyK",
+      "title": "A Fine-Grained Analysis on Distribution Shift",
+      "authors": "Olivia Wiles, Sven Gowal, Florian Stimberg, Sylvestre-Alvise Rebuffi, Ira Ktena, Krishnamurthy Dj Dvijotham, Ali Taylan Cemgil",
+      "paper_url": "https://openreview.net/pdf/6be366539738706234ad0b104ed82361a3c5f6e7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_rdfgqiwz7lZ",
+      "paper_id": "rdfgqiwz7lZ",
+      "title": "A Learning Based Hypothesis Test for Harmful Covariate Shift",
+      "authors": "Tom Ginsberg, Zhongyuan Liang, Rahul G Krishnan",
+      "paper_url": "https://openreview.net/pdf/8f9de31673b00462ace0dc530187edebaca27efa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_7aL-OtQrBWD",
+      "paper_id": "7aL-OtQrBWD",
+      "title": "A Learning Theoretic Perspective on Local Explainability",
+      "authors": "Jeffrey Li, Vaishnavh Nagarajan, Gregory Plumb, Ameet Talwalkar",
+      "paper_url": "https://openreview.net/pdf/7bc360590e883f39ece56cc91233317a9d075582.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_MLJ5TF5FtXH",
+      "paper_id": "MLJ5TF5FtXH",
+      "title": "A Multi-Grained Self-Interpretable Symbolic-Neural Model For Single/Multi-Labeled Text Classification",
+      "authors": "Xiang Hu, XinYu KONG, Kewei Tu",
+      "paper_url": "https://openreview.net/pdf/61a0f38810f4448bf5fb2a81d922d715f92960d9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_IVESH65r0Ar",
+      "paper_id": "IVESH65r0Ar",
+      "title": "A Simple Yet Powerful Deep Active Learning With Snapshots Ensembles",
+      "authors": "Seohyeon Jung, Sanghyun Kim, Juho Lee",
+      "paper_url": "https://openreview.net/pdf/4b4df3d988ecc07d73d78a6a4063cc0c3153a2aa.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_OUz_9TiTv9j",
+      "paper_id": "OUz_9TiTv9j",
+      "title": "A Zest of LIME: Towards Architecture-Independent Model Distances",
+      "authors": "Hengrui Jia, Hongyu Chen, Jonas Guan, Ali Shahin Shamsabadi, Nicolas Papernot",
+      "paper_url": "https://openreview.net/pdf/01c303fb27c1a38f990545d60c831f0fa8f0f2b9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_cUFIil6hEG",
+      "paper_id": "cUFIil6hEG",
+      "title": "Accelerating Training with Neuron Interaction and Nowcasting Networks",
+      "authors": "Boris Knyazev, Abhinav Moudgil, Guillaume Lajoie, Eugene Belilovsky, Simon Lacoste-Julien",
+      "paper_url": "https://openreview.net/pdf?id=cUFIil6hEG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_UvBPbpvHRj-",
+      "paper_id": "UvBPbpvHRj-",
+      "title": "Activation-level uncertainty in deep neural networks",
+      "authors": "Pablo Morales-Alvarez, Daniel Hernández-Lobato, Rafael Molina, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/3675d798eb4cc1b53b84850025e0a9edaee1ddcb.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_MnEjsw-vj-X",
+      "paper_id": "MnEjsw-vj-X",
+      "title": "Active Learning for Object Detection with Evidential Deep Learning and Hierarchical Uncertainty Aggregation",
+      "authors": "Younghyun Park, Wonjeong Choi, Soyeong Kim, Dong-Jun Han, Jaekyun Moon",
+      "paper_url": "https://openreview.net/pdf/fedddd142f0627ab8151b2158be801f8e9c917c4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_ZTMuZ68B1g",
+      "paper_id": "ZTMuZ68B1g",
+      "title": "Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle",
+      "authors": "Jae Oh Woo",
+      "paper_url": "https://openreview.net/pdf/4919425fc00a999aa99ff64ba1e275ca945e9f6f.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kuYxecnlv2",
+      "paper_id": "kuYxecnlv2",
+      "title": "Addressing Label Shift in Distributed Learning via Entropy Regularization​",
+      "authors": "Zhiyuan Wu, Changkyu Choi, Xiangcheng Cao, Volkan Cevher, Ali Ramezani-Kebrya",
+      "paper_url": "https://openreview.net/pdf?id=kuYxecnlv2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9L1BsI4wP1H",
+      "paper_id": "9L1BsI4wP1H",
+      "title": "Adversarially Robust Conformal Prediction",
+      "authors": "Asaf Gendler, Tsui-Wei Weng, Luca Daniel, Yaniv Romano",
+      "paper_url": "https://openreview.net/pdf/8c5857f5c0f9cb907a44054df718409de9263370.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_5OygDd-4Eeh",
+      "paper_id": "5OygDd-4Eeh",
+      "title": "An Additive Instance-Wise Approach to Multi-class Model Interpretation",
+      "authors": "Vy Vo, Van Nguyen, Trung Le, Quan Hung Tran, Gholamreza Haffari, Seyit Camtepe, Dinh Phung",
+      "paper_url": "https://openreview.net/pdf/eec9f35dfb2a2cd0ffec4b6c7bf3eb7b59674819.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_nzjSvVZBIp",
+      "paper_id": "nzjSvVZBIp",
+      "title": "An Effective Manifold-based Optimization Method for Distributionally Robust Classification",
+      "authors": "Jiawei Huang, Hu Ding",
+      "paper_url": "https://openreview.net/pdf?id=nzjSvVZBIp",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_VoI4d6uhdr",
+      "paper_id": "VoI4d6uhdr",
+      "title": "An Effective Theory of Bias Amplification",
+      "authors": "Arjun Subramonian, Samuel Bell, Levent Sagun, Elvis Dohmatob",
+      "paper_url": "https://openreview.net/pdf?id=VoI4d6uhdr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_AmEN51cTKW",
+      "paper_id": "AmEN51cTKW",
+      "title": "An Exact Solver for Satisfiability Modulo Counting with Probabilistic Circuits",
+      "authors": "Jinzhao Li, Nan Jiang, Yexiang Xue",
+      "paper_url": "https://openreview.net/pdf?id=AmEN51cTKW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_kNKFOXleuC",
+      "paper_id": "kNKFOXleuC",
+      "title": "Anytime Dense Prediction with Confidence Adaptivity",
+      "authors": "Zhuang Liu, Zhiqiu Xu, Hung-Ju Wang, Trevor Darrell, Evan Shelhamer",
+      "paper_url": "https://openreview.net/pdf/32a205bf9187cb9f1f299230fb996fb4ca7c920a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_-jP_rDkyfpI",
+      "paper_id": "-jP_rDkyfpI",
+      "title": "Approximate Nearest Neighbor Search through Modern Error-Correcting Codes",
+      "authors": "Noam Touitou, Nissim Halabi",
+      "paper_url": "https://openreview.net/pdf/bb170de971ade1773293d4ad37a9265d38df34db.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_vcX0k4rGTt",
+      "paper_id": "vcX0k4rGTt",
+      "title": "Approximating Full Conformal Prediction for Neural Network Regression with Gauss-Newton Influence",
+      "authors": "Dharmesh Tailor, Alvaro Correia, Eric Nalisnick, Christos Louizos",
+      "paper_url": "https://openreview.net/pdf?id=vcX0k4rGTt",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Ut1vF_q_vC",
+      "paper_id": "Ut1vF_q_vC",
+      "title": "Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?",
+      "authors": "Zhen Qin, Le Yan, Honglei Zhuang, Yi Tay, Rama Kumar Pasumarthi, Xuanhui Wang, Michael Bendersky, Marc Najork",
+      "paper_url": "https://openreview.net/pdf/ad3fca583fdc23233f81a4e1b068afdb9ccb877f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_FsVxd9CIlb",
+      "paper_id": "FsVxd9CIlb",
+      "title": "AttEXplore: Attribution for Explanation with model parameters eXploration",
+      "authors": "Zhiyu Zhu, Huaming Chen, Jiayu Zhang, Xinyi Wang, Zhibo Jin, Jason Xue, Flora D. Salim",
+      "paper_url": "https://openreview.net/pdf?id=FsVxd9CIlb",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_9kJperA2a4",
+      "paper_id": "9kJperA2a4",
+      "title": "AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution",
+      "authors": "Fengyuan Liu, Nikhil Kandpal, Colin Raffel",
+      "paper_url": "https://openreview.net/pdf?id=9kJperA2a4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_z1-I6rOKv1S",
+      "paper_id": "z1-I6rOKv1S",
+      "title": "Autoregressive Quantile Flows for Predictive Uncertainty Estimation",
+      "authors": "Phillip Si, Allan Bishop, Volodymyr Kuleshov",
+      "paper_url": "https://openreview.net/pdf/564438790b7385df4f30b72aafb410555a14f948.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_boik01yhssB",
+      "paper_id": "boik01yhssB",
+      "title": "Average Sensitivity of Decision Tree Learning",
+      "authors": "Satoshi Hara, Yuichi Yoshida",
+      "paper_url": "https://openreview.net/pdf/db4880381e5ca7a65fa5ae7f37e99287c8978e9d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_21rSeWJHPF",
+      "paper_id": "21rSeWJHPF",
+      "title": "Balanced Ranking with Relative Centrality: A multi-core periphery perspective",
+      "authors": "Chandra Sekhar Mukherjee, Jiapeng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=21rSeWJHPF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_qykpnEWf2J",
+      "paper_id": "qykpnEWf2J",
+      "title": "Balancing Bias in Two-sided Markets for Fair Stable Matchings",
+      "authors": "Siyuan Wu, Leong Hou U, Panagiotis Karras",
+      "paper_url": "https://openreview.net/pdf?id=qykpnEWf2J",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_Dk7QQp8jHEo",
+      "paper_id": "Dk7QQp8jHEo",
+      "title": "Batch Multivalid Conformal Prediction",
+      "authors": "Christopher Jung, Georgy Noarov, Ramya Ramalingam, Aaron Roth",
+      "paper_url": "https://openreview.net/pdf/4685cb8ed3d112f53b3d4e5aedbb51b40df234a1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_ufZN2-aehFa",
+      "paper_id": "ufZN2-aehFa",
+      "title": "Bayesian Context Aggregation for Neural Processes",
+      "authors": "Michael Volpp, Fabian Flürenbrock, Lukas Grossberger, Christian Daniel, Gerhard Neumann",
+      "paper_url": "https://openreview.net/pdf/e30c747da671c808211da380e77feb9735c74530.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_pHe4P1IVnb",
+      "paper_id": "pHe4P1IVnb",
+      "title": "Bayesian WeakS-to-Strong from Text Classification to Generation",
+      "authors": "Ziyun Cui, Ziyang Zhang, Guangzhi Sun, Wen Wu, Chao Zhang",
+      "paper_url": "https://openreview.net/pdf?id=pHe4P1IVnb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_6w1k-IixnL8",
+      "paper_id": "6w1k-IixnL8",
+      "title": "Beyond calibration: estimating the grouping loss of modern neural networks",
+      "authors": "Alexandre Perez-Lebel, Marine Le Morvan, Gael Varoquaux",
+      "paper_url": "https://openreview.net/pdf/4d8650f36612053fb6f48b9d246f2fa62c8c1a70.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_g6Qc3p7JH5",
+      "paper_id": "g6Qc3p7JH5",
+      "title": "Beyond Interpretability: The Gains of Feature Monosemanticity on Model Robustness",
+      "authors": "Qi Zhang, Yifei Wang, Jingyi Cui, Xiang Pan, Qi Lei, Stefanie Jegelka, Yisen Wang",
+      "paper_url": "https://openreview.net/pdf?id=g6Qc3p7JH5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_gI0kPklUKS",
+      "paper_id": "gI0kPklUKS",
+      "title": "Bilinear MLPs enable weight-based mechanistic interpretability",
+      "authors": "Michael T Pearce, Thomas Dooms, Alice Rigg, Jose Oramas, Lee Sharkey",
+      "paper_url": "https://openreview.net/pdf?id=gI0kPklUKS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_2QzNuaRHn4Z",
+      "paper_id": "2QzNuaRHn4Z",
+      "title": "Bitrate-Constrained DRO: Beyond Worst Case Robustness To Unknown Group Shifts",
+      "authors": "Amrith Setlur, Don Dennis, Benjamin Eysenbach, Aditi Raghunathan, Chelsea Finn, Virginia Smith, Sergey Levine",
+      "paper_url": "https://openreview.net/pdf/0aecebad8cc0de12f0d43f94fdcf97c873962ac4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_DzbUL4AJPP",
+      "paper_id": "DzbUL4AJPP",
+      "title": "Boosting Methods for Interval-censored Data with Regression and Classification",
+      "authors": "Yuan Bian, Grace Yi, Wenqing He",
+      "paper_url": "https://openreview.net/pdf?id=DzbUL4AJPP",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_My57qBufZWs",
+      "paper_id": "My57qBufZWs",
+      "title": "Bort: Towards Explainable Neural Networks with Bounded Orthogonal Constraint",
+      "authors": "Borui Zhang, Wenzhao Zheng, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openreview.net/pdf/568c492c97564ec3f94f6ce7dd4e56d9f2fd5efe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1PDz4Ny1N2",
+      "paper_id": "1PDz4Ny1N2",
+      "title": "Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation",
+      "authors": "Chen Xu, Yuxin Li, Wenjie Wang, Liang Pang, Jun Xu, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf?id=1PDz4Ny1N2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_8Gqz2opok1",
+      "paper_id": "8Gqz2opok1",
+      "title": "C-Adapter: Adapting Deep Classifiers for Efficient Conformal Prediction Sets",
+      "authors": "Kangdao Liu, Hao Zeng, Jianguo Huang, Huiping Zhuang, Chi Man VONG, Hongxin Wei",
+      "paper_url": "https://openreview.net/pdf?id=8Gqz2opok1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_wzlWiO_WY4",
+      "paper_id": "wzlWiO_WY4",
+      "title": "Calibration Matters: Tackling Maximization Bias in Large-scale Advertising Recommendation Systems",
+      "authors": "Yewen Fan, Nian Si, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf/76998aaf8526e1f00dd7667ee8aac7d903203be0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_eQe8DEWNN2W",
+      "paper_id": "eQe8DEWNN2W",
+      "title": "Calibration of Neural Networks using Splines",
+      "authors": "Kartik Gupta, Amir Rahimi, Thalaiyasingam Ajanthan, Thomas Mensink, Cristian Sminchisescu, Richard Hartley",
+      "paper_url": "https://openreview.net/pdf/9b7a1091871efa36fec2c10f52c8cef289c89a5f.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_-bxf89v3Nx",
+      "paper_id": "-bxf89v3Nx",
+      "title": "Calibration tests beyond classification",
+      "authors": "David Widmann, Fredrik Lindsten, Dave Zachariah",
+      "paper_url": "https://openreview.net/pdf/2bd555e04e5c7af5c723e69ed706339c99f212a1.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_YV8tP7bW6Kt",
+      "paper_id": "YV8tP7bW6Kt",
+      "title": "Can We Faithfully Represent Absence States to Compute Shapley Values on a DNN?",
+      "authors": "Jie Ren, Zhanpeng Zhou, Qirui Chen, Quanshi Zhang",
+      "paper_url": "https://openreview.net/pdf/e2a1d8064ef92b75c5a2601cf5660a43e0a3c2b5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_uHLgDEgiS5",
+      "paper_id": "uHLgDEgiS5",
+      "title": "Capturing the Temporal Dependence of Training Data Influence",
+      "authors": "Jiachen T. Wang, Dawn Song, James Zou, Prateek Mittal, Ruoxi Jia",
+      "paper_url": "https://openreview.net/pdf?id=uHLgDEgiS5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_BKSeNw2HIr",
+      "paper_id": "BKSeNw2HIr",
+      "title": "CBMA: Improving Conformal Prediction through Bayesian Model Averaging",
+      "authors": "Pankaj Bhagwat, Linglong Kong, Bei Jiang",
+      "paper_url": "https://openreview.net/pdf?id=BKSeNw2HIr",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_HbtFCX2PLq0",
+      "paper_id": "HbtFCX2PLq0",
+      "title": "Churn Reduction via Distillation",
+      "authors": "Heinrich Jiang, Harikrishna Narasimhan, Dara Bahri, Andrew Cotter, Afshin Rostamizadeh",
+      "paper_url": "https://openreview.net/pdf/d4c4b0da2bc7b1427e642ebdfc966ac7b142ecd0.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_mliQ2huFrZ",
+      "paper_id": "mliQ2huFrZ",
+      "title": "Class Probability Matching with Calibrated Networks for Label Shift Adaption",
+      "authors": "Hongwei Wen, Annika Betken, Hanyuan Hang",
+      "paper_url": "https://openreview.net/pdf?id=mliQ2huFrZ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_XN6ZPINdSg",
+      "paper_id": "XN6ZPINdSg",
+      "title": "COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits",
+      "authors": "Mintong Kang, Nezihe Merve Gürel, Linyi Li, Bo Li",
+      "paper_url": "https://openreview.net/pdf?id=XN6ZPINdSg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_KB5onONJIAU",
+      "paper_id": "KB5onONJIAU",
+      "title": "Comparing Distributions by Measuring Differences that Affect Decision Making",
+      "authors": "Shengjia Zhao, Abhishek Sinha, Yutong He, Aidan Perreault, Jiaming Song, Stefano Ermon",
+      "paper_url": "https://openreview.net/pdf/e99719a7a6796b569cc6afdf6f42024d0df2fbea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_gmwDKo-4cY",
+      "paper_id": "gmwDKo-4cY",
+      "title": "Composing Ensembles of Pre-trained Models via Iterative Consensus",
+      "authors": "Shuang Li, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba, Igor Mordatch",
+      "paper_url": "https://openreview.net/pdf/3a0f22bd7748e3a5e79b5973a182c5777b2aab02.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_4es2oO9tw1",
+      "paper_id": "4es2oO9tw1",
+      "title": "Compute-Constrained Data Selection",
+      "authors": "Junjie Yin, Alexander M Rush",
+      "paper_url": "https://openreview.net/pdf?id=4es2oO9tw1",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__01dDd3f78",
+      "paper_id": "_01dDd3f78",
+      "title": "Concept Gradient: Concept-based Interpretation Without Linear Assumption",
+      "authors": "Andrew Bai, Chih-Kuan Yeh, Neil Y.C. Lin, Pradeep Kumar Ravikumar, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf/89419e0a5c44f295ace102a51f36ee249c1378a9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Ip6UwB35uT",
+      "paper_id": "Ip6UwB35uT",
+      "title": "Conditional Testing based on Localized Conformal $p$-values",
+      "authors": "Xiaoyang Wu, Lin Lu, Zhaojun Wang, Changliang Zou",
+      "paper_url": "https://openreview.net/pdf?id=Ip6UwB35uT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_sOXU-PEJSgQ",
+      "paper_id": "sOXU-PEJSgQ",
+      "title": "Confidence Estimation Using Unlabeled Data",
+      "authors": "Chen Li, Xiaoling Hu, Chao Chen",
+      "paper_url": "https://openreview.net/pdf/bc30667c89961e244c8b6d8dd71c2e9dd4e9accf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_1i6lkavJ94",
+      "paper_id": "1i6lkavJ94",
+      "title": "Conformal Generative Modeling with Improved Sample Efficiency through Sequential Greedy Filtering",
+      "authors": "Klaus-Rudolf Kladny, Bernhard Schölkopf, Michael Muehlebach",
+      "paper_url": "https://openreview.net/pdf?id=1i6lkavJ94",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_rulxyXjf46",
+      "paper_id": "rulxyXjf46",
+      "title": "Conformal Prediction via Regression-as-Classification",
+      "authors": "Etash Kumar Guha, Shlok Natarajan, Thomas Möllenhoff, Mohammad Emtiyaz Khan, Eugene Ndiaye",
+      "paper_url": "https://openreview.net/pdf?id=rulxyXjf46",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_33XGfHLtZg",
+      "paper_id": "33XGfHLtZg",
+      "title": "Conformal Risk Control",
+      "authors": "Anastasios Nikolas Angelopoulos, Stephen Bates, Adam Fisch, Lihua Lei, Tal Schuster",
+      "paper_url": "https://openreview.net/pdf?id=33XGfHLtZg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2ATD8a8P3C",
+      "paper_id": "2ATD8a8P3C",
+      "title": "Conformal Structured Prediction",
+      "authors": "Botong Zhang, Shuo Li, Osbert Bastani",
+      "paper_url": "https://openreview.net/pdf?id=2ATD8a8P3C",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_JQtuCumAFD",
+      "paper_id": "JQtuCumAFD",
+      "title": "Conformalized Survival Analysis for General Right-Censored Data",
+      "authors": "Hen Davidov, Shai Feldman, Gil Shamai, Ron Kimmel, Yaniv Romano",
+      "paper_url": "https://openreview.net/pdf?id=JQtuCumAFD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xQVxo9dSID",
+      "paper_id": "xQVxo9dSID",
+      "title": "Consistency Models Made Easy",
+      "authors": "Zhengyang Geng, Ashwini Pokle, Weijian Luo, Justin Lin, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf?id=xQVxo9dSID",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XOnya9gSdF",
+      "paper_id": "XOnya9gSdF",
+      "title": "Consistent algorithms for multi-label classification with macro-at-$k$ metrics",
+      "authors": "Erik Schultheis, Wojciech Kotlowski, Marek Wydmuch, Rohit Babbar, Strom Borman, Krzysztof Dembczynski",
+      "paper_url": "https://openreview.net/pdf?id=XOnya9gSdF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_1w_Amtk67X",
+      "paper_id": "1w_Amtk67X",
+      "title": "Constraining Representations Yields Models That Know What They Don't Know",
+      "authors": "Joao Monteiro, Pau Rodriguez, Pierre-Andre Noel, Issam H. Laradji, David Vazquez",
+      "paper_url": "https://openreview.net/pdf/9617b430ccc1f891ee6b1addaa9937d9c5383bc7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_ct8_a9h1M",
+      "paper_id": "ct8_a9h1M",
+      "title": "Contextual Dropout: An Efficient Sample-Dependent Dropout Module",
+      "authors": "XINJIE FAN, Shujian Zhang, Korawat Tanwisuth, Xiaoning Qian, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf/e60af0056960e7c5e82ee3d15ad9c6dd3577788d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_pOO9cqLq7Q",
+      "paper_id": "pOO9cqLq7Q",
+      "title": "CONTRA: Conformal Prediction Region via Normalizing Flow Transformation",
+      "authors": "Zhenhan Fang, Aixin Tan, Jian Huang",
+      "paper_url": "https://openreview.net/pdf?id=pOO9cqLq7Q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_eWKfMBL5to",
+      "paper_id": "eWKfMBL5to",
+      "title": "Contrastive Corpus Attribution for Explaining Representations",
+      "authors": "Chris Lin, Hugh Chen, Chanwoo Kim, Su-In Lee",
+      "paper_url": "https://openreview.net/pdf/32173e256e55a81e9c42abce0ae086cd3e08acf2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_DIjCrlsu6Z",
+      "paper_id": "DIjCrlsu6Z",
+      "title": "Controlling Directions Orthogonal to a Classifier",
+      "authors": "Yilun Xu, Hao He, Tianxiao Shen, Tommi S. Jaakkola",
+      "paper_url": "https://openreview.net/pdf/259173e97dc2f0da3f9b4879faaede603f13d98a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_BtZhsSGNRNi",
+      "paper_id": "BtZhsSGNRNi",
+      "title": "Coping with Label Shift via Distributionally Robust Optimisation",
+      "authors": "Jingzhao Zhang, Aditya Krishna Menon, Andreas Veit, Srinadh Bhojanapalli, Sanjiv Kumar, Suvrit Sra",
+      "paper_url": "https://openreview.net/pdf/ffdac428e94d17c00dfa31898389daf7d800270c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ojIJZDNIBj",
+      "paper_id": "ojIJZDNIBj",
+      "title": "Copula Conformal prediction for multi-step time series prediction",
+      "authors": "Sophia Huiwen Sun, Rose Yu",
+      "paper_url": "https://openreview.net/pdf?id=ojIJZDNIBj",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_1qgZXeMTTU",
+      "paper_id": "1qgZXeMTTU",
+      "title": "Coreset Spectral Clustering",
+      "authors": "Ben Jourdan, Gregory Schwartzman, Peter Macgregor, He Sun",
+      "paper_url": "https://openreview.net/pdf?id=1qgZXeMTTU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_L2MUOUp0beo",
+      "paper_id": "L2MUOUp0beo",
+      "title": "CoRTX: Contrastive Framework for Real-time Explanation",
+      "authors": "Yu-Neng Chuang, Guanchu Wang, Fan Yang, Quan Zhou, Pushkar Tripathi, Xuanting Cai, Xia Hu",
+      "paper_url": "https://openreview.net/pdf/8e9825a8e9446ab79ae7406ff203d26aef5828ed.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_m8uJvVgwRci",
+      "paper_id": "m8uJvVgwRci",
+      "title": "Creating Training Sets via Weak Indirect Supervision",
+      "authors": "Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner",
+      "paper_url": "https://openreview.net/pdf/46411f07ed6843d6bacf30073524429547e8d250.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_cv2iMNWCsh",
+      "paper_id": "cv2iMNWCsh",
+      "title": "Credal Wrapper of Model Averaging for Uncertainty Estimation in Classification",
+      "authors": "Kaizheng Wang, Fabio Cuzzolin, Keivan Shariatmadar, David Moens, Hans Hallez",
+      "paper_url": "https://openreview.net/pdf?id=cv2iMNWCsh",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_qxGXjWxabq",
+      "paper_id": "qxGXjWxabq",
+      "title": "Data Debugging with Shapley Importance over Machine Learning Pipelines",
+      "authors": "Bojan Karlaš, David Dao, Matteo Interlandi, Sebastian Schelter, Wentao Wu, Ce Zhang",
+      "paper_url": "https://openreview.net/pdf?id=qxGXjWxabq",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_HD6bWcj87Y",
+      "paper_id": "HD6bWcj87Y",
+      "title": "Data Shapley in One Training Run",
+      "authors": "Jiachen T. Wang, Prateek Mittal, Dawn Song, Ruoxi Jia",
+      "paper_url": "https://openreview.net/pdf?id=HD6bWcj87Y",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_XIzO8zr-WbM",
+      "paper_id": "XIzO8zr-WbM",
+      "title": "Data Valuation Without Training of a Model",
+      "authors": "Ki Nohyun, Hoyong Choi, Hye Won Chung",
+      "paper_url": "https://openreview.net/pdf/d2ee5aa2fdaf4401bd826282f3c14838e5770d4b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_KlV5CkNQkl",
+      "paper_id": "KlV5CkNQkl",
+      "title": "Data-centric Prediction Explanation via Kernelized Stein Discrepancy",
+      "authors": "Mahtab Sarvmaili, Hassan Sajjad, Ga Wu",
+      "paper_url": "https://openreview.net/pdf?id=KlV5CkNQkl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_Ffjc8ApSbt",
+      "paper_id": "Ffjc8ApSbt",
+      "title": "Debiased Collaborative Filtering with Kernel-Based Causal Balancing",
+      "authors": "Haoxuan Li, Chunyuan Zheng, Yanghao Xiao, Peng Wu, Zhi Geng, Xu Chen, Peng Cui",
+      "paper_url": "https://openreview.net/pdf?id=Ffjc8ApSbt",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_XIZEFyVGC9",
+      "paper_id": "XIZEFyVGC9",
+      "title": "Debiasing Algorithm through Model Adaptation",
+      "authors": "Tomasz Limisiewicz, David Mareček, Tomáš Musil",
+      "paper_url": "https://openreview.net/pdf?id=XIZEFyVGC9",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_jLIUfrAcMQ",
+      "paper_id": "jLIUfrAcMQ",
+      "title": "Debiasing Attention Mechanism in Transformer without Demographics",
+      "authors": "Shenyu Lu, Yipei Wang, Xiaoqian Wang",
+      "paper_url": "https://openreview.net/pdf?id=jLIUfrAcMQ",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_6puUoArESGp",
+      "paper_id": "6puUoArESGp",
+      "title": "Debiasing Concept-based Explanations with Causal Analysis",
+      "authors": "Mohammad Taha Bahadori, David Heckerman",
+      "paper_url": "https://openreview.net/pdf/6c474aec6a470f6431f665cd26196adb69dee2cd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_9IaN4FkVSR1",
+      "paper_id": "9IaN4FkVSR1",
+      "title": "Deconstructing Distributions: A Pointwise Framework of Learning",
+      "authors": "Gal Kaplun, Nikhil Ghosh, Saurabh Garg, Boaz Barak, Preetum Nakkiran",
+      "paper_url": "https://openreview.net/pdf/7cd5fac151d9b675ecd5b5718a6379fbbaa12350.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_kOYnXVQCtA",
+      "paper_id": "kOYnXVQCtA",
+      "title": "DeeperForward: Enhanced Forward-Forward Training for Deeper and Better Performance",
+      "authors": "Liang Sun, Yang Zhang, Weizhao He, Jiajun Wen, Linlin Shen, Weicheng Xie",
+      "paper_url": "https://openreview.net/pdf?id=kOYnXVQCtA",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_qY79G8jGsep",
+      "paper_id": "qY79G8jGsep",
+      "title": "DISSECT: Disentangled Simultaneous Explanations via Concept Traversals",
+      "authors": "Asma Ghandeharioun, Been Kim, Chun-Liang Li, Brendan Jou, Brian Eoff, Rosalind Picard",
+      "paper_url": "https://openreview.net/pdf/8e8a8d5dafd24c9cba49d3671b2ee34d0decdecf.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_lzupY5zjaU9",
+      "paper_id": "lzupY5zjaU9",
+      "title": "Distribution Compression in Near-Linear Time",
+      "authors": "Abhishek Shetty, Raaz Dwivedi, Lester Mackey",
+      "paper_url": "https://openreview.net/pdf/484f68f97f561be1f3272522336a9a0b1fa84bbc.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_pDDODPtpx9",
+      "paper_id": "pDDODPtpx9",
+      "title": "Distribution-Free Data Uncertainty for Neural Network Regression",
+      "authors": "Domokos M. Kelen, Ádám Jung, Péter Kersch, Andras A Benczur",
+      "paper_url": "https://openreview.net/pdf?id=pDDODPtpx9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KZEqbwJfTl",
+      "paper_id": "KZEqbwJfTl",
+      "title": "Distribution-Specific Agnostic Conditional Classification With Halfspaces",
+      "authors": "Jizhou Huang, Brendan Juba",
+      "paper_url": "https://openreview.net/pdf?id=KZEqbwJfTl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_9NVd-DMtThY",
+      "paper_id": "9NVd-DMtThY",
+      "title": "Distributionally Robust Fair Principal Components via Geodesic Descents",
+      "authors": "Hieu Vu, Toan Tran, Man-Chung Yue, Viet Anh Nguyen",
+      "paper_url": "https://openreview.net/pdf/a8fe9d7b929beb8c14e69b5eaf7902ec099f3aa4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_a34GrNaYEcS",
+      "paper_id": "a34GrNaYEcS",
+      "title": "Distributionally Robust Models with Parametric Likelihood Ratios",
+      "authors": "Paul Michel, Tatsunori Hashimoto, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/6da76f4b4c34dc213335f4873bea59a8c0f40ec9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_TTrzgEZt9s",
+      "paper_id": "TTrzgEZt9s",
+      "title": "Distributionally Robust Optimization with Bias and Variance Reduction",
+      "authors": "Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui",
+      "paper_url": "https://openreview.net/pdf?id=TTrzgEZt9s",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_3KUfbI9_DQE",
+      "paper_id": "3KUfbI9_DQE",
+      "title": "Distributionally Robust Post-hoc Classifiers under Prior Shifts",
+      "authors": "Jiaheng Wei, Harikrishna Narasimhan, Ehsan Amid, Wen-Sheng Chu, Yang Liu, Abhishek Kumar",
+      "paper_url": "https://openreview.net/pdf/84662db98a6310884aba7817de297b210cdb5c29.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_E3ip6qBLF7",
+      "paper_id": "E3ip6qBLF7",
+      "title": "Distributionally Robust Recourse Action",
+      "authors": "Duy Nguyen, Ngoc Bui, Viet Anh Nguyen",
+      "paper_url": "https://openreview.net/pdf/2ba3251326914f789659bf5c76f1bc06b8567cb4.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_v6s3HVjPerv",
+      "paper_id": "v6s3HVjPerv",
+      "title": "Do Users Benefit From Interpretable Vision? A User Study, Baseline, And Dataset",
+      "authors": "Leon Sixt, Martin Schuessler, Oana-Iuliana Popescu, Philipp Weiß, Tim Landgraf",
+      "paper_url": "https://openreview.net/pdf/49e3023b785924a7159ee756c546ac2ec523e8ea.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_1mNFsbvo2P",
+      "paper_id": "1mNFsbvo2P",
+      "title": "Domain constraints improve risk prediction when outcome data is missing",
+      "authors": "Sidhika Balachandar, Nikhil Garg, Emma Pierson",
+      "paper_url": "https://openreview.net/pdf?id=1mNFsbvo2P",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_LiUfN9h0Lx",
+      "paper_id": "LiUfN9h0Lx",
+      "title": "Efficient and Accurate Explanation Estimation with Distribution Compression",
+      "authors": "Hubert Baniecki, Giuseppe Casalicchio, Bernd Bischl, Przemyslaw Biecek",
+      "paper_url": "https://openreview.net/pdf?id=LiUfN9h0Lx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Ht85_jyihxp",
+      "paper_id": "Ht85_jyihxp",
+      "title": "Efficient and Differentiable Conformal Prediction with General Function Classes",
+      "authors": "Yu Bai, Song Mei, Huan Wang, Yingbo Zhou, Caiming Xiong",
+      "paper_url": "https://openreview.net/pdf/7faac3481a1c40bd4b7dc004699477c8b2aeb572.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_tnSo6VRLmT",
+      "paper_id": "tnSo6VRLmT",
+      "title": "Efficient Conformal Prediction via Cascaded Inference with Expanded Admission",
+      "authors": "Adam Fisch, Tal Schuster, Tommi S. Jaakkola, Regina Barzilay",
+      "paper_url": "https://openreview.net/pdf/0fc460673e85f2ec1199b8ea609938585d051465.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_jpR98ZdIm2q",
+      "paper_id": "jpR98ZdIm2q",
+      "title": "Efficient Edge Inference by Selective Query",
+      "authors": "Anil Kag, Igor Fedorov, Aditya Gangrade, Paul Whatmough, Venkatesh Saligrama",
+      "paper_url": "https://openreview.net/pdf/ea28d8d8d31fb85d39fdee73987653a2a5ecabc6.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_lOfuvmi2HT",
+      "paper_id": "lOfuvmi2HT",
+      "title": "Efficient Top-m Data Values Identification for Data Selection",
+      "authors": "Xiaoqiang Lin, Xinyi Xu, See-Kiong Ng, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=lOfuvmi2HT",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_KjBG4JNOc2",
+      "paper_id": "KjBG4JNOc2",
+      "title": "Enhancing Prediction Performance through Influence Measure",
+      "authors": "Shuguang Yu, Wenqian Xu, Xinyi Zhou, Xuechun Wang, Hongtu Zhu, Fan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=KjBG4JNOc2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_xJXq6FkqEw",
+      "paper_id": "xJXq6FkqEw",
+      "title": "Enhancing Uncertainty Estimation and Interpretability with Bayesian Non-negative Decision Layer",
+      "authors": "Xinyue Hu, Zhibin Duan, Bo Chen, Mingyuan Zhou",
+      "paper_url": "https://openreview.net/pdf?id=xJXq6FkqEw",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_afQuNt3Ruh",
+      "paper_id": "afQuNt3Ruh",
+      "title": "Entropy Coding of Unordered Data Structures",
+      "authors": "Julius Kunze, Daniel Severo, Giulio Zani, Jan-Willem van de Meent, James Townsend",
+      "paper_url": "https://openreview.net/pdf?id=afQuNt3Ruh",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_dhYUMMy0_Eg",
+      "paper_id": "dhYUMMy0_Eg",
+      "title": "Equal Improvability: A New Fairness Notion Considering the Long-term Impact",
+      "authors": "Ozgur Guldogan, Yuchen Zeng, Jy-yong Sohn, Ramtin Pedarsani, Kangwook Lee",
+      "paper_url": "https://openreview.net/pdf/97ea07ad031609a62cd7a8f682fec684434f45cf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_bHW9njOSON",
+      "paper_id": "bHW9njOSON",
+      "title": "ESD: Expected Squared Difference as a Tuning-Free Trainable Calibration Measure",
+      "authors": "Hee Suk Yoon, Joshua Tian Jin Tee, Eunseop Yoon, Sunjae Yoon, Gwangsu Kim, Yingzhen Li, Chang D. Yoo",
+      "paper_url": "https://openreview.net/pdf/0a56ada821e2179d876898972a4e0bb37b79f7d7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_YLewtnvKgR7",
+      "paper_id": "YLewtnvKgR7",
+      "title": "Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors",
+      "authors": "Ali Harakeh, Steven L. Waslander",
+      "paper_url": "https://openreview.net/pdf/6a677ce1f598db1f6e966821150e994540b89717.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_kEnBH98BGs5",
+      "paper_id": "kEnBH98BGs5",
+      "title": "Estimating informativeness of samples with Smooth Unique Information",
+      "authors": "Hrayr Harutyunyan, Alessandro Achille, Giovanni Paolini, Orchid Majumder, Avinash Ravichandran, Rahul Bhotika, Stefano Soatto",
+      "paper_url": "https://openreview.net/pdf/95f6e5e49f7926d28ebfda829ba602f38fd56084.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_9uvhpyQwzM_",
+      "paper_id": "9uvhpyQwzM_",
+      "title": "Evaluation of Similarity-based Explanations",
+      "authors": "Kazuaki Hanawa, Sho Yokoi, Satoshi Hara, Kentaro Inui",
+      "paper_url": "https://openreview.net/pdf/ede4daa61cd87856ebce2c047d94f9fdc6149edf.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_4dXmpCDGNp7",
+      "paper_id": "4dXmpCDGNp7",
+      "title": "Evaluations and Methods for Explanation through Robustness Analysis",
+      "authors": "Cheng-Yu Hsieh, Chih-Kuan Yeh, Xuanqing Liu, Pradeep Kumar Ravikumar, Seungyeon Kim, Sanjiv Kumar, Cho-Jui Hsieh",
+      "paper_url": "https://openreview.net/pdf/d6f38258eb28ef886c3aee4efb08046abbe76e5a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_pOnhudsvzR",
+      "paper_id": "pOnhudsvzR",
+      "title": "Everybody Needs Good Neighbours: An Unsupervised Locality-based Method for Bias Mitigation",
+      "authors": "Xudong Han, Timothy Baldwin, Trevor Cohn",
+      "paper_url": "https://openreview.net/pdf/c708a67bd8ca9f1274201759dc59f0064c85d1fe.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_5IWJBStfU7",
+      "paper_id": "5IWJBStfU7",
+      "title": "Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable?",
+      "authors": "Maxime Méloux, Silviu Maniu, François Portet, Maxime Peyrard",
+      "paper_url": "https://openreview.net/pdf?id=5IWJBStfU7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_QO9-y8also-",
+      "paper_id": "QO9-y8also-",
+      "title": "Exemplary Natural Images Explain CNN Activations Better than State-of-the-Art Feature Visualization",
+      "authors": "Judy Borowski, Roland Simon Zimmermann, Judith Schepers, Robert Geirhos, Thomas S. A. Wallis, Matthias Bethge, Wieland Brendel",
+      "paper_url": "https://openreview.net/pdf/915f3d2aa2618205e86bad4d630fe286139f8796.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_8nuzsfiQfS",
+      "paper_id": "8nuzsfiQfS",
+      "title": "Explain Yourself, Briefly! Self-Explaining Neural Networks with Concise Sufficient Reasons",
+      "authors": "Shahaf Bassan, Ron Eliav, Shlomit Gur",
+      "paper_url": "https://openreview.net/pdf?id=8nuzsfiQfS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FAGtjl7HOw",
+      "paper_id": "FAGtjl7HOw",
+      "title": "Explaining Kernel Clustering via Decision Trees",
+      "authors": "Maximilian Fleissner, Leena Chennuru Vankadara, Debarghya Ghoshdastidar",
+      "paper_url": "https://openreview.net/pdf?id=FAGtjl7HOw",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_45Mr7LeKR9",
+      "paper_id": "45Mr7LeKR9",
+      "title": "Explanations of Black-Box Models based on Directional Feature Interactions",
+      "authors": "Aria Masoomi, Davin Hill, Zhonghui Xu, Craig P Hersh, Edwin K. Silverman, Peter J. Castaldi, Stratis Ioannidis, Jennifer Dy",
+      "paper_url": "https://openreview.net/pdf/861d5f0b89fc65fc7bd1c9d4a41c92e697f76061.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_EPNEazJoAg",
+      "paper_id": "EPNEazJoAg",
+      "title": "Exploring the cloud of feature interaction scores in a Rashomon set",
+      "authors": "Sichao Li, Rong Wang, Quanling Deng, Amanda S Barnard",
+      "paper_url": "https://openreview.net/pdf?id=EPNEazJoAg",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_MjvduJCsE4",
+      "paper_id": "MjvduJCsE4",
+      "title": "Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit",
+      "authors": "Ben Adlam, Jaehoon Lee, Lechao Xiao, Jeffrey Pennington, Jasper Snoek",
+      "paper_url": "https://openreview.net/pdf/bbfc60f0ff2a8b621963be0d68a713c42e879919.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_10DtLPsdro",
+      "paper_id": "10DtLPsdro",
+      "title": "Factor Graph-based Interpretable Neural Networks",
+      "authors": "Yicong Li, Kuanjiu Zhou, Shuo Yu, Qiang Zhang, Renqiang Luo, Xiaodong Li, Feng Xia",
+      "paper_url": "https://openreview.net/pdf?id=10DtLPsdro",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_yKksu38BpM",
+      "paper_id": "yKksu38BpM",
+      "title": "Faithful and Efficient Explanations for Neural Networks via Neural Tangent Kernel Surrogate Models",
+      "authors": "Andrew William Engel, Zhichao Wang, Natalie Frank, Ioana Dumitriu, Sutanay Choudhury, Anand Sarwate, Tony Chiang",
+      "paper_url": "https://openreview.net/pdf?id=yKksu38BpM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_fQTlgI2qZqE",
+      "paper_id": "fQTlgI2qZqE",
+      "title": "Fast Generic Interaction Detection for Model Interpretability and Compression",
+      "authors": "Tianjian Zhang, Feng Yin, Zhi-Quan Luo",
+      "paper_url": "https://openreview.net/pdf/f1581535b01f857847507915f4721abcb1e41529.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_TTonmgTT9X",
+      "paper_id": "TTonmgTT9X",
+      "title": "Fast Hyperboloid Decision Tree Algorithms",
+      "authors": "Philippe Chlenski, Ethan Turok, Antonio Khalil Moretti, Itsik Pe'er",
+      "paper_url": "https://openreview.net/pdf?id=TTonmgTT9X",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_UxqUgchwXkK",
+      "paper_id": "UxqUgchwXkK",
+      "title": "Fast Nonlinear Vector Quantile Regression",
+      "authors": "Aviv A. Rosenberg, Sanketh Vedula, Yaniv Romano, Alexander Bronstein",
+      "paper_url": "https://openreview.net/pdf/b8d396ce8d5574aa62871ab0dcbee49063a352b2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_gNp54NxHUPJ",
+      "paper_id": "gNp54NxHUPJ",
+      "title": "Fast Regression for Structured Inputs",
+      "authors": "Raphael A Meyer, Cameron N Musco, Christopher P Musco, David Woodruff, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf/a76864e8c343a5dcb3414cc8caa6fc2fdd2afc19.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_Zq2G_VTV53T",
+      "paper_id": "Zq2G_VTV53T",
+      "title": "FastSHAP: Real-Time Shapley Value Estimation",
+      "authors": "Neil Jethani, Mukund Sudarshan, Ian Connick Covert, Su-In Lee, Rajesh Ranganath",
+      "paper_url": "https://openreview.net/pdf/5c857a16a6f7a915997089db728adf6e56ad56c2.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_wsWCVrH9dv",
+      "paper_id": "wsWCVrH9dv",
+      "title": "Feature Responsiveness Scores: Model-Agnostic Explanations for Recourse",
+      "authors": "Seung Hyun Cheon, Anneke Wernerfelt, Sorelle Friedler, Berk Ustun",
+      "paper_url": "https://openreview.net/pdf?id=wsWCVrH9dv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_PDG4-Y3aboN",
+      "paper_id": "PDG4-Y3aboN",
+      "title": "FIT: A Metric for Model Sensitivity",
+      "authors": "Ben Zandonati, Adrian Alan Pol, Maurizio Pierini, Olya Sirkin, Tal Kopetz",
+      "paper_url": "https://openreview.net/pdf/e2969454c67149d7a4865ba3bd2d0d4f7978ce21.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_irARV_2VFs4",
+      "paper_id": "irARV_2VFs4",
+      "title": "Focus on the Common Good: Group Distributional Robustness Follows",
+      "authors": "Vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi",
+      "paper_url": "https://openreview.net/pdf/69946032216ff35b996fb358e9cf8779822de6bb.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_J4mJjotSauh",
+      "paper_id": "J4mJjotSauh",
+      "title": "Fooling SHAP with Stealthily Biased Sampling",
+      "authors": "gabriel laberge, Ulrich Aïvodji, Satoshi Hara, Mario Marchand, Foutse Khomh",
+      "paper_url": "https://openreview.net/pdf/111674d48ee7b80bb7c9f66295467dfbe5ab65a1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_cWfpt2t37q",
+      "paper_id": "cWfpt2t37q",
+      "title": "From Risk to Uncertainty: Generating Predictive Uncertainty Measures via Bayesian Estimation",
+      "authors": "Nikita Kotelevskii, Vladimir Kondratyev, Martin Takáč, Eric Moulines, Maxim Panov",
+      "paper_url": "https://openreview.net/pdf?id=cWfpt2t37q",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_NtwFghsJne",
+      "paper_id": "NtwFghsJne",
+      "title": "From Search to Sampling: Generative Models for Robust Algorithmic Recourse",
+      "authors": "Prateek Garg, Lokesh Nagalapatti, Sunita Sarawagi",
+      "paper_url": "https://openreview.net/pdf?id=NtwFghsJne",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_3OaBBATwsvP",
+      "paper_id": "3OaBBATwsvP",
+      "title": "Generative Modeling Helps Weak Supervision (and Vice Versa)",
+      "authors": "Benedikt Boecking, Nicholas Roberts, Willie Neiswanger, Stefano Ermon, Frederic Sala, Artur Dubrawski",
+      "paper_url": "https://openreview.net/pdf/bb17eb04238e75fcb4c9ceee6174d6c2e0d19afd.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_XSLF1XFq5h",
+      "paper_id": "XSLF1XFq5h",
+      "title": "Getting a CLUE: A  Method for Explaining Uncertainty Estimates",
+      "authors": "Javier Antoran, Umang Bhatt, Tameem Adel, Adrian Weller, José Miguel Hernández-Lobato",
+      "paper_url": "https://openreview.net/pdf/bb1896f36e6eb8c78e3080ebea185ff4537fc95b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_3NnfJnbJT2",
+      "paper_id": "3NnfJnbJT2",
+      "title": "GIO: Gradient Information Optimization for Training Dataset Selection",
+      "authors": "Dante Everaert, Christopher Potts",
+      "paper_url": "https://openreview.net/pdf?id=3NnfJnbJT2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_XEFWBxi075",
+      "paper_id": "XEFWBxi075",
+      "title": "GRANDE: Gradient-Based Decision Tree Ensembles for Tabular Data",
+      "authors": "Sascha Marton, Stefan Lüdtke, Christian Bartelt, Heiner Stuckenschmidt",
+      "paper_url": "https://openreview.net/pdf?id=XEFWBxi075",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_3ROGsTX3IR",
+      "paper_id": "3ROGsTX3IR",
+      "title": "Grokking as a First Order Phase Transition in Two Layer Networks",
+      "authors": "Noa Rubin, Inbar Seroussi, Zohar Ringel",
+      "paper_url": "https://openreview.net/pdf?id=3ROGsTX3IR",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_vt5mnLVIVo",
+      "paper_id": "vt5mnLVIVo",
+      "title": "Grokking as the transition from lazy to rich training dynamics",
+      "authors": "Tanishq Kumar, Blake Bordelon, Samuel J. Gershman, Cengiz Pehlevan",
+      "paper_url": "https://openreview.net/pdf?id=vt5mnLVIVo",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_GH2LYb9XV0",
+      "paper_id": "GH2LYb9XV0",
+      "title": "Grokking in Linear Estimators -- A Solvable Model that Groks without Understanding",
+      "authors": "Noam Itzhak Levi, Alon Beck, Yohai Bar-Sinai",
+      "paper_url": "https://openreview.net/pdf?id=GH2LYb9XV0",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_aQj9Ifxrl6",
+      "paper_id": "aQj9Ifxrl6",
+      "title": "Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions",
+      "authors": "Rui Qiao, Zhaoxuan Wu, Jingtan Wang, Pang Wei Koh, Bryan Kian Hsiang Low",
+      "paper_url": "https://openreview.net/pdf?id=aQj9Ifxrl6",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_l30moNjSY9",
+      "paper_id": "l30moNjSY9",
+      "title": "HiBug2: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging",
+      "authors": "Muxi Chen, Chenchen Zhao, Qiang Xu",
+      "paper_url": "https://openreview.net/pdf?id=l30moNjSY9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_gFDFKC4gHL4",
+      "paper_id": "gFDFKC4gHL4",
+      "title": "How Did the Model Change? Efficiently Assessing Machine Learning API Shifts",
+      "authors": "Lingjiao Chen, Matei Zaharia, James Zou",
+      "paper_url": "https://openreview.net/pdf/acadda3ff8e7686ab4e0b73fd64ba0ef89f2134a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_J7b4BCtDm4",
+      "paper_id": "J7b4BCtDm4",
+      "title": "How to deal with missing data in supervised deep learning?",
+      "authors": "Niels Bruun Ipsen, Pierre-Alexandre Mattei, Jes Frellsen",
+      "paper_url": "https://openreview.net/pdf/7b8b526fb7f29d7a4173ec3ad4d7c9cd67e17a63.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_57NfyYxh5f",
+      "paper_id": "57NfyYxh5f",
+      "title": "How to Probe: Simple Yet Effective Techniques for Improving Post-hoc Explanations",
+      "authors": "Siddhartha Gairola, Moritz Böhle, Francesco Locatello, Bernt Schiele",
+      "paper_url": "https://openreview.net/pdf?id=57NfyYxh5f",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_GfXMTAJaxZ",
+      "paper_id": "GfXMTAJaxZ",
+      "title": "How to Verify Any (Reasonable) Distribution Property: Computationally Sound Argument Systems for Distributions",
+      "authors": "Tal Herman, Guy N. Rothblum",
+      "paper_url": "https://openreview.net/pdf?id=GfXMTAJaxZ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_A7t7z6g6tM",
+      "paper_id": "A7t7z6g6tM",
+      "title": "Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty",
+      "authors": "Changbin Li, Kangshuo Li, Yuzhe Ou, Lance M. Kaplan, Audun Jøsang, Jin-Hee Cho, DONG HYUN JEONG, Feng Chen",
+      "paper_url": "https://openreview.net/pdf?id=A7t7z6g6tM",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_6fDjUoEQvm",
+      "paper_id": "6fDjUoEQvm",
+      "title": "HyperDAS: Towards Automating Mechanistic Interpretability with Hypernetworks",
+      "authors": "Jiuding Sun, Jing Huang, Sidharth Baskaran, Karel D'Oosterlinck, Christopher Potts, Michael Sklar, Atticus Geiger",
+      "paper_url": "https://openreview.net/pdf?id=6fDjUoEQvm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_ConT6H7MWL",
+      "paper_id": "ConT6H7MWL",
+      "title": "IDEAL: Query-Efficient Data-Free Learning from Black-Box Models",
+      "authors": "Jie Zhang, Chen Chen, Lingjuan Lyu",
+      "paper_url": "https://openreview.net/pdf/35d098045a1896058e0813e94ff5730165c03247.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_IYxDy2jDFL",
+      "paper_id": "IYxDy2jDFL",
+      "title": "Improved Active Learning via Dependent Leverage Score Sampling",
+      "authors": "Atsushi Shimizu, Xiaoou Cheng, Christopher Musco, Jonathan Weare",
+      "paper_url": "https://openreview.net/pdf?id=IYxDy2jDFL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_dCSFiAl_VO3",
+      "paper_id": "dCSFiAl_VO3",
+      "title": "Improved Learning-augmented Algorithms for k-means and k-medians Clustering",
+      "authors": "Thy Dinh Nguyen, Anamay Chaturvedi, Huy Nguyen",
+      "paper_url": "https://openreview.net/pdf/fc031fcffcb2f6b9903ade5988a8eaad0dafbce5.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_WNzy9bRDvG",
+      "paper_id": "WNzy9bRDvG",
+      "title": "Improved Techniques for Training Consistency Models",
+      "authors": "Yang Song, Prafulla Dhariwal",
+      "paper_url": "https://openreview.net/pdf?id=WNzy9bRDvG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_PQjZes6vFV",
+      "paper_id": "PQjZes6vFV",
+      "title": "Improved Training Technique for Latent Consistency Models",
+      "authors": "Quan Dao, Khanh Doan, Di Liu, Trung Le, Dimitris N. Metaxas",
+      "paper_url": "https://openreview.net/pdf?id=PQjZes6vFV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_dkoiAGjZV9",
+      "paper_id": "dkoiAGjZV9",
+      "title": "Improving Deep Regression with Tightness",
+      "authors": "Shihao Zhang, Yuguang Yan, Angela Yao",
+      "paper_url": "https://openreview.net/pdf?id=dkoiAGjZV9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_opHLcXxYTC_",
+      "paper_id": "opHLcXxYTC_",
+      "title": "Influence Estimation for Generative Adversarial Networks",
+      "authors": "Naoyuki Terashita, Hiroki Ohashi, Yuichi Nonaka, Takashi Kanemaru",
+      "paper_url": "https://openreview.net/pdf/f9fcbfb06cf86dc39ab1289d0a9f9febb65a8ac9.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_xHKVVHGDOEk",
+      "paper_id": "xHKVVHGDOEk",
+      "title": "Influence Functions in Deep Learning Are Fragile",
+      "authors": "Samyadeep Basu, Phil Pope, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf/5f4c0d6ade226a87db8c80975d4487e28ec11d9e.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_USC0-nvGPK",
+      "paper_id": "USC0-nvGPK",
+      "title": "Information Gain Propagation: a New Way to Graph Active Learning with Soft Labels",
+      "authors": "Wentao Zhang, Yexin Wang, Zhenbang You, Meng Cao, Ping Huang, Jiulong Shan, Zhi Yang, Bin CUI",
+      "paper_url": "https://openreview.net/pdf/6f02bdd5a0b35aba61f2cdcb8fc6b599e55addb4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_P42DbV2nuV",
+      "paper_id": "P42DbV2nuV",
+      "title": "Instance-dependent Early Stopping",
+      "authors": "Suqin Yuan, Runqi Lin, Lei Feng, Bo Han, Tongliang Liu",
+      "paper_url": "https://openreview.net/pdf?id=P42DbV2nuV",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ky7vVlBQBY",
+      "paper_id": "ky7vVlBQBY",
+      "title": "InstaSHAP: Interpretable Additive Models Explain Shapley Values Instantly",
+      "authors": "James Enouen, Yan Liu",
+      "paper_url": "https://openreview.net/pdf?id=ky7vVlBQBY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_IDFQI9OY6K",
+      "paper_id": "IDFQI9OY6K",
+      "title": "Interactive Weak Supervision: Learning Useful Heuristics for Data Labeling",
+      "authors": "Benedikt Boecking, Willie Neiswanger, Eric Xing, Artur Dubrawski",
+      "paper_url": "https://openreview.net/pdf/7b8b0c300266ed08c27bfea5eaaa513189d0caab.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_R_OL5mLhsv",
+      "paper_id": "R_OL5mLhsv",
+      "title": "Interpretability with full complexity by constraining feature information",
+      "authors": "Kieran A Murphy, Danielle Bassett",
+      "paper_url": "https://openreview.net/pdf/4b6115cd611db557e90d8bc2827aaf0d6b2e73b1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_wDcunIOAOk",
+      "paper_id": "wDcunIOAOk",
+      "title": "Intrinsic User-Centric Interpretability through Global Mixture of Experts",
+      "authors": "Vinitra Swamy, Syrielle Montariol, Julian Blackwell, Jibril Frej, Martin Jaggi, Tanja Käser",
+      "paper_url": "https://openreview.net/pdf?id=wDcunIOAOk",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_uqBOne3LUKy",
+      "paper_id": "uqBOne3LUKy",
+      "title": "Is Importance Weighting Incompatible with Interpolating Classifiers?",
+      "authors": "Ke Alexander Wang, Niladri Shekhar Chatterji, Saminul Haque, Tatsunori Hashimoto",
+      "paper_url": "https://openreview.net/pdf/a1dcd84e1b3a313fb6b6f62958fef613ebefa9d5.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_FZdJQgy05rz",
+      "paper_id": "FZdJQgy05rz",
+      "title": "Is the Performance of My Deep Network Too Good to Be True? A Direct Approach to Estimating the Bayes Error in Binary Classification",
+      "authors": "Takashi Ishida, Ikko Yamane, Nontawat Charoenphakdee, Gang Niu, Masashi Sugiyama",
+      "paper_url": "https://openreview.net/pdf/adf5cd1db7eb1218ea6e605d13c786cdf71eab45.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_q5EZ7gKcnW",
+      "paper_id": "q5EZ7gKcnW",
+      "title": "Iterative Label Refinement Matters More than Preference Optimization under Weak Supervision",
+      "authors": "Yaowen Ye, Cassidy Laidlaw, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf?id=q5EZ7gKcnW",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_vcUmUvQCloe",
+      "paper_id": "vcUmUvQCloe",
+      "title": "Joint Shapley values: a measure of joint feature importance",
+      "authors": "Chris Harris, Richard Pymar, Colin Rowat",
+      "paper_url": "https://openreview.net/pdf/7d8a95bb048b3b204b4a1c9a95e93486a12439a1.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_p0JSSa1AuV",
+      "paper_id": "p0JSSa1AuV",
+      "title": "KwikBucks: Correlation Clustering with Cheap-Weak and Expensive-Strong Signals",
+      "authors": "Sandeep Silwal, Sara Ahmadian, Andrew Nystrom, Andrew McCallum, Deepak Ramachandran, Seyed Mehran Kazemi",
+      "paper_url": "https://openreview.net/pdf/405e4387799886dd6afb53d4b2fb1eaf9fea1ae8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_aCuFa-RRqtI",
+      "paper_id": "aCuFa-RRqtI",
+      "title": "Label Propagation with Weak Supervision",
+      "authors": "Rattana Pukdee, Dylan Sam, Pradeep Kumar Ravikumar, Nina Balcan",
+      "paper_url": "https://openreview.net/pdf/f5eb9084b11c20ac8c1192c548ad3a24221c2768.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_bG61JDN4E8",
+      "paper_id": "bG61JDN4E8",
+      "title": "LANE: Label-Aware Noise Elimination for Fine-Grained Text Classification",
+      "authors": "Tiberiu Sosea, Cornelia Caragea",
+      "paper_url": "https://openreview.net/pdf?id=bG61JDN4E8",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_JJuP86nBl4q",
+      "paper_id": "JJuP86nBl4q",
+      "title": "LAVA: Data Valuation without Pre-Specified Learning Algorithms",
+      "authors": "Hoang Anh Just, Feiyang Kang, Tianhao Wang, Yi Zeng, Myeongseob Ko, Ming Jin, Ruoxi Jia",
+      "paper_url": "https://openreview.net/pdf/8a4a49f404d172df902842781f95ef52ed70433e.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_UiaUEICawgw",
+      "paper_id": "UiaUEICawgw",
+      "title": "Learned Index with Dynamic $\\epsilon$",
+      "authors": "Daoyuan Chen, Wuchao Li, Yaliang Li, Bolin Ding, Kai Zeng, Defu Lian, Jingren Zhou",
+      "paper_url": "https://openreview.net/pdf/e4fe0b82f4dd996529fc3feab43a65cff8f4b634.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_To-R742x7se",
+      "paper_id": "To-R742x7se",
+      "title": "Learning Distributionally Robust Models at Scale via Composite Optimization",
+      "authors": "Farzin Haddadpour, Mohammad Mahdi Kamani, Mehrdad Mahdavi, amin karbasi",
+      "paper_url": "https://openreview.net/pdf/df930de07a8cc14a26729682ca5b2e909c56cfbd.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_E60SIDItyT",
+      "paper_id": "E60SIDItyT",
+      "title": "Learning from Aggregate responses: Instance Level versus Bag Level Loss Functions",
+      "authors": "Adel Javanmard, Lin Chen, Vahab Mirrokni, Ashwinkumar Badanidiyuru, Gang Fu",
+      "paper_url": "https://openreview.net/pdf?id=E60SIDItyT",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_KQe9tHd0k8",
+      "paper_id": "KQe9tHd0k8",
+      "title": "Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation",
+      "authors": "Shreyas Havaldar, Navodita Sharma, Shubhi Sareen, Karthikeyan Shanmugam, Aravindan Raghuveer",
+      "paper_url": "https://openreview.net/pdf?id=KQe9tHd0k8",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_2BtFKEeMGo",
+      "paper_id": "2BtFKEeMGo",
+      "title": "Learning from weak labelers as constraints",
+      "authors": "Vishwajeet Agrawal, Rattana Pukdee, Maria Florina Balcan, Pradeep Kumar Ravikumar",
+      "paper_url": "https://openreview.net/pdf?id=2BtFKEeMGo",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_75O7S_L4oY",
+      "paper_id": "75O7S_L4oY",
+      "title": "Learning Group Importance using the Differentiable Hypergeometric Distribution",
+      "authors": "Thomas M. Sutter, Laura Manduchi, Alain Ryser, Julia E Vogt",
+      "paper_url": "https://openreview.net/pdf/eaa362d272c28b62b383ba46f668c0058f49115c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_aCQt_BrkSjC",
+      "paper_id": "aCQt_BrkSjC",
+      "title": "Learning Hyper Label Model for Programmatic Weak Supervision",
+      "authors": "Renzhi Wu, Shen-En Chen, Jieyu Zhang, Xu Chu",
+      "paper_url": "https://openreview.net/pdf/1d4db3190f142ad660f267b6ac768334b52564af.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_bDWXhzZT40",
+      "paper_id": "bDWXhzZT40",
+      "title": "Learning model uncertainty as variance-minimizing instance weights",
+      "authors": "Nishant Jain, Karthikeyan Shanmugam, Pradeep Shenoy",
+      "paper_url": "https://openreview.net/pdf?id=bDWXhzZT40",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_ed7zI29lRF",
+      "paper_id": "ed7zI29lRF",
+      "title": "Learning Neural Networks with Distribution Shift: Efficiently Certifiable Guarantees",
+      "authors": "Gautam Chandrasekaran, Adam Klivans, Lin Lin Lee, Konstantinos Stavropoulos",
+      "paper_url": "https://openreview.net/pdf?id=ed7zI29lRF",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_t8O-4LKFVx",
+      "paper_id": "t8O-4LKFVx",
+      "title": "Learning Optimal Conformal Classifiers",
+      "authors": "David Stutz, Krishnamurthy Dj Dvijotham, Ali Taylan Cemgil, Arnaud Doucet",
+      "paper_url": "https://openreview.net/pdf/9fab4fe6695fabd7230072d001a43466d0e92499.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_SRghq20nGU",
+      "paper_id": "SRghq20nGU",
+      "title": "Learning the Optimal Stopping for Early Classification within Finite Horizons via Sequential Probability Ratio Test",
+      "authors": "Akinori F. Ebihara, Taiki Miyagawa, Kazuyuki Sakurai, Hitoshi Imaoka",
+      "paper_url": "https://openreview.net/pdf?id=SRghq20nGU",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_5ktFNz_pJLK",
+      "paper_id": "5ktFNz_pJLK",
+      "title": "Learning to Estimate Shapley Values with Vision Transformers",
+      "authors": "Ian Connick Covert, Chanwoo Kim, Su-In Lee",
+      "paper_url": "https://openreview.net/pdf/63a91ca98681923ceee596aa7d3254f49445c743.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_X8cLTHexYyY",
+      "paper_id": "X8cLTHexYyY",
+      "title": "Learning-Augmented $k$-means Clustering",
+      "authors": "Jon C. Ergun, Zhili Feng, Sandeep Silwal, David Woodruff, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf/aec5563bc92ef6f5f5b441eec312315315b468c9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_WcZLG8XxhD",
+      "paper_id": "WcZLG8XxhD",
+      "title": "Learning-Augmented Frequent Directions",
+      "authors": "Anders Aamand, Justin Y. Chen, Siddharth Gollapudi, Sandeep Silwal, Hao WU",
+      "paper_url": "https://openreview.net/pdf?id=WcZLG8XxhD",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_N4rYbQowE3",
+      "paper_id": "N4rYbQowE3",
+      "title": "Learning-Augmented Search Data Structures",
+      "authors": "Chunkai Fu, Brandon G. Nguyen, Jung Hoon Seo, Ryan S. Zesch, Samson Zhou",
+      "paper_url": "https://openreview.net/pdf?id=N4rYbQowE3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_9RNfX0ah0K",
+      "paper_id": "9RNfX0ah0K",
+      "title": "Leave-one-out Distinguishability in Machine Learning",
+      "authors": "Jiayuan Ye, Anastasia Borovykh, Soufiane Hayou, Reza Shokri",
+      "paper_url": "https://openreview.net/pdf?id=9RNfX0ah0K",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Bt1vnCnAVS",
+      "paper_id": "Bt1vnCnAVS",
+      "title": "Leave-One-Out Stable Conformal Prediction",
+      "authors": "Kiljae Lee, Yuan Zhang",
+      "paper_url": "https://openreview.net/pdf?id=Bt1vnCnAVS",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_jKTUlxo5zy",
+      "paper_id": "jKTUlxo5zy",
+      "title": "Less is More: Fewer Interpretable Region via Submodular Subset Selection",
+      "authors": "Ruoyu Chen, Hua Zhang, Siyuan Liang, Jingzhi Li, Xiaochun Cao",
+      "paper_url": "https://openreview.net/pdf?id=jKTUlxo5zy",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_9Nj_gNdvqYf",
+      "paper_id": "9Nj_gNdvqYf",
+      "title": "Leveraging Importance Weights in Subset Selection",
+      "authors": "Gui Citovsky, Giulia DeSalvo, Sanjiv Kumar, Srikumar Ramalingam, Afshin Rostamizadeh, Yunjuan Wang",
+      "paper_url": "https://openreview.net/pdf/89578ece1e09bb9f8db3ab2fc3cb6060315e84e1.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_nsNyDvNQTc",
+      "paper_id": "nsNyDvNQTc",
+      "title": "Leveraging Uncertainty Estimates To Improve Classifier Performance",
+      "authors": "Gundeep Arora, Srujana Merugu, Anoop Saladi, Rajeev Rastogi",
+      "paper_url": "https://openreview.net/pdf?id=nsNyDvNQTc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_ORp91sAbzI",
+      "paper_id": "ORp91sAbzI",
+      "title": "Leveraging Unlabeled Data to Track Memorization",
+      "authors": "Mahsa Forouzesh, Hanie Sedghi, Patrick Thiran",
+      "paper_url": "https://openreview.net/pdf/fd7c9f38e71ea9b881d14aa1c553aee5ee725757.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_UqYNPyotxL",
+      "paper_id": "UqYNPyotxL",
+      "title": "Linear Mode Connectivity in Differentiable Tree Ensembles",
+      "authors": "Ryuichi Kanoh, Mahito Sugiyama",
+      "paper_url": "https://openreview.net/pdf?id=UqYNPyotxL",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_X_hByk2-5je",
+      "paper_id": "X_hByk2-5je",
+      "title": "Lossless Compression with Probabilistic Circuits",
+      "authors": "Anji Liu, Stephan Mandt, Guy Van den Broeck",
+      "paper_url": "https://openreview.net/pdf/7cccb2cf8c807b3d5eeee9e05f70c8b5ea9ab246.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_v8OlxjGn23S",
+      "paper_id": "v8OlxjGn23S",
+      "title": "Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach",
+      "authors": "Rafid Mahmood, Sanja Fidler, Marc T Law",
+      "paper_url": "https://openreview.net/pdf/9dac127c30d4567d8dde179f21749b9ca5494686.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr22_sPfB2PI87BZ",
+      "paper_id": "sPfB2PI87BZ",
+      "title": "Mapping conditional distributions for domain adaptation under generalized target shift",
+      "authors": "Matthieu Kirchmeyer, Alain Rakotomamonjy, Emmanuel de Bezenac, patrick gallinari",
+      "paper_url": "https://openreview.net/pdf/57e7b71f45b2a39eb5f81670fb7e8fd080744a11.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_sIoED-yPK9l",
+      "paper_id": "sIoED-yPK9l",
+      "title": "Massively Scaling Heteroscedastic Classifiers",
+      "authors": "Mark Collier, Rodolphe Jenatton, Basil Mustafa, Neil Houlsby, Jesse Berent, Effrosyni Kokiopoulou",
+      "paper_url": "https://openreview.net/pdf/7be14f2821d211766625240b0311bd47ece2f5d8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_eoTCKKOgIs",
+      "paper_id": "eoTCKKOgIs",
+      "title": "Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift",
+      "authors": "Jiawei Ge, Shange Tang, Jianqing Fan, Cong Ma, Chi Jin",
+      "paper_url": "https://openreview.net/pdf?id=eoTCKKOgIs",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_1FxRPKrH8bw",
+      "paper_id": "1FxRPKrH8bw",
+      "title": "MCAL: Minimum Cost Human-Machine Active Labeling",
+      "authors": "Hang Qiu, Krishna Chintalapudi, Ramesh Govindan",
+      "paper_url": "https://openreview.net/pdf/6e91bc4e335c6dc641df9d7334a0c3ba83c63007.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_g2oB_k-18b",
+      "paper_id": "g2oB_k-18b",
+      "title": "Measure the Predictive Heterogeneity",
+      "authors": "Jiashuo Liu, Jiayun Wu, Renjie Pi, Renzhe Xu, Xingxuan Zhang, Bo Li, Peng Cui",
+      "paper_url": "https://openreview.net/pdf/e34d66bde391878e44d7632186ac2bdf879acda8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_7bJizxLKrR",
+      "paper_id": "7bJizxLKrR",
+      "title": "Measuring Forgetting of Memorized Training Examples",
+      "authors": "Matthew Jagielski, Om Thakkar, Florian Tramer, Daphne Ippolito, Katherine Lee, Nicholas Carlini, Eric Wallace, Shuang Song, Abhradeep Guha Thakurta, Nicolas Papernot, Chiyuan Zhang",
+      "paper_url": "https://openreview.net/pdf/b47ef8e9b1dd21b0fae0c4bde47a71e27324e333.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_PvLnIaJbt9",
+      "paper_id": "PvLnIaJbt9",
+      "title": "Metadata Archaeology: Unearthing Data Subsets by Leveraging Training Dynamics",
+      "authors": "Shoaib Ahmed Siddiqui, Nitarshan Rajkumar, Tegan Maharaj, David Krueger, Sara Hooker",
+      "paper_url": "https://openreview.net/pdf/a2556369723de05dfed6645f353856e0f08459a8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_jREF4bkfi_S",
+      "paper_id": "jREF4bkfi_S",
+      "title": "Mini-batch $k$-means terminates within $O(d/\\epsilon)$ iterations",
+      "authors": "Gregory Schwartzman",
+      "paper_url": "https://openreview.net/pdf/5a52186b24476b8d4da37309da8a8f4682166127.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_grM2Yv49cI",
+      "paper_id": "grM2Yv49cI",
+      "title": "Minimal Variance Model Aggregation: A principled, non-intrusive, and versatile integration of black box models",
+      "authors": "Theo Bourdais, Houman Owhadi",
+      "paper_url": "https://openreview.net/pdf?id=grM2Yv49cI",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_oc4yw7zX9T",
+      "paper_id": "oc4yw7zX9T",
+      "title": "Minimax Optimal Two-Stage Algorithm For Moment Estimation Under Covariate Shift",
+      "authors": "Zhen Zhang, Xin Liu, Shaoli Wang, Jiaye Teng",
+      "paper_url": "https://openreview.net/pdf?id=oc4yw7zX9T",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Te5ytkqsnl",
+      "paper_id": "Te5ytkqsnl",
+      "title": "Missingness Bias in Model Debugging",
+      "authors": "Saachi Jain, Hadi Salman, Eric Wong, Pengchuan Zhang, Vibhav Vineet, Sai Vemprala, Aleksander Madry",
+      "paper_url": "https://openreview.net/pdf/c17968a4f7476f9b48d38625f1f4024268d299a9.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_7mgUec-7GMv",
+      "paper_id": "7mgUec-7GMv",
+      "title": "Mitigating Dataset Bias by Using Per-Sample Gradient",
+      "authors": "Sumyeong Ahn, Seongyoon Kim, Se-Young Yun",
+      "paper_url": "https://openreview.net/pdf/2adbf1cd969a4c6d421debbd3759f0e1954be6e2.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_dIkpHooa2D",
+      "paper_id": "dIkpHooa2D",
+      "title": "MixMax: Distributional Robustness in Function Space via Optimal Data Mixtures",
+      "authors": "Anvith Thudi, Chris J. Maddison",
+      "paper_url": "https://openreview.net/pdf?id=dIkpHooa2D",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_KSSfF5lMIAg",
+      "paper_id": "KSSfF5lMIAg",
+      "title": "Model Agnostic Interpretability for Multiple Instance Learning",
+      "authors": "Joseph Early, Christine Evers, SArvapali Ramchurn",
+      "paper_url": "https://openreview.net/pdf/661f27fbc9eceb4bfe945b34904428e58f815b5c.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_QCDdI7X3f9",
+      "paper_id": "QCDdI7X3f9",
+      "title": "Model Equality Testing: Which Model is this API Serving?",
+      "authors": "Irena Gao, Percy Liang, Carlos Guestrin",
+      "paper_url": "https://openreview.net/pdf?id=QCDdI7X3f9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_ZDnzZrTqU9N",
+      "paper_id": "ZDnzZrTqU9N",
+      "title": "Modeling the Second Player in Distributionally Robust Optimization",
+      "authors": "Paul Michel, Tatsunori Hashimoto, Graham Neubig",
+      "paper_url": "https://openreview.net/pdf/e31aab007b357e40ee683c0d59d6d939a70c3b2a.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_wWK7yXkULyh",
+      "paper_id": "wWK7yXkULyh",
+      "title": "MONGOOSE: A Learnable LSH Framework for Efficient Neural Network Training",
+      "authors": "Beidi Chen, Zichang Liu, Binghui Peng, Zhaozhuo Xu, Jonathan Lingjie Li, Tri Dao, Zhao Song, Anshumali Shrivastava, Christopher Re",
+      "paper_url": "https://openreview.net/pdf/fe8456585f1f710b957e2300306b8007044772f0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_BAelAyADqn",
+      "paper_id": "BAelAyADqn",
+      "title": "MuHBoost: Multi-Label Boosting For Practical Longitudinal Human Behavior Modeling",
+      "authors": "Nguyen T Thach, Patrick Habecker, Anika R. Eisenbraun, W. Alex Mason, Kimberly A. Tyler, Bilal Khan, Hau Chan",
+      "paper_url": "https://openreview.net/pdf?id=BAelAyADqn",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_AICNpd8ke-m",
+      "paper_id": "AICNpd8ke-m",
+      "title": "Multi-Class Uncertainty Calibration via Mutual Information Maximization-based Binning",
+      "authors": "Kanil Patel, William H. Beluch, Bin Yang, Michael Pfeiffer, Dan Zhang",
+      "paper_url": "https://openreview.net/pdf/e278ab3baccd3cdfc22ecd5e2c3951904f7a70a0.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_loDppyW7e2",
+      "paper_id": "loDppyW7e2",
+      "title": "Multi-Dimensional Conformal Prediction",
+      "authors": "Yam Tawachi, Bracha Laufer-Goldshtein",
+      "paper_url": "https://openreview.net/pdf?id=loDppyW7e2",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_FVhmnvqnsI",
+      "paper_id": "FVhmnvqnsI",
+      "title": "Multisize Dataset Condensation",
+      "authors": "Yang He, Lingao Xiao, Joey Tianyi Zhou, Ivor Tsang",
+      "paper_url": "https://openreview.net/pdf?id=FVhmnvqnsI",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_KhLK0sHMgXK",
+      "paper_id": "KhLK0sHMgXK",
+      "title": "NASPY: Automated Extraction of Automated Machine Learning Models",
+      "authors": "Xiaoxuan Lou, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang",
+      "paper_url": "https://openreview.net/pdf/86d83b714af5dd7905a8be1ae5d3722feeb303ab.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr21_mCLVeEpplNE",
+      "paper_id": "mCLVeEpplNE",
+      "title": "NBDT: Neural-Backed Decision Tree",
+      "authors": "Alvin Wan, Lisa Dunlap, Daniel Ho, Jihan Yin, Scott Lee, Suzanne Petryk, Sarah Adel Bargal, Joseph E. Gonzalez",
+      "paper_url": "https://openreview.net/pdf/9083652f9da499bb55946d63a399c08093258e1c.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr23_Nc1ZkRW8Vde",
+      "paper_id": "Nc1ZkRW8Vde",
+      "title": "Near-optimal Coresets for Robust Clustering",
+      "authors": "Lingxiao Huang, Shaofeng H.-C. Jiang, Jianing Lou, Xuan Wu",
+      "paper_url": "https://openreview.net/pdf/697bd8e4cac416b91757762ed8f0209073062f6d.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_Z8RZrvngm5",
+      "paper_id": "Z8RZrvngm5",
+      "title": "NEAR: A Training-Free Pre-Estimator of Machine Learning Model Performance",
+      "authors": "Raphael T. Husistein, Markus Reiher, Marco Eckhoff",
+      "paper_url": "https://openreview.net/pdf?id=Z8RZrvngm5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_g1S72T3FGc",
+      "paper_id": "g1S72T3FGc",
+      "title": "Neural Active Learning Beyond Bandits",
+      "authors": "Yikun Ban, Ishika Agarwal, Ziwei Wu, Yada Zhu, Kommy Weldemariam, Hanghang Tong, Jingrui He",
+      "paper_url": "https://openreview.net/pdf?id=g1S72T3FGc",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_nmvmPIi185",
+      "paper_id": "nmvmPIi185",
+      "title": "Neural Causal Graph for Interpretable and Intervenable Classification",
+      "authors": "Jiawei Wang, Shaofei Lu, Da Cao, Dongyu Wang, Yuquan Le, Zhe Quan, Tat-Seng Chua",
+      "paper_url": "https://openreview.net/pdf?id=nmvmPIi185",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Xuyp1dGAbi",
+      "paper_id": "Xuyp1dGAbi",
+      "title": "New Algorithms for the Learning-Augmented k-means Problem",
+      "authors": "Junyu Huang, Qilong Feng, Ziyun Huang, Zhen Zhang, Jinhui Xu, Jianxin Wang",
+      "paper_url": "https://openreview.net/pdf?id=Xuyp1dGAbi",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_g8NJR6fCCl8",
+      "paper_id": "g8NJR6fCCl8",
+      "title": "NODE-GAM: Neural Generalized Additive Model for Interpretable Deep Learning",
+      "authors": "Chun-Hao Chang, Rich Caruana, Anna Goldenberg",
+      "paper_url": "https://openreview.net/pdf/dca44cbebb8f51bf19f423539a640118c674db6f.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_j511LaqEeP",
+      "paper_id": "j511LaqEeP",
+      "title": "Non-Exchangeable Conformal Risk Control",
+      "authors": "António Farinhas, Chrysoula Zerva, Dennis Thomas Ulmer, Andre Martins",
+      "paper_url": "https://openreview.net/pdf?id=j511LaqEeP",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_wQHyjIZ1SH",
+      "paper_id": "wQHyjIZ1SH",
+      "title": "NRGBoost: Energy-Based Generative Boosted Trees",
+      "authors": "João Bravo",
+      "paper_url": "https://openreview.net/pdf?id=wQHyjIZ1SH",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_CUABD2qIB4",
+      "paper_id": "CUABD2qIB4",
+      "title": "OCCAM: Towards Cost-Efficient and Accuracy-Aware Classification Inference",
+      "authors": "Dujian Ding, Bicheng Xu, Laks V. S. Lakshmanan",
+      "paper_url": "https://openreview.net/pdf?id=CUABD2qIB4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kJWcI39kXY",
+      "paper_id": "kJWcI39kXY",
+      "title": "ODAM: Gradient-based Instance-Specific Visual Explanations for Object Detection",
+      "authors": "Chenyang ZHAO, Antoni B. Chan",
+      "paper_url": "https://openreview.net/pdf/dafd4dbfa124993610ceda1a2409041764a1726c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_3GurO0kRue",
+      "paper_id": "3GurO0kRue",
+      "title": "On Harmonizing Implicit Subpopulations",
+      "authors": "Feng Hong, Jiangchao Yao, Yueming Lyu, Zhihan Zhou, Ivor Tsang, Ya Zhang, Yanfeng Wang",
+      "paper_url": "https://openreview.net/pdf?id=3GurO0kRue",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_JiYq3eqTKY",
+      "paper_id": "JiYq3eqTKY",
+      "title": "On Statistical Bias In Active Learning: How and When to Fix It",
+      "authors": "Sebastian Farquhar, Yarin Gal, Tom Rainforth",
+      "paper_url": "https://openreview.net/pdf/ed4c09a7b7980f55e8dc837711b624033003c1ba.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_ze7DOLi394",
+      "paper_id": "ze7DOLi394",
+      "title": "On the Joint Interaction of Models, Data, and Features",
+      "authors": "Yiding Jiang, Christina Baek, J Zico Kolter",
+      "paper_url": "https://openreview.net/pdf?id=ze7DOLi394",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_aPOpXlnV1T",
+      "paper_id": "aPOpXlnV1T",
+      "title": "On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks",
+      "authors": "Maximilian Seitzer, Arash Tavakoli, Dimitrije Antic, Georg Martius",
+      "paper_url": "https://openreview.net/pdf/542fc7335389cbc9933fb0ec11722efc30b958e8.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr23_HWt4BBZjVW",
+      "paper_id": "HWt4BBZjVW",
+      "title": "On the Trade-Off between Actionable Explanations and the Right to be Forgotten",
+      "authors": "Martin Pawelczyk, Tobias Leemann, Asia Biega, Gjergji Kasneci",
+      "paper_url": "https://openreview.net/pdf/746d7694d82927b11957b6e82af5b3e27b10e431.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_EDXkkUAIFW",
+      "paper_id": "EDXkkUAIFW",
+      "title": "One-shot Active Learning Based on Lewis Weight Sampling for Multiple Deep Models",
+      "authors": "Sheng-Jun Huang, Yi Li, Yiming Sun, Ying-Peng Tang",
+      "paper_url": "https://openreview.net/pdf?id=EDXkkUAIFW",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_NA2vUMaMOm",
+      "paper_id": "NA2vUMaMOm",
+      "title": "Online Clustering with Nearly Optimal Consistency",
+      "authors": "T-H. Hubert Chan, Shaofeng H.-C. Jiang, Tianyi Wu, Mengshi Zhao",
+      "paper_url": "https://openreview.net/pdf?id=NA2vUMaMOm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_Rf58LPCwJj0",
+      "paper_id": "Rf58LPCwJj0",
+      "title": "Optimal Representations for Covariate Shift",
+      "authors": "Yangjun Ruan, Yann Dubois, Chris J. Maddison",
+      "paper_url": "https://openreview.net/pdf/ddc6369b11aed2bc1a72bc2f493bb2ebd0f65be7.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_j4gzziSUr0",
+      "paper_id": "j4gzziSUr0",
+      "title": "Optimizing importance weighting in the presence of sub-population shifts",
+      "authors": "Floris Holstege, Bram Wouters, Noud Van Giersbergen, Cees Diks",
+      "paper_url": "https://openreview.net/pdf?id=j4gzziSUr0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZS7UEI3vG5",
+      "paper_id": "ZS7UEI3vG5",
+      "title": "Oracle efficient truncated statistics",
+      "authors": "Konstantinos Karatapanis, Vasilis Kontonis, Christos Tzamos",
+      "paper_url": "https://openreview.net/pdf?id=ZS7UEI3vG5",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_jphnJNOwe36",
+      "paper_id": "jphnJNOwe36",
+      "title": "Overparameterisation and worst-case generalisation: friend or foe?",
+      "authors": "Aditya Krishna Menon, Ankit Singh Rawat, Sanjiv Kumar",
+      "paper_url": "https://openreview.net/pdf/87a7cc95e2626c1015dbcadc41a7564ced3fa495.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Qk-Wq5AIjpq",
+      "paper_id": "Qk-Wq5AIjpq",
+      "title": "PAC Confidence Predictions for Deep Neural Network Classifiers",
+      "authors": "Sangdon Park, Shuo Li, Insup Lee, Osbert Bastani",
+      "paper_url": "https://openreview.net/pdf/722efb9d50df44cb8e7fca2dbab280da02707515.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_DhP9L8vIyLc",
+      "paper_id": "DhP9L8vIyLc",
+      "title": "PAC Prediction Sets Under Covariate Shift",
+      "authors": "Sangdon Park, Edgar Dobriban, Insup Lee, Osbert Bastani",
+      "paper_url": "https://openreview.net/pdf/c0c06e027d7b1f6b50bfe3c8ed8be38595d25d04.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_4vPVBh3fhz",
+      "paper_id": "4vPVBh3fhz",
+      "title": "PAC Prediction Sets Under Label Shift",
+      "authors": "Wenwen Si, Sangdon Park, Insup Lee, Edgar Dobriban, Osbert Bastani",
+      "paper_url": "https://openreview.net/pdf?id=4vPVBh3fhz",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_XXTyv1zD9zD",
+      "paper_id": "XXTyv1zD9zD",
+      "title": "Packed Ensembles for efficient uncertainty estimation",
+      "authors": "Olivier Laurent, Adrien Lafage, Enzo Tartaglione, Geoffrey Daniel, Jean-marc Martinez, Andrei Bursuc, Gianni Franchi",
+      "paper_url": "https://openreview.net/pdf/ca8af472cc5062b34c4e52f4fcb5b8591d4474c9.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_6BRLOfrMhW",
+      "paper_id": "6BRLOfrMhW",
+      "title": "Partitioned Learned Bloom Filters",
+      "authors": "Kapil Vaidya, Eric Knorr, Michael Mitzenmacher, Tim Kraska",
+      "paper_url": "https://openreview.net/pdf/9d3c15624a3da1883d53dc7d7e286e835c51a105.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Y9McSeEaqUh",
+      "paper_id": "Y9McSeEaqUh",
+      "title": "Predicting Classification Accuracy When Adding New Unobserved Classes",
+      "authors": "Yuli Slavutsky, Yuval Benjamini",
+      "paper_url": "https://openreview.net/pdf/0a83be3c3bae29a302683c1ec66eeea1b7307703.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_SCQfYpdoGE",
+      "paper_id": "SCQfYpdoGE",
+      "title": "Prediction without Preclusion: Recourse Verification with Reachable Sets",
+      "authors": "Avni Kothari, Bogdan Kulynych, Tsui-Wei Weng, Berk Ustun",
+      "paper_url": "https://openreview.net/pdf?id=SCQfYpdoGE",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_0uRm1YmFTu",
+      "paper_id": "0uRm1YmFTu",
+      "title": "Predictive Inference with Feature Conformal Prediction",
+      "authors": "Jiaye Teng, Chuan Wen, Dinghuai Zhang, Yoshua Bengio, Yang Gao, Yang Yuan",
+      "paper_url": "https://openreview.net/pdf/25bebcfe147e7e7eecd28e707c7704dbd5cbd5f0.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_2SV2dlfBuE3",
+      "paper_id": "2SV2dlfBuE3",
+      "title": "Predictor-corrector algorithms for stochastic optimization under gradual distribution shift",
+      "authors": "Subha Maity, Debarghya Mukherjee, Moulinath Banerjee, Yuekai Sun",
+      "paper_url": "https://openreview.net/pdf/6bd7177a33fed4da74d010246448583573fa2c48.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_QrEHs9w5UF",
+      "paper_id": "QrEHs9w5UF",
+      "title": "PRIME: Prioritizing Interpretability in Failure Mode Extraction",
+      "authors": "Keivan Rezaei, Mehrdad Saberi, Mazda Moayeri, Soheil Feizi",
+      "paper_url": "https://openreview.net/pdf?id=QrEHs9w5UF",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_UstOpZCESc",
+      "paper_id": "UstOpZCESc",
+      "title": "Privacy-Aware Lifelong Learning",
+      "authors": "Ozan Ozdenizci, Elmar Rueckert, Robert Legenstein",
+      "paper_url": "https://openreview.net/pdf?id=UstOpZCESc",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_Nfd7z9d6Bb",
+      "paper_id": "Nfd7z9d6Bb",
+      "title": "Probabilistic Conformal Prediction with Approximate Conditional Validity",
+      "authors": "Vincent Plassier, Alexander Fishkov, Mohsen Guizani, Maxim Panov, Eric Moulines",
+      "paper_url": "https://openreview.net/pdf?id=Nfd7z9d6Bb",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_zl0HLZOJC9",
+      "paper_id": "zl0HLZOJC9",
+      "title": "Probabilistic Learning to Defer: Handling Missing Expert Annotations and Controlling Workload Distribution",
+      "authors": "Cuong C. Nguyen, Thanh-Toan Do, Gustavo Carneiro",
+      "paper_url": "https://openreview.net/pdf?id=zl0HLZOJC9",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_sC-PmTsiTB",
+      "paper_id": "sC-PmTsiTB",
+      "title": "Probabilistically Robust Recourse: Navigating the Trade-offs between Costs and Robustness in Algorithmic Recourse",
+      "authors": "Martin Pawelczyk, Teresa Datta, Johan Van den Heuvel, Gjergji Kasneci, Himabindu Lakkaraju",
+      "paper_url": "https://openreview.net/pdf/cbc126e7ac8adc17616fca12a1e03c12cbf8b302.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_9XFSbDPmdW",
+      "paper_id": "9XFSbDPmdW",
+      "title": "Progress measures for grokking via mechanistic interpretability",
+      "authors": "Neel Nanda, Lawrence Chan, Tom Lieberum, Jess Smith, Jacob Steinhardt",
+      "paper_url": "https://openreview.net/pdf/4a139897d29f8bd1c37ac9483d9e6ac2fa5ec8fb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_sq5LLWk5SN",
+      "paper_id": "sq5LLWk5SN",
+      "title": "Provable Robust Overfitting Mitigation in Wasserstein Distributionally Robust Optimization",
+      "authors": "Shuang Liu, Yihan Wang, Yifan Zhu, Yibo Miao, Xiao-Shan Gao",
+      "paper_url": "https://openreview.net/pdf?id=sq5LLWk5SN",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_TId1SHe8JG",
+      "paper_id": "TId1SHe8JG",
+      "title": "Provable Uncertainty Decomposition via Higher-Order Calibration",
+      "authors": "Gustaf Ahdritz, Aravind Gollakota, Parikshit Gopalan, Charlotte Peale, Udi Wieder",
+      "paper_url": "https://openreview.net/pdf?id=TId1SHe8JG",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_wg3rBImn3O",
+      "paper_id": "wg3rBImn3O",
+      "title": "Provably Accurate Shapley Value Estimation via Leverage Score Sampling",
+      "authors": "Christopher Musco, R. Teal Witter",
+      "paper_url": "https://openreview.net/pdf?id=wg3rBImn3O",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_BWAhEjXjeG",
+      "paper_id": "BWAhEjXjeG",
+      "title": "Provably Robust Conformal Prediction with Improved Efficiency",
+      "authors": "Ge Yan, Yaniv Romano, Tsui-Wei Weng",
+      "paper_url": "https://openreview.net/pdf?id=BWAhEjXjeG",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_p6jsTidUkPx",
+      "paper_id": "p6jsTidUkPx",
+      "title": "Quantile Risk Control: A Flexible Framework for Bounding the Probability of High-Loss Predictions",
+      "authors": "Jake Snell, Thomas P Zollo, Zhun Deng, Toniann Pitassi, Richard Zemel",
+      "paper_url": "https://openreview.net/pdf/982a7ad6a22caf7e77aba86eae6cfd1395299bab.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_THUBTfSAS2",
+      "paper_id": "THUBTfSAS2",
+      "title": "Querying Easily Flip-flopped Samples for Deep Active Learning",
+      "authors": "Seong Jin Cho, Gwangsu Kim, Junghyun Lee, Jinwoo Shin, Chang D. Yoo",
+      "paper_url": "https://openreview.net/pdf?id=THUBTfSAS2",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Si3YFA641c",
+      "paper_id": "Si3YFA641c",
+      "title": "R-EDL: Relaxing Nonessential Settings of Evidential Deep Learning",
+      "authors": "Mengyuan Chen, Junyu Gao, Changsheng Xu",
+      "paper_url": "https://openreview.net/pdf?id=Si3YFA641c",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_4011PUI9vm",
+      "paper_id": "4011PUI9vm",
+      "title": "RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank",
+      "authors": "Tanya Chowdhury, Yair Zick, James Allan",
+      "paper_url": "https://openreview.net/pdf?id=4011PUI9vm",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_WUWJIV2Yxtp",
+      "paper_id": "WUWJIV2Yxtp",
+      "title": "Re-calibrating Feature Attributions for Model Interpretation",
+      "authors": "Peiyu Yang, NAVEED AKHTAR, Zeyi Wen, Mubarak Shah, Ajmal Saeed Mian",
+      "paper_url": "https://openreview.net/pdf/27e850e1a146543993bd508afba29de6ac36bbdb.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_X0epAjg0hd",
+      "paper_id": "X0epAjg0hd",
+      "title": "Reassessing How to Compare and Improve the Calibration of Machine Learning Models",
+      "authors": "Muthu Chidambaram, Rong Ge",
+      "paper_url": "https://openreview.net/pdf?id=X0epAjg0hd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_uy4EavBEwl",
+      "paper_id": "uy4EavBEwl",
+      "title": "Reconciling Model Multiplicity for Downstream Decision Making",
+      "authors": "Ally Yalei Du, Dung Daniel Ngo, Steven Wu",
+      "paper_url": "https://openreview.net/pdf?id=uy4EavBEwl",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_n8h1z588eu",
+      "paper_id": "n8h1z588eu",
+      "title": "Relax and Merge: A Simple Yet Effective Framework for Solving Fair $k$-Means and $k$-sparse Wasserstein Barycenter Problems",
+      "authors": "Shihong Song, Guanlin Mo, Hu Ding",
+      "paper_url": "https://openreview.net/pdf?id=n8h1z588eu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_JnRStoIuTe",
+      "paper_id": "JnRStoIuTe",
+      "title": "Repeated Random Sampling for Minimizing the Time-to-Accuracy of Learning",
+      "authors": "Patrik Okanovic, Roger Waleffe, Vasilis Mageirakos, Konstantinos Nikolakakis, Amin Karbasi, Dionysios Kalogerias, Nezihe Merve Gürel, Theodoros Rekatsinas",
+      "paper_url": "https://openreview.net/pdf?id=JnRStoIuTe",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_EskfH0bwNVn",
+      "paper_id": "EskfH0bwNVn",
+      "title": "Resolving Training Biases via Influence-based Data Relabeling",
+      "authors": "Shuming Kong, Yanyan Shen, Linpeng Huang",
+      "paper_url": "https://openreview.net/pdf/64c51657be7bb5a9efecafe39344c719ccb4d394.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_U7VW3KBm34",
+      "paper_id": "U7VW3KBm34",
+      "title": "Respect the model: Fine-grained and Robust Explanation with Sharing Ratio Decomposition",
+      "authors": "Sangyu Han, Yearim Kim, Nojun Kwak",
+      "paper_url": "https://openreview.net/pdf?id=U7VW3KBm34",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_KdVvOA00Or",
+      "paper_id": "KdVvOA00Or",
+      "title": "ReTaSA: A Nonparametric Functional Estimation Approach for Addressing Continuous Target Shift",
+      "authors": "Hwanwoo Kim, Xin Zhang, Jiwei Zhao, Qinglong Tian",
+      "paper_url": "https://openreview.net/pdf?id=KdVvOA00Or",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_dYeAHXnpWJ4",
+      "paper_id": "dYeAHXnpWJ4",
+      "title": "Rethinking the Role of Gradient-based Attribution Methods for Model Interpretability",
+      "authors": "Suraj Srinivas, Francois Fleuret",
+      "paper_url": "https://openreview.net/pdf/b29e31cf78e011a59f9e49950670211d4c516b00.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_JYwVijuNA7",
+      "paper_id": "JYwVijuNA7",
+      "title": "Revisiting Large-Scale Non-convex Distributionally Robust Optimization",
+      "authors": "Qi Zhang, Yi Zhou, Simon Khan, Ashley Prater-Bennette, Lixin Shen, Shaofeng Zou",
+      "paper_url": "https://openreview.net/pdf?id=JYwVijuNA7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ltrxRX5t0H",
+      "paper_id": "ltrxRX5t0H",
+      "title": "Robust Conformal Prediction with a Single Binary Certificate",
+      "authors": "Soroush H. Zargarbashi, Aleksandar Bojchevski",
+      "paper_url": "https://openreview.net/pdf?id=ltrxRX5t0H",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23__hHYaKu0jcj",
+      "paper_id": "_hHYaKu0jcj",
+      "title": "Robust Explanation Constraints for Neural Networks",
+      "authors": "Matthew Robert Wicker, Juyeon Heo, Luca Costabello, Adrian Weller",
+      "paper_url": "https://openreview.net/pdf/64e5acf0e9d38474f7cda5266ef409fa9e1b92c7.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_l11DZY5Nxu",
+      "paper_id": "l11DZY5Nxu",
+      "title": "Robust Root Cause Diagnosis using In-Distribution Interventions",
+      "authors": "Lokesh Nagalapatti, Ashutosh Srivastava, Sunita Sarawagi, Amit Sharma",
+      "paper_url": "https://openreview.net/pdf?id=l11DZY5Nxu",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_ZNnmcddaB3",
+      "paper_id": "ZNnmcddaB3",
+      "title": "Robust System Identification: Finite-sample Guarantees and Connection to Regularization",
+      "authors": "Hyuk Park, Grani A. Hanasusanto, Yingying Li",
+      "paper_url": "https://openreview.net/pdf?id=ZNnmcddaB3",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_WBUVagRgsd",
+      "paper_id": "WBUVagRgsd",
+      "title": "Salvage: Shapley-distribution Approximation Learning Via Attribution Guided Exploration for Explainable Image Classification",
+      "authors": "Mehdi Naouar, Hanne Raum, Jens Rahnfeld, Yannick Vogt, Joschka Boedecker, Gabriel Kalweit, Maria Kalweit",
+      "paper_url": "https://openreview.net/pdf?id=WBUVagRgsd",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr25_0UCoWxPhQ4",
+      "paper_id": "0UCoWxPhQ4",
+      "title": "SAVA: Scalable Learning-Agnostic Data Valuation",
+      "authors": "Samuel Kessler, Tam Le, Vu Nguyen",
+      "paper_url": "https://openreview.net/pdf?id=0UCoWxPhQ4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_GRZtigJljLY",
+      "paper_id": "GRZtigJljLY",
+      "title": "Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing",
+      "authors": "Renyu Zhang, Aly A Khan, Robert L. Grossman, Yuxin Chen",
+      "paper_url": "https://openreview.net/pdf/f8c636a7941b10f719e111fe8c8ab85c3c68465c.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr21_V5j-jdoDDP",
+      "paper_id": "V5j-jdoDDP",
+      "title": "Scaling Symbolic Methods using Gradients for Neural Model Explanation",
+      "authors": "Subham Sekhar Sahoo, Subhashini Venugopalan, Li Li, Rishabh Singh, Patrick Riley",
+      "paper_url": "https://openreview.net/pdf/d1b9da67f960e7d1f4843fe8b37b4e9cb6cbbc3b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_MyVC4X5B2X",
+      "paper_id": "MyVC4X5B2X",
+      "title": "SEBRA : Debiasing through Self-Guided Bias Ranking",
+      "authors": "Adarsh Kappiyath, Abhra Chaudhuri, AJAY KUMAR JAISWAL, Ziquan Liu, Yunpeng Li, Xiatian Zhu, Lu Yin",
+      "paper_url": "https://openreview.net/pdf?id=MyVC4X5B2X",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_HfUyCRBeQc",
+      "paper_id": "HfUyCRBeQc",
+      "title": "Selective Ensembles for Consistent Predictions",
+      "authors": "Emily Black, Klas Leino, Matt Fredrikson",
+      "paper_url": "https://openreview.net/pdf/aef96c65d43466af59147df0d990f0b94efbef7a.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_h0vC0fm1q7",
+      "paper_id": "h0vC0fm1q7",
+      "title": "Sensitivity Verification for Additive Decision Tree Ensembles",
+      "authors": "Arhaan Ahmad, Tanay Vineet Tayal, Ashutosh Gupta, S. Akshay",
+      "paper_url": "https://openreview.net/pdf?id=h0vC0fm1q7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_Rhsu5qD36cL",
+      "paper_id": "Rhsu5qD36cL",
+      "title": "Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy",
+      "authors": "Akinori F Ebihara, Taiki Miyagawa, Kazuyuki Sakurai, Hitoshi Imaoka",
+      "paper_url": "https://openreview.net/pdf/61baa81a79a2975a98aad96ab59d3ca65685492b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr24_HZ3S17EI0o",
+      "paper_id": "HZ3S17EI0o",
+      "title": "Set Learning for Accurate and Calibrated Models",
+      "authors": "Lukas Muttenthaler, Robert A. Vandermeulen, Qiuyi Zhang, Thomas Unterthiner, Klaus Robert Muller",
+      "paper_url": "https://openreview.net/pdf?id=HZ3S17EI0o",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_OPyWRrcjVQw",
+      "paper_id": "OPyWRrcjVQw",
+      "title": "Shapley explainability on the data manifold",
+      "authors": "Christopher Frye, Damien de Mijolla, Tom Begley, Laurence Cowton, Megan Stanley, Ilya Feige",
+      "paper_url": "https://openreview.net/pdf/ed871c78bdc2768918e12775dd57dff6b36e4c24.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_vsU0efpivw",
+      "paper_id": "vsU0efpivw",
+      "title": "Shapley Explanation Networks",
+      "authors": "Rui Wang, Xiaoqian Wang, David I. Inouye",
+      "paper_url": "https://openreview.net/pdf/12770a255a18bc6c25ce69bdda082fd0d7a8cc87.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_LyJi5ugyJx",
+      "paper_id": "LyJi5ugyJx",
+      "title": "Simplifying, Stabilizing and Scaling Continuous-time Consistency Models",
+      "authors": "Cheng Lu, Yang Song",
+      "paper_url": "https://openreview.net/pdf?id=LyJi5ugyJx",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_XwiA1nDahv",
+      "paper_id": "XwiA1nDahv",
+      "title": "Smooth ECE: Principled Reliability Diagrams via Kernel Smoothing",
+      "authors": "Jaroslaw Blasiok, Preetum Nakkiran",
+      "paper_url": "https://openreview.net/pdf?id=XwiA1nDahv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_Fn655mJ4bv",
+      "paper_id": "Fn655mJ4bv",
+      "title": "SOInter: A Novel Deep Energy-Based Interpretation Method for Explaining Structured Output Models",
+      "authors": "S. Fatemeh Seyyedsalehi, Mahdieh Soleymani Baghshah, Hamid R. Rabiee",
+      "paper_url": "https://openreview.net/pdf?id=Fn655mJ4bv",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_Iht4NNVqk0",
+      "paper_id": "Iht4NNVqk0",
+      "title": "Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods",
+      "authors": "Buelent Uendes, Shujian Yu, Mark Hoogendoorn",
+      "paper_url": "https://openreview.net/pdf?id=Iht4NNVqk0",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_kQxry8Z6Fd9",
+      "paper_id": "kQxry8Z6Fd9",
+      "title": "Statistical Guarantees for Consensus Clustering",
+      "authors": "Zhixin Zhou, Gautam Dudeja, Arash A Amini",
+      "paper_url": "https://openreview.net/pdf/a84a06f19515683c27d572d9f87d434a39877d79.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_v7ZPwoHU1j",
+      "paper_id": "v7ZPwoHU1j",
+      "title": "Statistically Optimal $K$-means Clustering via Nonnegative Low-rank Semidefinite Programming",
+      "authors": "Yubo Zhuang, Xiaohui Chen, Yun Yang, Richard Y. Zhang",
+      "paper_url": "https://openreview.net/pdf?id=v7ZPwoHU1j",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_xUMI52rrW7",
+      "paper_id": "xUMI52rrW7",
+      "title": "Structural-Entropy-Based Sample Selection for Efficient and Effective Learning",
+      "authors": "Tianchi Xie, Jiangning Zhu, Guozu Ma, Minzhi Lin, Wei Chen, Weikai Yang, Shixia Liu",
+      "paper_url": "https://openreview.net/pdf?id=xUMI52rrW7",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_p_jIy5QFB7",
+      "paper_id": "p_jIy5QFB7",
+      "title": "Taking a Step Back with KCal: Multi-Class Kernel-Based Calibration for Deep Neural Networks",
+      "authors": "Zhen Lin, Shubhendu Trivedi, Jimeng Sun",
+      "paper_url": "https://openreview.net/pdf/f98704c521e5df54883c99e029e7e14b042f444b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_EIgLnNx_lC",
+      "paper_id": "EIgLnNx_lC",
+      "title": "TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations",
+      "authors": "Haoxuan Li, Yan Lyu, Chunyuan Zheng, Peng Wu",
+      "paper_url": "https://openreview.net/pdf/6a5e83f301fab75655796fae74cf9cf0eae5e4bf.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_A3YUPeJTNR",
+      "paper_id": "A3YUPeJTNR",
+      "title": "The Hidden Cost of Waiting for Accurate Predictions",
+      "authors": "Ali Shirali, Ariel D. Procaccia, Rediet Abebe",
+      "paper_url": "https://openreview.net/pdf?id=A3YUPeJTNR",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_s5hSp7EdL3",
+      "paper_id": "s5hSp7EdL3",
+      "title": "The Human-AI Substitution game: active learning from a strategic labeler",
+      "authors": "Tom Yan, Chicheng Zhang",
+      "paper_url": "https://openreview.net/pdf?id=s5hSp7EdL3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_SZdfz5k7cd1",
+      "paper_id": "SZdfz5k7cd1",
+      "title": "Tier Balancing: Towards Dynamic Fairness over Underlying Causal Factors",
+      "authors": "Zeyu Tang, Yatong Chen, Yang Liu, Kun Zhang",
+      "paper_url": "https://openreview.net/pdf/a9d615296fdafac4c2274c026a6ba93a444debbc.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_UHjE5v5MB7",
+      "paper_id": "UHjE5v5MB7",
+      "title": "To Grok or not to Grok: Disentangling Generalization and Memorization on Corrupted Algorithmic Datasets",
+      "authors": "Darshil Doshi, Aritra Das, Tianyu He, Andrey Gromov",
+      "paper_url": "https://openreview.net/pdf?id=UHjE5v5MB7",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr22_WqoBaaPHS-",
+      "paper_id": "WqoBaaPHS-",
+      "title": "Top-label calibration and multiclass-to-binary reductions",
+      "authors": "Chirag Gupta, Aaditya Ramdas",
+      "paper_url": "https://openreview.net/pdf/a580ad8d84d1a31adcccb9f9e2102c3b503121df.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr24_HhfcNgQn6p",
+      "paper_id": "HhfcNgQn6p",
+      "title": "Towards a statistical theory of data selection under weak supervision",
+      "authors": "Germain Kolossov, Andrea Montanari, Pulkit Tandon",
+      "paper_url": "https://openreview.net/pdf?id=HhfcNgQn6p",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr24_uGtfk2OphU",
+      "paper_id": "uGtfk2OphU",
+      "title": "Towards Faithful Explanations: Boosting Rationalization with Shortcuts Discovery",
+      "authors": "Linan Yue, Qi Liu, Yichao Du, Li Wang, Weibo Gao, Yanqing An",
+      "paper_url": "https://openreview.net/pdf?id=uGtfk2OphU",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr23_li4GQCQWkv",
+      "paper_id": "li4GQCQWkv",
+      "title": "Towards Inferential Reproducibility of Machine Learning Research",
+      "authors": "Michael Hagmann, Philipp Meier, Stefan Riezler",
+      "paper_url": "https://openreview.net/pdf/bb958f5122207874421ebc6aa75cf0588d96b378.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr22_Ro_zAjZppv",
+      "paper_id": "Ro_zAjZppv",
+      "title": "Tracking the risk of a deployed model and detecting harmful distribution shifts",
+      "authors": "Aleksandr Podkopaev, Aaditya Ramdas",
+      "paper_url": "https://openreview.net/pdf/f763a5271b61d98bca4127ab14ce483150d152c4.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_ZYDEJEvCbv",
+      "paper_id": "ZYDEJEvCbv",
+      "title": "Truncated Consistency Models",
+      "authors": "Sangyun Lee, Yilun Xu, Tomas Geffner, Giulia Fanti, Karsten Kreis, Arash Vahdat, Weili Nie",
+      "paper_url": "https://openreview.net/pdf?id=ZYDEJEvCbv",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_OOsR8BzCnl5",
+      "paper_id": "OOsR8BzCnl5",
+      "title": "Trusted Multi-View Classification",
+      "authors": "Zongbo Han, Changqing Zhang, Huazhu Fu, Joey Tianyi Zhou",
+      "paper_url": "https://openreview.net/pdf/4ae336db914c13c1db09afbb3dea3d948ad4aa37.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_9EKHN1jOlA",
+      "paper_id": "9EKHN1jOlA",
+      "title": "Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs",
+      "authors": "Cheng Wang, Carolin Lawrence, Mathias Niepert",
+      "paper_url": "https://openreview.net/pdf/aeebe69f6abcb7b8384fa76d96314140b0529728.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_jN5y-zb5Q7m",
+      "paper_id": "jN5y-zb5Q7m",
+      "title": "Uncertainty Estimation in Autoregressive Structured Prediction",
+      "authors": "Andrey Malinin, Mark Gales",
+      "paper_url": "https://openreview.net/pdf/e79c8b8744afc4b43fd9ff97d80f237b28c3125b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_UgPoHhYQ2U",
+      "paper_id": "UgPoHhYQ2U",
+      "title": "Uncertainty Herding: One Active Learning Method for All Label Budgets",
+      "authors": "Wonho Bae, Danica J. Sutherland, Gabriel L. Oliveira",
+      "paper_url": "https://openreview.net/pdf?id=UgPoHhYQ2U",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr21_1Jv6b0Zq3qi",
+      "paper_id": "1Jv6b0Zq3qi",
+      "title": "Uncertainty in Gradient Boosting via Ensembles",
+      "authors": "Andrey Malinin, Liudmila Prokhorenkova, Aleksei Ustimenko",
+      "paper_url": "https://openreview.net/pdf/d20bb72ed1f0c69fa43f4363ec90050b0e79af3d.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_iZl0VqEdxa",
+      "paper_id": "iZl0VqEdxa",
+      "title": "Uncertainty modeling for fine-tuned implicit functions",
+      "authors": "Anna Susmelj, Mael Macuglia, Natasa Tagasovska, Reto Sutter, Sebastiano Caprara, Jean-Philippe Thiran, Ender Konukoglu",
+      "paper_url": "https://openreview.net/pdf?id=iZl0VqEdxa",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_cZttUMTiPL",
+      "paper_id": "cZttUMTiPL",
+      "title": "Uncertainty Quantification via Stable Distribution Propagation",
+      "authors": "Felix Petersen, Aashwin Ananda Mishra, Hilde Kuehne, Christian Borgelt, Oliver Deussen, Mikhail Yurochkin",
+      "paper_url": "https://openreview.net/pdf?id=cZttUMTiPL",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_eNdiU_DbM9",
+      "paper_id": "eNdiU_DbM9",
+      "title": "Uncertainty Sets for Image Classifiers using Conformal Prediction",
+      "authors": "Anastasios Nikolas Angelopoulos, Stephen Bates, Michael Jordan, Jitendra Malik",
+      "paper_url": "https://openreview.net/pdf/54ecc59706032f693269ac3a32a22051e5b97bbd.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr21_Mu2ZxFctAI",
+      "paper_id": "Mu2ZxFctAI",
+      "title": "Uncertainty-aware Active Learning for Optimal Bayesian Classifier",
+      "authors": "Guang Zhao, Edward Dougherty, Byung-Jun Yoon, Francis Alexander, Xiaoning Qian",
+      "paper_url": "https://openreview.net/pdf/afb9e3d9e377ad46e8edc01c8ca00e45787831f8.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr25_hPpyUv1XyQ",
+      "paper_id": "hPpyUv1XyQ",
+      "title": "Uncertainty-Aware Decoding with Minimum Bayes Risk",
+      "authors": "Nico Daheim, Clara Meister, Thomas Möllenhoff, Iryna Gurevych",
+      "paper_url": "https://openreview.net/pdf?id=hPpyUv1XyQ",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr24_8dN7gApKm3",
+      "paper_id": "8dN7gApKm3",
+      "title": "Uncertainty-aware Graph-based Hyperspectral Image Classification",
+      "authors": "Linlin Yu, Yifei Lou, Feng Chen",
+      "paper_url": "https://openreview.net/pdf?id=8dN7gApKm3",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr25_0h6v4SpLCY",
+      "paper_id": "0h6v4SpLCY",
+      "title": "Universal generalization guarantees for Wasserstein distributionally robust models",
+      "authors": "Tam Le, Jerome Malick",
+      "paper_url": "https://openreview.net/pdf?id=0h6v4SpLCY",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr22_YpPiNigTzMT",
+      "paper_id": "YpPiNigTzMT",
+      "title": "Universalizing Weak Supervision",
+      "authors": "Changho Shin, Winfred Li, Harit Vishwakarma, Nicholas Carl Roberts, Frederic Sala",
+      "paper_url": "https://openreview.net/pdf/a2adc08eeb52dcddf2563c7bb42940946813b522.pdf",
+      "venue": "iclr22"
+    },
+    {
+      "id": "iclr25_iOMnn1hSBO",
+      "paper_id": "iOMnn1hSBO",
+      "title": "Utility-Directed Conformal Prediction: A Decision-Aware Framework for Actionable Uncertainty Quantification",
+      "authors": "Santiago Cortes-Gomez, Carlos Miguel Patiño, Yewon Byun, Steven Wu, Eric Horvitz, Bryan Wilder",
+      "paper_url": "https://openreview.net/pdf?id=iOMnn1hSBO",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_qihMOPw4Sf_",
+      "paper_id": "qihMOPw4Sf_",
+      "title": "Valid P-Value for Deep Learning-driven Salient Region",
+      "authors": "Miwa Daiki, Vo Nguyen Le Duy, Ichiro Takeuchi",
+      "paper_url": "https://openreview.net/pdf/4648f8cd96b71924f57fd9418c3d9e7fe45ce8c8.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr23_77lSWa-Tm3Z",
+      "paper_id": "77lSWa-Tm3Z",
+      "title": "Variational Information Pursuit for Interpretable Predictions",
+      "authors": "Aditya Chattopadhyay, Kwan Ho Ryan Chan, Benjamin David Haeffele, Donald Geman, Rene Vidal",
+      "paper_url": "https://openreview.net/pdf/e4a7da7aba80912163ac2cc81f64add6ca7960ba.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr25_aJ3tiX1Tu4",
+      "paper_id": "aJ3tiX1Tu4",
+      "title": "Wasserstein-Regularized Conformal Prediction under General Distribution Shift",
+      "authors": "Rui Xu, Chao Chen, Yue Sun, Parvathinathan Venkitasubramaniam, Sihong Xie",
+      "paper_url": "https://openreview.net/pdf?id=aJ3tiX1Tu4",
+      "venue": "iclr25"
+    },
+    {
+      "id": "iclr23_p66AzKi6Xim",
+      "paper_id": "p66AzKi6Xim",
+      "title": "What Can we Learn From The Selective Prediction And Uncertainty Estimation Performance Of 523 Imagenet Classifiers?",
+      "authors": "Ido Galil, Mohammed Dabbah, Ran El-Yaniv",
+      "paper_url": "https://openreview.net/pdf/511b590fa52d8862dc31d6bf812574202375626b.pdf",
+      "venue": "iclr23"
+    },
+    {
+      "id": "iclr24_RvfPnOkPV4",
+      "paper_id": "RvfPnOkPV4",
+      "title": "What's In My Big Data?",
+      "authors": "Yanai Elazar, Akshita Bhagia, Ian Helgi Magnusson, Abhilasha Ravichander, Dustin Schwenk, Alane Suhr, Evan Pete Walsh, Dirk Groeneveld, Luca Soldaini, Sameer Singh, Hannaneh Hajishirzi, Noah A. Smith, Jesse Dodge",
+      "paper_url": "https://openreview.net/pdf?id=RvfPnOkPV4",
+      "venue": "iclr24"
+    },
+    {
+      "id": "iclr21_iQQK02mxVIT",
+      "paper_id": "iQQK02mxVIT",
+      "title": "Why resampling outperforms reweighting for correcting sampling bias with stochastic gradients",
+      "authors": "Jing An, Lexing Ying, Yuhua Zhu",
+      "paper_url": "https://openreview.net/pdf/0fa836fe2e9df3b7a0bc598d12aa906302c5bf9b.pdf",
+      "venue": "iclr21"
+    },
+    {
+      "id": "iclr22_MvO2t0vbs4-",
+      "paper_id": "MvO2t0vbs4-",
+      "title": "Wisdom of Committees: An Overlooked Approach To Faster and More Accurate Models",
+      "authors": "Xiaofang Wang, Dan Kondratyuk, Eric Christiansen, Kris M. Kitani, Yair Movshovitz-Attias, Elad Eban",
+      "paper_url": "https://openreview.net/pdf/30614ee406abf0fbe954e884f90eb52e58cb5336.pdf",
+      "venue": "iclr22"
+    }
+  ]
+}

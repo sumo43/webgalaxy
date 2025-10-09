@@ -1,0 +1,2765 @@
+{
+  "cluster_id": 2,
+  "papers": [
+    {
+      "id": "cvpr24_899",
+      "paper_id": "",
+      "title": "1-Lipschitz Layers Compared: Memory Speed and Certifiable Robustness",
+      "authors": "Bernd Prach, Fabio Brau, Giorgio Buttazzo, Christoph H. Lampert",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Prach_1-Lipschitz_Layers_Compared_Memory_Speed_and_Certifiable_Robustness_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1955",
+      "paper_id": "",
+      "title": "3D Common Corruptions and Data Augmentation",
+      "authors": "Oğuzhan Fatih Kar, Teresa Yeo, Andrei Atanov, Amir Zamir",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kar_3D_Common_Corruptions_and_Data_Augmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_417",
+      "paper_id": "",
+      "title": "3DeformRS: Certifying Spatial Deformations on Point Clouds",
+      "authors": "Gabriel Pérez S., Juan C. Pérez, Motasem Alfarra, Silvio Giancola, Bernard Ghanem",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/S._3DeformRS_Certifying_Spatial_Deformations_on_Point_Clouds_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2485",
+      "paper_id": "",
+      "title": "A Bayesian Approach to OOD Robustness in Image Classification",
+      "authors": "Prakhar Kaushik, Adam Kortylewski, Alan Yuille",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kaushik_A_Bayesian_Approach_to_OOD_Robustness_in_Image_Classification_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_842",
+      "paper_id": "",
+      "title": "A Comprehensive Study of Image Classification Model Sensitivity to Foregrounds, Backgrounds, and Visual Attributes",
+      "authors": "Mazda Moayeri, Phillip Pope, Yogesh Balaji, Soheil Feizi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Moayeri_A_Comprehensive_Study_of_Image_Classification_Model_Sensitivity_to_Foregrounds_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_214",
+      "paper_id": "",
+      "title": "A General Regret Bound of Preconditioned Gradient Method for DNN Training",
+      "authors": "Hongwei Yong, Ying Sun, Lei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yong_A_General_Regret_Bound_of_Preconditioned_Gradient_Method_for_DNN_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_777",
+      "paper_id": "",
+      "title": "A Noisy Elephant in the Room: Is Your Out-of-Distribution Detector Robust to Label Noise?",
+      "authors": "Galadrielle Humblot-Renaux, Sergio Escalera, Thomas B. Moeslund",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Humblot-Renaux_A_Noisy_Elephant_in_the_Room_Is_Your_Out-of-Distribution_Detector_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_486",
+      "paper_id": "",
+      "title": "A Re-Balancing Strategy for Class-Imbalanced Classification Based on Instance Difficulty",
+      "authors": "Sihao Yu, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Zizhen Wang, Xueqi Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_A_Re-Balancing_Strategy_for_Class-Imbalanced_Classification_Based_on_Instance_Difficulty_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1482",
+      "paper_id": "",
+      "title": "A Second-Order Approach to Learning With Instance-Dependent Label Noise",
+      "authors": "Zhaowei Zhu, Tongliang Liu, Yang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_A_Second-Order_Approach_to_Learning_With_Instance-Dependent_Label_Noise_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1163",
+      "paper_id": "",
+      "title": "A Simple Data Mixing Prior for Improving Self-Supervised Learning",
+      "authors": "Sucheng Ren, Huiyu Wang, Zhengqi Gao, Shengfeng He, Alan Yuille, Yuyin Zhou, Cihang Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_A_Simple_Data_Mixing_Prior_for_Improving_Self-Supervised_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_997",
+      "paper_id": "",
+      "title": "A Stitch in Time Saves Nine: A Train-Time Regularizing Loss for Improved Neural Network Calibration",
+      "authors": "Ramya Hebbalaguppe, Jatin Prakash, Neelabh Madan, Chetan Arora",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hebbalaguppe_A_Stitch_in_Time_Saves_Nine_A_Train-Time_Regularizing_Loss_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2755",
+      "paper_id": "",
+      "title": "A Tale of Two Classes: Adapting Supervised Contrastive Learning to Binary Imbalanced Datasets",
+      "authors": "David Mildenberger, Paul Hager, Daniel Rueckert, Martin J. Menten",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mildenberger_A_Tale_of_Two_Classes_Adapting_Supervised_Contrastive_Learning_to_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2056",
+      "paper_id": "",
+      "title": "A Whac-a-Mole Dilemma: Shortcuts Come in Multiples Where Mitigating One Amplifies Others",
+      "authors": "Zhiheng Li, Ivan Evtimov, Albert Gordo, Caner Hazirbas, Tal Hassner, Cristian Canton Ferrer, Chenliang Xu, Mark Ibrahim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_A_Whac-a-Mole_Dilemma_Shortcuts_Come_in_Multiples_Where_Mitigating_One_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_456",
+      "paper_id": "",
+      "title": "Achieving Robustness in Classification Using Optimal Transport With Hinge Regularization",
+      "authors": "Mathieu Serrurier, Franck Mamalet, Alberto Gonzalez-Sanz, Thibaut Boissin, Jean-Michel Loubes, Eustasio del Barrio",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Serrurier_Achieving_Robustness_in_Classification_Using_Optimal_Transport_With_Hinge_Regularization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_431",
+      "paper_id": "",
+      "title": "Adaptive Class Suppression Loss for Long-Tail Object Detection",
+      "authors": "Tong Wang, Yousong Zhu, Chaoyang Zhao, Wei Zeng, Jinqiao Wang, Ming Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Adaptive_Class_Suppression_Loss_for_Long-Tail_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1401",
+      "paper_id": "",
+      "title": "Adaptive Hierarchical Representation Learning for Long-Tailed Object Detection",
+      "authors": "Banghuai Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Adaptive_Hierarchical_Representation_Learning_for_Long-Tailed_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_326",
+      "paper_id": "",
+      "title": "ADD: Attribution-Driven Data Augmentation Framework for Boosting Image Super-Resolution",
+      "authors": "Ze-Yu Mi, Yu-Bin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Mi_ADD_Attribution-Driven_Data_Augmentation_Framework_for_Boosting_Image_Super-Resolution_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_726",
+      "paper_id": "",
+      "title": "Adversarial Distillation Based on Slack Matching and Attribution Region Alignment",
+      "authors": "Shenglin Yin, Zhen Xiao, Mingxuan Song, Jieyi Long",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Adversarial_Distillation_Based_on_Slack_Matching_and_Attribution_Region_Alignment_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1645",
+      "paper_id": "",
+      "title": "Adversarial Invariant Learning",
+      "authors": "Nanyang Ye, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_Adversarial_Invariant_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_508",
+      "paper_id": "",
+      "title": "Adversarial Robustness Across Representation Spaces",
+      "authors": "Pranjal Awasthi, George Yu, Chun-Sung Ferng, Andrew Tomkins, Da-Cheng Juan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Awasthi_Adversarial_Robustness_Across_Representation_Spaces_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_559",
+      "paper_id": "",
+      "title": "Adversarial Robustness Under Long-Tailed Distribution",
+      "authors": "Tong Wu, Ziwei Liu, Qingqiu Huang, Yu Wang, Dahua Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Adversarial_Robustness_Under_Long-Tailed_Distribution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1901",
+      "paper_id": "",
+      "title": "Adversarial Robustness via Random Projection Filters",
+      "authors": "Minjing Dong, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Adversarial_Robustness_via_Random_Projection_Filters_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1176",
+      "paper_id": "",
+      "title": "Adversarially Robust Neural Architecture Search for Graph Neural Networks",
+      "authors": "Beini Xie, Heng Chang, Ziwei Zhang, Xin Wang, Daixin Wang, Zhiqiang Zhang, Rex Ying, Wenwu Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Adversarially_Robust_Neural_Architecture_Search_for_Graph_Neural_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2191",
+      "paper_id": "",
+      "title": "AGAIN: Adversarial Training With Attribution Span Enlargement and Hybrid Feature Fusion",
+      "authors": "Shenglin Yin, Kelu Yao, Sheng Shi, Yangzhou Du, Zhen Xiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yin_AGAIN_Adversarial_Training_With_Attribution_Span_Enlargement_and_Hybrid_Feature_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1144",
+      "paper_id": "",
+      "title": "AIM: An Auto-Augmenter for Images and Meshes",
+      "authors": "Vinit Veerendraveer Singh, Chandra Kambhamettu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_AIM_An_Auto-Augmenter_for_Images_and_Meshes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1367",
+      "paper_id": "",
+      "title": "AlignMixup: Improving Representations by Interpolating Aligned Features",
+      "authors": "Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Venkataramanan_AlignMixup_Improving_Representations_by_Interpolating_Aligned_Features_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1222",
+      "paper_id": "",
+      "title": "An Alternative Probabilistic Interpretation of the Huber Loss",
+      "authors": "Gregory P. Meyer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Meyer_An_Alternative_Probabilistic_Interpretation_of_the_Huber_Loss_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_741",
+      "paper_id": "",
+      "title": "Architectural Adversarial Robustness: The Case for Deep Pursuit",
+      "authors": "George Cazenavette, Calvin Murdock, Simon Lucey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cazenavette_Architectural_Adversarial_Robustness_The_Case_for_Deep_Pursuit_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2346",
+      "paper_id": "",
+      "title": "Are Data-Driven Explanations Robust Against Out-of-Distribution Data?",
+      "authors": "Tang Li, Fengchun Qiao, Mengmeng Ma, Xi Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Are_Data-Driven_Explanations_Robust_Against_Out-of-Distribution_Data_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_561",
+      "paper_id": "",
+      "title": "Augmentation Strategies for Learning With Noisy Labels",
+      "authors": "Kento Nishi, Yi Ding, Alex Rich, Tobias Hollerer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Nishi_Augmentation_Strategies_for_Learning_With_Noisy_Labels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1442",
+      "paper_id": "",
+      "title": "AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation",
+      "authors": "Denis Gudovskiy, Luca Rigazio, Shun Ishizaka, Kazuki Kozuka, Sotaro Tsukizawa",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gudovskiy_AutoDO_Robust_AutoAugment_for_Biased_Data_With_Label_Noise_via_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2729",
+      "paper_id": "",
+      "title": "Automated Proof of Polynomial Inequalities via Reinforcement Learning",
+      "authors": "Banglong Liu, Niuniu Qi, Xia Zeng, Lydia Dehbi, Zhengfeng Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Automated_Proof_of_Polynomial_Inequalities_via_Reinforcement_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_154",
+      "paper_id": "",
+      "title": "Background Splitting: Finding Rare Classes in a Sea of Background",
+      "authors": "Ravi Teja Mullapudi, Fait Poms, William R. Mark, Deva Ramanan, Kayvon Fatahalian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Mullapudi_Background_Splitting_Finding_Rare_Classes_in_a_Sea_of_Background_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_786",
+      "paper_id": "",
+      "title": "Balanced Contrastive Learning for Long-Tailed Visual Recognition",
+      "authors": "Jianggang Zhu, Zheng Wang, Jingjing Chen, Yi-Ping Phoebe Chen, Yu-Gang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Balanced_Contrastive_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_814",
+      "paper_id": "",
+      "title": "Balanced Energy Regularization Loss for Out-of-Distribution Detection",
+      "authors": "Hyunjun Choi, Hawook Jeong, Jin Young Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Energy_Regularization_Loss_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_826",
+      "paper_id": "",
+      "title": "Balanced MSE for Imbalanced Visual Regression",
+      "authors": "Jiawei Ren, Mingyuan Zhang, Cunjun Yu, Ziwei Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Balanced_MSE_for_Imbalanced_Visual_Regression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2258",
+      "paper_id": "",
+      "title": "Balanced Product of Calibrated Experts for Long-Tailed Recognition",
+      "authors": "Emanuel Sanchez Aimar, Arvi Jonnarth, Michael Felsberg, Marco Kuhlmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Aimar_Balanced_Product_of_Calibrated_Experts_for_Long-Tailed_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_777",
+      "paper_id": "",
+      "title": "Balancing Logit Variation for Long-Tailed Semantic Segmentation",
+      "authors": "Yuchao Wang, Jingjing Fei, Haochen Wang, Wei Li, Tianpeng Bao, Liwei Wu, Rui Zhao, Yujun Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Balancing_Logit_Variation_for_Long-Tailed_Semantic_Segmentation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2237",
+      "paper_id": "",
+      "title": "Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration",
+      "authors": "Jiani Ni, He Zhao, Jintong Gao, Dandan Guo, Hongyuan Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_Balancing_Two_Classifiers_via_A_Simplex_ETF_Structure_for_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_788",
+      "paper_id": "",
+      "title": "Bandits for Structure Perturbation-Based Black-Box Attacks To Graph Neural Networks With Theoretical Guarantees",
+      "authors": "Binghui Wang, Youqi Li, Pan Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Bandits_for_Structure_Perturbation-Based_Black-Box_Attacks_To_Graph_Neural_Networks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_472",
+      "paper_id": "",
+      "title": "BatchFormer: Learning To Explore Sample Relationships for Robust Representation Learning",
+      "authors": "Zhi Hou, Baosheng Yu, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_BatchFormer_Learning_To_Explore_Sample_Relationships_for_Robust_Representation_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_151",
+      "paper_id": "",
+      "title": "Bayesian Invariant Risk Minimization",
+      "authors": "Yong Lin, Hanze Dong, Hao Wang, Tong Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_Bayesian_Invariant_Risk_Minimization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1215",
+      "paper_id": "",
+      "title": "Bayesian Nested Neural Networks for Uncertainty Calibration and Adaptive Compression",
+      "authors": "Yufei Cui, Ziquan Liu, Qiao Li, Antoni B. Chan, Chun Jason Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Bayesian_Nested_Neural_Networks_for_Uncertainty_Calibration_and_Adaptive_Compression_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1942",
+      "paper_id": "",
+      "title": "Bayesian Posterior Approximation With Stochastic Ensembles",
+      "authors": "Oleksandr Balabanov, Bernhard Mehlig, Hampus Linander",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Balabanov_Bayesian_Posterior_Approximation_With_Stochastic_Ensembles_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1068",
+      "paper_id": "",
+      "title": "Benchmarking Segmentation Models with Mask-Preserved Attribute Editing",
+      "authors": "Zijin Yin, Kongming Liang, Bing Li, Zhanyu Ma, Jun Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Benchmarking_Segmentation_Models_with_Mask-Preserved_Attribute_Editing_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_214",
+      "paper_id": "",
+      "title": "Beyond Clean Training Data: A Versatile and Model-Agnostic Framework for Out-of-Distribution Detection with Contaminated Training Data",
+      "authors": "Yuchuan Li, Jae-Mo Kang, Il-Min Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Beyond_Clean_Training_Data_A_Versatile_and_Model-Agnostic_Framework_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_167",
+      "paper_id": "",
+      "title": "BiasBed - Rigorous Texture Bias Evaluation",
+      "authors": "Nikolai Kalischek, Rodrigo Caye Daudt, Torben Peters, Reinhard Furrer, Jan D. Wegner, Konrad Schindler",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kalischek_BiasBed_-_Rigorous_Texture_Bias_Evaluation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2140",
+      "paper_id": "",
+      "title": "Block Selection Method for Using Feature Norm in Out-of-Distribution Detection",
+      "authors": "Yeonguk Yu, Sungho Shin, Seongju Lee, Changhyun Jun, Kyoobin Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Block_Selection_Method_for_Using_Feature_Norm_in_Out-of-Distribution_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1132",
+      "paper_id": "",
+      "title": "Boosting Accuracy and Robustness of Student Models via Adaptive Adversarial Distillation",
+      "authors": "Bo Huang, Mingyang Chen, Yi Wang, Junda Lu, Minhao Cheng, Wei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Boosting_Accuracy_and_Robustness_of_Student_Models_via_Adaptive_Adversarial_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2022",
+      "paper_id": "",
+      "title": "Boosting Adversarial Training via Fisher-Rao Norm-based Regularization",
+      "authors": "Xiangyu Yin, Wenjie Ruan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_Boosting_Adversarial_Training_via_Fisher-Rao_Norm-based_Regularization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1340",
+      "paper_id": "",
+      "title": "Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics",
+      "authors": "Yanzhao Wu, Ling Liu, Zhongwei Xie, Ka-Ho Chow, Wenqi Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Boosting_Ensemble_Accuracy_by_Revisiting_Ensemble_Diversity_Metrics_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_44",
+      "paper_id": "",
+      "title": "Boosting Verified Training for Robust Image Classifications via Abstraction",
+      "authors": "Zhaodi Zhang, Zhiyi Xue, Yang Chen, Si Liu, Yueling Zhang, Jing Liu, Min Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Boosting_Verified_Training_for_Robust_Image_Classifications_via_Abstraction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1273",
+      "paper_id": "",
+      "title": "Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection",
+      "authors": "Muhammad Akhtar Munir, Muhammad Haris Khan, Salman Khan, Fahad Shahbaz Khan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Munir_Bridging_Precision_and_Confidence_A_Train-Time_Loss_for_Calibrating_Object_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_284",
+      "paper_id": "",
+      "title": "C2AM Loss: Chasing a Better Decision Boundary for Long-Tail Object Detection",
+      "authors": "Tong Wang, Yousong Zhu, Yingying Chen, Chaoyang Zhao, Bin Yu, Jinqiao Wang, Ming Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_C2AM_Loss_Chasing_a_Better_Decision_Boundary_for_Long-Tail_Object_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_175",
+      "paper_id": "",
+      "title": "CADRef: Robust Out-of-Distribution Detection via Class-Aware Decoupled Relative Feature Leveraging",
+      "authors": "Zhiwei Ling, Yachen Chang, Hailiang Zhao, Xinkui Zhao, Kingsum Chow, Shuiguang Deng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ling_CADRef_Robust_Out-of-Distribution_Detection_via_Class-Aware_Decoupled_Relative_Feature_Leveraging_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1678",
+      "paper_id": "",
+      "title": "Calibrating Deep Neural Networks by Pairwise Constraints",
+      "authors": "Jiacheng Cheng, Nuno Vasconcelos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Calibrating_Deep_Neural_Networks_by_Pairwise_Constraints_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2684",
+      "paper_id": "",
+      "title": "Can Biases in ImageNet Models Explain Generalization?",
+      "authors": "Paul Gavrikov, Janis Keuper",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gavrikov_Can_Biases_in_ImageNet_Models_Explain_Generalization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_499",
+      "paper_id": "",
+      "title": "Cannot See the Forest for the Trees: Aggregating Multiple Viewpoints To Better Classify Objects in Videos",
+      "authors": "Sukjun Hwang, Miran Heo, Seoung Wug Oh, Seon Joo Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hwang_Cannot_See_the_Forest_for_the_Trees_Aggregating_Multiple_Viewpoints_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1040",
+      "paper_id": "",
+      "title": "Capsule Network Is Not More Robust Than Convolutional Network",
+      "authors": "Jindong Gu, Volker Tresp, Han Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_Capsule_Network_Is_Not_More_Robust_Than_Convolutional_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1730",
+      "paper_id": "",
+      "title": "Causal Transportability for Visual Recognition",
+      "authors": "Chengzhi Mao, Kevin Xia, James Wang, Hao Wang, Junfeng Yang, Elias Bareinboim, Carl Vondrick",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mao_Causal_Transportability_for_Visual_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_990",
+      "paper_id": "",
+      "title": "Certified Patch Robustness via Smoothed Vision Transformers",
+      "authors": "Hadi Salman, Saachi Jain, Eric Wong, Aleksander Madry",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Salman_Certified_Patch_Robustness_via_Smoothed_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_402",
+      "paper_id": "",
+      "title": "CFA: Class-Wise Calibrated Fair Adversarial Training",
+      "authors": "Zeming Wei, Yifei Wang, Yiwen Guo, Yisen Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_CFA_Class-Wise_Calibrated_Fair_Adversarial_Training_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2297",
+      "paper_id": "",
+      "title": "Class Adaptive Network Calibration",
+      "authors": "Bingyuan Liu, Jérôme Rony, Adrian Galdran, Jose Dolz, Ismail Ben Ayed",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Class_Adaptive_Network_Calibration_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2255",
+      "paper_id": "",
+      "title": "Class-Balancing Diffusion Models",
+      "authors": "Yiming Qin, Huangjie Zheng, Jiangchao Yao, Mingyuan Zhou, Ya Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qin_Class-Balancing_Diffusion_Models_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_377",
+      "paper_id": "",
+      "title": "Class-Conditional Sharpness-Aware Minimization for Deep Long-Tailed Recognition",
+      "authors": "Zhipeng Zhou, Lanqing Li, Peilin Zhao, Pheng-Ann Heng, Wei Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Class-Conditional_Sharpness-Aware_Minimization_for_Deep_Long-Tailed_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1676",
+      "paper_id": "",
+      "title": "CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters",
+      "authors": "Paul Gavrikov, Janis Keuper",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gavrikov_CNN_Filter_DB_An_Empirical_Investigation_of_Trained_Convolutional_Filters_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_312",
+      "paper_id": "",
+      "title": "Contour-Hugging Heatmaps for Landmark Detection",
+      "authors": "James McCouat, Irina Voiculescu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/McCouat_Contour-Hugging_Heatmaps_for_Landmark_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_71",
+      "paper_id": "",
+      "title": "Contrastive Learning Based Hybrid Networks for Long-Tailed Image Classification",
+      "authors": "Peng Wang, Kai Han, Xiu-Shen Wei, Lei Zhang, Lei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Contrastive_Learning_Based_Hybrid_Networks_for_Long-Tailed_Image_Classification_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1081",
+      "paper_id": "",
+      "title": "Cooperation or Competition: Avoiding Player Domination for Multi-Target Robustness via Adaptive Budgets",
+      "authors": "Yimu Wang, Dinghuai Zhang, Yihan Wu, Heng Huang, Hongyang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Cooperation_or_Competition_Avoiding_Player_Domination_for_Multi-Target_Robustness_via_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_134",
+      "paper_id": "",
+      "title": "CORES: Convolutional Response-based Score for Out-of-distribution Detection",
+      "authors": "Keke Tang, Chao Hou, Weilong Peng, Runnan Chen, Peican Zhu, Wenping Wang, Zhihong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_CORES_Convolutional_Response-based_Score_for_Out-of-distribution_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1180",
+      "paper_id": "",
+      "title": "Correlated Input-Dependent Label Noise in Large-Scale Image Classification",
+      "authors": "Mark Collier, Basil Mustafa, Efi Kokiopoulou, Rodolphe Jenatton, Jesse Berent",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Collier_Correlated_Input-Dependent_Label_Noise_in_Large-Scale_Image_Classification_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1569",
+      "paper_id": "",
+      "title": "COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts",
+      "authors": "Jiansheng Li, Xingxuan Zhang, Hao Zou, Yige Guo, Renzhe Xu, Yilong Liu, Chuzhao Zhu, Yue He, Peng Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_COUNTS_Benchmarking_Object_Detectors_and_Multimodal_Large_Language_Models_under_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2353",
+      "paper_id": "",
+      "title": "Curvature-Balanced Feature Manifold Learning for Long-Tailed Classification",
+      "authors": "Yanbiao Ma, Licheng Jiao, Fang Liu, Shuyuan Yang, Xu Liu, Lingling Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Curvature-Balanced_Feature_Manifold_Learning_for_Long-Tailed_Classification_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_518",
+      "paper_id": "",
+      "title": "DAT: Training Deep Networks Robust To Label-Noise by Matching the Feature Distributions",
+      "authors": "Yuntao Qu, Shasha Mo, Jianwei Niu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Qu_DAT_Training_Deep_Networks_Robust_To_Label-Noise_by_Matching_the_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_555",
+      "paper_id": "",
+      "title": "Data Distributional Properties As Inductive Bias for Systematic Generalization",
+      "authors": "Felipe del Rio, Alain Raymond-Saez, Daniel Florea, Rodrigo Toro Icarte, Julio Hurtado, Cristian B. Calderon, Alvaro Soto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/del_Rio_Data_Distributional_Properties_As_Inductive_Bias_for_Systematic_Generalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_646",
+      "paper_id": "",
+      "title": "Decompose-and-Compose: A Compositional Approach to Mitigating Spurious Correlation",
+      "authors": "Fahimeh Hosseini Noohdani, Parsa Hosseini, Aryan Yazdan Parast, Hamidreza Yaghoubi Araghi, Mahdieh Soleymani Baghshah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Noohdani_Decompose-and-Compose_A_Compositional_Approach_to_Mitigating_Spurious_Correlation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_971",
+      "paper_id": "",
+      "title": "Decoupling MaxLogit for Out-of-Distribution Detection",
+      "authors": "Zihan Zhang, Xiang Xiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1049",
+      "paper_id": "",
+      "title": "Deep Deterministic Uncertainty: A New Simple Baseline",
+      "authors": "Jishnu Mukhoti, Andreas Kirsch, Joost van Amersfoort, Philip H.S. Torr, Yarin Gal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mukhoti_Deep_Deterministic_Uncertainty_A_New_Simple_Baseline_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_266",
+      "paper_id": "",
+      "title": "Deep Hybrid Models for Out-of-Distribution Detection",
+      "authors": "Senqi Cao, Zhongfei Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Deep_Hybrid_Models_for_Out-of-Distribution_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2654",
+      "paper_id": "",
+      "title": "Deep Imbalanced Regression via Hierarchical Classification Adjustment",
+      "authors": "Haipeng Xiong, Angela Yao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_Deep_Imbalanced_Regression_via_Hierarchical_Classification_Adjustment_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1051",
+      "paper_id": "",
+      "title": "Deep Stable Learning for Out-of-Distribution Generalization",
+      "authors": "Xingxuan Zhang, Peng Cui, Renzhe Xu, Linjun Zhou, Yue He, Zheyan Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_87",
+      "paper_id": "",
+      "title": "Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay",
+      "authors": "Yuhang Zhou, Zhongyun Hua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Defense_without_Forgetting_Continual_Adversarial_Defense_with_Anisotropic__Isotropic_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_35",
+      "paper_id": "",
+      "title": "Delving Deep Into the Generalization of Vision Transformers Under Distribution Shifts",
+      "authors": "Chongzhi Zhang, Mingyuan Zhang, Shanghang Zhang, Daisheng Jin, Qiang Zhou, Zhongang Cai, Haiyu Zhao, Xianglong Liu, Ziwei Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Delving_Deep_Into_the_Generalization_of_Vision_Transformers_Under_Distribution_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_920",
+      "paper_id": "",
+      "title": "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression",
+      "authors": "Junho Kim, Byung-Kwan Lee, Yong Man Ro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Demystifying_Causal_Features_on_Adversarial_Examples_and_Causal_Inoculation_for_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2409",
+      "paper_id": "",
+      "title": "Detecting Out-of-Distribution Through the Lens of Neural Collapse",
+      "authors": "Litian Liu, Yao Qin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Detecting_Out-of-Distribution_Through_the_Lens_of_Neural_Collapse_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_976",
+      "paper_id": "",
+      "title": "Detection of Out-of-Distribution Samples Using Binary Neuron Activation Patterns",
+      "authors": "Bartłomiej Olber, Krystian Radlak, Adam Popowicz, Michal Szczepankiewicz, Krystian Chachuła",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Olber_Detection_of_Out-of-Distribution_Samples_Using_Binary_Neuron_Activation_Patterns_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1518",
+      "paper_id": "",
+      "title": "Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations",
+      "authors": "Jiate Li, Meng Pang, Yun Dong, Binghui Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Deterministic_Certification_of_Graph_Neural_Networks_against_Graph_Poisoning_Attacks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_78",
+      "paper_id": "",
+      "title": "DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models",
+      "authors": "Khawar Islam, Muhammad Zaigham Zaheer, Arif Mahmood, Karthik Nandakumar",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_DiffuseMix_Label-Preserving_Data_Augmentation_with_Diffusion_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2848",
+      "paper_id": "",
+      "title": "Directional Label Diffusion Model for Learning from Noisy Labels",
+      "authors": "Senyu Hou, Gaoxia Jiang, Jia Zhang, Shangrong Yang, Husheng Guo, Yaqing Guo, Wenjian Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hou_Directional_Label_Diffusion_Model_for_Learning_from_Noisy_Labels_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1184",
+      "paper_id": "",
+      "title": "DISC: Learning From Noisy Labels via Dynamic Instance-Specific Selection and Correction",
+      "authors": "Yifan Li, Hu Han, Shiguang Shan, Xilin Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DISC_Learning_From_Noisy_Labels_via_Dynamic_Instance-Specific_Selection_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1220",
+      "paper_id": "",
+      "title": "Discriminability-Driven Channel Selection for Out-of-Distribution Detection",
+      "authors": "Yue Yuan, Rundong He, Yicong Dong, Zhongyi Han, Yilong Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Discriminability-Driven_Channel_Selection_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_579",
+      "paper_id": "",
+      "title": "Disentangling Label Distribution for Long-Tailed Visual Recognition",
+      "authors": "Youngkyu Hong, Seungju Han, Kwanghee Choi, Seokjun Seo, Beomsu Kim, Buru Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Disentangling_Label_Distribution_for_Long-Tailed_Visual_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_208",
+      "paper_id": "",
+      "title": "Disentangling Safe and Unsafe Image Corruptions via Anisotropy and Locality",
+      "authors": "Ramchandran Muthukumar, Ambar Pal, Jeremias Sulam, Rene Vidal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Muthukumar_Disentangling_Safe_and_Unsafe_Image_Corruptions_via_Anisotropy_and_Locality_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_885",
+      "paper_id": "",
+      "title": "Distribution Alignment: A Unified Framework for Long-Tail Visual Recognition",
+      "authors": "Songyang Zhang, Zeming Li, Shipeng Yan, Xuming He, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distribution_Alignment_A_Unified_Framework_for_Long-Tail_Visual_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1352",
+      "paper_id": "",
+      "title": "Distribution Shift Inversion for Out-of-Distribution Prediction",
+      "authors": "Runpeng Yu, Songhua Liu, Xingyi Yang, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Distribution_Shift_Inversion_for_Out-of-Distribution_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2869",
+      "paper_id": "",
+      "title": "Do ImageNet-trained Models Learn Shortcuts? The Impact of Frequency Shortcuts on Generalization",
+      "authors": "Shunxin Wang, Raymond Veldhuis, Nicola Strisciuglio",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Do_ImageNet-trained_Models_Learn_Shortcuts_The_Impact_of_Frequency_Shortcuts_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2531",
+      "paper_id": "",
+      "title": "Do We Always Need the Simplicity Bias? Looking for Optimal Inductive Biases in the Wild",
+      "authors": "Damien Teney, Liangze Jiang, Florin Gogianu, Ehsan Abbasnejad",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Teney_Do_We_Always_Need_the_Simplicity_Bias_Looking_for_Optimal_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_853",
+      "paper_id": "",
+      "title": "Does Robustness on ImageNet Transfer to Downstream Tasks?",
+      "authors": "Yutaro Yamada, Mayu Otani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Does_Robustness_on_ImageNet_Transfer_to_Downstream_Tasks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1846",
+      "paper_id": "",
+      "title": "Domain Gap Embeddings for Generative Dataset Augmentation",
+      "authors": "Yinong Oliver Wang, Younjoon Chung, Chen Henry Wu, Fernando De la Torre",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Domain_Gap_Embeddings_for_Generative_Dataset_Augmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1364",
+      "paper_id": "",
+      "title": "Domain-Independent Dominance of Adaptive Methods",
+      "authors": "Pedro Savarese, David McAllester, Sudarshan Babu, Michael Maire",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Savarese_Domain-Independent_Dominance_of_Adaptive_Methods_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_820",
+      "paper_id": "",
+      "title": "Doppelgangers and Adversarial Vulnerability",
+      "authors": "George Kamberov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kamberov_Doppelgangers_and_Adversarial_Vulnerability_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2364",
+      "paper_id": "",
+      "title": "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection",
+      "authors": "Shawn Li, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DPU_Dynamic_Prototype_Updating_for_Multimodal_Out-of-Distribution_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_646",
+      "paper_id": "",
+      "title": "DSRNA: Differentiable Search of Robust Neural Architectures",
+      "authors": "Ramtin Hosseini, Xingyi Yang, Pengtao Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hosseini_DSRNA_Differentiable_Search_of_Robust_Neural_Architectures_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1723",
+      "paper_id": "",
+      "title": "Dual Energy-Based Model with Open-World Uncertainty Estimation for Out-of-distribution Detection",
+      "authors": "Qi Chen, Hu Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Dual_Energy-Based_Model_with_Open-World_Uncertainty_Estimation_for_Out-of-distribution_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_101",
+      "paper_id": "",
+      "title": "DualGraph: A Graph-Based Method for Reasoning About Label Noise",
+      "authors": "HaiYang Zhang, XiMing Xing, Liang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_587",
+      "paper_id": "",
+      "title": "Dynamic Pseudo Labeling via Gradient Cutting for High-Low Entropy Exploration",
+      "authors": "Jae Hyeon Park, Joo Hyeon Jeon, Jae Yun Lee, Sangyeon Ahn, Min Hee Cha, Min Geol Kim, Hyeok Nam, Sung In Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Park_Dynamic_Pseudo_Labeling_via_Gradient_Cutting_for_High-Low_Entropy_Exploration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1682",
+      "paper_id": "",
+      "title": "Edges to Shapes to Concepts: Adversarial Augmentation for Robust Vision",
+      "authors": "Aditay Tripathi, Rishubh Singh, Anirban Chakraborty, Pradeep Shenoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tripathi_Edges_to_Shapes_to_Concepts_Adversarial_Augmentation_for_Robust_Vision_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_196",
+      "paper_id": "",
+      "title": "Efficient Loss Function by Minimizing the Detrimental Effect of Floating-Point Errors on Gradient-Based Attacks",
+      "authors": "Yunrui Yu, Cheng-Zhong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Efficient_Loss_Function_by_Minimizing_the_Detrimental_Effect_of_Floating-Point_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1409",
+      "paper_id": "",
+      "title": "Efficient Verification of Neural Networks Against LVM-Based Specifications",
+      "authors": "Harleen Hanspal, Alessio Lomuscio",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hanspal_Efficient_Verification_of_Neural_Networks_Against_LVM-Based_Specifications_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_320",
+      "paper_id": "",
+      "title": "Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model",
+      "authors": "Zhicai Wang, Longhui Wei, Tan Wang, Heyu Chen, Yanbin Hao, Xiang Wang, Xiangnan He, Qi Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Enhance_Image_Classification_via_Inter-Class_Image_Mixup_with_Diffusion_Model_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1464",
+      "paper_id": "",
+      "title": "Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations",
+      "authors": "Jeonghyeon Kim, Sangheum Hwang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Enhanced_OoD_Detection_through_Cross-Modal_Alignment_of_Multi-Modal_Representations_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_294",
+      "paper_id": "",
+      "title": "Enhancing Adversarial Robustness for Deep Metric Learning",
+      "authors": "Mo Zhou, Vishal M. Patel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Enhancing_Adversarial_Robustness_for_Deep_Metric_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_172",
+      "paper_id": "",
+      "title": "Enhancing Adversarial Training With Second-Order Statistics of Weights",
+      "authors": "Gaojie Jin, Xinping Yi, Wei Huang, Sven Schewe, Xiaowei Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Enhancing_Adversarial_Training_With_Second-Order_Statistics_of_Weights_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1834",
+      "paper_id": "",
+      "title": "Enhancing Classifier Conservativeness and Robustness by Polynomiality",
+      "authors": "Ziqi Wang, Marco Loog",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Enhancing_Classifier_Conservativeness_and_Robustness_by_Polynomiality_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_599",
+      "paper_id": "",
+      "title": "Enhancing Multiple Reliability Measures via Nuisance-Extended Information Bottleneck",
+      "authors": "Jongheon Jeong, Sihyun Yu, Hankook Lee, Jinwoo Shin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jeong_Enhancing_Multiple_Reliability_Measures_via_Nuisance-Extended_Information_Bottleneck_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1393",
+      "paper_id": "",
+      "title": "Enhancing the Power of OOD Detection via Sample-Aware Model Selection",
+      "authors": "Feng Xue, Zi He, Yuan Zhang, Chuanlong Xie, Zhenguo Li, Falong Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xue_Enhancing_the_Power_of_OOD_Detection_via_Sample-Aware_Model_Selection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1029",
+      "paper_id": "",
+      "title": "Epistemic Uncertainty Quantification For Pre-Trained Neural Networks",
+      "authors": "Hanjing Wang, Qiang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Epistemic_Uncertainty_Quantification_For_Pre-Trained_Neural_Networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1184",
+      "paper_id": "",
+      "title": "Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection",
+      "authors": "Jingru Tan, Xin Lu, Gang Zhang, Changqing Yin, Quanquan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_Equalization_Loss_v2_A_New_Gradient_Balance_Approach_for_Long-Tailed_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_734",
+      "paper_id": "",
+      "title": "Equalized Focal Loss for Dense Long-Tailed Object Detection",
+      "authors": "Bo Li, Yongqiang Yao, Jingru Tan, Gang Zhang, Fengwei Yu, Jianwei Lu, Ye Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Equalized_Focal_Loss_for_Dense_Long-Tailed_Object_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_4",
+      "paper_id": "",
+      "title": "Estimating Example Difficulty Using Variance of Gradients",
+      "authors": "Chirag Agarwal, Daniel D'souza, Sara Hooker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Agarwal_Estimating_Example_Difficulty_Using_Variance_of_Gradients_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1825",
+      "paper_id": "",
+      "title": "Estimating Noisy Class Posterior with Part-level Labels for Noisy Label Learning",
+      "authors": "Rui Zhao, Bin Shi, Jianfei Ruan, Tianze Pan, Bo Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Estimating_Noisy_Class_Posterior_with_Part-level_Labels_for_Noisy_Label_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_607",
+      "paper_id": "",
+      "title": "Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions With Superior OOD Generalization",
+      "authors": "Damien Teney, Ehsan Abbasnejad, Simon Lucey, Anton van den Hengel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Teney_Evading_the_Simplicity_Bias_Training_a_Diverse_Set_of_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_371",
+      "paper_id": "",
+      "title": "Exploiting Explainable Metrics for Augmented SGD",
+      "authors": "Mahdi S. Hosseini, Mathieu Tuli, Konstantinos N. Plataniotis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hosseini_Exploiting_Explainable_Metrics_for_Augmented_SGD_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2345",
+      "paper_id": "",
+      "title": "Exploring and Utilizing Pattern Imbalance",
+      "authors": "Shibin Mei, Chenglong Zhao, Shengchao Yuan, Bingbing Ni",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Exploring_and_Utilizing_Pattern_Imbalance_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1115",
+      "paper_id": "",
+      "title": "Exploring the Relationship Between Architectural Design and Adversarially Robust Generalization",
+      "authors": "Aishan Liu, Shiyu Tang, Siyuan Liang, Ruihao Gong, Boxi Wu, Xianglong Liu, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Exploring_the_Relationship_Between_Architectural_Design_and_Adversarially_Robust_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1216",
+      "paper_id": "",
+      "title": "Fast Bayesian Uncertainty Estimation and Reduction of Batch Normalized Single Image Super-Resolution Network",
+      "authors": "Aupendu Kar, Prabir Kumar Biswas",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kar_Fast_Bayesian_Uncertainty_Estimation_and_Reduction_of_Batch_Normalized_Single_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1120",
+      "paper_id": "",
+      "title": "FCC: Feature Clusters Compression for Long-Tailed Visual Recognition",
+      "authors": "Jian Li, Ziyao Meng, Daqian Shi, Rui Song, Xiaolei Diao, Jingwen Wang, Hao Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_FCC_Feature_Clusters_Compression_for_Long-Tailed_Visual_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1685",
+      "paper_id": "",
+      "title": "Feature Separation and Recalibration for Adversarial Robustness",
+      "authors": "Woo Jae Kim, Yoonki Cho, Junsik Jung, Sung-Eui Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Feature_Separation_and_Recalibration_for_Adversarial_Robustness_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1138",
+      "paper_id": "",
+      "title": "Fine-Grained Classification With Noisy Labels",
+      "authors": "Qi Wei, Lei Feng, Haoliang Sun, Ren Wang, Chenhui Guo, Yilong Yin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Fine-Grained_Classification_With_Noisy_Labels_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_374",
+      "paper_id": "",
+      "title": "FlexUOD: The Answer to Real-world Unsupervised Image Outlier Detection",
+      "authors": "Zhonghang Liu, Kun Zhou, Changshuo Wang, Wen-Yan Lin, Jiangbo Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_FlexUOD_The_Answer_to_Real-world_Unsupervised_Image_Outlier_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_21",
+      "paper_id": "",
+      "title": "Focus on Hiders: Exploring Hidden Threats for Enhancing Adversarial Training",
+      "authors": "Qian Li, Yuxiao Hu, Yinpeng Dong, Dongxiao Zhang, Yuntian Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Focus_on_Hiders_Exploring_Hidden_Threats_for_Enhancing_Adversarial_Training_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1236",
+      "paper_id": "",
+      "title": "Foundations of the Theory of Performance-Based Ranking",
+      "authors": "Sébastien Piérard, Anaïs Halin, Anthony Cioppa, Adrien Deliege, Marc Van Droogenbroeck",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Pierard_Foundations_of_the_Theory_of_Performance-Based_Ranking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1970",
+      "paper_id": "",
+      "title": "Fourier-basis Functions to Bridge Augmentation Gap: Rethinking Frequency Augmentation in Image Classification",
+      "authors": "Puru Vaish, Shunxin Wang, Nicola Strisciuglio",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Vaish_Fourier-basis_Functions_to_Bridge_Augmentation_Gap_Rethinking_Frequency_Augmentation_in_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2515",
+      "paper_id": "",
+      "title": "Fractal Calibration for Long-tailed Object Detection",
+      "authors": "Konstantinos Panagiotis Alexandridis, Ismail Elezi, Jiankang Deng, Anh Nguyen, Shan Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Alexandridis_Fractal_Calibration_for_Long-tailed_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_687",
+      "paper_id": "",
+      "title": "Friendly Sharpness-Aware Minimization",
+      "authors": "Tao Li, Pan Zhou, Zhengbao He, Xinwen Cheng, Xiaolin Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Friendly_Sharpness-Aware_Minimization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2253",
+      "paper_id": "",
+      "title": "From Head to Tail: Towards Balanced Representation in Large Vision-Language Models through Adaptive Data Calibration",
+      "authors": "Mingyang Song, Xiaoye Qu, Jiawei Zhou, Yu Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Song_From_Head_to_Tail_Towards_Balanced_Representation_in_LargeVision-Language_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_58",
+      "paper_id": "",
+      "title": "Gain from Neighbors: Boosting Model Robustness in the Wild via Adversarial Perturbations Toward Neighboring Classes",
+      "authors": "Zhou Yang, Mingtao Feng, Tao Huang, Fangfang Wu, Weisheng Dong, Xin Li, Guangming Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Gain_from_Neighbors_Boosting_Model_Robustness_in_the_Wild_via_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1010",
+      "paper_id": "",
+      "title": "GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection",
+      "authors": "Xixi Liu, Yaroslava Lochman, Christopher Zach",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GEN_Pushing_the_Limits_of_Softmax-Based_Out-of-Distribution_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_2239",
+      "paper_id": "",
+      "title": "Generalist: Decoupling Natural and Robust Generalization",
+      "authors": "Hongjun Wang, Yisen Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Generalist_Decoupling_Natural_and_Robust_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1359",
+      "paper_id": "",
+      "title": "Generative Interventions for Causal Learning",
+      "authors": "Chengzhi Mao, Augustine Cha, Amogh Gupta, Hao Wang, Junfeng Yang, Carl Vondrick",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Mao_Generative_Interventions_for_Causal_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1647",
+      "paper_id": "",
+      "title": "Geometric and Textural Augmentation for Domain Gap Reduction",
+      "authors": "Xiao-Chang Liu, Yong-Liang Yang, Peter Hall",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Geometric_and_Textural_Augmentation_for_Domain_Gap_Reduction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_2048",
+      "paper_id": "",
+      "title": "Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness",
+      "authors": "Giulio Lovisotto, Nicole Finnie, Mauricio Munoz, Chaithanya Kumar Mummadi, Jan Hendrik Metzen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lovisotto_Give_Me_Your_Attention_Dot-Product_Attention_Considered_Harmful_for_Adversarial_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_471",
+      "paper_id": "",
+      "title": "Global and Local Mixture Consistency Cumulative Learning for Long-Tailed Visual Recognitions",
+      "authors": "Fei Du, Peng Yang, Qi Jia, Fengtao Nan, Xiaoting Chen, Yun Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Global_and_Local_Mixture_Consistency_Cumulative_Learning_for_Long-Tailed_Visual_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_820",
+      "paper_id": "",
+      "title": "Gradient Norm Aware Minimization Seeks First-Order Flatness and Improves Generalization",
+      "authors": "Xingxuan Zhang, Renzhe Xu, Han Yu, Hao Zou, Peng Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Gradient_Norm_Aware_Minimization_Seeks_First-Order_Flatness_and_Improves_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1575",
+      "paper_id": "",
+      "title": "Gradient-Based Algorithms for Machine Teaching",
+      "authors": "Pei Wang, Kabir Nagrecha, Nuno Vasconcelos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Gradient-Based_Algorithms_for_Machine_Teaching_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2292",
+      "paper_id": "",
+      "title": "Gradient-Based Uncertainty Attribution for Explainable Bayesian Deep Learning",
+      "authors": "Hanjing Wang, Dhiraj Joshi, Shiqiang Wang, Qiang Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Gradient-Based_Uncertainty_Attribution_for_Explainable_Bayesian_Deep_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1328",
+      "paper_id": "",
+      "title": "H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection",
+      "authors": "Yuhang Liu, Wenjie Zhao, Yunhui Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1350",
+      "paper_id": "",
+      "title": "How Robust Are Randomized Smoothing Based Defenses to Data Poisoning?",
+      "authors": "Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen, Jihun Hamm",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Mehra_How_Robust_Are_Randomized_Smoothing_Based_Defenses_to_Data_Poisoning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2055",
+      "paper_id": "",
+      "title": "How To Prevent the Continuous Damage of Noises To Model Training?",
+      "authors": "Xiaotian Yu, Yang Jiang, Tianqi Shi, Zunlei Feng, Yuexuan Wang, Mingli Song, Li Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_How_To_Prevent_the_Continuous_Damage_of_Noises_To_Model_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_881",
+      "paper_id": "",
+      "title": "ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection",
+      "authors": "Yichen Bai, Zongbo Han, Bing Cao, Xiaoheng Jiang, Qinghua Hu, Changqing Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_ID-like_Prompt_Learning_for_Few-Shot_Out-of-Distribution_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1035",
+      "paper_id": "",
+      "title": "ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object",
+      "authors": "Chenshuang Zhang, Fei Pan, Junmo Kim, In So Kweon, Chengzhi Mao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_ImageNet-D_Benchmarking_Neural_Network_Robustness_on_Diffusion_Synthetic_Object_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1730",
+      "paper_id": "",
+      "title": "ImageNet-E: Benchmarking Neural Network Robustness via Attribute Editing",
+      "authors": "Xiaodan Li, Yuefeng Chen, Yao Zhu, Shuhui Wang, Rong Zhang, Hui Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_ImageNet-E_Benchmarking_Neural_Network_Robustness_via_Attribute_Editing_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_143",
+      "paper_id": "",
+      "title": "Improve Representation for Imbalanced Regression through Geometric Constraints",
+      "authors": "Zijian Dong, Yilei Wu, Chongyao Chen, Yingtian Zou, Yichi Zhang, Juan Helen Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Improve_Representation_for_Imbalanced_Regression_through_Geometric_Constraints_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_117",
+      "paper_id": "",
+      "title": "Improving Accuracy and Calibration via Differentiated Deep Mutual Learning",
+      "authors": "Han Liu, Peng Cui, Bingning Wang, Weipeng Chen, Yupeng Zhang, Jun Zhu, Xiaolin Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Improving_Accuracy_and_Calibration_via_Differentiated_Deep_Mutual_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_963",
+      "paper_id": "",
+      "title": "Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement",
+      "authors": "Yuchen Ren, Zhengyu Zhao, Chenhao Lin, Bo Yang, Lu Zhou, Zhe Liu, Chao Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ren_Improving_Adversarial_Transferability_on_Vision_Transformers_via_Forward_Propagation_Refinement_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1610",
+      "paper_id": "",
+      "title": "Improving Calibration for Long-Tailed Recognition",
+      "authors": "Zhisheng Zhong, Jiequan Cui, Shu Liu, Jiaya Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhong_Improving_Calibration_for_Long-Tailed_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2309",
+      "paper_id": "",
+      "title": "Improving Generalization via Meta-Learning on Hard Samples",
+      "authors": "Nishant Jain, Arun S. Suggala, Pradeep Shenoy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jain_Improving_Generalization_via_Meta-Learning_on_Hard_Samples_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2562",
+      "paper_id": "",
+      "title": "Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments",
+      "authors": "Yinhua Piao, Sangseon Lee, Yijingxiu Lu, Sun Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Piao_Improving_Out-of-Distribution_Generalization_in_Graphs_via_Hierarchical_Semantic_Environments_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_750",
+      "paper_id": "",
+      "title": "Improving Robust Generalization by Direct PAC-Bayesian Bound Minimization",
+      "authors": "Zifan Wang, Nan Ding, Tomer Levinboim, Xi Chen, Radu Soricut",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Improving_Robust_Generalization_by_Direct_PAC-Bayesian_Bound_Minimization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_845",
+      "paper_id": "",
+      "title": "Improving Robustness of Vision Transformers by Reducing Sensitivity To Patch Corruptions",
+      "authors": "Yong Guo, David Stutz, Bernt Schiele",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Guo_Improving_Robustness_of_Vision_Transformers_by_Reducing_Sensitivity_To_Patch_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1153",
+      "paper_id": "",
+      "title": "Improving Unsupervised Image Clustering With Robust Learning",
+      "authors": "Sungwon Park, Sungwon Han, Sundong Kim, Danu Kim, Sungkyu Park, Seunghoon Hong, Meeyoung Cha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Park_Improving_Unsupervised_Image_Clustering_With_Robust_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2345",
+      "paper_id": "",
+      "title": "Initialization Matters for Adversarial Transfer Learning",
+      "authors": "Andong Hua, Jindong Gu, Zhiyu Xue, Nicholas Carlini, Eric Wong, Yao Qin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hua_Initialization_Matters_for_Adversarial_Transfer_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_360",
+      "paper_id": "",
+      "title": "Instance-Dependent Label-Noise Learning With Manifold-Regularized Transition Matrix Estimation",
+      "authors": "De Cheng, Tongliang Liu, Yixiong Ning, Nannan Wang, Bo Han, Gang Niu, Xinbo Gao, Masashi Sugiyama",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Instance-Dependent_Label-Noise_Learning_With_Manifold-Regularized_Transition_Matrix_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1517",
+      "paper_id": "",
+      "title": "Inversion Circle Interpolation: Diffusion-based Image Augmentation for Data-scarce Classification",
+      "authors": "Yanghao Wang, Long Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Inversion_Circle_Interpolation_Diffusion-based_Image_Augmentation_for_Data-scarce_Classification_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1750",
+      "paper_id": "",
+      "title": "Investigating the Role of Weight Decay in Enhancing Nonconvex SGD",
+      "authors": "Tao Sun, Yuhao Huang, Li Shen, Kele Xu, Bao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Investigating_the_Role_of_Weight_Decay_in_Enhancing_Nonconvex_SGD_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_460",
+      "paper_id": "",
+      "title": "Jo-SRC: A Contrastive Approach for Combating Noisy Labels",
+      "authors": "Yazhou Yao, Zeren Sun, Chuanyi Zhang, Fumin Shen, Qi Wu, Jian Zhang, Zhenmin Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_Jo-SRC_A_Contrastive_Approach_for_Combating_Noisy_Labels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1542",
+      "paper_id": "",
+      "title": "Joint Negative and Positive Learning for Noisy Labels",
+      "authors": "Youngdong Kim, Juseung Yun, Hyounguk Shon, Junmo Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Joint_Negative_and_Positive_Learning_for_Noisy_Labels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2650",
+      "paper_id": "",
+      "title": "Kandinsky Conformal Prediction: Efficient Calibration of Image Segmentation Algorithms",
+      "authors": "Joren Brunekreef, Eric Marcus, Ray Sheombarsing, Jan-Jakob Sonke, Jonas Teuwen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Brunekreef_Kandinsky_Conformal_Prediction_Efficient_Calibration_of_Image_Segmentation_Algorithms_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_414",
+      "paper_id": "",
+      "title": "KeepAugment: A Simple Information-Preserving Data Augmentation Approach",
+      "authors": "Chengyue Gong, Dilin Wang, Meng Li, Vikas Chandra, Qiang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_KeepAugment_A_Simple_Information-Preserving_Data_Augmentation_Approach_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_514",
+      "paper_id": "",
+      "title": "KeyPoint Relative Position Encoding for Face Recognition",
+      "authors": "Minchul Kim, Yiyang Su, Feng Liu, Anil Jain, Xiaoming Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_KeyPoint_Relative_Position_Encoding_for_Face_Recognition_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1158",
+      "paper_id": "",
+      "title": "L2B: Learning to Bootstrap Robust Models for Combating Label Noise",
+      "authors": "Yuyin Zhou, Xianhang Li, Fengze Liu, Qingyue Wei, Xuxi Chen, Lequan Yu, Cihang Xie, Matthew P. Lungren, Lei Xing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_L2B_Learning_to_Bootstrap_Robust_Models_for_Combating_Label_Noise_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1299",
+      "paper_id": "",
+      "title": "LAFEAT: Piercing Through Adversarial Defenses With Latent Features",
+      "authors": "Yunrui Yu, Xitong Gao, Cheng-Zhong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_LAFEAT_Piercing_Through_Adversarial_Defenses_With_Latent_Features_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1206",
+      "paper_id": "",
+      "title": "LAS-AT: Adversarial Training With Learnable Attack Strategy",
+      "authors": "Xiaojun Jia, Yong Zhang, Baoyuan Wu, Ke Ma, Jue Wang, Xiaochun Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_LAS-AT_Adversarial_Training_With_Learnable_Attack_Strategy_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_706",
+      "paper_id": "",
+      "title": "Learning Discriminative Dynamics with Label Corruption for Noisy Label Detection",
+      "authors": "Suyeon Kim, Dongha Lee, SeongKu Kang, Sukang Chae, Sanghwan Jang, Hwanjo Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Learning_Discriminative_Dynamics_with_Label_Corruption_for_Noisy_Label_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2452",
+      "paper_id": "",
+      "title": "Learning from Neighbors: Category Extrapolation for Long-Tail Learning",
+      "authors": "Shizhen Zhao, Xin Wen, Jiahui Liu, Chuofan Ma, Chunfeng Yuan, Xiaojuan Qi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Learning_from_Neighbors_Category_Extrapolation_for_Long-Tail_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1034",
+      "paper_id": "",
+      "title": "Learning From Noisy Labels With Decoupled Meta Label Purifier",
+      "authors": "Yuanpeng Tu, Boshen Zhang, Yuxi Li, Liang Liu, Jian Li, Yabiao Wang, Chengjie Wang, Cai Rong Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Learning_From_Noisy_Labels_With_Decoupled_Meta_Label_Purifier_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_530",
+      "paper_id": "",
+      "title": "Learning Imbalanced Data With Vision Transformers",
+      "authors": "Zhengzhuo Xu, Ruikang Liu, Shuo Yang, Zenghao Chai, Chun Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Learning_Imbalanced_Data_With_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_584",
+      "paper_id": "",
+      "title": "Learning Transferable Negative Prompts for Out-of-Distribution Detection",
+      "authors": "Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, Jin Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1254",
+      "paper_id": "",
+      "title": "Learning With Neighbor Consistency for Noisy Labels",
+      "authors": "Ahmet Iscen, Jack Valmadre, Anurag Arnab, Cordelia Schmid",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Iscen_Learning_With_Neighbor_Consistency_for_Noisy_Labels_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_733",
+      "paper_id": "",
+      "title": "Learning With Noisy Labels via Self-Supervised Adversarial Noisy Masking",
+      "authors": "Yuanpeng Tu, Boshen Zhang, Yuxi Li, Liang Liu, Jian Li, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Cai Rong Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Learning_With_Noisy_Labels_via_Self-Supervised_Adversarial_Noisy_Masking_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_551",
+      "paper_id": "",
+      "title": "Learning with Structural Labels for Learning with Noisy Labels",
+      "authors": "Noo-ri Kim, Jin-Seop Lee, Jee-Hyong Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Learning_with_Structural_Labels_for_Learning_with_Noisy_Labels_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2412",
+      "paper_id": "",
+      "title": "Learning-enabled Polynomial Lyapunov Function Synthesis via High-Accuracy Counterexample-Guided Framework",
+      "authors": "Hanrui Zhao, Niuniu Qi, Mengxin Ren, Banglong Liu, Shuming Shi, Zhengfeng Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Learning-enabled_Polynomial_Lyapunov_Function_Synthesis_via_High-Accuracy_Counterexample-Guided_Framework_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_54",
+      "paper_id": "",
+      "title": "Leveraging Inter-Rater Agreement for Classification in the Presence of Noisy Labels",
+      "authors": "Maria Sofia Bucarelli, Lucas Cassano, Federico Siciliano, Amin Mantrach, Fabrizio Silvestri",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bucarelli_Leveraging_Inter-Rater_Agreement_for_Classification_in_the_Presence_of_Noisy_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_158",
+      "paper_id": "",
+      "title": "Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection",
+      "authors": "Wenxi Chen, Raymond A. Yeh, Shaoshuai Mou, Yan Gu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Leveraging_Perturbation_Robustness_to_Enhance_Out-of-Distribution_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_145",
+      "paper_id": "",
+      "title": "LiBRe: A Practical Bayesian Approach to Adversarial Detection",
+      "authors": "Zhijie Deng, Xiao Yang, Shizhen Xu, Hang Su, Jun Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LiBRe_A_Practical_Bayesian_Approach_to_Adversarial_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_547",
+      "paper_id": "",
+      "title": "LINe: Out-of-Distribution Detection by Leveraging Important Neurons",
+      "authors": "Yong Hyun Ahn, Gyeong-Moon Park, Seong Tae Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ahn_LINe_Out-of-Distribution_Detection_by_Leveraging_Important_Neurons_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_558",
+      "paper_id": "",
+      "title": "Long-Tail Recognition via Compositional Knowledge Transfer",
+      "authors": "Sarah Parisot, Pedro M. Esperança, Steven McDonagh, Tamas J. Madarasz, Yongxin Yang, Zhenguo Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Parisot_Long-Tail_Recognition_via_Compositional_Knowledge_Transfer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1239",
+      "paper_id": "",
+      "title": "Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-Balanced Samplings",
+      "authors": "Hao Guo, Song Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Long-Tailed_Multi-Label_Visual_Recognition_by_Collaborative_Training_on_Uniform_and_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_614",
+      "paper_id": "",
+      "title": "Long-Tailed Recognition via Weight Balancing",
+      "authors": "Shaden Alshammari, Yu-Xiong Wang, Deva Ramanan, Shu Kong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Alshammari_Long-Tailed_Recognition_via_Weight_Balancing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1824",
+      "paper_id": "",
+      "title": "Long-Tailed Visual Recognition via Gaussian Clouded Logit Adjustment",
+      "authors": "Mengke Li, Yiu-ming Cheung, Yang Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Long-Tailed_Visual_Recognition_via_Gaussian_Clouded_Logit_Adjustment_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2159",
+      "paper_id": "",
+      "title": "Long-Tailed Visual Recognition via Self-Heterogeneous Integration With Knowledge Excavation",
+      "authors": "Yan Jin, Mengke Li, Yang Lu, Yiu-ming Cheung, Hanzi Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1768",
+      "paper_id": "",
+      "title": "LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content",
+      "authors": "Qihao Zhao, Yalun Dai, Hao Li, Wei Hu, Fan Zhang, Jun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_LTGC_Long-tail_Recognition_via_Leveraging_LLMs-driven_Generated_Content_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1469",
+      "paper_id": "",
+      "title": "Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models",
+      "authors": "Gianni Franchi, Olivier Laurent, Maxence Leguery, Andrei Bursuc, Andrea Pilzer, Angela Yao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Franchi_Make_Me_a_BNN_A_Simple_Strategy_for_Estimating_Bayesian_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1559",
+      "paper_id": "",
+      "title": "Making Vision Transformers Truly Shift-Equivariant",
+      "authors": "Renan A. Rojas-Gomez, Teck-Yian Lim, Minh N. Do, Raymond A. Yeh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Rojas-Gomez_Making_Vision_Transformers_Truly_Shift-Equivariant_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_334",
+      "paper_id": "",
+      "title": "Masked Images Are Counterfactual Samples for Robust Fine-Tuning",
+      "authors": "Yao Xiao, Ziyi Tang, Pengxu Wei, Cong Liu, Liang Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Masked_Images_Are_Counterfactual_Samples_for_Robust_Fine-Tuning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1181",
+      "paper_id": "",
+      "title": "Masked Jigsaw Puzzle: A Versatile Position Embedding for Vision Transformers",
+      "authors": "Bin Ren, Yahui Liu, Yue Song, Wei Bi, Rita Cucchiara, Nicu Sebe, Wei Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ren_Masked_Jigsaw_Puzzle_A_Versatile_Position_Embedding_for_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1796",
+      "paper_id": "",
+      "title": "Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network",
+      "authors": "Byung-Kwan Lee, Junho Kim, Yong Man Ro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Masking_Adversarial_Damage_Finding_Adversarial_Saliency_for_Robust_and_Sparse_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_976",
+      "paper_id": "",
+      "title": "Masksembles for Uncertainty Estimation",
+      "authors": "Nikita Durasov, Timur Bagautdinov, Pierre Baque, Pascal Fua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Durasov_Masksembles_for_Uncertainty_Estimation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1654",
+      "paper_id": "",
+      "title": "MaxUp: Lightweight Adversarial Training With Data Augmentation Improves Neural Network Training",
+      "authors": "Chengyue Gong, Tongzheng Ren, Mao Ye, Qiang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gong_MaxUp_Lightweight_Adversarial_Training_With_Data_Augmentation_Improves_Neural_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_574",
+      "paper_id": "",
+      "title": "MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition",
+      "authors": "Shuang Li, Kaixiong Gong, Chi Harold Liu, Yulin Wang, Feng Qiao, Xinjing Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_MetaSAug_Meta_Semantic_Augmentation_for_Long-Tailed_Visual_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1664",
+      "paper_id": "",
+      "title": "Mind the Label Shift of Augmentation-Based Graph OOD Generalization",
+      "authors": "Junchi Yu, Jian Liang, Ran He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Mind_the_Label_Shift_of_Augmentation-Based_Graph_OOD_Generalization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_848",
+      "paper_id": "",
+      "title": "Modeling the Distributional Uncertainty for Salient Object Detection Models",
+      "authors": "Xinyu Tian, Jing Zhang, Mochu Xiang, Yuchao Dai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Modeling_the_Distributional_Uncertainty_for_Salient_Object_Detection_Models_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1183",
+      "paper_id": "",
+      "title": "MOOD: Multi-Level Out-of-Distribution Detection",
+      "authors": "Ziqian Lin, Sreya Dutta Roy, Yixuan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_MOOD_Multi-Level_Out-of-Distribution_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1231",
+      "paper_id": "",
+      "title": "MOS: Towards Scaling Out-of-Distribution Detection for Large Semantic Space",
+      "authors": "Rui Huang, Yixuan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_MOS_Towards_Scaling_Out-of-Distribution_Detection_for_Large_Semantic_Space_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_360",
+      "paper_id": "",
+      "title": "Multi-Objective Interpolation Training for Robustness To Label Noise",
+      "authors": "Diego Ortego, Eric Arazo, Paul Albert, Noel E. O'Connor, Kevin McGuinness",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ortego_Multi-Objective_Interpolation_Training_for_Robustness_To_Label_Noise_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_41",
+      "paper_id": "",
+      "title": "Multiclass Confidence and Localization Calibration for Object Detection",
+      "authors": "Bimsara Pathiraja, Malitha Gunawardhana, Muhammad Haris Khan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pathiraja_Multiclass_Confidence_and_Localization_Calibration_for_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_56",
+      "paper_id": "",
+      "title": "Natural Adversarial Examples",
+      "authors": "Dan Hendrycks, Kevin Zhao, Steven Basart, Jacob Steinhardt, Dawn Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hendrycks_Natural_Adversarial_Examples_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1073",
+      "paper_id": "",
+      "title": "Nested Collaborative Learning for Long-Tailed Visual Recognition",
+      "authors": "Jun Li, Zichang Tan, Jun Wan, Zhen Lei, Guodong Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Nested_Collaborative_Learning_for_Long-Tailed_Visual_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_672",
+      "paper_id": "",
+      "title": "Neural Dependencies Emerging From Learning Massive Categories",
+      "authors": "Ruili Feng, Kecheng Zheng, Kai Zhu, Yujun Shen, Jian Zhao, Yukun Huang, Deli Zhao, Jingren Zhou, Michael Jordan, Zheng-Jun Zha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Neural_Dependencies_Emerging_From_Learning_Massive_Categories_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1850",
+      "paper_id": "",
+      "title": "Neural Mean Discrepancy for Efficient Out-of-Distribution Detection",
+      "authors": "Xin Dong, Junfeng Guo, Ang Li, Wei-Te Ting, Cong Liu, H.T. Kung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_122",
+      "paper_id": "",
+      "title": "Neural Redshift: Random Networks are not Random Functions",
+      "authors": "Damien Teney, Armand Mihai Nicolicioiu, Valentin Hartmann, Ehsan Abbasnejad",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Teney_Neural_Redshift_Random_Networks_are_not_Random_Functions_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_385",
+      "paper_id": "",
+      "title": "No One Left Behind: Improving the Worst Categories in Long-Tailed Learning",
+      "authors": "Yingxiao Du, Jianxin Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_No_One_Left_Behind_Improving_the_Worst_Categories_in_Long-Tailed_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_593",
+      "paper_id": "",
+      "title": "Noise Is Also Useful: Negative Correlation-Steered Latent Contrastive Learning",
+      "authors": "Jiexi Yan, Lei Luo, Chenghao Xu, Cheng Deng, Heng Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_Noise_Is_Also_Useful_Negative_Correlation-Steered_Latent_Contrastive_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_687",
+      "paper_id": "",
+      "title": "Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection",
+      "authors": "Chang Liu, Han Yu, Boyang Li, Zhiqi Shen, Zhanning Gao, Peiran Ren, Xuansong Xie, Lizhen Cui, Chunyan Miao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Noise-Resistant_Deep_Metric_Learning_With_Ranking-Based_Instance_Selection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1090",
+      "paper_id": "",
+      "title": "Normalizing Flow Based Feature Synthesis for Outlier-Aware Object Detection",
+      "authors": "Nishant Kumar, Siniša Šegvić, Abouzar Eslami, Stefan Gumhold",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kumar_Normalizing_Flow_Based_Feature_Synthesis_for_Outlier-Aware_Object_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_705",
+      "paper_id": "",
+      "title": "On Calibrating Semantic Segmentation Models: Analyses and an Algorithm",
+      "authors": "Dongdong Wang, Boqing Gong, Liqiang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_On_Calibrating_Semantic_Segmentation_Models_Analyses_and_an_Algorithm_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1194",
+      "paper_id": "",
+      "title": "On Feature Normalization and Data Augmentation",
+      "authors": "Boyi Li, Felix Wu, Ser-Nam Lim, Serge Belongie, Kilian Q. Weinberger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_On_Feature_Normalization_and_Data_Augmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_285",
+      "paper_id": "",
+      "title": "On Focal Loss for Class-Posterior Probability Estimation: A Theoretical Perspective",
+      "authors": "Nontawat Charoenphakdee, Jayakorn Vongkulbhisal, Nuttapong Chairatanakul, Masashi Sugiyama",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Charoenphakdee_On_Focal_Loss_for_Class-Posterior_Probability_Estimation_A_Theoretical_Perspective_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1107",
+      "paper_id": "",
+      "title": "On Learning Contrastive Representations for Learning With Noisy Labels",
+      "authors": "Li Yi, Sheng Liu, Qi She, A. Ian McLeod, Boyu Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yi_On_Learning_Contrastive_Representations_for_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_415",
+      "paper_id": "",
+      "title": "On Robustness and Transferability of Convolutional Neural Networks",
+      "authors": "Josip Djolonga, Jessica Yung, Michael Tschannen, Rob Romijnders, Lucas Beyer, Alexander Kolesnikov, Joan Puigcerver, Matthias Minderer, Alexander D'Amour, Dan Moldovan, Sylvain Gelly, Neil Houlsby, Xiaohua Zhai, Mario Lucic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Djolonga_On_Robustness_and_Transferability_of_Convolutional_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_835",
+      "paper_id": "",
+      "title": "On the Pitfall of Mixup for Uncertainty Calibration",
+      "authors": "Deng-Bao Wang, Lanqing Li, Peilin Zhao, Pheng-Ann Heng, Min-Ling Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_On_the_Pitfall_of_Mixup_for_Uncertainty_Calibration_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1337",
+      "paper_id": "",
+      "title": "OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization",
+      "authors": "Nanyang Ye, Kaican Li, Haoyue Bai, Runpeng Yu, Lanqing Hong, Fengwei Zhou, Zhenguo Li, Jun Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_OoD-Bench_Quantifying_and_Understanding_Two_Dimensions_of_Out-of-Distribution_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1643",
+      "paper_id": "",
+      "title": "OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary",
+      "authors": "Yifeng Yang, Lin Zhu, Zewen Sun, Hengyu Liu, Qinying Gu, Nanyang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_OODD_Test-time_Out-of-Distribution_Detection_with_Dynamic_Dictionary_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1406",
+      "paper_id": "",
+      "title": "OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection",
+      "authors": "Max Gutbrod, David Rauber, Danilo Weber Nunes, Christoph Palm",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1267",
+      "paper_id": "",
+      "title": "OpenMix: Exploring Outlier Samples for Misclassification Detection",
+      "authors": "Fei Zhu, Zhen Cheng, Xu-Yao Zhang, Cheng-Lin Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_OpenMix_Exploring_Outlier_Samples_for_Misclassification_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_975",
+      "paper_id": "",
+      "title": "Orthogonal Over-Parameterized Training",
+      "authors": "Weiyang Liu, Rongmei Lin, Zhen Liu, James M. Rehg, Liam Paull, Li Xiong, Le Song, Adrian Weller",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Orthogonal_Over-Parameterized_Training_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2090",
+      "paper_id": "",
+      "title": "OT-Filter: An Optimal Transport Filter for Learning With Noisy Labels",
+      "authors": "Chuanwen Feng, Yilong Ren, Xike Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_OT-Filter_An_Optimal_Transport_Filter_for_Learning_With_Noisy_Labels_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1983",
+      "paper_id": "",
+      "title": "Out-of-Distributed Semantic Pruning for Robust Semi-Supervised Learning",
+      "authors": "Yu Wang, Pengchong Qiao, Chang Liu, Guoli Song, Xiawu Zheng, Jie Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Out-of-Distributed_Semantic_Pruning_for_Robust_Semi-Supervised_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1386",
+      "paper_id": "",
+      "title": "Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces",
+      "authors": "Alireza Zaeemzadeh, Niccolo Bisagno, Zeno Sambugaro, Nicola Conci, Nazanin Rahnavard, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1059",
+      "paper_id": "",
+      "title": "Out-of-Distribution Generalization With Causal Invariant Transformations",
+      "authors": "Ruoyu Wang, Mingyang Yi, Zhitang Chen, Shengyu Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1624",
+      "paper_id": "",
+      "title": "Overcoming Shortcut Problem in VLM for Robust Out-of-Distribution Detection",
+      "authors": "Zhuo Xu, Xiang Xiang, Yifan Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_931",
+      "paper_id": "",
+      "title": "PeerAiD: Improving Adversarial Distillation from a Specialized Peer Tutor",
+      "authors": "Jaewon Jung, Hongsun Jang, Jaeyong Song, Jinho Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_PeerAiD_Improving_Adversarial_Distillation_from_a_Specialized_Peer_Tutor_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1425",
+      "paper_id": "",
+      "title": "Permutation Equivariance of Transformers and Its Applications",
+      "authors": "Hengyuan Xu, Liyao Xiang, Hangyu Ye, Dixi Yao, Pengzhi Chu, Baochun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Permutation_Equivariance_of_Transformers_and_Its_Applications_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_174",
+      "paper_id": "",
+      "title": "Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification",
+      "authors": "Oren Nuriel, Sagie Benaim, Lior Wolf",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Nuriel_Permuted_AdaIN_Reducing_the_Bias_Towards_Global_Statistics_in_Image_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_618",
+      "paper_id": "",
+      "title": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures",
+      "authors": "Dan Hendrycks, Andy Zou, Mantas Mazeika, Leonard Tang, Bo Li, Dawn Song, Jacob Steinhardt",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hendrycks_PixMix_Dreamlike_Pictures_Comprehensively_Improve_Safety_Measures_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1497",
+      "paper_id": "",
+      "title": "PNP: Robust Learning From Noisy Labels by Probabilistic Noise Prediction",
+      "authors": "Zeren Sun, Fumin Shen, Dan Huang, Qiong Wang, Xiangbo Shu, Yazhou Yao, Jinhui Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_PNP_Robust_Learning_From_Noisy_Labels_by_Probabilistic_Noise_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_591",
+      "paper_id": "",
+      "title": "Post-Hoc Uncertainty Calibration for Domain Drift Scenarios",
+      "authors": "Christian Tomani, Sebastian Gruber, Muhammed Ebrar Erdem, Daniel Cremers, Florian Buettner",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tomani_Post-Hoc_Uncertainty_Calibration_for_Domain_Drift_Scenarios_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2627",
+      "paper_id": "",
+      "title": "ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks",
+      "authors": "Erik Wallin, Fredrik Kahl, Lars Hammarstrand",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wallin_ProHOC_Probabilistic_Hierarchical_Out-of-Distribution_Classification_via_Multi-Depth_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1191",
+      "paper_id": "",
+      "title": "ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks",
+      "authors": "Xinshao Wang, Yang Hua, Elyor Kodirov, David A. Clifton, Neil M. Robertson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_ProSelfLC_Progressive_Self_Label_Correction_for_Training_Robust_Deep_Neural_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_937",
+      "paper_id": "",
+      "title": "Pushing the Envelope of Gradient Boosting Forests via Globally-Optimized Oblique Trees",
+      "authors": "Magzhan Gabidolla, Miguel Á. Carreira-Perpiñán",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gabidolla_Pushing_the_Envelope_of_Gradient_Boosting_Forests_via_Globally-Optimized_Oblique_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1310",
+      "paper_id": "",
+      "title": "Pyramid Adversarial Training Improves ViT Performance",
+      "authors": "Charles Herrmann, Kyle Sargent, Lu Jiang, Ramin Zabih, Huiwen Chang, Ce Liu, Dilip Krishnan, Deqing Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Herrmann_Pyramid_Adversarial_Training_Improves_ViT_Performance_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1383",
+      "paper_id": "",
+      "title": "Quality-Agnostic Image Recognition via Invertible Decoder",
+      "authors": "Insoo Kim, Seungju Han, Ji-won Baek, Seong-Jin Park, Jae-Joon Han, Jinwoo Shin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Quality-Agnostic_Image_Recognition_via_Invertible_Decoder_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1155",
+      "paper_id": "",
+      "title": "Random Entangled Tokens for Adversarially Robust Vision Transformer",
+      "authors": "Huihui Gong, Minjing Dong, Siqi Ma, Seyit Camtepe, Surya Nepal, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Random_Entangled_Tokens_for_Adversarially_Robust_Vision_Transformer_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1323",
+      "paper_id": "",
+      "title": "Randomized Adversarial Training via Taylor Expansion",
+      "authors": "Gaojie Jin, Xinping Yi, Dengyu Wu, Ronghui Mu, Xiaowei Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Randomized_Adversarial_Training_via_Taylor_Expansion_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1605",
+      "paper_id": "",
+      "title": "Ranking Regularization for Critical Rare Classes: Minimizing False Positives at a High True Positive Rate",
+      "authors": "Kiarash Mohammadi, He Zhao, Mengyao Zhai, Frederick Tung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Mohammadi_Ranking_Regularization_for_Critical_Rare_Classes_Minimizing_False_Positives_at_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2328",
+      "paper_id": "",
+      "title": "Rate-In: Information-Driven Adaptive Dropout Rates for Improved Inference-Time Uncertainty Estimation",
+      "authors": "Tal Zeevi, Ravid Shwartz-Ziv, Yann LeCun, Lawrence H. Staib, John A. Onofrey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zeevi_Rate-In_Information-Driven_Adaptive_Dropout_Rates_for_Improved_Inference-Time_Uncertainty_Estimation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1778",
+      "paper_id": "",
+      "title": "RCL: Reliable Continual Learning for Unified Failure Detection",
+      "authors": "Fei Zhu, Zhen Cheng, Xu-Yao Zhang, Cheng-Lin Liu, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_RCL_Reliable_Continual_Learning_for_Unified_Failure_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_316",
+      "paper_id": "",
+      "title": "Regularizing Neural Networks via Adversarial Model Perturbation",
+      "authors": "Yaowei Zheng, Richong Zhang, Yongyi Mao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Regularizing_Neural_Networks_via_Adversarial_Model_Perturbation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1641",
+      "paper_id": "",
+      "title": "Reliability in Semantic Segmentation: Are We on the Right Track?",
+      "authors": "Pau de Jorge, Riccardo Volpi, Philip H.S. Torr, Grégory Rogez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/de_Jorge_Reliability_in_Semantic_Segmentation_Are_We_on_the_Right_Track_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_568",
+      "paper_id": "",
+      "title": "Relieving Long-Tailed Instance Segmentation via Pairwise Class Balance",
+      "authors": "Yin-Yin He, Peizhen Zhang, Xiu-Shen Wei, Xiangyu Zhang, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/He_Relieving_Long-Tailed_Instance_Segmentation_via_Pairwise_Class_Balance_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_73",
+      "paper_id": "",
+      "title": "Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need",
+      "authors": "Jingyao Li, Pengguang Chen, Zexin He, Shaozuo Yu, Shu Liu, Jiaya Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_441",
+      "paper_id": "",
+      "title": "Rethinking Reconstruction Autoencoder-Based Out-of-Distribution Detection",
+      "authors": "Yibo Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Reconstruction_Autoencoder-Based_Out-of-Distribution_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1307",
+      "paper_id": "",
+      "title": "Rethinking the Adversarial Robustness of Multi-Exit Neural Networks in an Attack-Defense Game",
+      "authors": "Keyizhi Xu, Chi Zhang, Zhan Chen, Zhongyuan Wang, Chunxia Xiao, Chao Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Rethinking_the_Adversarial_Robustness_of_Multi-Exit_Neural_Networks_in_an_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1320",
+      "paper_id": "",
+      "title": "Retrieval Augmented Classification for Long-Tail Visual Recognition",
+      "authors": "Alexander Long, Wei Yin, Thalaiyasingam Ajanthan, Vu Nguyen, Pulak Purkait, Ravi Garg, Alan Blair, Chunhua Shen, Anton van den Hengel",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Retrieval_Augmented_Classification_for_Long-Tail_Visual_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_481",
+      "paper_id": "",
+      "title": "Revisiting Adversarial Training at Scale",
+      "authors": "Zeyu Wang, Xianhang Li, Hongru Zhu, Cihang Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Revisiting_Adversarial_Training_at_Scale_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_633",
+      "paper_id": "",
+      "title": "Revisiting Adversarial Training Under Long-Tailed Distributions",
+      "authors": "Xinli Yue, Ningping Mou, Qian Wang, Lingchen Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_Revisiting_Adversarial_Training_Under_Long-Tailed_Distributions_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_210",
+      "paper_id": "",
+      "title": "Revisiting Residual Networks for Adversarial Robustness",
+      "authors": "Shihua Huang, Zhichao Lu, Kalyanmoy Deb, Vishnu Naresh Boddeti",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Revisiting_Residual_Networks_for_Adversarial_Robustness_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_243",
+      "paper_id": "",
+      "title": "Robust and Accurate Object Detection via Adversarial Learning",
+      "authors": "Xiangning Chen, Cihang Xie, Mingxing Tan, Li Zhang, Cho-Jui Hsieh, Boqing Gong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Robust_and_Accurate_Object_Detection_via_Adversarial_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1434",
+      "paper_id": "",
+      "title": "Robust Bayesian Neural Networks by Spectral Expectation Bound Regularization",
+      "authors": "Jiaru Zhang, Yang Hua, Zhengui Xue, Tao Song, Chengyu Zheng, Ruhui Ma, Haibing Guan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Robust_Bayesian_Neural_Networks_by_Spectral_Expectation_Bound_Regularization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_751",
+      "paper_id": "",
+      "title": "Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples",
+      "authors": "Junhao Dong, Piotr Koniusz, Junxi Chen, Z. Jane Wang, Yew-Soon Ong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Dong_Robust_Distillation_via_Untargeted_and_Targeted_Intermediate_Adversarial_Samples_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1772",
+      "paper_id": "",
+      "title": "Robust Fine-Tuning of Zero-Shot Models",
+      "authors": "Mitchell Wortsman, Gabriel Ilharco, Jong Wook Kim, Mike Li, Simon Kornblith, Rebecca Roelofs, Raphael Gontijo Lopes, Hannaneh Hajishirzi, Ali Farhadi, Hongseok Namkoong, Ludwig Schmidt",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wortsman_Robust_Fine-Tuning_of_Zero-Shot_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_666",
+      "paper_id": "",
+      "title": "Robust Generalization Against Photon-Limited Corruptions via Worst-Case Sharpness Minimization",
+      "authors": "Zhuo Huang, Miaoxi Zhu, Xiaobo Xia, Li Shen, Jun Yu, Chen Gong, Bo Han, Bo Du, Tongliang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Robust_Generalization_Against_Photon-Limited_Corruptions_via_Worst-Case_Sharpness_Minimization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_187",
+      "paper_id": "",
+      "title": "Robust Optimization As Data Augmentation for Large-Scale Graphs",
+      "authors": "Kezhi Kong, Guohao Li, Mucong Ding, Zuxuan Wu, Chen Zhu, Bernard Ghanem, Gavin Taylor, Tom Goldstein",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Robust_Optimization_As_Data_Augmentation_for_Large-Scale_Graphs_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_311",
+      "paper_id": "",
+      "title": "Robust Outlier Detection by De-Biasing VAE Likelihoods",
+      "authors": "Kushal Chauhan, Barath Mohan U, Pradeep Shenoy, Manish Gupta, Devarajan Sridharan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chauhan_Robust_Outlier_Detection_by_De-Biasing_VAE_Likelihoods_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2578",
+      "paper_id": "",
+      "title": "RoDLA: Benchmarking the Robustness of Document Layout Analysis Models",
+      "authors": "Yufan Chen, Jiaming Zhang, Kunyu Peng, Junwei Zheng, Ruiping Liu, Philip Torr, Rainer Stiefelhagen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_RoDLA_Benchmarking_the_Robustness_of_Document_Layout_Analysis_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1303",
+      "paper_id": "",
+      "title": "RSG: A Simple but Effective Module for Learning Imbalanced Datasets",
+      "authors": "Jianfeng Wang, Thomas Lukasiewicz, Xiaolin Hu, Jianfei Cai, Zhenghua Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_RSG_A_Simple_but_Effective_Module_for_Learning_Imbalanced_Datasets_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_92",
+      "paper_id": "",
+      "title": "SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers",
+      "authors": "Nick Nikzad, Yi Liao, Yongsheng Gao, Jun Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Nikzad_SATA_Spatial_Autocorrelation_Token_Analysis_for_Enhancing_the_Robustness_of_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1372",
+      "paper_id": "",
+      "title": "Scalability vs. Utility: Do We Have To Sacrifice One for the Other in Data Importance Quantification?",
+      "authors": "Ruoxi Jia, Fan Wu, Xuehui Sun, Jiacen Xu, David Dao, Bhavya Kailkhura, Ce Zhang, Bo Li, Dawn Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Jia_Scalability_vs._Utility_Do_We_Have_To_Sacrifice_One_for_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1349",
+      "paper_id": "",
+      "title": "Scalable Penalized Regression for Noise Detection in Learning With Noisy Labels",
+      "authors": "Yikai Wang, Xinwei Sun, Yanwei Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Scalable_Penalized_Regression_for_Noise_Detection_in_Learning_With_Noisy_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1014",
+      "paper_id": "",
+      "title": "Scale-Aware Automatic Augmentation for Object Detection",
+      "authors": "Yukang Chen, Yanwei Li, Tao Kong, Lu Qi, Ruihang Chu, Lei Li, Jiaya Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scale-Aware_Automatic_Augmentation_for_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2052",
+      "paper_id": "",
+      "title": "Seasoning Model Soups for Robustness to Adversarial and Natural Distribution Shifts",
+      "authors": "Francesco Croce, Sylvestre-Alvise Rebuffi, Evan Shelhamer, Sven Gowal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Croce_Seasoning_Model_Soups_for_Robustness_to_Adversarial_and_Natural_Distribution_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_932",
+      "paper_id": "",
+      "title": "Seesaw Loss for Long-Tailed Instance Segmentation",
+      "authors": "Jiaqi Wang, Wenwei Zhang, Yuhang Zang, Yuhang Cao, Jiangmiao Pang, Tao Gong, Kai Chen, Ziwei Liu, Chen Change Loy, Dahua Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Seesaw_Loss_for_Long-Tailed_Instance_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2439",
+      "paper_id": "",
+      "title": "Segment Every Out-of-Distribution Object",
+      "authors": "Wenjie Zhao, Jia Li, Xin Dong, Yu Xiang, Yunhui Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Segment_Every_Out-of-Distribution_Object_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1503",
+      "paper_id": "",
+      "title": "Selective-Supervised Contrastive Learning With Noisy Labels",
+      "authors": "Shikun Li, Xiaobo Xia, Shiming Ge, Tongliang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Selective-Supervised_Contrastive_Learning_With_Noisy_Labels_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1456",
+      "paper_id": "",
+      "title": "Self-Calibrating Vicinal Risk Minimisation for Model Calibration",
+      "authors": "Jiawei Liu, Changkun Ye, Ruikai Cui, Nick Barnes",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Self-Calibrating_Vicinal_Risk_Minimisation_for_Model_Calibration_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1644",
+      "paper_id": "",
+      "title": "SelfAugment: Automatic Augmentation Policies for Self-Supervised Learning",
+      "authors": "Colorado J Reed, Sean Metzger, Aravind Srinivas, Trevor Darrell, Kurt Keutzer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Reed_SelfAugment_Automatic_Augmentation_Policies_for_Self-Supervised_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2855",
+      "paper_id": "",
+      "title": "SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection",
+      "authors": "Phi Vu Tran",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tran_SimLTD_Simple_Supervised_and_Semi-Supervised_Long-Tailed_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_383",
+      "paper_id": "",
+      "title": "Simpler Certified Radius Maximization by Propagating Covariances",
+      "authors": "Xingjian Zhen, Rudrasis Chakraborty, Vikas Singh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhen_Simpler_Certified_Radius_Maximization_by_Propagating_Covariances_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2217",
+      "paper_id": "",
+      "title": "Simplification Is All You Need against Out-of-Distribution Overconfidence",
+      "authors": "Keke Tang, Chao Hou, Weilong Peng, Xiang Fang, Zhize Wu, Yongwei Nie, Wenping Wang, Zhihong Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Simplification_Is_All_You_Need_against_Out-of-Distribution_Overconfidence_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_819",
+      "paper_id": "",
+      "title": "SLACK: Stable Learning of Augmentations With Cold-Start and KL Regularization",
+      "authors": "Juliette Marrie, Michael Arbel, Diane Larlus, Julien Mairal",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Marrie_SLACK_Stable_Learning_of_Augmentations_With_Cold-Start_and_KL_Regularization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1379",
+      "paper_id": "",
+      "title": "Soft Augmentation for Image Classification",
+      "authors": "Yang Liu, Shen Yan, Laura Leal-Taixé, James Hays, Deva Ramanan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Soft_Augmentation_for_Image_Classification_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_754",
+      "paper_id": "",
+      "title": "Soften to Defend: Towards Adversarial Robustness via Self-Guided Label Refinement",
+      "authors": "Zhuorong Li, Daiwei Yu, Lina Wei, Canghong Jin, Yun Zhang, Sixian Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Soften_to_Defend_Towards_Adversarial_Robustness_via_Self-Guided_Label_Refinement_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1634",
+      "paper_id": "",
+      "title": "Spatial Assembly Networks for Image Representation Learning",
+      "authors": "Yang Li, Shichao Kan, Jianhe Yuan, Wenming Cao, Zhihai He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spatial_Assembly_Networks_for_Image_Representation_Learning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1686",
+      "paper_id": "",
+      "title": "Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent",
+      "authors": "Philip Doldo, Derek Everett, Amol Khanna, Andre T Nguyen, Edward Raff",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Doldo_Stop_Walking_in_Circles_Bailing_Out_Early_in_Projected_Gradient_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1436",
+      "paper_id": "",
+      "title": "StyleMix: Separating Content and Style for Enhanced Data Augmentation",
+      "authors": "Minui Hong, Jinwoo Choi, Gunhee Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StyleMix_Separating_Content_and_Style_for_Enhanced_Data_Augmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_653",
+      "paper_id": "",
+      "title": "Subspace Adversarial Training",
+      "authors": "Tao Li, Yingwen Wu, Sizhe Chen, Kun Fang, Xiaolin Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Subspace_Adversarial_Training_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2012",
+      "paper_id": "",
+      "title": "Sufficient Invariant Learning for Distribution Shift",
+      "authors": "Taero Kim, Subeen Park, Sungjun Lim, Yonghan Jung, Krikamol Muandet, Kyungwoo Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Sufficient_Invariant_Learning_for_Distribution_Shift_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1255",
+      "paper_id": "",
+      "title": "SuperDisco: Super-Class Discovery Improves Visual Recognition for the Long-Tail",
+      "authors": "Yingjun Du, Jiayi Shen, Xiantong Zhen, Cees G. M. Snoek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Du_SuperDisco_Super-Class_Discovery_Improves_Visual_Recognition_for_the_Long-Tail_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_213",
+      "paper_id": "",
+      "title": "SuperMix: Supervising the Mixing Data Augmentation",
+      "authors": "Ali Dabouei, Sobhan Soleymani, Fariborz Taherkhani, Nasser M. Nasrabadi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dabouei_SuperMix_Supervising_the_Mixing_Data_Augmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_469",
+      "paper_id": "",
+      "title": "SURE: SUrvey REcipes for building reliable and robust deep networks",
+      "authors": "Yuting Li, Yingyi Chen, Xuanlong Yu, Dexiong Chen, Xi Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2309",
+      "paper_id": "",
+      "title": "T-CIL: Temperature Scaling using Adversarial Perturbation for Calibration in Class-Incremental Learning",
+      "authors": "Seong-Hyeon Hwang, Minsu Kim, Steven Euijong Whang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hwang_T-CIL_Temperature_Scaling_using_Adversarial_Perturbation_for_Calibration_in_Class-Incremental_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_436",
+      "paper_id": "",
+      "title": "TAET: Two-Stage Adversarial Equalization Training on Long-Tailed  Distributions",
+      "authors": "Wang Yu-Hang, Junkang Guo, Aolei Liu, Kaihao Wang, Zaitong Wu, Zhenyu Liu, Wenfei Yin, Jian Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu-Hang_TAET_Two-Stage_Adversarial_Equalization_Training_on_Long-Tailed__Distributions_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1613",
+      "paper_id": "",
+      "title": "Taming the Tail in Class-Conditional GANs: Knowledge Sharing via Unconditional Training at Lower Resolutions",
+      "authors": "Saeed Khorram, Mingqi Jiang, Mohamad Shahbazi, Mohamad H. Danesh, Li Fuxin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Khorram_Taming_the_Tail_in_Class-Conditional_GANs_Knowledge_Sharing_via_Unconditional_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_783",
+      "paper_id": "",
+      "title": "Targeted Supervised Contrastive Learning for Long-Tailed Recognition",
+      "authors": "Tianhong Li, Peng Cao, Yuan Yuan, Lijie Fan, Yuzhe Yang, Rogerio S. Feris, Piotr Indyk, Dina Katabi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Targeted_Supervised_Contrastive_Learning_for_Long-Tailed_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1481",
+      "paper_id": "",
+      "title": "TeachAugment: Data Augmentation Optimization Using Teacher Knowledge",
+      "authors": "Teppei Suzuki",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Suzuki_TeachAugment_Data_Augmentation_Optimization_Using_Teacher_Knowledge_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_9",
+      "paper_id": "",
+      "title": "Test-Time Linear Out-of-Distribution Detection",
+      "authors": "Ke Fan, Tong Liu, Xingyu Qiu, Yikai Wang, Lian Huai, Zeyu Shangguan, Shuang Gou, Fengjian Liu, Yuqian Fu, Yanwei Fu, Xingqun Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Test-Time_Linear_Out-of-Distribution_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1323",
+      "paper_id": "",
+      "title": "The Devil Is in the Margin: Margin-Based Label Smoothing for Network Calibration",
+      "authors": "Bingyuan Liu, Ismail Ben Ayed, Adrian Galdran, Jose Dolz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_The_Devil_Is_in_the_Margin_Margin-Based_Label_Smoothing_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_795",
+      "paper_id": "",
+      "title": "The Enemy of My Enemy Is My Friend: Exploring Inverse Adversaries for Improving Adversarial Training",
+      "authors": "Junhao Dong, Seyed-Mohsen Moosavi-Dezfooli, Jianhuang Lai, Xiaohua Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_The_Enemy_of_My_Enemy_Is_My_Friend_Exploring_Inverse_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1198",
+      "paper_id": "",
+      "title": "The Majority Can Help the Minority: Context-Rich Minority Oversampling for Long-Tailed Classification",
+      "authors": "Seulki Park, Youngkyu Hong, Byeongho Heo, Sangdoo Yun, Jin Young Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Park_The_Majority_Can_Help_the_Minority_Context-Rich_Minority_Oversampling_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2415",
+      "paper_id": "",
+      "title": "The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing Forward Passes",
+      "authors": "Myeongseob Ko, Feiyang Kang, Weiyan Shi, Ming Jin, Zhou Yu, Ruoxi Jia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ko_The_Mirrored_Influence_Hypothesis_Efficient_Data_Influence_Estimation_by_Harnessing_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_669",
+      "paper_id": "",
+      "title": "The Two Dimensions of Worst-Case Training and Their Integrated Effect for Out-of-Domain Generalization",
+      "authors": "Zeyi Huang, Haohan Wang, Dong Huang, Yong Jae Lee, Eric P. Xing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_The_Two_Dimensions_of_Worst-Case_Training_and_Their_Integrated_Effect_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_138",
+      "paper_id": "",
+      "title": "Tightening Robustness Verification of MaxPool-based Neural Networks via Minimizing the Over-Approximation Zone",
+      "authors": "Yuan Xiao, Yuchen Chen, Shiqing Ma, Chunrong Fang, Tongtong Bai, Mingzheng Gu, Yuxin Cheng, Yanwei Chen, Zhenyu Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Tightening_Robustness_Verification_of_MaxPool-based_Neural_Networks_via_Minimizing_the_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2186",
+      "paper_id": "",
+      "title": "Token Boosting for Robust Self-Supervised Visual Transformer Pre-Training",
+      "authors": "Tianjiao Li, Lin Geng Foo, Ping Hu, Xindi Shang, Hossein Rahmani, Zehuan Yuan, Jun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Token_Boosting_for_Robust_Self-Supervised_Visual_Transformer_Pre-Training_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_775",
+      "paper_id": "",
+      "title": "Towards Accurate and Robust Architectures via Neural Architecture Search",
+      "authors": "Yuwei Ou, Yuqi Feng, Yanan Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_Towards_Accurate_and_Robust_Architectures_via_Neural_Architecture_Search_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_364",
+      "paper_id": "",
+      "title": "Towards Better Decision Forests: Forest Alternating Optimization",
+      "authors": "Miguel Á. Carreira-Perpiñán, Magzhan Gabidolla, Arman Zharmagambetov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Carreira-Perpinan_Towards_Better_Decision_Forests_Forest_Alternating_Optimization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1574",
+      "paper_id": "",
+      "title": "Towards Building Self-Aware Object Detectors via Reliable Uncertainty Quantification and Calibration",
+      "authors": "Kemal Oksuz, Tom Joy, Puneet K. Dokania",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Oksuz_Towards_Building_Self-Aware_Object_Detectors_via_Reliable_Uncertainty_Quantification_and_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1746",
+      "paper_id": "",
+      "title": "Towards Calibrated Multi-label Deep Neural Networks",
+      "authors": "Jiacheng Cheng, Nuno Vasconcelos",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_Towards_Calibrated_Multi-label_Deep_Neural_Networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_92",
+      "paper_id": "",
+      "title": "Towards Compositional Adversarial Robustness: Generalizing Adversarial Training to Composite Semantic Perturbations",
+      "authors": "Lei Hsiung, Yun-Yun Tsai, Pin-Yu Chen, Tsung-Yi Ho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hsiung_Towards_Compositional_Adversarial_Robustness_Generalizing_Adversarial_Training_to_Composite_Semantic_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_143",
+      "paper_id": "",
+      "title": "Towards Efficient and Scalable Sharpness-Aware Minimization",
+      "authors": "Yong Liu, Siqi Mai, Xiangning Chen, Cho-Jui Hsieh, Yang You",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Efficient_and_Scalable_Sharpness-Aware_Minimization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1557",
+      "paper_id": "",
+      "title": "Towards Evaluating and Training Verifiably Robust Neural Networks",
+      "authors": "Zhaoyang Lyu, Minghao Guo, Tong Wu, Guodong Xu, Kehuan Zhang, Dahua Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lyu_Towards_Evaluating_and_Training_Verifiably_Robust_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_482",
+      "paper_id": "",
+      "title": "Towards Fairness-Aware Adversarial Learning",
+      "authors": "Yanghao Zhang, Tianle Zhang, Ronghui Mu, Xiaowei Huang, Wenjie Ruan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Towards_Fairness-Aware_Adversarial_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1588",
+      "paper_id": "",
+      "title": "Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation",
+      "authors": "Yuan Xiao, Shiqing Ma, Juan Zhai, Chunrong Fang, Jinyuan Jia, Zhenyu Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Towards_General_Robustness_Verification_of_MaxPool-based_Convolutional_Neural_Networks_via_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1461",
+      "paper_id": "",
+      "title": "Towards Practical Certifiable Patch Defense With Vision Transformer",
+      "authors": "Zhaoyu Chen, Bo Li, Jianghe Xu, Shuang Wu, Shouhong Ding, Wenqiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Towards_Practical_Certifiable_Patch_Defense_With_Vision_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_95",
+      "paper_id": "",
+      "title": "Towards Principled Disentanglement for Domain Generalization",
+      "authors": "Hanlin Zhang, Yi-Fan Zhang, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Towards_Principled_Disentanglement_for_Domain_Generalization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1015",
+      "paper_id": "",
+      "title": "Towards Robust Classification Model by Counterfactual and Invariant Data Generation",
+      "authors": "Chun-Hao Chang, George Alexandru Adam, Anna Goldenberg",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Towards_Robust_Classification_Model_by_Counterfactual_and_Invariant_Data_Generation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2297",
+      "paper_id": "",
+      "title": "Towards Robust Learning to Optimize with Theoretical Guarantees",
+      "authors": "Qingyu Song, Wei Lin, Juncheng Wang, Hong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Towards_Robust_Learning_to_Optimize_with_Theoretical_Guarantees_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1525",
+      "paper_id": "",
+      "title": "Towards Robust Vision Transformer",
+      "authors": "Xiaofeng Mao, Gege Qi, Yuefeng Chen, Xiaodan Li, Ranjie Duan, Shaokai Ye, Yuan He, Hui Xue",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mao_Towards_Robust_Vision_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_587",
+      "paper_id": "",
+      "title": "Towards Understanding and Improving Adversarial Robustness of Vision Transformers",
+      "authors": "Samyak Jain, Tanima Dutta",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jain_Towards_Understanding_and_Improving_Adversarial_Robustness_of_Vision_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1247",
+      "paper_id": "",
+      "title": "Trade-Off Between Robustness and Accuracy of Vision Transformers",
+      "authors": "Yanxi Li, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Trade-Off_Between_Robustness_and_Accuracy_of_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1633",
+      "paper_id": "",
+      "title": "Trainable Projected Gradient Method for Robust Fine-Tuning",
+      "authors": "Junjiao Tian, Zecheng He, Xiaoliang Dai, Chih-Yao Ma, Yen-Cheng Liu, Zsolt Kira",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Trainable_Projected_Gradient_Method_for_Robust_Fine-Tuning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_374",
+      "paper_id": "",
+      "title": "Transfer Knowledge From Head to Tail: Uncertainty Calibration Under Long-Tailed Distribution",
+      "authors": "Jiahao Chen, Bing Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Transfer_Knowledge_From_Head_to_Tail_Uncertainty_Calibration_Under_Long-Tailed_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1704",
+      "paper_id": "",
+      "title": "Transformer-Based Learned Optimization",
+      "authors": "Erik Gärtner, Luke Metz, Mykhaylo Andriluka, C. Daniel Freeman, Cristian Sminchisescu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Gartner_Transformer-Based_Learned_Optimization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1820",
+      "paper_id": "",
+      "title": "TransMix: Attend To Mix for Vision Transformers",
+      "authors": "Jie-Neng Chen, Shuyang Sun, Ju He, Philip H.S. Torr, Alan Yuille, Song Bai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1049",
+      "paper_id": "",
+      "title": "Trustworthy Long-Tailed Classification",
+      "authors": "Bolian Li, Zongbo Han, Haining Li, Huazhu Fu, Changqing Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Trustworthy_Long-Tailed_Classification_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_919",
+      "paper_id": "",
+      "title": "Turning Strengths Into Weaknesses: A Certified Robustness Inspired Attack Framework Against Graph Neural Networks",
+      "authors": "Binghui Wang, Meng Pang, Yun Dong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Turning_Strengths_Into_Weaknesses_A_Certified_Robustness_Inspired_Attack_Framework_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1395",
+      "paper_id": "",
+      "title": "Twin Contrastive Learning With Noisy Labels",
+      "authors": "Zhizhong Huang, Junping Zhang, Hongming Shan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Twin_Contrastive_Learning_With_Noisy_Labels_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_619",
+      "paper_id": "",
+      "title": "TWINS: A Fine-Tuning Framework for Improved Transferability of Adversarial Robustness and Generalization",
+      "authors": "Ziquan Liu, Yi Xu, Xiangyang Ji, Antoni B. Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_TWINS_A_Fine-Tuning_Framework_for_Improved_Transferability_of_Adversarial_Robustness_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_370",
+      "paper_id": "",
+      "title": "Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart",
+      "authors": "Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Two_Coupled_Rejection_Metrics_Can_Tell_Adversarial_Examples_Apart_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_538",
+      "paper_id": "",
+      "title": "Two is Better than One:  Efficient Ensemble Defense for Robust and Compact Models",
+      "authors": "Yoojin Jung, Byung Cheol Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_Two_is_Better_than_One__Efficient_Ensemble_Defense_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2166",
+      "paper_id": "",
+      "title": "Two-Way Multi-Label Loss",
+      "authors": "Takumi Kobayashi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kobayashi_Two-Way_Multi-Label_Loss_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2224",
+      "paper_id": "",
+      "title": "Uncertainty Weighted Gradients for Model Calibration",
+      "authors": "Jinxu Lin, Linwei Tao, Minjing Dong, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Uncertainty_Weighted_Gradients_for_Model_Calibration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1153",
+      "paper_id": "",
+      "title": "Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection",
+      "authors": "Fan Lu, Kai Zhu, Wei Zhai, Kecheng Zheng, Yang Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Uncertainty-Aware_Optimal_Transport_for_Semantically_Coherent_Out-of-Distribution_Detection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_989",
+      "paper_id": "",
+      "title": "Understanding and Increasing Efficiency of Frank-Wolfe Adversarial Training",
+      "authors": "Theodoros Tsiligkaridis, Jay Roberts",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tsiligkaridis_Understanding_and_Increasing_Efficiency_of_Frank-Wolfe_Adversarial_Training_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_743",
+      "paper_id": "",
+      "title": "Understanding Uncertainty Maps in Vision With Statistical Testing",
+      "authors": "Jurijs Nazarovs, Zhichun Huang, Songwong Tasneeyapant, Rudrasis Chakraborty, Vikas Singh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Nazarovs_Understanding_Uncertainty_Maps_in_Vision_With_Statistical_Testing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1923",
+      "paper_id": "",
+      "title": "Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains",
+      "authors": "Eunsu Baek, Keondo Park, Jiyoon Kim, Hyung-Sin Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Baek_Unexplored_Faces_of_Robustness_and_Out-of-Distribution_Covariate_Shifts_in_Environment_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_426",
+      "paper_id": "",
+      "title": "UniCon: Combating Label Noise Through Uniform Selection and Contrastive Learning",
+      "authors": "Nazmul Karim, Mamshad Nayeem Rizve, Nazanin Rahnavard, Ajmal Mian, Mubarak Shah",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Karim_UniCon_Combating_Label_Noise_Through_Uniform_Selection_and_Contrastive_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2063",
+      "paper_id": "",
+      "title": "Universal Novelty Detection Through Adaptive Contrastive Learning",
+      "authors": "Hossein Mirzaei, Mojtaba Nafez, Mohammad Jafari, Mohammad Bagher Soltani, Mohammad Azizmalayeri, Jafar Habibi, Mohammad Sabokrou, Mohammad Hossein Rohban",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mirzaei_Universal_Novelty_Detection_Through_Adaptive_Contrastive_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1530",
+      "paper_id": "",
+      "title": "Unknown-Aware Object Detection: Learning What You Don't Know From Videos in the Wild",
+      "authors": "Xuefeng Du, Xin Wang, Gabriel Gozum, Yixuan Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Du_Unknown-Aware_Object_Detection_Learning_What_You_Dont_Know_From_Videos_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1526",
+      "paper_id": "",
+      "title": "Vector Quantization With Self-Attention for Quality-Independent Representation Learning",
+      "authors": "Zhou Yang, Weisheng Dong, Xin Li, Mengluan Huang, Yulin Sun, Guangming Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Vector_Quantization_With_Self-Attention_for_Quality-Independent_Representation_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_752",
+      "paper_id": "",
+      "title": "Verifiability and Predictability: Interpreting Utilities of Network Architectures for Point Cloud Processing",
+      "authors": "Wen Shen, Zhihua Wei, Shikun Huang, Binbin Zhang, Panyue Chen, Ping Zhao, Quanshi Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Verifiability_and_Predictability_Interpreting_Utilities_of_Network_Architectures_for_Point_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1000",
+      "paper_id": "",
+      "title": "ViM: Out-of-Distribution With Virtual-Logit Matching",
+      "authors": "Haoqi Wang, Zhizhong Li, Litong Feng, Wayne Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ViM_Out-of-Distribution_With_Virtual-Logit_Matching_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_401",
+      "paper_id": "",
+      "title": "Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data",
+      "authors": "Lilin Zhang, Chengpei Wu, Ning Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Weakly_Supervised_Contrastive_Adversarial_Training_for_Learning_Robust_Features_from_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1519",
+      "paper_id": "",
+      "title": "What Can Style Transfer and Paintings Do for Model Robustness?",
+      "authors": "Hubert Lin, Mitchell van Zuijlen, Sylvia C. Pont, Maarten W.A. Wijntjes, Kavita Bala",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_What_Can_Style_Transfer_and_Paintings_Do_for_Model_Robustness_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_889",
+      "paper_id": "",
+      "title": "YolOOD: Utilizing Object Detection Concepts for Multi-Label Out-of-Distribution Detection",
+      "authors": "Alon Zolfi, Guy Amit, Amit Baras, Satoru Koda, Ikuya Morikawa, Yuval Elovici, Asaf Shabtai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zolfi_YolOOD_Utilizing_Object_Detection_Concepts_for_Multi-Label_Out-of-Distribution_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1898",
+      "paper_id": "",
+      "title": "Your Image is My Video: Reshaping the Receptive Field via Image-To-Video Differentiable AutoAugmentation and Fusion",
+      "authors": "Sofia Casarin, Cynthia I. Ugwu, Sergio Escalera, Oswald Lanz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Casarin_Your_Image_is_My_Video_Reshaping_the_Receptive_Field_via_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    }
+  ]
+}

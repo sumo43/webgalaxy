@@ -1,0 +1,3093 @@
+{
+  "cluster_id": 9,
+  "papers": [
+    {
+      "id": "cvpr25_921",
+      "paper_id": "",
+      "title": "2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification",
+      "authors": "Jingwei Zhang, Anh Tien Nguyen, Xi Han, Vincent Quoc-Huy Trinh, Hong Qin, Dimitris Samaras, Mahdi S. Hosseini",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_2DMamba_Efficient_State_Space_Model_for_Image_Representation_with_Applications_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1117",
+      "paper_id": "",
+      "title": "A ConvNet for the 2020s",
+      "authors": "Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, Saining Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2155",
+      "paper_id": "",
+      "title": "A General and Efficient Training for Transformer via Token Expansion",
+      "authors": "Wenxuan Huang, Yunhang Shen, Jiao Xie, Baochang Zhang, Gaoqi He, Ke Li, Xing Sun, Shaohui Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_A_General_and_Efficient_Training_for_Transformer_via_Token_Expansion_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_321",
+      "paper_id": "",
+      "title": "A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network",
+      "authors": "Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1672",
+      "paper_id": "",
+      "title": "A-ViT: Adaptive Tokens for Efficient Vision Transformer",
+      "authors": "Hongxu Yin, Arash Vahdat, Jose M. Alvarez, Arun Mallya, Jan Kautz, Pavlo Molchanov",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1151",
+      "paper_id": "",
+      "title": "Activate or Not: Learning Customized Activation",
+      "authors": "Ningning Ma, Xiangyu Zhang, Ming Liu, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Activate_or_Not_Learning_Customized_Activation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1291",
+      "paper_id": "",
+      "title": "Adaptive Data-Free Quantization",
+      "authors": "Biao Qian, Yang Wang, Richang Hong, Meng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Qian_Adaptive_Data-Free_Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1031",
+      "paper_id": "",
+      "title": "AdaShift: Learning Discriminative Self-Gated Neural Feature Activation With an Adaptive Shift Factor",
+      "authors": "Sudong Cai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_AdaShift_Learning_Discriminative_Self-Gated_Neural_Feature_Activation_With_an_Adaptive_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1722",
+      "paper_id": "",
+      "title": "AdaSTE: An Adaptive Straight-Through Estimator To Train Binary Neural Networks",
+      "authors": "Huu Le, Rasmus Kjær Høier, Che-Tsung Lin, Christopher Zach",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Le_AdaSTE_An_Adaptive_Straight-Through_Estimator_To_Train_Binary_Neural_Networks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1804",
+      "paper_id": "",
+      "title": "AdaViT: Adaptive Vision Transformers for Efficient Image Recognition",
+      "authors": "Lingchen Meng, Hengduo Li, Bor-Chun Chen, Shiyi Lan, Zuxuan Wu, Yu-Gang Jiang, Ser-Nam Lim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_AdaViT_Adaptive_Vision_Transformers_for_Efficient_Image_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2006",
+      "paper_id": "",
+      "title": "Adventurer: Optimizing Vision Mamba Architecture Designs for Efficiency",
+      "authors": "Feng Wang, Timing Yang, Yaodong Yu, Sucheng Ren, Guoyizhe Wei, Angtian Wang, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Adventurer_Optimizing_Vision_Mamba_Architecture_Designs_for_Efficiency_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1667",
+      "paper_id": "",
+      "title": "ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers",
+      "authors": "Narges Norouzi, Svetlana Orlova, Daan de Geus, Gijs Dubbelman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Norouzi_ALGM_Adaptive_Local-then-Global_Token_Merging_for_Efficient_Semantic_Segmentation_with_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_772",
+      "paper_id": "",
+      "title": "AlignQ: Alignment Quantization With ADMM-Based Correlation Preservation",
+      "authors": "Ting-An Chen, De-Nian Yang, Ming-Syan Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_AlignQ_Alignment_Quantization_With_ADMM-Based_Correlation_Preservation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1312",
+      "paper_id": "",
+      "title": "Amalgamating Knowledge From Heterogeneous Graph Neural Networks",
+      "authors": "Yongcheng Jing, Yiding Yang, Xinchao Wang, Mingli Song, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Amalgamating_Knowledge_From_Heterogeneous_Graph_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1259",
+      "paper_id": "",
+      "title": "AME: Attention and Memory Enhancement in Hyper-Parameter Optimization",
+      "authors": "Nuo Xu, Jianlong Chang, Xing Nie, Chunlei Huo, Shiming Xiang, Chunhong Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1602",
+      "paper_id": "",
+      "title": "An Image Patch Is a Wave: Phase-Aware Vision MLP",
+      "authors": "Yehui Tang, Kai Han, Jianyuan Guo, Chang Xu, Yanxi Li, Chao Xu, Yunhe Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_An_Image_Patch_Is_a_Wave_Phase-Aware_Vision_MLP_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_17",
+      "paper_id": "",
+      "title": "APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers",
+      "authors": "Zhuguanyu Wu, Jiayi Zhang, Jiaxin Chen, Jinyang Guo, Di Huang, Yunhong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_APHQ-ViT_Post-Training_Quantization_with_Average_Perturbation_Hessian_Based_Reconstruction_for_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_817",
+      "paper_id": "",
+      "title": "AQD: Towards Accurate Quantized Object Detection",
+      "authors": "Peng Chen, Jing Liu, Bohan Zhuang, Mingkui Tan, Chunhua Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_AQD_Towards_Accurate_Quantized_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_136",
+      "paper_id": "",
+      "title": "Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search",
+      "authors": "Minbin Huang, Zhijian Huang, Changlin Li, Xin Chen, Hang Xu, Zhenguo Li, Xiaodan Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Arch-Graph_Acyclic_Architecture_Relation_Predictor_for_Task-Transferable_Neural_Architecture_Search_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2342",
+      "paper_id": "",
+      "title": "Are Conventional SNNs Really Efficient? A Perspective from Network Quantization",
+      "authors": "Guobin Shen, Dongcheng Zhao, Tenglong Li, Jindong Li, Yi Zeng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shen_Are_Conventional_SNNs_Really_Efficient_A_Perspective_from_Network_Quantization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_962",
+      "paper_id": "",
+      "title": "Associative Transformer",
+      "authors": "Yuwei Sun, Hideya Ochiai, Zhirong Wu, Stephen Lin, Ryota Kanai",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_Associative_Transformer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2256",
+      "paper_id": "",
+      "title": "AstroNet: When Astrocyte Meets Artificial Neural Network",
+      "authors": "Mengqiao Han, Liyuan Pan, Xiabi Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Han_AstroNet_When_Astrocyte_Meets_Artificial_Neural_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_827",
+      "paper_id": "",
+      "title": "ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networks",
+      "authors": "Mohamed Afane, Gabrielle Ebbrecht, Ying Wang, Juntao Chen, Junaid Farooq",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1555",
+      "paper_id": "",
+      "title": "AttentiveNAS: Improving Neural Architecture Search via Attentive Sampling",
+      "authors": "Dilin Wang, Meng Li, Chengyue Gong, Vikas Chandra",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_AttentiveNAS_Improving_Neural_Architecture_Search_via_Attentive_Sampling_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_307",
+      "paper_id": "",
+      "title": "Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-Shot Learning",
+      "authors": "Yangji He, Weihan Liang, Dongyang Zhao, Hong-Yu Zhou, Weifeng Ge, Yizhou Yu, Wenqiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/He_Attribute_Surrogates_Learning_and_Spectral_Tokens_Pooling_in_Transformers_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_746",
+      "paper_id": "",
+      "title": "Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch",
+      "authors": "Xidong Wu, Shangqian Gao, Zeyu Zhang, Zhenzhen Li, Runxue Bao, Yanfu Zhang, Xiaoqian Wang, Heng Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Auto-Train-Once_Controller_Network_Guided_Automatic_Network_Pruning_from_Scratch_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1840",
+      "paper_id": "",
+      "title": "AutoFocusFormer: Image Segmentation off the Grid",
+      "authors": "Chen Ziwen, Kaushik Patnaik, Shuangfei Zhai, Alvin Wan, Zhile Ren, Alexander G. Schwing, Alex Colburn, Li Fuxin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ziwen_AutoFocusFormer_Image_Segmentation_off_the_Grid_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1343",
+      "paper_id": "",
+      "title": "AutoLoss-Zero: Searching Loss Functions From Scratch for Generic Tasks",
+      "authors": "Hao Li, Tianwen Fu, Jifeng Dai, Hongsheng Li, Gao Huang, Xizhou Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_AutoLoss-Zero_Searching_Loss_Functions_From_Scratch_for_Generic_Tasks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_433",
+      "paper_id": "",
+      "title": "Automated Log-Scale Quantization for Low-Cost Deep Neural Networks",
+      "authors": "Sangyun Oh, Hyeonuk Sim, Sugil Lee, Jongeun Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Oh_Automated_Log-Scale_Quantization_for_Low-Cost_Deep_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1236",
+      "paper_id": "",
+      "title": "Automated Progressive Learning for Efficient Training of Vision Transformers",
+      "authors": "Changlin Li, Bohan Zhuang, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Automated_Progressive_Learning_for_Efficient_Training_of_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2193",
+      "paper_id": "",
+      "title": "Automatic Joint Structured Pruning and Quantization for Efficient Neural Network Training and Compression",
+      "authors": "Xiaoyi Qu, David Aponte, Colby Banbury, Daniel P. Robinson, Tianyu Ding, Kazuhito Koishida, Ilya Zharkov, Tianyi Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qu_Automatic_Joint_Structured_Pruning_and_Quantization_for_Efficient_Neural_Network_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1143",
+      "paper_id": "",
+      "title": "Automatic Relation-Aware Graph Network Proliferation",
+      "authors": "Shaofei Cai, Liang Li, Xinzhe Han, Jiebo Luo, Zheng-Jun Zha, Qingming Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_Automatic_Relation-Aware_Graph_Network_Proliferation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_737",
+      "paper_id": "",
+      "title": "AZ-NAS: Assembling Zero-Cost Proxies for Network Architecture Search",
+      "authors": "Junghyup Lee, Bumsub Ham",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_AZ-NAS_Assembling_Zero-Cost_Proxies_for_Network_Architecture_Search_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1808",
+      "paper_id": "",
+      "title": "b-DARTS: Beta-Decay Regularization for Differentiable Architecture Search",
+      "authors": "Peng Ye, Baopu Li, Yikang Li, Tao Chen, Jiayuan Fan, Wanli Ouyang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_b-DARTS_Beta-Decay_Regularization_for_Differentiable_Architecture_Search_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_498",
+      "paper_id": "",
+      "title": "BaLeNAS: Differentiable Architecture Search via the Bayesian Learning Rule",
+      "authors": "Miao Zhang, Shirui Pan, Xiaojun Chang, Steven Su, Jilin Hu, Gholamreza (Reza) Haffari, Bin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BaLeNAS_Differentiable_Architecture_Search_via_the_Bayesian_Learning_Rule_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1356",
+      "paper_id": "",
+      "title": "BCNet: Searching for Network Width With Bilaterally Coupled Network",
+      "authors": "Xiu Su, Shan You, Fei Wang, Chen Qian, Changshui Zhang, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Su_BCNet_Searching_for_Network_Width_With_Bilaterally_Coupled_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1787",
+      "paper_id": "",
+      "title": "Beyond Attentive Tokens: Incorporating Token Importance and Diversity for Efficient Vision Transformers",
+      "authors": "Sifan Long, Zhen Zhao, Jimin Pi, Shengsheng Wang, Jingdong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Long_Beyond_Attentive_Tokens_Incorporating_Token_Importance_and_Diversity_for_Efficient_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_836",
+      "paper_id": "",
+      "title": "Beyond Fixation: Dynamic Window Visual Transformer",
+      "authors": "Pengzhen Ren, Changlin Li, Guangrun Wang, Yun Xiao, Qing Du, Xiaodan Liang, Xiaojun Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Beyond_Fixation_Dynamic_Window_Visual_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2096",
+      "paper_id": "",
+      "title": "BHViT: Binarized Hybrid Vision Transformer",
+      "authors": "Tian Gao, Yu Zhang, Zhiyuan Zhang, Huajun Liu, Kaijie Yin, Chengzhong Xu, Hui Kong",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_BHViT_Binarized_Hybrid_Vision_Transformer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_296",
+      "paper_id": "",
+      "title": "Bi-GCN: Binary Graph Convolutional Network",
+      "authors": "Junfu Wang, Yunhong Wang, Zhen Yang, Liang Yang, Yuanfang Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Bi-GCN_Binary_Graph_Convolutional_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_889",
+      "paper_id": "",
+      "title": "Bias in Pruned Vision Models: In-Depth Analysis and Countermeasures",
+      "authors": "Eugenia Iofinova, Alexandra Peste, Dan Alistarh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Iofinova_Bias_in_Pruned_Vision_Models_In-Depth_Analysis_and_Countermeasures_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_148",
+      "paper_id": "",
+      "title": "BiFormer: Vision Transformer With Bi-Level Routing Attention",
+      "authors": "Lei Zhu, Xinjiang Wang, Zhanghan Ke, Wayne Zhang, Rynson W.H. Lau",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_BiFormer_Vision_Transformer_With_Bi-Level_Routing_Attention_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1170",
+      "paper_id": "",
+      "title": "BigDL 2.0: Seamless Scaling of AI Pipelines From Laptops to Distributed Cluster",
+      "authors": "Jason (Jinquan) Dai, Ding Ding, Dongjie Shi, Shengsheng Huang, Jiao Wang, Xin Qiu, Kai Huang, Guoqiong Song, Yang Wang, Qiyuan Gong, Jiaming Song, Shan Yu, Le Zheng, Yina Chen, Junwei Deng, Ge Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dai_BigDL_2.0_Seamless_Scaling_of_AI_Pipelines_From_Laptops_to_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2581",
+      "paper_id": "",
+      "title": "BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks",
+      "authors": "Shangqian Gao, Yanfu Zhang, Feihu Huang, Heng Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_BilevelPruning_Unified_Dynamic_and_Static_Channel_Pruning_for_Convolutional_Neural_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_23",
+      "paper_id": "",
+      "title": "Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing",
+      "authors": "Shiyang Zhou, Haijin Zeng, Yunfan Lu, Tong Shao, Ke Tang, Yongyong Chen, Jie Liu, Jingyong Su",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Binarized_Mamba-Transformer_for_Lightweight_Quad_Bayer_HybridEVS_Demosaicing_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1439",
+      "paper_id": "",
+      "title": "Binary Graph Neural Networks",
+      "authors": "Mehdi Bahri, Gaetan Bahl, Stefanos Zafeiriou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2404",
+      "paper_id": "",
+      "title": "BiPer: Binary Neural Networks using a Periodic Function",
+      "authors": "Edwin Vargas, Claudia V. Correa, Carlos Hinojosa, Henry Arguello",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1218",
+      "paper_id": "",
+      "title": "Bit-Shrinking: Limiting Instantaneous Sharpness for Improving Post-Training Quantization",
+      "authors": "Chen Lin, Bo Peng, Zheyang Li, Wenming Tan, Ye Ren, Jun Xiao, Shiliang Pu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Bit-Shrinking_Limiting_Instantaneous_Sharpness_for_Improving_Post-Training_Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1822",
+      "paper_id": "",
+      "title": "Boltzmann Attention Sampling for Image Analysis with Small Objects",
+      "authors": "Theodore Zhao, Sid Kiblawi, Naoto Usuyama, Ho Hin Lee, Sam Preston, Hoifung Poon, Mu Wei",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Boltzmann_Attention_Sampling_for_Image_Analysis_with_Small_Objects_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_159",
+      "paper_id": "",
+      "title": "Boost Vision Transformer With GPU-Friendly Sparsity and Quantization",
+      "authors": "Chong Yu, Tao Chen, Zhongxue Gan, Jiayuan Fan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Boost_Vision_Transformer_With_GPU-Friendly_Sparsity_and_Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2448",
+      "paper_id": "",
+      "title": "Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach",
+      "authors": "Beichen Zhang, Xiaoxing Wang, Xiaohan Qin, Junchi Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Boosting_Order-Preserving_and_Transferability_for_Neural_Architecture_Search_a_Joint_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1145",
+      "paper_id": "",
+      "title": "Bootstrapping SparseFormers from Vision Foundation Models",
+      "authors": "Ziteng Gao, Zhan Tong, Kevin Qinghong Lin, Joya Chen, Mike Zheng Shou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Bootstrapping_SparseFormers_from_Vision_Foundation_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1207",
+      "paper_id": "",
+      "title": "Bootstrapping ViTs: Towards Liberating Vision Transformers From Pre-Training",
+      "authors": "Haofei Zhang, Jiarui Duan, Mengqi Xue, Jie Song, Li Sun, Mingli Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bootstrapping_ViTs_Towards_Liberating_Vision_Transformers_From_Pre-Training_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_80",
+      "paper_id": "",
+      "title": "Bottleneck Transformers for Visual Recognition",
+      "authors": "Aravind Srinivas, Tsung-Yi Lin, Niki Parmar, Jonathon Shlens, Pieter Abbeel, Ashish Vaswani",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Srinivas_Bottleneck_Transformers_for_Visual_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1421",
+      "paper_id": "",
+      "title": "BoxeR: Box-Attention for 2D and 3D Transformers",
+      "authors": "Duy-Kien Nguyen, Jihong Ju, Olaf Booij, Martin R. Oswald, Cees G. M. Snoek",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Nguyen_BoxeR_Box-Attention_for_2D_and_3D_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1372",
+      "paper_id": "",
+      "title": "Brain-Inspired Multilayer Perceptron With Spiking Neurons",
+      "authors": "Wenshuo Li, Hanting Chen, Jianyuan Guo, Ziyang Zhang, Yunhe Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_65",
+      "paper_id": "",
+      "title": "Brain-Inspired Spiking Neural Networks for Energy-Efficient Object Detection",
+      "authors": "Ziqi Li, Tao Gao, Yisheng An, Ting Chen, Jing Zhang, Yuanbo Wen, Mengkun Liu, Qianxi Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Brain-Inspired_Spiking_Neural_Networks_for_Energy-Efficient_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1499",
+      "paper_id": "",
+      "title": "Breaking the Low-Rank Dilemma of Linear Attention",
+      "authors": "Qihang Fan, Huaibo Huang, Ran He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Breaking_the_Low-Rank_Dilemma_of_Linear_Attention_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1921",
+      "paper_id": "",
+      "title": "Building Optimal Neural Architectures using Interpretable Knowledge",
+      "authors": "Keith G. Mills, Fred X. Han, Mohammad Salameh, Shengyao Lu, Chunhua Zhou, Jiao He, Fengyu Sun, Di Niu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Mills_Building_Optimal_Neural_Architectures_using_Interpretable_Knowledge_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_968",
+      "paper_id": "",
+      "title": "Building Vision Models upon Heat Conduction",
+      "authors": "Zhaozhi Wang, Yue Liu, Yunjie Tian, Yunfan Liu, Yaowei Wang, Qixiang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Building_Vision_Models_upon_Heat_Conduction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1104",
+      "paper_id": "",
+      "title": "CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective",
+      "authors": "Shunsuke Yasuki, Masato Taki",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yasuki_CAM_Back_Again_Large_Kernel_CNNs_from_a_Weakly_Supervised_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_527",
+      "paper_id": "",
+      "title": "CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction",
+      "authors": "Yuan Zhou, Qingshan Xu, Jiequan Cui, Junbao Zhou, Jing Zhang, Richang Hong, Hanwang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_CARE_Transformer_Mobile-Friendly_Linear_Visual_Transformer_via_Decoupled_Dual_Interaction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_32",
+      "paper_id": "",
+      "title": "Castling-ViT: Compressing Self-Attention via Switching Towards Linear-Angular Attention at Vision Transformer Inference",
+      "authors": "Haoran You, Yunyang Xiong, Xiaoliang Dai, Bichen Wu, Peizhao Zhang, Haoqi Fan, Peter Vajda, Yingyan (Celine) Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/You_Castling-ViT_Compressing_Self-Attention_via_Switching_Towards_Linear-Angular_Attention_at_Vision_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_552",
+      "paper_id": "",
+      "title": "CellTypeGraph: A New Geometric Computer Vision Benchmark",
+      "authors": "Lorenzo Cerrone, Athul Vijayan, Tejasvinee Mody, Kay Schneitz, Fred A. Hamprecht",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cerrone_CellTypeGraph_A_New_Geometric_Computer_Vision_Benchmark_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1797",
+      "paper_id": "",
+      "title": "Channel Balancing for Accurate Quantization of Winograd Convolutions",
+      "authors": "Vladimir Chikin, Vladimir Kryzhanovskiy",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Channel_Balancing_for_Accurate_Quantization_of_Winograd_Convolutions_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2303",
+      "paper_id": "",
+      "title": "Charm: The Missing Piece in ViT Fine-Tuning for Image Aesthetic Assessment",
+      "authors": "Fatemeh Behrad, Tinne Tuytelaars, Johan Wagemans",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Behrad_Charm_The_Missing_Piece_in_ViT_Fine-Tuning_for_Image_Aesthetic_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1277",
+      "paper_id": "",
+      "title": "CHEX: CHannel EXploration for CNN Model Compression",
+      "authors": "Zejiang Hou, Minghai Qin, Fei Sun, Xiaolong Ma, Kun Yuan, Yi Xu, Yen-Kuang Chen, Rong Jin, Yuan Xie, Sun-Yuan Kung",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hou_CHEX_CHannel_EXploration_for_CNN_Model_Compression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1810",
+      "paper_id": "",
+      "title": "CMT: Convolutional Neural Networks Meet Vision Transformers",
+      "authors": "Jianyuan Guo, Kai Han, Han Wu, Yehui Tang, Xinghao Chen, Yunhe Wang, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_CMT_Convolutional_Neural_Networks_Meet_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1138",
+      "paper_id": "",
+      "title": "Co-Advise: Cross Inductive Bias Distillation",
+      "authors": "Sucheng Ren, Zhengqi Gao, Tianyu Hua, Zihui Xue, Yonglong Tian, Shengfeng He, Hang Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Co-Advise_Cross_Inductive_Bias_Distillation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_339",
+      "paper_id": "",
+      "title": "Co-Training 2L Submodels for Visual Recognition",
+      "authors": "Hugo Touvron, Matthieu Cord, Maxime Oquab, Piotr Bojanowski, Jakob Verbeek, Hervé Jégou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Touvron_Co-Training_2L_Submodels_for_Visual_Recognition_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_67",
+      "paper_id": "",
+      "title": "Communication Efficient SGD via Gradient Sampling With Bayes Prior",
+      "authors": "Liuyihan Song, Kang Zhao, Pan Pan, Yu Liu, Yingya Zhang, Yinghui Xu, Rong Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Communication_Efficient_SGD_via_Gradient_Sampling_With_Bayes_Prior_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1765",
+      "paper_id": "",
+      "title": "Compacting Binary Neural Networks by Sparse Kernel Selection",
+      "authors": "Yikai Wang, Wenbing Huang, Yinpeng Dong, Fuchun Sun, Anbang Yao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compacting_Binary_Neural_Networks_by_Sparse_Kernel_Selection_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1210",
+      "paper_id": "",
+      "title": "CompositeTasking: Understanding Images by Spatial Composition of Tasks",
+      "authors": "Nikola Popovic, Danda Pani Paudel, Thomas Probst, Guolei Sun, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Popovic_CompositeTasking_Understanding_Images_by_Spatial_Composition_of_Tasks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1938",
+      "paper_id": "",
+      "title": "Compressing Models With Few Samples: Mimicking Then Replacing",
+      "authors": "Huanyu Wang, Junjie Liu, Xin Ma, Yang Yong, Zhenhua Chai, Jianxin Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Compressing_Models_With_Few_Samples_Mimicking_Then_Replacing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2025",
+      "paper_id": "",
+      "title": "ComRoPE: Scalable and Robust Rotary Position Embedding Parameterized by Trainable Commuting Angle Matrices",
+      "authors": "Hao Yu, Tangyu Jiang, Shuning Jia, Shannan Yan, Shunning Liu, Haolong Qian, Guanghao Li, Shuting Dong, Chun Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_ComRoPE_Scalable_and_Robust_Rotary_Position_Embedding_Parameterized_by_Trainable_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_96",
+      "paper_id": "",
+      "title": "CondenseNet V2: Sparse Feature Reactivation for Deep Networks",
+      "authors": "Le Yang, Haojun Jiang, Ruojin Cai, Yulin Wang, Shiji Song, Gao Huang, Qi Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_CondenseNet_V2_Sparse_Feature_Reactivation_for_Deep_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1904",
+      "paper_id": "",
+      "title": "Condensing CNNs With Partial Differential Equations",
+      "authors": "Anil Kag, Venkatesh Saligrama",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kag_Condensing_CNNs_With_Partial_Differential_Equations_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1280",
+      "paper_id": "",
+      "title": "Consistency Driven Sequential Transformers Attention Model for Partially Observable Scenes",
+      "authors": "Samrudhdhi B. Rangrej, Chetan L. Srinidhi, James J. Clark",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Rangrej_Consistency_Driven_Sequential_Transformers_Attention_Model_for_Partially_Observable_Scenes_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1986",
+      "paper_id": "",
+      "title": "Constructing Deep Spiking Neural Networks From Artificial Neural Networks With Knowledge Distillation",
+      "authors": "Qi Xu, Yaxin Li, Jiangrong Shen, Jian K. Liu, Huajin Tang, Gang Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Constructing_Deep_Spiking_Neural_Networks_From_Artificial_Neural_Networks_With_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_677",
+      "paper_id": "",
+      "title": "Content-Aware Token Sharing for Efficient Semantic Segmentation With Vision Transformers",
+      "authors": "Chenyang Lu, Daan de Geus, Gijs Dubbelman",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Content-Aware_Token_Sharing_for_Efficient_Semantic_Segmentation_With_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_403",
+      "paper_id": "",
+      "title": "Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning",
+      "authors": "Jian Meng, Li Yang, Jinwoo Shin, Deliang Fan, Jae-sun Seo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_318",
+      "paper_id": "",
+      "title": "Contrastive Neural Architecture Search With Neural Architecture Comparators",
+      "authors": "Yaofo Chen, Yong Guo, Qi Chen, Minli Li, Wei Zeng, Yaowei Wang, Mingkui Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Contrastive_Neural_Architecture_Search_With_Neural_Architecture_Comparators_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_262",
+      "paper_id": "",
+      "title": "Controllable Dynamic Multi-Task Architectures",
+      "authors": "Dripta S. Raychaudhuri, Yumin Suh, Samuel Schulter, Xiang Yu, Masoud Faraki, Amit K. Roy-Chowdhury, Manmohan Chandraker",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Raychaudhuri_Controllable_Dynamic_Multi-Task_Architectures_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_282",
+      "paper_id": "",
+      "title": "Convolution of Convolution: Let Kernels Spatially Collaborate",
+      "authors": "Rongzhen Zhao, Jian Li, Zhenzhi Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Convolution_of_Convolution_Let_Kernels_Spatially_Collaborate_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1028",
+      "paper_id": "",
+      "title": "Convolutional Neural Network Pruning With Structural Redundancy Reduction",
+      "authors": "Zi Wang, Chengcheng Li, Xiangyang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Convolutional_Neural_Network_Pruning_With_Structural_Redundancy_Reduction_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_365",
+      "paper_id": "",
+      "title": "Coordinate Attention for Efficient Mobile Network Design",
+      "authors": "Qibin Hou, Daquan Zhou, Jiashi Feng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_2163",
+      "paper_id": "",
+      "title": "CP3: Channel Pruning Plug-In for Point-Based Networks",
+      "authors": "Yaomin Huang, Ning Liu, Zhengping Che, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Guixu Zhang, Xinmei Liu, Feifei Feng, Jian Tang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_CP3_Channel_Pruning_Plug-In_for_Point-Based_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_915",
+      "paper_id": "",
+      "title": "CSWin Transformer: A General Vision Transformer Backbone With Cross-Shaped Windows",
+      "authors": "Xiaoyi Dong, Jianmin Bao, Dongdong Chen, Weiming Zhang, Nenghai Yu, Lu Yuan, Dong Chen, Baining Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_CSWin_Transformer_A_General_Vision_Transformer_Backbone_With_Cross-Shaped_Windows_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1187",
+      "paper_id": "",
+      "title": "Data-Free Network Compression via Parametric Non-Uniform Mixed Precision Quantization",
+      "authors": "Vladimir Chikin, Mikhail Antiukh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chikin_Data-Free_Network_Compression_via_Parametric_Non-Uniform_Mixed_Precision_Quantization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_180",
+      "paper_id": "",
+      "title": "Data-Free Quantization via Pseudo-label Filtering",
+      "authors": "Chunxiao Fan, Ziqi Wang, Dan Guo, Meng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Data-Free_Quantization_via_Pseudo-label_Filtering_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_14",
+      "paper_id": "",
+      "title": "DATA: Domain-Aware and Task-Aware Self-Supervised Learning",
+      "authors": "Qing Chang, Junran Peng, Lingxi Xie, Jiajun Sun, Haoran Yin, Qi Tian, Zhaoxiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_DATA_Domain-Aware_and_Task-Aware_Self-Supervised_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_478",
+      "paper_id": "",
+      "title": "DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation",
+      "authors": "Xiong Zhang, Hongmin Xu, Hong Mo, Jianchao Tan, Cheng Yang, Lei Wang, Wenqi Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DCNAS_Densely_Connected_Neural_Architecture_Search_for_Semantic_Image_Segmentation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_627",
+      "paper_id": "",
+      "title": "DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers",
+      "authors": "Xianing Chen, Qiong Cao, Yujie Zhong, Jing Zhang, Shenghua Gao, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_DearKD_Data-Efficient_Early_Knowledge_Distillation_for_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2295",
+      "paper_id": "",
+      "title": "Decision SpikeFormer: Spike-Driven Transformer for Decision Making",
+      "authors": "Wei Huang, Qinying Gu, Nanyang Ye",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Decision_SpikeFormer_Spike-Driven_Transformer_for_Decision_Making_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_952",
+      "paper_id": "",
+      "title": "DECORE: Deep Compression With Reinforcement Learning",
+      "authors": "Manoj Alwani, Yang Wang, Vashisht Madhavan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Alwani_DECORE_Deep_Compression_With_Reinforcement_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1204",
+      "paper_id": "",
+      "title": "Decoupled Dynamic Filter Networks",
+      "authors": "Jingkai Zhou, Varun Jampani, Zhixiong Pi, Qiong Liu, Ming-Hsuan Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Decoupled_Dynamic_Filter_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1764",
+      "paper_id": "",
+      "title": "Deep Graph Reprogramming",
+      "authors": "Yongcheng Jing, Chongbin Yuan, Li Ju, Yiding Yang, Xinchao Wang, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2740",
+      "paper_id": "",
+      "title": "DeepCompress-ViT: Rethinking Model Compression to Enhance Efficiency of Vision Transformers at the Edge",
+      "authors": "Sabbir Ahmed, Abdullah Al Arafat, Deniz Najafi, Akhlak Mahmood, Mamshad Nayeem Rizve, Mohaiminul Al Nahian, Ranyang Zhou, Shaahin Angizi, Adnan Siraj Rakin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Ahmed_DeepCompress-ViT_Rethinking_Model_Compression_to_Enhance_Efficiency_of_Vision_Transformers_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1183",
+      "paper_id": "",
+      "title": "DeepMAD: Mathematical Architecture Design for Deep Convolutional Neural Network",
+      "authors": "Xuan Shen, Yaohua Wang, Ming Lin, Yilun Huang, Hao Tang, Xiuyu Sun, Yanzhi Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_DeepMAD_Mathematical_Architecture_Design_for_Deep_Convolutional_Neural_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_648",
+      "paper_id": "",
+      "title": "DefMamba: Deformable Visual State Space Model",
+      "authors": "Leiye Liu, Miao Zhang, Jihao Yin, Tingwei Liu, Wei Ji, Yongri Piao, Huchuan Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_DefMamba_Deformable_Visual_State_Space_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_138",
+      "paper_id": "",
+      "title": "DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets",
+      "authors": "Harsh Rangwani, Pradipto Mondal, Mayank Mishra, Ashish Ramayee Asokan, R. Venkatesh Babu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Rangwani_DeiT-LT_Distillation_Strikes_Back_for_Vision_Transformer_Training_on_Long-Tailed_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_2021",
+      "paper_id": "",
+      "title": "DeltaCNN: End-to-End CNN Inference of Sparse Frame Differences in Videos",
+      "authors": "Mathias Parger, Chengcheng Tang, Christopher D. Twigg, Cem Keskin, Robert Wang, Markus Steinberger",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Parger_DeltaCNN_End-to-End_CNN_Inference_of_Sparse_Frame_Differences_in_Videos_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1762",
+      "paper_id": "",
+      "title": "Demystifying the Neural Tangent Kernel From a Practical Perspective: Can It Be Trusted for Neural Architecture Search Without Training?",
+      "authors": "Jisoo Mok, Byunggook Na, Ji-Hoon Kim, Dongyoon Han, Sungroh Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mok_Demystifying_the_Neural_Tangent_Kernel_From_a_Practical_Perspective_Can_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1961",
+      "paper_id": "",
+      "title": "Dense Vision Transformer Compression with Few Samples",
+      "authors": "Hanxiao Zhang, Yifan Zhou, Guo-Hua Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Dense_Vision_Transformer_Compression_with_Few_Samples_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1646",
+      "paper_id": "",
+      "title": "Densely Connected Multi-Dilated Convolutional Networks for Dense Prediction Tasks",
+      "authors": "Naoya Takahashi, Yuki Mitsufuji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Takahashi_Densely_Connected_Multi-Dilated_Convolutional_Networks_for_Dense_Prediction_Tasks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1110",
+      "paper_id": "",
+      "title": "DepGraph: Towards Any Structural Pruning",
+      "authors": "Gongfan Fang, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_838",
+      "paper_id": "",
+      "title": "Device-Wise Federated Network Pruning",
+      "authors": "Shangqian Gao, Junyi Li, Zeyu Zhang, Yanfu Zhang, Weidong Cai, Heng Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Device-Wise_Federated_Network_Pruning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_502",
+      "paper_id": "",
+      "title": "Differentiable Architecture Search With Random Features",
+      "authors": "Xuanyang Zhang, Yonggang Li, Xiangyu Zhang, Yongtao Wang, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Differentiable_Architecture_Search_With_Random_Features_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1217",
+      "paper_id": "",
+      "title": "DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data",
+      "authors": "Hanrong Ye, Dan Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_DiffusionMTL_Learning_Multi-Task_Denoising_Diffusion_Model_from_Partially_Annotated_Data_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_140",
+      "paper_id": "",
+      "title": "DiSparse: Disentangled Sparsification for Multitask Model Compression",
+      "authors": "Xinglong Sun, Ali Hassani, Zhangyang Wang, Gao Huang, Humphrey Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_DiSparse_Disentangled_Sparsification_for_Multitask_Model_Compression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_286",
+      "paper_id": "",
+      "title": "Distribution Consistent Neural Architecture Search",
+      "authors": "Junyi Pan, Chong Sun, Yizhou Zhou, Ying Zhang, Chen Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_Distribution_Consistent_Neural_Architecture_Search_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1310",
+      "paper_id": "",
+      "title": "Distribution-Aware Adaptive Multi-Bit Quantization",
+      "authors": "Sijie Zhao, Tao Yue, Xuemei Hu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Distribution-Aware_Adaptive_Multi-Bit_Quantization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_590",
+      "paper_id": "",
+      "title": "Diverse Branch Block: Building a Convolution as an Inception-Like Unit",
+      "authors": "Xiaohan Ding, Xiangyu Zhang, Jungong Han, Guiguang Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_Diverse_Branch_Block_Building_a_Convolution_as_an_Inception-Like_Unit_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1242",
+      "paper_id": "",
+      "title": "Diversifying Sample Generation for Accurate Data-Free Quantization",
+      "authors": "Xiangguo Zhang, Haotong Qin, Yifu Ding, Ruihao Gong, Qinghua Yan, Renshuai Tao, Yuhang Li, Fengwei Yu, Xianglong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Diversifying_Sample_Generation_for_Accurate_Data-Free_Quantization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1835",
+      "paper_id": "",
+      "title": "DLBD: A Self-Supervised Direct-Learned Binary Descriptor",
+      "authors": "Bin Xiao, Yang Hu, Bo Liu, Xiuli Bi, Weisheng Li, Xinbo Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_DLBD_A_Self-Supervised_Direct-Learned_Binary_Descriptor_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_34",
+      "paper_id": "",
+      "title": "DOTS: Decoupling Operation and Topology in Differentiable Architecture Search",
+      "authors": "Yu-Chao Gu, Li-Juan Wang, Yun Liu, Yi Yang, Yu-Huan Wu, Shao-Ping Lu, Ming-Ming Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_DOTS_Decoupling_Operation_and_Topology_in_Differentiable_Architecture_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1766",
+      "paper_id": "",
+      "title": "Dr2Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning",
+      "authors": "Chen Zhao, Shuming Liu, Karttikeya Mangalam, Guocheng Qian, Fatimah Zohra, Abdulmohsen Alghannam, Jitendra Malik, Bernard Ghanem",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Dr2Net_Dynamic_Reversible_Dual-Residual_Networks_for_Memory-Efficient_Finetuning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1587",
+      "paper_id": "",
+      "title": "DropKey for Vision Transformer",
+      "authors": "Bonan Li, Yinhan Hu, Xuecheng Nie, Congying Han, Xiangjian Jiang, Tiande Guo, Luoqi Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DropKey_for_Vision_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1834",
+      "paper_id": "",
+      "title": "DVHGNN: Multi-Scale Dilated Vision HGNN for Efficient Vision Recognition",
+      "authors": "Caoshuo Li, Tanzhe Li, Xiaobin Hu, Donghao Luo, Taisong Jin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_DVHGNN_Multi-Scale_Dilated_Vision_HGNN_for_Efficient_Vision_Recognition_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1263",
+      "paper_id": "",
+      "title": "Dynamic Neural Network for Multi-Task Learning Searching Across Diverse Network Topologies",
+      "authors": "Wonhyeok Choi, Sunghoon Im",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Dynamic_Neural_Network_for_Multi-Task_Learning_Searching_Across_Diverse_Network_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1354",
+      "paper_id": "",
+      "title": "Dynamic Region-Aware Convolution",
+      "authors": "Jin Chen, Xijun Wang, Zichao Guo, Xiangyu Zhang, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Dynamic_Region-Aware_Convolution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_459",
+      "paper_id": "",
+      "title": "Dynamic Slimmable Network",
+      "authors": "Changlin Li, Guangrun Wang, Bing Wang, Xiaodan Liang, Zhihui Li, Xiaojun Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Slimmable_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_873",
+      "paper_id": "",
+      "title": "DyRep: Bootstrapping Training With Dynamic Re-Parameterization",
+      "authors": "Tao Huang, Shan You, Bohan Zhang, Yuxuan Du, Fei Wang, Chen Qian, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_DyRep_Bootstrapping_Training_With_Dynamic_Re-Parameterization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1113",
+      "paper_id": "",
+      "title": "Effective Sparsification of Neural Networks With Global Sparsity Constraint",
+      "authors": "Xiao Zhou, Weizhong Zhang, Hang Xu, Tong Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Effective_Sparsification_of_Neural_Networks_With_Global_Sparsity_Constraint_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2020",
+      "paper_id": "",
+      "title": "Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement",
+      "authors": "Shu Yang, Chengting Yu, Lei Liu, Hanzhi Ma, Aili Wang, Erping Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Efficient_ANN-Guided_Distillation_Aligning_Rate-based_Features_of_Spiking_Neural_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_843",
+      "paper_id": "",
+      "title": "Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks",
+      "authors": "Uranik Berisha, Jens Mehnert, Alexandru Paul Condurache",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Berisha_Efficient_Data_Driven_Mixture-of-Expert_Extraction_from_Trained_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_19",
+      "paper_id": "",
+      "title": "Efficient Hyperparameter Optimization with Adaptive Fidelity Identification",
+      "authors": "Jiantong Jiang, Zeyi Wen, Atif Mansoor, Ajmal Mian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_Efficient_Hyperparameter_Optimization_with_Adaptive_Fidelity_Identification_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1818",
+      "paper_id": "",
+      "title": "Efficient Multitask Dense Predictor via Binarization",
+      "authors": "Yuzhang Shang, Dan Xu, Gaowen Liu, Ramana Rao Kompella, Yan Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Efficient_Multitask_Dense_Predictor_via_Binarization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_380",
+      "paper_id": "",
+      "title": "Efficient On-Device Training via Gradient Filtering",
+      "authors": "Yuedong Yang, Guihong Li, Radu Marculescu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Efficient_On-Device_Training_via_Gradient_Filtering_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_884",
+      "paper_id": "",
+      "title": "EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality",
+      "authors": "Sanghyeok Lee, Joonmyung Choi, Hyunwoo J. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_EfficientViM_Efficient_Vision_Mamba_with_Hidden_State_Mixer_based_State_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_544",
+      "paper_id": "",
+      "title": "EfficientViT: Memory Efficient Vision Transformer With Cascaded Group Attention",
+      "authors": "Xinyu Liu, Houwen Peng, Ningxin Zheng, Yuqing Yang, Han Hu, Yixuan Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_EfficientViT_Memory_Efficient_Vision_Transformer_With_Cascaded_Group_Attention_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1766",
+      "paper_id": "",
+      "title": "EMT-NAS:Transferring Architectural Knowledge Between Tasks From Different Datasets",
+      "authors": "Peng Liao, Yaochu Jin, Wenli Du",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_EMT-NASTransferring_Architectural_Knowledge_Between_Tasks_From_Different_Datasets_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2358",
+      "paper_id": "",
+      "title": "Enhancing Diversity for Data-free Quantization",
+      "authors": "Kai Zhao, Zhihao Zhuang, Miao Zhang, Chenjuan Guo, Yang Shu, Bin Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhao_Enhancing_Diversity_for_Data-free_Quantization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2473",
+      "paper_id": "",
+      "title": "Enhancing Post-training Quantization Calibration through Contrastive Learning",
+      "authors": "Yuzhang Shang, Gaowen Liu, Ramana Rao Kompella, Yan Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1618",
+      "paper_id": "",
+      "title": "Fast and Accurate Model Scaling",
+      "authors": "Piotr Dollar, Mannat Singh, Ross Girshick",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dollar_Fast_and_Accurate_Model_Scaling_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1499",
+      "paper_id": "",
+      "title": "FBNetV3: Joint Architecture-Recipe Search Using Predictor Pretraining",
+      "authors": "Xiaoliang Dai, Alvin Wan, Peizhao Zhang, Bichen Wu, Zijian He, Zhen Wei, Kan Chen, Yuandong Tian, Matthew Yu, Peter Vajda, Joseph E. Gonzalez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_FBNetV3_Joint_Architecture-Recipe_Search_Using_Predictor_Pretraining_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1360",
+      "paper_id": "",
+      "title": "FFCV: Accelerating Training by Removing Data Bottlenecks",
+      "authors": "Guillaume Leclerc, Andrew Ilyas, Logan Engstrom, Sung Min Park, Hadi Salman, Aleksander Mądry",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Leclerc_FFCV_Accelerating_Training_by_Removing_Data_Bottlenecks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_706",
+      "paper_id": "",
+      "title": "FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation",
+      "authors": "Zhuguanyu Wu, Shihe Wang, Jiayi Zhang, Jiaxin Chen, Yunhong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_FIMA-Q_Post-Training_Quantization_for_Vision_Transformers_by_Fisher_Information_Matrix_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2701",
+      "paper_id": "",
+      "title": "Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning",
+      "authors": "Leonardo Iurada, Marco Ciccone, Tatiana Tommasi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Iurada_Finding_Lottery_Tickets_in_Vision_Models_via_Data-driven_Spectral_Foresight_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_270",
+      "paper_id": "",
+      "title": "Fire Together Wire Together: A Dynamic Pruning Approach With Self-Supervised Mask Prediction",
+      "authors": "Sara Elkerdawy, Mostafa Elhoushi, Hong Zhang, Nilanjan Ray",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Elkerdawy_Fire_Together_Wire_Together_A_Dynamic_Pruning_Approach_With_Self-Supervised_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2155",
+      "paper_id": "",
+      "title": "Flexible Group Count Enables Hassle-Free Structured Pruning",
+      "authors": "Jiamu Zhang, Shaochen Zhong, Andrew Ye, Zirui Liu, Sebastian Zhao, Kaixiong Zhou, Li Li, Soo-Hyun Choi, Rui Chen, Xia Hu, Shuai Xu, Vipin Chaudhary",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Flexible_Group_Count_Enables_Hassle-Free_Structured_Pruning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_173",
+      "paper_id": "",
+      "title": "FlexiViT: One Model for All Patch Sizes",
+      "authors": "Lucas Beyer, Pavel Izmailov, Alexander Kolesnikov, Mathilde Caron, Simon Kornblith, Xiaohua Zhai, Matthias Minderer, Michael Tschannen, Ibrahim Alabdulmohsin, Filip Pavetic",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Beyer_FlexiViT_One_Model_for_All_Patch_Sizes_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2699",
+      "paper_id": "",
+      "title": "FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer",
+      "authors": "Dongyeong Hwang, Hyunju Kim, Sunwoo Kim, Kijung Shin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Hwang_FlowerFormer_Empowering_Neural_Architecture_Encoding_using_a_Flow-aware_Graph_Transformer_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1306",
+      "paper_id": "",
+      "title": "FP-NAS: Fast Probabilistic Neural Architecture Search",
+      "authors": "Zhicheng Yan, Xiaoliang Dai, Peizhao Zhang, Yuandong Tian, Bichen Wu, Matt Feiszli",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_FP-NAS_Fast_Probabilistic_Neural_Architecture_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2731",
+      "paper_id": "",
+      "title": "Frequency Dynamic Convolution for Dense Image Prediction",
+      "authors": "Linwei Chen, Lin Gu, Liang Li, Chenggang Yan, Ying Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Frequency_Dynamic_Convolution_for_Dense_Image_Prediction_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2281",
+      "paper_id": "",
+      "title": "Frequency-Adaptive Dilated Convolution for Semantic Segmentation",
+      "authors": "Linwei Chen, Lin Gu, Dezhi Zheng, Ying Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Frequency-Adaptive_Dilated_Convolution_for_Semantic_Segmentation_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1330",
+      "paper_id": "",
+      "title": "From Node Interaction To Hop Interaction: New Effective and Scalable Graph Learning Paradigm",
+      "authors": "Jie Chen, Zilong Li, Yin Zhu, Junping Zhang, Jian Pu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_From_Node_Interaction_To_Hop_Interaction_New_Effective_and_Scalable_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_901",
+      "paper_id": "",
+      "title": "Gaussian Context Transformer",
+      "authors": "Dongsheng Ruan, Daiyin Wang, Yuan Zheng, Nenggan Zheng, Min Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ruan_Gaussian_Context_Transformer_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_941",
+      "paper_id": "",
+      "title": "Genie: Show Me the Data for Quantization",
+      "authors": "Yongkweon Jeon, Chungman Lee, Ho-young Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Jeon_Genie_Show_Me_the_Data_for_Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1988",
+      "paper_id": "",
+      "title": "GG-SSMs: Graph-Generating State Space Models",
+      "authors": "Nikola Zubic, Davide Scaramuzza",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zubic_GG-SSMs_Graph-Generating_State_Space_Models_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_708",
+      "paper_id": "",
+      "title": "GliaNet: Adaptive Neural Network Structure Learning with Glia-Driven",
+      "authors": "Mengqiao Han, Liyuan Pan, Xiabi Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Han_GliaNet_Adaptive_Neural_Network_Structure_Learning_with_Glia-Driven_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_376",
+      "paper_id": "",
+      "title": "Global Vision Transformer Pruning With Hessian-Aware Saliency",
+      "authors": "Huanrui Yang, Hongxu Yin, Maying Shen, Pavlo Molchanov, Hai Li, Jan Kautz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Global_Vision_Transformer_Pruning_With_Hessian-Aware_Saliency_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1849",
+      "paper_id": "",
+      "title": "Going Beyond Multi-Task Dense Prediction with Synergy Embedding Models",
+      "authors": "Huimin Huang, Yawen Huang, Lanfen Lin, Ruofeng Tong, Yen-Wei Chen, Hao Zheng, Yuexiang Li, Yefeng Zheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Going_Beyond_Multi-Task_Dense_Prediction_with_Synergy_Embedding_Models_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1136",
+      "paper_id": "",
+      "title": "GreedyNASv2: Greedier Search With a Greedy Path Filter",
+      "authors": "Tao Huang, Shan You, Fei Wang, Chen Qian, Changshui Zhang, Xiaogang Wang, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_GreedyNASv2_Greedier_Search_With_a_Greedy_Path_Filter_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2674",
+      "paper_id": "",
+      "title": "GreedyViG: Dynamic Axial Graph Construction for Efficient Vision GNNs",
+      "authors": "Mustafa Munir, William Avery, Md Mostafijur Rahman, Radu Marculescu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Munir_GreedyViG_Dynamic_Axial_Graph_Construction_for_Efficient_Vision_GNNs_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2734",
+      "paper_id": "",
+      "title": "GroupMamba: Efficient Group-Based Visual State Space Model",
+      "authors": "Abdelrahman Shaker, Syed Talal Wasim, Salman Khan, Juergen Gall, Fahad Shahbaz Khan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Shaker_GroupMamba_Efficient_Group-Based_Visual_State_Space_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_58",
+      "paper_id": "",
+      "title": "Hard Sample Matters a Lot in Zero-Shot Quantization",
+      "authors": "Huantong Li, Xiangmiao Wu, Fanbing Lv, Daihai Liao, Thomas H. Li, Yonggang Zhang, Bo Han, Mingkui Tan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Hard_Sample_Matters_a_Lot_in_Zero-Shot_Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1432",
+      "paper_id": "",
+      "title": "Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation",
+      "authors": "Ryuhei Hamaguchi, Yasutaka Furukawa, Masaki Onishi, Ken Sakurada",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Hamaguchi_Heterogeneous_Grid_Convolution_for_Adaptive_Efficient_and_Controllable_Computation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_405",
+      "paper_id": "",
+      "title": "Hire-MLP: Vision MLP via Hierarchical Rearrangement",
+      "authors": "Jianyuan Guo, Yehui Tang, Kai Han, Xinghao Chen, Han Wu, Chao Xu, Chang Xu, Yunhe Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Hire-MLP_Vision_MLP_via_Hierarchical_Rearrangement_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_573",
+      "paper_id": "",
+      "title": "HODEC: Towards Efficient High-Order DEcomposed Convolutional Neural Networks",
+      "authors": "Miao Yin, Yang Sui, Wanzhao Yang, Xiao Zang, Yu Gong, Bo Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_HODEC_Towards_Efficient_High-Order_DEcomposed_Convolutional_Neural_Networks_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1571",
+      "paper_id": "",
+      "title": "HOT: Hadamard-based Optimized Training",
+      "authors": "Seonggon Kim, Juncheol Shin, Seung-taek Woo, Eunhyeok Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_HOT_Hadamard-based_Optimized_Training_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2244",
+      "paper_id": "",
+      "title": "HOTNAS: Hierarchical Optimal Transport for Neural Architecture Search",
+      "authors": "Jiechao Yang, Yong Liu, Hongteng Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_HOTNAS_Hierarchical_Optimal_Transport_for_Neural_Architecture_Search_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_913",
+      "paper_id": "",
+      "title": "HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens",
+      "authors": "Zhaohui Yang, Yunhe Wang, Xinghao Chen, Jianyuan Guo, Wei Zhang, Chao Xu, Chunjing Xu, Dacheng Tao, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_HourNAS_Extremely_Fast_Neural_Architecture_Search_Through_an_Hourglass_Lens_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1046",
+      "paper_id": "",
+      "title": "How Does Topology Influence Gradient Propagation and Model Performance of Deep Networks With DenseNet-Type Skip Connections?",
+      "authors": "Kartikeya Bhardwaj, Guihong Li, Radu Marculescu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Bhardwaj_How_Does_Topology_Influence_Gradient_Propagation_and_Model_Performance_of_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_377",
+      "paper_id": "",
+      "title": "How Well Do Sparse ImageNet Models Transfer?",
+      "authors": "Eugenia Iofinova, Alexandra Peste, Mark Kurtz, Dan Alistarh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Iofinova_How_Well_Do_Sparse_ImageNet_Models_Transfer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1368",
+      "paper_id": "",
+      "title": "HR-NAS: Searching Efficient High-Resolution Neural Architectures With Lightweight Transformers",
+      "authors": "Mingyu Ding, Xiaochen Lian, Linjie Yang, Peng Wang, Xiaojie Jin, Zhiwu Lu, Ping Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_HR-NAS_Searching_Efficient_High-Resolution_Neural_Architectures_With_Lightweight_Transformers_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1083",
+      "paper_id": "",
+      "title": "Hypergraph Vision Transformers: Images are More than Nodes, More than Edges",
+      "authors": "Joshua Fixelle",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fixelle_Hypergraph_Vision_Transformers_Images_are_More_than_Nodes_More_than_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_581",
+      "paper_id": "",
+      "title": "ICP: Immediate Compensation Pruning for Mid-to-high Sparsity",
+      "authors": "Xin Luo, Xueming Fu, Zihang Jiang, S. Kevin Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_ICP_Immediate_Compensation_Pruning_for_Mid-to-high_Sparsity_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_217",
+      "paper_id": "",
+      "title": "Implicit Feature Decoupling With Depthwise Quantization",
+      "authors": "Iordanis Fostiropoulos, Barry Boehm",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Fostiropoulos_Implicit_Feature_Decoupling_With_Depthwise_Quantization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_669",
+      "paper_id": "",
+      "title": "Improving Accuracy of Binary Neural Networks Using Unbalanced Activation Distribution",
+      "authors": "Hyungjun Kim, Jihoon Park, Changhun Lee, Jae-Joon Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Improving_Accuracy_of_Binary_Neural_Networks_Using_Unbalanced_Activation_Distribution_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_1364",
+      "paper_id": "",
+      "title": "Improving Graph Contrastive Learning via Adaptive Positive Sampling",
+      "authors": "Jiaming Zhuo, Feiyang Qin, Can Cui, Kun Fu, Bingxin Niu, Mengzhu Wang, Yuanfang Guo, Chuan Wang, Zhen Wang, Xiaochun Cao, Liang Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhuo_Improving_Graph_Contrastive_Learning_via_Adaptive_Positive_Sampling_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_215",
+      "paper_id": "",
+      "title": "Inception Convolution With Efficient Dilation Search",
+      "authors": "Jie Liu, Chuming Li, Feng Liang, Chen Lin, Ming Sun, Junjie Yan, Wanli Ouyang, Dong Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Inception_Convolution_With_Efficient_Dilation_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2435",
+      "paper_id": "",
+      "title": "InceptionNeXt: When Inception Meets ConvNeXt",
+      "authors": "Weihao Yu, Pan Zhou, Shuicheng Yan, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_InceptionNeXt_When_Inception_Meets_ConvNeXt_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1681",
+      "paper_id": "",
+      "title": "Independent Component Alignment for Multi-Task Learning",
+      "authors": "Dmitry Senushkin, Nikolay Patakin, Arseny Kuznetsov, Anton Konushin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_53",
+      "paper_id": "",
+      "title": "Inference-Scale Complexity in ANN-SNN Conversion for High-Performance and Low-Power Applications",
+      "authors": "Tong Bu, Maohua Li, Zhaofei Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bu_Inference-Scale_Complexity_in_ANN-SNN_Conversion_for_High-Performance_and_Low-Power_Applications_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_604",
+      "paper_id": "",
+      "title": "Insights from the Use of Previously Unseen Neural Architecture Search Datasets",
+      "authors": "Rob Geada, David Towers, Matthew Forshaw, Amir Atapour-Abarghouei, A. Stephen McGough",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Geada_Insights_from_the_Use_of_Previously_Unseen_Neural_Architecture_Search_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1574",
+      "paper_id": "",
+      "title": "Instance-Aware Dynamic Neural Network Quantization",
+      "authors": "Zhenhua Liu, Yunhe Wang, Kai Han, Siwei Ma, Wen Gao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Instance-Aware_Dynamic_Neural_Network_Quantization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_2154",
+      "paper_id": "",
+      "title": "Instance-Aware Group Quantization for Vision Transformers",
+      "authors": "Jaehyeon Moon, Dohyung Kim, Junyong Cheon, Bumsub Ham",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Moon_Instance-Aware_Group_Quantization_for_Vision_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_573",
+      "paper_id": "",
+      "title": "Integral Neural Networks",
+      "authors": "Kirill Solodskikh, Azim Kurbanov, Ruslan Aydarkhanov, Irina Zhelavskaya, Yury Parfenov, Dehua Song, Stamatios Lefkimmiatis",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Solodskikh_Integral_Neural_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1661",
+      "paper_id": "",
+      "title": "InternImage: Exploring Large-Scale Vision Foundation Models With Deformable Convolutions",
+      "authors": "Wenhai Wang, Jifeng Dai, Zhe Chen, Zhenhang Huang, Zhiqi Li, Xizhou Zhu, Xiaowei Hu, Tong Lu, Lewei Lu, Hongsheng Li, Xiaogang Wang, Yu Qiao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1509",
+      "paper_id": "",
+      "title": "Interspace Pruning: Using Adaptive Filter Representations To Improve Training of Sparse CNNs",
+      "authors": "Paul Wimmer, Jens Mehnert, Alexandru Condurache",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wimmer_Interspace_Pruning_Using_Adaptive_Filter_Representations_To_Improve_Training_of_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1745",
+      "paper_id": "",
+      "title": "IntraQ: Learning Synthetic Images With Intra-Class Heterogeneity for Zero-Shot Network Quantization",
+      "authors": "Yunshan Zhong, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_804",
+      "paper_id": "",
+      "title": "Involution: Inverting the Inherence of Convolution for Visual Recognition",
+      "authors": "Duo Li, Jie Hu, Changhu Wang, Xiangtai Li, Qi She, Lei Zhu, Tong Zhang, Qifeng Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1751",
+      "paper_id": "",
+      "title": "It's All in the Teacher: Zero-Shot Quantization Brought Closer to the Teacher",
+      "authors": "Kanghyun Choi, Hye Yoon Lee, Deokki Hong, Joonsang Yu, Noseong Park, Youngsok Kim, Jinho Lee",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Choi_Its_All_in_the_Teacher_Zero-Shot_Quantization_Brought_Closer_to_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1309",
+      "paper_id": "",
+      "title": "Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers",
+      "authors": "Siyuan Wei, Tianzhu Ye, Shen Zhang, Yao Tang, Jiajun Liang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Joint_Token_Pruning_and_Squeezing_Towards_More_Aggressive_Compression_of_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1477",
+      "paper_id": "",
+      "title": "Joint-DetNAS: Upgrade Your Detector With NAS, Pruning and Dynamic Distillation",
+      "authors": "Lewei Yao, Renjie Pi, Hang Xu, Wei Zhang, Zhenguo Li, Tong Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_Joint-DetNAS_Upgrade_Your_Detector_With_NAS_Pruning_and_Dynamic_Distillation_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2572",
+      "paper_id": "",
+      "title": "Joint-Task Regularization for Partially Labeled Multi-Task Learning",
+      "authors": "Kento Nishi, Junsik Kim, Wanhua Li, Hanspeter Pfister",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Nishi_Joint-Task_Regularization_for_Partially_Labeled_Multi-Task_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1824",
+      "paper_id": "",
+      "title": "Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment",
+      "authors": "Alireza Ganjdanesh, Shangqian Gao, Heng Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ganjdanesh_Jointly_Training_and_Pruning_CNNs_via_Learnable_Agent_Guidance_and_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1389",
+      "paper_id": "",
+      "title": "JointSQ: Joint Sparsification-Quantization for Distributed Learning",
+      "authors": "Weiying Xie, Haowei Li, Jitao Ma, Yunsong Li, Jie Lei, Donglai Liu, Leyuan Fang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_JointSQ_Joint_Sparsification-Quantization_for_Distributed_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_342",
+      "paper_id": "",
+      "title": "L-SWAG: Layer-Sample Wise Activation with Gradients Information for Zero-Shot NAS on Vision Transformers",
+      "authors": "Sofia Casarin, Sergio Escalera, Oswald Lanz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Casarin_L-SWAG_Layer-Sample_Wise_Activation_with_Gradients_Information_for_Zero-Shot_NAS_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_686",
+      "paper_id": "",
+      "title": "Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search",
+      "authors": "Kaicheng Yu, Rene Ranftl, Mathieu Salzmann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Landmark_Regularization_Ranking_Guided_Super-Net_Training_in_Neural_Architecture_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_598",
+      "paper_id": "",
+      "title": "Layer-Wise Searching for 1-Bit Detectors",
+      "authors": "Sheng Xu, Junhe Zhao, Jinhu Lu, Baochang Zhang, Shumin Han, David Doermann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Layer-Wise_Searching_for_1-Bit_Detectors_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1348",
+      "paper_id": "",
+      "title": "Learnable Companding Quantization for Accurate Low-Bit Neural Networks",
+      "authors": "Kohei Yamamoto",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yamamoto_Learnable_Companding_Quantization_for_Accurate_Low-Bit_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1802",
+      "paper_id": "",
+      "title": "Learnable Lookup Table for Neural Network Quantization",
+      "authors": "Longguang Wang, Xiaoyu Dong, Yingqian Wang, Li Liu, Wei An, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learnable_Lookup_Table_for_Neural_Network_Quantization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_2017",
+      "paper_id": "",
+      "title": "Learned Queries for Efficient Local Attention",
+      "authors": "Moab Arar, Ariel Shamir, Amit H. Bermano",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Arar_Learned_Queries_for_Efficient_Local_Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_658",
+      "paper_id": "",
+      "title": "Learning Correlation Structures for Vision Transformers",
+      "authors": "Manjin Kim, Paul Hongsuck Seo, Cordelia Schmid, Minsu Cho",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Learning_Correlation_Structures_for_Vision_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_97",
+      "paper_id": "",
+      "title": "Learning Graphs for Knowledge Transfer With Limited Labels",
+      "authors": "Pallabi Ghosh, Nirat Saini, Larry S. Davis, Abhinav Shrivastava",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ghosh_Learning_Graphs_for_Knowledge_Transfer_With_Limited_Labels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1915",
+      "paper_id": "",
+      "title": "Learning Multiple Dense Prediction Tasks From Partially Annotated Data",
+      "authors": "Wei-Hong Li, Xialei Liu, Hakan Bilen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Learning_Multiple_Dense_Prediction_Tasks_From_Partially_Annotated_Data_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1452",
+      "paper_id": "",
+      "title": "Lifelong Graph Learning",
+      "authors": "Chen Wang, Yuheng Qiu, Dasong Gao, Sebastian Scherer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Lifelong_Graph_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1689",
+      "paper_id": "",
+      "title": "Lite Vision Transformer With Enhanced Self-Attention",
+      "authors": "Chenglin Yang, Yilin Wang, Jianming Zhang, He Zhang, Zijun Wei, Zhe Lin, Alan Yuille",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Lite_Vision_Transformer_With_Enhanced_Self-Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_122",
+      "paper_id": "",
+      "title": "LSNet: See Large, Focus Small",
+      "authors": "Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_LSNet_See_Large_Focus_Small_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1720",
+      "paper_id": "",
+      "title": "MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration",
+      "authors": "Boyun Li, Haiyu Zhao, Wenxin Wang, Peng Hu, Yuanbiao Gou, Xi Peng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_MaIR_A_Locality-_and_Continuity-Preserving_Mamba_for_Image_Restoration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1009",
+      "paper_id": "",
+      "title": "Making Vision Transformers Efficient From a Token Sparsification View",
+      "authors": "Shuning Chang, Pichao Wang, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin, Mike Zheng Shou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_Making_Vision_Transformers_Efficient_From_a_Token_Sparsification_View_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1764",
+      "paper_id": "",
+      "title": "Mamba-Adaptor: State Space Model Adaptor for Visual Recognition",
+      "authors": "Fei Xie, Jiahao Nie, Yujin Tang, Wenkang Zhang, Hongshen Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Mamba-Adaptor_State_Space_Model_Adaptor_for_Visual_Recognition_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_632",
+      "paper_id": "",
+      "title": "Mamba-Reg: Vision Mamba Also Needs Registers",
+      "authors": "Feng Wang, Jiahao Wang, Sucheng Ren, Guoyizhe Wei, Jieru Mei, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Mamba-Reg_Vision_Mamba_Also_Needs_Registers_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1247",
+      "paper_id": "",
+      "title": "MambaIC: State Space Models for High-Performance Learned Image Compression",
+      "authors": "Fanhu Zeng, Hao Tang, Yihua Shao, Siyu Chen, Ling Shao, Yan Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zeng_MambaIC_State_Space_Models_for_High-Performance_Learned_Image_Compression_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1931",
+      "paper_id": "",
+      "title": "MambaIRv2: Attentive State Space Restoration",
+      "authors": "Hang Guo, Yong Guo, Yaohua Zha, Yulun Zhang, Wenbo Li, Tao Dai, Shu-Tao Xia, Yawei Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_MambaIRv2_Attentive_State_Space_Restoration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_67",
+      "paper_id": "",
+      "title": "MambaOut: Do We Really Need Mamba for Vision?",
+      "authors": "Weihao Yu, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_MambaOut_Do_We_Really_Need_Mamba_for_Vision_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2554",
+      "paper_id": "",
+      "title": "MambaVision: A Hybrid Mamba-Transformer Vision Backbone",
+      "authors": "Ali Hatamizadeh, Jan Kautz",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Hatamizadeh_MambaVision_A_Hybrid_Mamba-Transformer_Vision_Backbone_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1288",
+      "paper_id": "",
+      "title": "Manifold Regularized Dynamic Network Pruning",
+      "authors": "Yehui Tang, Yunhe Wang, Yixing Xu, Yiping Deng, Chao Xu, Dacheng Tao, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Manifold_Regularized_Dynamic_Network_Pruning_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_1629",
+      "paper_id": "",
+      "title": "MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining",
+      "authors": "Yunze Liu, Li Yi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_MAP_Unleashing_Hybrid_Mamba-Transformer_Vision_Backbones_Potential_with_Masked_Autoregressive_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_458",
+      "paper_id": "",
+      "title": "MaxQ: Multi-Axis Query for N:M Sparsity Network",
+      "authors": "Jingyang Xiang, Siqi Li, Junhao Chen, Zhuangzhi Chen, Tianxin Huang, Linpeng Peng, Yong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xiang_MaxQ_Multi-Axis_Query_for_NM_Sparsity_Network_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1454",
+      "paper_id": "",
+      "title": "MDL-NAS: A Joint Multi-Domain Learning Framework for Vision Transformer",
+      "authors": "Shiguang Wang, Tao Xie, Jian Cheng, Xingcheng Zhang, Haijun Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_MDL-NAS_A_Joint_Multi-Domain_Learning_Framework_for_Vision_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_285",
+      "paper_id": "",
+      "title": "MDP: Multidimensional Vision Model Pruning with Latency Constraint",
+      "authors": "Xinglong Sun, Barath Lakshmanan, Maying Shen, Shiyi Lan, Jingde Chen, Jose M. Alvarez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_MDP_Multidimensional_Vision_Model_Pruning_with_Latency_Constraint_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_944",
+      "paper_id": "",
+      "title": "Mean-Shift Feature Transformer",
+      "authors": "Takumi Kobayashi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kobayashi_Mean-Shift_Feature_Transformer_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_742",
+      "paper_id": "",
+      "title": "MEET: Towards Memory-Efficient Temporal Sparse Deep Neural Networks",
+      "authors": "Zeqi Zhu, Ibrahim Batuhan Akkaya, Luc Waeijen, Egor Bondarev, Arash Pourtaherian, Orlando Moreira",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_MEET_Towards_Memory-Efficient_Temporal_Sparse_Deep_Neural_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_645",
+      "paper_id": "",
+      "title": "MetaFormer Is Actually What You Need for Vision",
+      "authors": "Weihao Yu, Mi Luo, Pan Zhou, Chenyang Si, Yichen Zhou, Xinchao Wang, Jiashi Feng, Shuicheng Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_849",
+      "paper_id": "",
+      "title": "Minimally Invasive Surgery for Sparse Neural Networks in Contrastive Manner",
+      "authors": "Chong Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Minimally_Invasive_Surgery_for_Sparse_Neural_Networks_in_Contrastive_Manner_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1353",
+      "paper_id": "",
+      "title": "MiniViT: Compressing Vision Transformers With Weight Multiplexing",
+      "authors": "Jinnian Zhang, Houwen Peng, Kan Wu, Mengchen Liu, Bin Xiao, Jianlong Fu, Lu Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_MiniViT_Compressing_Vision_Transformers_With_Weight_Multiplexing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1075",
+      "paper_id": "",
+      "title": "Mitigating Task Interference in Multi-Task Learning via Explicit Task Routing With Non-Learnable Primitives",
+      "authors": "Chuntao Ding, Zhichao Lu, Shangguang Wang, Ran Cheng, Vishnu Naresh Boddeti",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Mitigating_Task_Interference_in_Multi-Task_Learning_via_Explicit_Task_Routing_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_324",
+      "paper_id": "",
+      "title": "MixFormer: Mixing Features Across Windows and Dimensions",
+      "authors": "Qiang Chen, Qiman Wu, Jian Wang, Qinghao Hu, Tao Hu, Errui Ding, Jian Cheng, Jingdong Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_MixFormer_Mixing_Features_Across_Windows_and_Dimensions_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1840",
+      "paper_id": "",
+      "title": "MLP Can Be A Good Transformer Learner",
+      "authors": "Sihao Lin, Pumeng Lyu, Dongrui Liu, Tao Tang, Xiaodan Liang, Andy Song, Xiaojun Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_MLP_Can_Be_A_Good_Transformer_Learner_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_334",
+      "paper_id": "",
+      "title": "Mobile-Former: Bridging MobileNet and Transformer",
+      "authors": "Yinpeng Chen, Xiyang Dai, Dongdong Chen, Mengchen Liu, Xiaoyi Dong, Lu Yuan, Zicheng Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Mobile-Former_Bridging_MobileNet_and_Transformer_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_292",
+      "paper_id": "",
+      "title": "MobileDets: Searching for Object Detection Architectures for Mobile Accelerators",
+      "authors": "Yunyang Xiong, Hanxiao Liu, Suyog Gupta, Berkin Akin, Gabriel Bender, Yongzhe Wang, Pieter-Jan Kindermans, Mingxing Tan, Vikas Singh, Bo Chen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2853",
+      "paper_id": "",
+      "title": "MobileMamba: Lightweight Multi-Receptive Visual Mamba Network",
+      "authors": "Haoyang He, Jiangning Zhang, Yuxuan Cai, Hongxu Chen, Xiaobin Hu, Zhenye Gan, Yabiao Wang, Chengjie Wang, Yunsheng Wu, Lei Xie",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/He_MobileMamba_Lightweight_Multi-Receptive_Visual_Mamba_Network_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_751",
+      "paper_id": "",
+      "title": "MobileOne: An Improved One Millisecond Mobile Backbone",
+      "authors": "Pavan Kumar Anasosalu Vasu, James Gabriel, Jeff Zhu, Oncel Tuzel, Anurag Ranjan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Vasu_MobileOne_An_Improved_One_Millisecond_Mobile_Backbone_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_327",
+      "paper_id": "",
+      "title": "Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners",
+      "authors": "Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik G. Learned-Miller, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Mod-Squad_Designing_Mixtures_of_Experts_As_Modular_Multi-Task_Learners_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1968",
+      "paper_id": "",
+      "title": "MPViT: Multi-Path Vision Transformer for Dense Prediction",
+      "authors": "Youngwan Lee, Jonghee Kim, Jeffrey Willette, Sung Ju Hwang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MPViT_Multi-Path_Vision_Transformer_for_Dense_Prediction_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_507",
+      "paper_id": "",
+      "title": "Mr.BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error",
+      "authors": "Yongkweon Jeon, Chungman Lee, Eulrang Cho, Yeonju Ro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_401",
+      "paper_id": "",
+      "title": "MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens",
+      "authors": "Jiemin Fang, Lingxi Xie, Xinggang Wang, Xiaopeng Zhang, Wenyu Liu, Qi Tian",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Fang_MSG-Transformer_Exchanging_Local_Spatial_Information_by_Manipulating_Messenger_Tokens_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_946",
+      "paper_id": "",
+      "title": "Multi-Agent Automated Machine Learning",
+      "authors": "Zhaozhi Wang, Kefan Su, Jian Zhang, Huizhu Jia, Qixiang Ye, Xiaodong Xie, Zongqing Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Multi-Agent_Automated_Machine_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_56",
+      "paper_id": "",
+      "title": "Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers",
+      "authors": "Sanghyeok Lee, Joonmyung Choi, Hyunwoo J. Kim",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lee_Multi-criteria_Token_Fusion_with_One-step-ahead_Attention_for_Efficient_Vision_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_295",
+      "paper_id": "",
+      "title": "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation",
+      "authors": "Jiaqi Gu, Hyoukjun Kwon, Dilin Wang, Wei Ye, Meng Li, Yu-Hsin Chen, Liangzhen Lai, Vikas Chandra, David Z. Pan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Multi-Scale_High-Resolution_Vision_Transformer_for_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_966",
+      "paper_id": "",
+      "title": "Multi-Task Dense Prediction via Mixture of Low-Rank Experts",
+      "authors": "Yuqi Yang, Peng-Tao Jiang, Qibin Hou, Hao Zhang, Jinwei Chen, Bo Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Multi-Task_Dense_Prediction_via_Mixture_of_Low-Rank_Experts_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1133",
+      "paper_id": "",
+      "title": "MViTv2: Improved Multiscale Vision Transformers for Classification and Detection",
+      "authors": "Yanghao Li, Chao-Yuan Wu, Haoqi Fan, Karttikeya Mangalam, Bo Xiong, Jitendra Malik, Christoph Feichtenhofer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_MViTv2_Improved_Multiscale_Vision_Transformers_for_Classification_and_Detection_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2289",
+      "paper_id": "",
+      "title": "NADER: Neural Architecture Design via Multi-Agent Collaboration",
+      "authors": "Zekang Yang, Wang Zeng, Sheng Jin, Chen Qian, Ping Luo, Wentao Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_NADER_Neural_Architecture_Design_via_Multi-Agent_Collaboration_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2318",
+      "paper_id": "",
+      "title": "NAR-Former: Neural Architecture Representation Learning Towards Holistic Attributes Prediction",
+      "authors": "Yun Yi, Haokui Zhang, Wenze Hu, Nannan Wang, Xiaoyu Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yi_NAR-Former_Neural_Architecture_Representation_Learning_Towards_Holistic_Attributes_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_985",
+      "paper_id": "",
+      "title": "Neighborhood Attention Transformer",
+      "authors": "Ali Hassani, Steven Walton, Jiachen Li, Shen Li, Humphrey Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Hassani_Neighborhood_Attention_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_400",
+      "paper_id": "",
+      "title": "NetAdaptV2: Efficient Neural Architecture Search With Fast Super-Network Training and Architecture Optimization",
+      "authors": "Tien-Ju Yang, Yi-Lun Liao, Vivienne Sze",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_NetAdaptV2_Efficient_Neural_Architecture_Search_With_Fast_Super-Network_Training_and_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1119",
+      "paper_id": "",
+      "title": "Network Expansion for Practical Training Acceleration",
+      "authors": "Ning Ding, Yehui Tang, Kai Han, Chao Xu, Yunhe Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Network_Expansion_for_Practical_Training_Acceleration_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_977",
+      "paper_id": "",
+      "title": "Network Pruning via Performance Maximization",
+      "authors": "Shangqian Gao, Feihu Huang, Weidong Cai, Heng Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Network_Pruning_via_Performance_Maximization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_441",
+      "paper_id": "",
+      "title": "Network Quantization With Element-Wise Gradient Scaling",
+      "authors": "Junghyup Lee, Dohyung Kim, Bumsub Ham",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Network_Quantization_With_Element-Wise_Gradient_Scaling_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1024",
+      "paper_id": "",
+      "title": "Neural Architecture Search With Random Labels",
+      "authors": "Xuanyang Zhang, Pengfei Hou, Xiangyu Zhang, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Neural_Architecture_Search_With_Random_Labels_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1422",
+      "paper_id": "",
+      "title": "Neural Architecture Search With Representation Mutual Information",
+      "authors": "Xiawu Zheng, Xiang Fei, Lei Zhang, Chenglin Wu, Fei Chao, Jianzhuang Liu, Wei Zeng, Yonghong Tian, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Neural_Architecture_Search_With_Representation_Mutual_Information_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1389",
+      "paper_id": "",
+      "title": "NIPQ: Noise Proxy-Based Integrated Pseudo-Quantization",
+      "authors": "Juncheol Shin, Junhyuk So, Sein Park, Seungyeop Kang, Sungjoo Yoo, Eunhyeok Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_NIPQ_Noise_Proxy-Based_Integrated_Pseudo-Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1415",
+      "paper_id": "",
+      "title": "NN-Former: Rethinking Graph Structure in Neural Architecture Representation",
+      "authors": "Ruihan Xu, Haokui Zhang, Yaowei Wang, Wei Zeng, Shiliang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_NN-Former_Rethinking_Graph_Structure_in_Neural_Architecture_Representation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_367",
+      "paper_id": "",
+      "title": "Node Representation Learning in Graph via Node-to-Neighbourhood Mutual Information Maximization",
+      "authors": "Wei Dong, Junsheng Wu, Yi Luo, Zongyuan Ge, Peng Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Node_Representation_Learning_in_Graph_via_Node-to-Neighbourhood_Mutual_Information_Maximization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_193",
+      "paper_id": "",
+      "title": "NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers",
+      "authors": "Yijiang Liu, Huanrui Yang, Zhen Dong, Kurt Keutzer, Li Du, Shanghang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_NoisyQuant_Noisy_Bias-Enhanced_Post-Training_Activation_Quantization_for_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_870",
+      "paper_id": "",
+      "title": "NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition",
+      "authors": "Hao Liu, Xinghua Jiang, Xin Li, Zhimin Bao, Deqiang Jiang, Bo Ren",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_NomMer_Nominate_Synergistic_Context_in_Vision_Transformer_for_Visual_Recognition_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_719",
+      "paper_id": "",
+      "title": "Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation",
+      "authors": "Zechun Liu, Kwang-Ting Cheng, Dong Huang, Eric P. Xing, Zhiqiang Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Nonuniform-to-Uniform_Quantization_Towards_Accurate_Quantization_via_Generalized_Straight-Through_Estimation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_165",
+      "paper_id": "",
+      "title": "NPAS: A Compiler-Aware Framework of Unified Network Pruning and Architecture Search for Beyond Real-Time Mobile Acceleration",
+      "authors": "Zhengang Li, Geng Yuan, Wei Niu, Pu Zhao, Yanyu Li, Yuxuan Cai, Xuan Shen, Zheng Zhan, Zhenglun Kong, Qing Jin, Zhiyu Chen, Sijia Liu, Kaiyuan Yang, Bin Ren, Yanzhi Wang, Xue Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_NPAS_A_Compiler-Aware_Framework_of_Unified_Network_Pruning_and_Architecture_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1275",
+      "paper_id": "",
+      "title": "On the Integration of Self-Attention and Convolution",
+      "authors": "Xuran Pan, Chunjiang Ge, Rui Lu, Shiji Song, Guanfu Chen, Zeyi Huang, Gao Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Pan_On_the_Integration_of_Self-Attention_and_Convolution_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1619",
+      "paper_id": "",
+      "title": "Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression",
+      "authors": "Hancheng Ye, Chong Yu, Peng Ye, Renqiu Xia, Yansong Tang, Jiwen Lu, Tao Chen, Bo Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Once_for_Both_Single_Stage_of_Importance_and_Sparsity_Search_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_788",
+      "paper_id": "",
+      "title": "One-Shot Model for Mixed-Precision Quantization",
+      "authors": "Ivan Koryakovskiy, Alexandra Yakovleva, Valentin Buchnev, Temur Isaev, Gleb Odinokikh",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Koryakovskiy_One-Shot_Model_for_Mixed-Precision_Quantization_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_169",
+      "paper_id": "",
+      "title": "One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking",
+      "authors": "Minghao Chen, Jianlong Fu, Haibin Ling",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_One-Shot_Neural_Ensemble_Architecture_Search_by_Diversity-Guided_Search_Space_Shrinking_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_569",
+      "paper_id": "",
+      "title": "Online Convolutional Re-Parameterization",
+      "authors": "Mu Hu, Junyi Feng, Jiashen Hua, Baisheng Lai, Jianqiang Huang, Xiaojin Gong, Xian-Sheng Hua",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Online_Convolutional_Re-Parameterization_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_627",
+      "paper_id": "",
+      "title": "OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection",
+      "authors": "Tingting Liang, Yongtao Wang, Zhi Tang, Guosheng Hu, Haibin Ling",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liang_OPANAS_One-Shot_Path_Aggregation_Network_Architecture_Search_for_Object_Detection_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_995",
+      "paper_id": "",
+      "title": "Optimal Gradient Checkpoint Search for Arbitrary Computation Graphs",
+      "authors": "Jianwei Feng, Dong Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Optimal_Gradient_Checkpoint_Search_for_Arbitrary_Computation_Graphs_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_351",
+      "paper_id": "",
+      "title": "Optimal Quantization Using Scaled Codebook",
+      "authors": "Yerlan Idelbayev, Pavlo Molchanov, Maying Shen, Hongxu Yin, Miguel A. Carreira-Perpinan, Jose M. Alvarez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Idelbayev_Optimal_Quantization_Using_Scaled_Codebook_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2299",
+      "paper_id": "",
+      "title": "OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning",
+      "authors": "Xinyu Geng, Jiaming Wang, Jiawei Gong, Yuerong Xue, Jun Xu, Fanglin Chen, Xiaolin Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Geng_OrthCaps_An_Orthogonal_CapsNet_with_Sparse_Attention_Routing_and_Pruning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_2630",
+      "paper_id": "",
+      "title": "OverLoCK: An Overview-first-Look-Closely-next ConvNet with Context-Mixing Dynamic Kernels",
+      "authors": "Meng Lou, Yizhou Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lou_OverLoCK_An_Overview-first-Look-Closely-next_ConvNet_with_Context-Mixing_Dynamic_Kernels_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_187",
+      "paper_id": "",
+      "title": "PA&DA: Jointly Sampling Path and Data for Consistent NAS",
+      "authors": "Shun Lu, Yu Hu, Longxing Yang, Zihao Sun, Jilin Mei, Jianchao Tan, Chengru Song",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_PADA_Jointly_Sampling_Path_and_Data_for_Consistent_NAS_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1792",
+      "paper_id": "",
+      "title": "PaCa-ViT: Learning Patch-to-Cluster Attention in Vision Transformers",
+      "authors": "Ryan Grainger, Thomas Paniagua, Xi Song, Naresh Cuntoor, Mun Wai Lee, Tianfu Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Grainger_PaCa-ViT_Learning_Patch-to-Cluster_Attention_in_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_2286",
+      "paper_id": "",
+      "title": "Parallel Sequence Modeling via Generalized Spatial Propagation Network",
+      "authors": "Hongjun Wang, Wonmin Byeon, Jiarui Xu, Jinwei Gu, Ka Chun Cheung, Xiaolong Wang, Kai Han, Jan Kautz, Sifei Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Parallel_Sequence_Modeling_via_Generalized_Spatial_Propagation_Network_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_115",
+      "paper_id": "",
+      "title": "ParameterNet: Parameters Are All You Need for Large-scale Visual Pretraining of Mobile Networks",
+      "authors": "Kai Han, Yunhe Wang, Jianyuan Guo, Enhua Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Han_ParameterNet_Parameters_Are_All_You_Need_for_Large-scale_Visual_Pretraining_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1544",
+      "paper_id": "",
+      "title": "Paramixer: Parameterizing Mixing Links in Sparse Factors Works Better Than Dot-Product Self-Attention",
+      "authors": "Tong Yu, Ruslan Khalitov, Lei Cheng, Zhirong Yang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Paramixer_Parameterizing_Mixing_Links_in_Sparse_Factors_Works_Better_Than_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1727",
+      "paper_id": "",
+      "title": "Patch Slimming for Efficient Vision Transformers",
+      "authors": "Yehui Tang, Kai Han, Yunhe Wang, Chang Xu, Jianyuan Guo, Chao Xu, Dacheng Tao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Patch_Slimming_for_Efficient_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_119",
+      "paper_id": "",
+      "title": "PD-Quant: Post-Training Quantization Based on Prediction Difference Metric",
+      "authors": "Jiawei Liu, Lin Niu, Zhihang Yuan, Dawei Yang, Xinggang Wang, Wenyu Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_PD-Quant_Post-Training_Quantization_Based_on_Prediction_Difference_Metric_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_389",
+      "paper_id": "",
+      "title": "PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution",
+      "authors": "Honghao Chen, Xiangxiang Chu, Yongjian Ren, Xin Zhao, Kaiqi Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PeLK_Parameter-efficient_Large_Kernel_ConvNets_with_Peripheral_Convolution_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_433",
+      "paper_id": "",
+      "title": "Performance-Aware Mutual Knowledge Distillation for Improving Neural Architecture Search",
+      "authors": "Pengtao Xie, Xuefeng Du",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1391",
+      "paper_id": "",
+      "title": "Permute, Quantize, and Fine-Tune: Efficient Compression of Neural Networks",
+      "authors": "Julieta Martinez, Jashan Shewakramani, Ting Wei Liu, Ioan Andrei Barsan, Wenyuan Zeng, Raquel Urtasun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Martinez_Permute_Quantize_and_Fine-Tune_Efficient_Compression_of_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_532",
+      "paper_id": "",
+      "title": "PHA: Patch-Wise High-Frequency Augmentation for Transformer-Based Person Re-Identification",
+      "authors": "Guiwei Zhang, Yongfei Zhang, Tianyu Zhang, Bo Li, Shiliang Pu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PHA_Patch-Wise_High-Frequency_Augmentation_for_Transformer-Based_Person_Re-Identification_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1741",
+      "paper_id": "",
+      "title": "Pick-or-Mix: Dynamic Channel Sampling for ConvNets",
+      "authors": "Ashish Kumar, Daneul Kim, Jaesik Park, Laxmidhar Behera",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Kumar_Pick-or-Mix_Dynamic_Channel_Sampling_for_ConvNets_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_1248",
+      "paper_id": "",
+      "title": "PikeLPN: Mitigating Overlooked Inefficiencies of Low-Precision Neural Networks",
+      "authors": "Marina Neseem, Conor McCullough, Randy Hsin, Chas Leichner, Shan Li, In Suk Chong, Andrew Howard, Lukasz Lew, Sherief Reda, Ville-Mikko Rautio, Daniele Moro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Neseem_PikeLPN_Mitigating_Overlooked_Inefficiencies_of_Low-Precision_Neural_Networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1941",
+      "paper_id": "",
+      "title": "PokeBNN: A Binary Pursuit of Lightweight Accuracy",
+      "authors": "Yichi Zhang, Zhiru Zhang, Lukasz Lew",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_PokeBNN_A_Binary_Pursuit_of_Lightweight_Accuracy_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1403",
+      "paper_id": "",
+      "title": "Poly-PC: A Polyhedral Network for Multiple Point Cloud Tasks at Once",
+      "authors": "Tao Xie, Shiguang Wang, Ke Wang, Linqi Yang, Zhiqiang Jiang, Xingcheng Zhang, Kun Dai, Ruifeng Li, Jian Cheng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Poly-PC_A_Polyhedral_Network_for_Multiple_Point_Cloud_Tasks_at_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1724",
+      "paper_id": "",
+      "title": "Pooling Revisited: Your Receptive Field Is Suboptimal",
+      "authors": "Dong-Hwan Jang, Sanghyeok Chu, Joonhyuk Kim, Bohyung Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Jang_Pooling_Revisited_Your_Receptive_Field_Is_Suboptimal_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_2247",
+      "paper_id": "",
+      "title": "Practical Network Acceleration With Tiny Sets",
+      "authors": "Guo-Hua Wang, Jianxin Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Practical_Network_Acceleration_With_Tiny_Sets_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1019",
+      "paper_id": "",
+      "title": "Prioritized Architecture Sampling With Monto-Carlo Tree Search",
+      "authors": "Xiu Su, Tao Huang, Yanxi Li, Shan You, Fei Wang, Chen Qian, Changshui Zhang, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Su_Prioritized_Architecture_Sampling_With_Monto-Carlo_Tree_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1958",
+      "paper_id": "",
+      "title": "Pruning Parameterization With Bi-Level Optimization for Efficient Semantic Segmentation on the Edge",
+      "authors": "Changdi Yang, Pu Zhao, Yanyu Li, Wei Niu, Jiexiong Guan, Hao Tang, Minghai Qin, Bin Ren, Xue Lin, Yanzhi Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Pruning_Parameterization_With_Bi-Level_Optimization_for_Efficient_Semantic_Segmentation_on_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1899",
+      "paper_id": "",
+      "title": "PTQ4SAM: Post-Training Quantization for Segment Anything",
+      "authors": "Chengtao Lv, Hong Chen, Jinyang Guo, Yifu Ding, Xianglong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Lv_PTQ4SAM_Post-Training_Quantization_for_Segment_Anything_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_441",
+      "paper_id": "",
+      "title": "Q-DETR: An Efficient Low-Bit Quantized Detection Transformer",
+      "authors": "Sheng Xu, Yanjing Li, Mingbao Lin, Peng Gao, Guodong Guo, Jinhu Lü, Baochang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Q-DETR_An_Efficient_Low-Bit_Quantized_Detection_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_497",
+      "paper_id": "",
+      "title": "QPP: Real-Time Quantization Parameter Prediction for Deep Neural Networks",
+      "authors": "Vladimir Kryzhanovskiy, Gleb Balitskiy, Nikolay Kozyrskiy, Aleksandr Zuruev",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Kryzhanovskiy_QPP_Real-Time_Quantization_Parameter_Prediction_for_Deep_Neural_Networks_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2048",
+      "paper_id": "",
+      "title": "Quantifying Task Priority for Multi-Task Optimization",
+      "authors": "Wooseong Jeong, Kuk-Jin Yoon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Jeong_Quantifying_Task_Priority_for_Multi-Task_Optimization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_757",
+      "paper_id": "",
+      "title": "Quantization without Tears",
+      "authors": "Minghao Fu, Hao Yu, Jie Shao, Junjie Zhou, Ke Zhu, Jianxin Wu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Quantization_without_Tears_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1526",
+      "paper_id": "",
+      "title": "RaScaNet: Learning Tiny Models by Raster-Scanning Images",
+      "authors": "Jaehyoung Yoo, Dongwook Lee, Changyong Son, Sangil Jung, ByungIn Yoo, Changkyu Choi, Jae-Joon Han, Bohyung Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yoo_RaScaNet_Learning_Tiny_Models_by_Raster-Scanning_Images_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1288",
+      "paper_id": "",
+      "title": "Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks",
+      "authors": "Tong Bu, Jianhao Ding, Zecheng Hao, Zhaofei Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Bu_Rate_Gradient_Approximation_Attack_Threats_Deep_Spiking_Neural_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_1856",
+      "paper_id": "",
+      "title": "RecDis-SNN: Rectifying Membrane Potential Distribution for Directly Training Spiking Neural Networks",
+      "authors": "Yufei Guo, Xinyi Tong, Yuanpei Chen, Liwen Zhang, Xiaode Liu, Zhe Ma, Xuhui Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_RecDis-SNN_Rectifying_Membrane_Potential_Distribution_for_Directly_Training_Spiking_Neural_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_1556",
+      "paper_id": "",
+      "title": "Reg-PTQ: Regression-specialized Post-training Quantization for Fully Quantized Object Detector",
+      "authors": "Yifu Ding, Weilun Feng, Chuyan Chen, Jinyang Guo, Xianglong Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Reg-PTQ_Regression-specialized_Post-training_Quantization_for_Fully_Quantized_Object_Detector_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_117",
+      "paper_id": "",
+      "title": "ReNAS: Relativistic Evaluation of Neural Architecture Search",
+      "authors": "Yixing Xu, Yunhe Wang, Kai Han, Yehui Tang, Shangling Jui, Chunjing Xu, Chang Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_ReNAS_Relativistic_Evaluation_of_Neural_Architecture_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2686",
+      "paper_id": "",
+      "title": "RepAn: Enhanced Annealing through Re-parameterization",
+      "authors": "Xiang Fei, Xiawu Zheng, Yan Wang, Fei Chao, Chenglin Wu, Liujuan Cao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fei_RepAn_Enhanced_Annealing_through_Re-parameterization_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1261",
+      "paper_id": "",
+      "title": "RepMLPNet: Hierarchical Vision MLP With Re-Parameterized Locality",
+      "authors": "Xiaohan Ding, Honghao Chen, Xiangyu Zhang, Jungong Han, Guiguang Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_RepMLPNet_Hierarchical_Vision_MLP_With_Re-Parameterized_Locality_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1946",
+      "paper_id": "",
+      "title": "RepMode: Learning to Re-Parameterize Diverse Experts for Subcellular Structure Prediction",
+      "authors": "Donghao Zhou, Chunbin Gu, Junde Xu, Furui Liu, Qiong Wang, Guangyong Chen, Pheng-Ann Heng",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_RepMode_Learning_to_Re-Parameterize_Diverse_Experts_for_Subcellular_Structure_Prediction_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1218",
+      "paper_id": "",
+      "title": "RepVGG: Making VGG-Style ConvNets Great Again",
+      "authors": "Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_RepVGG_Making_VGG-Style_ConvNets_Great_Again_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2639",
+      "paper_id": "",
+      "title": "RepViT: Revisiting Mobile CNN From ViT Perspective",
+      "authors": "Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_RepViT_Revisiting_Mobile_CNN_From_ViT_Perspective_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_113",
+      "paper_id": "",
+      "title": "ResFormer: Scaling ViTs With Multi-Resolution Training",
+      "authors": "Rui Tian, Zuxuan Wu, Qi Dai, Han Hu, Yu Qiao, Yu-Gang Jiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_ResFormer_Scaling_ViTs_With_Multi-Resolution_Training_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_972",
+      "paper_id": "",
+      "title": "Rethinking Channel Dimensions for Efficient Model Design",
+      "authors": "Dongyoon Han, Sangdoo Yun, Byeongho Heo, YoungJoon Yoo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Han_Rethinking_Channel_Dimensions_for_Efficient_Model_Design_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1280",
+      "paper_id": "",
+      "title": "Rethinking Graph Neural Architecture Search From Message-Passing",
+      "authors": "Shaofei Cai, Liang Li, Jincan Deng, Beichen Zhang, Zheng-Jun Zha, Li Su, Qingming Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Cai_Rethinking_Graph_Neural_Architecture_Search_From_Message-Passing_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2085",
+      "paper_id": "",
+      "title": "Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers",
+      "authors": "Yichen Xiao, Shuai Wang, Dehao Zhang, Wenjie Wei, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_2320",
+      "paper_id": "",
+      "title": "Retraining-Free Model Quantization via One-Shot Weight-Coupling Learning",
+      "authors": "Chen Tang, Yuan Meng, Jiacheng Jiang, Shuzhao Xie, Rongwei Lu, Xinzhu Ma, Zhi Wang, Wenwu Zhu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Retraining-Free_Model_Quantization_via_One-Shot_Weight-Coupling_Learning_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_584",
+      "paper_id": "",
+      "title": "Reversible Vision Transformers",
+      "authors": "Karttikeya Mangalam, Haoqi Fan, Yanghao Li, Chao-Yuan Wu, Bo Xiong, Christoph Feichtenhofer, Jitendra Malik",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Mangalam_Reversible_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1136",
+      "paper_id": "",
+      "title": "Revisiting Fairness in Multitask Learning: A Performance-Driven Approach for Variance Reduction",
+      "authors": "Xiaohan Qin, Xiaoxing Wang, Junchi Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Revisiting_Fairness_in_Multitask_Learning_A_Performance-Driven_Approach_for_Variance_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_430",
+      "paper_id": "",
+      "title": "Revisiting Random Channel Pruning for Neural Network Compression",
+      "authors": "Yawei Li, Kamil Adamczewski, Wen Li, Shuhang Gu, Radu Timofte, Luc Van Gool",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Revisiting_Random_Channel_Pruning_for_Neural_Network_Compression_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_372",
+      "paper_id": "",
+      "title": "Rewrite the Stars",
+      "authors": "Xu Ma, Xiyang Dai, Yue Bai, Yizhou Wang, Yun Fu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Rewrite_the_Stars_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_1136",
+      "paper_id": "",
+      "title": "RGB No More: Minimally-Decoded JPEG Vision Transformers",
+      "authors": "Jeongsoo Park, Justin Johnson",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Park_RGB_No_More_Minimally-Decoded_JPEG_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1125",
+      "paper_id": "",
+      "title": "RIFormer: Keep Your Vision Backbone Effective but Removing Token Mixer",
+      "authors": "Jiahao Wang, Songyang Zhang, Yong Liu, Taiqiang Wu, Yujiu Yang, Xihui Liu, Kai Chen, Ping Luo, Dahua Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_RIFormer_Keep_Your_Vision_Backbone_Effective_but_Removing_Token_Mixer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_2068",
+      "paper_id": "",
+      "title": "RMT: Retentive Networks Meet Vision Transformers",
+      "authors": "Qihang Fan, Huaibo Huang, Mingrui Chen, Hongmin Liu, Ran He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_RMT_Retentive_Networks_Meet_Vision_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr23_330",
+      "paper_id": "",
+      "title": "Run, Don't Walk: Chasing Higher FLOPS for Faster Neural Networks",
+      "authors": "Jierun Chen, Shiu-hong Kao, Hao He, Weipeng Zhuo, Song Wen, Chul-Ho Lee, S.-H. Gary Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Run_Dont_Walk_Chasing_Higher_FLOPS_for_Faster_Neural_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1648",
+      "paper_id": "",
+      "title": "S2-BNN: Bridging the Gap Between Self-Supervised Real and 1-Bit Neural Networks via Guided Distribution Calibration",
+      "authors": "Zhiqiang Shen, Zechun Liu, Jie Qin, Lei Huang, Kwang-Ting Cheng, Marios Savvides",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_S2-BNN_Bridging_the_Gap_Between_Self-Supervised_Real_and_1-Bit_Neural_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_2563",
+      "paper_id": "",
+      "title": "SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer",
+      "authors": "Hongda Liu, Longguang Wang, Ye Zhang, Ziru Yu, Yulan Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SaMam_Style-aware_State_Space_Model_for_Arbitrary_Image_Style_Transfer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1036",
+      "paper_id": "",
+      "title": "Samba: A Unified Mamba-based Framework for General Salient Object Detection",
+      "authors": "Jiahao He, Keren Fu, Xiaohong Liu, Qijun Zhao",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/He_Samba_A_Unified_Mamba-based_Framework_for_General_Salient_Object_Detection_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_949",
+      "paper_id": "",
+      "title": "Scaling Local Self-Attention for Parameter Efficient Visual Backbones",
+      "authors": "Ashish Vaswani, Prajit Ramachandran, Aravind Srinivas, Niki Parmar, Blake Hechtman, Jonathon Shlens",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Vaswani_Scaling_Local_Self-Attention_for_Parameter_Efficient_Visual_Backbones_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_411",
+      "paper_id": "",
+      "title": "Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs",
+      "authors": "Xiaohan Ding, Xiangyu Zhang, Jungong Han, Guiguang Ding",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Scaling_Up_Your_Kernels_to_31x31_Revisiting_Large_Kernel_Design_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_2010",
+      "paper_id": "",
+      "title": "Scaling Vision Transformers",
+      "authors": "Xiaohua Zhai, Alexander Kolesnikov, Neil Houlsby, Lucas Beyer",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhai_Scaling_Vision_Transformers_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_513",
+      "paper_id": "",
+      "title": "SCConv: Spatial and Channel Reconstruction Convolution for Feature Redundancy",
+      "authors": "Jiafeng Li, Ying Wen, Lianghua He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SCConv_Spatial_and_Channel_Reconstruction_Convolution_for_Feature_Redundancy_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_1268",
+      "paper_id": "",
+      "title": "Searching by Generating: Flexible and Efficient One-Shot NAS With Architecture Generator",
+      "authors": "Sian-Yao Huang, Wei-Ta Chu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Searching_by_Generating_Flexible_and_Efficient_One-Shot_NAS_With_Architecture_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1211",
+      "paper_id": "",
+      "title": "Searching for Fast Model Families on Datacenter Accelerators",
+      "authors": "Sheng Li, Mingxing Tan, Ruoming Pang, Andrew Li, Liqun Cheng, Quoc V. Le, Norman P. Jouppi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Searching_for_Fast_Model_Families_on_Datacenter_Accelerators_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_56",
+      "paper_id": "",
+      "title": "Searching the Deployable Convolution Neural Networks for GPUs",
+      "authors": "Linnan Wang, Chenhan Yu, Satish Salian, Slawomir Kierat, Szymon Migacz, Alex Fit Florea",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Searching_the_Deployable_Convolution_Neural_Networks_for_GPUs_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_112",
+      "paper_id": "",
+      "title": "SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network",
+      "authors": "Xu Yang, Cheng Deng, Zhiyuan Dang, Kun Wei, Junchi Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_SelfSAGCN_Self-Supervised_Semantic_Alignment_for_Graph_Convolution_Network_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1984",
+      "paper_id": "",
+      "title": "Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search",
+      "authors": "Han Xiao, Ziwei Wang, Zheng Zhu, Jie Zhou, Jiwen Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xiao_Shapley-NAS_Discovering_Operation_Contribution_for_Neural_Architecture_Search_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1086",
+      "paper_id": "",
+      "title": "ShiftwiseConv: Small Convolutional Kernel with Large Kernel Effect",
+      "authors": "Dachong Li, Li Li, Zhuangzhuang Chen, Jianqiang Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Li_ShiftwiseConv_Small_Convolutional_Kernel_with_Large_Kernel_Effect_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1605",
+      "paper_id": "",
+      "title": "Shunted Self-Attention via Multi-Scale Token Aggregation",
+      "authors": "Sucheng Ren, Daquan Zhou, Shengfeng He, Jiashi Feng, Xinchao Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Shunted_Self-Attention_via_Multi-Scale_Token_Aggregation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr24_222",
+      "paper_id": "",
+      "title": "SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design",
+      "authors": "Seokju Yun, Youngmin Ro",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yun_SHViT_Single-Head_Vision_Transformer_with_Memory_Efficient_Macro_Design_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr21_1627",
+      "paper_id": "",
+      "title": "Skip-Convolutions for Efficient Video Processing",
+      "authors": "Amirhossein Habibian, Davide Abati, Taco S. Cohen, Babak Ehteshami Bejnordi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Habibian_Skip-Convolutions_for_Efficient_Video_Processing_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1252",
+      "paper_id": "",
+      "title": "Slide-Transformer: Hierarchical Vision Transformer With Local Self-Attention",
+      "authors": "Xuran Pan, Tianzhu Ye, Zhuofan Xia, Shiji Song, Gao Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Slide-Transformer_Hierarchical_Vision_Transformer_With_Local_Self-Attention_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_575",
+      "paper_id": "",
+      "title": "Smooth Maximum Unit: Smooth Activation Function for Deep Networks Using Smoothing Maximum Technique",
+      "authors": "Koushik Biswas, Sandeep Kumar, Shilpak Banerjee, Ashish Kumar Pandey",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Biswas_Smooth_Maximum_Unit_Smooth_Activation_Function_for_Deep_Networks_Using_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_1842",
+      "paper_id": "",
+      "title": "SMPConv: Self-Moving Point Representations for Continuous Convolution",
+      "authors": "Sanghyeon Kim, Eunbyung Park",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_SMPConv_Self-Moving_Point_Representations_for_Continuous_Convolution_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1314",
+      "paper_id": "",
+      "title": "Solving Oscillation Problem in Post-Training Quantization Through a Theoretical Perspective",
+      "authors": "Yuexiao Ma, Huixia Li, Xiawu Zheng, Xuefeng Xiao, Rui Wang, Shilei Wen, Xin Pan, Fei Chao, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_Solving_Oscillation_Problem_in_Post-Training_Quantization_Through_a_Theoretical_Perspective_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1801",
+      "paper_id": "",
+      "title": "SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer",
+      "authors": "Xuanyao Chen, Zhijian Liu, Haotian Tang, Li Yi, Hang Zhao, Song Han",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_SparseViT_Revisiting_Activation_Sparsity_for_Efficient_High-Resolution_Vision_Transformer_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr23_1142",
+      "paper_id": "",
+      "title": "Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers",
+      "authors": "Cong Wei, Brendan Duke, Ruowei Jiang, Parham Aarabi, Graham W. Taylor, Florian Shkurti",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Sparsifiner_Learning_Sparse_Instance-Dependent_Attention_for_Efficient_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_269",
+      "paper_id": "",
+      "title": "Spectral State Space Model for Rotation-Invariant Visual Representation Learning",
+      "authors": "Sahar Dastani, Ali Bahri, Moslem Yazdanpanah, Mehrdad Noori, David Osowiechi, Gustavo Adolfo Vargas Hakim, Farzad Beizaee, Milad Cheraghalikhani, Arnab Kumar Mondal, Herve Lombaert, Christian Desrosiers",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Dastani_Spectral_State_Space_Model_for_Rotation-Invariant_Visual_Representation_Learning_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_97",
+      "paper_id": "",
+      "title": "Spiking Transformer with Spatial-Temporal Attention",
+      "authors": "Donghyun Lee, Yuhang Li, Youngeun Kim, Shiting Xiao, Priyadarshini Panda",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_Spiking_Transformer_with_Spatial-Temporal_Attention_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_2494",
+      "paper_id": "",
+      "title": "Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer",
+      "authors": "Yufei Guo, Xiaode Liu, Yuanpei Chen, Weihang Peng, Yuhan Zhang, Zhe Ma",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Guo_Spiking_Transformer_Introducing_Accurate_Addition-Only_Spiking_Self-Attention_for_Transformer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1901",
+      "paper_id": "",
+      "title": "SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks",
+      "authors": "Xinyu Shi, Zecheng Hao, Zhaofei Yu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_SpikingResformer_Bridging_ResNet_and_Vision_Transformer_in_Spiking_Neural_Networks_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1384",
+      "paper_id": "",
+      "title": "SplitNets: Designing Neural Architectures for Efficient Distributed Computing on Head-Mounted Systems",
+      "authors": "Xin Dong, Barbara De Salvo, Meng Li, Chiao Liu, Zhongnan Qu, H.T. Kung, Ziyun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_SplitNets_Designing_Neural_Architectures_for_Efficient_Distributed_Computing_on_Head-Mounted_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_2098",
+      "paper_id": "",
+      "title": "STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks",
+      "authors": "Tianqing Zhang, Kairong Yu, Xian Zhong, Hongwei Wang, Qi Xu, Qiang Zhang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_STAA-SNN_Spatial-Temporal_Attention_Aggregator_for_Spiking_Neural_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1145",
+      "paper_id": "",
+      "title": "Star with Bilinear Mapping",
+      "authors": "Zelin Peng, Yu Huang, Zhengqin Xu, Feilong Tang, Ming Hu, Xiaokang Yang, Wei Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Peng_Star_with_Bilinear_Mapping_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_2115",
+      "paper_id": "",
+      "title": "Stitchable Neural Networks",
+      "authors": "Zizheng Pan, Jianfei Cai, Bohan Zhuang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Stitchable_Neural_Networks_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr22_2069",
+      "paper_id": "",
+      "title": "Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models",
+      "authors": "Feng Cheng, Mingze Xu, Yuanjun Xiong, Hao Chen, Xinyu Li, Wei Li, Wei Xia",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Stochastic_Backpropagation_A_Memory_Efficient_Strategy_for_Training_Video_Models_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1330",
+      "paper_id": "",
+      "title": "Subnet-Aware Dynamic Supernet Training for Neural Architecture Search",
+      "authors": "Jeimin Jeon, Youngmin Oh, Junghyup Lee, Donghyeon Baek, Dohyung Kim, Chanho Eom, Bumsub Ham",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Jeon_Subnet-Aware_Dynamic_Supernet_Training_for_Neural_Architecture_Search_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_1558",
+      "paper_id": "",
+      "title": "Supervised Masked Knowledge Distillation for Few-Shot Transformers",
+      "authors": "Han Lin, Guangxing Han, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Supervised_Masked_Knowledge_Distillation_for_Few-Shot_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_44",
+      "paper_id": "",
+      "title": "SVDinsTN: A Tensor Network Paradigm for Efficient Structure Search from Regularized Modeling Perspective",
+      "authors": "Yu-Bang Zheng, Xi-Le Zhao, Junhua Zeng, Chao Li, Qibin Zhao, Heng-Chao Li, Ting-Zhu Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_SVDinsTN_A_Tensor_Network_Paradigm_for_Efficient_Structure_Search_from_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_119",
+      "paper_id": "",
+      "title": "Swin Transformer V2: Scaling Up Capacity and Resolution",
+      "authors": "Ze Liu, Han Hu, Yutong Lin, Zhuliang Yao, Zhenda Xie, Yixuan Wei, Jia Ning, Yue Cao, Zheng Zhang, Li Dong, Furu Wei, Baining Guo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Swin_Transformer_V2_Scaling_Up_Capacity_and_Resolution_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr21_1621",
+      "paper_id": "",
+      "title": "Taskology: Utilizing Task Relations at Scale",
+      "authors": "Yao Lu, Soren Pirk, Jan Dlabal, Anthony Brohan, Ankita Pasad, Zhao Chen, Vincent Casser, Anelia Angelova, Ariel Gordon",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lu_Taskology_Utilizing_Task_Relations_at_Scale_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr23_1784",
+      "paper_id": "",
+      "title": "Teaching Matters: Investigating the Role of Supervision in Vision Transformers",
+      "authors": "Matthew Walmer, Saksham Suri, Kamal Gupta, Abhinav Shrivastava",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Walmer_Teaching_Matters_Investigating_the_Role_of_Supervision_in_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1275",
+      "paper_id": "",
+      "title": "Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks",
+      "authors": "Kairong Yu, Chengting Yu, Tianqing Zhang, Xiaochen Zhao, Shu Yang, Hongwei Wang, Qiang Zhang, Qi Xu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_Temporal_Separation_with_Entropy_Regularization_for_Knowledge_Distillation_in_Spiking_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_1544",
+      "paper_id": "",
+      "title": "The Heterogeneity Hypothesis: Finding Layer-Wise Differentiated Network Architectures",
+      "authors": "Yawei Li, Wen Li, Martin Danelljan, Kai Zhang, Shuhang Gu, Luc Van Gool, Radu Timofte",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_The_Heterogeneity_Hypothesis_Finding_Layer-Wise_Differentiated_Network_Architectures_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_918",
+      "paper_id": "",
+      "title": "The Lottery Ticket Hypothesis for Object Recognition",
+      "authors": "Sharath Girish, Shishira R Maiya, Kamal Gupta, Hao Chen, Larry S. Davis, Abhinav Shrivastava",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Girish_The_Lottery_Ticket_Hypothesis_for_Object_Recognition_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_1085",
+      "paper_id": "",
+      "title": "The Lottery Tickets Hypothesis for Supervised and Self-Supervised Pre-Training in Computer Vision Models",
+      "authors": "Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, Zhangyang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_The_Lottery_Tickets_Hypothesis_for_Supervised_and_Self-Supervised_Pre-Training_in_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_998",
+      "paper_id": "",
+      "title": "The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy",
+      "authors": "Tianlong Chen, Zhenyu Zhang, Yu Cheng, Ahmed Awadallah, Zhangyang Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_The_Principle_of_Diversity_Training_Stronger_Vision_Transformers_Calls_for_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_805",
+      "paper_id": "",
+      "title": "Three Guidelines You Should Know for Universally Slimmable Self-Supervised Learning",
+      "authors": "Yun-Hao Cao, Peiqin Sun, Shuchang Zhou",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Three_Guidelines_You_Should_Know_for_Universally_Slimmable_Self-Supervised_Learning_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr25_1670",
+      "paper_id": "",
+      "title": "Token Cropr: Faster ViTs for Quite a Few Tasks",
+      "authors": "Benjamin Bergner, Christoph Lippert, Aravindh Mahendran",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Bergner_Token_Cropr_Faster_ViTs_for_Quite_a_Few_Tasks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1537",
+      "paper_id": "",
+      "title": "TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation",
+      "authors": "Wenqiang Zhang, Zilong Huang, Guozhong Luo, Tao Chen, Xinggang Wang, Wenyu Liu, Gang Yu, Chunhua Shen",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_TopFormer_Token_Pyramid_Transformer_for_Mobile_Semantic_Segmentation_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1240",
+      "paper_id": "",
+      "title": "Total Variation Optimization Layers for Computer Vision",
+      "authors": "Raymond A. Yeh, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Yeh_Total_Variation_Optimization_Layers_for_Computer_Vision_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_678",
+      "paper_id": "",
+      "title": "Toward Accurate Post-Training Quantization for Image Super Resolution",
+      "authors": "Zhijun Tu, Jie Hu, Hanting Chen, Yunhe Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tu_Toward_Accurate_Post-Training_Quantization_for_Image_Super_Resolution_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr21_777",
+      "paper_id": "",
+      "title": "Towards Compact CNNs via Collaborative Compression",
+      "authors": "Yuchao Li, Shaohui Lin, Jianzhuang Liu, Qixiang Ye, Mengdi Wang, Fei Chao, Fan Yang, Jincheng Ma, Qi Tian, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Towards_Compact_CNNs_via_Collaborative_Compression_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr25_760",
+      "paper_id": "",
+      "title": "Towards Consistent Multi-Task Learning: Unlocking the Potential of Task-Specific Parameters",
+      "authors": "Xiaohan Qin, Xiaoxing Wang, Junchi Yan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Towards_Consistent_Multi-Task_Learning_Unlocking_the_Potential_of_Task-Specific_Parameters_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr25_1714",
+      "paper_id": "",
+      "title": "Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients",
+      "authors": "Li Lun, Kunyu Feng, Qinglong Ni, Ling Liang, Yuan Wang, Ying Li, Dunshan Yu, Xiaoxin Cui",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lun_Towards_Effective_and_Sparse_Adversarial_Attack_on_Spiking_Neural_Networks_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_540",
+      "paper_id": "",
+      "title": "Towards Efficient Tensor Decomposition-Based DNN Model Compression With Optimization Framework",
+      "authors": "Miao Yin, Yang Sui, Siyu Liao, Bo Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Towards_Efficient_Tensor_Decomposition-Based_DNN_Model_Compression_With_Optimization_Framework_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_809",
+      "paper_id": "",
+      "title": "Towards Extremely Compact RNNs for Video Recognition With Fully Decomposed Hierarchical Tucker Structure",
+      "authors": "Miao Yin, Siyu Liao, Xiao-Yang Liu, Xiaodong Wang, Bo Yuan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Towards_Extremely_Compact_RNNs_for_Video_Recognition_With_Fully_Decomposed_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr21_900",
+      "paper_id": "",
+      "title": "Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search",
+      "authors": "Yibo Yang, Shan You, Hongyang Li, Fei Wang, Chen Qian, Zhouchen Lin",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Towards_Improving_the_Consistency_Efficiency_and_Flexibility_of_Differentiable_Neural_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr22_1449",
+      "paper_id": "",
+      "title": "Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation",
+      "authors": "Qingyan Meng, Mingqing Xiao, Shen Yan, Yisen Wang, Zhouchen Lin, Zhi-Quan Luo",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1411",
+      "paper_id": "",
+      "title": "Training Quantised Neural Networks With STE Variants: The Additive Noise Annealing Algorithm",
+      "authors": "Matteo Spallanzani, Gian Paolo Leonardi, Luca Benini",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Spallanzani_Training_Quantised_Neural_Networks_With_STE_Variants_The_Additive_Noise_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_611",
+      "paper_id": "",
+      "title": "Training-free Neural Architecture Search through Variance of Knowledge of Deep Network Weights",
+      "authors": "Ondrej Tybl, Lukas Neumann",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Tybl_Training-free_Neural_Architecture_Search_through_Variance_of_Knowledge_of_Deep_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_1533",
+      "paper_id": "",
+      "title": "Training-Free Transformer Architecture Search",
+      "authors": "Qinqin Zhou, Kekai Sheng, Xiawu Zheng, Ke Li, Xing Sun, Yonghong Tian, Jie Chen, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Training-Free_Transformer_Architecture_Search_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_38",
+      "paper_id": "",
+      "title": "Transformers without Normalization",
+      "authors": "Jiachen Zhu, Xinlei Chen, Kaiming He, Yann LeCun, Zhuang Liu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Transformers_without_Normalization_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_159",
+      "paper_id": "",
+      "title": "TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search",
+      "authors": "Yawen Duan, Xin Chen, Hang Xu, Zewei Chen, Xiaodan Liang, Tong Zhang, Zhenguo Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_2623",
+      "paper_id": "",
+      "title": "TransNeXt: Robust Foveal Visual Perception for Vision Transformers",
+      "authors": "Dai Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shi_TransNeXt_Robust_Foveal_Visual_Perception_for_Vision_Transformers_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1524",
+      "paper_id": "",
+      "title": "TSP-Mamba: The Travelling Salesman Problem Meets Mamba for Image Super-resolution and Beyond",
+      "authors": "Kun Zhou, Xinyu Lin, Jiangbo Lu",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_TSP-Mamba_The_Travelling_Salesman_Problem_Meets_Mamba_for_Image_Super-resolution_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr22_861",
+      "paper_id": "",
+      "title": "TVConv: Efficient Translation Variant Convolution for Layout-Aware Visual Processing",
+      "authors": "Jierun Chen, Tianlang He, Weipeng Zhuo, Li Ma, Sangtae Ha, S.-H. Gary Chan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_TVConv_Efficient_Translation_Variant_Convolution_for_Layout-Aware_Visual_Processing_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_1864",
+      "paper_id": "",
+      "title": "UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming",
+      "authors": "Hao Lin, Ke Wu, Jie Li, Jun Li, Wu-Jun Li",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_UniAP_Unifying_Inter-_and_Intra-Layer_Automatic_Parallelism_by_Mixed_Integer_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr24_1800",
+      "paper_id": "",
+      "title": "UniPTS: A Unified Framework for Proficient Post-Training Sparsity",
+      "authors": "Jingjing Xie, Yuxin Zhang, Mingbao Lin, Liujuan Cao, Rongrong Ji",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_UniPTS_A_Unified_Framework_for_Proficient_Post-Training_Sparsity_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2579",
+      "paper_id": "",
+      "title": "UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio Video Point Cloud Time-Series and Image Recognition",
+      "authors": "Xiaohan Ding, Yiyuan Zhang, Yixiao Ge, Sijie Zhao, Lin Song, Xiangyu Yue, Ying Shan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_UniRepLKNet_A_Universal_Perception_Large-Kernel_ConvNet_for_Audio_Video_Point_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr24_2248",
+      "paper_id": "",
+      "title": "Unleashing Channel Potential: Space-Frequency Selection Convolution for SAR Object Detection",
+      "authors": "Ke Li, Di Wang, Zhangyuan Hu, Wenxuan Zhu, Shaofeng Li, Quan Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Unleashing_Channel_Potential_Space-Frequency_Selection_Convolution_for_SAR_Object_Detection_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1456",
+      "paper_id": "",
+      "title": "Unsupervised Representation Learning for Binary Networks by Joint Classifier Learning",
+      "authors": "Dahyun Kim, Jonghyun Choi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Unsupervised_Representation_Learning_for_Binary_Networks_by_Joint_Classifier_Learning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_1371",
+      "paper_id": "",
+      "title": "Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space",
+      "authors": "Arnav Chavan, Zhiqiang Shen, Zhuang Liu, Zechun Liu, Kwang-Ting Cheng, Eric P. Xing",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chavan_Vision_Transformer_Slimming_Multi-Dimension_Searching_in_Continuous_Optimization_Space_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr22_62",
+      "paper_id": "",
+      "title": "Vision Transformer With Deformable Attention",
+      "authors": "Zhuofan Xia, Xuran Pan, Shiji Song, Li Erran Li, Gao Huang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr25_668",
+      "paper_id": "",
+      "title": "VISTREAM: Improving Computation Efficiency of Visual Streaming Perception via Law-of-Charge-Conservation Inspired Spiking Neural Network",
+      "authors": "Kang You, Ziling Wei, Jing Yan, Boning Zhang, Qinghai Guo, Yaoyu Zhang, Zhezhi He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/You_VISTREAM_Improving_Computation_Efficiency_of_Visual_Streaming_Perception_via_Law-of-Charge-Conservation_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr23_501",
+      "paper_id": "",
+      "title": "Visual Dependency Transformers: Dependency Tree Emerges From Reversed Attention",
+      "authors": "Mingyu Ding, Yikang Shen, Lijie Fan, Zhenfang Chen, Zitian Chen, Ping Luo, Joshua B. Tenenbaum, Chuang Gan",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Ding_Visual_Dependency_Transformers_Dependency_Tree_Emerges_From_Reversed_Attention_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_975",
+      "paper_id": "",
+      "title": "ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions",
+      "authors": "Chunlong Xia, Xinliang Wang, Feng Lv, Xin Hao, Yifeng Shi",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_ViT-CoMer_Vision_Transformer_with_Convolutional_Multi-scale_Feature_Interaction_for_Dense_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr22_1575",
+      "paper_id": "",
+      "title": "When To Prune? A Policy Towards Early Structural Pruning",
+      "authors": "Maying Shen, Pavlo Molchanov, Hongxu Yin, Jose M. Alvarez",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Shen_When_To_Prune_A_Policy_Towards_Early_Structural_Pruning_CVPR_2022_paper.pdf",
+      "venue": "cvpr22"
+    },
+    {
+      "id": "cvpr23_57",
+      "paper_id": "",
+      "title": "X-Pruner: eXplainable Pruning for Vision Transformers",
+      "authors": "Lu Yu, Wei Xiang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_X-Pruner_eXplainable_Pruning_for_Vision_Transformers_CVPR_2023_paper.pdf",
+      "venue": "cvpr23"
+    },
+    {
+      "id": "cvpr24_1493",
+      "paper_id": "",
+      "title": "You Only Need Less Attention at Each Stage in Vision Transformers",
+      "authors": "Shuoxi Zhang, Hanpeng Liu, Stephen Lin, Kun He",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_You_Only_Need_Less_Attention_at_Each_Stage_in_Vision_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    },
+    {
+      "id": "cvpr25_1073",
+      "paper_id": "",
+      "title": "Your ViT is Secretly an Image Segmentation Model",
+      "authors": "Tommie Kerssies, Niccolò Cavagnero, Alexander Hermans, Narges Norouzi, Giuseppe Averta, Bastian Leibe, Gijs Dubbelman, Daan de Geus",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Kerssies_Your_ViT_is_Secretly_an_Image_Segmentation_Model_CVPR_2025_paper.pdf",
+      "venue": "cvpr25"
+    },
+    {
+      "id": "cvpr21_557",
+      "paper_id": "",
+      "title": "Zero-Shot Adversarial Quantization",
+      "authors": "Yuang Liu, Wei Zhang, Jun Wang",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Zero-Shot_Adversarial_Quantization_CVPR_2021_paper.pdf",
+      "venue": "cvpr21"
+    },
+    {
+      "id": "cvpr24_385",
+      "paper_id": "",
+      "title": "Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers",
+      "authors": "Hongjie Wang, Bhishma Dedhia, Niraj K. Jha",
+      "paper_url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.pdf",
+      "venue": "cvpr24"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "cluster_id": 118,
+  "papers": [
+    {
+      "id": "acl24_358",
+      "paper_id": "",
+      "title": "A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts",
+      "authors": "Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, Adaku Uchendu, Thai Le, Dongwon Lee",
+      "paper_url": "https://aclanthology.org/2024.acl-long.357.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1455",
+      "paper_id": "",
+      "title": "A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive",
+      "authors": "Sarath Sivaprasad, Pramod Kaushik, Sahar Abdelnabi, Mario Fritz",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1454.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_818",
+      "paper_id": "",
+      "title": "AI ‘News’ Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian",
+      "authors": "Giovanni Puccetti, Anna Rogers, Chiara Alzetta, Felice Dell’Orletta, Andrea Esuli",
+      "paper_url": "https://aclanthology.org/2024.acl-long.817.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_91",
+      "paper_id": "",
+      "title": "Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study",
+      "authors": "Bolei Ma, Berk Yoztyurk, Anna-Carolina Haensch, Xinpeng Wang, Markus Herklotz, Frauke Kreuter, Barbara Plank, Matthias Aßenmacher",
+      "paper_url": "https://aclanthology.org/2025.acl-long.90.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_328",
+      "paper_id": "",
+      "title": "Are AI-Generated Text Detectors Robust to Adversarial Perturbations?",
+      "authors": "Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, Mingze Wang, Zhouwang Yang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.327.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_295",
+      "paper_id": "",
+      "title": "Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral",
+      "authors": "Shivani Kumar, David Jurgens",
+      "paper_url": "https://aclanthology.org/2025.acl-long.294.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1121",
+      "paper_id": "",
+      "title": "Are We in the AI-Generated Text World Already? Quantifying and Monitoring AIGT on Social Media",
+      "authors": "Zhen Sun, Zongmin Zhang, Xinyue Shen, Ziyi Zhang, Yule Liu, Michael Backes, Yang Zhang, Xinlei He",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1120.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_107",
+      "paper_id": "",
+      "title": "Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks",
+      "authors": "Virgile Rennard, Christos Xypolopoulos, Michalis Vazirgiannis",
+      "paper_url": "https://aclanthology.org/2025.acl-long.106.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_329",
+      "paper_id": "",
+      "title": "Biased LLMs can Influence Political Decision-Making",
+      "authors": "Jillian Fisher, Shangbin Feng, Robert Aron, Thomas Richardson, Yejin Choi, Daniel W Fisher, Jennifer Pan, Yulia Tsvetkov, Katharina Reinecke",
+      "paper_url": "https://aclanthology.org/2025.acl-long.328.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_577",
+      "paper_id": "",
+      "title": "BIC: Twitter Bot Detection with Text-Graph Interaction and Semantic Consistency",
+      "authors": "Zhenyu Lei, Herun Wan, Wenqian Zhang, Shangbin Feng, Zilong Chen, Jundong Li, Qinghua Zheng, Minnan Luo",
+      "paper_url": "https://aclanthology.org/2023.acl-long.575.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_337",
+      "paper_id": "",
+      "title": "Can Language Models Reason about Individualistic Human Values and Preferences?",
+      "authors": "Liwei Jiang, Taylor Sorensen, Sydney Levine, Yejin Choi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.336.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_39",
+      "paper_id": "",
+      "title": "Causal Intervention and Counterfactual Reasoning for Multi-modal Fake News Detection",
+      "authors": "Ziwei Chen, Linmei Hu, Weixin Li, Yingxia Shao, Liqiang Nie",
+      "paper_url": "https://aclanthology.org/2023.acl-long.37.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_566",
+      "paper_id": "",
+      "title": "Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People",
+      "authors": "Dun-Ming Huang, Pol Van Rijn, Ilia Sucholutsky, Raja Marjieh, Nori Jacoby",
+      "paper_url": "https://aclanthology.org/2024.acl-long.565.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl21_63",
+      "paper_id": "",
+      "title": "Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge",
+      "authors": "Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou",
+      "paper_url": "https://aclanthology.org/2021.acl-long.62.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_444",
+      "paper_id": "",
+      "title": "Comparing LLM-generated and human-authored news text using formal syntactic theory",
+      "authors": "Olga Zamaraeva, Dan Flickinger, Francis Bond, Carlos Gómez-Rodríguez",
+      "paper_url": "https://aclanthology.org/2025.acl-long.443.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_178",
+      "paper_id": "",
+      "title": "Comparing Moral Values in Western English-speaking societies and LLMs with Word Associations",
+      "authors": "Chaoyi Xiang, Chunhua Liu, Simon De Deyne, Lea Frermann",
+      "paper_url": "https://aclanthology.org/2025.acl-long.177.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_196",
+      "paper_id": "",
+      "title": "Conformity in Large Language Models",
+      "authors": "Xiaochen Zhu, Caiqi Zhang, Tom Stafford, Nigel Collier, Andreas Vlachos",
+      "paper_url": "https://aclanthology.org/2025.acl-long.195.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_409",
+      "paper_id": "",
+      "title": "Conspiracy Theories and Where to Find Them on TikTok",
+      "authors": "Francesco Corso, Francesco Pierri, Gianmarco De Francisci Morales",
+      "paper_url": "https://aclanthology.org/2025.acl-long.408.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1260",
+      "paper_id": "",
+      "title": "Dehumanizing Machines: Mitigating Anthropomorphic Behaviors in Text Generation Systems",
+      "authors": "Myra Cheng, Su Lin Blodgett, Alicia DeVrio, Lisa Egede, Alexandra Olteanu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1259.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_361",
+      "paper_id": "",
+      "title": "Deontological Keyword Bias: The Impact of Modal Expressions on Normative Judgments of Language Models",
+      "authors": "Bumjin Park, Leejinsil Leejinsil, Jaesik Choi",
+      "paper_url": "https://aclanthology.org/2025.acl-long.360.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1084",
+      "paper_id": "",
+      "title": "Detecting Sockpuppetry on Wikipedia Using Meta-Learning",
+      "authors": "Luc Raszewski, Christine de Kock",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1083.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_171",
+      "paper_id": "",
+      "title": "Detection of Human and Machine-Authored Fake News in Urdu",
+      "authors": "Muhammad Zain Ali, Yuxia Wang, Bernhard Pfahringer, Tony C Smith",
+      "paper_url": "https://aclanthology.org/2025.acl-long.170.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_120",
+      "paper_id": "",
+      "title": "Digital Gatekeepers: Google’s Role in Curating Hashtags and Subreddits",
+      "authors": "Amrit Poudel, Yifan Ding, Tim Weninger, Jürgen Pfeffer",
+      "paper_url": "https://aclanthology.org/2025.acl-long.119.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_794",
+      "paper_id": "",
+      "title": "Disinformation Capabilities of Large Language Models",
+      "authors": "Ivan Vykopal, Matúš Pikuliak, Ivan Srba, Robert Moro, Dominik Macko, Maria Bielikova",
+      "paper_url": "https://aclanthology.org/2024.acl-long.793.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_104",
+      "paper_id": "",
+      "title": "Does DetectGPT Fully Utilize Perturbation? Bridging Selective Perturbation to Fine-tuned Contrastive Learning Detector would be Better",
+      "authors": "Shengchao Liu, Xiaoming Liu, Yichen Wang, Zehua Cheng, Chengzhengxu Li, Zhaohan Zhang, Yu Lan, Chao Shen",
+      "paper_url": "https://aclanthology.org/2024.acl-long.103.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_39",
+      "paper_id": "",
+      "title": "Evaluation of LLM Vulnerabilities to Being Misused for Personalized Disinformation Generation",
+      "authors": "Aneta Zugecova, Dominik Macko, Ivan Srba, Robert Moro, Jakub Kopál, Katarína Marcinčinová, Matúš Mesarčík",
+      "paper_url": "https://aclanthology.org/2025.acl-long.38.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_317",
+      "paper_id": "",
+      "title": "Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection",
+      "authors": "Zihan Ma, Minnan Luo, Hao Guo, Zhi Zeng, Yiran Hao, Xiang Zhao",
+      "paper_url": "https://aclanthology.org/2024.acl-long.316.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_884",
+      "paper_id": "",
+      "title": "Exploring LLMs’ Ability to Spontaneously and Conditionally Modify Moral Expressions through Text Manipulation",
+      "authors": "Candida Maria Greco, Lucio La Cava, Lorenzo Zangari, Andrea Tagarelli",
+      "paper_url": "https://aclanthology.org/2025.acl-long.883.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1296",
+      "paper_id": "",
+      "title": "Exploring the Impact of Instruction-Tuning on LLM’s Susceptibility to Misinformation",
+      "authors": "Kyubeen Han, Junseo Jang, Hongjin Kim, Geunyeong Jeong, Harksoo Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1295.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl23_817",
+      "paper_id": "",
+      "title": "Faking Fake News for Real Fake News Detection: Propaganda-Loaded Training Data Generation",
+      "authors": "Kung-Hsiang Huang, Kathleen McKeown, Preslav Nakov, Yejin Choi, Heng Ji",
+      "paper_url": "https://aclanthology.org/2023.acl-long.815.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_1183",
+      "paper_id": "",
+      "title": "Generate First, Then Sample: Enhancing Fake News Detection with LLM-Augmented Reinforced Sampling",
+      "authors": "Zhao Tong, Yimeng Gu, Huidong Liu, Qiang Liu, Shu Wu, Haichao Shi, Xiao-Yu Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1182.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_586",
+      "paper_id": "",
+      "title": "Generative Psycho-Lexical Approach for Constructing Value Systems in Large Language Models",
+      "authors": "Haoran Ye, TianZe Zhang, Yuhang Xie, Liyuan Zhang, Yuanyi Ren, Xin Zhang, Guojie Song",
+      "paper_url": "https://aclanthology.org/2025.acl-long.585.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1070",
+      "paper_id": "",
+      "title": "HACo-Det: A Study Towards Fine-Grained Machine-Generated Text Detection under Human-AI Coauthoring",
+      "authors": "Zhixiong Su, Yichen Wang, Herun Wan, Zhaohan Zhang, Minnan Luo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1069.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1498",
+      "paper_id": "",
+      "title": "Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings",
+      "authors": "Md Messal Monem Miah, Adrita Anika, Xi Shi, Ruihong Huang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1497.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_675",
+      "paper_id": "",
+      "title": "How does Misinformation Affect Large Language Model Behaviors and Preferences?",
+      "authors": "Miao Peng, Nuo Chen, Jianheng Tang, Jia Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.674.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1262",
+      "paper_id": "",
+      "title": "HumT DumT: Measuring and controlling human-like language in LLMs",
+      "authors": "Myra Cheng, Sunny Yu, Dan Jurafsky",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1261.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_977",
+      "paper_id": "",
+      "title": "If Eleanor Rigby Had Met ChatGPT: A Study on Loneliness in a Post-LLM World",
+      "authors": "Adrian de Wynter",
+      "paper_url": "https://aclanthology.org/2025.acl-long.976.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1495",
+      "paper_id": "",
+      "title": "IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection",
+      "authors": "Zhi Zeng, Jiaying Wu, Minnan Luo, Herun Wan, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1494.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_134",
+      "paper_id": "",
+      "title": "InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection",
+      "authors": "Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal, Avi Sil",
+      "paper_url": "https://aclanthology.org/2021.acl-long.133.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_1327",
+      "paper_id": "",
+      "title": "Internal Value Alignment in Large Language Models through Controlled Value Vector Activation",
+      "authors": "Haoran Jin, Meng Li, Xiting Wang, Zhihao Xu, Minlie Huang, Yantao Jia, Defu Lian",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1326.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_156",
+      "paper_id": "",
+      "title": "Iron Sharpens Iron: Defending Against Attacks in Machine-Generated Text Detection with Adversarial Training",
+      "authors": "Yuanfan Li, Zhaohan Zhang, Chengzhengxu Li, Chao Shen, Xiaoming Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.155.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1031",
+      "paper_id": "",
+      "title": "KatFishNet: Detecting LLM-Generated Korean Text through Linguistic Feature Analysis",
+      "authors": "Shinwoo Park, Shubin Kim, Do-Kyung Kim, Yo-Sub Han",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1030.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1029",
+      "paper_id": "",
+      "title": "Language Model Fine-Tuning on Scaled Survey Data for Predicting Distributions of Public Opinions",
+      "authors": "Joseph Suh, Erfan Jahanparast, Suhong Moon, Minwoo Kang, Serina Chang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1028.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1600",
+      "paper_id": "",
+      "title": "Language Models can Subtly Deceive Without Lying: A Case Study on Strategic Phrasing in Legislation",
+      "authors": "Atharvan Dogra, Krishna Pillutla, Ameet Deshpande, Ananya B. Sai, John J Nay, Tanmay Rajpurohit, Ashwin Kalyan, Balaraman Ravindran",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1600.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_323",
+      "paper_id": "",
+      "title": "Learning to Rewrite: Generalized LLM-Generated Text Detection",
+      "authors": "Wei Hao, Ran Li, Weiliang Zhao, Junfeng Yang, Chengzhi Mao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.322.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1206",
+      "paper_id": "",
+      "title": "Leveraging In-Context Learning for Political Bias Testing of LLMs",
+      "authors": "Patrick Haller, Jannis Vamvas, Rico Sennrich, Lena Ann Jäger",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1205.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_372",
+      "paper_id": "",
+      "title": "LLM as a Broken Telephone: Iterative Generation Distorts Information",
+      "authors": "Amr Mohamed, Mingmeng Geng, Michalis Vazirgiannis, Guokan Shang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.371.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1379",
+      "paper_id": "",
+      "title": "LLM-based Rumor Detection via Influence Guided Sample Selection and Game-based Perspective Analysis",
+      "authors": "Zhiliang Tian, Jingyuan Huang, Zejiang He, Zhen Huang, Menglong Lu, Linbo Qiao, Songzhu Mei, Yijie Wang, Dongsheng Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1378.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_219",
+      "paper_id": "",
+      "title": "M4GT-Bench: Evaluation Benchmark for Black-Box Machine-Generated Text Detection",
+      "authors": "Yuxia Wang, Jonibek Mansurov, Petar Ivanov, Jinyan Su, Artem Shelmanov, Akim Tsvigun, Osama Mohammed Afzal, Tarek Mahmoud, Giovanni Puccetti, Thomas Arnold, Alham Aji, Nizar Habash, Iryna Gurevych, Preslav Nakov",
+      "paper_url": "https://aclanthology.org/2024.acl-long.218.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_4",
+      "paper_id": "",
+      "title": "MAGE: Machine-generated Text Detection in the Wild",
+      "authors": "Yafu Li, Qintong Li, Leyang Cui, Wei Bi, Zhilin Wang, Longyue Wang, Linyi Yang, Shuming Shi, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.3.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_288",
+      "paper_id": "",
+      "title": "MetaAdapt: Domain Adaptive Few-Shot Misinformation Detection via Meta Learning",
+      "authors": "Zhenrui Yue, Huimin Zeng, Yang Zhang, Lanyu Shang, Dong Wang",
+      "paper_url": "https://aclanthology.org/2023.acl-long.286.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl25_37",
+      "paper_id": "",
+      "title": "MultiSocial: Multilingual Benchmark of Machine-Generated Text Detection of Social-Media Texts",
+      "authors": "Dominik Macko, Jakub Kopál, Robert Moro, Ivan Srba",
+      "paper_url": "https://aclanthology.org/2025.acl-long.36.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_585",
+      "paper_id": "",
+      "title": "Navigating the Shadows: Unveiling Effective Disturbances for Modern AI Content Detectors",
+      "authors": "Ying Zhou, Ben He, Le Sun",
+      "paper_url": "https://aclanthology.org/2024.acl-long.584.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_481",
+      "paper_id": "",
+      "title": "On the Risk of Evidence Pollution for Malicious Social Text Detection in the Era of LLMs",
+      "authors": "Herun Wan, Minnan Luo, Zhixiong Su, Guang Dai, Xiang Zhao",
+      "paper_url": "https://aclanthology.org/2025.acl-long.480.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1530",
+      "paper_id": "",
+      "title": "Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models",
+      "authors": "Mats Faulborn, Indira Sen, Max Pellert, Andreas Spitz, David Garcia",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1529.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1216",
+      "paper_id": "",
+      "title": "PCoT: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation",
+      "authors": "Arkadiusz Modzelewski, Witold Sosnowski, Tiziano Labruna, Adam Wierzbicki, Giovanni Da San Martino",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1215.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_268",
+      "paper_id": "",
+      "title": "People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text",
+      "authors": "Jenna Russell, Marzena Karpinska, Mohit Iyyer",
+      "paper_url": "https://aclanthology.org/2025.acl-long.267.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_817",
+      "paper_id": "",
+      "title": "Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models",
+      "authors": "Paul Röttger, Valentin Hofmann, Valentina Pyatkin, Musashi Hinck, Hannah Kirk, Hinrich Schuetze, Dirk Hovy",
+      "paper_url": "https://aclanthology.org/2024.acl-long.816.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl24_827",
+      "paper_id": "",
+      "title": "Pride and Prejudice: LLM Amplifies Self-Bias in Self-Refinement",
+      "authors": "Wenda Xu, Guanglei Zhu, Xuandong Zhao, Liangming Pan, Lei Li, William Wang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.826.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_807",
+      "paper_id": "",
+      "title": "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning Based on Emotional Information",
+      "authors": "Zhiwei Liu, Kailai Yang, Qianqian Xie, Christine de Kock, Sophia Ananiadou, Eduard Hovy",
+      "paper_url": "https://aclanthology.org/2025.acl-long.806.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_675",
+      "paper_id": "",
+      "title": "RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors",
+      "authors": "Liam Dugan, Alyssa Hwang, Filip Trhlík, Andrew Zhu, Josh Magnus Ludan, Hainiu Xu, Daphne Ippolito, Chris Callison-Burch",
+      "paper_url": "https://aclanthology.org/2024.acl-long.674.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_45",
+      "paper_id": "",
+      "title": "Re-ranking Using Large Language Models for Mitigating Exposure to Harmful Content on Social Media Platforms",
+      "authors": "Rajvardhan Oak, Muhammad Haroon, Claire Wonjeong Jo, Magdalena Wojcieszak, Anshuman Chhabra",
+      "paper_url": "https://aclanthology.org/2025.acl-long.44.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_602",
+      "paper_id": "",
+      "title": "Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction",
+      "authors": "Xiaowei Zhu, Yubing Ren, Yanan Cao, Xixun Lin, Fang Fang, Yangxi Li",
+      "paper_url": "https://aclanthology.org/2025.acl-long.601.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_618",
+      "paper_id": "",
+      "title": "SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection",
+      "authors": "Mingqing Zhang, Qiang Liu, Xiang Tao, Shu Wu, Liang Wang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.617.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_752",
+      "paper_id": "",
+      "title": "Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs",
+      "authors": "Bilgehan Sel, Priya Shanmugasundaram, Mohammad Kachuee, Kun Zhou, Ruoxi Jia, Ming Jin",
+      "paper_url": "https://aclanthology.org/2024.acl-long.751.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl23_372",
+      "paper_id": "",
+      "title": "SQuARe: A Large-Scale Dataset of Sensitive Questions and Acceptable Responses Created through Human-Machine Collaboration",
+      "authors": "Hwaran Lee, Seokhee Hong, Joonsuk Park, Takyoung Kim, Meeyoung Cha, Yejin Choi, Byoungpil Kim, Gunhee Kim, Eun-Ju Lee, Yong Lim, Alice Oh, Sangchul Park, Jung-Woo Ha",
+      "paper_url": "https://aclanthology.org/2023.acl-long.370.pdf",
+      "venue": "acl23"
+    },
+    {
+      "id": "acl24_161",
+      "paper_id": "",
+      "title": "Stumbling Blocks: Stress Testing the Robustness of Machine-Generated Text Detectors Under Attacks",
+      "authors": "Yichen Wang, Shangbin Feng, Abe Hou, Xiao Pu, Chao Shen, Xiaoming Liu, Yulia Tsvetkov, Tianxing He",
+      "paper_url": "https://aclanthology.org/2024.acl-long.160.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_73",
+      "paper_id": "",
+      "title": "Synergizing LLMs with Global Label Propagation for Multimodal Fake News Detection",
+      "authors": "Shuguo Hu, Jun Hu, Huaiwen Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.72.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_98",
+      "paper_id": "",
+      "title": "Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks",
+      "authors": "Nikhil Mehta, Maria Leonor Pacheco, Dan Goldwasser",
+      "paper_url": "https://aclanthology.org/2022.acl-long.97.pdf",
+      "venue": "acl22"
+    },
+    {
+      "id": "acl25_1039",
+      "paper_id": "",
+      "title": "The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation",
+      "authors": "Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Qingshuang Bao, Weipeng Jiang, Qian Wang, Chao Shen, Yang Liu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1038.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_299",
+      "paper_id": "",
+      "title": "Threads of Subtlety: Detecting Machine-Generated Texts Through Discourse Motifs",
+      "authors": "Zae Myung Kim, Kwang Lee, Preston Zhu, Vipul Raheja, Dongyeop Kang",
+      "paper_url": "https://aclanthology.org/2024.acl-long.298.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1409",
+      "paper_id": "",
+      "title": "Towards Better Value Principles for Large Language Model Alignment: A Systematic Evaluation and Enhancement",
+      "authors": "Bingbing Xu, Jing Yao, Xiaoyuan Yi, Aishan Maoliniyazi, Xing Xie, Xiaofeng Meng",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1408.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl21_298",
+      "paper_id": "",
+      "title": "Towards Propagation Uncertainty: Edge-enhanced Bayesian Graph Convolutional Networks for Rumor Detection",
+      "authors": "Lingwei Wei, Dou Hu, Wei Zhou, Zhaojuan Yue, Songlin Hu",
+      "paper_url": "https://aclanthology.org/2021.acl-long.297.pdf",
+      "venue": "acl21"
+    },
+    {
+      "id": "acl25_432",
+      "paper_id": "",
+      "title": "TripleFact: Defending Data Contamination in the Evaluation of LLM-driven Fake News Detection",
+      "authors": "Cheng Xu, Nan Yan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.431.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1533",
+      "paper_id": "",
+      "title": "Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights",
+      "authors": "Sooyung Choi, Jaehyeok Lee, Xiaoyuan Yi, Jing Yao, Xing Xie, JinYeong Bak",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1532.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_625",
+      "paper_id": "",
+      "title": "Unveiling Attractor Cycles in Large Language Models: A Dynamical Systems View of Successive Paraphrasing",
+      "authors": "Zhilin Wang, Yafu Li, Jianhao Yan, Yu Cheng, Yue Zhang",
+      "paper_url": "https://aclanthology.org/2025.acl-long.624.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_839",
+      "paper_id": "",
+      "title": "Value Portrait: Assessing Language Models’ Values through Psychometrically and Ecologically Valid Items",
+      "authors": "Jongwook Han, Dongmin Choi, Woojung Song, Eun-Ju Lee, Yohan Jo",
+      "paper_url": "https://aclanthology.org/2025.acl-long.838.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_473",
+      "paper_id": "",
+      "title": "Value-Spectrum: Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts",
+      "authors": "Jingxuan Li, Yuning Yang, Shengqi Yang, Linfan Zhang, Ying Nian Wu",
+      "paper_url": "https://aclanthology.org/2025.acl-long.472.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_112",
+      "paper_id": "",
+      "title": "ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models",
+      "authors": "Yuanyi Ren, Haoran Ye, Hanjun Fang, Xin Zhang, Guojie Song",
+      "paper_url": "https://aclanthology.org/2024.acl-long.111.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1120",
+      "paper_id": "",
+      "title": "VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare",
+      "authors": "Anudeex Shetty, Amin Beheshti, Mark Dras, Usman Naseem",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1119.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl24_197",
+      "paper_id": "",
+      "title": "What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection",
+      "authors": "Shangbin Feng, Herun Wan, Ningnan Wang, Zhaoxuan Tan, Minnan Luo, Yulia Tsvetkov",
+      "paper_url": "https://aclanthology.org/2024.acl-long.196.pdf",
+      "venue": "acl24"
+    },
+    {
+      "id": "acl25_1293",
+      "paper_id": "",
+      "title": "Who Writes What: Unveiling the Impact of Author Roles on AI-generated Text Detection",
+      "authors": "Jiatao Li, Xiaojun Wan",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1292.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl25_1109",
+      "paper_id": "",
+      "title": "XDAC: XAI-Driven Detection and Attribution of LLM-Generated News Comments in Korean",
+      "authors": "Wooyoung Go, Hyoungshick Kim, Alice Oh, Yongdae Kim",
+      "paper_url": "https://aclanthology.org/2025.acl-long.1108.pdf",
+      "venue": "acl25"
+    },
+    {
+      "id": "acl22_312",
+      "paper_id": "",
+      "title": "Zoom Out and Observe: News Environment Perception for Fake News Detection",
+      "authors": "Qiang Sheng, Juan Cao, Xueyao Zhang, Rundong Li, Danding Wang, Yongchun Zhu",
+      "paper_url": "https://aclanthology.org/2022.acl-long.311.pdf",
+      "venue": "acl22"
+    }
+  ]
+}

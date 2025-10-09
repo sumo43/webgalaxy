@@ -1,0 +1,405 @@
+{
+  "cluster_id": 128,
+  "papers": [
+    {
+      "id": "siggraph22_paperstog_127",
+      "paper_id": "paperstog_127",
+      "title": "A Compact Representation of Measured BRDFs Using Neural Processes",
+      "authors": "Chuankun Zheng, Ruzhang Zheng, Rui Wang, Shuang Zhao, Hujun Bao, Chuankun Zheng",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_179",
+      "paper_id": "papers_179",
+      "title": "A Fitted Radiance and Attenuation Model for Realistic Atmospheres",
+      "authors": "Alexander Wilkie, Petr Vevoda, Tom Bashford-Rogers, Lukáš Hošek, Tomáš Iser, Monika Kolářová, Tobias Rittig, Jaroslav Křivánek",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_559",
+      "paper_id": "papers_559",
+      "title": "A Full-wave Reference Simulator for Computing Surface Reflectance",
+      "authors": "Yunchen Yu, Mengqi Xia, Bruce Walter, Eric Michielssen, Steve Marschner",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_1025",
+      "paper_id": "papers_1025",
+      "title": "A Fully-correlated Anisotropic Micrograin BSDF Model",
+      "authors": "Simon Lucas, Mickaël Ribardière, Romain Pacanowski, Pascal Barla",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_34cb8714e1",
+      "paper_id": "34cb8714e1",
+      "title": "A Fully-statistical Wave Scattering Model for Heterogeneous Surfaces",
+      "authors": "Zhengze Liu, Yuchi Huo, Yifan Peng, Rui Wang",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_280",
+      "paper_id": "papers_280",
+      "title": "A Generic Framework for Physical Light Transport",
+      "authors": "Shlomi Steinberg, Lingqi Yan",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_755",
+      "paper_id": "papers_755",
+      "title": "A Practical Wave Optics Reflection Model for Hair and Fur",
+      "authors": "Mengqi Xia, Bruce Walter, Christophe Hery, Olivier Maury, Eric Michielssen, Steve Marschner",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_427",
+      "paper_id": "papers_427",
+      "title": "A Realistic Multi-scale Surface-based Cloth Appearance Model",
+      "authors": "Junqiu Zhu, Christophe Hery, Lukas Bode, Carlos Aliaga, Adrian Jarabo, Ling-Qi Yan, Matt Jen-Yuan Chiang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_765",
+      "paper_id": "papers_765",
+      "title": "A Realistic Surface-based Cloth Rendering Model",
+      "authors": "Junqiu Zhu, Adrian Jarabo, Carlos Aliaga, Ling-Qi Yan, Matt Jen-Yuan Chiang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_paperstog_110",
+      "paper_id": "paperstog_110",
+      "title": "A Sparse Non-parametric BRDF Model",
+      "authors": "Tanaboon Tongbuasirilai, Jonas Unger, Christine Guillemot, Ehsan Miandji, Tanaboon Tongbuasirilai",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_489",
+      "paper_id": "papers_489",
+      "title": "An Inverse Method for the Exploration of Layered Material Appearance",
+      "authors": "Mégane Bati, Pascal Barla, Romain Pacanowski",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_c7325ad9a8",
+      "paper_id": "c7325ad9a8",
+      "title": "Appearance-aware Multi-view SVBRDF Reconstruction via Deep Reinforcement Learning",
+      "authors": "Pengfei Zhu, Jie Guo, Yifan Liu, Qi Sun, Yanxiang Wang, Keheng Xu, Ligang Liu, Yanwen Guo",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_paperstog_123",
+      "paper_id": "paperstog_123",
+      "title": "Constant-cost Spatio-angular Prefiltering of Glinty Appearance Using Tensor Decomposition",
+      "authors": "Hong Deng, Yang Liu, Beibei Wang, Jian Yang, Lei Ma, Nicolas Holzschuch, Ling-Qi Yan, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_paperstog_122",
+      "paper_id": "paperstog_122",
+      "title": "Deep Appearance Prefiltering",
+      "authors": "Steve Bako, Pradeep Sen, Anton Kaplanyan, Steve Bako",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph23_papers_810",
+      "paper_id": "papers_810",
+      "title": "Deep SVBRDF Estimation From Single Image Under Learned Planar Lighting",
+      "authors": "Lianghao Zhang, Fangzhou Gao, Li Wang, Minjing Yu, Jiamin Cheng, Jiawan Zhang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph24_papers_124",
+      "paper_id": "papers_124",
+      "title": "From Microfacets to Participating Media: A Unified Theory of Light Transport With Stochastic Geometry",
+      "authors": "Dario Seyb, Eugene d'Eon, Benedikt Bitterli, Wojciech Jarosz",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_477",
+      "paper_id": "papers_477",
+      "title": "Highlight-aware Two-stream Network for Single-image SVBRDF Acquisition",
+      "authors": "Jie Guo, Shuichang Lai, Chengzhi Tao, Yuelong Cai, Lei Wang, Yanwen Guo, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_300d5db6e4",
+      "paper_id": "300d5db6e4",
+      "title": "HyperParamBRDF: Fast Parametric Reflectance via Hypernetworks and Physics-Based Simulation",
+      "authors": "Abraham Beauferris, Wei Sen Loi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_160",
+      "paper_id": "papers_160",
+      "title": "Microfacet Theory for Non-uniform Heightfields",
+      "authors": "Eugene d'Eon, Benedikt Bitterli, Andrea Weidlich, Tizian Zeltner",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_pos_237",
+      "paper_id": "pos_237",
+      "title": "Multi-scale Computational Visualization of Angle-dependent and Roughness-sensitive Plasmonic Structural Coloration",
+      "authors": "Wei Sen Loi, Kenneth Chau",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_papers_287",
+      "paper_id": "papers_287",
+      "title": "NeuMIP: Multi-resolution Neural Materials",
+      "authors": "Alexandr Kuznetsov, Krishna Mullia, Zexiang Xu, Miloš Hašan, Ravi Ramamoorthi",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_360",
+      "paper_id": "papers_360",
+      "title": "Neural Biplane Representation for BTF Rendering and Acquisition",
+      "authors": "Jiahui Fan, Beibei Wang, Milos Hasan, Jian Yang, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_546",
+      "paper_id": "papers_546",
+      "title": "Neural Layered BRDFs",
+      "authors": "Jiahui Fan, Beibei Wang, Milos Hasan, Jian Yang, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_492",
+      "paper_id": "papers_492",
+      "title": "NeuSample: Importance Sampling for Neural Materials",
+      "authors": "Bing Xu, Liwen Wu, Milos Hasan, Fujun Luan, Iliyan Georgiev, Zexiang Xu, Ravi Ramamoorthi",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_pos_198",
+      "paper_id": "pos_198",
+      "title": "On the Influence of Dynamic Illumination in the Perception of Translucency",
+      "authors": "Dario Lanza, Juan Raúl Padrón-Griffe, Adrian Jarabo, Belen Masia",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_405",
+      "paper_id": "papers_405",
+      "title": "Position-free Multiple-bounce Computations for Smith Microfacet BSDFs",
+      "authors": "Beibei Wang, Wenhua Jin, Jiahui Fan, Nicolas Holzschuch, Jian Yang, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_9ddcf05eff",
+      "paper_id": "9ddcf05eff",
+      "title": "Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps",
+      "authors": "Liwen Wu, Fujun Luan, Miloš Hašan, Ravi Ramamoorthi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_338",
+      "paper_id": "papers_338",
+      "title": "Practical Level-of-detail Aggregation of Fur Appearance",
+      "authors": "Junqiu Zhu, Sizhe Zhao, Lu Wang, Yanning Xu, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_46d202d506",
+      "paper_id": "46d202d506",
+      "title": "Predicting Fabric Appearance Through Thread Scattering and Inversion",
+      "authors": "Mengqi Xia, Zhaoyang Zhang, Sumit Chaturvedi, Yutong Yi, Rundong Wu, Holly Rushmeier, Julie Dorsey",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_pos_169",
+      "paper_id": "pos_169",
+      "title": "Procedural Shading for Rendering the Appearance of Feathers",
+      "authors": "Jessica Baron, Daljit Singh Dhillon, Eric Patterson",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_957",
+      "paper_id": "papers_957",
+      "title": "Real-time Neural Woven Fabric Rendering",
+      "authors": "Xiang Chen, Lu Wang, Beibei Wang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_pos_139",
+      "paper_id": "pos_139",
+      "title": "Reflectance Estimation for Free-viewpoint Video",
+      "authors": "George Ash, Juraj Tomori, Mike Pelton, Charles Dupont",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_765",
+      "paper_id": "papers_765",
+      "title": "Rendering Iridescent Rock Dove Neck Feathers",
+      "authors": "Weizhen Huang, Sebastian Merzbach, Clara Callenberg, Doekele Stavenga, Matthias Hullin",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_421",
+      "paper_id": "papers_421",
+      "title": "Rendering Neural Materials on Curved Surfaces",
+      "authors": "Alexandr Kuznetsov, Fujun Luan, Krishna Mullia, Zexiang Xu, Xuezheng Wang, Milos Hasan, Ravi Ramamoorthi",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_pos_140",
+      "paper_id": "pos_140",
+      "title": "Rendering of Scratched Transparent Materials Using Precomputed SV-BSDFs",
+      "authors": "Shintaro Fuji, Syuhei Sato, Kei Iwasaki, Yoshinori Dobashi, Shangce Gao, Zheng Tang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_paperstog_149",
+      "paper_id": "paperstog_149",
+      "title": "Rendering of Subjective Speckle Formed by Rough Statistical Surfaces",
+      "authors": "Shlomi Steinberg, Ling-Qi Yan, Shlomi Steinberg",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_pos_202",
+      "paper_id": "pos_202",
+      "title": "Scattering From Elliptical Hair Fibers Based on Microfacet Theory",
+      "authors": "Weizhen Huang, Matthias B. Hullin, Johannes Hanika",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_209",
+      "paper_id": "papers_209",
+      "title": "Sparse Ellipsometry: Portable Acquisition of Polarimetric SVBRDF and Shape With Unstructured Flash Photography",
+      "authors": "Inseung Hwang, Daniel S. Jeon, Adolfo Muñoz, Diego Gutierrez, Xin Tong, Min H. Kim",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_213",
+      "paper_id": "papers_213",
+      "title": "Spin-weighted Spherical Harmonics for Polarized Light Transport",
+      "authors": "Shinyoung Yi, Donggun Kim, Jiwoong Na, Xin Tong, Min H. Kim",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_paperstog_113",
+      "paper_id": "paperstog_113",
+      "title": "SpongeCake: A Layered Microflake Surface Appearance Model",
+      "authors": "Beibei Wang, Wenhua Jin, Miloš Hašan, Ling-Qi Yan, Ling-Qi Yan, Beibei Wang",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_pos_214",
+      "paper_id": "pos_214",
+      "title": "SVBRDF Estimation Using a Normal Sorting Technique",
+      "authors": "Snehal Padhye, David Messinger, James Ferwerda",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_319",
+      "paper_id": "papers_319",
+      "title": "The Effect of Shape and Illumination on Material Perception: Model and Applications",
+      "authors": "Ana Serrano, Bin Chen, Chao Wang, Michal Piovarči, Hans-Peter Seidel, Piotr Didyk, Karol Myszkowski",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_papers_461",
+      "paper_id": "papers_461",
+      "title": "The Visual Language of Fabrics",
+      "authors": "Valentin Deschaintre, Julia Guerrero Viu, Diego Gutierrez, Tamy Boubekeur, Belen Masia",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_1812c90a60",
+      "paper_id": "1812c90a60",
+      "title": "Towards Accelerating Polarization Path tracing of Multi-Bounce Smith Microfacet BSDFs",
+      "authors": "Hidehito Ohba, Tatsuya Yatagawa, Shigeo Morishima",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_53dc9a35dd",
+      "paper_id": "53dc9a35dd",
+      "title": "Towards Comprehensive Neural Materials: Dynamic Structure-Preserving Synthesis with Accurate Silhouette at Instant Inference Speed",
+      "authors": "Zilin Xu, Xiang Chen, Chen Liu, Beibei Wang, Lu Wang, Zahra Montazeri, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_458",
+      "paper_id": "papers_458",
+      "title": "Towards Material Digitization With a Dual-scale Optical System",
+      "authors": "Elena Garces, Victor Arellano, Carlos Rodriguez-Pardo, David Pascual, Sergio Suja, Jorge Lopez-Moreno",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_496",
+      "paper_id": "papers_496",
+      "title": "Transfer Matrix Based Layered Materials Rendering",
+      "authors": "Joël Randrianandrasana, Patrick Callet, Laurent Lucas",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph23_paperstog_123",
+      "paper_id": "paperstog_123",
+      "title": "Ultra-high Resolution SVBRDF Recovery From a Single Image",
+      "authors": "Jie Guo, Shuichang Lai, Qinghao Tu, Chengzhi Tao, Changqing Zou, Yanwen Guo, Jie Guo",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_38ae396612",
+      "paper_id": "38ae396612",
+      "title": "Uncertainty for SVBRDF Acquisition using Frequency Analysis",
+      "authors": "Ruben Wiersma, Julien Philip, Miloš Hašan, Krishna Mullia, Fujun Luan, Elmar Eisemann, Valentin Deschaintre",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph24_papers_278",
+      "paper_id": "papers_278",
+      "title": "Woven Fabric Capture With a Reflection-transmission Photo Pair",
+      "authors": "Yingjie Tang, Zixuan Li, Milos Hasan, Jian Yang, Beibei Wang",
+      "paper_url": "",
+      "venue": "siggraph24"
+    }
+  ]
+}

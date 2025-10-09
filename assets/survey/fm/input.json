@@ -1,0 +1,184 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Textual inputs",
+        "subcategories": [
+          {
+            "id": "1.1",
+            "name": "Large-scale tokenized corpora",
+            "what_is_covered": "Massive general-domain text for LM pre-training",
+            "typical_examples": "Web pages; Wikipedia; books; C4; Pile; WikiText; OpenWebText; SlimPajama",
+            "cluster": "11"
+          },
+          {
+            "id": "1.2",
+            "name": "Prompt & interaction data",
+            "what_is_covered": "User/system prompts and model replies gathered for alignment, RLHF or robustness",
+            "typical_examples": "Prompts/questions; model responses; preference/reward labels; adversarial triggers; long-context demonstrations",
+            "cluster": "0, 2"
+          },
+          {
+            "id": "1.3",
+            "name": "Problem statements with context",
+            "what_is_covered": "Natural-language tasks paired with explicit structured knowledge or code/data schemas",
+            "typical_examples": "NL problem + knowledge graph/database schema/code stub; reasoning traces or step-by-step solutions",
+            "cluster": "14"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Visual inputs (images)",
+        "subcategories": [
+          {
+            "id": "2.1",
+            "name": "Raw images",
+            "what_is_covered": "Canonical labelled/unlabelled images after basic augmentation",
+            "typical_examples": "ImageNet, CIFAR, COCO photos; medical scans",
+            "cluster": "19"
+          },
+          {
+            "id": "2.2",
+            "name": "Cued images",
+            "what_is_covered": "Images supplied with auxiliary spatial/sensor cues",
+            "typical_examples": "Low-light or blurry photos + masks; camera poses; depth/event data; points/boxes",
+            "cluster": "17"
+          },
+          {
+            "id": "2.3",
+            "name": "Patch or region tokens",
+            "what_is_covered": "Visual patches embedded as tokens for transformer processing",
+            "typical_examples": "ViT/MAE patches from images or single video frames",
+            "cluster": "3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Video & motion inputs",
+        "subcategories": [
+          {
+            "id": "3.1",
+            "name": "Video streams with motion cues",
+            "what_is_covered": "Time-ordered frames plus motion/semantic signals",
+            "typical_examples": "Video frames; optical flow; 3-D pose; segmentation masks; aligned audio track",
+            "cluster": "13"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "3-D & spatial inputs",
+        "subcategories": [
+          {
+            "id": "4.1",
+            "name": "Geometry & depth representations",
+            "what_is_covered": "Explicit 3-D or depth data for spatial reasoning",
+            "typical_examples": "Point clouds; RGB-D images; TSDF/voxel grids; meshes; camera extrinsics; semantic labels",
+            "cluster": "1"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Multimodal token sequences",
+        "subcategories": [
+          {
+            "id": "5.1",
+            "name": "Cross-modal token bags",
+            "what_is_covered": "Tokens from diverse modalities embedded with positional info",
+            "typical_examples": "Text, audio, vision, graphs, biology tokens with position vectors",
+            "cluster": "12, 18"
+          },
+          {
+            "id": "5.2",
+            "name": "Encoder-fused tokens",
+            "what_is_covered": "Tokens from separate encoders concatenated into one sequence",
+            "typical_examples": "CLIP/ViT image tokens + BERT/LLaMA text tokens",
+            "cluster": "15"
+          },
+          {
+            "id": "5.3",
+            "name": "Normalized latent embeddings",
+            "what_is_covered": "Modality-specific encoders map data into a shared latent space (may include placeholders)",
+            "typical_examples": "Text, images, video, audio all → joint embeddings (missing modalities allowed)",
+            "cluster": "4"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Generative-model conditioning",
+        "subcategories": [
+          {
+            "id": "6.1",
+            "name": "Diffusion noise schedule",
+            "what_is_covered": "Noisy latent sample $x_t$, timestep token $t$, optional class/text/geometry conditioning",
+            "typical_examples": "$x_t$ + $z$; timestep $t$; class label; pose map; depth; edges",
+            "cluster": "16"
+          },
+          {
+            "id": "6.2",
+            "name": "Auxiliary generation cues",
+            "what_is_covered": "User-supplied hints steering image generation or editing",
+            "typical_examples": "Reference image; mask; depth; pose; layout; bounding boxes",
+            "cluster": "10"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Task-oriented multimodal inputs",
+        "subcategories": [
+          {
+            "id": "7.1",
+            "name": "Visual observations + NL prompts",
+            "what_is_covered": "Perception frames paired with a natural-language task or edit instruction",
+            "typical_examples": "Screenshot + \"click the red button\"; video frame + \"highlight the pedestrian\"",
+            "cluster": "6"
+          },
+          {
+            "id": "7.2",
+            "name": "Image-text pairs with cues",
+            "what_is_covered": "Captioned/questioned images often carrying region annotations",
+            "typical_examples": "Image + caption; VQA triplets; bounding-box / mask annotations",
+            "cluster": "7"
+          },
+          {
+            "id": "7.3",
+            "name": "Embodied-agent context",
+            "what_is_covered": "Agent perception, proprioception & history combined with a goal description",
+            "typical_examples": "RGB-D stream; past actions; goal text (\"navigate to the chair\")",
+            "cluster": "8"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sequential & trajectory inputs",
+        "subcategories": [
+          {
+            "id": "8.1",
+            "name": "Offline state–action trajectories",
+            "what_is_covered": "Logged sequences for offline RL or behaviour cloning",
+            "typical_examples": "Time-series control signals; graphs; 3-D skeleton poses; human preference labels",
+            "cluster": "9"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Inverse-problem observations",
+        "subcategories": [
+          {
+            "id": "9.1",
+            "name": "Corrupted measurements with ground truth",
+            "what_is_covered": "Raw measurements transformed by known operators, paired with target outputs",
+            "typical_examples": "MRI $k$-space + mask; blurred → sharp image pairs; noisy sensor data",
+            "cluster": "5"
+          }
+        ]
+      }
+    ]
+  }

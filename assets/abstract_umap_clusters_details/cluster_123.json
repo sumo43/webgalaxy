@@ -1,0 +1,397 @@
+{
+  "cluster_id": 123,
+  "papers": [
+    {
+      "id": "siggraph22_papers_449",
+      "paper_id": "papers_449",
+      "title": "A Theoretical Analysis of Compactness of the Light Transport Operator",
+      "authors": "Cyril Soler, Ronak Molazem, Kartic Subr",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_217",
+      "paper_id": "papers_217",
+      "title": "Adjoint Nonlinear Ray Tracing",
+      "authors": "Arjun Teh, Ioannis Gkioulekas, Matthew O'Toole",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_251",
+      "paper_id": "papers_251",
+      "title": "Antithetic Sampling for Monte Carlo Differentiable Rendering",
+      "authors": "Cheng Zhang, Zhao Dong, Michael Doggett, Shuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_564",
+      "paper_id": "papers_564",
+      "title": "Automatic Quantization for Physics-based Simulation",
+      "authors": "Jiafeng Liu, Haoyang Shi, Siyuan Zhang, Yin Yang, Chongyang Ma, Weiwei Xu",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph22_papers_451",
+      "paper_id": "papers_451",
+      "title": "A𝛿: Autodiff for Discontinuous Programs — Applied to Shaders",
+      "authors": "Yuting Yang, Connelly Barnes, Andrew Adams, Adam Finkelstein",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_183",
+      "paper_id": "papers_183",
+      "title": "Conditional Mixture Path Guiding for Differentiable Rendering",
+      "authors": "Zhimin Fan, Pengcheng Shi, Mufan Guo, Ruoyu Fu, Yanwen Guo, Jie Guo",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_294",
+      "paper_id": "papers_294",
+      "title": "Coupling Conduction, Convection, and Radiative Transfer in a Single Path-space: Application to Infrared Rendering",
+      "authors": "Mégane Bati, Stéphane Blanco, Christophe Coustet, Vincent Eymet, Vincent Forest, Richard Fournier, Jacques Gautrais, Nicolas Mellado, Mathias Paulin, Benjamin Piaud",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_361",
+      "paper_id": "papers_361",
+      "title": "Designing Perceptual Puzzles by Differentiating Probabilistic Programs",
+      "authors": "Kartik Chandra, Tzu-Mao Li, Joshua Tenenbaum, Jonathan Ragan-Kelley",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_570740cc0d",
+      "paper_id": "570740cc0d",
+      "title": "Differentiable Geometric Acoustic Path Tracing using Time-Resolved Path Replay Backpropagation",
+      "authors": "Ugo Finnendahl, Markus Worchel, Tobias Jüterbock, Daniel Wujecki, Fabian Brinkmann, Stefan Weinzierl, Marc Alexa",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_552",
+      "paper_id": "papers_552",
+      "title": "Differentiable Heightfield Path Tracing With Accelerated Discontinuities",
+      "authors": "Xiaochun Tong, Hsueh-Ti Derek Liu, Yotam Gingold, Alec Jacobson",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_504",
+      "paper_id": "papers_504",
+      "title": "Differentiable Signed Distance Function Rendering",
+      "authors": "Delio Vicini, Sébastien Speierer, Wenzel Jakob",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_922",
+      "paper_id": "papers_922",
+      "title": "DiffSound: Differentiable Modal Sound Rendering and Inverse Rendering for Diverse Inference Tasks",
+      "authors": "Xutong Jin, Chenxi Xu, Ruohan Gao, Jiajun Wu, Guoping Wang, Sheng Li",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_308",
+      "paper_id": "papers_308",
+      "title": "Dr.Jit: A Just-in-time Compiler for Differentiable Rendering",
+      "authors": "Wenzel Jakob, Sébastien Speierer, Nicolas Roussel, Delio Vicini",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_672",
+      "paper_id": "papers_672",
+      "title": "Effect-based Multi-viewer Caching for Cloud-native Rendering",
+      "authors": "Alexander Weinrauch, Wolfgang Tatzgern, Pascal Stadlbauer, Alexis Crickx, Jozef Hladky, Arno Coomans, Martin Winter, Joerg H. Mueller, Markus Steinberger",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_238",
+      "paper_id": "papers_238",
+      "title": "Efficient Estimation of Boundary Integrals for Path-space Differentiable Rendering",
+      "authors": "Kai Yan, Christoph Lassner, Brian Budge, Zhao Dong, Shuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_papers_158",
+      "paper_id": "papers_158",
+      "title": "Fast Diffraction Pathfinding for Dynamic Sound Propagation",
+      "authors": "Carl Schissler, Gregor Mückl, Paul Calamia",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_paperstog_105",
+      "paper_id": "paperstog_105",
+      "title": "GPU Accelerated Path Tracing of Massive Scenes",
+      "authors": "Milan Jaros, Lubomir Riha, Petr Strakos, Matej Spetko",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_526",
+      "paper_id": "papers_526",
+      "title": "GWA: A Large Geometric-wave Acoustic Dataset for Audio Deep Learning",
+      "authors": "Zhenyu Tang, Rohith Aralikatti, Anton Ratnarajah, Dinesh Manocha",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_a9b0bca595",
+      "paper_id": "a9b0bca595",
+      "title": "Image-space Adaptive Sampling for Fast Inverse Rendering",
+      "authors": "Kai Yan, Cheng Zhang, Sébastien Speierer, Guangyan Cai, Yufeng Zhu, Zhao Dong, Shuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph23_papers_762",
+      "paper_id": "papers_762",
+      "title": "Inverse Global Illumination Using a Neural Radiometric Prior",
+      "authors": "Saeed Hadadan, Geng Lin, Jan Novák, Fabrice Rousselle, Matthias Zwicker",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph25_e20441b09a",
+      "paper_id": "e20441b09a",
+      "title": "James-Stein Gradient Combiner for Inverse Monte Carlo Rendering",
+      "authors": "Jeongmin Gu, Bochang Moon",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_b948b52a8e",
+      "paper_id": "b948b52a8e",
+      "title": "Moment Bounds are Differentiable: Efficiently Approximating Measures in Inverse Rendering",
+      "authors": "Markus Worchel, Marc Alexa",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_309",
+      "paper_id": "papers_309",
+      "title": "Monte Carlo Estimators for Differential Light Transport",
+      "authors": "Tizian Zeltner, Sébastien Speierer, Iliyan Georgiev, Wenzel Jakob",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_41da2d899b",
+      "paper_id": "41da2d899b",
+      "title": "Monte Carlo PDE simulation in participating media",
+      "authors": "Bailey Miller, Rohan Sawhney, Keenan Crane, Ioannis Gkioulekas",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_786",
+      "paper_id": "papers_786",
+      "title": "NeuralSound: Learning-based Modal Sound Synthesis With Acoustic Transfer",
+      "authors": "Xutong Jin, Sheng Li, Dinesh Manocha, Guoping Wang",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_427",
+      "paper_id": "papers_427",
+      "title": "Parameter-space ReSTIR for Differentiable and Inverse Rendering",
+      "authors": "Wesley Chang, Venkataram Sivaram, Derek Nowrouzezahrai, Toshiya Hachisuka, Ravi Ramamoorthi, Tzu-Mao Li",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph21_papers_305",
+      "paper_id": "papers_305",
+      "title": "Path Replay Backpropagation: Differentiating Light Paths Using Constant Memory and Linear Time",
+      "authors": "Delio Vicini, Sébastien Speierer, Wenzel Jakob",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_papers_827",
+      "paper_id": "papers_827",
+      "title": "Path-space Differentiable Rendering of Implicit Surfaces",
+      "authors": "Siwei Zhou, Youngha Chang, Nobuhiko Mukai, Hiroaki Santo, Fumio Okura, Yasuyuki Matsushita, Shuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph21_papers_250",
+      "paper_id": "papers_250",
+      "title": "Path-space Differentiable Rendering of Participating Media",
+      "authors": "Cheng Zhang, Zihan Yu, Shuang Zhao",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph25_d46c1eb5b2",
+      "paper_id": "d46c1eb5b2",
+      "title": "Practical Inverse Rendering of Textured and Translucent Appearance",
+      "authors": "Philippe Weier, Jérémy Riviere, Ruslan Guseinov, Stephan Garbin, Philipp Slusallek, Bernd Bickel, Thabo Beeler, Delio Vicini",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph25_8cb5ede6bb",
+      "paper_id": "8cb5ede6bb",
+      "title": "Quadric-Based Silhouette Sampling for Differentiable Rendering",
+      "authors": "Mariia Soroka, Christoph Peters, Steve Marschner",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_pos_157",
+      "paper_id": "pos_157",
+      "title": "Quantum Nodes: Quantum Computing Applied to 3D Modeling",
+      "authors": "Félix Olart, Eloïse Tassin, Laurine Capdeville, Luc Pinguet, Théo Gautier, Alain Lioret",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_685",
+      "paper_id": "papers_685",
+      "title": "R2E2: Low-latency Path Tracing of Terabyte-scale Scenes Using Thousands of Cloud CPUs",
+      "authors": "Sadjad Fouladi, Brennan Shacklett, Fait Poms, Arjun Arora, Alex Ozdemir, Deepti Raghavan, Pat Hanrahan, Kayvon Fatahalian, Keith Winstein",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_786",
+      "paper_id": "papers_786",
+      "title": "Ray Tracing Harmonic Functions",
+      "authors": "Mark Gillespie, Denise Yang, Mario Botsch, Keenan Crane",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph22_papers_352",
+      "paper_id": "papers_352",
+      "title": "Reconstructing Translucent Objects Using Differentiable Rendering",
+      "authors": "Xi Deng, Fujun Luan, Bruce Walter, Kavita Bala, Steve Marschner",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph23_papers_400",
+      "paper_id": "papers_400",
+      "title": "Recursive Control Variates for Inverse Rendering",
+      "authors": "Baptiste Nicolet, Fabrice Rousselle, Jan Novak, Alexander Keller, Wenzel Jakob, Thomas Müller",
+      "paper_url": "",
+      "venue": "siggraph23"
+    },
+    {
+      "id": "siggraph22_papers_426",
+      "paper_id": "papers_426",
+      "title": "ShaderTransformer: Predicting Shader Quality via One-shot Embedding for Fast Simplification",
+      "authors": "Yuchi Huo, Shi Li, Yazhen Yuan, Xu Chen, Rui Wang, Wenting Zheng, Hai Lin, Hujun Bao",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph24_papers_181",
+      "paper_id": "papers_181",
+      "title": "Specular Polynomials",
+      "authors": "Zhimin Fan, Jie Guo, Yiming Wang, Tianyu Xiao, Hao Zhang, Chenxi Zhou, Zhenyu Chen, Pengpei Hong, Yanwen Guo, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph25_f6fb968f07",
+      "paper_id": "f6fb968f07",
+      "title": "Spherical Lighting with Spherical Harmonics Hessian",
+      "authors": "Kei Iwasaki, Yoshinori Dobashi",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph21_papers_238",
+      "paper_id": "papers_238",
+      "title": "Systematically Differentiating Parametric Discontinuities",
+      "authors": "Sai Praveen Bangaru, Jesse Michel, Kevin Mu, Gilbert Bernstein, Tzu-Mao Li, Jonathan Ragan-Kelley",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph21_paperstog_109",
+      "paper_id": "paperstog_109",
+      "title": "Temporally Adaptive Shading Reuse for Real-time Rendering and Virtual Reality",
+      "authors": "Joerg H. Mueller, Thomas Neff, Philip Voglreiter, Markus Steinberger, Dieter Schmalstieg",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph22_papers_431",
+      "paper_id": "papers_431",
+      "title": "Towards Practical Physical-optics Rendering",
+      "authors": "Shlomi Steinberg, Pradeep Sen, Ling-Qi Yan",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph25_b71c74e762",
+      "paper_id": "b71c74e762",
+      "title": "Unbiased Differential Visibility Using Fixed-Step Walk-on-Spherical-Caps And Closest Silhouettes",
+      "authors": "Lifan Wu, Nathan Morrical, Sai Praveen Bangaru, Rohan Sawhney, Shuang Zhao, Chris Wyman, Ravi Ramamoorthi, Aaron Lefohn",
+      "paper_url": "",
+      "venue": "siggraph25"
+    },
+    {
+      "id": "siggraph22_papers_197",
+      "paper_id": "papers_197",
+      "title": "Unbiased Inverse Volume Rendering With Differential Trackers",
+      "authors": "Merlin Nimier-David, Thomas Müller, Alexander Keller, Wenzel Jakob",
+      "paper_url": "",
+      "venue": "siggraph22"
+    },
+    {
+      "id": "siggraph21_paperstog_101",
+      "paper_id": "paperstog_101",
+      "title": "Vectorization for Fast, Analytic, and Differentiable Visibility",
+      "authors": "Yang Zhou, Lifan Wu, Ravi Ramamoorthi, Lingqi Yan",
+      "paper_url": "",
+      "venue": "siggraph21"
+    },
+    {
+      "id": "siggraph24_paperstog_126",
+      "paper_id": "paperstog_126",
+      "title": "View-Independent Adjoint Light Tracing for Lighting Design Optimization",
+      "authors": "Lukas Lipp, David Hahn, Pierre Ecormier-Nocca, Florian Rist, Michael Wimmer, Lukas Lipp",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_1221",
+      "paper_id": "papers_1221",
+      "title": "X-SLAM: Scalable Dense SLAM for Task-aware Optimization Using CSFD",
+      "authors": "Zhexi Peng, Yin Yang, Tianjia Shao, Chenfanfu Jiang, Kun Zhou",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph24_papers_499",
+      "paper_id": "papers_499",
+      "title": "ZeroGrads: Learning Local Surrogates for Non-differentiable Graphics",
+      "authors": "Michael Fischer, Tobias Ritschel",
+      "paper_url": "",
+      "venue": "siggraph24"
+    },
+    {
+      "id": "siggraph23_papers_448",
+      "paper_id": "papers_448",
+      "title": "∇-Prox: Differentiable Proximal Algorithm Modeling for Large-scale Optimization",
+      "authors": "Zeqiang Lai, Kaixuan Wei, Ying Fu, Philipp Härtel, Felix Heide",
+      "paper_url": "",
+      "venue": "siggraph23"
+    }
+  ]
+}
