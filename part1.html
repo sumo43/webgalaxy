@@ -217,9 +217,9 @@
       align-items: center; font-size: 12px; z-index: 11;
     }
 
-    /* Stacking order: Year (top) > Display > Center */
-    #year-panel { bottom: calc(var(--spacing-xl) + 128px); }
-    #display-panel { bottom: calc(var(--spacing-xl) + 64px); }
+    /* Tighter stack */
+    #year-panel    { bottom: calc(var(--spacing-xl) + 72px); }
+    #display-panel { bottom: calc(var(--spacing-xl) + 36px); }
     #center-legend { bottom: var(--spacing-xl); }
 
     #center-legend > span, #display-panel > span, #year-panel > span {
@@ -258,7 +258,7 @@
     /* Legend */
     #legend {
       position: fixed; right: var(--spacing-lg); top: auto;
-      bottom: calc(var(--spacing-xl) + 84px); width: clamp(260px, 32vw, 520px); max-height: 36vh;
+      bottom: calc(var(--spacing-xl) + 36px); width: clamp(260px, 32vw, 520px); max-height: 36vh;
       padding: var(--spacing-lg); display: none;
     }
     .legend-scroll { height: max(160px, calc(36vh - (40px + var(--spacing-lg)))); overflow: hidden; }
@@ -282,6 +282,13 @@
     .domain-item .label { text-transform: uppercase; letter-spacing: 0.02em; }
     .domain-item.active .dash { color: var(--color-primary); }
     .swatch { width: 12px; height: 12px; border-radius: 3px; border: 1px solid rgba(255, 255, 255, 0.15); flex-shrink: 0; }
+
+    /* ===== Checkbox styling for domain items ===== */
+    .domain-item input[type="checkbox"]{
+      accent-color: var(--color-primary);
+      transform: scale(1.05);
+      margin-right: 8px;
+    }
 
     /* ===== Trend figure panel (NEW) ===== */
     #trend-row strong { color: #fff !important; }
@@ -372,9 +379,65 @@
     /* optional: tighten spacing a bit when the text is gone */
     #controls { gap: var(--spacing-sm); }
   }
+  /* ======= COMPACT MODE (paste at end of <style>) ======= */
+  body.compact {
+    /* tighter global spacings/radii */
+    --spacing-xs: 2px;
+    --spacing-sm: 4px;
+    --spacing-md: 8px;
+    --spacing-lg: 12px;
+    --spacing-xl: 16px;
+    --radius-sm: 4px;
+    --radius-md: 8px;
+  }
+  
+  /* Left paper details card */
+  body.compact #paper-details { padding: var(--spacing-md); max-width: 280px; }
+  body.compact #paper-details h1 { font-size: 26px; line-height: 1.15; }
+  body.compact #paper-details .authors { font-size: 13px; line-height: 1.35; }
+  body.compact #paper-details .links { gap: var(--spacing-sm); padding-top: var(--spacing-sm); }
+  body.compact #paper-details .link-item { padding: 2px 8px; font-size: 12px; }
+  
+  /* Right info card */
+  body.compact #info { padding: var(--spacing-sm) var(--spacing-md); font-size: 11px; min-width: 220px; }
+  body.compact #info h3 { font-size: 14px; margin-bottom: var(--spacing-xs); }
+  body.compact #info p { margin: 2px 0; line-height: 1.35; }
+  
+  /* Trend image smaller */
+  body.compact #trend-img { max-height: 140px; }
+  
+  /* Bottom-left chips + controls */
+  body.compact #controls,
+  body.compact #center-legend,
+  body.compact #display-panel,
+  body.compact #year-panel {
+    padding: var(--spacing-xs) var(--spacing-md);
+    gap: var(--spacing-sm);
+  }
+  
+  body.compact #controls button,
+  body.compact #center-legend button,
+  body.compact #display-panel button,
+  body.compact #year-panel button {
+    padding: 4px 8px;
+    font-size: 11px;
+    border-radius: 9999px;
+  }
+  
+  /* Legend panel tighter */
+  body.compact #legend { padding: var(--spacing-md); max-height: 30vh; }
+  body.compact .legend-col-title { font-size: 14px; margin-bottom: var(--spacing-xs); }
+  body.compact .cluster-list { gap: var(--spacing-xs); }
+  body.compact .item { padding: 4px 8px; gap: 6px; font-size: 11px; }
+  body.compact .item .count { font-size: 10px; }
+  body.compact .swatch { width: 10px; height: 10px; }
+  body.compact .domain-item .dash { margin-right: 4px; width: 8px; }
+  
+  /* Tooltip a bit denser */
+  body.compact #tooltip { font-size: 11px; padding: 4px 8px; }
 </style>
 </head>
-<body>
+<body class="compact">
   <div id="paper-details" class="card">
     <h1>
       <span style="color: #ffffff;">Real</span> <br>
@@ -554,6 +617,9 @@
         this.selectedYears = new Set([2021, 2022, 2023, 2024, 2025]);
         this.paperYearById = new Map(); // id -> year (e.g., 2025)
 
+        // NEW: domain focus state (multi-select)
+        this.domainFocus = new Set();
+
         this.dom = {
           tooltip: document.getElementById("tooltip"),
           info: document.getElementById("info"),
@@ -611,9 +677,9 @@
 
         this.controls = new OrbitControls(this.camera, this.renderer.domElement);
         this.controls.enableDamping = true;
-        this.controls.dampingFactor = 0.05;
         this.controls.autoRotate = true;
         this.controls.autoRotateSpeed = 0.45;
+        this.controls.dampingFactor = 0.05;
         this.controls.minDistance = 2;
         this.controls.maxDistance = 80;
 
@@ -727,7 +793,7 @@
             return {
               ...c,
               center: center.length === 3 && center.every(Number.isFinite) ? center : [],
-              radius: Number.isFinite(radius) ? radius : 0,
+              radius: Number.isFinite(radius) ? Number(radius) : 0,
               eligible_for_sphere: Boolean(c.eligible_for_sphere),
               domain: c.domain || "unknown",
               paper_count: Number.isFinite(Number(c.paper_count)) ? Number(c.paper_count) : undefined,
@@ -789,7 +855,7 @@
             depthWrite: true,
           });
 
-        const mesh = new THREE.InstancedMesh(geom, mat, indices.length);
+          const mesh = new THREE.InstancedMesh(geom, mat, indices.length);
           mesh.instanceMatrix.setUsage(THREE.DynamicDrawUsage);
           mesh.userData.clusterId = cId;
           mesh.userData.paperIdxByInstance = new Map();
@@ -869,11 +935,9 @@
       cleanupAxisGroup() {
         if (!this.axisGroup) return;
         this.axisGroup.traverse((o) => {
-          // remove CSS2DObject DOM nodes so old labels don’t linger
           if (o.isCSS2DObject && o.element && o.element.parentNode) {
             o.element.parentNode.removeChild(o.element);
           }
-          // dispose lines to avoid GPU leaks
           if (o.isLine) {
             o.geometry && o.geometry.dispose();
             o.material && o.material.dispose();
@@ -953,8 +1017,8 @@
         g.add(mkAxis(new THREE.Vector3(cx, cy, cz - hz), new THREE.Vector3(cx, cy, cz + hz)));
 
         const labelCss =
-          "font-size:12px;font-weight:800;color:#4aa8ff;background:rgba(18,20,26,.95);padding:6px 10px;border:1px solid rgba(74,168,255,0.4);border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,.6)";
-
+        "font-size:11px;font-weight:800;color:#4aa8ff;background:rgba(18,20,26,.95);padding:3px 6px;border:1px solid rgba(74,168,255,0.4);border-radius:4px;box-shadow:0 1px 4px rgba(0,0,0,.6)";
+      
         const mkLabel = (t, pos) => {
           const d = document.createElement("div");
           d.style = labelCss;
@@ -1038,10 +1102,17 @@
         domList.className = "list domain-list";
         domCol.appendChild(domList);
 
+        /* ===== Domain item WITH checkbox (multi-select) ===== */
         const makeDomainItem = (domain) => {
           const item = document.createElement("div");
           item.className = "item domain-item";
           item.dataset.domain = domain;
+
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.className = "domain-cb";
+          cb.title = `Highlight ${domain}`;
+          cb.checked = this.domainFocus.has(domain); // reflect current state
 
           const dash = document.createElement("span");
           dash.className = "dash";
@@ -1056,14 +1127,25 @@
           count.title = "Total papers in this domain";
           count.textContent = String(domainTotals.get(domain) || 0);
 
+          item.appendChild(cb);
           item.appendChild(dash);
           item.appendChild(label);
           item.appendChild(count);
-          item.onclick = () => {
+
+          // Row click (not the checkbox) navigates the cluster list
+          item.addEventListener("click", (e) => {
+            if (e.target === cb) return;
             this.legendState.selectedDomain = domain;
             renderClusterList(domain);
             this.applyLegendSelectionClass();
-          };
+          });
+
+          // Checkbox toggles domain focus (multi-select) — NO RECENTER
+          cb.addEventListener("change", () => {
+            this.toggleDomainFocus(domain, cb.checked, { recenter: false });
+            this.applyLegendSelectionClass();
+          });
+
           return item;
         };
 
@@ -1093,7 +1175,9 @@
 
           const label = document.createElement("div");
           label.className = "label";
-          label.textContent = "Cluster " + cid;
+          const lab = this.getClusterLabel(cid);
+          label.textContent = lab;
+          label.title = `${lab}  [${cid}]`;
 
           const count = document.createElement("div");
           count.className = "count";
@@ -1135,10 +1219,13 @@
         const legend = document.getElementById("legend");
         if (!legend) return;
 
+        // Highlight the navigated domain (for cluster list context)
         legend.querySelectorAll(".domain-item").forEach((item) => {
-          item.classList.toggle("active", item.dataset.domain === this.legendState.selectedDomain);
+          const isNav = item.dataset.domain === this.legendState.selectedDomain;
+          item.classList.toggle("active", isNav);
         });
 
+        // Keep cluster item active if a specific cluster is focused
         legend.querySelectorAll(".cluster-item").forEach((item) => {
           item.classList.toggle(
             "active",
@@ -1173,9 +1260,11 @@
           this.marker.visible = true;
 
           Object.assign(this.dom.tooltip.style, { display: "block", left: (e.clientX + 12) + "px", top: (e.clientY + 12) + "px" });
+
+          const lab = this.getClusterLabel(cId);
           this.dom.tooltip.innerHTML =
-            '<div><span class="swatch" style="background:' + colorForCluster(cId) + '"></span><strong>' +
-            escapeHtml(id) + '</strong></div><div>Cluster ' + cId + '</div>';
+            `<div><span class="swatch" style="background:${colorForCluster(cId)}"></span><strong>${escapeHtml(id)}</strong></div>
+             <div>${escapeHtml(lab)} <span style="opacity:.6">[${cId}]</span></div>`;
 
           this.renderer.domElement.style.cursor = "pointer";
           this.hover = { mesh, instanceId, clusterId: cId, type: "point" };
@@ -1193,11 +1282,12 @@
             Object.assign(this.dom.tooltip.style, { display: "block", left: (e.clientX + 12) + "px", top: (e.clientY + 12) + "px" });
 
             const pc = (typeof meta?.paper_count === "number") ? (meta.paper_count.toLocaleString() + " papers") : "";
-            const summary = meta?.summary ? escapeHtml(meta.summary).replace(/\n/g, "<br />") : "";
+            const summaryRaw = meta?.summary ? meta.summary : "";
+            const lab = this.getClusterLabel(clId);
             this.dom.tooltip.innerHTML =
-              '<div><span class="swatch" style="background:' + colorForCluster(clId) + '"></span><strong>Cluster ' + clId + '</strong></div>' +
-              (pc ? ('<div>' + pc + '</div>') : "") +
-              (summary ? ('<div style="max-width:240px">' + summary + '</div>') : "");
+              `<div><span class="swatch" style="background:${colorForCluster(clId)}"></span><strong>${escapeHtml(lab)}</strong> <span style="opacity:.6">[${clId}]</span></div>` +
+              (pc ? (`<div>${pc}</div>`) : "") +
+              (summaryRaw ? (`<div style="max-width:240px">${escapeHtml(summaryRaw).replace(/\n/g, "<br />")}</div>`) : "");
 
             this.renderer.domElement.style.cursor = "pointer";
             this.hover = { mesh: object, instanceId: null, clusterId: clId, type: "sphere" };
@@ -1227,7 +1317,7 @@
           this.focusCluster(cId, { preserve: true });
 
           this.setRowText("paper-id", id);
-          this.setRowText("cluster-id", String(cId));
+          this.setRowText("cluster-id", this.getClusterLabel(cId));
           this.setRowText("paper-pos", "(" + pos.x.toFixed(3) + ", " + pos.y.toFixed(3) + ", " + pos.z.toFixed(3) + ")");
           this.populatePaperDetails(cId, id);
           return;
@@ -1311,7 +1401,87 @@
         this.updateEmptyHint();
       }
 
+      /* ===== MULTI-DOMAIN FOCUS ===== */
+      toggleDomainFocus(domain, isOn, opts = {}) {
+        if (isOn) this.domainFocus.add(domain);
+        else this.domainFocus.delete(domain);
+        this.applyDomainFocus(opts);
+      }
+
+      applyDomainFocus({ recenter = false } = {}) {
+        if (!this.pointsGroup || !this.meta) return;
+
+        if (this.domainFocus.size === 0) {
+          // Restore defaults
+          this._applyGlobalAppearance();
+          this.initInfoPanelState();
+          this.legendState.selected = null;
+          this.applyLegendSelectionClass();
+          return;
+        }
+
+        const target = new Set(
+          this.meta.clusters
+            .filter(c => this.domainFocus.has(c.domain || "unknown"))
+            .map(c => c.cluster_id)
+        );
+
+        // Style points
+        this.pointsGroup.children.forEach((mesh) => {
+          const on = target.has(mesh.userData.clusterId);
+          mesh.material.opacity = on ? 1.0 : 0.03;
+          mesh.material.depthWrite = on;
+          mesh.material.needsUpdate = true;
+        });
+
+        // Style spheres
+        this.clusterMeshesById.forEach((mesh, id) => {
+          const on = target.has(id);
+          mesh.material.opacity = on ? SPHERE_FOCUS_OPACITY : SPHERE_DIM_OPACITY;
+          mesh.material.needsUpdate = true;
+        });
+
+        // Clear Selection panel (no details for domain)
+        this.initInfoPanelState();
+
+        // Clear any specific cluster highlight state
+        this.legendState.selected = null;
+        this.applyLegendSelectionClass();
+
+        // Optionally recenter (disabled for checkbox toggles)
+        if (recenter) {
+          const centers = this.meta.clusters
+            .filter(c => target.has(c.cluster_id) && Array.isArray(c.center))
+            .map(c => c.center);
+          if (centers.length) {
+            const cx = centers.reduce((s,c)=>s+c[0],0)/centers.length;
+            const cy = centers.reduce((s,c)=>s+c[1],0)/centers.length;
+            const cz = centers.reduce((s,c)=>s+c[2],0)/centers.length;
+            this.setViewCenter([cx,cy,cz], { animate: true, zoomFactor: this.focusZoomFactor });
+          }
+        }
+      }
+
+      _applyGlobalAppearance() {
+        if (this.pointsGroup) {
+          this.pointsGroup.children.forEach((m) => {
+            m.material.opacity = this.currentPointsOpacity;
+            m.material.depthWrite = true;
+            m.material.needsUpdate = true;
+          });
+        }
+        this.resetSphereAppearance();
+      }
+
+      _uncheckAllDomainBoxes() {
+        document.querySelectorAll('#legend .domain-cb').forEach(cb => cb.checked = false);
+      }
+
       focusCluster(cId, { preserve = false } = {}) {
+        // cancel any domain multi-select when a specific cluster is selected
+        this.domainFocus.clear();
+        this._uncheckAllDomainBoxes();
+
         if (!this.pointsGroup) return;
 
         this.pointsGroup.children.forEach((mesh) => {
@@ -1324,7 +1494,7 @@
         this.highlightSphere(cId);
 
         const meta = this.clusterMetaById.get(cId);
-        this.setRowText("cluster-id", String(cId));
+        this.setRowText("cluster-id", this.getClusterLabel(cId));
 
         if (!preserve) {
           // Clear previous paper-specific details but keep Venue slot intact for cluster venue.
@@ -1361,14 +1531,10 @@
       }
 
       clearFocus() {
-        if (this.pointsGroup) {
-          this.pointsGroup.children.forEach((m) => {
-            m.material.opacity = this.currentPointsOpacity;
-            m.material.depthWrite = true;
-            m.material.needsUpdate = true;
-          });
-        }
-        this.resetSphereAppearance();
+        this._uncheckAllDomainBoxes();
+        this.domainFocus.clear();
+
+        this._applyGlobalAppearance();
         this.legendState.selected = null;
         this.applyLegendSelectionClass();
 
@@ -1389,6 +1555,16 @@
         const m = s.match(/^([A-Za-z]+)[\s_\-']?\d{2}$/);
         const base = m ? m[1] : s;
         return base.toUpperCase();
+      }
+
+      /*** NEW: label generator from cluster summary ***/
+      getClusterLabel(cId, { maxLen = 48, phrases = 2 } = {}) {
+        const meta = this.clusterMetaById.get(cId);
+        const raw = (meta && typeof meta.summary === "string") ? meta.summary.trim() : "";
+        if (!raw) return `Cluster ${cId}`;
+        let label = raw.split(/[,;|•·]+/).map(s => s.trim()).filter(Boolean).slice(0, phrases).join(", ");
+        if (label.length > maxLen) label = label.slice(0, maxLen - 1) + "…";
+        return label;
       }
 
       highlightSphere(cId) {
@@ -1679,8 +1855,8 @@
 
         this.setActiveDisplayButton(mode);
 
-        // If a cluster is focused, keep the focus styling; otherwise apply global look.
-        const hasFocus = this.legendState?.selected != null;
+        // If a cluster or domain set is focused, keep that styling; otherwise apply global look.
+        const hasFocus = (this.legendState?.selected != null) || (this.domainFocus && this.domainFocus.size > 0);
 
         if (applyNow && this.pointsGroup && !hasFocus) {
           this.pointsGroup.children.forEach((m) => {
@@ -1688,8 +1864,11 @@
             m.material.depthWrite = true;
             m.material.needsUpdate = true;
           });
+          this.resetSphereAppearance();
+        } else if (applyNow && this.domainFocus && this.domainFocus.size > 0) {
+          // Re-apply domain emphasis with the new base opacities — NO RECENTER
+          this.applyDomainFocus({ recenter: false });
         }
-        if (applyNow && !hasFocus) this.resetSphereAppearance();
       }
 
       toggleAutoRotate() {
@@ -1800,7 +1979,6 @@
         });
 
         // No need to change sphere visibility; filter only affects points.
-        // If we applied initially after index load and a cluster is focused, keep focus materials.
         if (!initial && this.legendState?.selected == null) {
           // keep current global opacities
         }
