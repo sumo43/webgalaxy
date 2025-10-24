@@ -13,8 +13,15 @@
       --table-head:#1b212a; --table-row:#12161d; --table-row-alt:#0f141b; --grid:#2a303a;
     }
 
-    body{ padding:3rem 2rem; background:var(--bg); color:var(--text);
-      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;}
+    body{
+      padding:3rem 2rem; background:var(--bg); color:var(--text);
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+      /* Sticky footer layout */
+      min-height:100vh; display:flex; flex-direction:column;
+    }
+    /* Let the app area expand to push footer down */
+    #app{ flex:1 0 auto; }
+
     .container{ max-width:90%; }
 
     .section-title{ color:var(--heading); font-weight:800; letter-spacing:-.02em; line-height:1.1; }
@@ -66,6 +73,12 @@
     .text-muted{ color:var(--muted)!important; }
     hr{ border-color:var(--border); opacity:1; }
     code{ color:var(--text); background:#151a22; border:1px solid var(--border); padding:.125rem .25rem; border-radius:.375rem; }
+
+    /* ===== Footer ===== */
+    .page-footer{
+      border-top:1px solid var(--border);
+      margin-top:2rem; padding-top:.75rem;
+    }
 
     /* ===== Mobile-first fixes ===== */
     /* Scrollable tabs with snap */
@@ -233,5 +246,10 @@
       const firstSurveyKey=SORT_ORDER[0]; ensureSurveyCategoryLoaded(firstSurveyKey);
     })();
   </script>
+
+  <!-- Footer credit line -->
+  <footer class="page-footer small text-muted text-center">
+    Frontend credit to Jianglong Ye and Xueyan Zou:
+  </footer>
 </body>
 </html>
