@@ -2,6 +2,14 @@
   "cluster_id": 40,
   "papers": [
     {
+      "id": "rss25_rss25_44",
+      "paper_id": "rss25_44",
+      "title": "A Biconvex Method for Minimum-Time Motion Planning Through Sequences of Convex Sets",
+      "authors": "Tobia Marcucci, Mathew Halm, William Yang, Dongchan Lee, Andrew MarcheseTobia Marcucci, Mathew Halm, William Yang, Dongchan Lee, Andrew Marchese",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p044.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_gqFIybpsLX",
       "paper_id": "gqFIybpsLX",
       "title": "Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning",
@@ -16,6 +24,14 @@
       "authors": "Charles B Dawson, Chuchu Fan (Massachusetts Institute of Technology)",
       "paper_url": "http://www.roboticsproceedings.org/rss18/p037.pdf",
       "venue": "rss22"
+    },
+    {
+      "id": "rss25_rss25_24",
+      "paper_id": "rss25_24",
+      "title": "Coherance-based Approximate Derivatives via Web of Affine Spaces Optimization",
+      "authors": "Daniel Rakita, Chen Liang, Qian WangDaniel Rakita, Chen Liang, Qian Wang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p024.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss22_39",
@@ -58,12 +74,36 @@
       "venue": "rss23"
     },
     {
+      "id": "rss25_rss25_162",
+      "paper_id": "rss25_162",
+      "title": "Diffeomorphic Obstacle Avoidance for Contractive Dynamical Systems via Implicit Representations",
+      "authors": "Ken-Joel Simmoteit, Philipp Schillinger, Leonel RozoKen-Joel Simmoteit, Philipp Schillinger, Leonel Rozo",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p162.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_B7Lf6xEv7l",
       "paper_id": "B7Lf6xEv7l",
       "title": "DiffusionSeeder: Seeding Motion Optimization with Diffusion for Rapid Motion Planning",
       "authors": "Huang Huang, Balakumar Sundaralingam, Arsalan Mousavian, Adithyavairavan Murali, Ken Goldberg, Dieter Fox",
       "paper_url": "https://openreview.net/pdf?id=B7Lf6xEv7l",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_48",
+      "paper_id": "rss25_48",
+      "title": "Effective Sampling for Robot Motion Planning Through the Lens of Lattices",
+      "authors": "Itai Panasoff, Kiril SoloveyItai Panasoff, Kiril Solovey",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p048.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_49",
+      "paper_id": "rss25_49",
+      "title": "Efficient Hierarchical Any-Angle Path Planning on Multi-Resolution 3D Grids",
+      "authors": "Victor Reijgwart, Cesar Cadena, Roland Siegwart, Lionel OttVictor Reijgwart, Cesar Cadena, Roland Siegwart, Lionel Ott",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p049.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl23_psyvs5wdAV",
@@ -112,6 +152,14 @@
       "authors": "Noémie Jaquier, Viacheslav Borovitskiy, Andrei Smolensky, Alexander Terenin, Tamim Asfour, Leonel Rozo",
       "paper_url": "https://openreview.net/pdf?id=ovRdr3FOIIm",
       "venue": "corl21"
+    },
+    {
+      "id": "rss25_rss25_46",
+      "paper_id": "rss25_46",
+      "title": "Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations",
+      "authors": "Shucheng Kang, Guorui Liu, Heng YangShucheng Kang, Guorui Liu, Heng Yang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p046.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss23_59",
@@ -218,6 +266,14 @@
       "venue": "rss23"
     },
     {
+      "id": "rss25_rss25_47",
+      "paper_id": "rss25_47",
+      "title": "On the Surprising Robustness of Sequential Convex Optimization for Contact-Implicit Motion Planning",
+      "authors": "Yulin Li, Haoyu Han, Shucheng Kang, Jun Ma, Heng YangYulin Li, Haoyu Han, Shucheng Kang, Jun Ma, Heng Yang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p047.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss24_9",
       "paper_id": "9",
       "title": "Optimal Non-Redundant Manipulator Surface Coverage with Rank-Deficient Manipulability Constraints",
@@ -322,6 +378,14 @@
       "venue": "corl23"
     },
     {
+      "id": "rss25_rss25_120",
+      "paper_id": "rss25_120",
+      "title": "Riemannian Direct Trajectory Optimization of Rigid Bodies on Matrix Lie Groups",
+      "authors": "Sangli Teng, Tzu-Yuan Lin, William A. Clark, Ram Vasudevan, Maani GhaffariSangli Teng, Tzu-Yuan Lin, William A. Clark, Ram Vasudevan, Maani Ghaffari",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p120.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss24_35",
       "paper_id": "35",
       "title": "Safe Planning for Articulated Robots Using Reachability-based Obstacle Avoidance With Spheres",
@@ -352,6 +416,14 @@
       "authors": "Teng Guo, Jingjin Yu (Rutgers University)",
       "paper_url": "http://www.roboticsproceedings.org/rss18/p057.pdf",
       "venue": "rss22"
+    },
+    {
+      "id": "rss25_rss25_45",
+      "paper_id": "rss25_45",
+      "title": "Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning",
+      "authors": "Peter Werner, Richard Cheng, Tom Stewart, Russ Tedrake, Daniela RusPeter Werner, Richard Cheng, Tom Stewart, Russ Tedrake, Daniela Rus",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p045.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss22_41",

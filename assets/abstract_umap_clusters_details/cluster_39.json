@@ -2,6 +2,14 @@
   "cluster_id": 39,
   "papers": [
     {
+      "id": "rss25_rss25_126",
+      "paper_id": "rss25_126",
+      "title": "Adaptive Locomotion on Mud through Proprioceptive Sensing of Substrate Properties",
+      "authors": "Shipeng Liu, Jiaze Tang, Siyuan Meng, Feifei QianShipeng Liu, Jiaze Tang, Siyuan Meng, Feifei Qian",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p126.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss22_56",
       "paper_id": "56",
       "title": "CALI: Coarse-to-Fine ALIgnments Based Unsupervised Domain Adaptation of Traversability Prediction for Deployable Autonomous Navigation",
@@ -42,12 +50,28 @@
       "venue": "rss23"
     },
     {
+      "id": "rss25_rss25_123",
+      "paper_id": "rss25_123",
+      "title": "Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning",
+      "authors": "Arthicha Srisuchinnawong, Poramate ManoonpongArthicha Srisuchinnawong, Poramate Manoonpong",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p123.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_Ke5xrnBFAR",
       "paper_id": "Ke5xrnBFAR",
       "title": "Gameplay Filters: Robust Zero-Shot Safety through Adversarial Imagination",
       "authors": "Duy Phuong Nguyen, Kai-Chieh Hsu, Wenhao Yu, Jie Tan, Jaime Fernández Fisac",
       "paper_url": "https://openreview.net/pdf?id=Ke5xrnBFAR",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_1",
+      "paper_id": "rss25_1",
+      "title": "Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation",
+      "authors": "Pascal Roth, Jonas Frey, Cesar Cadena, Marco HutterPascal Roth, Jonas Frey, Cesar Cadena, Marco Hutter",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p001.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss22_69",
@@ -96,6 +120,14 @@
       "authors": "Justin Wasserman, Ananye Agarwal, Rishabh Jangir, Girish Chowdhary, Deepak Pathak, Abhinav Gupta",
       "paper_url": "https://openreview.net/pdf?id=VdyIhsh1jU",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_139",
+      "paper_id": "rss25_139",
+      "title": "Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving",
+      "authors": "Jacob Levy, Jason Gibson, Bogdan Vlahov, Erica Tevere, Evangelos Theodorou, David Fridovich-Keil, Patrick SpielerJacob Levy, Jason Gibson, Bogdan Vlahov, Erica Tevere, Evangelos Theodorou, David Fridovich-Keil, Patrick Spieler",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p139.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss24_22",
@@ -176,6 +208,14 @@
       "authors": "Samuel Triest, Matthew Sivaprakasam, Shubhra Aich, David Fan, Wenshan Wang, Sebastian Scherer",
       "paper_url": "https://openreview.net/pdf?id=AhEE5wrcLU",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_138",
+      "paper_id": "rss25_138",
+      "title": "Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain",
+      "authors": "Tong Xu, Chenhui Pan, Madhan B. Rao, Aniket Datar, Anuj Pokhrel, Yuanjie Lu, Xuesu XiaoTong Xu, Chenhui Pan, Madhan B. Rao, Aniket Datar, Anuj Pokhrel, Yuanjie Lu, Xuesu Xiao",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p138.pdf",
+      "venue": "rss25"
     }
   ]
 }

@@ -34,6 +34,30 @@
       "venue": "rss21"
     },
     {
+      "id": "rss25_rss25_134",
+      "paper_id": "rss25_134",
+      "title": "Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics",
+      "authors": "Jonas Frey, Turcan Tuna, Lanke Frank Tarimo Fu, Cedric Weibel, Katharine Patterson, Benjamin Krummenacher, Matthias Müller, Julian Nubert, Maurice Fallon, Cesar Cadena, Marco HutterJonas Frey, Turcan Tuna, Lanke Frank Tarimo Fu, Cedric Weibel, Katharine Patterson, Benjamin Krummenacher, Matthias Müller, Julian Nubert, Maurice Fallon, Cesar Cadena, Marco Hutter",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p134.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_32",
+      "paper_id": "rss25_32",
+      "title": "Building Rome with Convex Optimization",
+      "authors": "Haoyu Han, Heng YangHaoyu Han, Heng Yang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p032.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_7",
+      "paper_id": "rss25_7",
+      "title": "Certifiably-Correct Mapping for Safe Navigation Despite Odometry Drift",
+      "authors": "Devansh R. Agrawal, Rajiv Govindjee, Taekyung Kim, Trushant Adeshara, Jiangbo Yu, Anurekha Ravikumar, Dimitra PanagouDevansh R. Agrawal, Rajiv Govindjee, Taekyung Kim, Trushant Adeshara, Jiangbo Yu, Anurekha Ravikumar, Dimitra Panagou",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p007.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss21_78",
       "paper_id": "78",
       "title": "Continuous Integration over SO(3) for IMU Preintegration",
@@ -56,6 +80,14 @@
       "authors": "Kaicheng Zhang, Ziyang Hong, Shida Xu, Sen Wang (Heriot-Watt University)",
       "paper_url": "http://www.roboticsproceedings.org/rss18/p005.pdf",
       "venue": "rss22"
+    },
+    {
+      "id": "rss25_rss25_9",
+      "paper_id": "rss25_9",
+      "title": "Debiasing 6-DOF IMU via Hierarchical Learning of Continuous Bias Dynamics",
+      "authors": "Ben Liu, Tzu-Yuan Lin, Wei Zhang, Maani GhaffariBen Liu, Tzu-Yuan Lin, Wei Zhang, Maani Ghaffari",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p009.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss23_111",
@@ -98,6 +130,14 @@
       "venue": "rss23"
     },
     {
+      "id": "rss25_rss25_30",
+      "paper_id": "rss25_30",
+      "title": "GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction",
+      "authors": "Yuhan Xie, Yixi Cai, Yinqiang Zhang, Lei Yang, Jia PanYuhan Xie, Yixi Cai, Yinqiang Zhang, Lei Yang, Jia Pan",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p030.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss24_85",
       "paper_id": "85",
       "title": "iMESA: Incremental Distributed Optimization for Collaborative Simultaneous Localization and Mapping",
@@ -122,6 +162,22 @@
       "venue": "rss22"
     },
     {
+      "id": "rss25_rss25_38",
+      "paper_id": "rss25_38",
+      "title": "Joint State and Noise Covariance Estimation",
+      "authors": "Kasra Khosoussi, Iman ShamesKasra Khosoussi, Iman Shames",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p038.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_8",
+      "paper_id": "rss25_8",
+      "title": "Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation",
+      "authors": "Edgar Granados, Sumanth Tangirala, Kostas BekrisEdgar Granados, Sumanth Tangirala, Kostas Bekris",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p008.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl22_00OqOl4txhe",
       "paper_id": "00OqOl4txhe",
       "title": "Learning Interpretable BEV Based VIO without Deep Neural Networks",
@@ -136,6 +192,22 @@
       "authors": "Paloma Sodhi, Eric Dexheimer, Mustafa Mukadam, Stuart Anderson, Michael Kaess",
       "paper_url": "https://openreview.net/pdf?id=UD4TAsdE-JM",
       "venue": "corl21"
+    },
+    {
+      "id": "rss25_rss25_4",
+      "paper_id": "rss25_4",
+      "title": "MISO: Multiresolution Submap Optimization for Efficient Globally Consistent Neural Implicit Reconstruction",
+      "authors": "Yulun Tian, Hanwen Cao, Sunghwan Kim, Nikolay AtanasovYulun Tian, Hanwen Cao, Sunghwan Kim, Nikolay Atanasov",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p004.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_143",
+      "paper_id": "rss25_143",
+      "title": "Neural Inertial Odometry from Lie Events",
+      "authors": "Royina Karegoudra Jayanth, Yinshuang Xu, Evangelos Chatzipantazis, Kostas Daniilidis, Daniel GehrigRoyina Karegoudra Jayanth, Yinshuang Xu, Evangelos Chatzipantazis, Kostas Daniilidis, Daniel Gehrig",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p143.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss22_3",
@@ -160,6 +232,14 @@
       "authors": "Atanas Mirchev, Baris Kayalibay, Ahmed Agha, Patrick van der Smagt, Daniel Cremers, Justin Bayer",
       "paper_url": "https://openreview.net/pdf?id=X_qYPtJLaX8",
       "venue": "corl22"
+    },
+    {
+      "id": "rss25_rss25_41",
+      "paper_id": "rss25_41",
+      "title": "RAMEN: Real-time Asynchronous Multi-agent Neural Implicit Mapping",
+      "authors": "Hongrui Zhao, Boris Ivanovic, Negar MehrHongrui Zhao, Boris Ivanovic, Negar Mehr",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p041.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl22_EVFrjBgYsPZ",

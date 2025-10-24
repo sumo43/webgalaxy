@@ -18,6 +18,14 @@
       "venue": "rss24"
     },
     {
+      "id": "rss25_rss25_155",
+      "paper_id": "rss25_155",
+      "title": "Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization",
+      "authors": "Jonathan Heewon Yang, Chuyuan Fu, Dhruv Shah, Dorsa Sadigh, Fei Xia, Tingnan ZhangJonathan Heewon Yang, Chuyuan Fu, Dhruv Shah, Dorsa Sadigh, Fei Xia, Tingnan Zhang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p155.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl23_W0zgY2mBTA8",
       "paper_id": "W0zgY2mBTA8",
       "title": "ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation",
@@ -58,6 +66,14 @@
       "venue": "corl23"
     },
     {
+      "id": "rss25_rss25_78",
+      "paper_id": "rss25_78",
+      "title": "DDAT: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories",
+      "authors": "Jean-Baptiste Bouvier, Kanghyun Ryu, Qiayuan Liao, Koushil Sreenath, Negar MehrJean-Baptiste Bouvier, Kanghyun Ryu, Qiayuan Liao, Koushil Sreenath, Negar Mehr",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p078.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_lt0Yf8Wh5O",
       "paper_id": "lt0Yf8Wh5O",
       "title": "Differentiable Robot Rendering",
@@ -96,6 +112,14 @@
       "authors": "Junbang Liang, Ruoshi Liu, Ege Ozguroglu, Sruthi Sudhakar, Achal Dave, Pavel Tokmakov, Shuran Song, Carl Vondrick",
       "paper_url": "https://openreview.net/pdf?id=InT87E5sr4",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_159",
+      "paper_id": "rss25_159",
+      "title": "Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training",
+      "authors": "Xiatao Sun, Shuo Yang, Yinxing Chen, Francis Fan, Yiyan (Edgar) Liang, Daniel RakitaXiatao Sun, Shuo Yang, Yinxing Chen, Francis Fan, Yiyan (Edgar) Liang, Daniel Rakita",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p159.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_ueBmGhLOXP",
@@ -160,6 +184,14 @@
       "authors": "Moritz Reuss (Karlsruhe Institute of Technology)*, Maximilian Li (Karlsruhe Institute of Technology), Xiaogang Jia (Karlsruhe Institute of Technology), Rudolf Lioutikov (Karlsruhe Institute of Technology)Moritz Reuss (Karlsruhe Institute of Technology)*, Maximilian Li (Karlsruhe Institute of Technology), Xiaogang Jia (Karlsruhe Institute of Technology), Rudolf Lioutikov (Karlsruhe Institute of Technology)",
       "paper_url": "http://www.roboticsproceedings.org/rss19/p028.pdf",
       "venue": "rss23"
+    },
+    {
+      "id": "rss25_rss25_158",
+      "paper_id": "rss25_158",
+      "title": "IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation",
+      "authors": "Krishan Rana, Robert Lee, David Pershouse, Niko SuenderhaufKrishan Rana, Robert Lee, David Pershouse, Niko Suenderhauf",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p158.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss24_96",
@@ -240,6 +272,22 @@
       "authors": "Yixiao Wang, Yifei Zhang, Mingxiao Huo, Thomas Tian, Xiang Zhang, Yichen Xie, Chenfeng Xu, Pengliang Ji, Wei Zhan, Mingyu Ding, Masayoshi Tomizuka",
       "paper_url": "https://openreview.net/pdf?id=zeYaLS2tw5",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_74",
+      "paper_id": "rss25_74",
+      "title": "Unified Video Action Model",
+      "authors": "Shuang Li, Yihuai Gao, Dorsa Sadigh, Shuran SongShuang Li, Yihuai Gao, Dorsa Sadigh, Shuran Song",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p074.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_15",
+      "paper_id": "rss25_15",
+      "title": "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets",
+      "authors": "Chuning Zhu, Raymond Yu, Siyuan Feng, Benjamin Burchfiel, Paarth Shah, Abhishek GuptaChuning Zhu, Raymond Yu, Siyuan Feng, Benjamin Burchfiel, Paarth Shah, Abhishek Gupta",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p015.pdf",
+      "venue": "rss25"
     }
   ]
 }

@@ -2,6 +2,14 @@
   "cluster_id": 58,
   "papers": [
     {
+      "id": "rss25_rss25_55",
+      "paper_id": "rss25_55",
+      "title": "A low-cost and lightweight 6 DoF bimanual arm for dynamic and contact-rich manipulation",
+      "authors": "Jaehyung Kim, Jiho Kim, Dongryung Lee, Yujin Jang, Beomjoon KimJaehyung Kim, Jiho Kim, Dongryung Lee, Yujin Jang, Beomjoon Kim",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p055.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss21_76",
       "paper_id": "76",
       "title": "A Low-Cost Compliant Gripper Using Cooperative Mini-Delta Robots for Dexterous Manipulation",
@@ -58,12 +66,68 @@
       "venue": "corl24"
     },
     {
+      "id": "rss25_rss25_62",
+      "paper_id": "rss25_62",
+      "title": "Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot",
+      "authors": "Yufeng Chi, Qiayuan Liao, Junfeng Long, Xiaoyu Huang, Sophia Shao, Borivoje Nikolic, Zhongyu Li, Koushil SreenathYufeng Chi, Qiayuan Liao, Junfeng Long, Xiaoyu Huang, Sophia Shao, Borivoje Nikolic, Zhongyu Li, Koushil Sreenath",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p062.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_132",
+      "paper_id": "rss25_132",
+      "title": "Demonstrating LEAP Hand V3: Low-Cost, Easy-to-Assemble, High-Performance Hand for Robot Learning",
+      "authors": "Kenneth Shaw, Deepak PathakKenneth Shaw, Deepak Pathak",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p132.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss24_14",
       "paper_id": "14",
       "title": "Demonstrating Learning from Humans on Open-Source Dexterous Robot Hands",
       "authors": "Kenneth Shaw, Ananye Agarwal, Shikhar Bahl, Mohan Kumar Srirama, Alexandre Kirchmeyer, Aditya Kannan, Aravind Sivakumar, Deepak PathakKenneth Shaw, Ananye Agarwal, Shikhar Bahl, Mohan Kumar Srirama, Alexandre Kirchmeyer, Aditya Kannan, Aravind Sivakumar, Deepak Pathak",
       "paper_url": "https://www.roboticsproceedings.org/rss20/p014.pdf",
       "venue": "rss24"
+    },
+    {
+      "id": "rss25_rss25_75",
+      "paper_id": "rss25_75",
+      "title": "DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies",
+      "authors": "Tony Tao, Mohan Kumar Srirama, Jason Jingzhou Liu, Kenneth Shaw, Deepak PathakTony Tao, Mohan Kumar Srirama, Jason Jingzhou Liu, Kenneth Shaw, Deepak Pathak",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p075.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_104",
+      "paper_id": "rss25_104",
+      "title": "DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove",
+      "authors": "Han Zhang, Songbo Hu, Zhecheng Yuan, Huazhe XuHan Zhang, Songbo Hu, Zhecheng Yuan, Huazhe Xu",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p104.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_135",
+      "paper_id": "rss25_135",
+      "title": "emg2tendon: From sEMG Signals to Tendon Control in Musculoskeletal Hands",
+      "authors": "Sagar VermaSagar Verma",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p135.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_130",
+      "paper_id": "rss25_130",
+      "title": "Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning",
+      "authors": "Guanqi He, Xiaofeng Guo, Luyi Tang, Yuanhang Zhang, Mohammadreza Mousaei, Jiahe Xu, Junyi Geng, Sebastian Scherer, Guanya ShiGuanqi He, Xiaofeng Guo, Luyi Tang, Yuanhang Zhang, Mohammadreza Mousaei, Jiahe Xu, Junyi Geng, Sebastian Scherer, Guanya Shi",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p130.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_70",
+      "paper_id": "rss25_70",
+      "title": "HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit",
+      "authors": "Qingwei Ben, Feiyu Jia, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao PangQingwei Ben, Feiyu Jia, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p070.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_WnSl42M9Z4",
@@ -130,12 +194,28 @@
       "venue": "corl24"
     },
     {
+      "id": "rss25_rss25_42",
+      "paper_id": "rss25_42",
+      "title": "RoboPanoptes: The All-Seeing Robot with Whole-body Dexterity",
+      "authors": "Xiaomeng Xu, Dominik Bauer, Shuran SongXiaomeng Xu, Dominik Bauer, Shuran Song",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p042.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss22_23",
       "paper_id": "23",
       "title": "Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube",
       "authors": "Aravind Sivakumar, Kenneth Shaw, Deepak Pathak (Carnegie Mellon University)",
       "paper_url": "http://www.roboticsproceedings.org/rss18/p023.pdf",
       "venue": "rss22"
+    },
+    {
+      "id": "rss25_rss25_131",
+      "paper_id": "rss25_131",
+      "title": "RUKA: Rethinking the Design of Humanoid Hands with Learning",
+      "authors": "Anya Zorin, Irmak Guzey, Nikhil X. Bhattasali, Lerrel PintoAnya Zorin, Irmak Guzey, Nikhil X. Bhattasali, Lerrel Pinto",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p131.pdf",
+      "venue": "rss25"
     },
     {
       "id": "rss24_128",

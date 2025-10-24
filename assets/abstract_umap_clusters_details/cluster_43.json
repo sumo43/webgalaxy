@@ -2,6 +2,22 @@
   "cluster_id": 43,
   "papers": [
     {
+      "id": "rss25_rss25_117",
+      "paper_id": "rss25_117",
+      "title": "A Generic Continuous Multi-Joint Spinal Robotic System for Agile and Accurate Behaviors with GNN-MPC method",
+      "authors": "Ying Wu, Zida Zhou, Renmingliu, Lanxiang Zheng, Hui ChengYing Wu, Zida Zhou, Renmingliu, Lanxiang Zheng, Hui Cheng",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p117.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_67",
+      "paper_id": "rss25_67",
+      "title": "A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion",
+      "authors": "Yufei Xue, Wentao Dong, Minghuan Liu, Weinan Zhang, Jiangmiao PangYufei Xue, Wentao Dong, Minghuan Liu, Weinan Zhang, Jiangmiao Pang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p067.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_GGuNkjQSrk",
       "paper_id": "GGuNkjQSrk",
       "title": "Action Space Design in Reinforcement Learning for Robot Motor Skills",
@@ -34,6 +50,30 @@
       "venue": "rss24"
     },
     {
+      "id": "rss25_rss25_61",
+      "paper_id": "rss25_61",
+      "title": "AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control",
+      "authors": "Jialong Li, Xuxin Cheng, Tianshu Huang, Shiqi Yang, Ri-Zhao Qiu, Xiaolong WangJialong Li, Xuxin Cheng, Tianshu Huang, Shiqi Yang, Ri-Zhao Qiu, Xiaolong Wang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p061.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_66",
+      "paper_id": "rss25_66",
+      "title": "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills",
+      "authors": "Tairan He, Jiawei Gao, Wenli Xiao, Yuanhang Zhang, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbabu, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica K. Hodgins, Linxi Fan, Yuke Zhu, Changliu Liu, Guanya ShiTairan He, Jiawei Gao, Wenli Xiao, Yuanhang Zhang, Zi Wang, Jiashun Wang, Zhengyi Luo, Guanqi He, Nikhil Sobanbabu, Chaoyi Pan, Zeji Yi, Guannan Qu, Kris Kitani, Jessica K. Hodgins, Linxi Fan, Yuke Zhu, Changliu Liu, Guanya Shi",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p066.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_68",
+      "paper_id": "rss25_68",
+      "title": "BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds",
+      "authors": "Huayi Wang, Zirui Wang, Junli Ren, Qingwei Ben, Tao Huang, Weinan Zhang, Jiangmiao PangHuayi Wang, Zirui Wang, Junli Ren, Qingwei Ben, Tao Huang, Weinan Zhang, Jiangmiao Pang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p068.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_wH7Wv0nAm8",
       "paper_id": "wH7Wv0nAm8",
       "title": "Bi-Level Motion Imitation for Humanoid Robots",
@@ -48,6 +88,14 @@
       "authors": "Jonah Siekmann (Oregon State University), Kevin Green (Oregon State University), John Warila (Oregon State University), Alan Fern (Oregon State University), Jonathan Hurst (Oregon State University)",
       "paper_url": "http://www.roboticsproceedings.org/rss17/p061.pdf",
       "venue": "rss21"
+    },
+    {
+      "id": "rss25_rss25_125",
+      "paper_id": "rss25_125",
+      "title": "Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation",
+      "authors": "Nolan Fey, Gabriel B. Margolis, Martin Peticco, Pulkit AgrawalNolan Fey, Gabriel B. Margolis, Martin Peticco, Pulkit Agrawal",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p125.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl23_MnANx01rV2w",
@@ -98,6 +146,14 @@
       "venue": "corl24"
     },
     {
+      "id": "rss25_rss25_127",
+      "paper_id": "rss25_127",
+      "title": "Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding",
+      "authors": "Hang Liu, Sangli Teng, Ben Liu, Wei Zhang, Maani GhaffariHang Liu, Sangli Teng, Ben Liu, Wei Zhang, Maani Ghaffari",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p127.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss24_107",
       "paper_id": "107",
       "title": "Expressive Whole-Body Control for Humanoid Robots",
@@ -120,6 +176,14 @@
       "authors": "Baxi Chong (Georgia Tech)*, Tianyu Wang (Georgia Tech), Daniel Irvine (Georgia Tech), Velin Kojouharov  (Georgia Tech), Bo Lin (Georgia Tech), Howie Choset (Carnegie Mellon University), Daniel Goldman (Georgia Tech), Grigoriy Blekherman (Georgia Tech)Baxi Chong (Georgia Tech)*, Tianyu Wang (Georgia Tech), Daniel Irvine (Georgia Tech), Velin Kojouharov  (Georgia Tech), Bo Lin (Georgia Tech), Howie Choset (Carnegie Mellon University), Daniel Goldman (Georgia Tech), Grigoriy Blekherman (Georgia Tech)",
       "paper_url": "http://www.roboticsproceedings.org/rss19/p094.pdf",
       "venue": "rss23"
+    },
+    {
+      "id": "rss25_rss25_69",
+      "paper_id": "rss25_69",
+      "title": "Gait-Net-augmented Implicit Kino-dynamic MPC for Dynamic Variable-frequency Humanoid Locomotion over Discrete Terrains",
+      "authors": "Junheng Li, Ziwei Duan, Junchao Ma, Quan NguyenJunheng Li, Ziwei Duan, Junchao Ma, Quan Nguyen",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p069.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_ySI0tBYxpz",
@@ -146,12 +210,28 @@
       "venue": "corl22"
     },
     {
+      "id": "rss25_rss25_119",
+      "paper_id": "rss25_119",
+      "title": "Geometric Gait Optimization for Kinodynamic Systems Using a Lie Group Integrator",
+      "authors": "Yanhao Yang, Ross HattonYanhao Yang, Ross Hatton",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p119.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "rss22_21",
       "paper_id": "21",
       "title": "Human Motion Control of Quadrupedal Robots using Deep Reinforcement Learning",
       "authors": "Sunwoo Kim (Seoul National University), Maks Sorokin (Georgia Institute of Technology), Jehee Lee (Seoul National University), Sehoon Ha (Georgia Institute of Technology)",
       "paper_url": "http://www.roboticsproceedings.org/rss18/p021.pdf",
       "venue": "rss22"
+    },
+    {
+      "id": "rss25_rss25_122",
+      "paper_id": "rss25_122",
+      "title": "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining",
+      "authors": "Yaru Niu, Yunzhe Zhang, Mingyang Yu, Changyi Lin, Chenhao Li, Yikai Wang, Yuxiang Yang, Wenhao Yu, Tingnan Zhang, Zhenzhen Li, Jonathan Francis, Bingqing Chen, Jie Tan, Ding ZhaoYaru Niu, Yunzhe Zhang, Mingyang Yu, Changyi Lin, Chenhao Li, Yikai Wang, Yuxiang Yang, Wenhao Yu, Tingnan Zhang, Zhenzhen Li, Jonathan Francis, Bingqing Chen, Jie Tan, Ding Zhao",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p122.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_fs7ia3FqUM",
@@ -210,6 +290,14 @@
       "venue": "corl24"
     },
     {
+      "id": "rss25_rss25_63",
+      "paper_id": "rss25_63",
+      "title": "Learning Getting-Up Policies for Real-World Humanoid Robots",
+      "authors": "Xialin He, Runpei Dong, Zixuan Chen, Saurabh GuptaXialin He, Runpei Dong, Zixuan Chen, Saurabh Gupta",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p063.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_Qz2N4lWBk3",
       "paper_id": "Qz2N4lWBk3",
       "title": "Learning Granular Media Avalanche Behavior for Indirectly Manipulating Obstacles on a Granular Slope",
@@ -224,6 +312,14 @@
       "authors": "Junfeng Long, Wenye Yu, Quanyi Li, ZiRui Wang, Dahua Lin, Jiangmiao Pang",
       "paper_url": "https://openreview.net/pdf?id=uMZ2jnZUDX",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_64",
+      "paper_id": "rss25_64",
+      "title": "Learning Humanoid Standing-up Control across Diverse Postures",
+      "authors": "Tao Huang, Junli Ren, Huayi Wang, Zirui Wang, Qingwei Ben, Muning Wen, Xiao Chen, Jianan Li, Jiangmiao PangTao Huang, Junli Ren, Huayi Wang, Zirui Wang, Qingwei Ben, Muning Wen, Xiao Chen, Jianan Li, Jiangmiao Pang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p064.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_XopATjibyz",
@@ -362,6 +458,14 @@
       "venue": "rss23"
     },
     {
+      "id": "rss25_rss25_124",
+      "paper_id": "rss25_124",
+      "title": "SATA: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning",
+      "authors": "Li Peizhuo, Hongyi Li, Ge Sun, Jin Cheng, Xinrong Yang, Guillaume Bellegarda, Milad Shafiee Ashtiani, Yuhong Cao, Auke Ijspeert, Guillaume Adrien SartorettiLi Peizhuo, Hongyi Li, Ge Sun, Jin Cheng, Xinrong Yang, Guillaume Bellegarda, Milad Shafiee Ashtiani, Yuhong Cao, Auke Ijspeert, Guillaume Adrien Sartoretti",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p124.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl23_X7okQlJz9M",
       "paper_id": "X7okQlJz9M",
       "title": "Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control",
@@ -400,6 +504,14 @@
       "authors": "Tim Seyde, Wilko Schwarting, Igor Gilitschenski, Markus Wulfmeier, Daniela Rus",
       "paper_url": "https://openreview.net/pdf?id=JT4orC5QaLQ",
       "venue": "corl21"
+    },
+    {
+      "id": "rss25_rss25_133",
+      "paper_id": "rss25_133",
+      "title": "Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots",
+      "authors": "Juntao He, Baxi Chong, Massimiliano Iaschi, Vincent R. Nienhusser, Sehoon Ha, Daniel GoldmanJuntao He, Baxi Chong, Massimiliano Iaschi, Vincent R. Nienhusser, Sehoon Ha, Daniel Goldman",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p133.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl21_1yj7yMTtna",

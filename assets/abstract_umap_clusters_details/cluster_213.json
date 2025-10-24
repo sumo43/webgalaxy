@@ -1,0 +1,773 @@
+{
+  "cluster_id": 213,
+  "papers": [
+    {
+      "id": "quantumPRX23_https://openalex.org/W4377982802",
+      "paper_id": "https://openalex.org/W4377982802",
+      "title": "<i>Ab Initio</i> Derivation of Lattice-Gauge-Theory Dynamics for Cold Gases in Optical Lattices",
+      "authors": "F. Surace, P. Fromholz, N. Oppong, M. Dalmonte, M. Aidelsburger",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020330",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3182584302",
+      "paper_id": "https://openalex.org/W3182584302",
+      "title": "Accelerated Quantum Monte Carlo with Mitigated Error on Noisy Quantum Computer",
+      "authors": "Yongdan Yang, B. Lu, Ying Li",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040361",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3181079758",
+      "paper_id": "https://openalex.org/W3181079758",
+      "title": "Adaptive Variational Quantum Dynamics Simulations",
+      "authors": "Yongxin Yao, N. Gomes, Feng Zhang, Caizhuang Wang, K. Ho, Thomas Iadecola, P. P. Orth",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030307",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4399985100",
+      "paper_id": "https://openalex.org/W4399985100",
+      "title": "Adiabatic Time Evolution of Highly Excited States",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020365",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4306409811",
+      "paper_id": "https://openalex.org/W4306409811",
+      "title": "Analog Quantum Simulation of the Dynamics of Open Quantum Systems with Quantum Dots and Microelectronic Circuits",
+      "authors": "Chang Woo Kim, J. Nichol, A. Jordan, I. Franco",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040308",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3213857695",
+      "paper_id": "https://openalex.org/W3213857695",
+      "title": "Benchmarking a Novel Efficient Numerical Method for Localized 1D Fermi-Hubbard Systems on a Quantum Simulator",
+      "authors": "Bharath Hebbe Madhusudhana, S. Scherg, Thomas Kohlert, I. Bloch, M. Aidelsburger",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040325",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4404090240",
+      "paper_id": "https://openalex.org/W4404090240",
+      "title": "Benchmarking Digital Quantum Simulations Above Hundreds of Qubits Using Quantum Critical Dynamics",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040320",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4307931631",
+      "paper_id": "https://openalex.org/W4307931631",
+      "title": "Beyond Hard-Core Bosons in Transmon Arrays",
+      "authors": "Olli Mansikkamäki, S. Laine, Atte Piltonen, M. Silveri",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040314",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4294958662",
+      "paper_id": "https://openalex.org/W4294958662",
+      "title": "Boiling Quantum Vacuum: Thermal Subsystems from Ground-State Entanglement",
+      "authors": "Ali G. Moghaddam, Kim Poyhonen, T. Ojanen",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030335",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4292249346",
+      "paper_id": "https://openalex.org/W4292249346",
+      "title": "Characterization and Verification of Trotterized Digital Quantum Simulation Via Hamiltonian and Liouvillian Learning",
+      "authors": "Lorenzo Pastori, Tobias Olsacher, C. Kokail, P. Zoller",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030324",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4380362775",
+      "paper_id": "https://openalex.org/W4380362775",
+      "title": "Classical Simulation of Short-Time Quantum Dynamics",
+      "authors": "D. Wild, Álvaro M. Alhambra",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020340",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4403640561",
+      "paper_id": "https://openalex.org/W4403640561",
+      "title": "Cold-Atom Particle Collider",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040310",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4225699271",
+      "paper_id": "https://openalex.org/W4225699271",
+      "title": "Collisions of False-Vacuum Bubble Walls in a Quantum Spin Chain",
+      "authors": "A. Milsted, Junyu Liu, J. Preskill, G. Vidal",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020316",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3202861780",
+      "paper_id": "https://openalex.org/W3202861780",
+      "title": "Complexity of Fermionic Dissipative Interactions and Applications to Quantum Computing",
+      "authors": "O. Shtanko, A. Deshpande, P. Julienne, A. Gorshkov",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030350",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4376633025",
+      "paper_id": "https://openalex.org/W4376633025",
+      "title": "Complexity of Implementing Trotter Steps",
+      "authors": "G. Low, Yuan Su, Yu Tong, Minh C. Tran",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020323",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3202536522",
+      "paper_id": "https://openalex.org/W3202536522",
+      "title": "Concentration for Random Product Formulas",
+      "authors": "Chi-Fang Chen, Hsin-Yuan Huang, R. Kueng, J. Tropp",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040305",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3015369117",
+      "paper_id": "https://openalex.org/W3015369117",
+      "title": "Continuously Parametrized Quantum Simulation of Molecular Electron-Transfer Reactions",
+      "authors": "F. Schlawin, M. Gessner, A. Buchleitner, T. Schaetz, S. Skourtis",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010314",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414466428",
+      "paper_id": "https://openalex.org/W4414466428",
+      "title": "Correcting and Extending Trotterized Quantum Many-Body Dynamics",
+      "authors": "Gian Gentinetta, Friederike Metz, Giuseppe Carleo",
+      "paper_url": "https://doi.org/10.1103/1nqt-x5xh",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414689341",
+      "paper_id": "https://openalex.org/W4414689341",
+      "title": "Delocalized Excitation Transfer in Open Quantum Systems with Long-Range Interactions",
+      "authors": "Diego Fallas Padilla, Visal So, Abhishek Menon, Roman Zhuravel, Han Pu, Guido Pagano",
+      "paper_url": "https://doi.org/10.1103/bxwl-sbsn",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4403603404",
+      "paper_id": "https://openalex.org/W4403603404",
+      "title": "Digital Quantum Simulation of a (1+1)D SU(2) Lattice Gauge Theory with Ion Qudits",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040309",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3156581824",
+      "paper_id": "https://openalex.org/W3156581824",
+      "title": "Digital Quantum Simulation of Open Quantum Systems Using Quantum Imaginary–Time Evolution",
+      "authors": "Hirsh Kamakari, Shi-Ning Sun, M. Motta, A. Minnich",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.010320",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4229016961",
+      "paper_id": "https://openalex.org/W4229016961",
+      "title": "Digital Quantum Simulation of the Schwinger Model and Symmetry Protection with Trapped Ions",
+      "authors": "N. Nguyen, Minh C. Tran, Yingyue Zhu, Alaina M. Green, C. H. Alderete, Z. Davoudi, N. Linke",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020324",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3127727805",
+      "paper_id": "https://openalex.org/W3127727805",
+      "title": "Digital-Analog Quantum Simulations Using the Cross-Resonance Effect",
+      "authors": "Tasio Gonzalez-Raya, R. Asensio-Perea, Ana Martin, L. C. C'eleri, M. Sanz, P. Lougovski, E. Dumitrescu",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020328",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4400197241",
+      "paper_id": "https://openalex.org/W4400197241",
+      "title": "Dilute Measurement-Induced Cooling into Many-Body Ground States",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030301",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4407904164",
+      "paper_id": "https://openalex.org/W4407904164",
+      "title": "Dilution of Error in Digital Hamiltonian Simulation",
+      "authors": "Etienne Granet, Henrik Dreyer",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010333",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4306844751",
+      "paper_id": "https://openalex.org/W4306844751",
+      "title": "Dynamical Hadron Formation in Long-Range Interacting Quantum Spin Chains",
+      "authors": "J. Vovrosh, R. Mukherjee, Alvise Bastianello, J. Knolle",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040309",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4408657038",
+      "paper_id": "https://openalex.org/W4408657038",
+      "title": "Efficient Simulation of Quantum Chemistry Problems in an Enlarged Basis Set",
+      "authors": "Maxine Luo, J. I. Cirac",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010355",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4391132757",
+      "paper_id": "https://openalex.org/W4391132757",
+      "title": "Efficient Tensor Network Simulation of IBM’s Eagle Kicked Ising Experiment",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010308",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4282546151",
+      "paper_id": "https://openalex.org/W4282546151",
+      "title": "Eliminating Radiative Losses in Long-Range Exciton Transport",
+      "authors": "S. Davidson, F. A. Pollock, E. Gauger",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020354",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4362470454",
+      "paper_id": "https://openalex.org/W4362470454",
+      "title": "Engineering Dynamically Decoupled Quantum Simulations with Trapped Ions",
+      "authors": "W. Morong, K. Collins, A. De, E. Stavropoulos, T. You, C. Monroe",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010334",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3199401942",
+      "paper_id": "https://openalex.org/W3199401942",
+      "title": "Exact Dynamics of Nonadditive Environments in Non-Markovian Open Quantum Systems",
+      "authors": "Dominic Gribben, D. Rouse, Jake Iles-Smith, A. Strathearn, Henry Maguire, P. Kirton, A. Nazir, E. Gauger, B. Lovett",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.010321",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4387673860",
+      "paper_id": "https://openalex.org/W4387673860",
+      "title": "Experimental Optical Simulator of Reconfigurable and Complex Quantum Environment",
+      "authors": "P. Renault, J. Nokkala, Ganaël Roeland, N. Joly, R. Zambrini, S. Maniscalco, J. Piilo, N. Treps, V. Parigi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040310",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4405722389",
+      "paper_id": "https://openalex.org/W4405722389",
+      "title": "Exponential Improvements in the Simulation of Lattice Gauge Theories Using Near-Optimal Techniques",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040347",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4410958460",
+      "paper_id": "https://openalex.org/W4410958460",
+      "title": "Fast mixing of weakly interacting fermionic systems at any temperature",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/h1dx-ps5p",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3131496584",
+      "paper_id": "https://openalex.org/W3131496584",
+      "title": "Faster Digital Quantum Simulation by Symmetry Protection",
+      "authors": "Minh C. Tran, Yuan Su, D. Carney, Jacob M. Taylor",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010323",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3139247747",
+      "paper_id": "https://openalex.org/W3139247747",
+      "title": "Fate of the False Vacuum: Finite Temperature, Entropy, and Topological Phase in Quantum Simulations of the Early Universe",
+      "authors": "K. Ng, B. Opanchuk, M. Thenabadu, M. Reid, P. Drummond",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010350",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3127046935",
+      "paper_id": "https://openalex.org/W3127046935",
+      "title": "Fully Quantum Scalable Description of Driven-Dissipative Lattice Models",
+      "authors": "P. Deuar, A. Ferrier, M. Matuszewski, G. Orso, M. Szyma'nska",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010319",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3207962723",
+      "paper_id": "https://openalex.org/W3207962723",
+      "title": "Gauge-Symmetry Protection Using Single-Body Terms",
+      "authors": "Jad C. Halimeh, Haifeng Lang, Julius Mildenberger, Zhang Jiang, P. Hauke",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040311",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3128458298",
+      "paper_id": "https://openalex.org/W3128458298",
+      "title": "General Conditions for Universality of Quantum Hamiltonians",
+      "authors": "Tamara Kohler, Stephen Piddock, Johannes Bausch, T. Cubitt",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.010308",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3189665854",
+      "paper_id": "https://openalex.org/W3189665854",
+      "title": "Generalized Adiabatic Theorems: Quantum Systems Driven by Modulated Time-Varying Fields",
+      "authors": "A. Dodin, P. Brumer",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030302",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4392359439",
+      "paper_id": "https://openalex.org/W4392359439",
+      "title": "Generating Function for Projected Entangled-Pair States",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010335",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4396721832",
+      "paper_id": "https://openalex.org/W4396721832",
+      "title": "High-Order Randomized Compiler for Hamiltonian Simulation",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020330",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4392701859",
+      "paper_id": "https://openalex.org/W4392701859",
+      "title": "Improved Precision Scaling for Simulating Coupled Quantum-Classical Dynamics",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010343",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3177124855",
+      "paper_id": "https://openalex.org/W3177124855",
+      "title": "Learning from Physics Experiments with Quantum Computers: Applications in Muon Spectroscopy",
+      "authors": "Sam McArdle",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020349",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4302007640",
+      "paper_id": "https://openalex.org/W4302007640",
+      "title": "Local Variational Quantum Compilation of Large-Scale Hamiltonian Dynamics",
+      "authors": "Kaoru Mizuta, Yuya O. Nakagawa, K. Mitarai, K. Fujii",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040302",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3213739331",
+      "paper_id": "https://openalex.org/W3213739331",
+      "title": "Locally Accurate Tensor Networks for Thermal States and Time Evolution",
+      "authors": "Álvaro M. Alhambra, J. Cirac",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040331",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4281723981",
+      "paper_id": "https://openalex.org/W4281723981",
+      "title": "Long-Range Ising Interactions Mediated by<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mi>λ</mml:mi><mml:msup><mml:mi>ϕ</mml:mi><mml:mn>4</mml:mn></mml:msup></mml:math>Fields: Probing the Renormalization of Sound in Crystals of Trapped Ions",
+      "authors": "Gonzalo Martín-Vázquez, G. Aarts, A. Bermudez, Markus P. Müller",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020352",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4385897209",
+      "paper_id": "https://openalex.org/W4385897209",
+      "title": "Making Trotterization Adaptive and Energy-Self-Correcting for NISQ Devices and Beyond",
+      "authors": "Hongzheng Zhao, M. Bukov, M. Heyl, R. Moessner",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.030319",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3045462524",
+      "paper_id": "https://openalex.org/W3045462524",
+      "title": "Many-Body Physics in the NISQ Era: Quantum Programming a Discrete Time Crystal",
+      "authors": "Matteo Ippoliti, K. Kechedzhi, R. Moessner, S. Sondhi, V. Khemani",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030346",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W3214148217",
+      "paper_id": "https://openalex.org/W3214148217",
+      "title": "Measurement-Driven Navigation in Many-Body Hilbert Space: Active-Decision Steering",
+      "authors": "Yaroslav Herasymenko, I. Gornyi, Y. Gefen",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020347",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4388866427",
+      "paper_id": "https://openalex.org/W4388866427",
+      "title": "Noise-Assisted Digital Quantum Simulation of Open Systems Using Partial Probabilistic Error Cancellation",
+      "authors": "J. D. Guimarães, James Lim, M. Vasilevskiy, S. Huelga, M. Plenio",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040329",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4401884166",
+      "paper_id": "https://openalex.org/W4401884166",
+      "title": "Noise-Aware Variational Eigensolvers: A Dissipative Route for Lattice Gauge Theories",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030340",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4288051797",
+      "paper_id": "https://openalex.org/W4288051797",
+      "title": "Nonperturbative Analytical Diagonalization of Hamiltonians with Application to Circuit QED",
+      "authors": "Boxi Li, T. Calarco, F. Motzoi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030313",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4296841586",
+      "paper_id": "https://openalex.org/W4296841586",
+      "title": "Optimal Steering of Matrix Product States and Quantum Many-Body Scars",
+      "authors": "Marko Ljubotina, B. Roos, D. Abanin, Maksym Serbyn",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030343",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4313557487",
+      "paper_id": "https://openalex.org/W4313557487",
+      "title": "Probing Critical Behavior of Long-Range Transverse-Field Ising Model through Quantum Kibble-Zurek Mechanism",
+      "authors": "B.-W. Li, Y.-K. Wu, Q.-X. Mei, R. Yao, W. Lian, M. Cai, Y. Wang, B. Qi, L. Yao, Liqiang He, Z-C Zhou, L. Duan",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010302",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3198488654",
+      "paper_id": "https://openalex.org/W3198488654",
+      "title": "Probing Infinite Many-Body Quantum Systems with Finite-Size Quantum Simulators",
+      "authors": "V. Kuzmin, Torsten V. Zache, C. Kokail, Lorenzo Pastori, A. Celi, M. Baranov, P. Zoller",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020304",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3145689608",
+      "paper_id": "https://openalex.org/W3145689608",
+      "title": "Quantum Algorithm for Time-Dependent Hamiltonian Simulation by Permutation Expansion",
+      "authors": "Yi-Hsiang Chen, A. Kalev, I. Hen",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030342",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3172300948",
+      "paper_id": "https://openalex.org/W3172300948",
+      "title": "Quantum Coarse Graining for Extreme Dimension Reduction in Modeling Stochastic Temporal Dynamics",
+      "authors": "T. J. Elliott",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020342",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4385971914",
+      "paper_id": "https://openalex.org/W4385971914",
+      "title": "Quantum Computation of Dynamical Quantum Phase Transitions and Entanglement Tomography in a Lattice Gauge Theory",
+      "authors": "N. Mueller, Joseph Carolan, And J. N. Connelly, Z. Davoudi, E. Dumitrescu, Kubra Yeter-Aydeniz",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.030323",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3126901030",
+      "paper_id": "https://openalex.org/W3126901030",
+      "title": "Quantum Computation of Finite-Temperature Static and Dynamical Properties of Spin Systems Using Quantum Imaginary Time Evolution",
+      "authors": "Shi-Ning Sun, M. Motta, Ruslan N. Tazhigulov, A. T. Tan, G. Chan, A. Minnich",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010317",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3129777548",
+      "paper_id": "https://openalex.org/W3129777548",
+      "title": "Quantum Computer Systems for Scientific Discovery",
+      "authors": "Y. Alexeev, D. Bacon, K. Brown, Robert Calderbank, L. Carr, F. Chong, B. Demarco, D. Englund, E. Farhi, Bill Fefferman, A. Gorshkov, A. Houck, Jungsang Kim, S. Kimmel, M. Lange, S. Lloyd, M. Lukin, D. Maslov, P. Maunz, C. Monroe, J. Preskill, M. Roetteler, M. Savage, J. Thompson",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.017001",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4401331420",
+      "paper_id": "https://openalex.org/W4401331420",
+      "title": "Quantum Computing for High-Energy Physics: State of the Art and Challenges",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.037001",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4399488743",
+      "paper_id": "https://openalex.org/W4399488743",
+      "title": "Quantum Master Equations: Tips and Tricks for Quantum Optics, Quantum Computing, and Beyond",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020202",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4411175447",
+      "paper_id": "https://openalex.org/W4411175447",
+      "title": "Quantum simulating continuum field theories with large-spin lattice models",
+      "authors": "Gabriele Calliari, M. D. Liberto, Hannes Pichler, Torsten V. Zache",
+      "paper_url": "https://doi.org/10.1103/nt76-ttmj",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4367841521",
+      "paper_id": "https://openalex.org/W4367841521",
+      "title": "Quantum Simulation for High-Energy Physics",
+      "authors": "Christian W. Bauer. Zohreh Davoudi, A. Balantekin, Tanmoy Bhattacharya, M. Carena, W. A. Jong, P. Draper, A. El-Khadra, N. Gemelke, M. Hanada, D. Kharzeev, Henry Lamm, Yingying Li, Junyu Liu, M. Lukin, Y. Meurice, C. Monroe, B. Nachman, G. Pagano, J. Preskill, E. Rinaldi, A. Roggero, D. Santiago, M. Savage, I. Siddiqi, G. Siopsis, D. Zanten, N. Wiebe, Y. Yamauchi, Kubra Yeter-Aydeniz, S. Zorzetti",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.027001",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4394807712",
+      "paper_id": "https://openalex.org/W4394807712",
+      "title": "Quantum Simulation of Bound State Scattering",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020311",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4323543621",
+      "paper_id": "https://openalex.org/W4323543621",
+      "title": "Quantum Simulation of Dissipative Collective Effects on Noisy Quantum Computers",
+      "authors": "M. Cattaneo, M. Rossi, Guillermo Garc'ia-P'erez, R. Zambrini, S. Maniscalco",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010324",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W2995027688",
+      "paper_id": "https://openalex.org/W2995027688",
+      "title": "Quantum Simulators: Architectures and Opportunities",
+      "authors": "E. Altman, K. Brown, Giuseppe Carleo, L. Carr, E. Demler, C. Chin, B. Demarco, S. Economou, M. Eriksson, K. Fu, M. Greiner, K. Hazzard, R. Hulet, Alicia J. Kollár, B. Lev, M. Lukin, R. Ma, X. Mi, S. Misra, C. Monroe, K. Murch, Z. Nazario, Kang-kuen Ni, A. Potter, P. Roushan, M. Saffman, M. Schleier-Smith, I. Siddiqi, R. Simmonds, Meenakshi Singh, I. Spielman, K. Temme, D. Weiss, J. Vučković, V. Vuletić, Jun Ye, M. Zwierlein",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.017003",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3203362314",
+      "paper_id": "https://openalex.org/W3203362314",
+      "title": "Quantum State Control of a Bose-Einstein Condensate in an Optical Lattice",
+      "authors": "N. Dupont, G. Chatelain, L. Gabardos, M. Arnal, J. Billy, B. Peaudecerf, D. Sugny, D. Gu'ery-Odelin",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040303",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3109424834",
+      "paper_id": "https://openalex.org/W3109424834",
+      "title": "Quantum Stochastic Processes and Quantum non-Markovian Phenomena",
+      "authors": "Simon Milz, K. Modi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030201",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4385546210",
+      "paper_id": "https://openalex.org/W4385546210",
+      "title": "Quantum-Classical Decomposition of Gaussian Quantum Environments: A Stochastic Pseudomode Model",
+      "authors": "Si Luo, Neill Lambert, Mauro Cirio",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.030316",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3138349502",
+      "paper_id": "https://openalex.org/W3138349502",
+      "title": "Quantum-Field-Theoretic Simulation Platform for Observing the Fate of the False Vacuum",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010349",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414383127",
+      "paper_id": "https://openalex.org/W4414383127",
+      "title": "Quantum-Trajectory-Inspired Lindbladian Simulation",
+      "authors": "Sirui Peng, Xiaoming Sun, Qi Zhao, Hongyi Zhou",
+      "paper_url": "https://doi.org/10.1103/ssrs-8x32",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4409014094",
+      "paper_id": "https://openalex.org/W4409014094",
+      "title": "Quasiparticle Cooling Algorithms for Quantum Many-Body State Preparation",
+      "authors": "J. Lloyd, A. Michailidis, Xiao Mi, V. Smelyanskiy, D. Abanin",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010361",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3157041929",
+      "paper_id": "https://openalex.org/W3157041929",
+      "title": "Qubit-ADAPT-VQE: An Adaptive Algorithm for Constructing Hardware-Efficient Ansätze on a Quantum Processor",
+      "authors": "Ho Lun Tang, Vladislav O. Shkolnikov, George S. Barron, Harper R. Grimsley, N. Mayhall, Edwin Barnes, S. Economou",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020310",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3135926897",
+      "paper_id": "https://openalex.org/W3135926897",
+      "title": "Real- and Imaginary-Time Evolution with Compressed Quantum Circuits",
+      "authors": "Sheng-Hsuan Lin, R. Dilip, A. Green, Adam Smith, F. Pollmann",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010342",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4409094390",
+      "paper_id": "https://openalex.org/W4409094390",
+      "title": "Real-Time Operator Evolution in Two and Three Dimensions via Sparse Pauli Dynamics",
+      "authors": "Tomislav Begušić, Garnet Kin-Lic Chan",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020302",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4366438916",
+      "paper_id": "https://openalex.org/W4366438916",
+      "title": "Sampling Complexity of Open Quantum Systems",
+      "authors": "I. Aloisio, G. White, C. Hill, K. Modi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020310",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4394912675",
+      "paper_id": "https://openalex.org/W4394912675",
+      "title": "Scalable Circuits for Preparing Ground States on Digital Quantum Computers: The Schwinger Model Vacuum on 100 Qubits",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020315",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4408906309",
+      "paper_id": "https://openalex.org/W4408906309",
+      "title": "Simple and High-Precision Hamiltonian Simulation by Compensating Trotter Error with Linear Combination of Unitary Operations",
+      "authors": "Pei Zeng, Jinzhao Sun, Liang Jiang, Qi Zhao",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010359",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3194756826",
+      "paper_id": "https://openalex.org/W3194756826",
+      "title": "Simulating 2D Effects in Lattice Gauge Theories on a Quantum Computer",
+      "authors": "D. Paulson, Luca Dellantonio, J. Haase, A. Celi, Angus Kan, Andrew Jena, C. Kokail, R. van Bijnen, K. Jansen, P. Zoller, C. Muschik",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030334",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4396813707",
+      "paper_id": "https://openalex.org/W4396813707",
+      "title": "Simulating Open Quantum Systems Using Hamiltonian Simulations",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020332",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4385754723",
+      "paper_id": "https://openalex.org/W4385754723",
+      "title": "Simulating Prethermalization Using Near-Term Quantum Computers",
+      "authors": "Yi-Long Yang, Arthur Christianen, Sandra Coll-Vinent, V. Smelyanskiy, M. Bañuls, T. O’Brien, D. Wild, J. I. Cirac",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.030320",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3212663212",
+      "paper_id": "https://openalex.org/W3212663212",
+      "title": "Simulation of Quantum Many-Body Dynamics with Tensor Processing Units: Floquet Prethermalization",
+      "authors": "A. Morningstar, M. Hauru, J. Beall, M. Ganahl, Adam G. M. Lewis, V. Khemani, G. Vidal",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020331",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4406867917",
+      "paper_id": "https://openalex.org/W4406867917",
+      "title": "Solving Quantum Dynamics with a Lie-Algebra Decoupling Method",
+      "authors": "Sofia Qvarfort, I. Pikovski",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010201",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4402983218",
+      "paper_id": "https://openalex.org/W4402983218",
+      "title": "Spin Exchange-Enabled Quantum Simulator for Large-Scale Non-Abelian Gauge Theories",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030358",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4403683638",
+      "paper_id": "https://openalex.org/W4403683638",
+      "title": "Tangent Space Generators of Matrix Product States and Exact Floquet Quantum Scars",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040311",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4403943995",
+      "paper_id": "https://openalex.org/W4403943995",
+      "title": "Time-Dependent Hamiltonian Simulation Using Discrete-Clock Constructions",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040316",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4415295876",
+      "paper_id": "https://openalex.org/W4415295876",
+      "title": "Towards Robust Variational Quantum Simulation of Lindblad Dynamics via Stochastic Magnus Expansion",
+      "authors": "Jiachen Huang, Hao-En Li, Yi-Cheng Wang, Guang-Ze Zhang, Jun Li, Hanshi Hu",
+      "paper_url": "https://doi.org/10.1103/yyln-q22s",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3201730115",
+      "paper_id": "https://openalex.org/W3201730115",
+      "title": "Trotter Errors from Dynamical Structural Instabilities of Floquet Maps in Quantum Simulation",
+      "authors": "Karthik Chinni, M. Muñoz-Arias, I. Deutsch, P. Poggi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.010351",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4308732958",
+      "paper_id": "https://openalex.org/W4308732958",
+      "title": "Tunable Confinement-Deconfinement Transition in an Ultracold-Atom Quantum Simulator",
+      "authors": "Yanting Cheng, Shang Liu, Weixin Zheng, P. Zhang, H. Zhai",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040317",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4308734504",
+      "paper_id": "https://openalex.org/W4308734504",
+      "title": "Tuning the Topological <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mi>θ</mml:mi></mml:math> -Angle in Cold-Atom Quantum Simulators of Gauge Theories",
+      "authors": "Jad C. Halimeh, I. McCulloch, Bingda Yang, P. Hauke",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040316",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4293238891",
+      "paper_id": "https://openalex.org/W4293238891",
+      "title": "Two-Dimensional <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:msub><mml:mrow><mml:mi mathvariant=\"double-struck\">Z</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub></mml:math> Lattice Gauge Theory on a Near-Term Quantum Simulator: Variational Quantum Optimization, Confinement, and Topological Order",
+      "authors": "Luca Lumia, Pietro Torta, G. Mbeng, G. Santoro, E. Ercolessi, M. Burrello, Matteo M. Wauters",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020320",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414060399",
+      "paper_id": "https://openalex.org/W4414060399",
+      "title": "User-Friendly Truncated Wigner Approximation for Dissipative Spin Dynamics",
+      "authors": "Hossein Hosseinabadi, Oksana Chelpanova, Jamir Marino",
+      "paper_url": "https://doi.org/10.1103/1wwv-k7hg",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4399671470",
+      "paper_id": "https://openalex.org/W4399671470",
+      "title": "Variational Adiabatic Transport of Tensor Networks",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020361",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4387333972",
+      "paper_id": "https://openalex.org/W4387333972",
+      "title": "Variational Quantum Dynamics of Two-Dimensional Rotor Models",
+      "authors": "Matija Medvidovi'c, Dries Sels",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040302",
+      "venue": "quantumPRX23"
+    }
+  ]
+}

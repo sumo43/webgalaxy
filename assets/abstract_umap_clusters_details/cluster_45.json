@@ -26,12 +26,36 @@
       "venue": "corl23"
     },
     {
+      "id": "rss25_rss25_16",
+      "paper_id": "rss25_16",
+      "title": "CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision",
+      "authors": "Gi-Cheon Kang, Junghyun Kim, Kyuhwan Shim, Jun Ki Lee, Byoung-Tak ZhangGi-Cheon Kang, Junghyun Kim, Kyuhwan Shim, Jun Ki Lee, Byoung-Tak Zhang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p016.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl21_9uFiX_HRsIL",
       "paper_id": "9uFiX_HRsIL",
       "title": "CLIPort: What and Where Pathways for Robotic Manipulation",
       "authors": "Mohit Shridhar, Lucas Manuelli, Dieter Fox",
       "paper_url": "https://openreview.net/pdf?id=9uFiX_HRsIL",
       "venue": "corl21"
+    },
+    {
+      "id": "rss25_rss25_72",
+      "paper_id": "rss25_72",
+      "title": "CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity",
+      "authors": "Guang Yin, Yitong Li, Yixuan Wang, Dale Mcconachie, Paarth Shah, Kunimatsu Hashimoto, Huan Zhang, Katherine Liu, Yunzhu LiGuang Yin, Yitong Li, Yixuan Wang, Dale Mcconachie, Paarth Shah, Kunimatsu Hashimoto, Huan Zhang, Katherine Liu, Yunzhu Li",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p072.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_19",
+      "paper_id": "rss25_19",
+      "title": "ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy",
+      "authors": "Yuhui Chen, Shuai Tian, Shugao Liu, Yingting Zhou, Haoran Li, Dongbin ZhaoYuhui Chen, Shuai Tian, Shugao Liu, Yingting Zhou, Haoran Li, Dongbin Zhao",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p019.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_dXSGw7Cy55",
@@ -88,6 +112,30 @@
       "authors": "William Liang, Sam Wang, Hung-Ju Wang, Osbert Bastani, Dinesh Jayaraman, Yecheng Jason Ma",
       "paper_url": "https://openreview.net/pdf?id=F0rWEID2gb",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_12",
+      "paper_id": "rss25_12",
+      "title": "FAST: Efficient Action Tokenization for Vision-Language-Action Models",
+      "authors": "Karl Pertsch, Kyle Stachowicz, Brian Ichter, Danny Driess, Suraj Nair, Quan Vuong, Oier Mees, Chelsea Finn, Sergey LevineKarl Pertsch, Kyle Stachowicz, Brian Ichter, Danny Driess, Suraj Nair, Quan Vuong, Oier Mees, Chelsea Finn, Sergey Levine",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p012.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_17",
+      "paper_id": "rss25_17",
+      "title": "Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success",
+      "authors": "Moo Jin Kim, Chelsea Finn, Percy LiangMoo Jin Kim, Chelsea Finn, Percy Liang",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p017.pdf",
+      "venue": "rss25"
+    },
+    {
+      "id": "rss25_rss25_76",
+      "paper_id": "rss25_76",
+      "title": "From Foresight to Forethought: VLM-In-the-Loop Policy Steering via Latent Alignment",
+      "authors": "Yilin Wu, Thomas Tian, Gokul Swamy, Andrea BajcsyYilin Wu, Thomas Tian, Gokul Swamy, Andrea Bajcsy",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p076.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl23_Ffn8Z4Q-zU",
@@ -202,6 +250,14 @@
       "venue": "corl21"
     },
     {
+      "id": "rss25_rss25_14",
+      "paper_id": "rss25_14",
+      "title": "Learning to Act Anywhere with Task-centric Latent Actions",
+      "authors": "Qingwen Bu, Yanting Yang, Jisong Cai, Shenyuan Gao, Guanghui Ren, Maoqing Yao, Ping Luo, Hongyang LiQingwen Bu, Yanting Yang, Jisong Cai, Shenyuan Gao, Guanghui Ren, Maoqing Yao, Ping Luo, Hongyang Li",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p014.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl22_nPw7jaGBrCG",
       "paper_id": "nPw7jaGBrCG",
       "title": "Leveraging Language for Accelerated Learning of Tool Manipulation",
@@ -232,6 +288,14 @@
       "authors": "Wentao Yuan, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox",
       "paper_url": "https://openreview.net/pdf?id=6zGpfOBImD",
       "venue": "corl23"
+    },
+    {
+      "id": "rss25_rss25_150",
+      "paper_id": "rss25_150",
+      "title": "Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models",
+      "authors": "Chenrui Tie, Shengxiang Sun, Jinxuan Zhu, Yiwei Liu, Jingxiang Guo, Yue Hu, Haonan Chen, Junting Chen, Ruihai Wu, Lin ShaoChenrui Tie, Shengxiang Sun, Jinxuan Zhu, Yiwei Liu, Jingxiang Guo, Yue Hu, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p150.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl22_uCaNr6_dQB0",
@@ -298,6 +362,14 @@
       "venue": "corl24"
     },
     {
+      "id": "rss25_rss25_148",
+      "paper_id": "rss25_148",
+      "title": "PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation",
+      "authors": "Yifan Yin, Zhengtao Han, Shivam Aarya, Shuhang Xu, Jianxin Wang, Jiawei Peng, Angtian Wang, Alan Yuille, Tianmin ShuYifan Yin, Zhengtao Han, Shivam Aarya, Shuhang Xu, Jianxin Wang, Jiawei Peng, Angtian Wang, Alan Yuille, Tianmin Shu",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p148.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl22_PS_eCS_WCvD",
       "paper_id": "PS_eCS_WCvD",
       "title": "Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation",
@@ -336,6 +408,14 @@
       "authors": "Kuo-Hao Zeng, Zichen Zhang, Kiana Ehsani, Rose Hendrix, Jordi Salvador, Alvaro Herrasti, Ross Girshick, Aniruddha Kembhavi, Luca Weihs",
       "paper_url": "https://openreview.net/pdf?id=KdVLK0Wo5z",
       "venue": "corl24"
+    },
+    {
+      "id": "rss25_rss25_145",
+      "paper_id": "rss25_145",
+      "title": "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins",
+      "authors": "Chuanruo Ning, Kuan Fang, Wei-Chiu MaChuanruo Ning, Kuan Fang, Wei-Chiu Ma",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p145.pdf",
+      "venue": "rss25"
     },
     {
       "id": "corl24_KPcX4jetMw",
@@ -466,6 +546,14 @@
       "venue": "corl23"
     },
     {
+      "id": "rss25_rss25_11",
+      "paper_id": "rss25_11",
+      "title": "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Models",
+      "authors": "Delin Qu, Haoming Song, Qizhi Chen, Yuanqi Yao, Xinyi Ye, Jiayuan Gu, Zhigang Wang, Yan Ding, Bin Zhao, Dong Wang, Xuelong LiDelin Qu, Haoming Song, Qizhi Chen, Yuanqi Yao, Xinyi Ye, Jiayuan Gu, Zhigang Wang, Yan Ding, Bin Zhao, Dong Wang, Xuelong Li",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p011.pdf",
+      "venue": "rss25"
+    },
+    {
       "id": "corl24_QtCtY8zl2T",
       "paper_id": "QtCtY8zl2T",
       "title": "Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations",
@@ -512,6 +600,14 @@
       "authors": "Wentao Zhao, Jiaming Chen, Ziyu Meng, DonghuiMao, Ran Song, Wei ZhangWentao Zhao, Jiaming Chen, Ziyu Meng, DonghuiMao, Ran Song, Wei Zhang",
       "paper_url": "https://www.roboticsproceedings.org/rss20/p106.pdf",
       "venue": "rss24"
+    },
+    {
+      "id": "rss25_rss25_10",
+      "paper_id": "rss25_10",
+      "title": "π₀: A Vision-Language-Action Flow Model for General Robot Control",
+      "authors": "Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Robert Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi,...more>Kevin Black, Noah Brown, Danny Driess, Adnan Esmail, Michael Robert Equi, Chelsea Finn, Niccolo Fusai, Lachy Groom, Karol Hausman, Brian Ichter, Szymon Jakubczak, Tim Jones, Liyiming Ke, Sergey Levine, Adrian Li-Bell, Mohith Mothukuri, Suraj Nair, Karl Pertsch, Lucy Xiaoyang Shi, Laura Smith, James Tanner, Quan Vuong, Anna Walling, Haohuan Wang, Ury Zhilinsky",
+      "paper_url": "https://www.roboticsproceedings.org/rss21/p010.pdf",
+      "venue": "rss25"
     }
   ]
 }

@@ -1,0 +1,853 @@
+{
+  "cluster_id": 214,
+  "papers": [
+    {
+      "id": "quantumPRX22_https://openalex.org/W4280608567",
+      "paper_id": "https://openalex.org/W4280608567",
+      "title": "A Taxonomy of Small Markovian Errors",
+      "authors": "R. Blume-Kohout, M. D. da Silva, E. Nielsen, T. Proctor, K. Rudinger, M. Sarovar, Kevin C. Young",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020335",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4411490747",
+      "paper_id": "https://openalex.org/W4411490747",
+      "title": "Arbitrary Nondemolition Measurements through Hamiltonian Stabilization for Quantum Error Correction",
+      "authors": "R. Cortiñas",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020355",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4405071351",
+      "paper_id": "https://openalex.org/W4405071351",
+      "title": "Benchmarking Bosonic Modes for Quantum Information with Randomized Displacements",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040337",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4409215963",
+      "paper_id": "https://openalex.org/W4409215963",
+      "title": "Bosonic Randomized Benchmarking with Passive Transformations",
+      "authors": "Mirko Arienzo, Dmitry Grinko, M. Kliesch, Markus Heinrich",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020305",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4408614393",
+      "paper_id": "https://openalex.org/W4408614393",
+      "title": "Bounding the Systematic Error in Quantum Error Mitigation due to Model Violation",
+      "authors": "Luke C. G. Govia, S. Majumder, S.V. Barron, B. Mitchell, A. Seif, Y. Kim, C. J. Wood, E. Pritchett, S. T. Merkel, D. McKay",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010354",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3097248269",
+      "paper_id": "https://openalex.org/W3097248269",
+      "title": "Character Randomized Benchmarking for Non-Multiplicity-Free Groups With Applications to Subspace, Leakage, and Matchgate Randomized Benchmarking",
+      "authors": "J. Claes, E. Rieffel, Zhihui Wang",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010351",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3206040918",
+      "paper_id": "https://openalex.org/W3206040918",
+      "title": "Characterizing Quantum Instruments: From Nondemolition Measurements to Quantum Error Correction",
+      "authors": "R. Stricker, D. Vodola, A. Erhard, L. Postler, M. Meth, M. Ringbauer, P. Schindler, R. Blatt, M. Muller, T. Monz",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030318",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4390985350",
+      "paper_id": "https://openalex.org/W4390985350",
+      "title": "Compressed Gate Characterization for Quantum Devices with Time-Correlated Noise",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010306",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4323836109",
+      "paper_id": "https://openalex.org/W4323836109",
+      "title": "Compressive Gate Set Tomography",
+      "authors": "Raphael Brieger, I. Roth, M. Kliesch",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010325",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4286219792",
+      "paper_id": "https://openalex.org/W4286219792",
+      "title": "Conditions for Equivalent Noise Sensitivity of Geometric and Dynamical Quantum Gates",
+      "authors": "R. K. Colmenar, Utkan Güngördü, J. Kestner",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030310",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4307380919",
+      "paper_id": "https://openalex.org/W4307380919",
+      "title": "Continuous Quantum Gate Sets and Pulse-Class Meta-Optimization",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040311",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4295013935",
+      "paper_id": "https://openalex.org/W4295013935",
+      "title": "Covariance Matrix Preparation for Quantum Principal Component Analysis",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030334",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4393551144",
+      "paper_id": "https://openalex.org/W4393551144",
+      "title": "Current Fluctuations in Open Quantum Systems: Bridging the Gap Between Quantum Continuous Measurements and Full Counting Statistics",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020201",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4406100748",
+      "paper_id": "https://openalex.org/W4406100748",
+      "title": "Demonstrating Efficient and Robust Bosonic State Reconstruction via Optimized Excitation Counting",
+      "authors": "Tanjung Krisnanda, Clara Yun Fontaine, Adrian Copetudo, Pengtao Song, Kai Xiang Lee, Ni-Ni Huang, Fernando Valadares, Timothy C. H. Liew, Yvonne Y. Gao",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010303",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3193802486",
+      "paper_id": "https://openalex.org/W3193802486",
+      "title": "Doubly Geometric Quantum Control",
+      "authors": "Wenzheng Dong, F. Zhuang, S. Economou, Edwin Barnes",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030333",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4410609525",
+      "paper_id": "https://openalex.org/W4410609525",
+      "title": "Efficient chromatic-number-based multi-qubit decoherence and crosstalk suppression",
+      "authors": "Amy F. Brown, Daniel A. Lidar",
+      "paper_url": "https://doi.org/10.1103/1d4l-73x6",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4406903215",
+      "paper_id": "https://openalex.org/W4406903215",
+      "title": "Efficient Learning of Quantum States Prepared With Few Fermionic Non-Gaussian Gates",
+      "authors": "A. A. Mele, Yaroslav Herasymenko",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010319",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4410032727",
+      "paper_id": "https://openalex.org/W4410032727",
+      "title": "Efficient Pauli Channel Estimation with Logarithmic Quantum Memory",
+      "authors": "Sitan Chen, Weiyuan Gong",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020323",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414091864",
+      "paper_id": "https://openalex.org/W4414091864",
+      "title": "Efficient Quantum Emulation of Unknown Unitaries",
+      "authors": "I. Marvian, Seth Lloyd",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.030346",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3175690595",
+      "paper_id": "https://openalex.org/W3175690595",
+      "title": "Efficient Quantum State Sample Tomography with Basis-Dependent Neural Networks",
+      "authors": "Alistair W. R. Smith, Johnnie Gray, M. Kim",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020348",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4410616179",
+      "paper_id": "https://openalex.org/W4410616179",
+      "title": "Empirical learning of dynamical decoupling on quantum processors",
+      "authors": "Christopher Tong, Helena Zhang, Bibek Pokharel",
+      "paper_url": "https://doi.org/10.1103/h7pq-s159",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4376552618",
+      "paper_id": "https://openalex.org/W4376552618",
+      "title": "Enhanced Estimation of Quantum Properties with Common Randomized Measurements",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010352",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3152899507",
+      "paper_id": "https://openalex.org/W3152899507",
+      "title": "Error Mitigation via Verified Phase Estimation",
+      "authors": "T. O’Brien, S. Polla, N. Rubin, W. Huggins, Sam McArdle, S. Boixo, J. McClean, R. Babbush",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020317",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4310861554",
+      "paper_id": "https://openalex.org/W4310861554",
+      "title": "Error Propagation in NISQ Devices for Solving Classical Optimization Problems",
+      "authors": "Guillermo Gonz'alez-Garc'ia, Rahul Trivedi, J. Cirac",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040326",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4317214331",
+      "paper_id": "https://openalex.org/W4317214331",
+      "title": "Estimating the Bias of <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mrow><mml:mrow><mml:mrow><mml:mstyle mathsize=\"0.85em\"><mml:mi>CX</mml:mi></mml:mstyle></mml:mrow></mml:mrow></mml:mrow></mml:math> Gates via Character Randomized Benchmarking",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010307",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4399391265",
+      "paper_id": "https://openalex.org/W4399391265",
+      "title": "Exact Quantum Sensing Limits for Bosonic Dephasing Channels",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020354",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3210092895",
+      "paper_id": "https://openalex.org/W3210092895",
+      "title": "Experimental Deep Reinforcement Learning for Error-Robust Gate-Set Design on a Superconducting Quantum Computer",
+      "authors": "Y. Baum, Mirko Amico, Shaun Howell, M. Hush, Maggie Liuzzi, Pranav S. Mundada, Thomas Merkh, A. Carvalho, M. Biercuk",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040324",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3048559261",
+      "paper_id": "https://openalex.org/W3048559261",
+      "title": "Experimental Estimation of Quantum State Properties from Classical Shadows",
+      "authors": "G. Struchalin, Ya. A. Zagorovskii, E. Kovlakov, S. Straupe, S. Kulik",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010307",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4307054409",
+      "paper_id": "https://openalex.org/W4307054409",
+      "title": "Experimental Single-Setting Quantum State Tomography",
+      "authors": "R. Stricker, M. Meth, L. Postler, C. Edmunds, C. Ferrie, R. Blatt, P. Schindler, T. Monz, R. Kueng, M. Ringbauer",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040310",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4327713021",
+      "paper_id": "https://openalex.org/W4327713021",
+      "title": "Exploiting Symmetry in Variational Quantum Machine Learning",
+      "authors": "Johannes Jakob Meyer, Marian Mularski, Elies Gil-Fuster, A. A. Mele, F. Arzani, Alissa Wilms, J. Eisert",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010328",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4403065596",
+      "paper_id": "https://openalex.org/W4403065596",
+      "title": "Exponential Learning Advantages with Conjugate States and Minimal Quantum Memory",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040301",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3133063272",
+      "paper_id": "https://openalex.org/W3133063272",
+      "title": "Fast Estimation of Sparse Quantum Noise",
+      "authors": "R. Harper, Wenjun Yu, S. Flammia",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010322",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4404375569",
+      "paper_id": "https://openalex.org/W4404375569",
+      "title": "Feedback-Driven Quantum Reservoir Computing for Time-Series Analysis",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040325",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3184633469",
+      "paper_id": "https://openalex.org/W3184633469",
+      "title": "Frame-Based Filter-Function Formalism for Quantum Characterization and Control",
+      "authors": "Teerawat Chalermpusitarak, Behnam Tonekaboni, Yuanlong Wang, Leigh M. Norris, L. Viola, G. Paz-Silva",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030315",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4401611924",
+      "paper_id": "https://openalex.org/W4401611924",
+      "title": "Fully Scalable Randomized Benchmarking Without Motion Reversal",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030334",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3093093080",
+      "paper_id": "https://openalex.org/W3093093080",
+      "title": "General Framework for Randomized Benchmarking",
+      "authors": "J. Helsen, I. Roth, E. Onorati, A. H. Werner, J. Eisert",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020357",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3211028885",
+      "paper_id": "https://openalex.org/W3211028885",
+      "title": "Generalization in Quantum Machine Learning: A Quantum Information Standpoint",
+      "authors": "L. Banchi, Jason L. Pereira, S. Pirandola",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040321",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4406422040",
+      "paper_id": "https://openalex.org/W4406422040",
+      "title": "Generalized Cycle Benchmarking Algorithm for Characterizing Midcircuit Measurements",
+      "authors": "Zhihan Zhang, Senrui Chen, Yunchao Liu, Liang Jiang",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010310",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3135608407",
+      "paper_id": "https://openalex.org/W3135608407",
+      "title": "Geometrical Formalism for Dynamically Corrected Gates in Multiqubit Systems",
+      "authors": "Donovan Buterakos, S. Sarma, Edwin Barnes",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010341",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4384130559",
+      "paper_id": "https://openalex.org/W4384130559",
+      "title": "Gradient-Ascent Pulse Engineering with Feedback",
+      "authors": "Riccardo Porotti, V. Peano, F. Marquardt",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.030305",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4229000948",
+      "paper_id": "https://openalex.org/W4229000948",
+      "title": "Group-Invariant Quantum Machine Learning",
+      "authors": "Martín Larocca, F. Sauvage, Faris M. Sbahi, Guillaume Verdon, Patrick J. Coles, M. Cerezo",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030341",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4400952054",
+      "paper_id": "https://openalex.org/W4400952054",
+      "title": "High-Fidelity, Multiqubit Generalized Measurements with Dynamic Circuits",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030315",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3214275744",
+      "paper_id": "https://openalex.org/W3214275744",
+      "title": "How To Use Neural Networks To Investigate Quantum Many-Body Physics",
+      "authors": "J. Carrasquilla, G. Torlai",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040201",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4379880464",
+      "paper_id": "https://openalex.org/W4379880464",
+      "title": "Interpretable Quantum Advantage in Neural Sequence Learning",
+      "authors": "E. Anschuetz, Hong-ye Hu, Jin-Long Huang, Xun Gao",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020338",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4285390635",
+      "paper_id": "https://openalex.org/W4285390635",
+      "title": "Is Quantum Advantage the Right Goal for Quantum Machine Learning?",
+      "authors": "M. Schuld, N. Killoran",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030101",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3213744715",
+      "paper_id": "https://openalex.org/W3213744715",
+      "title": "Learnability of Quantum Neural Networks",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040337",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4387707075",
+      "paper_id": "https://openalex.org/W4387707075",
+      "title": "Learning Correlated Noise in a 39-Qubit Quantum Processor",
+      "authors": "R. Harper, S. Flammia",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040311",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3208953599",
+      "paper_id": "https://openalex.org/W3208953599",
+      "title": "Learning Feedback Control Strategies for Quantum Metrology",
+      "authors": "Alessio Fallani, M. Rossi, D. Tamascelli, M. Genoni",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020310",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4400078986",
+      "paper_id": "https://openalex.org/W4400078986",
+      "title": "Learning Quantum Processes Without Input Control",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020367",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4403456854",
+      "paper_id": "https://openalex.org/W4403456854",
+      "title": "Learning Quantum States and Unitaries of Bounded Gate Complexity",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040306",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4389377934",
+      "paper_id": "https://openalex.org/W4389377934",
+      "title": "Learning to Predict Arbitrary Quantum Processes",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040337",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4411418362",
+      "paper_id": "https://openalex.org/W4411418362",
+      "title": "Learning topological states from randomized measurements using variational tensor network tomography",
+      "authors": "Y. Teng, R. Samajdar, Katherine Van Kirk, Frederik Wilde, S. Sachdev, J. Eisert, R. Sweke, Khadijeh Najafi",
+      "paper_url": "https://doi.org/10.1103/qm7q-w9qj",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3211386740",
+      "paper_id": "https://openalex.org/W3211386740",
+      "title": "Learning-Based Quantum Error Mitigation",
+      "authors": "Armands Strikis, Dayue Qin, Yanzhu Chen, S. Benjamin, Ying Li",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040330",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4407173680",
+      "paper_id": "https://openalex.org/W4407173680",
+      "title": "Limitations to Dynamical Error Suppression and Gate-Error Virtualization from Temporally Correlated Nonclassical Noise",
+      "authors": "Michiel Burgelman, Nattaphong Wonglakhon, D. N. Bernal-Garc'ia, G. Paz-Silva, L. Viola",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010323",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3131063246",
+      "paper_id": "https://openalex.org/W3131063246",
+      "title": "Machine Learning of Noise-Resilient Quantum Circuits",
+      "authors": "L. Cincio, K. Rudinger, M. Sarovar, Patrick J. Coles",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010324",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3081712918",
+      "paper_id": "https://openalex.org/W3081712918",
+      "title": "Maximal Entropy Approach for Quantum State Tomography",
+      "authors": "Rishabh Gupta, Rongxin Xia, R. Levine, S. Kais",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010318",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3134909878",
+      "paper_id": "https://openalex.org/W3134909878",
+      "title": "Molecular Machines for Quantum Error Correction",
+      "authors": "T. Guerreiro",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030336",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414655929",
+      "paper_id": "https://openalex.org/W4414655929",
+      "title": "Nearly Query-Optimal Classical Shadow Estimation of Unitary Channels",
+      "authors": "Zihao Li, Changhao Yi, You Zhou, Huangjun Zhu",
+      "paper_url": "https://doi.org/10.1103/wccm-zys6",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3151491202",
+      "paper_id": "https://openalex.org/W3151491202",
+      "title": "Neural-Network Heuristics for Adaptive Bayesian Quantum Estimation",
+      "authors": "Lukas J. Fiderer, Jonas Schuff, D. Braun",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020303",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3174573886",
+      "paper_id": "https://openalex.org/W3174573886",
+      "title": "Non-Markovian Quantum Process Tomography",
+      "authors": "G. White, F. A. Pollock, L. Hollenberg, K. Modi, C. Hill",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020344",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4411182553",
+      "paper_id": "https://openalex.org/W4411182553",
+      "title": "Optimal trace-distance bounds for free-fermionic states: Testing and improved tomography",
+      "authors": "Lennart Bittel, A. A. Mele, J. Eisert, Lorenzo Leone",
+      "paper_url": "https://doi.org/10.1103/pzx6-nkfb",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4400039935",
+      "paper_id": "https://openalex.org/W4400039935",
+      "title": "Optimal Zeno Dragging for Quantum Control: A Shortcut to Zeno with Action-Based Scheduling Optimization",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020366",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4414958613",
+      "paper_id": "https://openalex.org/W4414958613",
+      "title": "Out-of-Distribution Generalization for Learning Quantum Channels with Low-Energy Coherent States",
+      "authors": "Jason L. Pereira, Quntao Zhuang, L. Banchi",
+      "paper_url": "https://doi.org/10.1103/5m7p-kbf3",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4226382090",
+      "paper_id": "https://openalex.org/W4226382090",
+      "title": "Path Integral Framework for Characterizing and Controlling Decoherence Induced by Nonstationary Environments on a Quantum Probe",
+      "authors": "Martin Kuffer, A. Zwick, G. Álvarez",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.020321",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4413468543",
+      "paper_id": "https://openalex.org/W4413468543",
+      "title": "Practical Introduction to Benchmarking and Characterization of Quantum Computers",
+      "authors": "A. Hashim, Long B. Nguyen, Noah Goss, Brian Marinelli, Ravi Naik, Trevor Chistolini, Jordan Hines, J. P. Marceaux, Yosep Kim, P. Gokhale, T. Tomesh, Senrui Chen, Liang Jiang, Samuele Ferracin, K. Rudinger, Timothy Proctor, Kevin C. Young, R. Blume-Kohout, Irfan Siddiqi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.030202",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4399886762",
+      "paper_id": "https://openalex.org/W4399886762",
+      "title": "Practical Trainable Temporal Postprocessor for Multistate Quantum Measurement",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020364",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4392910946",
+      "paper_id": "https://openalex.org/W4392910946",
+      "title": "Precision Bounds on Continuous-Variable State Tomography Using Classical Shadows",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010346",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4402659148",
+      "paper_id": "https://openalex.org/W4402659148",
+      "title": "Preparing Schrödinger Cat States in a Microwave Cavity Using a Neural Network",
+      "authors": "Hector Hutin, Pavlo Bilous, Chengzhi Ye, Sepideh Abdollahi, Loris Cros, Tom Dvir, Tirth Shah, Yonatan Cohen, A. Bienfait, Florian Marquardt, Benjamin Huard",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010321",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4401170191",
+      "paper_id": "https://openalex.org/W4401170191",
+      "title": "Provably Trainable Rotationally Equivariant Quantum Machine Learning",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030320",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4393932775",
+      "paper_id": "https://openalex.org/W4393932775",
+      "title": "Quantum Control of Radical-Pair Dynamics beyond Time-Local Optimization",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020303",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3133137355",
+      "paper_id": "https://openalex.org/W3133137355",
+      "title": "Quantum Enhancements for Deep Reinforcement Learning in Large Spaces",
+      "authors": "S. Jerbi, Lea M. Trenkwalder, Hendrik Poulsen Nautrup, H. Briegel, V. Dunjko",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010328",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4391679242",
+      "paper_id": "https://openalex.org/W4391679242",
+      "title": "Quantum Error Mitigated Classical Shadows",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.010324",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4307889020",
+      "paper_id": "https://openalex.org/W4307889020",
+      "title": "Quantum Error Mitigation via Matrix Product Operators",
+      "authors": "Yuchen Guo, Shuo Yang",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040313",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4407957396",
+      "paper_id": "https://openalex.org/W4407957396",
+      "title": "Quantum Property Preservation",
+      "authors": "Kumar Saurav, Daniel A. Lidar",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010335",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W3216816957",
+      "paper_id": "https://openalex.org/W3216816957",
+      "title": "Quantum Reservoir Computing Using Arrays of Rydberg Atoms",
+      "authors": "Rodrigo Araiza Bravo, K. Najafi, Xun Gao, S. Yelin",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030325",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4389573276",
+      "paper_id": "https://openalex.org/W4389573276",
+      "title": "Quantum State Smoothing Cannot Be Assumed Classical Even When the Filtering and Retrofiltering Are Classical",
+      "authors": "K. Laverick, P. Warszawski, A. Chantasri, H. Wiseman",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040340",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4367178708",
+      "paper_id": "https://openalex.org/W4367178708",
+      "title": "Quantum Tomography of Rydberg Atom Graphs by Configurable Ancillas",
+      "authors": "Kangheun Kim, Jaewook Ahn",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.020316",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4406242105",
+      "paper_id": "https://openalex.org/W4406242105",
+      "title": "Quasiprobabilistic Readout Correction of Midcircuit Measurements for Adaptive Feedback via Measurement Randomized Compiling",
+      "authors": "A. Hashim, Arnaud Carignan-Dugas, Larry Chen, Christian Juenger, Neelay Fruitwala, Yilun Xu, Gang Huang, Joel J. Wallman, Irfan Siddiqi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010307",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4312191685",
+      "paper_id": "https://openalex.org/W4312191685",
+      "title": "Qubit Assignment Using Time Reversal",
+      "authors": "E. Peters, Prasanth Shyamsundar, A. Li, G. Perdue",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.040333",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX22_https://openalex.org/W4225565758",
+      "paper_id": "https://openalex.org/W4225565758",
+      "title": "Randomized Benchmarking beyond Groups",
+      "authors": "Jianxin Chen, D. Ding, Cupjin Huang",
+      "paper_url": "https://doi.org/10.1103/prxquantum.3.030320",
+      "venue": "quantumPRX22"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W4200489278",
+      "paper_id": "https://openalex.org/W4200489278",
+      "title": "Randomized Benchmarking for Non-Markovian Noise",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040351",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3193999244",
+      "paper_id": "https://openalex.org/W3193999244",
+      "title": "Randomized Linear Gate-Set Tomography",
+      "authors": "Yanwu Gu, R. Mishra, B. Englert, H. Ng",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030328",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3131091891",
+      "paper_id": "https://openalex.org/W3131091891",
+      "title": "Ray-Based Framework for State Identification in Quantum Dot Devices",
+      "authors": "J. P. Zwolak, T. McJunkin, Sandesh S. Kalantre, S. Neyens, E. MacQuarrie, M. Eriksson, Jacob M. Taylor",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020335",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4389891443",
+      "paper_id": "https://openalex.org/W4389891443",
+      "title": "Reconstructing Complex States of a <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\"><mml:mn>20</mml:mn></mml:math> -Qubit Quantum Simulator",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040345",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3165574974",
+      "paper_id": "https://openalex.org/W3165574974",
+      "title": "Representation Matching For Remote Quantum Computing",
+      "authors": "Yuxiang Yang, Masahito Hayashi",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.020327",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3215891768",
+      "paper_id": "https://openalex.org/W3215891768",
+      "title": "Resonant Coupling Parameter Estimation with Superconducting Qubits",
+      "authors": "Jérémy H. Béjanin, C. T. Earnest, Y. Sanders, M. Mariantoni",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040343",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4407841519",
+      "paper_id": "https://openalex.org/W4407841519",
+      "title": "Resource-Efficient Context-Aware Dynamical Decoupling Embedding for Arbitrary Large-Scale Quantum Algorithms",
+      "authors": "Paul Coote, Roman Dimov, Smarak Maity, Gavin S. Hartnett, M. Biercuk, Yuval Baum",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010332",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4399568828",
+      "paper_id": "https://openalex.org/W4399568828",
+      "title": "Retrieving Nonlinear Features from Noisy Quantum States",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020357",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3201389697",
+      "paper_id": "https://openalex.org/W3201389697",
+      "title": "Robust Shadow Estimation",
+      "authors": "Senrui Chen, Wenjun Yu, Pei Zeng, S. Flammia",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.030348",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3212592100",
+      "paper_id": "https://openalex.org/W3212592100",
+      "title": "Scalable Mitigation of Measurement Errors on Quantum Computers",
+      "authors": "P. Nation, Hwajung Kang, N. Sundaresan, J. Gambetta",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040326",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4407910963",
+      "paper_id": "https://openalex.org/W4407910963",
+      "title": "Scalable Noise Characterization of Syndrome-Extraction Circuits with Averaged Circuit Eigenvalue Sampling",
+      "authors": "Evan T. Hockings, Andrew C. Doherty, Robin Harper",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010334",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4221161984",
+      "paper_id": "https://openalex.org/W4221161984",
+      "title": "Shadow Distillation: Quantum Error Mitigation with Classical Shadows for Near-Term Quantum Processors",
+      "authors": "Alireza Seif, Ze-Pei Cian, Sisi Zhou, Senrui Chen, Liang Jiang",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010303",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4388824682",
+      "paper_id": "https://openalex.org/W4388824682",
+      "title": "Shadow Tomography on General Measurement Frames",
+      "authors": "L. Innocenti, S. Lorenzo, Ivan Palmisano, F. Albarelli, A. Ferraro, M. Paternostro, G. Palma",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040328",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4324350977",
+      "paper_id": "https://openalex.org/W4324350977",
+      "title": "Suppressing Quantum Circuit Errors Due to System Variability",
+      "authors": "P. Nation, Matthew Treinish",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.010327",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4415228709",
+      "paper_id": "https://openalex.org/W4415228709",
+      "title": "Symmetric Channel Verification for Purifying Noisy Quantum Channels",
+      "authors": "Kento Tsubouchi, Yosuke Mitsuhashi, Ryuji Takagi, Nobuyuki Yoshioka",
+      "paper_url": "https://doi.org/10.1103/jcd6-lft3",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4400914671",
+      "paper_id": "https://openalex.org/W4400914671",
+      "title": "Symmetry Breaking in Geometric Quantum Machine Learning in the Presence of Noise",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.030314",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4396668596",
+      "paper_id": "https://openalex.org/W4396668596",
+      "title": "Theory for Equivariant Quantum Neural Networks",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.020328",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3129077658",
+      "paper_id": "https://openalex.org/W3129077658",
+      "title": "Theory of Quantum System Certification",
+      "authors": "M. Kliesch, I. Roth",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010201",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX23_https://openalex.org/W4388540870",
+      "paper_id": "https://openalex.org/W4388540870",
+      "title": "Time-Dependent Hamiltonian Reconstruction Using Continuous Weak Measurements",
+      "authors": "K. Siva, G. Koolstra, J. Steinmetz, W. Livingston, Debmalya Das, Larry Chen, J. Kreikebaum, N. Stevenson, C. Junger, D. Santiago, I. Siddiqi, A. Jordan",
+      "paper_url": "https://doi.org/10.1103/prxquantum.4.040324",
+      "venue": "quantumPRX23"
+    },
+    {
+      "id": "quantumPRX24_https://openalex.org/W4404320418",
+      "paper_id": "https://openalex.org/W4404320418",
+      "title": "Tomography of a Spatially Resolved Single-Atom Detector in the Presence of Shot-to-Shot Number Fluctuations",
+      "authors": "",
+      "paper_url": "https://doi.org/10.1103/prxquantum.5.040324",
+      "venue": "quantumPRX24"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4411090895",
+      "paper_id": "https://openalex.org/W4411090895",
+      "title": "Tomography of Parametrized Quantum States",
+      "authors": "Franz J. Schreiber, J. Eisert, Johannes Jakob Meyer",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020346",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4408023888",
+      "paper_id": "https://openalex.org/W4408023888",
+      "title": "Triply Efficient Shadow Tomography",
+      "authors": "Robbie King, David Gosset, Robin Kothari, R. Babbush",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.010336",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3211644888",
+      "paper_id": "https://openalex.org/W3211644888",
+      "title": "Universal Compiling and (No-)Free-Lunch Theorems for Continuous-Variable Quantum Learning",
+      "authors": "Tyler Volkoff, Zoe Holmes, A. Sornborger",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.040327",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX21_https://openalex.org/W3021062789",
+      "paper_id": "https://openalex.org/W3021062789",
+      "title": "Using Deep Learning to Understand and Mitigate the Qubit Noise Environment",
+      "authors": "D. Wise, J. Morton, S. Dhomkar",
+      "paper_url": "https://doi.org/10.1103/prxquantum.2.010316",
+      "venue": "quantumPRX21"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4410120682",
+      "paper_id": "https://openalex.org/W4410120682",
+      "title": "Virtual Channel Purification",
+      "authors": "Zhenhuan Liu, Xingjian Zhang, Yueyang Fei, Zhenyu Cai",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020325",
+      "venue": "quantumPRX25"
+    },
+    {
+      "id": "quantumPRX25_https://openalex.org/W4411180018",
+      "paper_id": "https://openalex.org/W4411180018",
+      "title": "Virtual- <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>Z</mml:mi></mml:math> Gates and Symmetric Gate Compilation",
+      "authors": "Arian Vezvaee, Vinay Tripathi, Daria Kowsari, Eli M. Levenson-Falk, Daniel A. Lidar",
+      "paper_url": "https://doi.org/10.1103/prxquantum.6.020348",
+      "venue": "quantumPRX25"
+    }
+  ]
+}
