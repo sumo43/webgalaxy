@@ -19,6 +19,7 @@
 <body>
 <div id="wrap">
   <div id="sidebar">
+    <h1 style="margin: 0 0 10px;">Web Galaxy</h1>
     <h2 style="margin: 6px 0 10px;">Clusters</h2>
     <input id="search" type="search" placeholder="Search title/domain..." />
     <div id="legend"></div>
@@ -75,24 +76,57 @@
 
   const option = {
     backgroundColor: '#0b0f17',
-    tooltip: {
-      formatter: (p) => {
-        const m = p.data.meta;
-        const sum = (m.summary||'').slice(0, 260).replace(/\s+/g,' ') + ((m.summary||'').length>260 ? '…' : '');
-        return `<div style="max-width:360px"><b>${m.title||m.id}</b><br><span class="muted">${m.id}</span><br>${sum}</div>`;
-      }
-    },
+tooltip: {
+    confine: true,
+    enterable: true,
+    extraCssText: 'max-width:360px; white-space:normal; overflow-wrap:anywhere; line-height:1.2;',
+    formatter: (p) => {
+      const m = p.data.meta;
+      const sum = (m.summary || '').replace(/\s+/g,' ').slice(0, 360) + ((m.summary||'').length>360 ? '…' : '');
+      return `
+        <div style="max-width:360px; white-space:normal; overflow-wrap:anywhere; line-height:1.2;">
+          <b>${m.title || m.id}</b><br>
+          <span class="muted">${m.id}</span><br>
+          ${sum}
+        </div>`;
+    }
+  },
+
+
+
     legend: { show: false },
-    xAxis3D: { type: 'value' },
-    yAxis3D: { type: 'value' },
-    zAxis3D: { type: 'value' },
+    xAxis3D: { type: 'value',
+    splitLine: { show: false },
+    },
+    yAxis3D: { type: 'value',
+    splitLine: { show: false },
+     },
+    zAxis3D: { type: 'value',
+        splitLine: { show: false },
+
+     },
     grid3D: {
       viewControl: { projection: 'perspective', autoRotate: false },
-      boxWidth: 180, boxDepth: 180, boxHeight: 180
+      boxWidth: 180, boxDepth: 180, boxHeight: 180,
+      environment: 'space.jpg', 
     },
     series
   };
   chart.setOption(option);
+
+  function normalizeUrl(meta) {
+  const raw = meta.picked_url || meta.id || '';
+  if (!raw) return null;
+  if (/^https?:\/\//i.test(raw)) return raw;
+  return 'https://' + raw.replace(/^\/+/, '');
+}
+
+chart.on('click', (params) => {
+  // Only react to point clicks
+  if (!params?.data?.meta) return;
+  const url = normalizeUrl(params.data.meta);
+  if (url) window.open(url, '_blank', 'noopener');
+});
 
   // Filtering by clicking legend items
   let activeCluster = null;
