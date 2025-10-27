@@ -5,6 +5,11 @@
   <title>Clusters Viewer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
+    .swatch{
+  display:inline-block; width:12px; height:12px; border-radius:3px;
+  margin-right:6px; vertical-align:-2px;
+  border:1px solid rgba(255,255,255,.2);
+}
     html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:#0b0f17; color:#eee; }
     #wrap { display: grid; grid-template-columns: 320px 1fr; height: 100%; }
     #sidebar { padding: 12px 14px; border-right: 1px solid #222; overflow: auto; }
@@ -39,6 +44,12 @@
   const clusters = data.clusters;
   const points = data.points;
 
+  const PALETTE = ['#4aa8ff','#8ccef4','#33c6a0','#f5ed72','#e6843f','#e1a8cc','#7a6ad6','#78c8be','#4aa17e','#e19aa7','#bfbfbf','#995533'];
+const colorForCluster = (id) => PALETTE[Math.abs(id) % PALETTE.length];
+
+clusters.forEach(c => { c.color = colorForCluster(c.id); });
+
+
   // Build legend
   const legendDiv = document.getElementById('legend');
   legendDiv.innerHTML = '';
@@ -46,7 +57,9 @@
     const el = document.createElement('div');
     el.className = 'cluster';
     el.dataset.clusterId = c.id;
-    el.textContent = `#${c.id} — ${c.keywords}`;
+    //el.textContent = `#${c.id} — ${c.keywords}`;
+    el.innerHTML = `<span class="swatch" style="background:${c.color}"></span>#${c.id} — ${c.keywords}`;
+
     const pill = document.createElement('span');
     pill.className = 'pill';
     pill.textContent = c.size;
@@ -65,21 +78,18 @@
     });
   });
 
-  const PALETTE = ['#4aa8ff','#8ccef4','#33c6a0','#f5ed72','#e6843f','#e1a8cc','#7a6ad6','#78c8be'];
-
 
   const chart = echarts.init(document.getElementById('chart'));
 const series = clusters.flatMap(c => {
   const data = clusterMap.get(c.id);
-  const color = PALETTE[c.id % PALETTE.length];
   return [
     // core
     {
       type: 'scatter3D',
       name: `Cluster ${c.id}`,
-      data,
+      data: clusterMap.get(c.id),
       symbolSize: 6,
-      itemStyle: { color, opacity: 0.9 },
+      itemStyle: { color: c.color, opacity: 0.9 },
       emphasis: { focus: 'series', itemStyle: { opacity: 1 } }
     }
   ];
@@ -176,17 +186,15 @@ chart.on('click', (params) => {
   const search = document.getElementById('search');
   search.addEventListener('input', () => {
     const q = search.value.trim().toLowerCase();
-    const newSeries = series.map(s => ({
-      ...s,
-      data: s.data.map(d => {
-        const hay = (d.meta.title || d.meta.id || '').toLowerCase();
-        const hit = q && hay.includes(q);
-        return {
-          ...d,
-          itemStyle: hit ? { opacity: 1 } : { opacity: q ? 0.2 : 1 }
-        };
-      })
-    }));
+const newSeries = series.map(s => ({
+  ...s,
+  data: s.data.map(d => {
+    const hay = (d.meta.title || d.meta.id || '').toLowerCase();
+    const hit = q && hay.includes(q);
+    const op = hit ? 1 : (q ? 0.2 : 1);
+    return { ...d, itemStyle: { ...(d.itemStyle || {}), opacity: op } };
+  })
+}));
     chart.setOption({ series: activeCluster==null ? newSeries : [ newSeries[activeCluster] ] });
   });
 
