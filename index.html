@@ -26,7 +26,6 @@
   <div id="sidebar">
     <h1 style="margin: 0 0 10px;">Web Galaxy</h1>
     <h2 style="margin: 6px 0 10px;">Clusters</h2>
-    <input id="search" type="search" placeholder="Search title/domain..." />
     <div id="legend"></div>
     <p class="muted">Click a cluster to filter; click again to reset.</p>
   </div>
@@ -77,6 +76,8 @@ clusters.forEach(c => { c.color = colorForCluster(c.id); });
       meta: p
     });
   });
+
+  
 
 
   const chart = echarts.init(document.getElementById('chart'));
