@@ -65,14 +65,25 @@
     });
   });
 
+  const PALETTE = ['#4aa8ff','#8ccef4','#33c6a0','#f5ed72','#e6843f','#e1a8cc','#7a6ad6','#78c8be'];
+
+
   const chart = echarts.init(document.getElementById('chart'));
-  const series = clusters.map(c => ({
-    type: 'scatter3D',
-    name: `Cluster ${c.id}`,
-    data: clusterMap.get(c.id),
-    symbolSize: 6,
-    emphasis: { focus: 'series' }
-  }));
+const series = clusters.flatMap(c => {
+  const data = clusterMap.get(c.id);
+  const color = PALETTE[c.id % PALETTE.length];
+  return [
+    // core
+    {
+      type: 'scatter3D',
+      name: `Cluster ${c.id}`,
+      data,
+      symbolSize: 6,
+      itemStyle: { color, opacity: 0.9 },
+      emphasis: { focus: 'series', itemStyle: { opacity: 1 } }
+    }
+  ];
+});
 
   const option = {
     backgroundColor: '#0b0f17',
@@ -94,6 +105,7 @@ tooltip: {
 
 
 
+
     legend: { show: false },
     xAxis3D: { type: 'value',
     splitLine: { show: false },
@@ -109,6 +121,19 @@ tooltip: {
       viewControl: { projection: 'perspective', autoRotate: false },
       boxWidth: 180, boxDepth: 180, boxHeight: 180,
       environment: 'space.jpg', 
+      postEffect: {
+    enable: true,
+    bloom: {
+      enable: true,
+      // optional tunables—safe defaults:
+      threshold: 0.0,   // lower = more pixels glow
+      blurSize: 4       // larger = softer halo
+    },
+    // turn off the heavier ones unless you need them
+    SSAO: { enable: false },
+    depthOfField: { enable: false }
+  },
+  temporalSuperSampling: { enable: true }
     },
     series
   };
